@@ -50,7 +50,7 @@ const Footer = () => {
           <a href="https://learnbay.co/about-us"><p className={styles.FooterInnerli}>About Us</p></a>
           <a href="https://learnbay.co/contact-us"><p className={styles.FooterInnerli}>Contact Us</p></a>
           <a href="https://learnbay.co/demo"><p className={styles.FooterInnerli}>Demo</p></a>
-          <a href="/"><p className={styles.FooterInnerli}>Blogs</p></a>
+          <Link href="/"><p className={styles.FooterInnerli}>Blogs</p></Link>
           <p className={styles.FooterInnerP}>Terms</p>
           <a href="https://learnbay.co/terms-conditions"><p className={styles.FooterInnerli}>Terms and Conditions</p></a>
           <a href="https://learnbay.co/refund-cancellation-policy"><p className={styles.FooterInnerli}>Refund/Cancellation policy</p></a>

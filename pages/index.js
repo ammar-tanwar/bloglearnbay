@@ -14,8 +14,9 @@ export default function blog({ allPostsData }) {
   return (
     <>
       <Head>
-        <title>Learnbay's blog</title>
-        <link rel="icon" href="https://learnbay.co/Learnbay-Favicon-L.webp" />
+        <title>Learnbay Courses</title>
+        <meta name="description" content="Learnbay Courses" />
+        <link   href="/Learnbay-Favicon-L.png" />
       </Head>
       <div className={styles.BackP} style={{marginTop:"70px"}}><h4><b>Our Blogs</b></h4></div>
       <section className={styles.blogHead}>
@@ -111,11 +112,12 @@ export default function blog({ allPostsData }) {
                             <a
                               href={tUrl}
                               target="_blank"
+                              rel="noreferrer"
                               className={styles.link}
                             >
                               <span className={styles.tagSpan}>{tag}</span>
                             </a>
-                            <a href={url} target="_blank">
+                            <a href={url} target="_blank" rel="noreferrer">
                               <h4>{title}</h4>
                             </a>
                             <p>{desc}</p>
@@ -178,11 +180,12 @@ export default function blog({ allPostsData }) {
                             <a
                               href={tUrl}
                               target="_blank"
+                              rel="noreferrer"
                               className={styles.link}
                             >
                               <span className={styles.tagSpan}>{tag}</span>
                             </a>
-                            <a href={url} target="_blank">
+                            <a href={url} target="_blank" rel="noreferrer">
                               <h4>{title}</h4>
                             </a>
                             <p>{desc}</p>

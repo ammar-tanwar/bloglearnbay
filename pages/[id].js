@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 import {
   getAllPostIds,
   getPostData,
@@ -19,9 +20,11 @@ export default function Post({ postData, posts }) {
     <section className={styles.MainS}>
     <Head>
           <title>{postData.title}</title>
+        <meta name="description" content="Learnbay Courses" />
+        <link   href="/Learnbay-Favicon-L.png" />
         </Head>
         <div className={styles.DivImg}>
-        <img src={postData.img} width="100%" height="450px" ></img>
+        <Image src={postData.img} width="100%" height="450px" ></Image>
         </div>
     </section>
 
