@@ -2,7 +2,7 @@
 title: Data Science at Intern Level
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/finance.png"
+headerImg: "/blog/intern.jpg"
 date: "January 7, 2022"
 tag: [ Uncategorized ]
 author: "Admin"
@@ -13,8 +13,12 @@ h1: "Data Science at Intern Level"
 id: "data-science-at-intern-level"
 tableData:
   [
-  Data Science at Intern Level,
-  Introduction, Data Science at Intern level
+ Introduction Data Science at Intern level,
+ Data Science at Intern Level,
+Getting into the field of Data Science,
+Being an intern in Data Science,
+Ideal education background to become a Data Scientist,
+
   
   ]
 ---

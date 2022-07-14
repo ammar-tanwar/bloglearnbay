@@ -13,17 +13,9 @@ h1: "Linear Regression in Machine Learning"
 id: "linear-regression-in-machine-learning"
 tableData:
   [
-    Linear Regression in Machine Learning,
    What is Regression?,
-    There are two methodologies for learning data science online,
-    Why pursue a Data Science course online (instructor-led)?,
-    Know what to learn,
-    Scheduled learning,
-    Doubt Clearance,
-    Career guidance and assistance,
-    Real-time Projects,
-    But Learning cost matter?,
-    So what’s next?,
+    What are overfitting and underfitting?,
+
   ]
 ---
 
@@ -92,7 +84,7 @@ R-squared value is a statistical measure of how close the data to the fitted lin
 
 
 
-### What are overfitting and underfitting?
+## What are overfitting and underfitting?
 
 Overfitting: Good performance on the training data, poor generalization to other data.
 

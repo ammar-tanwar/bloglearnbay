@@ -2,7 +2,7 @@
 title: Reliable sources to understand about Data Science
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/reliable-01.jpg"
+headerImg: "/blog/source.jpg"
 date: "February, 2022"
 tag: [ Data Science ]
 category: "Data Science"

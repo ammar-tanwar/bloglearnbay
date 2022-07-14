@@ -2,7 +2,7 @@
 title: Model vs Algorithm in ML
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/ml.png"
+headerImg: "/blog/model.png"
 date: "April 29, 2021"
 tag: [ Artificial Intelligence ]
 author: "Admin"
@@ -13,9 +13,11 @@ h1: "Model vs Algorithm in ML"
 id: "model-vs-algorithm-in-ml"
 tableData:
   [
-  Model vs Algorithm in ML,
-  Model vs Algorithm in ML Introduction,
-    
+ Model vs Algorithm in ML Introduction,
+What is an algorithm in Machine learning?,
+What is the Model in Machine learning?,
+How the model and algorithms work together in machine learning?,
+Conclusion,    
   ]
 ---
 
@@ -43,7 +45,7 @@ Some of the machine learning algorithms are:
 6. K-means learning
 
 
-### What is an algorithm in Machine learning?
+## What is an algorithm in Machine learning?
 
 An algorithm is a step by step approach powered by statistics that guides the machine learning in its learning process. An algorithm is nothing but one of the several components that constitute a model.
 
@@ -56,7 +58,7 @@ There are several characteristics of machine learning algorithms:
 3. With any of the popular programming languages, machine learning algorithms can be implemented.
 
 
-### What is the Model in Machine learning?
+## What is the Model in Machine learning?
 
 The model is dependent on factors such as features selection, tuning parameters, cost functions along with the algorithm the model just not fully dependent on algorithms.
 
@@ -74,7 +76,7 @@ A model contains four major steps that are:
 4. performance measurement.
 
 
-### How the model and algorithms work together in machine learning?
+## How the model and algorithms work together in machine learning?
 
 For example:
 
@@ -105,7 +107,7 @@ The “algorithm” might be treating all the data the same but it is the “mod
 After building a model, a data science enthusiasts test it to get the accuracy of that model and fine-tuning to improve the results.
 
 
-### Conclusion
+## Conclusion
 
 This article may help you yo understand about the algorithm and model (Model Vs Algorithm in ML) in Machine learning and its relationship. In summary, an algorithm is a process or a technique that we follow to get the result or to find the solution to a problem.
 

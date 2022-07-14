@@ -13,8 +13,9 @@ h1: "Advanced Data science Course Training in Bangalore"
 id: "how-does-data-science-promote-project-managers-to-a-new-perspective-of-success"
 tableData:
   [
-    Advanced Data science Course Training in Bangalore,
-    How does Data Science Help Managers In Businesses?.,
+    Old School Project Management expertise Is Now outdated? But Businesses Saved And Revived By Data Science orientation,
+    How does Data Science Help Managers In Businesses?,
+    Summary,
   ]
 ---
 
@@ -36,7 +37,7 @@ Organizations are integrating data science into their business to simplify regul
 It is a well-known truth that modern businesses are completely about data. In the previous year,[ McKinsey](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/the-big-data-revolution-in-us-health-care) estimated that the U.S healthcare system has reduced healthcare project management spending. $2.6 trillion baselines around 12-17% cost on earlier spending on the same. And big data is roughly costing $3.1 trillion a year to the U.S. Data science is not so easy to implement technically and financially as it needs a lot of investment. But yes, the ultimate gain is quite lucrative.
 
 
-#### How does Data Science Help Managers In Businesses?
+## How does Data Science Help Managers In Businesses?
 
 
 
@@ -124,7 +125,7 @@ Managers review decisions for an appropriate action strategy using a variety of 
 *  Project executive’s requirements. :- Managers use data science to forecast future growth based on the requirements that their workforce needs. By this, they can increase performance and revenue hand-in-hand.
 
 
-#### Summary
+## Summary
 
 In this blog, we have shared how data science assists managers in business processes and decisions. By now, you would have known the data science abilities and how it helps managers in developing businesses. Every organization is taking the help of data science and AI, and managers can be more sure of the decisions they make. A job-ready[ data science certification course for managers](https://www.learnbay.co/data-science-course/data-science-ai-for-managers/) can surely help you in this regard.
 

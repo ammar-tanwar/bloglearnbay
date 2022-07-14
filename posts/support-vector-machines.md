@@ -2,7 +2,7 @@
 title: Support Vector Machine
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/svm.png"
+headerImg: "/blog/vector.png"
 date: "November 25, 2022"
 tag: [ Machine Learning ]
 category: "Machine Learning"
@@ -13,8 +13,9 @@ h1: "Support Vector Machine"
 id: "support-vector-machines"
 tableData:
   [
-    Support Vector Machine,
-    Introduction of  Support Vector Machine,
+   Introduction of  Support Vector Machine,
+   Feature of Support Vector Machine SVM-,
+
   ]
 ---
 
@@ -194,7 +195,7 @@ In the linear classifier model, we assumed that training examples plotted in spa
 In the real world, our dataset is generally dispersed up to some extent. To solve this problem separation of data into different classes based on a straight linear hyperplane can’t be considered a good choice. For this Vapnik suggested creating Non-Linear Classifiers by applying the kernel trick to maximum-margin hyperplanes. In Non-Linear SVM Classification, data points plotted in a higher-dimensional space.
 
 
-<img src="/blog/svm-01.png" width="100%" /></img>
+<img src="/blog/vector1.png" width="100%" /></img>
 
 
 [Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM.

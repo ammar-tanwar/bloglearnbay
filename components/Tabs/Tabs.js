@@ -62,6 +62,7 @@ const Tabs = () => {
                         src="/Advance-Data-Science.webp"
                         width="180"
                         height="55"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -71,6 +72,7 @@ const Tabs = () => {
                         src="/Data-Science-and-AI-for.webp"
                         width="180"
                         height="55"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -82,6 +84,7 @@ const Tabs = () => {
                         src="/full-stack-developer.webp"
                         width="180"
                         height="55"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -91,6 +94,7 @@ const Tabs = () => {
                           src="/Artificial-Intelligence.webp"
                           width="180"
                           height="55"
+                          alt="Learnbay" 
                         />
                       </div>
                     </div></a>
@@ -102,6 +106,7 @@ const Tabs = () => {
                         src="/full-stack-development.webp"
                         width="180"
                         height="55"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -113,6 +118,7 @@ const Tabs = () => {
                           src="/JOB.webp"
                           width="180"
                           height="55"
+                          alt="Learnbay" 
                         />
                       </div>
                   </div></a>
@@ -162,6 +168,7 @@ const Tabs = () => {
                       src="/DATA-SCIENCE-AND-AI.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                       />
                   </div>
                 </div></a>
@@ -171,6 +178,7 @@ const Tabs = () => {
                       src="/Data-Science-and-AI-for.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -182,6 +190,7 @@ const Tabs = () => {
                         src="/Advance-Data-Science.webp"
                         width="180"
                         height="55"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -191,6 +200,7 @@ const Tabs = () => {
                       src="/Artificial-Intelligence.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -202,6 +212,7 @@ const Tabs = () => {
                       src="/JOB.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -213,6 +224,7 @@ const Tabs = () => {
                       src="/BA.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -256,6 +268,7 @@ const Tabs = () => {
                       src="/full-stack-development.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -267,6 +280,7 @@ const Tabs = () => {
                       src="/full-stack-developer.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -316,6 +330,7 @@ const Tabs = () => {
                         src="/JOB.webp"
                         width="180"
                         height="55"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -327,6 +342,7 @@ const Tabs = () => {
                       src="/full-stack-development.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -376,6 +392,7 @@ const Tabs = () => {
                       src="/DATA-SCIENCE-AND-AI.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                       />
                   </div>
                 </div></a>
@@ -385,6 +402,7 @@ const Tabs = () => {
                       src="/full-stack-developer.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -396,6 +414,7 @@ const Tabs = () => {
                       src="/Advance-Data-Science.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -405,6 +424,7 @@ const Tabs = () => {
                       src="/full-stack-development.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -416,6 +436,7 @@ const Tabs = () => {
                       src="/Artificial-Intelligence.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -425,6 +446,7 @@ const Tabs = () => {
                       src="/Data-Science-and-AI-for.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -436,6 +458,7 @@ const Tabs = () => {
                       src="/JOB.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -445,6 +468,7 @@ const Tabs = () => {
                       src="/BA.webp"
                       width="180"
                       height="55"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -457,6 +481,7 @@ const Tabs = () => {
                       width="180"
                       height="55"
                       layout="intrinsic"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -480,6 +505,7 @@ const Tabs = () => {
                       src="/Advance-Data-Science.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -489,6 +515,7 @@ const Tabs = () => {
                       src="/Data-Science-and-AI-for.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -500,6 +527,7 @@ const Tabs = () => {
                       src="/full-stack-developer.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -509,6 +537,7 @@ const Tabs = () => {
                         src="/Artificial-Intelligence.webp"
                         width="300"
                         height="80"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -520,6 +549,7 @@ const Tabs = () => {
                       src="/full-stack-development.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -531,6 +561,7 @@ const Tabs = () => {
                         src="/JOB.webp"
                         width="300"
                         height="80"
+                        alt="Learnbay" 
                       />
                     </div>
                 </div></a>
@@ -548,6 +579,7 @@ const Tabs = () => {
                       src="/DATA-SCIENCE-AND-AI.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -561,6 +593,7 @@ const Tabs = () => {
                       src="/Advance-Data-Science.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -574,6 +607,7 @@ const Tabs = () => {
                       src="/Artificial-Intelligence.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -583,6 +617,7 @@ const Tabs = () => {
                       src="/Data-Science-and-AI-for.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -594,6 +629,7 @@ const Tabs = () => {
                       src="/JOB.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -603,6 +639,7 @@ const Tabs = () => {
                       src="/BA.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -620,6 +657,7 @@ const Tabs = () => {
                         src="/full-stack-development.webp"
                         width="300"
                         height="80"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -631,6 +669,7 @@ const Tabs = () => {
                         src="/full-stack-developer.webp"
                         width="300"
                         height="80"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -648,6 +687,7 @@ const Tabs = () => {
                         src="/JOB.webp"
                         width="300"
                         height="80"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -659,6 +699,7 @@ const Tabs = () => {
                         src="/full-stack-development.webp"
                         width="300"
                         height="80"
+                        alt="Learnbay" 
                       />
                     </div>
                   </div></a>
@@ -676,6 +717,7 @@ const Tabs = () => {
                       src="/DATA-SCIENCE-AND-AI.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -686,6 +728,7 @@ const Tabs = () => {
                       src="/full-stack-development.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -697,6 +740,7 @@ const Tabs = () => {
                       src="/Advance-Data-Science.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -707,6 +751,7 @@ const Tabs = () => {
                       src="/full-stack-developer.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -718,6 +763,7 @@ const Tabs = () => {
                       src="/Artificial-Intelligence.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -727,6 +773,7 @@ const Tabs = () => {
                       src="/Data-Science-and-AI-for.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -738,6 +785,7 @@ const Tabs = () => {
                       src="/JOB.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -747,6 +795,7 @@ const Tabs = () => {
                       src="/BA.webp"
                       width="300"
                       height="80"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>
@@ -759,6 +808,7 @@ const Tabs = () => {
                       width="300"
                       height="80"
                       layout="intrinsic"
+                      alt="Learnbay" 
                     />
                   </div>
                 </div></a>

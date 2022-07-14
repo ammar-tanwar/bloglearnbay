@@ -13,8 +13,9 @@ h1: "Necessity of Machine Learning in Retail"
 id: "necessity-of-machine-learning-in-retail"
 tableData:
   [
-    Necessity of Machine Learning in Retail
-    Online data science courses are still the best option but the recorded video-based ones are the worst.,
+    Necessity of Machine Learning in Retail,
+Advanced Data science Course Training in Bangalore,
+
   ]
 ---
 
@@ -41,7 +42,7 @@ Conversion notes:
 [learnbay.co](https://www.learnbay.co/data-science-course/necessity-of-machine-learning-in-retail/)
 
 
-# Advanced Data science Course Training in Bangalore
+## Advanced Data science Course Training in Bangalore
 
 Learnbay
 

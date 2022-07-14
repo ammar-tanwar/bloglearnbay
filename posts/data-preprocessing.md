@@ -2,7 +2,7 @@
 title: Everything About Data Preprocessing
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/dp.png"
+headerImg: "/blog/databack.jpg"
 date: "November 25, 2021"
 tag: [ Data Science]
 author: "Admin"
@@ -13,8 +13,8 @@ h1: "Everything About Data Preprocessing"
 id: "data-preprocessing"
 tableData:
   [
-  Everything About Data Preprocessing,
   Data Preprocessing,
+  Preprocessing of data in a stepwise fashion in scikit learn,
     
   ]
 ---
@@ -95,7 +95,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<img src="/blog/dp4.png" width="100%" /></img>
+<img src="/blog/data4.png" width="100%" /></img>
 
 
 6. Binarization

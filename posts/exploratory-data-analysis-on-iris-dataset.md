@@ -2,7 +2,7 @@
 title: Exploratory Data Analysis on Iris dataset
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/finance.png"
+headerImg: "/blog/exp.png"
 date: "January 3, 2021"
 tag: [ Uncategorized ]
 author: "Admin"
@@ -13,13 +13,13 @@ h1: "Exploratory Data Analysis on Iris dataset"
 id: "exploratory-data-analysis-on-iris-dataset"
 tableData:
   [
-  Exploratory Data Analysis on Iris dataset,
-
+ What is EDA?,
+ 
   
   ]
 ---
 
-### What is EDA?
+## What is EDA?
 
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, spot anomalies, to test hypotheses and to check assumptions with the help of summary statistics and graphical representations.
 

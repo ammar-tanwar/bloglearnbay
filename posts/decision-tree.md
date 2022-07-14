@@ -13,27 +13,33 @@ h1: "Everything About Decision Tree From Scratch"
 id: "decision-tree"
 tableData:
   [
-  Everything About Decision Tree From Scratch,
- 
+ Decision tree,
+ What is Classification?,
+ Types of classification,
+ Entropy(Play|Outlook=Sunny),
+ Since, it's a homogenous data entropy will be 0,
+ Entropy(Play_Sunny|),
+ Entropy(Play_Sunny|),
+
     
   ]
 ---
 
-### Decision tree:
+## Decision tree:
 
 The decision tree is the classification algorithm in ML(machine learning). A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements.
 
 To understand the algorithm of the decision tree we need to know about the classification.
 
 
-### What is Classification?
+## What is Classification?
 
 Classification is the process of dividing the datasets into different categories or groups by adding a label. It adds the data point to a particular labeled group on the basis of some condition.
 
 As we see in daily life there are three categories in an email(Spam, Promotions, Personal) they are classified to get the proper information. Here decision tree is used to classify the mail type and fix it the proper one.
 
 
-#### Types of classification 
+## Types of classification 
 
 
 
@@ -152,7 +158,7 @@ Information Gain on splitting by Outlook
 
 play_data[play_data.outlook == 'sunny'] 
 
-# Entropy(Play|Outlook=Sunny)
+## Entropy(Play|Outlook=Sunny)
 
 Entropy_Play_Outlook_Sunny =-(3/5)*np.log2(3/5) -(2/5)*np.log2(2/5)
 
@@ -160,7 +166,7 @@ Entropy_Play_Outlook_Sunny
 
 play_data[play_data.outlook == 'overcast'] # Entropy(Play|Outlook=overcast)
 
-# Since, it's a homogenous data entropy will be 0
+## Since, it's a homogenous data entropy will be 0
 
 play_data[play_data.outlook == 'rainy'] # Entropy(Play|Outlook=rainy)
 
@@ -168,7 +174,7 @@ Entropy_Play_Outlook_Rain = -(2/5)*np.log2(2/5) - (3/5)*np.log2(3/5)
 
 print(Entropy_play_Outlook_Rain)
 
-# Entropy(Play_Sunny|)
+## Entropy(Play_Sunny|)
 
 Entropy_Play_Outlook_Sunny =-(3/5)*np.log2(3/5) -(2/5)*np.log2(2/5)
 
@@ -199,7 +205,7 @@ Entropy_Play_Outlook_Sunny =-(3/5)*np.log2(3/5) -(2/5)*np.log2(2/5)
 
 print(Entropy_Play_Outlook_Sunny)
 
-# Entropy(Play_Sunny|)
+## Entropy(Play_Sunny|)
 
 Entropy_Play_Outlook_Sunny =-(3/5)*np.log2(3/5) -(2/5)*np.log2(2/5)
 

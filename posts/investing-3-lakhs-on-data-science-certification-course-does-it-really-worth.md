@@ -14,8 +14,8 @@ id: "investing-3-lakhs-on-data-science-certification-course-does-it-really-worth
 tableData:
   [
     Investing 3 lakhs on Data science Certification Course? Is it really worth it,
-    Is a data science course or certification a complete waste?,
-    How much money should you invest in a data science course,
+How much money should you invest in a data science course?,
+
   ]
 ---
 

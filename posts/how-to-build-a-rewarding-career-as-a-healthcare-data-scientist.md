@@ -13,8 +13,8 @@ h1: "How to Build a Rewarding Career As a Healthcare Data Scientist?"
 id: "media-hospitality-and-transportation-know-how-data-science-will-help-you-to-survive"
 tableData:
   [
-   How to Build a Rewarding Career As a Healthcare Data Scientist?,
-   Data Science in Healthcare– Know The Hidden Scopes,
+  Data Science in Healthcare– Know The Hidden Scopes,
+Conclusion,
     
   ]
 ---
@@ -40,16 +40,16 @@ This blog will help you familiarize yourself with everything you need to know as
 
 
 
-* What role does data play in the healthcare sector? \
-The healthcare industry contributes a substantial amount of data to the global data pool \
-_[Data science and AI](https://www.learnbay.co/data-science-course/data-science-certification-courses/)_ have the potential to transform how care is delivered.  \
+* What role does data play in the healthcare sector? 
+The healthcare industry contributes a substantial amount of data to the global data pool 
+_[Data science and AI](https://www.learnbay.co/data-science-course/data-science-certification-courses/)_ have the potential to transform how care is delivered.  
 Today Medical Science has advanced rapidly, increasing life expectancy around the world. However, as longevity increases, the healthcare system faces a growing demand for their services, rising expenses, and a workforce struggling to meet the requirements of their patients. 
-* 5 Major Applications of Data Science in Healthcare \
+* 5 Major Applications of Data Science in Healthcare 
 
 <img src="/blog/health1.png" width="100%" /></img>
 
 
- \
+ 
 Data Science has already begun to address all of these issues in order to achieve the desired result. As Data Science is now benefiting society, its applications undoubtedly will be more valuable than ever. It will propel the healthcare business forward. Doctors will have a lot of assistance, while patients will have a more personalized experience and treatments.  Let’s look at some of the essential applications in healthcare:
 * Predictive analysis: The predictive analysis model generates predictions about a patient’s status. It analyzes various correlations between symptoms, behaviors, and diseases and generates relevant predictions. It also enables healthcare to build predictive models using data science which in turn makes it possible to identify potential risks before they arrive.
 * Medical image analysis: Medical imaging is the most common application of the data science healthcare industry. Techniques like X-ray, MRI, and CT scan reveal the inner parts of the human body. With the advent of deep learning, it is now possible to identify the defects in the human body and help doctors in developing successful treatment options.
@@ -131,36 +131,36 @@ Here are some project ideas you can work on to level-up your portfolio:
 
 
 
-1. Medical image segmentation: Medical image segmentation is the process of extracting areas of interest from 3D image data, such as Magnetic Resonance Imaging (MRI)  or Computerized Tomography (CT) scans. The main purpose of this project is to identify the areas of anatomy required for a particular investigation. \
+1. Medical image segmentation: Medical image segmentation is the process of extracting areas of interest from 3D image data, such as Magnetic Resonance Imaging (MRI)  or Computerized Tomography (CT) scans. The main purpose of this project is to identify the areas of anatomy required for a particular investigation. 
  
 <img src="/blog/health3.jpg" width="100%" /></img>
 
 
- \
+ 
 [ Image segmentation dataset by Kaggle](https://www.kaggle.com/competitions/siim-acr-pneumothorax-segmentation/data)
 2. Ultrasound nerve segmentation: It is very crucial to accurately identify the neural structure in ultrasound images before inserting the patient’s pain catheter. In this project, you’ll learn how cutting-edge deep learning techniques are utilized to develop an end-to-end system where a person just feeds on an ultrasound image of the region to a deep learning model where it segments the nerve seen in the image.
 
 <img src="/blog/health4.jpg" width="100%" /></img>
 
- \
+ 
 [ Ultrasound Nerve Segmentation dataset from Kaggle](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=train_masks.csv)
 3. Heart failure prediction: Heart failure is a common consequence of cardiovascular diseases (CVDs) resulting in an increase in mortality rate. In this project, you’ll build a machine learning model that predicts mortality by heart failure. Throughout this project, you’ll learn multiple ML algorithms including Random Forest and K-NN, data wrangling, and filtering techniques.
 
 <img src="/blog/health5.jpg" width="100%" /></img>
 
- \
+ 
 [ Heart failure prediction dataset from Kaggle](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
 4. Depression, anxiety, and stress prediction: Depression and stress Detection is the challenge of identifying signs of depression in individuals. This sign may be identified in several behavioral changes in a person. These symptoms can be predicted by developing a model with AI and ML algorithms such as CNN,[ support vector machine](https://www.learnbay.co/data-science-course/support-vector-machines/), KNN classifier, and linear regression.
 
 <img src="/blog/health6.jpg" width="100%" /></img>
 
- \
+ 
 [ Depression analysis dataset by Kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset)
 5. Breast cancer prediction: Breast cancer affects approximately 12% of women worldwide and is on the verge to rise even more. This project helps doctors to predict whether a patient has breast cancer or not. You’ll be required to create an ML model to classify malignant and benign tumors by utilizing the supervised machine learning classifier technique.
 
 <img src="/blog/health7.jpg" width="100%" /></img>
 
- \
+ 
 [ Breast cancer prediction dataset by Kaggle](https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction)
 
 The first crucial step in becoming a healthcare data scientist is earning a Bootcamp certification or a master’s degree that gives you the expertise and skills to succeed. 
@@ -170,7 +170,7 @@ Most people consider self-study or enrolling in a Bootcamp.
 _Learnbay_ is a well-known institute for learning data science concepts. They offer affordable, flexible, and beginner-friendly[ Data science and AI courses](https://www.learnbay.co/data-science-course/data-science-certification-courses/)_ in Bangalore_ and globally as well. You’ll gain knowledge of advanced DS and AI tools and concepts that are effectively used in the Healthcare domain. Their case studies and industry projects in healthcare will help you stand out from the competition.
 
 
-##### Conclusion
+## Conclusion
 
 By now, you’ve seen that DS has revolutionized the healthcare industry in large ways and how Healthcare and pharmaceutical industries have heavily utilized data science and AI to improve patient lifestyles. I hope this blog helped you understand the value of domain expertise in healthcare.
 

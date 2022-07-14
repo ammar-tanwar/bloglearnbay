@@ -2,7 +2,7 @@
 title: Random forest model(RFM)
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/random.png"
+headerImg: "/blog/rfm.jpg"
 date: "December 20, 2022"
 tag: [ Machine Learning ]
 category: "Machine Learning"
@@ -13,8 +13,10 @@ h1: "Advanced Data science Course Training in Bangalore"
 id: "random-forest-model-rfm"
 tableData:
   [
-    Advanced Data science Course Training in Bangalore
-    Random forest model(RFM),
+   Random Forest Model Introduction,
+Random Forest Model Algorithm Working,
+What is the Out of Bag score in Random Forests?,
+
   
   ]
 ---
@@ -27,7 +29,7 @@ Random Forest Model is also a classification model with the combination of the d
 The random forest model follows an ensemble technique. It involves constructing multi decision trees at training time. Its prediction is based on mode for classification and means for regression tree. It helps to reduce the overfitting of the individual decision tree. There are many possibilities for the occurrence of overfitting.
 
 
-### Random Forest Model Algorithm: Working
+## Random Forest Model Algorithm: Working
 
 We can understand the working of the Random Forest algorithm with the help of following steps −
 
@@ -36,7 +38,7 @@ We can understand the working of the Random Forest algorithm with the help of fo
 * Step 1 − First, start with the selection of random samples from a given dataset. Do sampling without replacement.
 
 
-<img src="/blog/random-01.png" width="100%" /></img>
+<img src="/blog/rfm1.png" width="100%" /></img>
 
 
 Sampling without replacement stats that the training data split into several small samples and then the result we get is a combination of all the data set. If we have 1000 features in a data set the splitting will happen with 10 features each in a small training data and all split training data contains equal no of features. The result is based on which training data has the highest value.
@@ -52,7 +54,7 @@ Sampling without replacement stats that the training data split into several sma
 Step 4 − At last, select the most voted prediction result as the final prediction result.
 
 
-### What is the Out of Bag score in Random Forests?
+## What is the Out of Bag score in Random Forests?
 
 Out of bag (OOB) score is a way of validating the Random forest model. Below is a simple intuition of how is it calculated followed by a description of how it is different from the validation score and where it is advantageous.
 
@@ -278,7 +280,7 @@ plt.legend(loc="lower right")
 plt.show()
 
 
-<img src="/blog/random-02.png" width="100%" /></img>
+<img src="/blog/rfm2.png" width="100%" /></img>
 
 
 
@@ -339,7 +341,7 @@ plot_confusion_matrix(predictions, normalize=False)
 plt.show()
 
 
-<img src="/blog/random-03.png" width="100%" /></img>
+<img src="/blog/rfm3.png" width="100%" /></img>
 
 
 

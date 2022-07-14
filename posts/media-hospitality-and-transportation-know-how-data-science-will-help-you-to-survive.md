@@ -14,7 +14,13 @@ id: "media-hospitality-and-transportation-know-how-data-science-will-help-you-to
 tableData:
   [
     Advanced Data science Course Training in Bangalore,
-    Need for Data Science in Media, Hospitality, and Transportation.,
+Need for Data Science in Media, Hospitality, and Transportation,
+What are data science tools used in the media, hospitality, and transportation industries?,
+Companies Hiring Data Scientists in the Media, Transportation, and Hospitality Industry,
+Projects,
+Conclusion,
+
+
   ]
 ---
 
@@ -64,13 +70,13 @@ Every day, digital reality presents new challenges to big players in the enterta
 
 
 
-* Personalized Marketing \
+* Personalized Marketing 
 A company’s ability to attract customers’ attention is crucial, especially if it is involved in the entertainment and media business. It is more difficult to keep customers’ attention when they have had a quick and memorable online experience.
-* Real-time analytics \
+* Real-time analytics 
 The name real-time analytics refers to the ability to process data quickly and present the results in a short time. The speed at which media and entertainment companies process the data is crucial.
-* Content distribution on social media \
+* Content distribution on social media 
 Social media has given media and entertainment companies a wonderful opportunity to strengthen their marketing strategies through the powerful tool of social content distribution. For large media companies, it is now possible to view general tendencies, user preferences, experiences, interests, and histories in one click.
-* Analysis of media content usage \
+* Analysis of media content usage 
 Big media companies can use data science algorithms to make data work for them and generate profit. Media content analysis is a well-developed method that analyses the message and connotations of content. The media content analysis process consists of three main levels: capture and understand. The algorithms identify patterns and incidents within the text. The data can then be processed. These frameworks are used to define the tone of the text. Its influence on the user can be predicted.
 
 
@@ -125,11 +131,11 @@ Personalization has another advantage. This is allowing the transportation indus
 
 
 
-* Identifying MVCs (Most Valuable Customers) \
+* Identifying MVCs (Most Valuable Customers) 
 Some customers will travel more than others; it is a fact. Companies need to be aware of major players to avoid customer churn. Already, the travel industry has a huge legacy of data about MVCs from loyalty programs. Combining historical data with predictive and real-time analytics is the key to anticipating what MVCs want in the future. It is much more expensive to acquire a customer than keep an existing one.
-* Up-Selling and Cross-Selling \
+* Up-Selling and Cross-Selling 
 Let’s suppose you are traveling to Buenos Aires to attend a four-day business conference and that you decide to spend a weekend exploring the city. You want a flight that departs Sunday and arrives early Monday. Your airline will offer cross-selling and upselling opportunities if it has DS.
-* Safer Travel \
+* Safer Travel 
 DS can save lives when it comes to safety. A wide range of sensors is available in today’s automobiles, trains, and planes. These sensors provide control centers with continuous streaming data that provides real-time information on all aspects of the journey (e.g., driver behavior, environment, performance, etc. ). Transportation data scientists have this information and develop complex algorithms to predict and even prevent problems.
 
 
@@ -171,7 +177,7 @@ The most popular Data Analysis tool. Microsoft originally developed Excel for sp
 
 Image by Author
 
-                                                                 Source: Glassdoor Salary Insights
+Source: Glassdoor Salary Insights
 
 
 ### Media
@@ -230,9 +236,9 @@ Data scientists’ salary in India, with less than one year experience or more t
 * ElasticRun offers 9.3 Lakhs per annum for DS specialists with 1-5 years of experience.
 * Citadel offers 12 lakhs per annum for Data scientists with 2 to 3 years of experience in the field.
 * RedBus offers 15.6 lakhs per annum for data scientists with 2 to 3 years of experience.
-* Indian Railway Catering and Tourism offers 31.8 lakhs per annum for DS specialists with 2 to 4 years of experience. \
- \
-How can Learnbay help you? \
+* Indian Railway Catering and Tourism offers 31.8 lakhs per annum for DS specialists with 2 to 4 years of experience. 
+ 
+How can Learnbay help you? 
 Learnbay offers one of the best[ data science courses in Bangalore](https://www.learnbay.co/data-science-course/data-science-online-training-in-bangalore/) and also offers an array of domain electives. One of which is Media, Hospitality, and Transportation. Let’s see some of the features of Learnbay and its domain electives.
 
 
@@ -253,7 +259,7 @@ Learnbay offers one of the best[ data science courses in Bangalore](https://www.
 * Satisfying customer needs
 
 
-### Projects
+## Projects
 
 Learnbay teaches you practically through projects. These are some of them.
 

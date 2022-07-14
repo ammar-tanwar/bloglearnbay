@@ -13,8 +13,9 @@ h1: "Evolution of Data Science in India"
 id: "evolution-of-data-science-in-india"
 tableData:
   [
-  Evolution of Data Science in India,
- 
+ History Of Data Science,
+ Evolution of Data Science in India
+
     
   ]
 ---
@@ -25,7 +26,7 @@ Let’s observe the definition of Data Science, it is a vast field in where moun
 Before knowing the _evolution of Data Science in India_, lets first know the history of statistics and why it later termed as the Data Science.
 
 
-### History Of Data Science 
+## History Of Data Science 
 
 Statistics was always an obvious method used since era’s before, the great kings of the history also had made statistics as priority because it was their only way of calculating their kingdoms profits and losses, mathematicians were given high priority at these time. So yes, statistics is way older than what we think it could be. Before calculators, people used to count with their fingers, they couldn’t even imagine a machine performing mathematical intelligence. As people took baby steps in field of technology, invention of calculator resulted as a very useful and a greatest invention.
 
@@ -34,7 +35,7 @@ Ofcourse, when mathematics is present there will generally be a book like lodger
 The world changed since then, as Internet became popular, data started to generate and also many different industries came into existence. The main method of Data science in finding solutions is by analyzing the likes, expectations of people among the world and to create the product that will complement to it. This method has been being used by many popular industries so far. So the point is, Data Science is not a brand new concept to the world, it is just termed up to the combination of the concepts of business intelligence analytics and statistics. It was specially termed as “Data Science” because there is a pensive science put upon the piles of data to reduce them down to a reliable solution. Since it is all because of the data it is being gathered, it was named as so.
 
 
-### Evolution of Data Science in India
+## Evolution of Data Science in India
 
 From the year _2000 _the internet users increased vigorously, and thus data started to generate. Rather to put the generated data into garbage, experts thought of looking deeper into that data in expectation of understanding what people actually needs. By this method of strategy the most popular Amazon.com website got started, the application went highly popular in US, so much popular and profitable that it started in many other countries. India was one of the country which has its official amazon website.
 

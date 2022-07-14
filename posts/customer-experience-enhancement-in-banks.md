@@ -13,8 +13,9 @@ h1: "Customer Experience Enhancement In Banks"
 id: "customer-experience-enhancement-in-banks"
 tableData:
   [
-  Introduction Customer Experience Enhancement
-    
+  Introduction Customer Experience Enhancement,
+  Outlined Five Steps To Guide Craft Smart Data Strategies Customer Experience Enhancement,
+    Conclusion,
   ]
 ---
 

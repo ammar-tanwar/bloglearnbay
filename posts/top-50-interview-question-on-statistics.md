@@ -2,7 +2,7 @@
 title: Marketing, Sales, and HR Is being a data scientist the only hope?
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/marketing-01.png"
+headerImg: "/blog/stats.jpg"
 date: "April 07, 2022"
 tag: [ Hot Topics ]
 category: "Hot Topics"
@@ -13,8 +13,13 @@ h1: "Marketing, Sales, and HR Is being a data scientist the only hope?"
 id: "top-50-interview-question-on-statistics"
 tableData:
   [
-    Marketing Sales and HR Is being a data scientist the only hope,
-    Online data science courses are still the best option but the recorded video-based ones are the worst.,
+    Marketing, Sales, and HR Is being a data scientist the only hope?,
+How is Data Science Used in Sales and Marketing?,
+MNCs Currently Using Data Science,
+What is the advantage of using Data Science in Business?,
+Data Science Jobs in Sales and Marketing,
+Where can Learnbay Help you?,
+
   ]
 ---
 
@@ -22,7 +27,7 @@ Sales, marketing, and HR have been among the most profitable industries in the 2
 
 On the other hand, The covid-19 pandemic has heavily disrupted marketing resulting in the layoff of many employees.
 
-<img src="/blog/marketing-01.png" width="100%" /></img>
+<img src="/blog/stats1.png" width="100%" /></img>
 
 Due to this most of the sales and marketing professionals are struggling and freshers are confused at the same time. _So, are the sales and marketing careers approaching a dead end!!_
 
@@ -42,7 +47,7 @@ But if you think that the competition was only between two separate companies, I
 
 
 
-<img src="/blog/marketing-02.png" width="100%" /></img>
+<img src="/blog/stats2.png" width="100%" /></img>
 
 Especially after the pandemic, faulty marketing strategies caused a lot of small businesses and even bigger chains to close down because they did no good to their business. This resulted in the unemployment of many people, and some left their jobs without having a fallback plan. So what is the solution to survive in this industry? _Data Science! Applying DS techniques to sales and marketing can be a game-changer. _
 
@@ -62,7 +67,7 @@ Data science is the key to transforming multi-source data into actionable insigh
 Customer emotional analysis can be used to extract emotions from communication. This allows us to understand emotions and use this understanding in our business. The algorithms are used to analyze sentiment. They can be used to assess the general attitude towards texts on social media, blogs, and review sites for text mining. With just a click, automated sentiment analysis techniques allow real-time insight. These tools highlight the subtext of comments, taking facts, emotions, and general views into account. These emotions can also be broadened beyond the general classification of positive, negative, or neutral observations.
 
 
-<img src="/blog/marketing-03.png" width="100%" /></img>
+<img src="/blog/stats3.gif" width="100%" /></img>
 
 2.  Maximization of customer lifetime value (CLV)
 
@@ -173,7 +178,7 @@ In India, the average salary for the position of Data Scientist in the sales and
 
 
 
-<img src="/blog/marketing-04.png" width="100%" /></img>
+<img src="/blog/stats4.png" width="100%" /></img>
 
 
 * Beginner (1-2 years)-₹ 6,11,000 PA
@@ -184,7 +189,7 @@ In India, the average salary for the position of Data Scientist in the sales and
 ### _Based on Role_
 
 
-<img src="/blog/marketing-05.png" width="100%" /></img>
+<img src="/blog/stats5.png" width="100%" /></img>
 
 
 * Data Scientist – ₹ 8,00,000 PA
@@ -231,7 +236,7 @@ Big-Bazar like companies employs this machine learning model in order to identif
 
 
 <img src="/blog/marketing-07.png" width="100%" /></img>
-                                               [Sales and Marketing Forecasting Dataset from Kaggle](https://www.kaggle.com/harrimansaragih dummy-advertising-and-sales-data)
+[Sales and Marketing Forecasting Dataset from Kaggle](https://www.kaggle.com/harrimansaragih dummy-advertising-and-sales-data)
 
 
 

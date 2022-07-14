@@ -13,8 +13,14 @@ h1: "Marketing, Sales, and HR Is being a data scientist the only hope?"
 id: "marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope"
 tableData:
   [
-    Marketing, Sales, and HR Is being a data scientist the only hope,
-    Online data science courses are still the best option but the recorded video-based ones are the worst.,
+  Marketing, Sales, and HR Is being a data scientist the only hope?,
+  How is Data Science Used in Sales and Marketing?,
+MNCs Currently Using Data Science,
+What is the advantage of using Data Science in Business?,
+Data Science Jobs in Sales and Marketing,
+Where can Learnbay Help you?,
+Projects,
+Conclusion,
   ]
 ---
 
@@ -221,7 +227,7 @@ In India, the average salary for the position of Data Scientist in the sales and
 * This domain elective will also learn tools like Keras, Hadoop, MongoDB, Pytorch, TensorFlow, Seaborne, and OpenCV. 
 
 
-### Projects
+## Projects
 
 
 
@@ -232,7 +238,7 @@ Big-Bazar like companies employs this machine learning model in order to identif
 
 
 <img src="/blog/market7.png" width="100%" /></img>
-                                               [Sales and Marketing Forecasting Dataset from Kaggle](https://www.kaggle.com/harrimansaragih dummy-advertising-and-sales-data)
+[Sales and Marketing Forecasting Dataset from Kaggle](https://www.kaggle.com/harrimansaragih dummy-advertising-and-sales-data)
 
 
 

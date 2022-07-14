@@ -14,7 +14,7 @@ id: "gradient-descent-for-machine-learning"
 tableData:
   [
    Gradient Descent for Machine Learning,
-    Online data science courses are still the best option but the recorded video-based ones are the worst.,
+   
   ]
 ---
 

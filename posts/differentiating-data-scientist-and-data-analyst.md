@@ -13,8 +13,10 @@ h1: "Differentiating Data Scientist and Data Analyst"
 id: "differentiating-data-scientist-and-data-analyst"
 tableData:
   [
-  Advanced Data science Course Training in Bangalore,
-  Differentiating Data Scientist and Data Analyst,
+ Introduction,
+ Data Analyst,
+ Data scientist,
+Conclusion,
     
   ]
 ---
@@ -28,7 +30,7 @@ Data analysts sift through data and seek to identify trends. What stories do the
 Data scientists are pros at interpreting data, but also tend to have coding and mathematical modelling expertise. Most data scientists hold an advanced degree, and many actually went from data analyst to data scientist. They can do the work of a data analyst, but are also hands-on in machine learning, skilled with advanced programming, and can create new processes for data modelling. They can work with algorithms, predictive models, and more.
 
 
-### Data Analyst
+## Data Analyst
 
 Data analysts sift through data and provide reports and visualizations to explain what insights the data is hiding. When somebody helps people from across the company understand specific queries with charts, they are filling the data analyst role. In some ways, you can think of them as junior data scientists, or the first step on the way to a data science job.
 
@@ -45,7 +47,7 @@ At their core, most required:
 * Strong written and verbal communication skills
 
 
-### Data scientist
+## Data scientist
 
 A crucial part is exploratory data analysis, which combines visualization and data sense. They’ll find patterns, build models, and algorithms some with the intention of understanding product usage and the overall health of the product, and others to serve as prototypes that ultimately get baked back into the product. She may design experiments, and she is a critical part of data-driven decision making. will communicate with team members, engineers, and leadership.
 
@@ -68,7 +70,7 @@ qualifications for a data scientist:
 * Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.
 
 
-#### Conclusion
+## Conclusion
 
 More work goes into becoming a data scientist than a data analyst, but the reward is a lot greater as well. If you excel in math, statistics, and programming and have an advanced degree in one of those fields, then it sounds like you’d be a perfect candidate for a career in data science.
 

@@ -2,7 +2,7 @@
 title: What is Supervised, Unsupervised Learning, and Reinforcement Learning in Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/finance.png"
+headerImg: "/blog/super.png"
 date: "April 7, 2022"
 category: "Hot Topics"
 tag: [ Hot Topics ]
@@ -13,7 +13,8 @@ h1: "What is Supervised, Unsupervised Learning, and Reinforcement Learning in Ma
 id: "what-is-supervised-and-unsupervised-learning-in-machine-learning"
 tableData:
   [
-  What is Supervised Unsupervised Learning and Reinforcement Learning in Machine Learning,
+What is Supervised, Unsupervised Learning, and Reinforcement Learning in Machine Learning,
+
   ]
 ---
 

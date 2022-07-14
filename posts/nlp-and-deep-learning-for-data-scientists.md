@@ -2,7 +2,7 @@
 title: NLP and Deep Learning for Data Scientists
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/blog.png"
+headerImg: "/blog/nlp.jpg"
 date: "December 17, 2022"
 tag: [ Data Science, machine learning ]
 category: "Data Science"
@@ -15,7 +15,20 @@ tableData:
   [
     NLP and Deep Learning for Data Scientists,
     How Deep Learning can keep you safeworst.,
-    IBM will no longer offer develop or research facial recognition technology
+    The Publication of the Open AI API,
+    IBM will no longer offer develop or research facial recognition technology,
+    Conversational AI Neural Approaches,
+Language Models Are Unsupervised Multitask Learners,
+Generative Pre-Training Improves Language Understanding,
+The Model Card Toolkit for Easier Model Transparency Reporting,
+The Complete Guide to Deep Learning Algorithms,
+Deepfake Detection Tools and AI-Generated Text,
+GPT-3 Philosophers (updated with replies by GPT-3),
+Bridging The Gap Between Training & Inference For Neural Machine Translation,
+The Matrix Calculus You Need For Deep Learning,
+Final lines,
+
+
   ]
 ---
 
@@ -63,7 +76,7 @@ This official blog discusses how the corporation moved away from open source in 
 * They feel that now is the right time to start a national conversation about whether and how domestic law enforcement organisations should use facial recognition methodologies.
 
 
-#### Conversational AI: Neural Approaches
+## Conversational AI: Neural Approaches
 
 It examines neural approaches to conversational AI that have been developed in recent times as well. Audiences are interested in Natural Language Processing and Information Retrieval.
 
@@ -77,7 +90,7 @@ It examines neural approaches to conversational AI that have been developed in r
 It offers a coherent perspective as well as a full presentation of the key concepts and insights required to comprehend and develop modern dialogue agents that will be critical in making world knowledge and services accessible to millions of people in natural and intuitive ways.
 
 
-#### Language Models Are Unsupervised Multitask Learners
+# Language Models Are Unsupervised Multitask Learners
 
 Question answering, machine translation, reading comprehension, and summarization are all examples of natural language processing (NLP) problems that are often ideally tackled using supervised learning on task-specific[ data models](https://datascience-learnbay.medium.com/top-5-data-collection-methods-process-a9e4099a7f15?source=user_profile---------1-------------------------------) as well.
 
@@ -101,7 +114,7 @@ The researchers discussed natural language processing and how discriminatively t
 They suggested a broad task-agnostic model that beat discriminatively trained models that use architectures specifically generated for each specific task in around 9 of the 12 tasks that studied, greatly outperforming the state-of-the-art. Their[ goal](https://datascience-learnbay.medium.com/what-is-the-future-of-data-science-f0313580bae1?source=user_profile---------3-------------------------------)<span style="text-decoration:underline;"> </span>is to learn a universal representation that can be used for a variety of tasks with minimum change.
 
 
-##### Deep Learning Generalization
+## Deep Learning Generalization
 
 Many difficult research areas, like image recognition and natural language processing, have seen considerable success using deep learning.
 
@@ -121,7 +134,7 @@ Transparency in machine learning (ML) models is crucial in a range of sectors th
 * To help and assess that how to tackle this particular difficulty, as Google researchers ideally developed the “Model Card Toolkit,” which particularly simplifies the creation of model transparency reports.
 
 
-#### The Complete Guide to Deep Learning Algorithms
+## The Complete Guide to Deep Learning Algorithms
 
 This article, written by Sergios Karagiannakos, the founder of AI Summer, provides a comprehensive guide to deep learning.
 

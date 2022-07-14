@@ -13,7 +13,20 @@ h1: "Introduction to Simple Linear Regression in Machine Learning"
 id: "introduction-to-simple-linear-regression-in-machine-learning"
 tableData:
   [
-    Introduction to Simple Linear Regression in Machine Learning,
+Introduction to Simple Linear Regression in Machine Learning,
+What is SLR in Machine Learning?,
+What are the real-life applications of SLR algorithms?,
+What is the linearity condition in SLR?,
+What can simple linear regression tell us that correlation does not tell us?,
+How does SLR work?,
+Why use a scatter diagram in SLR?,
+How to calculate the SLR in ML modeling?,
+Dataset Importing,
+data pre-processing,
+segregation of the train and test sets,
+Assessing the linear regression model with respect to the training dataset,
+Predicting evaluation success,
+Where to learn SLR?,
   ]
 ---
 
@@ -23,7 +36,7 @@ No matter what ML course you have chosen, the first learning goal of data scienc
 In this blog, we’ll evaluate the foundational approach of Simple Linear Regression in Machine Learning in[ ML modelling](https://www.learnbay.co/data-science-course/blog-post/model-vs-algorithm-in-ml/).
 
 
-#### What is SLR in Machine Learning?
+## What is SLR in Machine Learning?
 
 Simple Linear Regression in Machine Learning (SLR) is a tactic that can help to review and evaluate relationships between two factors; where one of several factors is adjustable, this is certainly self-sufficient and can also be referred to as ‘explanatory’ or ‘stimulus’ or ‘predictor’ factors (variable). The other one is a subordinate factor, additionally known as a ‘response’ or ‘outcome’ factor.
 
@@ -32,7 +45,7 @@ Now, if you ask why ‘simple?’ Well, the phrase “Simple” relates to two f
 While you get to indulge in machine learning problems and then land on the expected and profitable outcomes, you need to find certain inter-relationships between a set of the above two types of variables. So here comes the application of Simple Linear Regression in Machine Learning .
 
 
-#### What are the real-life applications of SLR algorithms?
+## What are the real-life applications of SLR algorithms?
 
 If we sit to lists out the real-life instances of SLR in ML, then the list will be an endless entity. However, the handiest real-world example of the SLR application is as follows.
 
@@ -45,7 +58,7 @@ If we sit to lists out the real-life instances of SLR in ML, then the list will 
 SLR can be the ultimate solution to lots of complex problems to a moderate business problem. Just keep one thing in mind, don’t forget to approach the linearity condition correctly.
 
 
-#### What is the[ linearity condition](https://en.wikipedia.org/wiki/Linearity#:~:text=Linearity%20is%20the%20property%20of,is%20closely%20related%20to%20proportionality.&text=The%20word%20linear%20comes%20from,to%20or%20resembling%20a%20line%22.)<span style="text-decoration:underline;"> </span>in SLR?
+## What is the[ linearity condition](https://en.wikipedia.org/wiki/Linearity#:~:text=Linearity%20is%20the%20property%20of,is%20closely%20related%20to%20proportionality.&text=The%20word%20linear%20comes%20from,to%20or%20resembling%20a%20line%22.)<span style="text-decoration:underline;"> </span>in SLR?
 
 SLR tries to solve the noticeable changes in the value of the subordinate factor (dependent)
 
@@ -66,7 +79,7 @@ Therefore, the useful formula of the SLR becomes as follows.
 ⇒𝑌𝑖 = 𝛼𝑖 + 𝛽𝑖 ln(𝑋𝑖 ) + 𝜀𝑖
 
 
-#### What can simple linear regression tell us that correlation does not tell us?
+## What can simple linear regression tell us that correlation does not tell us?
 
 Although correlation apparently seems to be similar to the simple linear regression in actuality, there lies a range of differences between these two.
 
@@ -75,7 +88,7 @@ Difference1: Correlation quantifies the amount to which two factors are all rela
 Difference 2: In case you need to quantify both the factors, correlation is often used. It infrequently works if one factor is something that you rightfully control. On the contrary, with Simple linear regression, the X factor is often something that you manipulate (it may be a time series or range of salary or price, etc. ). The Y factor is something that can be scaled (measured).
 
 
-#### How does SLR work?
+## How does SLR work?
 
 To make an SLR work to find out the solution to your identified problem, you need to follow a seven-step mathematical process as follows.
 
@@ -94,7 +107,7 @@ Step#6: Validate the best fitting quality for the model for the intact model. On
 Step#7: Identify the determinant and correlation coefficients.
 
 
-#### Why use a scatter diagram in SLR?
+## Why use a scatter diagram in SLR?
 
 While you choose SLR as your regression model, then the first thing you need to do is assessing the relationship between your identified factors.
 
@@ -160,7 +173,7 @@ Fig 6:
 The above plot indicates the non-linear relationship between the factors.
 
 
-#### How to calculate the SLR in ML modeling?
+## How to calculate the SLR in ML modeling?
 
 To model, an ML algorithm utilizing SLR can be done either with Python or R. Here, I will explain the python programming variant.
 
@@ -178,7 +191,7 @@ To program an SLR model using python, six prime steps have to be followed cautio
 
 Now while using python programming, the generic step from 1 to 5 remains almost the same. However, depending on which type of graphs or chart you will be using, step 6 alters a bit. So the generic python programming for SLR regression is as follows.
 
-# Dataset Importing
+## Dataset Importing
 
 import pandas as pd
 
@@ -190,19 +203,19 @@ dataset = pd.read_csv('file name.csv')
 
 dataset.head()
 
-# data pre-processing
+## data pre-processing
 
 X = dataset.iloc[:, :-1].values #X is the array of self-sufficient factors
 
 Y = dataset.iloc[:,1].values #Y is the vector consisting of subordinate factor.
 
-# segregation of the train and test sets
+## segregation of the train and test sets
 
 from sklearn.model_selection import train_test_split
 
 X_train, X_test, Y_train, Y_test, train_test_split(X,Y,test_size=1/3,random_state=0) # test size ⅓ is used as of the policy of 20-80 or 30-70 splitting.
 
-# Assessing the linear regression model with respect to the training dataset
+## Assessing the linear regression model with respect to the training dataset
 
 from sklearn.linear_model import LinearRegression
 
@@ -210,7 +223,7 @@ regressor = LinearRegression()
 
 regressor.fit(X_train,Y_train) #This step provides the out of linear equation going to be used on the considered dataset.
 
-# Predicting evaluation success
+## Predicting evaluation success
 
 y_pred = regressor.predict(X_test)
 
@@ -219,7 +232,7 @@ y_pred
 y_test
 
 
-#### Where to learn SLR?
+## Where to learn SLR?
 
 If you want to learn more about the application of SLR in ML, you can join[ IBM certified Learnbay Data science and AI certification courses](https://www.learnbay.co/data-science-course/data-science-and-ai/). The data science course syllabus of Learnbay offers balanced learning scopes on both statistics and programming- the two key pillars of data science career growth. Our AI and ML courses are available for both fresh graduates and working professionals. All of our courses are entitled to real-time industrial projects and live online classes. Our course is available in all the prime cities across India, such as Mumbai, Kolkata, Bengaluru, Hyderabad, Delhi, Lucknow, and Patna.
 

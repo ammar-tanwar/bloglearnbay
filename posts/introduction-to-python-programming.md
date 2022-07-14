@@ -13,27 +13,31 @@ h1: "Introduction to Python Programming"
 id: "introduction-to-python-programming"
 tableData:
   [
-    Advanced Data science Course Training in Bangalore,
-    Introduction to Python Programmingt,
-    Why is Python so well-likely?
+    What exactly is Python?,
+    Why is Python so well-likely?,
+    Why should you learn Python in 2021?,
+What are the uses of python Software?,
+Features of Python,
+Can I learn Python on my own?
+
 
   ]
 ---
 
 
-### [What exactly is Python?](https://www.python.org/doc/essays/blurb/#:~:text=Python%20is%20an%20interpreted%2C%20object,programming%20language%20with%20dynamic%20semantics.&text=Python's%20simple%2C%20easy%20to%20learn,program%20modularity%20and%20code%20reuse.)
+## [What exactly is Python?](https://www.python.org/doc/essays/blurb/#:~:text=Python%20is%20an%20interpreted%2C%20object,programming%20language%20with%20dynamic%20semantics.&text=Python's%20simple%2C%20easy%20to%20learn,program%20modularity%20and%20code%20reuse.)
 
 Python is a general-purpose, interpreted, and dynamic programming language that belongs to high-level programming language divisions. Python is commonly used for application development because it supports object-oriented programming approach.
 
 
-### Why is Python so well-likely?
+## Why is Python so well-likely?
 
 The one-line response is ‘widely accessible’ and has a ‘simple syntax’. Yes, not a single programming language has the same level of accessibility and ease of use as Python. Python’s syntaxes give natural language a lot of weight, making it easier to understand and work with, and making it sound more like human communication language. As a result, it has stayed in the top five programming languages preferred by software engineers, application developers, and other techies for the past few decades.
 
 But, since the last few years, crossing the circumference of popularity, Python has become a global craze irrespective of demographic, professional, and generation-related limitations.
 
 
-### [Why should you learn Python in 2021?](https://www.geeksforgeeks.org/why-you-should-learn-python-in-2021/#:~:text=Python%20has%20a%20very%20simple,is%20comparatively%20easier%20to%20learn.&text=Also%2C%20you%20need%20to%20know,and%20high%2Dlevel%20programming%20language.)
+## [Why should you learn Python in 2021?](https://www.geeksforgeeks.org/why-you-should-learn-python-in-2021/#:~:text=Python%20has%20a%20very%20simple,is%20comparatively%20easier%20to%20learn.&text=Also%2C%20you%20need%20to%20know,and%20high%2Dlevel%20programming%20language.)
 
 Python programming is now the fifth fundamental need to live in this real world, after food, water, air, and shelter.
 
@@ -58,14 +62,14 @@ Python developers earn around 7 to 18 lakhs/year (6 t0 ten years of experience) 
 <img src="/blog/soft1.jpg" width="100%" /></img>
 
 
-### What are the uses of python Software?
+## What are the uses of python Software?
 
 Python software can be used in a variety of ways, as previously mentioned.The fields and tasks for which python software is widely used are listed below.
 
 Web developmen3D CAD applicatioMachine learninScriptinAnalysis datProcessing of imagArtificial IntelligencSpeech RecognitioDevelopment of SoftwarData mininCreation of Desktop and mobile applicatioDevelopment of Games
 
 
-### [Features of Python](https://www.geeksforgeeks.org/python-features/)
+## [Features of Python](https://www.geeksforgeeks.org/python-features/)
 
 It’s simple to understand, read, and write. 
 Syntaxes used in python programming are more like natural language/ human language (like English). For example, to print ‘Learnbay- The Data Science & AI Institute, ‘we have to just type print(“[Learnbay](https://www.learnbay.co/data-science-course/)– The Data Science & AI Institute”) in python editor or any IDLESmart in memory management 
@@ -75,7 +79,7 @@ Python has compatibility with most operating systems like Windows, Linux, Mac, U
 Until now, you have learned plenty of basic information about python programming. So, you might have a question in mind when you are aware of the ease of use.
 
 
-### Can I learn Python on my own?
+## Can I learn Python on my own?
 
 Yes, of course. Plenty of python learning videos are now available over the internet. A few of the reliable options are Codecademy, Learnpython.org, LinkedIn python learning courses, etc. you can download Python for free[ here .](https://www.python.org/downloads/)
 

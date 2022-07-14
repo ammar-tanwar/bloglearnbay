@@ -2,7 +2,7 @@
 title: Practice of Intelligence with help of Artificial Intelligence in Academics
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/finance.png"
+headerImg: "/blog/robot.jpg"
 date: "April 7, 2022"
 tag: [ Hot Topics ]
 author: "Admin"
@@ -13,8 +13,8 @@ h1: "Practice of Intelligence with help of Artificial Intelligence in Academics"
 id: "practice-of-intelligence-with-help-of-artificial-intelligence-in-academics"
 tableData:
   [
-  Practice of Intelligence with help of Artificial Intelligence in Academics,
- Artificial Intelligence Introduction,
+  Artificial Intelligence Introduction,
+
     
   ]
 ---

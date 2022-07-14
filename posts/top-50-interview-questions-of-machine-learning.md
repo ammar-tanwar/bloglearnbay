@@ -2,7 +2,7 @@
 title: Top 50 interview questions of Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/interview.png"
+headerImg: "/blog/interview.jpg"
 date: "May 27, 2021"
 tag: [ Machine Learning ]
 category: "Machine Learning"
@@ -78,7 +78,7 @@ KNN Code Snippet:
 
 
 
-<img src="/blog/interview.png" width="100%" /></img>
+<img src="/blog/interview1.png" width="100%" /></img>
 
 
 
@@ -90,7 +90,7 @@ For example, if we only had two features like Height and Hair length of an indiv
 
 
 
-<img src="/blog/interview1.png" width="100%" /></img>
+<img src="/blog/interview2.png" width="100%" /></img>
 
 
 
@@ -98,7 +98,7 @@ Now, we will find some line that splits the data between the two differently cla
 
 
 
-<img src="/blog/interview2.png" width="100%" /></img>
+<img src="/blog/interview3.png" width="100%" /></img>
 
 
 
@@ -154,7 +154,7 @@ Long Answer: choosing the best hyperplane is to choose one in which the distance
 
 
 
-<img src="/blog/interview3.png" width="100%" /></img>
+<img src="/blog/interview4.png" width="100%" /></img>
 
 
 
@@ -240,7 +240,7 @@ SVM code snippet:
 
 
 
-<img src="/blog/interview4.png" width="100%" /></img>
+<img src="/blog/interview5.png" width="100%" /></img>
 
 
 
@@ -307,7 +307,7 @@ Naive Bayes considers that the features are independent of each other. However, 
 Naïve Bayes Code Snippet:
 
 
-<img src="/blog/interview5.png" width="100%" /></img>
+<img src="/blog/interview6.png" width="100%" /></img>
 
 
 
@@ -342,7 +342,7 @@ Ans: The basic idea behind partitioning methods, such as k-means clustering, is 
 The Elbow method looks at the total WSS as a function of the number of clusters: One should choose a number of clusters so that adding another cluster doesn’t improve much better the total WSS.
 
 
-<img src="/blog/interview6.png" width="100%" /></img>
+<img src="/blog/interview7.png" width="100%" /></img>
 
 
 
@@ -385,7 +385,7 @@ KNN code snippet:
 
 
 
-<img src="/blog/interview7.png" width="100%" /></img>
+<img src="/blog/interview8.png" width="100%" /></img>
 
 
 
@@ -419,13 +419,13 @@ Parts of Dendrogram:
 
 
 
-<img src="/blog/interview8.png" width="100%" /></img>
+<img src="/blog/interview9.png" width="100%" /></img>
 
 Hierarchical Clustering Code Snippet:
 
 
 
-<img src="/blog/interview9.png" width="100%" /></img>
+<img src="/blog/interview10.png" width="100%" /></img>
 
 
 
@@ -443,7 +443,7 @@ Ans: Adaboost combines multiple weak learners into a single strong learner. The 
 
 Adaboost Code Snippet:
 
-<img src="/blog/interview10.png" width="100%" /></img>
+<img src="/blog/interview11.png" width="100%" /></img>
 
 
 
@@ -462,7 +462,7 @@ By combining weak learners after weak learners, our final model is able to accou
 Gradient Boosting Code Snippet:
 
 
-<img src="/blog/interview11.png" width="100%" /></img>
+<img src="/blog/interview12.png" width="100%" /></img>
 
 
 
@@ -481,7 +481,7 @@ XGBoost Code Snippet:
 
 
 
-<img src="/blog/interview12.png" width="100%" /></img>
+<img src="/blog/interview13.png" width="100%" /></img>
 
 
 
@@ -592,7 +592,7 @@ PCA code snippet:
 
 
 
-<img src="/blog/interview13.png" width="100%" /></img>
+<img src="/blog/interview14.png" width="100%" /></img>
 
 
 
@@ -634,7 +634,7 @@ Y = X x W (where X is an n * d dimension matrix representing the n samples and y
 LDA code snippet:
 
 
-<img src="/blog/interview14.png" width="100%" /></img>
+<img src="/blog/interview15.png" width="100%" /></img>
 
 
 

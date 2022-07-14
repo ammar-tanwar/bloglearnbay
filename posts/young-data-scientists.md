@@ -2,7 +2,7 @@
 title: Young Data Scientists
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/human-01.jpg"
+headerImg: "/blog/young.jpg"
 date: "December 17, 2021"
 tag: [ Data Science ]
 category: "Data Science"
@@ -14,6 +14,9 @@ id: "young-data-scientists"
 tableData:
   [
     Intorduction- Young Data Scientists,
+    Tanmay Bakshi young data scientist,
+Sidharth Srivatsav Pillai:young data scientist,
+
   ]
 ---
 
@@ -26,7 +29,7 @@ Now the question is, _if Data Science is so much daunting to learn by adults how
 The answer to this question lays in the journey of these two young Data Scientists. Let’s get it now, but first, let’s have a brief intro of them.
 
 
-#### Tanmay Bakshi: young data scientist
+## Tanmay Bakshi: young data scientist
 
 Tanmay, a young data scientist is from India but has been raised in Canada, who is on his internship as Data Scientist at IBM. He grew up in a coding environment because his father was a programmer, it is no wonder he got into programming at the tender age of 5. As far as I could recall I was playing with mud at that age *sigh*. His first model was a timetable managing stand-alone application which got the eyes of IBM, it was accepted by them while he was just 11 years old. Later, Tanmay collaborated with IBM at the teenage of 14, but his work doesn’t stop till here, it was just a beginning.
 
@@ -35,7 +38,7 @@ Tanmay Bakshi
 Tanmay perceives technology more like a tool to change the world, as he is currently focusing upon detecting Mental health issues like[ depression, suicidal emotions with the help of Machine Learning and AI](https://towardsdatascience.com/machine-learning-and-mental-health-7981a6001bd5). He has completely indulged himself to achieve his aims and goals through technology, one of his goals is to make the coding aspirants be able to attain effective and authentic coding, for which he himself got into teaching how to code. He has so far helped **11,000** coders in which the youngest of an aspirant is of 8 years and the eldest of an aspirant is 81 years old.
 
 
-#### Sidharth Srivatsav Pillai:young data scientist
+## Sidharth Srivatsav Pillai:young data scientist
 
 As a Hyderabad based 12-year-old tech expert, Sidharth has been hired by an IT company. Like all other kids of his age he also loved playing mobile games, but his creative mind rather got curious about how gaming works. When he was told by his father that gaming is made by codes of programming languages, he was thrilled to learn them to create one gaming app. He began with C language, learnt the fundamentals of it and started his coding journey from then. He further learnt Java and SQL but his thirst for knowledge was still parched to quench which he also learnt HTML and CSS.
 

@@ -13,7 +13,8 @@ h1: "Understanding Different Job Opportunities of Data Science"
 id: "different-jobs-opportunities-of-data-science"
 tableData:
   [
-  Understanding Different Job Opportunities of Data Science,
+  Job opportunities in Data Science,
+  
   
   ]
 ---

@@ -2,7 +2,7 @@
 title: Top Data Science Certifications In 2022- Exclusive To Banking Professionals
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/certifications.jpg"
+headerImg: "/blog/bank.jpg"
 date: "June 10, 2022"
 tag: [ Data Science ]
 category: "Data Science"
@@ -13,20 +13,21 @@ h1: "Top Data Science Certifications In 2022 Exclusive To Banking Professionals"
 id: "top-data-science-certifications-in-2022-exclusive-to-banking-professionals"
 tableData:
   [
-   Top Data Science Certifications In 2022 Exclusive To Banking Professionals,
-   Start Investing In Youself Today.,
-    
+  Do you hold a finance or banking background? These 5 data science courses for banking professionals can make you eligible for a 400% hike.,
+  Why such a huge surge of data science jobs in the BFSI domain?,
+The Best Data Science Course For Finance are,    
   ]
 ---
+<img src="/blog/bank.jpg" width="100%" /></img>
 
-#### Do you hold a finance or banking background? These 5 data science courses for banking professionals can make you eligible for a 400% hike.
+## Do you hold a finance or banking background? These 5 data science courses for banking professionals can make you eligible for a 400% hike.
 
 In the last two years (2020 end to -2022 mid), folks of people have switched their jobs. The most hiked figures you could find from the fintech companies like HSBC, JP Morgan, etc. But by chance, if you think that such a hiring source was exclusive to IT pros- then you are damn wrong. The positions like ‘financial analyst,’ ‘credit risk analyst,’ AI experts, ML engineer, and data scientist were actually the top positions. 
 
 Yes, the above roles have already overtaken traditional IT roles from the perspective of salary, job security, and future growth. But pursuing a random data science course to target these roles will be the biggest mistake of your life. Although it is the least exposed, there lies a bunch of financial analytics courses or exclusive[ data science certifications](https://www.learnbay.co/data-science-course/job-guarantee-or-money-back-data-science-ai-certification-course/) for banking professionals. 
 
 
-#### Why such a huge surge of data science jobs in the BFSI domain?
+## Why such a huge surge of data science jobs in the BFSI domain?
 
 The BFSI sector is currently quite technically advanced. In rare circumstances, the consumer needs a visit to the branches. Everything is now virtual. But the main consequence of this is the potential of secret data disclosure within the multiple IoT layers. And not only that, starting from competitor analysis to consumer targeting and strategy planning, everything is now an unending number of live data assessments. Hence, data scientists, financial analysts, and other analytical roles are in high demand within the existing BFSI industries.
 
@@ -36,11 +37,11 @@ Financial analysts work for banks, insurance companies, real estate, and investm
 
 
 
-<img src="/blog/certifications1.jpg" width="100%" /></img>
+<img src="/blog/bank1.jpg" width="100%" /></img>
 
 
 
-#### The Best Data Science Course For Finance are:
+## The Best Data Science Course For Finance are:
 
 
 ##### 1.The Complete Financial Analyst Course 2020 (Udemy)
@@ -79,7 +80,7 @@ Duration – 17.5 hours of on-demand video
 
 
 
-<img src="/blog/certifications2.jpg" width="100%" /></img>
+<img src="/blog/bank2.jpg" width="100%" /></img>
 
 
 
@@ -147,7 +148,7 @@ Course Duration: Weekday – 7.5 months
 Weekend – 9 months
 
 
-<img src="/blog/certifications3.jpg" width="100%" /></img>
+<img src="/blog/bank3.jpg" width="100%" /></img>
 
 
 

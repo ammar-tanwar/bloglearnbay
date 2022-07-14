@@ -13,9 +13,8 @@ h1: "Normal and Gaussian Distribution"
 id: "gaussian-and-normal-distribution"
 tableData:
   [
-  Normal and Gaussian Distribution,
-  Gaussian Distribution
-  
+ Gaussian Distribution,
+ 
     
   ]
 ---

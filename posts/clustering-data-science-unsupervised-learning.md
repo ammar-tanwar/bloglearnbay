@@ -13,7 +13,8 @@ h1: "Clustering & Types Of Clustering"
 id: "clustering-data-science-unsupervised-learning"
 tableData:
   [
-  Clustering & Types Of Clustering
+ Clustering & Types Of Clustering,
+ Types of clustering technique,
   ]
 ---
 
@@ -44,7 +45,7 @@ Steps involved in Clustering analysis:
 7. Validate the clusters.
 
 
-### Types of clustering technique:
+## Types of clustering technique:
 
 Broadly speaking, clustering can be divided into two subgroups :
 

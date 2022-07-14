@@ -13,7 +13,17 @@ h1: "Method Overriding in Python of Data Science Everything You Need to Know"
 id: "method-overriding-in-python-of-data-science-everything-you-need-to-know"
 tableData:
   [
-    Method Overriding in Python of Data Science Everything You Need to Know,
+   Method Overriding in Python of Data Science Everything You Need to Know,
+In Python, What Is Method Overriding?,
+Multiple And Multilevel Inheritances In Method Overriding,
+What Is The Use Of Method Overriding In Python For Data Science,
+Method Overriding Characteristics,
+Advantages Of Method Overriding,
+Overriding The Methods Available In Base Class,
+Difference Between Method Overloading And Method Overriding In Python,
+Conclusion,
+
+
   ]
 ---
 

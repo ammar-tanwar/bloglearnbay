@@ -2,7 +2,7 @@
 title: Everything About the XGBoost Classifier
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/xsboost-01.png"
+headerImg: "/blog/xg.png"
 date: "February 04, 2022"
 tag: [ Data Science ]
 category: "Data Science"
@@ -13,7 +13,8 @@ h1: "Everything About the XGBoost Classifier"
 id: "xgboost-classifier"
 tableData:
   [
-    Everything About the XGBoost Classifier
+Everything About the XGBoost Classifier,
+
   ]
 ---
 
@@ -44,7 +45,7 @@ Solve the XGBoost mathematically:
 
  
 
-<img src="/blog/xsboost-02.png" width="100%" /></img>
+<img src="/blog/xg1.png" width="100%" /></img>
 
 
 Here we will use simple Training Data, which has a Drug dosage on the x-axis and Drug effectiveness in the y-axis. These above two observations(6.5, 7.5) have a relatively large value for Drug Effectiveness and that means that the drug was helpful and these below two observations(-10.5, -7.5) have a relatively negative value for Drug Effectiveness, and that means that the drug did more harm than good.
@@ -58,7 +59,7 @@ Unlike unextreme Gradient Boost which typically uses regular off-the-shelf, Regr
 Now we need to calculate the Quality score or Similarity score for the Residuals.
 
 
-<img src="/blog/xsboost-03.png" width="100%" /></img>
+<img src="/blog/xg2.png" width="100%" /></img>
 
 
 Here λ  is a regularization parameter.
@@ -66,13 +67,13 @@ Here λ  is a regularization parameter.
 So we split the observations into two groups, based on whether or not the Dosage&lt;15.
 
 
-<img src="/blog/xsboost-04.png" width="100%" /></img>
+<img src="/blog/xg3.png" width="100%" /></img>
 
 The observation on the left is the only one with Dosage&lt;15. All of the other residuals go to the leaf on the right.
 
 
 
-<img src="/blog/xsboost-05.png" width="100%" /></img>
+<img src="/blog/xg4.png" width="100%" /></img>
 
 
 When we calculate the similarity score for the observations –10.5,-7.5,6.5,7.5 while putting λ =0
@@ -81,13 +82,13 @@ we got similarity =4  and
 
 
 
-<img src="/blog/xsboost-06.png" width="100%" /></img>
+<img src="/blog/xg5.png" width="100%" /></img>
 
 Hence the result we got is:
 
 
 
-<img src="/blog/xsboost-07.png" width="100%" /></img>
+<img src="/blog/xg6.png" width="100%" /></img>
 
 [Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. By choosing Learnbay you will reach the most aspiring job of present and future.
 

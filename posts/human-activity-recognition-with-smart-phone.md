@@ -13,7 +13,15 @@ h1: "Human Activity Recognition With Smart Phone"
 id: "human-activity-recognition-with-smart-phone"
 tableData:
   [
-    Human Activity Recognition With Smart Phone,
+    Human Activity recognition,
+    Working of Human task project,
+    suffling data,
+    test = shuffle(test),
+    separating data inputs and output lables,
+    encoding labels,
+    encoding test labels,
+    encoding train labels,
+    applying supervised neural network using multi-layer preceptron,
   ]
 ---
 
@@ -27,7 +35,7 @@ Most of the smartphones have two smart sensors accelerometer and gyroscope, whic
 An example that a smartphone has an android app that reads the accelerometers and gyroscope which can predict the human activity that he/she walking normally, walking upstairs, walking downstairs, laying down, sitting all these are the human activities.  Some of the accelerometer and gyroscope measures heart rate, calories burned, etc. by reading all the human activities these tells how much work have done in a day by the human this is also the area of the internet of things(IoT).
 
 
-### Working of Human task project:
+## Working of Human task project:
 
 1. Human activity recognition: With the help of sensors we collect the data of body movement which is captured by the smartphone. Movements are often indoor activities such as walking, walking upstairs, walking downstairs, lying down, sitting and standing. The data have recorded for the prediction of the data.
 
@@ -87,11 +95,11 @@ Here we read the csv file to analyze the data set and the operation which is sup
 
 shows the first 5 rows with their respective columns so here we have (5 rows and 563 columns).
 
-# suffling data
+## suffling data
 
 from sklearn.utils import shuffle
 
-# test = shuffle(test)
+## test = shuffle(test)
 
 train_data = shuffle(train_data)
 
@@ -99,7 +107,7 @@ Shuffling data serves the purpose of reducing variance and making sure that mode
 
 The obvious case where you’d shuffle your data is if your data is sorted by their class/target. Here, you will want to shuffle to make sure that your training/test/validation sets are representative of the overall distribution of the data.
 
-# separating data inputs and output lables
+## separating data inputs and output lables
 
 trainData = train_data.drop('Activity' , axis=1).values
 
@@ -113,19 +121,19 @@ print(testLabel)
 
 By using the above code we separate the input and output, here it determines the human activities which are captured by the IoT device. The human activities walking, standing, walking upstairs, walking downstairs, sitting and lying down are got separated to optimize the result.
 
-# encoding labels
+## encoding labels
 
 from sklearn import preprocessing
 
 encoder = preprocessing.LabelEncoder()
 
-# encoding test labels
+## encoding test labels
 
 encoder.fit(testLabel)
 
 testLabelE = encoder.transform(testLabel)
 
-# encoding train labels
+## encoding train labels
 
 encoder.fit(trainLabel)
 
@@ -133,7 +141,7 @@ trainLabelE = encoder.transform(trainLabel)
 
 Holds the label for each class. encode categorical features using a one-hot or ordinal encoding scheme. It can also be used to transform non-numerical labels (as long as they are hashable and comparable) to numerical labels.
 
-# applying supervised neural network using multi-layer preceptron
+## applying supervised neural network using multi-layer preceptron
 
 import sklearn.neural_network as nn
 

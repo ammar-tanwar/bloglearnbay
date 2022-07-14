@@ -13,8 +13,14 @@ h1: "How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain
 id: "how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career"
 tableData:
   [
-   How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?,
   What Role Does E-Commerce Play in the Post-Pandemic Retail Future?,
+  For Retailers, the Future of E-Commerce is Bright,
+ Packages and Companies,
+ Retail Domain,
+ E-Commerce Domain,
+ Supply Chain Domain,
+Conclusion,
+
     
   ]
 ---
@@ -38,7 +44,7 @@ _But do you know even after such massive demand so many retail and e-comm employ
 <img src="/blog/E-Commerce1.png" width="100%" /></img>
 
 
-                                                                               Source: Author
+Source: Author
 
 _On the other hand, there is also an intelligent community of professionals to reach the top of success. And you can also be a part of that community. _To know how, please continue reading this blog. 
 
@@ -48,7 +54,7 @@ _On the other hand, there is also an intelligent community of professionals to r
 
 
 
-                                                                            Image by Author
+Image by Author
 
 The final mile is crucial to[ e-commerce](https://en.wikipedia.org/wiki/E-commerce) success: _21% said they would not forgive stores and brands if service was delayed because of Covid-19._ It’s getting harder and harder for businesses to get last-mile delivery capacity because more people are shopping online. After Black Friday in 2020, many of us had to wait weeks for things to show up on our doorsteps. Delivery is now an important part of the whole experience. As a fulfillment center, the shop is used a lot. _According to the Index, 37% of US customers plan to purchase online and pick up in-store more often in the future (online library)._ While using a shop as a fulfillment center may be a good idea, it needs systems and business divisions to work together to make the promise come true. Retailers’ ability to create a consistent experience must expand as services grow.
 
@@ -96,7 +102,7 @@ Every year, the number, diversity, and usefulness of retail data increase dramat
 
 <img src="/blog/E-Commerce2.png" width="100%" /></img>
 
-                                                                             Image by Author
+Image by Author
 
 
 ### What Role Does Data Science Play in eCommerce?
@@ -143,23 +149,23 @@ People who work in[ Supply Chain data science](https://www.payscale.com/research
 
 
 <img src="/blog/E-Commerce3.png" width="100%" /></img>
-                                           
+       
 
-                                          Why are Data Scientists getting paid at a higher level? 
+Why are Data Scientists getting paid at a higher level? 
 
-                                                          Image Source:[ Supply Chain 24/7](https://www.supplychain247.com/article/why_supply_chain_data_scientists_get_paid_so_much)
+ Image Source:[ Supply Chain 24/7](https://www.supplychain247.com/article/why_supply_chain_data_scientists_get_paid_so_much)
 
 
-#### Packages and Companies:
+## Packages and Companies:
 
 
 
 <img src="/blog/E-Commerce4.jpg" width="100%" /></img>
 
 
-                                                                             Image by Author
+ Image by Author
 
-                                                                            Source: Linkedin
+Source: Linkedin
 
 
 
@@ -208,7 +214,7 @@ _It’s all about domain specializations at Learnbay, and one of them is Retail,
 
 
 
-                                                                             Image by Author
+ Image by Author
 
 Let’s take a look at what you’ll receive if you study with Learnbay:
 
@@ -230,7 +236,7 @@ So, let’s have a look at what Learnbay’s Supply Chain domain has to offer.
 ### Projects in the Retail, eCommerce, and Supply Chain Domain in which you will be working:
 
 
-#### Retail Domain
+## Retail Domain
 
 
 
@@ -239,7 +245,7 @@ So, let’s have a look at what Learnbay’s Supply Chain domain has to offer.
 * Optimization of the price: The optimization methods have a big advantage when it comes to finding the best price for both the customer and the retailer.
 
 
-#### E-Commerce Domain
+## E-Commerce Domain
 
 
 
@@ -252,12 +258,12 @@ So, let’s have a look at what Learnbay’s Supply Chain domain has to offer.
 
 
 
-                                                              Dataset for eCommerce Customers
+Dataset for eCommerce Customers
 
-                                                                   Image Source:[ Kaggle Dataset](https://www.kaggle.com/shashwatwork/ecommerce-data)
+Image Source:[ Kaggle Dataset](https://www.kaggle.com/shashwatwork/ecommerce-data)
 
 
-#### Supply Chain Domain
+## Supply Chain Domain
 
 
 
@@ -266,7 +272,7 @@ So, let’s have a look at what Learnbay’s Supply Chain domain has to offer.
 * Planning a network: To have a strong supply chain and a profitable business, you need to make sure that all of your inventory and production facilities are properly connected.
 
 
-##### Conclusion:
+## Conclusion:
 
 Now that we’re done with the article on data science in e-commerce, retail, and supply chain domain, I hope it has helped you understand how important it is to know your field. Another point we wanted to emphasize was the possibility of this in the future, as well as in the present. Take a look at the[ Data Science & AI Certification| Domain Specialization For Professionals course](https://www.learnbay.co/data-science-course/data-science-certification-courses/) to learn more about the Data Science course or visit Learnbay’s[ Linkedin](https://www.linkedin.com/company/learnbay/),[ Twitter](https://twitter.com/Learnbay1),[ Facebook](https://www.facebook.com/learnbay/)<span style="text-decoration:underline;"> </span>accounts for updates. 
 
