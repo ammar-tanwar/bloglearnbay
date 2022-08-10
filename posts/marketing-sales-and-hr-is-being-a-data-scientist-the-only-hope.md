@@ -273,11 +273,11 @@ Hope you found this blog informative enough.
 
 To know more about Learnbay courses, Do check out our site. Make sure to follow our social for more amazing content:
 
-Twitter:[ https://twitter.com/Learnbay1](https://twitter.com/Learnbay1)
+Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
 
 Facebook:[ https://www.facebook.com/learnbay/](https://www.facebook.com/learnbay/)
 
-LinkedIn:[ https://www.linkedin.com/company/learnbay/mycompany/](https://www.linkedin.com/company/learnbay/mycompany/)
+LinkedIn:[ https://www.linkedin.com/company/learnbay/](https://www.linkedin.com/company/learnbay/)
 
 
 ## Bibliography

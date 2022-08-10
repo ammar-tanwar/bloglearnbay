@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 
 import { IoIosArrowForward, IoIosArrowDown } from "react-icons/io";
-import Image from "next/image";
 import TabData from "./TabData";
 import styles from "./Tabs.module.css";
+import { BsDot } from "react-icons/bs";
 
-const Tabs = () => {
+const Tabs = ({ handleIcon }) => {
   const [viewAll, setViewAll] = useState(true);
   const [oneYear, setOneYear] = useState(false);
   const [nonTech, setNonTech] = useState(false);
@@ -31,7 +31,15 @@ const Tabs = () => {
               <span
                 key={TabData[0].id}
                 id="0"
+                onMouseOver={() => {
+                  setViewAll(true);
+                  setOneYear(false);
+                  setNonTech(false);
+                  setGuarantee(false);
+                  setStack(false);
+                }}
                 onClick={() => setViewAll(!viewAll)}
+                className={viewAll ? styles.spanActive : styles.span}
               >
                 {TabData[0].title}
                 <IoIosArrowDown />
@@ -47,6 +55,7 @@ const Tabs = () => {
                   setGuarantee(false);
                   setStack(false);
                 }}
+                className={viewAll ? styles.spanActive : styles.span}
               >
                 {TabData[0].title}
                 <IoIosArrowForward />
@@ -56,72 +65,90 @@ const Tabs = () => {
             {viewAll ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                <a href="https://learnbay.co/advance-data-science-certification-courses"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/Advance-Data-Science.webp"
-                        width="180"
-                        height="55"
-                        alt="Learnbay" 
-                      />
-                    </div>
-                  </div></a>
-                  <a href="https://learnbay.co/data-science-ai-for-managers"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/Data-Science-and-AI-for.webp"
-                        width="180"
-                        height="55"
-                        alt="Learnbay" 
-                      />
-                    </div>
-                  </div></a>
-                </div>
-                <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-software-development-program"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/full-stack-developer.webp"
-                        width="180"
-                        height="55"
-                        alt="Learnbay" 
-                      />
-                    </div>
-                  </div></a>
-                  <a href="https://learnbay.co/artificial-intelligence-certification-course"><div className={styles.Program}>
+                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
                       <div className={styles.ProLeft}>
-                        <Image
-                          src="/Artificial-Intelligence.webp"
-                          width="180"
-                          height="55"
-                          alt="Learnbay" 
-                        />
+                        <h5>Advance Data Science and AI Program</h5>
+                        <span>
+                          250+ Hours <BsDot /> 7 & 9 Months{" "}
+                        </span>
                       </div>
-                    </div></a>
-                </div>
-                <div className={styles.Row}>
-                <a href="https://learnbay.co/full-stack-web-development-program"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/full-stack-development.webp"
-                        width="180"
-                        height="55"
-                        alt="Learnbay" 
-                      />
                     </div>
-                  </div></a>
+                  </a>
+                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI for Managers & Leaders</h5>
+                        <span>
+                          400+ Hours <BsDot /> 11 & 13 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
                 </div>
                 <div className={styles.Row}>
-                <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course"><div className={styles.Program}>
+                  <a href="https://learnbay.co/full-stack-software-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
                       <div className={styles.ProLeft}>
-                        <Image
-                          src="/JOB.webp"
-                          width="180"
-                          height="55"
-                          alt="Learnbay" 
-                        />
+                        <h5>Full Stack Software Development</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
                       </div>
-                  </div></a>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Advance AI & ML Program For Tech Professionals</h5>
+                        <span>
+                          350+ Hours <BsDot /> 9 & 11 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/full-stack-web-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Web Development Program</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI With Job Guarantee</h5>
+                        <span>
+                          500+ Hours <BsDot /> 13 & 15 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
                 </div>
               </div>
             ) : (
@@ -138,6 +165,7 @@ const Tabs = () => {
                   setGuarantee(false);
                   setStack(false);
                 }}
+                className={oneYear ? styles.spanActive : styles.span}
                 onClick={() => setOneYear(!oneYear)}
               >
                 {TabData[1].title}
@@ -154,6 +182,7 @@ const Tabs = () => {
                   setGuarantee(false);
                   setStack(false);
                 }}
+                className={oneYear ? styles.spanActive : styles.span}
               >
                 {TabData[1].title}
                 <IoIosArrowForward />
@@ -161,75 +190,98 @@ const Tabs = () => {
             )}
             {oneYear ? (
               <div className={styles.RowWrap}>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/data-science-certification-courses"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/DATA-SCIENCE-AND-AI.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                      />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/data-science-ai-for-managers"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Data-Science-and-AI-for.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-              <a href="https://learnbay.co/advance-data-science-certification-courses"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/Advance-Data-Science.webp"
-                        width="180"
-                        height="55"
-                        alt="Learnbay" 
-                      />
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/data-science-certification-courses">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science Foundation Program</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
                     </div>
-                  </div></a>
-                <a href="https://learnbay.co/artificial-intelligence-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Artificial-Intelligence.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Advance Data Science & AI Program</h5>
+                        <span>
+                          250+ Hours <BsDot /> 7 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Advance AI & ML Program For Tech Professionals</h5>
+                        <span>
+                          350+ Hours <BsDot /> 9 & 11 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI for Managers & Leaders</h5>
+                        <span>
+                          400+ Hours <BsDot /> 11 & 13 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI With Job Guarantee</h5>
+                        <span>
+                          500+ Hours <BsDot /> 13 & 15 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/business-analytics-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Business Analytics
+                          <br /> Program
+                        </h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Analytics
+                          <br /> Program</h5>
+                        <span>
+                          180+ Hours <BsDot /> 5 & 6.5 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
               </div>
-              <div className={styles.Row}>
-              <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/JOB.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-              <a href="https://learnbay.co/business-analytics-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/BA.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-            </div>
             ) : (
               ""
             )}
@@ -237,7 +289,15 @@ const Tabs = () => {
               <span
                 key={TabData[2].id}
                 id="2"
+                onMouseOver={() => {
+                  setViewAll(false);
+                  setOneYear(false);
+                  setNonTech(true);
+                  setGuarantee(false);
+                  setStack(false);
+                }}
                 onClick={() => setNonTech(!nonTech)}
+                className={nonTech ? styles.spanActive : styles.span}
               >
                 {TabData[2].title}
                 <IoIosArrowDown />
@@ -253,6 +313,7 @@ const Tabs = () => {
                   setGuarantee(false);
                   setStack(false);
                 }}
+                className={nonTech ? styles.spanActive : styles.span}
               >
                 {TabData[2].title}
                 <IoIosArrowForward />
@@ -261,31 +322,37 @@ const Tabs = () => {
 
             {nonTech ? (
               <div className={styles.RowWrap}>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/full-stack-web-development-program"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/full-stack-development.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/full-stack-web-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Web Development Program</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/full-stack-software-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Software Development Program</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
               </div>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/full-stack-software-development-program"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/full-stack-developer.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-            </div>
             ) : (
               ""
             )}
@@ -301,6 +368,7 @@ const Tabs = () => {
                   setStack(false);
                 }}
                 onClick={() => setGuarantee(!Guarantee)}
+                className={Guarantee ? styles.spanActive : styles.span}
               >
                 {TabData[3].title}
                 <IoIosArrowDown />
@@ -316,6 +384,7 @@ const Tabs = () => {
                   setGuarantee(true);
                   setStack(false);
                 }}
+                className={Guarantee ? styles.spanActive : styles.span}
               >
                 {TabData[3].title}
                 <IoIosArrowForward />
@@ -324,29 +393,35 @@ const Tabs = () => {
             {Guarantee ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/JOB.webp"
-                        width="180"
-                        height="55"
-                        alt="Learnbay" 
-                      />
+                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI With Job Guarantee</h5>
+                        <span>
+                          500+ Hours <BsDot /> 13 & 15 Months{" "}
+                        </span>
+                      </div>
                     </div>
-                  </div></a>
+                  </a>
                 </div>
                 <div className={styles.Row}>
-                <a href="https://learnbay.co/full-stack-web-development-program"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/full-stack-development.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
+                  <a href="https://learnbay.co/full-stack-web-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Web Development Program</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
               </div>
             ) : (
               ""
@@ -363,6 +438,7 @@ const Tabs = () => {
                   setStack(true);
                 }}
                 onClick={() => setStack(!Stack)}
+                className={Stack ? styles.spanActive : styles.span}
               >
                 {TabData[4].title}
                 <IoIosArrowDown />
@@ -378,6 +454,7 @@ const Tabs = () => {
                   setGuarantee(false);
                   setStack(true);
                 }}
+                className={Stack ? styles.spanActive : styles.span}
               >
                 {TabData[4].title}
                 <IoIosArrowForward />
@@ -385,108 +462,133 @@ const Tabs = () => {
             )}
             {Stack ? (
               <div className={styles.RowWrap}>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/data-science-certification-courses"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/DATA-SCIENCE-AND-AI.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                      />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/full-stack-software-development-program"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/full-stack-developer.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/data-science-certification-courses">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science Foundation Program</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/full-stack-web-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Web Development Program</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Advance Data Science & AI Program</h5>
+                        <span>
+                          250+ Hours <BsDot /> 7 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+
+                  <a href="https://learnbay.co/full-stack-software-development-program">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Software Development</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Advance AI & ML Program For Tech Professionals</h5>
+                        <span>
+                          350+ Hours <BsDot /> 9 & 11 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI for Managers & Leaders</h5>
+                        <span>
+                          400+ Hours <BsDot /> 11 & 13 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI With Job Guarantee</h5>
+                        <span>
+                          500+ Hours <BsDot /> 13 & 15 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/business-analytics-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Business Analytics <br /> Program
+                        </h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/data-analytics-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Data Analytics <br /> Program
+                        </h5>
+                        <span>
+                        180+ Hours <BsDot /> 5 & 6.5 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/dsa-system-design">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>DSA & <br/>System Design</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 6 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
               </div>
-              <div className={styles.Row}>
-              <a href="https://learnbay.co/advance-data-science-certification-courses"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Advance-Data-Science.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/full-stack-web-development-program"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/full-stack-development.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-              <a href="https://learnbay.co/artificial-intelligence-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Artificial-Intelligence.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/data-science-ai-for-managers"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Data-Science-and-AI-for.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/JOB.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/business-analytics-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/BA.webp"
-                      width="180"
-                      height="55"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/data-analytics-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/DA.webp"
-                      width="180"
-                      height="55"
-                      layout="intrinsic"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-            </div>
             ) : (
               ""
             )}
@@ -498,211 +600,292 @@ const Tabs = () => {
           <div className={styles.middlePanel}>
             {viewAll ? (
               <div className={styles.RowWrap}>
-              <div className={styles.Row}>
-              <a href="https://learnbay.co/advance-data-science-certification-courses"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Advance-Data-Science.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/data-science-ai-for-managers"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Data-Science-and-AI-for.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/full-stack-software-development-program"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/full-stack-developer.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/artificial-intelligence-certification-course"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/Artificial-Intelligence.webp"
-                        width="300"
-                        height="80"
-                        alt="Learnbay" 
-                      />
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Advance Data Science and AI Program</h5>
+                        <span>
+                          250+ Hours <BsDot /> 7 & 9 Months{" "}
+                        </span>
+                      </div>
                     </div>
-                  </div></a>
-              </div>
-              <div className={styles.Row}>
-              <a href="https://learnbay.co/full-stack-web-development-program"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/full-stack-development.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-              <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/JOB.webp"
-                        width="300"
-                        height="80"
-                        alt="Learnbay" 
-                      />
+                  </a>
+                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI for Managers & Leaders</h5>
+                        <span>
+                          400+ Hours <BsDot /> 11 & 13 Months{" "}
+                        </span>
+                      </div>
                     </div>
-                </div></a>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/full-stack-software-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Software Development</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Advance AI & ML Program For Tech Professionals</h5>
+                        <span>
+                          350+ Hours <BsDot /> 9 & 11 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/full-stack-web-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Web Development Program</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/dsa-system-design">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>DSA & <br/>System Design</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 6 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI With Job Guarantee</h5>
+                        <span>
+                          500+ Hours <BsDot /> 13 & 15 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
               </div>
-            </div>
             ) : (
               ""
             )}
             {oneYear ? (
               <div className={styles.RowWrap}>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/data-science-certification-courses"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/DATA-SCIENCE-AND-AI.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                
-                
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/data-science-certification-courses">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science Foundation Program</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Advance Data Science & AI Program</h5>
+                        <span>
+                          250+ Hours <BsDot /> 7 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Advance AI & ML Program For Tech Professionals</h5>
+                        <span>
+                          350+ Hours <BsDot /> 9 & 11 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI for Managers & Leaders</h5>
+                        <span>
+                          400+ Hours <BsDot /> 11 & 13 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI With Job Guarantee</h5>
+                        <span>
+                          500+ Hours <BsDot /> 13 & 15 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/business-analytics-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Business Analytics
+                          <br /> Program
+                        </h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/data-analytics-certification-course">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                      <h5>
+                          Data Analytics
+                          <br /> Program
+                        </h5>
+                        <span>
+                        180+ Hours <BsDot /> 5 & 6.5 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
               </div>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/advance-data-science-certification-courses"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Advance-Data-Science.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                
-                
-              </div>
-              <div className={styles.Row}>
-              <a href="https://learnbay.co/artificial-intelligence-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Artificial-Intelligence.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/data-science-ai-for-managers"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Data-Science-and-AI-for.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/JOB.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/business-analytics-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/BA.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-            </div>
             ) : (
               ""
             )}
             {nonTech ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-web-development-program"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/full-stack-development.webp"
-                        width="300"
-                        height="80"
-                        alt="Learnbay" 
-                      />
+                  <a href="https://learnbay.co/full-stack-web-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Web Development Program</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
                     </div>
-                  </div></a>
+                  </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-software-development-program"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/full-stack-developer.webp"
-                        width="300"
-                        height="80"
-                        alt="Learnbay" 
-                      />
+                  <a href="https://learnbay.co/full-stack-software-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Software Development Program</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
                     </div>
-                  </div></a>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/dsa-system-design">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>DSA & <br/>System Design</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 6 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
                 </div>
               </div>
+              
             ) : (
               ""
             )}
             {Guarantee ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/JOB.webp"
-                        width="300"
-                        height="80"
-                        alt="Learnbay" 
-                      />
+                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI With Job Guarantee</h5>
+                        <span>
+                          500+ Hours <BsDot /> 13 & 15 Months{" "}
+                        </span>
+                      </div>
                     </div>
-                  </div></a>
+                  </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-web-development-program"><div className={styles.Program}>
-                    <div className={styles.ProLeft}>
-                      <Image
-                        src="/full-stack-development.webp"
-                        width="300"
-                        height="80"
-                        alt="Learnbay" 
-                      />
+                  <a href="https://learnbay.co/full-stack-web-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Web Development Program</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
                     </div>
-                  </div></a>
+                  </a>
                 </div>
               </div>
             ) : (
@@ -710,110 +893,132 @@ const Tabs = () => {
             )}
             {Stack ? (
               <div className={styles.RowWrap}>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/data-science-certification-courses"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/DATA-SCIENCE-AND-AI.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                
-                <a href="https://learnbay.co/full-stack-web-development-program"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/full-stack-development.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/data-science-certification-courses">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science Foundation Program</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/full-stack-web-development-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Web Development Program</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Advance Data Science & AI Program</h5>
+                        <span>
+                          250+ Hours <BsDot /> 7 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+
+                  <a href="https://learnbay.co/full-stack-software-development-program">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Full Stack Software Development</h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Advance AI & ML Program For Tech Professionals</h5>
+                        <span>
+                          350+ Hours <BsDot /> 9 & 11 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI for Managers & Leaders</h5>
+                        <span>
+                          400+ Hours <BsDot /> 11 & 13 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Data Science and AI With Job Guarantee</h5>
+                        <span>
+                          500+ Hours <BsDot /> 13 & 15 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/business-analytics-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Business Analytics <br /> Program
+                        </h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://learnbay.co/data-analytics-certification-course">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Data Analytics <br /> Program
+                        </h5>
+                        <span>
+                        180+ Hours <BsDot /> 5 & 6.5 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://learnbay.co/dsa-system-design">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          DSA & <br />System Design
+                        </h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 6 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
               </div>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/advance-data-science-certification-courses"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Advance-Data-Science.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                
-                <a href="https://learnbay.co/full-stack-software-development-program"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/full-stack-developer.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-              <a href="https://learnbay.co/artificial-intelligence-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Artificial-Intelligence.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/data-science-ai-for-managers"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/Data-Science-and-AI-for.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/JOB.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-                <a href="https://learnbay.co/business-analytics-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/BA.webp"
-                      width="300"
-                      height="80"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-              <div className={styles.Row}>
-                <a href="https://learnbay.co/data-analytics-certification-course"><div className={styles.Program}>
-                  <div className={styles.ProLeft}>
-                    <Image
-                      src="/DA.webp"
-                      width="300"
-                      height="80"
-                      layout="intrinsic"
-                      alt="Learnbay" 
-                    />
-                  </div>
-                </div></a>
-              </div>
-            </div>
             ) : (
               ""
             )}

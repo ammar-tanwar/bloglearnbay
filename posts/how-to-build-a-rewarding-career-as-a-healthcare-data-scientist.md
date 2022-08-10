@@ -182,8 +182,8 @@ For more such content, do check out our site:[ Learnbay](https://www.learnbay.co
 
 You can subscribe to our social media channels to get regular Data science and AI updates. 
 
-Twitter:[ https://twitter.com/Learnbay1](https://twitter.com/Learnbay1)
+Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
 
 Facebook:[ https://www.facebook.com/learnbay/](https://www.facebook.com/learnbay/)
 
-LinkedIn:[ https://www.linkedin.com/company/learnbay/mycompany/](https://www.linkedin.com/company/learnbay/mycompany/)
+LinkedIn:[ https://www.linkedin.com/company/learnbay/](https://www.linkedin.com/company/learnbay/)

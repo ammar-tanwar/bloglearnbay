@@ -274,7 +274,7 @@ Image Source:[ Kaggle Dataset](https://www.kaggle.com/shashwatwork/ecommerce-dat
 
 ## Conclusion:
 
-Now that we’re done with the article on data science in e-commerce, retail, and supply chain domain, I hope it has helped you understand how important it is to know your field. Another point we wanted to emphasize was the possibility of this in the future, as well as in the present. Take a look at the[ Data Science & AI Certification| Domain Specialization For Professionals course](https://www.learnbay.co/data-science-course/data-science-certification-courses/) to learn more about the Data Science course or visit Learnbay’s[ Linkedin](https://www.linkedin.com/company/learnbay/),[ Twitter](https://twitter.com/Learnbay1),[ Facebook](https://www.facebook.com/learnbay/)<span style="text-decoration:underline;"> </span>accounts for updates. 
+Now that we’re done with the article on data science in e-commerce, retail, and supply chain domain, I hope it has helped you understand how important it is to know your field. Another point we wanted to emphasize was the possibility of this in the future, as well as in the present. Take a look at the[ Data Science & AI Certification| Domain Specialization For Professionals course](https://www.learnbay.co/data-science-course/data-science-certification-courses/) to learn more about the Data Science course or visit Learnbay’s[ Linkedin](https://www.linkedin.com/company/learnbay/),[ Twitter]( https://twitter.com/Learnbay),[ Facebook](https://www.facebook.com/learnbay/)<span style="text-decoration:underline;"> </span>accounts for updates. 
 
 
 ##### Bibliography

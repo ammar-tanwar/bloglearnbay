@@ -252,8 +252,8 @@ To conclude it is very evident by now that data science in energy, oil, and gas 
 
 To know more about Learnaby do check out[ Learnbay’s](https://www.learnbay.co/data-science-course/) socials
 
-Twitter:[ https://twitter.com/Learnbay1](https://twitter.com/Learnbay1)
+Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
 
 Facebook:[ https://www.facebook.com/learnbay/](https://www.facebook.com/learnbay/)
 
-LinkedIn:[ https://www.linkedin.com/company/learnbay/mycompany/](https://www.linkedin.com/company/learnbay/mycompany/)
+LinkedIn:[ https://www.linkedin.com/company/learnbay/](https://www.linkedin.com/company/learnbay/)

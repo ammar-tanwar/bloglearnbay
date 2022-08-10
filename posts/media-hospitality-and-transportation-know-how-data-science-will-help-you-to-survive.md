@@ -303,11 +303,11 @@ The role of data science in media, transportation, and hospitality is huge. The 
 
 To know more about domain specializations,[ click here](https://www.learnbay.co/data-science-course/data-science-certification-courses/) and make sure to follow all our socials:
 
-Twitter:[ https://twitter.com/Learnbay1](https://twitter.com/Learnbay1)
+Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
 
 Facebook:[ https://www.facebook.com/learnbay/](https://www.facebook.com/learnbay/)
 
-LinkedIn:[ https://www.linkedin.com/company/learnbay/mycompany/](https://www.linkedin.com/company/learnbay/mycompany/)
+LinkedIn:[ https://www.linkedin.com/company/learnbay/](https://www.linkedin.com/company/learnbay/)
 
 
 ## Bibliography
