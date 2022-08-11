@@ -34,4 +34,4 @@ I would suggest that steps 1-5 be minimized further to one step that provided a 
 A segmented linear decomposition is great for course design and infographics, but not best for learning and getting results. I think the modules or steps should be integrated. Studying computer science can make you a good computer scientist (for whomever needs whatever that is) and a more rounded engineer, but to be a great programmer, you need to practice programming.
 I think the same applies to working data problems. To get great at working problems end-to-end, you need to focus on and practice this process and learn relevant theory in the context of this process. It will act like a great knife, cutting scope to what is required and relevant, rather than all that happens to be in the courses and textbooks.
 To learn data science, work data problems, a lot. To be a certified Data Scientist do look upto the course of Learnbay in here.
-//Add link
+[ Learnbay in here](http://learnbay.co/)
