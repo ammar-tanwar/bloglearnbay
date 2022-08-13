@@ -18,7 +18,7 @@ export default function Post({ postData, posts }) {
     <section className={styles.MainS}>
     <Head>
           <title>{postData.title}</title>
-        <meta name="description" content="Learnbay Courses" />
+        <meta name="description" content="Learnbay - Advance Data Science Course With IBM Certification" />
         <link   href="/Learnbay-Favicon-L.png" />
         </Head>
         <div className={styles.DivImg}>

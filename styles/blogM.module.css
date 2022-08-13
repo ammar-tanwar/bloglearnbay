@@ -267,7 +267,7 @@
 }
 
 .BackP {
-  background: url("/blog1.webp");
+  background: url("https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog1.webp");
   height: 400px;
   background-size: cover;
   background-repeat: no-repeat;

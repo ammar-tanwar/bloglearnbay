@@ -74,7 +74,7 @@ const Form = ({ popup, setTrigger, downloadBrochure }) => {
       off();
     }
 
-    if (router.pathname === "https://blog.learnbay.co/") {
+    if (router.pathname === "/") {
       router.push("/Thank-you");
       return;
     }
