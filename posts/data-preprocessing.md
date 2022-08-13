@@ -41,7 +41,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 ## 
 
-<img src="/blog/data.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data.png" width="400px" class="img"  /></img>
 
 
 
@@ -55,7 +55,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<img src="/blog/data1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data1.png"   class="img"  /></img>
 
 
 
@@ -70,7 +70,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<img src="/blog/data2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data2.png"   class="img"  /></img>
 
 
 4. Robust Scaler
@@ -82,7 +82,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<img src="/blog/data3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data3.png"   class="img"  /></img>
 
 
 
@@ -95,7 +95,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<img src="/blog/data4.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data4.png"   class="img"  /></img>
 
 
 6. Binarization

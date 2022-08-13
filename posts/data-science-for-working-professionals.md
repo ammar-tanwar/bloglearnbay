@@ -64,7 +64,7 @@ Exercise on the way you spend time on everyday things, revise it according to yo
 Involve with the people that come from the field of Data Science, know about the insider story of the field and about how it works. Having field knowledge is very much necessary, remember that when you get into data science you will have to work in teams, so practice[ skills in communication and confidence](https://medium.com/somethingnew/social-and-soft-skills-required-in-a-data-scientist-21801fa85724). Get interactive with the people by asking them about the ways to reach to the field, this way you will build good connections and will get great suggestions as well. Start associating yourself with the people who belongs to Data science, you will need to get used to that.
 
 
-<img src="/blog/working.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/working.jpg"   style="width: 100%;"  /></img>
 
 ## A good course
 

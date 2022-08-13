@@ -38,7 +38,7 @@ We can understand the working of the Random Forest algorithm with the help of fo
 * Step 1 − First, start with the selection of random samples from a given dataset. Do sampling without replacement.
 
 
-<img src="/blog/rfm1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm1.png"   class="img"  /></img>
 
 
 Sampling without replacement stats that the training data split into several small samples and then the result we get is a combination of all the data set. If we have 1000 features in a data set the splitting will happen with 10 features each in a small training data and all split training data contains equal no of features. The result is based on which training data has the highest value.
@@ -210,7 +210,8 @@ filled=True, rounded=True,
 
 special_characters=True)
 
-graph = pydotplus.graph_from_dot_data(dot_data.getvalue())
+graph = pydotplus.graph_from_dot_data
+(dot_data.getvalue())
 
 Image(graph.create_png())
 
@@ -280,7 +281,7 @@ plt.legend(loc="lower right")
 plt.show()
 
 
-<img src="/blog/rfm2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm2.png"   class="img"  /></img>
 
 
 
@@ -341,7 +342,7 @@ plot_confusion_matrix(predictions, normalize=False)
 plt.show()
 
 
-<img src="/blog/rfm3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm3.png"   class="img"  /></img>
 
 
 
@@ -397,7 +398,8 @@ filled=True, rounded=True,
 
 special_characters=True)
 
-graph = pydotplus.graph_from_dot_data(dot_data.getvalue())
+graph = pydotplus.graph_from_dot_data
+(dot_data.getvalue())
 
 Image(graph.create_png())
 

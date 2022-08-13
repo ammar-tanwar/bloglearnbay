@@ -5,3 +5,9 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+
+module.exports = {
+  images: {
+    domains: ["learnbay-wb.s3.ap-south-1.amazonaws.com"],
+  },
+};

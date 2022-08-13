@@ -19,7 +19,7 @@ tableData:
   ]
 ---
 
-<img src="/blog/manager.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg" style="width: 100%;"/></img>
 
 
 ## Old School Project Management expertise Is Now outdated? But Businesses Saved And Revived By Data Science orientation.
@@ -85,7 +85,7 @@ Managers use current market trends to create a product for the general public. T
 
 
 
-<img src="/blog/manager1.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager1.jpg" style="width: 100%;" /></img>
 
 
 

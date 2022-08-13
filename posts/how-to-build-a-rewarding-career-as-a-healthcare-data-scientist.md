@@ -6,7 +6,7 @@ headerImg: "/blog/health.png"
 date: "May 16, 2022"
 tag: [ Data Science, Machine Learning ]
 author: "Admin"
-category: "Data Science"
+category: "Data Science" 
 position: "Editor"
 readTime: ""
 h1: "How to Build a Rewarding Career As a Healthcare Data Scientist?"
@@ -29,7 +29,7 @@ Conclusion,
 Thus, data science has the potential to improve the entire healthcare system.
 
 
-<img src="/blog/health.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health.png"   class="img"  /></img>
 
 
 Maybe you’ve worked in healthcare for a while and want to shift your career path to put your analytical skills to the test. Or perhaps, you have strong experience in data analysis and are seeking a field where you can put your knowledge and expertise to use. Even, the case might be that you are not happy with your current career growth in the healthcare industry and dreaming of a lucrative package like your IT friends. Believe me, that’s also possible and the key is nothing but _data science and AI_.
@@ -46,7 +46,7 @@ _[Data science and AI](https://www.learnbay.co/data-science-course/data-science-
 Today Medical Science has advanced rapidly, increasing life expectancy around the world. However, as longevity increases, the healthcare system faces a growing demand for their services, rising expenses, and a workforce struggling to meet the requirements of their patients. 
 * 5 Major Applications of Data Science in Healthcare 
 
-<img src="/blog/health1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health1.png"   class="img"  /></img>
 
 
  
@@ -113,7 +113,7 @@ On average, The annual salary of Data scientists in Healthcare and life science 
 Some of the popular life science companies are as follows:
 
 
-<img src="/blog/health2.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health2.jpg"   class="img"  /></img>
 
 
 
@@ -133,32 +133,32 @@ Here are some project ideas you can work on to level-up your portfolio:
 
 1. Medical image segmentation: Medical image segmentation is the process of extracting areas of interest from 3D image data, such as Magnetic Resonance Imaging (MRI)  or Computerized Tomography (CT) scans. The main purpose of this project is to identify the areas of anatomy required for a particular investigation. 
  
-<img src="/blog/health3.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health3.jpg"   class="img"  /></img>
 
 
  
 [ Image segmentation dataset by Kaggle](https://www.kaggle.com/competitions/siim-acr-pneumothorax-segmentation/data)
 2. Ultrasound nerve segmentation: It is very crucial to accurately identify the neural structure in ultrasound images before inserting the patient’s pain catheter. In this project, you’ll learn how cutting-edge deep learning techniques are utilized to develop an end-to-end system where a person just feeds on an ultrasound image of the region to a deep learning model where it segments the nerve seen in the image.
 
-<img src="/blog/health4.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health4.jpg"   class="img"  /></img>
 
  
 [ Ultrasound Nerve Segmentation dataset from Kaggle](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=train_masks.csv)
 3. Heart failure prediction: Heart failure is a common consequence of cardiovascular diseases (CVDs) resulting in an increase in mortality rate. In this project, you’ll build a machine learning model that predicts mortality by heart failure. Throughout this project, you’ll learn multiple ML algorithms including Random Forest and K-NN, data wrangling, and filtering techniques.
 
-<img src="/blog/health5.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health5.jpg"   class="img"  /></img>
 
  
 [ Heart failure prediction dataset from Kaggle](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
 4. Depression, anxiety, and stress prediction: Depression and stress Detection is the challenge of identifying signs of depression in individuals. This sign may be identified in several behavioral changes in a person. These symptoms can be predicted by developing a model with AI and ML algorithms such as CNN,[ support vector machine](https://www.learnbay.co/data-science-course/support-vector-machines/), KNN classifier, and linear regression.
 
-<img src="/blog/health6.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health6.jpg"   class="img"  /></img>
 
  
 [ Depression analysis dataset by Kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset)
 5. Breast cancer prediction: Breast cancer affects approximately 12% of women worldwide and is on the verge to rise even more. This project helps doctors to predict whether a patient has breast cancer or not. You’ll be required to create an ML model to classify malignant and benign tumors by utilizing the supervised machine learning classifier technique.
 
-<img src="/blog/health7.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health7.jpg"   class="img"  /></img>
 
  
 [ Breast cancer prediction dataset by Kaggle](https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction)

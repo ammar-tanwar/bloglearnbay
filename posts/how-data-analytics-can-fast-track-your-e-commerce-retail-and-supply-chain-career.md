@@ -2,7 +2,7 @@
 title: How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/E-Commerce.png"
+headerImg: "/blog/E-Commerce1.png"
 date: "May 7, 2022"
 tag: [ Data Science, Technology ]
 author: "Admin"
@@ -41,15 +41,15 @@ _People are still changing how they shop in early 2021, according to a survey fr
 _But do you know even after such massive demand so many retail and e-comm employees are losing their jobs?_
 
 
-<img src="/blog/E-Commerce1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png" style="width: 100%;" /></img>
 
 
 Source: Author
 
 _On the other hand, there is also an intelligent community of professionals to reach the top of success. And you can also be a part of that community. _To know how, please continue reading this blog. 
+ 
 
-
-<img src="/blog/E-Commerce.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce2.png"   class="img"  /></img>
 
 
 
@@ -100,7 +100,7 @@ Data science is changing how people shop and how businesses order and ship thing
 
 Every year, the number, diversity, and usefulness of retail data increase dramatically. When retailers make decisions based on data, they use data science to make money. This is how businesses are using[ data science in retail](https://www.learnbay.co/data-science-course/necessity-of-machine-learning-in-retail/) to stay competitive, improve customer service, and make more money and sales. And, as technology advances, data science in the retail business will have much more to give!
 
-<img src="/blog/E-Commerce2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce3.png"   class="img"  /></img>
 
 Image by Author
 
@@ -148,7 +148,7 @@ This means that more and more businesses see the benefits of using data science 
 People who work in[ Supply Chain data science](https://www.payscale.com/research/US/Job=Data_Scientist/Salary/749e089b/Supply-Chain) make on average 14.3 lakhs a year, according to the 56 profiles. They make between 5.0 lakhs and 28.2 lakhs per year. Those in the top 10% earn more than £18.4 lakhs a year.
 
 
-<img src="/blog/E-Commerce3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce4.png"   class="img"  /></img>
        
 
 Why are Data Scientists getting paid at a higher level? 
@@ -160,7 +160,7 @@ Why are Data Scientists getting paid at a higher level?
 
 
 
-<img src="/blog/E-Commerce4.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce5.jpg"   class="img"  /></img>
 
 
  Image by Author
@@ -209,7 +209,7 @@ _It’s all about domain specializations at Learnbay, and one of them is Retail,
 
 
 
-<img src="/blog/E-Commerce5.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce6.png"   class="img"  /></img>
 
 
 
@@ -254,7 +254,7 @@ So, let’s have a look at what Learnbay’s Supply Chain domain has to offer.
 
 //no img given for this
 
-<img src="/blog/E-Commerce6.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce7.png"   class="img"  /></img>
 
 
 

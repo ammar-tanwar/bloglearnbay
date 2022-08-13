@@ -63,22 +63,19 @@ _Final Verdict: _In order to offset the increased variance due to sampling, k ca
 57. What is the thumb rule to approach the KNN problem?
 
 Ans:
-
-
-
-    1. Load the data
-    2. Initialize the value of k
-        * Calculate the distance between test data and each row of training data. Here we will use Euclidean distance as our distance metric since it’s the most popular method. The other metrics that can be used are Chebyshev, cosine, etc.
-        * Sort the calculated distances in ascending order based on distance values
-        * Get top k rows from the sorted array
-        * Get the most frequent class of these rows
-        * Return the predicted class for getting the predicted class, iterate from 1 to the total number of training data points.
+1. Load the data
+2. Initialize the value of k
+* Calculate the distance between test data and each row of training data. Here we will use Euclidean distance as our distance metric since it’s the most popular method. The other metrics that can be used are Chebyshev, cosine, etc.
+* Sort the calculated distances in ascending order based on distance values
+* Get top k rows from the sorted array
+* Get the most frequent class of these rows
+* Return the predicted class for getting the predicted class, iterate from 1 to the total number of training data points.
 
 KNN Code Snippet:
 
 
 
-<img src="/blog/interview1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview1.png"   class="img"  /></img>
 
 
 
@@ -90,7 +87,7 @@ For example, if we only had two features like Height and Hair length of an indiv
 
 
 
-<img src="/blog/interview2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview2.png"   class="img"  /></img>
 
 
 
@@ -98,7 +95,7 @@ Now, we will find some line that splits the data between the two differently cla
 
 
 
-<img src="/blog/interview3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview3.png"   class="img"  /></img>
 
 
 
@@ -142,9 +139,9 @@ Long Answer:
 5. Unfortunately, quite often, the number of dimensions you have to add (via transformations) depends on the number of dimensions you already have (and not linearly)
     1. For datasets with a lot of features, it becomes next to impossible to try out all the interesting transformations
 6. Enter the Kernel Trick
-    * Thankfully, the only thing SVMs need to do in the (higher-dimensional) feature space (while training) is computing the pair-wise dot products
-    * For a given pair of vectors (in lower-dimensional feature space) and a transformation into a higher-dimensional space, there exists a function (The Kernel Function) which can compute the dot product in the higher-dimensional space without explicitly transforming the vectors into the higher-dimensional space first
-    * We are saved!
+* Thankfully, the only thing SVMs need to do in the (higher-dimensional) feature space (while training) is computing the pair-wise dot products
+* For a given pair of vectors (in lower-dimensional feature space) and a transformation into a higher-dimensional space, there exists a function (The Kernel Function) which can compute the dot product in the higher-dimensional space without explicitly transforming the vectors into the higher-dimensional space first
+* We are saved!
 
 63. Why is SVM called as Large Margin Classifier?
 
@@ -154,7 +151,7 @@ Long Answer: choosing the best hyperplane is to choose one in which the distance
 
 
 
-<img src="/blog/interview4.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview4.png"   class="img"  /></img>
 
 
 
@@ -240,7 +237,7 @@ SVM code snippet:
 
 
 
-<img src="/blog/interview5.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview5.png"   class="img"  /></img>
 
 
 
@@ -307,7 +304,7 @@ Naive Bayes considers that the features are independent of each other. However, 
 Naïve Bayes Code Snippet:
 
 
-<img src="/blog/interview6.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview6.png"   class="img"  /></img>
 
 
 
@@ -342,7 +339,7 @@ Ans: The basic idea behind partitioning methods, such as k-means clustering, is 
 The Elbow method looks at the total WSS as a function of the number of clusters: One should choose a number of clusters so that adding another cluster doesn’t improve much better the total WSS.
 
 
-<img src="/blog/interview7.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview7.png"   class="img"  /></img>
 
 
 
@@ -385,7 +382,7 @@ KNN code snippet:
 
 
 
-<img src="/blog/interview8.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview8.png"   class="img"  /></img>
 
 
 
@@ -419,13 +416,13 @@ Parts of Dendrogram:
 
 
 
-<img src="/blog/interview9.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview9.png"   class="img"  /></img>
 
 Hierarchical Clustering Code Snippet:
 
 
 
-<img src="/blog/interview10.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview10.png"   class="img"  /></img>
 
 
 
@@ -443,7 +440,7 @@ Ans: Adaboost combines multiple weak learners into a single strong learner. The 
 
 Adaboost Code Snippet:
 
-<img src="/blog/interview11.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview11.png"   class="img"  /></img>
 
 
 
@@ -462,26 +459,23 @@ By combining weak learners after weak learners, our final model is able to accou
 Gradient Boosting Code Snippet:
 
 
-<img src="/blog/interview12.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview12.png"   class="img"  /></img>
 
 
 
 84. What is XGBoost?
 
 Ans: XGBoost stands for eXtreme Gradient Boosting. XGBoost is an implementation of gradient boosted decision trees designed for speed and performance. Gradient boosting machines are generally very slow in implementation because of sequential model training. Hence, they are not very scalable. Thus, XGBoost is focused on computational speed and model performance. XGBoost provides:
-
-
-
-    * Parallelization of tree construction using all of your CPU cores during training.
-    * Distributed Computing for training very large models using a cluster of machines.
-    * Out-of-Core Computing for very large datasets that don’t fit into memory.
-    * Cache Optimization of data structures and algorithm to make the best use of hardware.
+* Parallelization of tree construction using all of your CPU cores during training.
+* Distributed Computing for training very large models using a cluster of machines.
+* Out-of-Core Computing for very large datasets that don’t fit into memory.
+* Cache Optimization of data structures and algorithm to make the best use of hardware.
 
 XGBoost Code Snippet:
 
 
 
-<img src="/blog/interview13.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview13.png"   class="img"  /></img>
 
 
 
@@ -499,7 +493,7 @@ We will look at 4 enhancements to basic gradient boosting:
 4. Penalized Learning
 1. Tree Constraints: A good general heuristic is that the more constrained tree creation is, the more trees you will need in the model, and the reverse, where less constrained individual trees, the fewer trees that will be required.
 
-         Below are some constraints that can be imposed on the construction of decision trees:
+Below are some constraints that can be imposed on the construction of decision trees:
 
 
 
@@ -592,7 +586,7 @@ PCA code snippet:
 
 
 
-<img src="/blog/interview14.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview14.png"   class="img"  /></img>
 
 
 
@@ -634,7 +628,7 @@ Y = X x W (where X is an n * d dimension matrix representing the n samples and y
 LDA code snippet:
 
 
-<img src="/blog/interview15.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview15.png"   class="img"  /></img>
 
 
 

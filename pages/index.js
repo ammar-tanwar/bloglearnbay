@@ -18,7 +18,19 @@ export default function blog({ allPostsData }) {
         <meta name="description" content="Learnbay Courses" />
         <link   href="/Learnbay-Favicon-L.png" />
       </Head>
-      <div className={styles.BackP} style={{marginTop:"70px"}}><h4><b>Our Blogs</b></h4></div>
+      <div className={styles.Back}>
+        <h4 style={{ textAlign: "left" }}>
+        Our Blogs
+        </h4>
+        <div className={styles.right}>
+          <Image
+            src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog-header.png"
+            width="522"
+            height="380"
+            layout="intrinsic"
+          />
+        </div>
+      </div>
       <section className={styles.blogHead}>
         <p>Latest Blogs</p>
       </section>
@@ -41,7 +53,7 @@ export default function blog({ allPostsData }) {
                 </a>
                 <div className={styles.profileWrap}>
                   <Image
-                    src="/avatar-02.webp"
+                    src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/avatar-02.webp"
                     width="80"
                     height="45"
                     layout="intrinsic"
@@ -123,7 +135,7 @@ export default function blog({ allPostsData }) {
                             <p>{desc}</p>
                             <div className={styles.profileWrap}>
                               <Image
-                                src="/avatar-02.webp"
+                                src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/avatar-02.webp"
                                 width="80"
                                 height="45"
                                 layout="intrinsic"
@@ -191,7 +203,7 @@ export default function blog({ allPostsData }) {
                             <p>{desc}</p>
                             <div className={styles.profileWrap}>
                               <Image
-                                src="/avatar-02.webp"
+                                src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/avatar-02.webp"
                                 width="80"
                                 height="45"
                                 layout="intrinsic"

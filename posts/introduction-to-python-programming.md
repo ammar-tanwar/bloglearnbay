@@ -59,7 +59,7 @@ Well, everybody is now focusing on the data science career switch. Professionals
 Yes, these are the output of so many python programmer’s hardships. Hence, while the key focus is now on data scientist and data scientist courses, the hidden job opportunities are very high for python programmers. On LinkedIn.com, at present, almost 528,242 python jobs are available worldwide. The number is increasing by at least 10% every day.So, suppose you hold a technical background or a student. In that case, it’s best for you that you focus on earning experience (for working professionals) or degrees in core python programming (for students)Python programmers are well compensated. 
 Python developers earn around 7 to 18 lakhs/year (6 t0 ten years of experience) as base salary with additional compensation of almost the same amounts in India. This is quite high in comparison to other programming developers like PHP, Java, C++, etc. Even SMEs are offering an average of 2 to 3 lakhs salary package to freshers.
 
-<img src="/blog/soft1.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/soft1.jpg"  style="width: 100%;" /></img>
 
 
 ## What are the uses of python Software?

@@ -209,6 +209,10 @@
 .timeIcon {
   font-size: 16px;
   color: #2D9CD7;
+} 
+
+.leftInfo article p img {
+  width: auto;
 }
 
 @media (max-width: 481px) {
@@ -274,5 +278,9 @@
     .rPost {
       margin-right: 10px;
       width: 95%;
+    }
+
+    .leftInfo article p img {
+      width: 100%;
     }
 }

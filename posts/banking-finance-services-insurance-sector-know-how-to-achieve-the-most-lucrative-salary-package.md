@@ -35,7 +35,7 @@ The BFSI  industry is witnessing a major transformation in the Indian economy, f
 However, in 2020, this scenario changed due to an unprecedented event that shook the entire world, the BFSI sector was heavily hit like any other industry resulting in layoffs and halting of employment. 
 
 
-<img src="/blog/job.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job.png"   class="img"  /></img>
 
 
 Nevertheless, as the lockdown has been lifted and the world learned to live with this normalcy, the hiring trends in the BFSI sector are beginning to shine again. 
@@ -62,7 +62,7 @@ _But the risk of layoffs in the BFSI sector can be easily overcome by adapting t
 
 A lot of people who work for IT companies, BPO companies, or technical and professional service businesses use this word. It stands for “Banking, Financial Services, and Insurance.” They do data processing or test software applications or write software for this kind of business. This is because people have more money, the banking, financial services, and insurance (BFSI) industry in India are expected to develop dramatically. In the last 15 years, the BFSI sector has undergone a lot of changes, and it will be a big part of India’s economic development based on inclusive growth. 
 
-<img src="/blog/job1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job1.png"   class="img"  /></img>
 
 
 ource: By the Author
@@ -85,7 +85,7 @@ People have strived to handle money effectively since the invention of money. Te
 Data science is a nebulous subset of computer science that has piqued the interest of many experts seeking new prospects. Finance is a manifestation of data at several levels in and of itself. Only that, this is financial data, which is critical for financial firms. History shows that data science was used before it became a separate field of computer science, as shown in the short history above. Decisions are being made based on data because there is so much information out there now. To make things even faster for banks and other financial institutions, they can now quickly look at a lot of customer data like their personal and security information a lot more quickly.
 
 
-<img src="/blog/job2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job2.png"   class="img"  /></img>
 
 
 
@@ -131,7 +131,7 @@ A lot of people in the world of finance are using Robo-advisors all the time. In
 
 
 
-<img src="/blog/job3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job3.png"   class="img"  /></img>
 
 
 
@@ -250,7 +250,7 @@ Even though digitization promises more security and cost savings, its real value
 Companies in the banking, finance, services, and insurance sectors in India in 2021:
 
 
-<img src="/blog/job4.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job4.png"   class="img"  /></img>
 Image by Author
 
 Source: Glassdoor
@@ -288,7 +288,7 @@ In this field, there are a lot of different skills that are needed to get a job.
 Those with one year or more of experience can expect to earn 4,62,321 per year. A seasoned expert may also receive a variety of incentives, such as a 7-30% share of revenue, based on the work level completed.
 
 
-<img src="/blog/job5.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job5.png"   class="img"  /></img>
 
   Source: CollegeDunia
 
@@ -308,10 +308,10 @@ Course Professionals with 1+ years of expertise in the BFSI area are required. N
 
 [https://360digitmg.com/applications-of-data-science-in-finance-and-insurance](https://360digitmg.com/applications-of-data-science-in-finance-and-insurance)
 
-[https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/](https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/)
+[https://activewizards.com/blog/](https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/)
 
-[https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp](https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp)
+[https://www.investopedia.com/ask/answers/](https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp)
 
-[https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies](https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies)
+[https://financialservices.gov.in/](https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies)
 
-[https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary](https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary)
+[https://www.payscale.com/research/IN/](https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary)

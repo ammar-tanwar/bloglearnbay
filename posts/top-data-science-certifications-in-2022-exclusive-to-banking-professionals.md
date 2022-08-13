@@ -18,7 +18,7 @@ tableData:
 The Best Data Science Course For Finance are,    
   ]
 ---
-<img src="/blog/bank.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bank.jpg" style="width: 100%;" /></img>
 
 ## Do you hold a finance or banking background? These 5 data science courses for banking professionals can make you eligible for a 400% hike.
 
@@ -37,7 +37,7 @@ Financial analysts work for banks, insurance companies, real estate, and investm
 
 
 
-<img src="/blog/bank1.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bank1.jpg" style="width: 100%;" /></img>
 
 
 
@@ -80,7 +80,7 @@ Duration – 17.5 hours of on-demand video
 
 
 
-<img src="/blog/bank2.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bank2.jpg" style="width: 100%;" /></img>
 
 
 
@@ -148,7 +148,7 @@ Course Duration: Weekday – 7.5 months
 Weekend – 9 months
 
 
-<img src="/blog/bank3.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bank3.jpg" style="width: 100%;" /></img>
 
 
 

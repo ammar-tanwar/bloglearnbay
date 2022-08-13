@@ -18,7 +18,7 @@ tableData:
     What Are The Latest Trends In Data Scientist Salary?,
   ]
 ---
-<img src="/blog/trends.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"   class="img"  /></img>
 
 ## Technology Has No Break- Know The Data Science Latest Trends Leading Different Industries.
 
@@ -54,7 +54,7 @@ Because of the rapid evolution of this technology, augmented analytics modules a
 
 
 
-<img src="/blog/trends1.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends1.jpg"   class="img"  /></img>
 
 
 
@@ -121,7 +121,7 @@ The Future of AIaas technology will be divided into well-defined and self-contai
 
 
 
-<img src="/blog/trends2.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends2.jpg"   class="img"  /></img>
 
 
 

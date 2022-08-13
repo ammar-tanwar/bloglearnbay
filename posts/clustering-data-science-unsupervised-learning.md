@@ -23,7 +23,7 @@ Clustering & Types Of Clustering is the process of finding similar groups in dat
 
 
 
-<img src="/blog/clustering.jpeg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering.jpeg"   class="img"  /></img>
 
 
 The method of identifying similar groups of data in a dataset is called clustering. It is one of the most popular techniques in data science. Entities in each group and is comparatively more similar to entities of that group than those of the other groups. In this article, I will be taking you through the types of clustering, different clustering algorithms and a comparison between two of the most commonly used clustering methods.
@@ -62,7 +62,7 @@ k-means clustering is a method of vector quantization, originally from signal pr
 
 
 
-<img src="/blog/clustering1.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering1.jpg"   class="img"  /></img>
 
 K means is an iterative clustering algorithm that aims to find local maxima in each iteration. This algorithm works in these 5 steps :
 
@@ -77,9 +77,14 @@ K means is an iterative clustering algorithm that aims to find local maxima in e
 
 from pandas import DataFrame
 
-Data = {'x': [25,34,22,27,33,33,31,22,35,34,67,54,57,43,50,57,59,52,65,47,49,48,35,33,44,45,38,43,51,46],
+* Data = {'x': [25,34,22,27,33,33,
+31,22,35,34,67,54,57,43,50,57,59,
+52,65,47,49,48,35,33,44,45,38,43,
+51,46],
 
-'y': [79,51,53,78,59,74,73,57,69,75,51,32,40,47,53,36,35,58,59,50,25,20,14,12,20,5,29,27,8,7] }
+* 'y': [79,51,53,78,59,74,73,57,
+69,75,51,32,40,47,53,36,35,58,59,
+50,25,20,14,12,20,5,29,27,8,7] }
 
 df = DataFrame(Data,columns=['x','y'])
 
@@ -93,9 +98,14 @@ import matplotlib.pyplot as plt
 
 from sklearn.cluster import KMeans
 
-Data = {'x': [25,34,22,27,33,33,31,22,35,34,67,54,57,43,50,57,59,52,65,47,49,48,35,33,44,45,38,43,51,46],
+Data = {'x': [25,34,22,27,33,33,
+31,22,35,34,67,54,57,43,50,57,59,
+52,65,47,49,48,35,33,44,45,38,
+43,51,46],
 
-'y': [79,51,53,78,59,74,73,57,69,75,51,32,40,47,53,36,35,58,59,50,25,20,14,12,20,5,29,27,8,7] }
+'y': [79,51,53,78,59,74,73,57,69,
+75,51,32,40,47,53,36,35,58,59,50,
+25,20,14,12,20,5,29,27,8,7] }
 
 df = DataFrame(Data,columns=['x','y'])
 
@@ -115,7 +125,7 @@ The results of hierarchical clustering can be shown using the[ dendrogram](https
 
 
 
-<img src="/blog/clustering2.jpeg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering2.jpeg"   class="img"  /></img>
 
 
 
@@ -125,11 +135,11 @@ Two important things that you should know about hierarchical clustering are:
 
 * This algorithm has been implemented above using a bottom-up approach. It is also possible to follow the top-down approach starting with all data points assigned in the same cluster and recursively performing splits till each data point is assigned a separate cluster.
 * The decision of merging two clusters is taken on the basis of closeness of these clusters. There are multiple metrics for deciding the closeness of two clusters :
-    * Euclidean distance: ||a-b||<sub>2</sub> = √(Σ(a<sub>i</sub>-b<sub>i</sub>))
-    * Squared Euclidean distance: ||a-b||<sub>2<sup>2</sup></sub> = Σ((a<sub>i</sub>-b<sub>i</sub>)<sup>2</sup>)
-    * Manhattan distance: ||a-b||<sub>1</sub> = Σ|a<sub>i</sub>-b<sub>i</sub>|
-    * Maximum distance:||a-b||<sub>INFINITY</sub> = max<sub>i</sub>|a<sub>i</sub>-b<sub>i</sub>|
-    * Mahalanobis distance: √((a-b)<sup>T</sup> S<sup>-1</sup> (-b))   {where, s : covariance matrix}
+* Euclidean distance: ||a-b||<sub>2</sub> = √(Σ(a<sub>i</sub>-b<sub>i</sub>))
+* Squared Euclidean distance: ||a-b||<sub>2<sup>2</sup></sub> = Σ((a<sub>i</sub>-b<sub>i</sub>)<sup>2</sup>)
+* Manhattan distance: ||a-b||<sub>1</sub> = Σ|a<sub>i</sub>-b<sub>i</sub>|
+* Maximum distance:||a-b||<sub>INFINITY</sub> = max<sub>i</sub>|a<sub>i</sub>-b<sub>i</sub>|
+* Mahalanobis distance: √((a-b)<sup>T</sup> S<sup>-1</sup> (-b))   {where, s : covariance matrix}
 
 import numpy as np
 
@@ -176,7 +186,7 @@ textcoords='offset points', ha='right', va='bottom')
 plt.show()
 
 
-<img src="/blog/clustering3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering3.png"   class="img"  /></img>
 
 
 
@@ -202,7 +212,7 @@ show_leaf_counts=True)
 
 plt.show()
 
-<img src="/blog/clustering4.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering4.png" class="img" class="img"  /></img>
 
 
 [Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.

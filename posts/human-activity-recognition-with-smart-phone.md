@@ -195,7 +195,7 @@ plt.show()
 
  
 
-<img src="/blog/human1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human1.png"   class="img"  /></img>
 
 fig = plt.figure(figsize=(32,24))
 
@@ -211,7 +211,7 @@ plt.show()
 
  
 
-<img src="/blog/human2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human2.png"   class="img"  /></img>
 
 
 Click here to watch the video:

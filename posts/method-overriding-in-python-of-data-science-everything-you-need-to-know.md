@@ -14,7 +14,7 @@ id: "method-overriding-in-python-of-data-science-everything-you-need-to-know"
 tableData:
   [
    Method Overriding in Python of Data Science Everything You Need to Know,
-In Python, What Is Method Overriding?,
+In Python What Is Method Overriding?,
 Multiple And Multilevel Inheritances In Method Overriding,
 What Is The Use Of Method Overriding In Python For Data Science,
 Method Overriding Characteristics,
@@ -35,12 +35,12 @@ The method overriding used in Python means creating around two methods with the 
 Python is also called as an object-oriented programming language i.e. OOP where coding is dependent on classes and objects. Since we build a new class by using methods and data definitions available in the base class, development & maintenance time reduce and code reusability increases. The concept of Method overriding in python allows us to change or override the Parent Class function in the Child Class as well. Aside from that, The concept allows developers to structure simple, reusable codes which then denote individual objects. Method Overriding is one of the many beneficial features that OOP languages provide.
 
 
-## In Python, What Is Method Overriding?
+## In Python What Is Method Overriding?
 
 In Python, method overriding occurs when two methods with the same name accomplish distinct duties. Method overriding is nothing but a specific feature of object-oriented programming languages. It allows a subclass or child class to give the programme with certain attributes or a specific data implementation procedure that is already defined in the parent or superclass.
 
 
-<img src="/blog/over.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/over.jpg"   class="img"  /></img>
 
 
 Method overriding allows a child class to modify functions defined by its ancestral classes. When the same returns, parameters, or names are entered in the subclass as in the parent class, the subclass’s implementation method overrides the parent class’s method. Method overriding is the term for this. In other words, the child class gets access to the parent class method’s properties and functions while also extending its own functions to the method.

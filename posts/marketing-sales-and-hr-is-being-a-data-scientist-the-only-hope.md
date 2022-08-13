@@ -29,7 +29,7 @@ Sales, marketing, and HR have been among the most profitable industries in the 2
 
 On the other hand, The covid-19 pandemic has heavily disrupted marketing resulting in the layoff of many employees.
 
-<img src="/blog/market1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market1.png"   class="img"  /></img>
 
 Due to this most of the sales and marketing professionals are struggling and freshers are confused at the same time. _So, are the sales and marketing careers approaching a dead end!!_
 
@@ -49,7 +49,7 @@ But if you think that the competition was only between two separate companies, I
 
 
 
-<img src="/blog/market2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market2.png"   class="img"  /></img>
 
 Especially after the pandemic, faulty marketing strategies caused a lot of small businesses and even bigger chains to close down because they did no good to their business. This resulted in the unemployment of many people, and some left their jobs without having a fallback plan. So what is the solution to survive in this industry? _Data Science! Applying DS techniques to sales and marketing can be a game-changer. _
 
@@ -69,7 +69,7 @@ Data science is the key to transforming multi-source data into actionable insigh
 Customer emotional analysis can be used to extract emotions from communication. This allows us to understand emotions and use this understanding in our business. The algorithms are used to analyze sentiment. They can be used to assess the general attitude towards texts on social media, blogs, and review sites for text mining. With just a click, automated sentiment analysis techniques allow real-time insight. These tools highlight the subtext of comments, taking facts, emotions, and general views into account. These emotions can also be broadened beyond the general classification of positive, negative, or neutral observations.
 
 
-<img src="/blog/market3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market3.png"   class="img"  /></img>
 
 2.  Maximization of customer lifetime value (CLV)
 
@@ -180,7 +180,7 @@ In India, the average salary for the position of Data Scientist in the sales and
 
 
 
-<img src="/blog/market4.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market4.png"   class="img"  /></img>
 
 
 * Beginner (1-2 years)-₹ 6,11,000 PA
@@ -191,7 +191,7 @@ In India, the average salary for the position of Data Scientist in the sales and
 ### _Based on Role_
 
 
-<img src="/blog/market5.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market5.png"   class="img"  /></img>
 
 
 * Data Scientist – ₹ 8,00,000 PA
@@ -202,7 +202,7 @@ In India, the average salary for the position of Data Scientist in the sales and
 ### _Based on location._
 
 
-<img src="/blog/market6.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market6.png"   class="img"  /></img>
 
 * Mumbai – ₹ 7,88,789
 * Chennai – ₹ 7,94,403
@@ -237,7 +237,7 @@ Big-Bazar like companies employs this machine learning model in order to identif
 
 
 
-<img src="/blog/market7.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market7.png"   class="img"  /></img>
 [Sales and Marketing Forecasting Dataset from Kaggle](https://www.kaggle.com/harrimansaragih dummy-advertising-and-sales-data)
 
 
@@ -248,7 +248,7 @@ All businesses face challenges in hiring the right talent. The challenge is made
 
 
 
-<img src="/blog/market8.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market8.png"   class="img"  /></img>
 
 
 [Resume Screening criterion Dataset from Kaggle](https://www.kaggle.com/gauravduttakiit/resume-screening-using-machine-learning)
@@ -260,7 +260,7 @@ All businesses face challenges in hiring the right talent. The challenge is made
 Keyword generation can be defined as the task of automatically identifying a set of terms that best describe the subject matter of a document. This is an important technique in information retrieval systems (IR). Keywords simplify and speed up the search. Keyword generation can be used for text classification and topic modeling. S.Art and al extracted keywords to determine patent similarity. Keyword generation allows you to automatically index data, summarize text, or create tag clouds using the most representative keywords.
 
 
-<img src="/blog/market9.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market9.png"   class="img"  /></img>
 
 
 [Kaggle dataset for keyword generation or extraction](https://www.kaggle.com/akhatova/extract-keywords)

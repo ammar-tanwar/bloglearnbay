@@ -3,6 +3,19 @@
   margin-left: 100px;
   margin-right: 100px;
 }
+.Back {
+  background-color: #f4fcfe;
+  height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 59% 39%;
+  align-items: center;
+  margin: auto;
+  padding: 0px 100px;
+  margin-top: 70px;
+}
 .blogHead p,
 .tagNameH {
   font-size: 30px;
@@ -263,6 +276,7 @@
 align-items: center;
 margin: auto;
 padding: 0px 100px;
+margin-top: 70px;
 }
 
 @media (max-width: 600px) {
@@ -270,6 +284,14 @@ padding: 0px 100px;
     margin-left: 20px;
     margin-right: 20px;
   }
+
+  .Back {
+    height: 100%;
+    text-align: left;
+    padding: 100px 20px 30px 20px;
+    display: block;
+  }
+
   .blogHead p,
 .tagNameH {
   font-size: 26px;

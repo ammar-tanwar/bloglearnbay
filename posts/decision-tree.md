@@ -57,7 +57,7 @@ Decision tree:
 3. The decision made can be easily explained.
 
 
-<img src="/blog/dt.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt.png"   class="img"  /></img>
 
 
 There are the following steps to get a decision with the decision tree
@@ -68,7 +68,7 @@ There are the following steps to get a decision with the decision tree
 
 
 
-<img src="/blog/dt1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt1.png"   class="img"  /></img>
 
 
 2.Information Gain:
@@ -193,7 +193,7 @@ Other gains
 Conclusion – Outlook is winner & thus becomes root of the tree
 
 
-<img src="/blog/dt2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt2.png"   class="img"  /></img>
 
 
 
@@ -244,7 +244,7 @@ Conclusion : Humidity is the best choice on sunny branch:
 
 
 
-<img src="/blog/dt3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt3.png"   class="img"  /></img>
 
 
 
@@ -334,7 +334,7 @@ Final tree:
 
 
 
-<img src="/blog/dt4.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt4.png"   class="img"  /></img>
 
 
 

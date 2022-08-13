@@ -44,7 +44,7 @@ There are many companies and startups working especially as website developers o
 
                                                 
 
-<img src="/blog/imp.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/imp.png"   class="img"  /></img>
 
 
 
