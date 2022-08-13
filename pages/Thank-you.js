@@ -38,7 +38,7 @@ const ThankYou = () => {
           <p className={styles.Ptopp}>
           Data Science<br />Foundation Program
           </p>
-          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Data+Science+Foundation+Program+Learnbay.pdf" target="_blank" >
+          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Data+Science+Foundation+Program+Learnbay.pdf" target="_blank" rel="noreferrer" >
           <button className={styles.Button}>
                   <FiDownload className="bIcons" />
                     Download Brochure
@@ -57,7 +57,7 @@ const ThankYou = () => {
           <p className={styles.Ptopp}>
           Advanced Data Science<br />& AI Program
           </p>
-          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Advance+Data+Science+and+AI+Certification+Program+Learnbay.pdf" target="_blank" >
+          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Advance+Data+Science+and+AI+Certification+Program+Learnbay.pdf" target="_blank" rel="noreferrer" >
           <button className={styles.Button}>
                   <FiDownload className="bIcons" /> 
                     Download Brochure
@@ -77,7 +77,7 @@ const ThankYou = () => {
           <p className={styles.Ptopp}>
           Advance AI & ML Program<br />for Tech Professionals
           </p>
-          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Advance+AI+%26+ML+Certification+Program+Learnbay.pdf" target="_blank" >
+          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Advance+AI+%26+ML+Certification+Program+Learnbay.pdf" target="_blank" rel="noreferrer" >
           <button className={styles.Button}>
                   <FiDownload className="bIcons" />
                     Download Brochure
@@ -101,7 +101,7 @@ const ThankYou = () => {
           <p className={styles.Ptopp}>
           Full-Stack Web <br />Development Program
           </p>
-          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Full+Stack+Web+Development+Program+Learnbay.pdf" target="_blank" >
+          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Full+Stack+Web+Development+Program+Learnbay.pdf" target="_blank" rel="noreferrer" >
           <button className={styles.Button}>
                   <FiDownload className="bIcons" />
                     Download Brochure
@@ -120,7 +120,7 @@ const ThankYou = () => {
           <p className={styles.Ptopp}>
           Full-Stack Software <br />Development Program
           </p>
-          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Full+Stack+Software+Development+Program+Learnbay.pdf" target="_blank" >
+          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Full+Stack+Software+Development+Program+Learnbay.pdf" target="_blank" rel="noreferrer" >
           <button className={styles.Button}>
                   <FiDownload className="bIcons" /> 
                     Download Brochure
@@ -140,7 +140,7 @@ const ThankYou = () => {
           <p className={styles.Ptopp}>
           Data Structures Algorithms <br />And System Design
           </p>
-          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Data+Structure+Algorithm+%26+System+Design+Learnbay.pdf" target="_blank" >
+          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Data+Structure+Algorithm+%26+System+Design+Learnbay.pdf" target="_blank" rel="noreferrer" >
           <button className={styles.Button}>
                   <FiDownload className="bIcons" />
                     Download Brochure
@@ -164,7 +164,7 @@ const ThankYou = () => {
           <p className={styles.Ptopp}>
           Data Science & AI <br />For Managers
           </p>
-          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Data+Science+%26+AI+Certification+Program+For+Managers+%26+Leaders+Learnbay.pdf" target="_blank" >
+          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Data+Science+%26+AI+Certification+Program+For+Managers+%26+Leaders+Learnbay.pdf" target="_blank" rel="noreferrer" >
           <button className={styles.Button}>
                   <FiDownload className="bIcons" />
                     Download Brochure
@@ -183,7 +183,7 @@ const ThankYou = () => {
           <p className={styles.Ptopp}>
           Data Science & AI <br />with Job Guarantee Program
           </p>
-          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Job+Guarantee+or+100%25+Money+Back+Data+Science+%26+AI+Certification+Program+Learnbay.pdf" target="_blank" >
+          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Job+Guarantee+or+100%25+Money+Back+Data+Science+%26+AI+Certification+Program+Learnbay.pdf" target="_blank" rel="noreferrer" >
           <button className={styles.Button}>
                   <FiDownload className="bIcons" /> 
                     Download Brochure
@@ -203,7 +203,7 @@ const ThankYou = () => {
           <p className={styles.Ptopp}>
           Data Analytics <br />Program
           </p>
-          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Data+Analytics+Certification+Program+Learnbay.pdf" target="_blank" >
+          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Data+Analytics+Certification+Program+Learnbay.pdf" target="_blank" rel="noreferrer" >
           <button className={styles.Button}>
                   <FiDownload className="bIcons" />
                     Download Brochure
@@ -229,7 +229,7 @@ const ThankYou = () => {
           <p className={styles.Ptopp}>
           Business Analytics <br />Program
           </p>
-          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Business+Analytics+Certification+Program+Learnbay.pdf" target="_blank" ><button className={styles.Button}>
+          <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Business+Analytics+Certification+Program+Learnbay.pdf" target="_blank" rel="noreferrer" ><button className={styles.Button}>
                   <FiDownload className="bIcons" />
                   
                     Download Brochure
