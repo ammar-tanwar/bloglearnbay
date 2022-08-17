@@ -2,7 +2,7 @@
 title: Differentiating Data Scientist and Data Analyst
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/diff1.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/diff1.jpg"
 date: "August 14, 2022"
 tag: [ Data Science ]
 category: "Data Science"

@@ -2,7 +2,7 @@
 title: Exploratory Data Analysis on Iris dataset
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/exp.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/exp.png"
 date: "January 3, 2021"
 tag: [ Uncategorized ]
 author: "Admin"

@@ -2,7 +2,7 @@
 title: Everything About the XGBoost Classifier
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/xg.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xg.png"
 date: "February 04, 2022"
 tag: [ Data Science ]
 category: "Data Science"

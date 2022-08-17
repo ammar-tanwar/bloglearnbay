@@ -2,7 +2,7 @@
 title: Media Hospitality and Transportation Know How Data Science Will Help you to Survive
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/media-01.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-01.jpg"
 date: "april 6, 2022"
 tag: [ Hot topic ]
 category: "Hot topic"

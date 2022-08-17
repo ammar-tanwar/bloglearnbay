@@ -16,7 +16,7 @@ tableData:
     Self-paced,
     Scheduled learning,
     Doubt Clearance,
-    Real-time Projects,
+    Real-time Projects, 
   ]
 ---
 # Oops! Why 2022 Is Too Late For Video-Based Data Science Learning

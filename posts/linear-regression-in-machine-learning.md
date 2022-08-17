@@ -2,7 +2,7 @@
 title: Linear Regression in Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/reg.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reg.jpg"
 date: "December 30, 2022"
 tag: [ Machine learning ]
 category: "Machine learning"

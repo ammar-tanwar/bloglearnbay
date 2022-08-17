@@ -2,7 +2,7 @@
 title: What is Supervised, Unsupervised Learning, and Reinforcement Learning in Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/super.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/super.png"
 date: "April 7, 2022"
 category: "Hot Topics"
 tag: [ Hot Topics ]

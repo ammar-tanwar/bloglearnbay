@@ -2,7 +2,7 @@
 title: Investing 3 lakhs on Data science Certification Course? Is it really worth it
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/invest.jpeg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/invest.jpeg"
 date: "April 13, 2022"
 tag: [ Data Science ]
 category: "Data Science"

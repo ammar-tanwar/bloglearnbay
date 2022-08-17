@@ -2,7 +2,7 @@
 title: Marketing, Sales, and HR Is being a data scientist the only hope?
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/market.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market.png"
 date: "April 07, 2022"
 tag: [ Hot Topics ]
 category: "Hot Topics"

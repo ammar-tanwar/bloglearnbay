@@ -2,7 +2,7 @@
 title: Method Overriding in Python of Data Science Everything You Need to Know
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/over.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/over.jpg"
 date: "December 17, 2021"
 tag: [ Python ]
 category: "Python"

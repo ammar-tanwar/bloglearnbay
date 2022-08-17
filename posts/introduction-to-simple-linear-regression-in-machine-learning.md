@@ -2,7 +2,7 @@
 title: Introduction to Simple Linear Regression in Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/linear.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear.jpg"
 date: "September 07, 2021"
 tag: [ Machine Learning ]
 category: "Machine Learning"

@@ -2,7 +2,7 @@
 title: Regression techniques in Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/tech.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech.jpg"
 date: "may 29, 2022"
 tag: [ Machine learning ]
 category: "Machine learning"

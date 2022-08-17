@@ -2,7 +2,7 @@
 title: How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/E-Commerce1.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png"
 date: "May 7, 2022"
 tag: [ Data Science, Technology ]
 author: "Admin"

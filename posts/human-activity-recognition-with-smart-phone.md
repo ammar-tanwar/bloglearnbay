@@ -2,7 +2,7 @@
 title: Human Activity Recognition With Smart Phone
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/human.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human.jpg"
 date: "December 19, 2021"
 tag: [ Data Science, Machine Learning ]
 category: "Data Science"

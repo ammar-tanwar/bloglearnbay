@@ -7,6 +7,7 @@ import { BsDot } from "react-icons/bs";
 import { IoTimeOutline } from "react-icons/io5";
 
 export default function blog({ allPostsData }) {
+  const length = parseInt(allPostsData.length);
   let singleCategoryPost = allPostsData.map((post) => {
     return post.category;
   });
@@ -36,7 +37,7 @@ export default function blog({ allPostsData }) {
       </section>
       <section className={styles.blogWrap}>
         {allPostsData
-          .slice(0, 3)
+          .slice(length - 3, length)
           .map(({ id, date, title, author, readTime, headerImg }) => {
             const url = `/${id}`;
             return (

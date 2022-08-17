@@ -2,7 +2,7 @@
 title: Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/job.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job.png"
 date: "April 7, 2022"
 tag: [ Hot Topics ]
 author: "Admin"
