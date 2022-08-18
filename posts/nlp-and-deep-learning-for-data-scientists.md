@@ -3,7 +3,7 @@ title: NLP and Deep Learning for Data Scientists
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nlp.jpg"
-date: "December 17, 2022"
+date: "December 17, 2020"
 tag: [ Data Science, machine learning ]
 category: "Data Science"
 author: "Admin"

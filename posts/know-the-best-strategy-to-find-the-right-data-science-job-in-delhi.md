@@ -3,7 +3,7 @@ title: Know The Best Strategy To Find The Right Data Science Job in Delhi?
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/delhi.jpg"
-date: "August 30, 2022"
+date: "August 30, 2020"
 tag: [ Data Science ]
 category: "Data Science"
 author: "Admin"

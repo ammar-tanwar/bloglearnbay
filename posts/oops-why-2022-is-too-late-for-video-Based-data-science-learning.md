@@ -6,7 +6,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video
 date: "August 17, 2022"
 tag: [ Data Science ]
 category: "Data Science"
-author: "Milan"
+author: "Milan" 
 position: "Editor"
 readTime: "9-10 mins"
 h1: "Oops! Why 2022 Is Too Late For Video-Based Data Science Learning"
@@ -16,6 +16,7 @@ tableData:
     Self-paced,
     Scheduled learning,
     Instructor led online classes,
+    Career guidance and assistance,
     Doubt Clearance,
     Real-time Projects, 
   ]
