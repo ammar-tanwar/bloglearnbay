@@ -4,6 +4,7 @@ import styles from "../styles/blogM.module.css";
 import Head from "next/head";
 import Image from "next/image";
 import { BsDot } from "react-icons/bs";
+import { sortByDate } from "../utils";
 import { IoTimeOutline } from "react-icons/io5";
 
 export default function blog({ allPostsData }) {
@@ -16,9 +17,13 @@ export default function blog({ allPostsData }) {
       <Head>
         <title>Learnbay Courses</title>
         <meta name="description" content="Learnbay Courses" />
-        <link   href="/Learnbay-Favicon-L.png" />
+        <link href="/Learnbay-Favicon-L.png" />
       </Head>
-      <div className={styles.BackP} style={{marginTop:"70px"}}><h4><b>Our Blogs</b></h4></div>
+      <div className={styles.BackP} style={{ marginTop: "70px" }}>
+        <h4>
+          <b>Our Blogs</b>
+        </h4>
+      </div>
       <section className={styles.blogHead}>
         <p>Latest Blogs</p>
       </section>
@@ -63,7 +68,9 @@ export default function blog({ allPostsData }) {
       </section>
       {[...categoryPostTag].map((post, i) => {
         let tag = post;
-        const categoryPosts = allPostsData.filter((post) => post.category === tag);
+        const categoryPosts = allPostsData.filter(
+          (post) => post.category === tag
+        );
         let makeUrl = post.toLowerCase().replace(/\s+/g, "-");
         let url = `/category/${makeUrl}`;
         return (
@@ -225,7 +232,7 @@ export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
   return {
     props: {
-      allPostsData,
+      allPostsData: allPostsData.sort(sortByDate),
     },
   };
 }
