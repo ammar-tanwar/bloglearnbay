@@ -2,7 +2,7 @@
 title: Support Vector Machine
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/vector.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vector.png"
 date: "November 25, 2022"
 tag: [ Machine Learning ]
 category: "Machine Learning"

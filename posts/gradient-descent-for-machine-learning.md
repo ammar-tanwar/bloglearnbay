@@ -2,7 +2,7 @@
 title: Gradient Descent for Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog1.webp"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog1.webp"
 date: "March 6, 2022"
 tag: [ Uncategorized ]
 category: "Uncategorized"

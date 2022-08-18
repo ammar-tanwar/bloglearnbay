@@ -2,7 +2,7 @@
 title: How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/reward.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward.png"
 date: "april 6, 2022"
 tag: [ Hot topic ]
 category: "Hot topic"

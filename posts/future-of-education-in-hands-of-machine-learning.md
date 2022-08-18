@@ -2,7 +2,7 @@
 title: Future of Education in hands of Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/machine.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/machine.jpg"
 date: "June 10, 2022"
 tag: [ Machine Learning ]
 category: "Machine Learning"

@@ -2,7 +2,7 @@
 title: How Does Data Science Promote Project Managers to a New Perspective of Success
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/manager.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg"
 date: "may 30, 2022"
 tag: [ Data Science ]
 category: "Data Science"

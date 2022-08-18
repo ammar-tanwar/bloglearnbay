@@ -2,7 +2,7 @@
 title: Introduction to Python Programming
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/soft.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/soft.jpg"
 date: "April 27, 2022"
 tag: [ Python ]
 category: "Data Science"

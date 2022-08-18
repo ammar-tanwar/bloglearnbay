@@ -2,7 +2,7 @@
 title: Artificial Intelligence in E-commerce
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/ar.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar.jpg"
 category: "Technology"
 date: "April 15, 2021"
 tag: [ Technology ]

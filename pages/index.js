@@ -4,9 +4,11 @@ import styles from "../styles/blogM.module.css";
 import Head from "next/head";
 import Image from "next/image";
 import { BsDot } from "react-icons/bs";
+import { sortByDate } from "../utils";
 import { IoTimeOutline } from "react-icons/io5";
 
 export default function blog({ allPostsData }) {
+  const length = parseInt(allPostsData.length);
   let singleCategoryPost = allPostsData.map((post) => {
     return post.category;
   });
@@ -14,29 +16,21 @@ export default function blog({ allPostsData }) {
   return (
     <>
       <Head>
-        <title>Learnbay - Advance Data Science Course With IBM Certification</title>
-        <meta name="description" content="Learnbay - Advance Data Science Course With IBM Certification" />
-        <link   href="/Learnbay-Favicon-L.png" />
+        <title>Learnbay Courses</title>
+        <meta name="description" content="Learnbay Courses" />
+        <link href="/Learnbay-Favicon-L.png" />
       </Head>
-      <div className={styles.Back}>
-        <h4 style={{ textAlign: "left" }}>
-        Our Blogs
+      <div className={styles.BackP} style={{ marginTop: "70px" }}>
+        <h4>
+          <b>Our Blogs</b>
         </h4>
-        <div className={styles.right}>
-          <Image
-            src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog-header.png"
-            width="522"
-            height="380"
-            layout="intrinsic"
-          />
-        </div>
       </div>
       <section className={styles.blogHead}>
         <p>Latest Blogs</p>
       </section>
       <section className={styles.blogWrap}>
         {allPostsData
-          .slice(0, 3)
+          .slice(length - 3, length)
           .map(({ id, date, title, author, readTime, headerImg }) => {
             const url = `/${id}`;
             return (
@@ -75,7 +69,9 @@ export default function blog({ allPostsData }) {
       </section>
       {[...categoryPostTag].map((post, i) => {
         let tag = post;
-        const categoryPosts = allPostsData.filter((post) => post.category === tag);
+        const categoryPosts = allPostsData.filter(
+          (post) => post.category === tag
+        );
         let makeUrl = post.toLowerCase().replace(/\s+/g, "-");
         let url = `/category/${makeUrl}`;
         return (
@@ -237,7 +233,7 @@ export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
   return {
     props: {
-      allPostsData,
+      allPostsData: allPostsData.sort(sortByDate),
     },
   };
 }

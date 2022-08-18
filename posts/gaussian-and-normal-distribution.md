@@ -2,7 +2,7 @@
 title: Normal and Gaussian Distribution
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/gaussian.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gaussian.png"
 date: "March 29, 2022"
 tag: [ Data Science, Machine Learning ]
 author: "Admin"

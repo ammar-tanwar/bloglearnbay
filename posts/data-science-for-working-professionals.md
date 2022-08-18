@@ -2,7 +2,7 @@
 title: Data Science for working professionals
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/working1.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/working1.jpg"
 date: "July 08, 2022"
 tag: [ Data Science ]
 category: "Data Science"

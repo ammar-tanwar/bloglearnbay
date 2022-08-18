@@ -2,7 +2,7 @@
 title: Clustering & Types Of Clustering
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/medical.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/medical.jpg"
 date: "November 17, 2022"
 tag: [ Machine learning ]
 category: "Machine learning"

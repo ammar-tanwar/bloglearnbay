@@ -2,7 +2,7 @@
 title: Everything About Data Preprocessing
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/databack.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/databack.jpg"
 date: "November 25, 2021"
 tag: [ Data Science]
 author: "Admin"

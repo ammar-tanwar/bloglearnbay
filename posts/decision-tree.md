@@ -2,7 +2,7 @@
 title: Everything About Decision Tree From Scratch
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/tree.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tree.png"
 date: "November, 2021"
 tag: [ Data Science , Machine Learning ]
 author: "Admin"

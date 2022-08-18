@@ -8,6 +8,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { BsDot } from "react-icons/bs";
 import { IoTimeOutline } from "react-icons/io5";
+import { sortByDate } from "../../utils";
 
 export default function CategoryBlog({ categoryPosts }) {
   return (
@@ -59,7 +60,6 @@ export default function CategoryBlog({ categoryPosts }) {
           }
         )}
       </section>
-
     </>
   );
 }
@@ -98,7 +98,7 @@ export async function getStaticProps({ params: { id } }) {
 
   return {
     props: {
-      categoryPosts,
+      categoryPosts: categoryPosts.sort(sortByDate),
     },
   };
 }
