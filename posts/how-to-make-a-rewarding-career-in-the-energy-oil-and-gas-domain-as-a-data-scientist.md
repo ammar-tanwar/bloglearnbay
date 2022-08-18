@@ -4,8 +4,8 @@ desc: "Learnbay one of the best instutute to learn data science course in India,
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward.png"
 date: "april 6, 2022"
-tag: [ Hot topic ]
-category: "Hot topic"
+tag: [ Hot Topics ]
+category: "Hot Topics"
 author: "Admin"
 position: "editor"
 readTime: "14-17 mins"

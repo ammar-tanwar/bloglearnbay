@@ -6,6 +6,8 @@ import Image from "next/image";
 import { BsDot } from "react-icons/bs";
 import { sortByDate } from "../utils";
 import { IoTimeOutline } from "react-icons/io5";
+import generateRssFeed from "../lib/generateRss";
+import generateCategoryRssFeed from "../lib/geneRateCategoryRss";
 
 export default function blog({ allPostsData }) {
   const length = parseInt(allPostsData.length);
@@ -230,6 +232,8 @@ export default function blog({ allPostsData }) {
 }
 
 export async function getStaticProps() {
+  await generateRssFeed();
+  await generateCategoryRssFeed();
   const allPostsData = getSortedPostsData();
   return {
     props: {
