@@ -2,7 +2,7 @@
 title: Exploratory Data Analysis on Iris dataset
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/exp.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/exp.png"
 date: "January 3, 2021"
 tag: [ Uncategorized ]
 author: "Admin"
@@ -35,7 +35,7 @@ import pandas as pd
 
 import matplotlib.pyplot as plt Loading the Iris data iris_data= pd.read_csv("Iris.csv") 
 
-<img src="/blog/iris.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris.jpg"   class="img"  /></img>
 
 
 (150,5)
@@ -54,23 +54,27 @@ iris_virginica = iris.loc[iris["species"] == "virginica"];
 
 iris_versicolor = iris.loc[iris["species"] == "versicolor"];
 
-plt.plot(iris_setso["petal_length"],np.zeros_like(iris_setso["petal_length"]), 'o')
+plt.plot(iris_setso["petal_length"],
+np.zeros_like(iris_setso["petal_length"]), 'o')
 
-plt.plot(iris_versicolor["petal_length"],np.zeros_like(iris_versicolor["petal_length"]), 'o')
+plt.plot(iris_versicolor["petal_length"],
+np.zeros_like(iris_versicolor["petal_length"]), 'o')
 
-plt.plot(iris_virginica["petal_length"],np.zeros_like(iris_virginica["petal_length"]), 'o')
+plt.plot(iris_virginica["petal_length"],
+np.zeros_like(iris_virginica["petal_length"]), 'o')
 
 plt.grid()
 
 plt.show() [ ](https://www.learnbay.co/data-science-course/wp-content/uploads/2020/01/1st.png)
 
-<img src="/blog/iris1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris1.png"   class="img"  /></img>
 
- 2D scatter plot: iris.plot(kind="scatter",x="sepal_length",y="sepal_width")
+ 2D scatter plot: iris.plot(kind="scatter",x="sepal_length"
+ ,y="sepal_width")
 
 plt.show()[ ](https://www.learnbay.co/data-science-course/wp-content/uploads/2020/01/3rd.png)
 
-<img src="/blog/iris2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris2.png"   class="img"  /></img>
 
  2D scatter plot with the seaborn library : import seaborn as sns
 
@@ -78,13 +82,14 @@ sns.set_style("whitegrid");
 
 sns.FacetGrid(iris,hue="species",size=4) \
 
-.map(plt.scatter,"sepal_length","sepal_width") \
+.map(plt.scatter,"sepal_length",
+"sepal_width") \
 
 .add_legend()
 
 plt.show() [ ](https://www.learnbay.co/data-science-course/wp-content/uploads/2020/01/4th.png)
 
-<img src="/blog/iris3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris3.png"   class="img"  /></img>
 
 
 
@@ -156,7 +161,7 @@ plt.plot(bin_edges[1:], cdf)
 
 
 
-<img src="/blog/iris4.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris4.png"   class="img"  /></img>
 
 
 
@@ -166,7 +171,8 @@ print("Means:")
 
 print(np.mean(iris_setosa["petal_length"]))
 
-print(np.mean(np.append(iris_setosa["petal_length"],50)));
+print(np.mean(np.append(iris_setosa
+["petal_length"],50)));
 
 print(np.mean(iris_virginica["petal_length"]))
 

@@ -39,7 +39,7 @@ export default function CategoryBlog({ categoryPosts }) {
                 </a>
                 <div className={styles.profileWrap}>
                   <Image
-                    src="/Blog/avatar-02.webp"
+                    src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/avatar-02.webp"
                     width="80"
                     height="45"
                     layout="intrinsic"

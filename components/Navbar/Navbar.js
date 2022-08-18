@@ -1,10 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
-import {
-  FaArrowRight,
-  FaChevronDown,
-  FaChevronUp,
-} from "react-icons/fa";
+import { FaArrowRight, FaChevronDown, FaChevronUp } from "react-icons/fa";
 import styles from "./Navbar.module.css";
 import Link from "next/link";
 import { GiHamburgerMenu } from "react-icons/gi";
@@ -24,6 +20,10 @@ const Navbar = () => {
   };
   const showMenu = () => {
     setShow(!show);
+  };
+
+  const handleIcon = (data) => {
+    setIcon(data);
   };
 
   const [mobile, setMobile] = useState(false);
@@ -51,31 +51,38 @@ const Navbar = () => {
       </Popup>
       <nav className={styles.nav}>
         <div className={styles.left}>
-          <GiHamburgerMenu className={styles.ham} onClick={showMenu} />
+          <GiHamburgerMenu
+            className={styles.ham}
+            onClick={() => {
+              showMenu();
+              setIcon(false);
+            }}
+          />
+
           <div className={show ? styles.mobileWrapper : styles.hide}>
             <div className={styles.mobileMenu}>
-            <span>
-            <Link href="https://learnbay.co/">Home</Link>
-          </span>
-          <span>
-            <Link href="https://learnbay.co/about-us">About Us</Link>
-          </span>
-          <span>
-            <Link href="https://learnbay.co/demo">Demo</Link>
-          </span>
+              <span onClick={showMenu}>
+                <Link href="https://learnbay.co/">Home</Link>
+              </span>
+              <span onClick={showMenu}>
+                <Link href="https://learnbay.co/about-us">About Us</Link>
+              </span>
+              <span onClick={showMenu}>
+                <Link href="https://learnbay.co/demo">Demo</Link>
+              </span>
 
-          <span>
-            <Link href="/">Blog</Link>
-          </span>
+              <span onClick={showMenu}>
+                <Link href="https://blog.learnbay.co/">Blog</Link> 
+              </span>
 
-          <span>
-            <Link href="https://learnbay.co/contact-us">Contact Us</Link>
-          </span>
+              <span onClick={showMenu}>
+                <Link href="https://learnbay.co/contact-us">Contact Us</Link>
+              </span>
             </div>
           </div>
           <a href="https://learnbay.co/">
             <Image
-              src="/Learnbay-Logo.webp"
+              src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Logo.webp"
               alt="Learnbay"
               quality={100}
               objectFit="contain"
@@ -84,7 +91,13 @@ const Navbar = () => {
             />
           </a>
           {mobile ? (
-            <button onClick={() => setIcon(!icon)} className="hoverBtn">
+            <button
+              onClick={() => {
+                setIcon(!icon);
+                setShow(false);
+              }}
+              className="hoverBtn"
+            >
               Courses
               {icon ? <FaChevronUp /> : <FaChevronDown />}
             </button>
@@ -92,7 +105,10 @@ const Navbar = () => {
             <button
               onMouseEnter={() => setIcon(true)}
               onMouseOver={() => setIcon(true)}
-              onClick={() => setIcon(!icon)}
+              onClick={() => {
+                setIcon(!icon);
+                setShow(false);
+              }}
               className="hoverBtn"
             >
               Courses
@@ -102,11 +118,11 @@ const Navbar = () => {
 
           {icon ? (
             <div
-              className="megaMenu"
+              className={styles.megaMenu}
               onMouseOver={() => setIcon(true)}
               onMouseLeave={() => setIcon(false)}
             >
-              <Tabs />
+              <Tabs handleIcon={handleIcon} />
             </div>
           ) : (
             ""
@@ -124,7 +140,7 @@ const Navbar = () => {
           </span>
 
           <span>
-            <Link href="/">Blog</Link>
+            <Link href="https://blog.learnbay.co/">Blog</Link>
           </span>
 
           <span>

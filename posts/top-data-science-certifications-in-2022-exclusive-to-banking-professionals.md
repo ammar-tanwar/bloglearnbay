@@ -2,7 +2,7 @@
 title: Top Data Science Certifications In 2022- Exclusive To Banking Professionals
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/bank.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bank.jpg"
 date: "June 10, 2022"
 tag: [ Data Science ]
 category: "Data Science"
@@ -18,7 +18,7 @@ tableData:
 The Best Data Science Course For Finance are,    
   ]
 ---
-<img src="/blog/bank.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bank.jpg" style="width: 100%;" /></img>
 
 ## Do you hold a finance or banking background? These 5 data science courses for banking professionals can make you eligible for a 400% hike.
 
@@ -37,7 +37,7 @@ Financial analysts work for banks, insurance companies, real estate, and investm
 
 
 
-<img src="/blog/bank1.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bank1.jpg" style="width: 100%;" /></img>
 
 
 
@@ -80,7 +80,7 @@ Duration – 17.5 hours of on-demand video
 
 
 
-<img src="/blog/bank2.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bank2.jpg" style="width: 100%;" /></img>
 
 
 
@@ -148,7 +148,7 @@ Course Duration: Weekday – 7.5 months
 Weekend – 9 months
 
 
-<img src="/blog/bank3.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bank3.jpg" style="width: 100%;" /></img>
 
 
 
@@ -214,4 +214,4 @@ Weekday – 11 months
 
 Weekend – 13 months
 
-So, these are the list of best data science courses for banking professionals. All of the financial analyst courses are available online to assist you in your quest to master financial analysis. You will learn the necessary skills and tools to become a competent financial analyst- such as financial statement analysis and valuation, financial data analytics, financial planning, analysis, etc. However, choosing a course with a job guarantee seems the best decision if you want a lucrative career within a year. However, it costs a bit higher but offers the best ROI. But yes, whether you are taking a course or not even planning a career shift, still stay updated about data science and AI happenings worldwide. Because within the next few years non, a single job role will be beyond the basic analytical skills. You can get instant updates on the latest news on data science by following us on[  Facebook](https://www.facebook.com/learnbay/), [ Youtube](https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured),[  Linkedin](https://www.linkedin.com/company/learnbay/),  and[ Twitter](https://twitter.com/Learnbay1).
+So, these are the list of best data science courses for banking professionals. All of the financial analyst courses are available online to assist you in your quest to master financial analysis. You will learn the necessary skills and tools to become a competent financial analyst- such as financial statement analysis and valuation, financial data analytics, financial planning, analysis, etc. However, choosing a course with a job guarantee seems the best decision if you want a lucrative career within a year. However, it costs a bit higher but offers the best ROI. But yes, whether you are taking a course or not even planning a career shift, still stay updated about data science and AI happenings worldwide. Because within the next few years non, a single job role will be beyond the basic analytical skills. You can get instant updates on the latest news on data science by following us on[  Facebook](https://www.facebook.com/learnbay/), [ Youtube](https://bit.ly/Learnbay_YouTube),[  Linkedin](https://www.linkedin.com/company/learnbay/),  and[ Twitter]( https://twitter.com/Learnbay).

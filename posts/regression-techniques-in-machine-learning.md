@@ -2,7 +2,7 @@
 title: Regression techniques in Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/tech.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech.jpg"
 date: "may 29, 2022"
 tag: [ Machine learning ]
 category: "Machine learning"
@@ -33,7 +33,7 @@ tableData:
 It is used for classification problems with a linear dataset. In layman’s term, if the depending or target variable is in the binary form (1 0r 0), true or false, yes or no. It is better to decide whether an occurrence is possibly either success or failure.
 
 
-<img src="/blog/tech1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech1.png"   class="img"  /></img>
 
 
 
@@ -57,7 +57,7 @@ The polynomial regression suits the least-squares form. The purpose of an analys
 The formula for this Y=  _β0+ β0x1+e_
 
 
-<img src="/blog/tech2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech2.png"   class="img"  /></img>
 
 
 Additional  features: 
@@ -87,7 +87,7 @@ Additional points:
 It is a method that used when the dataset having multicollinearity which means, the independent variables are strongly related to each other. Although the least-squares estimates are unbiased in multicollinearity, So after adding the degree of bias to the regression, ridge regression can reduce the standard errors.
 
 
-<img src="/blog/tech3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech3.png"   class="img"  /></img>
 
 
 
@@ -105,7 +105,7 @@ It is a method that used when the dataset having multicollinearity which means, 
 Lasso is an abbreviation of the Least Absolute shrinkage and selection operator. This is similar to the ridge regression as it also analyzes the absolute size of the regression coefficients. And the additional features of that are it is capable of reducing the accuracy and variability of the coefficients of the Linear regression models.
 
 
-<img src="/blog/tech4.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech4.png"   class="img"  /></img>
 
 
 Additional points: 

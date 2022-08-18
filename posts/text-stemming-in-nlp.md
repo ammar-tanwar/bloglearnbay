@@ -2,7 +2,7 @@
 title: Text Stemming In NLP
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/stem.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/stem.jpg"
 date: "July 5, 2022"
 tag: [ Data Science ]
 author: "Admin"
@@ -29,7 +29,7 @@ Now we will see how text it works?
 Stemming is the process of reducing inflection in words to their “root” forms such as mapping a group of words to the same stem. Stem words mean the suffix and prefix that have added to the root word. It is the process to produce grammatically variants of root words.  A stemming is provided by the NLP algorithms that are stemming algorithms or stemmers. The stemming algorithm removes the stem from the word. For example, eats, eating, eatery, they are made from the root word “eat“. so here the stemmer removes s, ing, very from the above words to take out meaning that the sentence is about eating something. The words are nothing but different tenses forms of verbs.
 
 
-<img src="/blog/stem1.png" width="100%" /></img>>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/stem1.png"   class="img"  /></img>>
 
 
 This is the general idea to reduce the different forms of the word to their root word.

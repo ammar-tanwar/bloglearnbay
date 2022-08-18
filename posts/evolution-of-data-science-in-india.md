@@ -2,7 +2,7 @@
 title: Evolution of Data Science in India
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/evolution.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/evolution.jpg"
 date: "Febraury 7, 2020"
 tag: [ Data Science ]
 author: "Admin"

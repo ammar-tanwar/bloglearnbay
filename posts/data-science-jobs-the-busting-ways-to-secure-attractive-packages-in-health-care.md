@@ -2,7 +2,7 @@
 title: Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/med.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/med.png"
 date: "April 7, 2022"
 tag: [ Hot Topics ]
 author: "Admin"
@@ -27,7 +27,7 @@ tableData:
   ]
 ---
 
-<img src="/blog/finance.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance.png"   class="img"  /></img>
 
 
 
@@ -39,7 +39,7 @@ However, in 2020, this scenario changed due to an unprecedented event that shook
 
 
 
-<img src="/blog/finance1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance1.png"   class="img"  /></img>
 
 
 
@@ -69,7 +69,7 @@ A lot of people who work for IT companies, BPO companies, or technical and profe
 
 
 
-<img src="/blog/finance2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance2.png"   class="img"  /></img>
 
 
 
@@ -94,7 +94,7 @@ Data science is a nebulous subset of computer science that has piqued the intere
 
 
 
-<img src="/blog/finance3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance3.png"   class="img"  /></img>
 
 
 
@@ -140,7 +140,7 @@ A lot of people in the world of finance are using Robo-advisors all the time. In
 
 
 
-<img src="/blog/finance4.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance4.png"   class="img"  /></img>
 
 
 
@@ -260,7 +260,7 @@ Companies in the banking, finance, services, and insurance sectors in India in 2
 
 
 
-<img src="/blog/finance5.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance5.png"   class="img"  /></img>
 
 Image by Author
 
@@ -309,7 +309,7 @@ You should enroll at[ Learnbay](https://www.learnbay.co/data-science-course/) in
 
 ## Prerequisites for BFSI:
 
-Course Professionals with 1+ years of expertise in the BFSI area are required. Non-BFSI professionals who want to learn about the most up-to-date technology, data science, artificial intelligence, data analyst, and business analyst methodologies that drive strategic development can learn through Learnbay’s[ Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured),[ Linkedin](https://www.linkedin.com/company/learnbay/),[ Twitter](https://twitter.com/Learnbay1) handles.
+Course Professionals with 1+ years of expertise in the BFSI area are required. Non-BFSI professionals who want to learn about the most up-to-date technology, data science, artificial intelligence, data analyst, and business analyst methodologies that drive strategic development can learn through Learnbay’s[ Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://bit.ly/Learnbay_YouTube),[ Linkedin](https://www.linkedin.com/company/learnbay/),[ Twitter]( https://twitter.com/Learnbay) handles.
 
 
 

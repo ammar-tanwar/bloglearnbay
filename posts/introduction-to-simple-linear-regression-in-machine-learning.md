@@ -2,7 +2,7 @@
 title: Introduction to Simple Linear Regression in Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/linear.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear.jpg"
 date: "September 07, 2021"
 tag: [ Machine Learning ]
 category: "Machine Learning"
@@ -122,13 +122,13 @@ In case simple linear regression applies to a business problem, then the identif
 
 
 
-<img src="/blog/linear1.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear1.jpg"   class="img"  /></img>
 
 Fig:1
 
 The above plot indicates an immediate linear connection between 2 sorts of factors (dependent and independent).
 
-<img src="/blog/linear2.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear2.jpg"   class="img"  /></img>
 
 
 
@@ -139,7 +139,7 @@ The above plot indicates an immediate but curvy linear connection between 2 sort
 
 
 
-<img src="/blog/linear3.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear3.jpg"   class="img"  /></img>
 
 
 Fig:3
@@ -148,7 +148,7 @@ The above plot indicates an immediate but inverted linear connection between 2 s
 
 
 
-<img src="/blog/linear4.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear4.jpg"   class="img"  /></img>
 
 
 Fig:4
@@ -157,7 +157,7 @@ The above plot indicates an inverted and curvy linear connection between 2 sorts
 
 
 
-<img src="/blog/linear5.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear5.jpg"   class="img"  /></img>
 
 Fig:5
 
@@ -165,7 +165,7 @@ The above plot indicates a direct and inverted linear connection between 2 sorts
 
 
 
-<img src="/blog/linear6.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear6.jpg"   class="img"  /></img>
 
 
 Fig 6:

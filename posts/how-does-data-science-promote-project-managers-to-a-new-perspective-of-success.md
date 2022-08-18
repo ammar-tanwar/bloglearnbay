@@ -1,25 +1,25 @@
 ---
-title: Advanced Data science Course Training in Bangalore
+title: How Does Data Science Promote Project Managers to a New Perspective of Success
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/manager.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg"
 date: "may 30, 2022"
 tag: [ Data Science ]
 category: "Data Science"
 author: "Admin"
 position: "editor"
 readTime: "8-12 mins"
-h1: "Advanced Data science Course Training in Bangalore"
+h1: "How Does Data Science Promote Project Managers to a New Perspective of Success"
 id: "how-does-data-science-promote-project-managers-to-a-new-perspective-of-success"
 tableData:
   [
-    Old School Project Management expertise Is Now outdated? But Businesses Saved And Revived By Data Science orientation,
-    How does Data Science Help Managers In Businesses?,
+    Old School Project Management expertise Is Now outdated? But Businesses Saved And Revived By Data Science orientation.,
+    How does Data Science Help Managers In Businesses,
     Summary,
   ]
 ---
 
-<img src="/blog/Success-01.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg" style="width: 100%;"/></img>
 
 
 ## Old School Project Management expertise Is Now outdated? But Businesses Saved And Revived By Data Science orientation.
@@ -37,7 +37,7 @@ Organizations are integrating data science into their business to simplify regul
 It is a well-known truth that modern businesses are completely about data. In the previous year,[ McKinsey](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/the-big-data-revolution-in-us-health-care) estimated that the U.S healthcare system has reduced healthcare project management spending. $2.6 trillion baselines around 12-17% cost on earlier spending on the same. And big data is roughly costing $3.1 trillion a year to the U.S. Data science is not so easy to implement technically and financially as it needs a lot of investment. But yes, the ultimate gain is quite lucrative.
 
 
-## How does Data Science Help Managers In Businesses?
+## How does Data Science Help Managers In Businesses
 
 
 
@@ -85,7 +85,7 @@ Managers use current market trends to create a product for the general public. T
 
 
 
-<img src="/blog/manager1.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager1.jpg" style="width: 100%;" /></img>
 
 
 
@@ -129,4 +129,4 @@ Managers review decisions for an appropriate action strategy using a variety of 
 
 In this blog, we have shared how data science assists managers in business processes and decisions. By now, you would have known the data science abilities and how it helps managers in developing businesses. Every organization is taking the help of data science and AI, and managers can be more sure of the decisions they make. A job-ready[ data science certification course for managers](https://www.learnbay.co/data-science-course/data-science-ai-for-managers/) can surely help you in this regard.
 
-To get instant updates about data science and AI happenings around the world, you can follow us on[  Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured),[ Linkedin](https://www.linkedin.com/company/learnbay/), and[ Twitter](https://twitter.com/Learnbay1).
+To get instant updates about data science and AI happenings around the world, you can follow us on[  Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://bit.ly/Learnbay_YouTube),[ Linkedin](https://www.linkedin.com/company/learnbay/), and[ Twitter]( https://twitter.com/Learnbay).

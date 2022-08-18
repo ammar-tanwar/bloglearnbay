@@ -13,7 +13,7 @@
     z-index: 9999;
     overflow: hidden;
     .popupInner {
-      background-image: url("/popup-back.webp");
+      background-image: url("https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/popup-back.webp");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center center;
@@ -22,11 +22,11 @@
       grid-template-columns: 49% 49%;
       align-items: center;
       justify-content: space-evenly;
-      padding: 30px 40px;
-      width: 70%;
-      height: 95%;
+      padding: 10px 40px;
+      width: 60%;
+      height: fit-content;
       border-radius: 10px;
-      border: 2px solid #2D9CD7;
+
       background-color: white;
       text-align: center;
 
@@ -35,9 +35,8 @@
         background-color: white;
         cursor: pointer;
         border-radius: 50%;
-        border: 1px solid #2D9CD7;
-        border-color: blue;
-        color: #2D9CD7;
+
+        color: #2d9cd7;
         top: 5px;
         right: 10px;
         font-size: 25px;
@@ -53,7 +52,7 @@
       padding: 30px 40px;
       width: 100%;
       border-radius: 10px;
-      border: 2px solid #2D9CD7;
+      border: 2px solid #2d9cd7;
       background-color: white;
       text-align: center;
 
@@ -62,16 +61,16 @@
         background-color: white;
         cursor: pointer;
         border-radius: 50%;
-        border: 1px solid #2D9CD7;
+        border: 1px solid #2d9cd7;
         border-color: blue;
-        color: #2D9CD7;
+        color: #2d9cd7;
         top: 5px;
         right: 10px;
         font-size: 25px;
       }
     }
     .popupInners {
-      background-image: url("/Brochure.webp");
+      background-image: url("https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Brochure.webp");
       background-position: center center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -81,9 +80,9 @@
       justify-content: space-evenly;
       padding: 30px 60px;
       width: 70%;
-      height: 80%;
+      height: 100%;
       border-radius: 5px;
-      border: 2px solid #2D9CD7;
+      border: 2px solid #2d9cd7;
       background-color: white;
       text-align: center;
 
@@ -92,9 +91,9 @@
         background-color: white;
         cursor: pointer;
         border-radius: 50%;
-        border: 1px solid #2D9CD7;
+        border: 1px solid #2d9cd7;
         border-color: blue;
-        color: #2D9CD7;
+        color: #2d9cd7;
         top: 5px;
         right: 10px;
         font-size: 25px;
@@ -117,7 +116,7 @@
     z-index: 9999;
 
     .popupInner {
-      background-image: url("/popup-back.webp");
+      background-image: url("https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/popup-back.webp");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center center;
@@ -128,8 +127,8 @@
       padding: 30px 60px;
       width: 80%;
       border-radius: 5px;
-      border: 2px solid #2D9CD7;
-      height: 100%;
+      border: 2px solid #2d9cd7;
+      height: fit-content;
       background-color: white;
 
       .closeBtn {
@@ -137,9 +136,9 @@
         background-color: white;
         cursor: pointer;
         border-radius: 50%;
-        border: 1px solid #2D9CD7;
+        border: 1px solid #2d9cd7;
         border-color: blue;
-        color: #2D9CD7;
+        color: #2d9cd7;
         top: 5px;
         right: 10px;
         font-size: 25px;
@@ -155,7 +154,7 @@
       padding: 30px 60px;
       width: max-content;
       border-radius: 5px;
-      border: 2px solid #2D9CD7;
+      border: 2px solid #2d9cd7;
       max-width: 70%;
       background-color: white;
 
@@ -164,16 +163,16 @@
         background-color: white;
         cursor: pointer;
         border-radius: 50%;
-        border: 1px solid #2D9CD7;
+        border: 1px solid #2d9cd7;
         border-color: blue;
-        color: #2D9CD7;
+        color: #2d9cd7;
         top: 5px;
         right: 10px;
         font-size: 25px;
       }
     }
     .popupInnersW {
-      background-image: url("/Brochre.webp");
+      background-image: url("https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Brochre.webp");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center center;
@@ -184,7 +183,7 @@
       padding: 30px 60px;
       width: max-content;
       border-radius: 5px;
-      border: 2px solid #2D9CD7;
+      border: 2px solid #2d9cd7;
       max-width: 70%;
       background-color: white;
 
@@ -193,9 +192,9 @@
         background-color: white;
         cursor: pointer;
         border-radius: 50%;
-        border: 1px solid #2D9CD7;
+        border: 1px solid #2d9cd7;
         border-color: blue;
-        color: #2D9CD7;
+        color: #2d9cd7;
         top: 5px;
         right: 10px;
         font-size: 25px;
@@ -261,6 +260,7 @@
       padding: 30px 10px;
       max-width: 100%;
       display: flex;
+      width: 90%;
       align-items: center;
       justify-content: center;
       height: max-content;
@@ -274,6 +274,7 @@
       background-image: none !important;
       padding: 30px 20px;
       max-width: 100%;
+
       backdrop-filter: blur(16px) saturate(180%);
       -webkit-backdrop-filter: blur(16px) saturate(180%);
       background-color: white;

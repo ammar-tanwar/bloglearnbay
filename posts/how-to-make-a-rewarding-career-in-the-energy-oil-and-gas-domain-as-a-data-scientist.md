@@ -2,7 +2,7 @@
 title: How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/reward.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward.png"
 date: "april 6, 2022"
 tag: [ Hot topic ]
 category: "Hot topic"
@@ -28,7 +28,7 @@ The oil and gas sectors have been the most lucrative arena for most chemical eng
 
 Well, no need to get panic. We all know that if one road gets blocked, certainly there are other ways to escape. Data Science and AI are the ultimate escape route from this roadblock. This blog talks about data science in energy, oil, and gas industry. But first, let’s have a look into the ‘what’s happenings?’’
 
-<img src="/blog/reward1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward1.png"   class="img"  /></img>
 
 
 _According to PetroLMI, which provides industry labor market information, the unemployment rate, especially for oil and gas workers, peaked at 16.1% in 2020, 26% below 2014 levels. _People working in this industry are quitting by themselves due to the lack of growth. _People who have more experience are also not in the green zone._ What is important to keep your ground in the domain is the skills that you have. You need to keep upskilling only then you will be safe. Even the oil and gas industry lives and breathes on data and has been going digital as well. _It is very possible that not only will you retain your position in the industry but also have good pay as a[ Data science specialist](https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/)._
@@ -40,7 +40,7 @@ Now that we have established that DS is a very profitable field and there is a n
 
 ## Use of Data Science in Energy, Oil, and Gas Industry
 
-<img src="/blog/reward2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward2.png"   class="img"  /></img>
 
 
 Image by Author
@@ -68,7 +68,7 @@ As of now, we have established that data science has found its uses in various f
 Here are some high-level examples of how data science can help the oil and gas industry. 
 
 
-<img src="/blog/reward3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward3.png"   class="img"  /></img>
 
 
 
@@ -105,7 +105,7 @@ When we talk about entering into a specific specialization job market, it is ess
 Data science, a versatile field, is also very lucrative for various fields and companies. These are some of the oil and gas companies that are looking for data scientists.
 
 
-<img src="/blog/reward4.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward4.jpg"   class="img"  /></img>
 
 Image by Author
 
@@ -143,7 +143,7 @@ _Based on Location (India)_
 The essential factor that can affect your salary as a scientist can vary from place to place based on the demand in the region. So let’s see how much you’ll get paid in a particular place.
 
 
-<img src="/blog/reward5.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward5.jpg"   class="img"  /></img>
 
 
 Image by Author
@@ -252,8 +252,8 @@ To conclude it is very evident by now that data science in energy, oil, and gas 
 
 To know more about Learnaby do check out[ Learnbay’s](https://www.learnbay.co/data-science-course/) socials
 
-Twitter:[ https://twitter.com/Learnbay1](https://twitter.com/Learnbay1)
+Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
 
 Facebook:[ https://www.facebook.com/learnbay/](https://www.facebook.com/learnbay/)
 
-LinkedIn:[ https://www.linkedin.com/company/learnbay/mycompany/](https://www.linkedin.com/company/learnbay/mycompany/)
+LinkedIn:[ https://www.linkedin.com/company/learnbay/](https://www.linkedin.com/company/learnbay/)

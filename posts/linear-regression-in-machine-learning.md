@@ -2,7 +2,7 @@
 title: Linear Regression in Machine Learning
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/reg.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reg.jpg"
 date: "December 30, 2022"
 tag: [ Machine learning ]
 category: "Machine learning"
@@ -53,7 +53,7 @@ When will we use Linear Regression?
 * Assessment of risk in financial services and insurance domain.
 
 
-<img src="/blog/reg1.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reg1.png"   class="img"  /></img>
 
 
 for example, a group of creative Tech enthusiasts started a company in[ Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley). This start-up — called Banana — is so innovative that it has been growing constantly since 2016. You, the wealthy investor, would like to know whether to put your money on Banana’s success in the next year or not. Let’s assume that you don’t want to risk a lot of money, especially since the stakes are high in Silicon Valley. So you decide to buy a few shares, instead of investing in a big portion of the company.
@@ -66,7 +66,7 @@ What you just did is infer your model (that head of yours) to generalize — pre
 
 Here is where Linear Regression (LR) comes into play. The essence of LR is to find the line that best fits the data points on the plot so that we can, more or less, know exactly where the stock price is likely to fall in the year 2021.
 
-<img src="/blog/reg2.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reg2.png"   class="img"  /></img>
 
 
 Let’s examine the LR-generated line (in red) above, by looking at the importance of it. It looks like, with just a little modification, we were able to realize that Banana’s stock price is likely to be worth a little bit higher than $600 by the year 2021. Obviously, this is an oversimplified example. However, the process stays the same. Linear Regression as an algorithm relies on the concept of lowering the cost to maximize the performance. We will examine this concept, and how we got the red line on the plot next.
@@ -80,7 +80,7 @@ What is the R-squared method?
 R-squared value is a statistical measure of how close the data to the fitted linear regression line. It is also known as COD(coefficient of determination), or the coefficient of multiple determination.
 
 
-<img src="/blog/reg3.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reg3.png"   class="img"  /></img>
 
 
 

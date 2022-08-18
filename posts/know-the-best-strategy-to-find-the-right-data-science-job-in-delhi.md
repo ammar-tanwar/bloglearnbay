@@ -2,7 +2,7 @@
 title: Know The Best Strategy To Find The Right Data Science Job in Delhi?
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/delhi.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/delhi.jpg"
 date: "August 30, 2022"
 tag: [ Data Science ]
 category: "Data Science"
@@ -129,4 +129,4 @@ If you need personalised career guidance for a data science career switch, you c
 
 Each of our course modules is designed according to the work experience and domain experience of the candidates. Instead of providing generalised data science training, we have different courses for candidates with different degrees of working experience. Not only that, all of our courses include a live industrial capstone project that will be done directly from any product based MNCs in Delhi.
 
-To know more, get the latest update about our courses, blogs, and data science tricks and tips, follow us on:[ LinkedIn](https://www.linkedin.com/company/learnbay/),[ Twitter](https://twitter.com/Learnbay1),[ Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured),[ Instagram](https://www.instagram.com/learnbay_datascience/),[ Medium](https://medium.com/learnbay-blogs).
+To know more, get the latest update about our courses, blogs, and data science tricks and tips, follow us on:[ LinkedIn](https://www.linkedin.com/company/learnbay/),[ Twitter]( https://twitter.com/Learnbay),[ Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://bit.ly/Learnbay_YouTube),[ Instagram](https://instagram.com/learnbayofficial),[ Medium](https://medium.com/learnbay-blogs).

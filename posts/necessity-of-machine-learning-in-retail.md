@@ -2,7 +2,7 @@
 title: Necessity of Machine Learning in Retail
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/retail.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/retail.jpg"
 date: "April 18, 2022"
 tag: [ Machine Learning ]
 category: "Machine Learning"
@@ -17,38 +17,6 @@ tableData:
 Advanced Data science Course Training in Bangalore,
 
   ]
----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.308 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Fri Jul 08 2022 05:15:11 GMT-0700 (PDT)
-* Source doc: Untitled document
------>
-
-
-[learnbay.co](https://www.learnbay.co/data-science-course/necessity-of-machine-learning-in-retail/)
-
-
-## Advanced Data science Course Training in Bangalore
-
-Learnbay
-
-11-14 minutes
-
-
 ---
 
 Nowadays data proves to be a powerful pushing force of the industry. Big companies representing diverse trade spheres seek to make use of the beneficial value of the data. Thus, data has become of great importance for those willing to take profitable decisions concerning business. Moreover, a thorough analysis of a vast amount of data allows influencing or rather manipulating the customers decisions. Numerous flows of information, along with channels of communication, are used for this purpose.

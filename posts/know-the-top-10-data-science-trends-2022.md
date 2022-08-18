@@ -2,7 +2,7 @@
 title: Know The Top 10 Data Science Trends (2022)
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/trends.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"
 date: "May 25, 2022"
 tag: [ Data Science ]
 category: "Data Science"
@@ -18,7 +18,7 @@ tableData:
     What Are The Latest Trends In Data Scientist Salary?,
   ]
 ---
-<img src="/blog/trends.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"   class="img"  /></img>
 
 ## Technology Has No Break- Know The Data Science Latest Trends Leading Different Industries.
 
@@ -54,7 +54,7 @@ Because of the rapid evolution of this technology, augmented analytics modules a
 
 
 
-<img src="/blog/trends1.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends1.jpg"   class="img"  /></img>
 
 
 
@@ -121,7 +121,7 @@ The Future of AIaas technology will be divided into well-defined and self-contai
 
 
 
-<img src="/blog/trends2.jpg" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends2.jpg"   class="img"  /></img>
 
 
 
@@ -137,4 +137,4 @@ There are various Data Scientist job openings in India, providing possibilities 
 
 The average income of a Data Scientist in India is 708,012 dollars, according to[ PayScale](https://www.payscale.com/research/IN/Job=Data_Scientist%2C_IT/Salary).
 
-Data science uses technologies like big data, predictive analytics, and artificial intelligence to apply ideas in both practical and theoretical ways. We’ve covered ten of the most important data science trends for 2022 and beyond in this article. By 2027, the market for big data and data analytics is estimated to exceed $421 billion. The subject of data science is rapidly expanding, and businesses are adopting it enthusiastically in order to avoid falling behind. But I must mention this industry is making track changes also very fast. Hence, the trends we have mentioned above are not stagnant. It keeps changing over the years. Stay on track by following the updated latest trends in data science on our[ Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured),[ Linkedin](https://www.linkedin.com/company/learnbay/), and[ Twitter](https://twitter.com/Learnbay1) pages.
+Data science uses technologies like big data, predictive analytics, and artificial intelligence to apply ideas in both practical and theoretical ways. We’ve covered ten of the most important data science trends for 2022 and beyond in this article. By 2027, the market for big data and data analytics is estimated to exceed $421 billion. The subject of data science is rapidly expanding, and businesses are adopting it enthusiastically in order to avoid falling behind. But I must mention this industry is making track changes also very fast. Hence, the trends we have mentioned above are not stagnant. It keeps changing over the years. Stay on track by following the updated latest trends in data science on our[ Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://bit.ly/Learnbay_YouTube),[ Linkedin](https://www.linkedin.com/company/learnbay/), and[ Twitter]( https://twitter.com/Learnbay) pages.

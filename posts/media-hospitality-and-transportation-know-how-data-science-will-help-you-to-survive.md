@@ -1,19 +1,19 @@
 ---
-title: Advanced Data science Course Training in Bangalore
+title: Media Hospitality and Transportation Know How Data Science Will Help you to Survive
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "/blog/media-01.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-01.jpg"
 date: "april 6, 2022"
 tag: [ Hot topic ]
 category: "Hot topic"
 author: "Admin"
 position: "editor"
 readTime: "17-21 mins"
-h1: "Advanced Data science Course Training in Bangalore"
+h1: "Media Hospitality and Transportation Know How Data Science Will Help you to Survive"
 id: "media-hospitality-and-transportation-know-how-data-science-will-help-you-to-survive"
 tableData:
   [
-    Advanced Data science Course Training in Bangalore,
+    Media Hospitality and Transportation Know How Data Science Will Help you to Survive,
 Need for Data Science in Media, Hospitality, and Transportation,
 What are data science tools used in the media, hospitality, and transportation industries?,
 Companies Hiring Data Scientists in the Media, Transportation, and Hospitality Industry,
@@ -36,7 +36,7 @@ But a pandemic hit in the last couple of years has created an immense impact on 
 
 
 
-<img src="/blog/media-02.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-02.png"   class="img"  /></img>
 
 
 The most depressing thing is the higher your salary is, the greater your chances of losing the job.
@@ -51,7 +51,7 @@ The media industry has been known to be one of the most lucrative industries. Du
 
 The hospitality industry was affected gravely by the pandemic’s rise and the imposition of a global lockdown. Many small restaurant chains whose families depend on it had to shut down. E_ven hotels were affected when the majority of the people were being separated from their families due to COVID, and the hotels had to spend a large amount of revenue to equip these people whilst maintaining the integrity and safety of the hotel staff_. This had a lot of people quitting their jobs and being unemployed for a very long time.
 
-<img src="/blog/media-03.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-03.png"  style="width: 100%;" /></img>
 
 
 Image created by Author
@@ -84,7 +84,7 @@ Big media companies can use data science algorithms to make data work for them a
 
 
 
-<img src="/blog/media-04.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-04.png" style="width: 100%;"/></img>
 
 
 Image by Author
@@ -159,7 +159,7 @@ It is another popular Data Science Tool, BigML. It offers a cloud-based, fully i
 Javascript can be used primarily as a client-side programming language. Interactive visualizations can be made with Javascript libraries D3.js and Javascript-tutorial. You can create dynamic visualizations and analyses of data using D3.js’s many APIs.D3.js also allows animated transitions to be used. D3.js allows for updates on the client and actively uses the data change to reflect visualizations in the browser.
 
 
-#### 4. MATLAB
+### 4. MATLAB
 
 MATLAB is a multiparadigm numerical computing environment that processes mathematical information. It is a closed source software that allows for the implementation of matrix functions and statistical modeling. MATLAB is used most often in many scientific disciplines. Data Science uses MATLAB to simulate neural networks, fuzzy logic, and more. You can create stunning visualizations with the MATLAB graphics library. MATLAB can also be used for signal and image processing. Data Scientists will find it very useful as they can use it to tackle any problem, including data cleaning and analysis, advanced DeepLearningalgorithms, and even data extraction.
 
@@ -172,7 +172,7 @@ The most popular Data Analysis tool. Microsoft originally developed Excel for sp
 ## Companies Hiring Data Scientists in the Media, Transportation, and Hospitality Industry
 
 
-<img src="/blog/media-05.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-05.png" style="width: 100%;"/></img>
 
 
 Image by Author
@@ -195,7 +195,7 @@ Data scientists’ salary in India is between Rs 4.9 Lakhs and Rs 28.0 Lakhs, wi
 5. Pratilipi offers 30.9 lakhs per annum for DS specialists with 3 to 5 years of experience.
 
 
-<img src="/blog/media-06.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-06.png"  style="width: 100%;" /></img>
 
 
 Image by Author
@@ -218,7 +218,7 @@ The average Data Scientist’s salary in the hospitality industry is in India at
 5. ITC offers 31.8 lakhs per annum for DS specialists with 3 to 5 years of experience.
 
 
-<img src="/blog/media-07.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-07.png"  style="width: 100%;" /></img>
 
 
 Image by Author
@@ -264,35 +264,28 @@ Learnbay offers one of the best[ data science courses in Bangalore](https://www.
 Learnbay teaches you practically through projects. These are some of them.
 
 
-#### 1.   Ola/Uber Taxi Demand Prediction (Transportation Domain)
+### 1.   Ola/Uber Taxi Demand Prediction (Transportation Domain)
 
 Taxi-hailing companies must predict taxi demand to optimize their fleet management and understand their needs.
 
 We would build a model that would use users’ ride request data. It would include attributes such as ride-booking time, pickup location, and drop point latitude/longitude. This model would predict the demand for taxis in a specific city area. It would also help companies optimize taxi concentration to meet users’ needs.
 
 
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
-
 [Resultant DataFrame Dataset](https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201)
 
 
-#### 2.  Netflix Movies and TV Shows (Media and Entertainment Domain)
+### 2.  Netflix Movies and TV Shows (Media and Entertainment Domain)
 
 Discover what other insights you can get from the Netflix list of movies and tv shows available as of 2021. This project is Data Analysis with Python. It will analyze a data set of Netflix movies and TV shows. This data set was derived from Keras. To analyze the data and visualize the information about the movies and tv shows, you will be using Keras. This project uses Python and pandas and NumPy, NumPy, and matplotlib to analyze. It is also intended to help you complete the Jovian’s Data Analysis using Python – Zero to Pandas course. This course is well-structured and was delivered with great interest for the learners.
 
 
-<img src="/blog/media-08.png" width="100%" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-08.png"   class="img"  /></img>
 
 
 [Netflix movies and TV shows dataset from Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
 
 
-#### 3.  Airbnb New User Bookings(Hospitality Domain)
+### 3.  Airbnb New User Bookings(Hospitality Domain)
 
 Users who are new to Airbnb can book a space to stay in over 34,000 cities spread across more than 190 countries. With the ability to predict accurately where the user is likely to book their first trip, Airbnb can share more customized content with their customers and reduce the length of time before booking their first trip and improve their forecast of the demand. This project mainly focuses on the advanced application of XgBoost.
 
@@ -303,11 +296,11 @@ The role of data science in media, transportation, and hospitality is huge. The 
 
 To know more about domain specializations,[ click here](https://www.learnbay.co/data-science-course/data-science-certification-courses/) and make sure to follow all our socials:
 
-Twitter:[ https://twitter.com/Learnbay1](https://twitter.com/Learnbay1)
+Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
 
 Facebook:[ https://www.facebook.com/learnbay/](https://www.facebook.com/learnbay/)
 
-LinkedIn:[ https://www.linkedin.com/company/learnbay/mycompany/](https://www.linkedin.com/company/learnbay/mycompany/)
+LinkedIn:[ https://www.linkedin.com/company/learnbay/](https://www.linkedin.com/company/learnbay/)
 
 
 ## Bibliography
@@ -315,5 +308,5 @@ LinkedIn:[ https://www.linkedin.com/company/learnbay/mycompany/](https://www.lin
 
 
 * [https://www.kaggle.com/](https://www.kaggle.com/)
-* [https://www.ambitionbox.com/profile/data-scientist-salary/transportation-industry?page=2#:~:text=Data%20Scientist%20sale%20in%20India%20 ranges%20between%20%E2%82%B9%207.0%20Lakhs,salaries%20received%20from%20Data%20Scientists](https://www.ambitionbox.com/profile/data-scientist-salary/transportation-industry?page=2#:~:text=Data%20Scientist%20salary%20in%20India%20ranges%20between%20%E2%82%B9%207.0%20Lakhs,salaries%20received%20from%20Data%20Scientists)
+* [https://www.ambitionbox.com/profile/data-scientist-salary/](https://www.ambitionbox.com/profile/data-scientist-salary/transportation-industry?page=2#:~:text=Data%20Scientist%20salary%20in%20India%20ranges%20between%20%E2%82%B9%207.0%20Lakhs,salaries%20received%20from%20Data%20Scientists)
 * [https://www.indeed.com/q-Film-Industry-Data-Science-jobs.html](https://www.indeed.com/q-Film-Industry-Data-Science-jobs.html)
