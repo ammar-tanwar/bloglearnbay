@@ -1,7 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+
+module.exports = {
   reactStrictMode: true,
   swcMinify: true,
-};
-
-module.exports = nextConfig;
+  images: {
+    domains: ["learnbay-wb.s3.ap-south-1.amazonaws.com"],
+  },
+}
