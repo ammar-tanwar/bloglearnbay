@@ -30,7 +30,7 @@ export default function blog({ allPostsData }) {
       </section>
       <section className={styles.blogWrap}>
         {allPostsData
-          .slice(length - 3, length)
+          .slice(0, 3)
           .map(({ id, date, title, author, readTime, headerImg }) => {
             const url = `/${id}`;
             return (

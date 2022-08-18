@@ -1,44 +1,46 @@
 import React from "react";
 import Image from "next/image";
-import {
-  getAllPostIds,
-  getPostData,
-  getSortedPostsData,
-} from "../lib/posts";
+import { getAllPostIds, getPostData, getSortedPostsData } from "../lib/posts";
 import Head from "next/head";
 import styles from "../styles/blog.module.css";
-import {
-  BsDot,
-} from "react-icons/bs";
+import { BsDot } from "react-icons/bs";
 import { IoTimeOutline } from "react-icons/io5";
 
 export default function Post({ postData, posts }) {
   return (
     <>
-    <section className={styles.MainS}>
-    <Head>
+      <section className={styles.MainS}>
+        <Head>
           <title>{postData.title}</title>
-        <meta name="description" content="Learnbay - Advance Data Science Course With IBM Certification" />
-        <link   href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
+          <meta
+            name="description"
+            content="Learnbay - Advance Data Science Course With IBM Certification"
+          />
+          <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
         </Head>
         <div className={styles.DivImg}>
-        <img src={postData.img} alt="Learnbay" width="100%" height="450px"  ></img>
+          <img
+            src={postData.img}
+            alt="Learnbay"
+            width="100%"
+            height="450px"
+          ></img>
         </div>
-    </section>
+      </section>
 
-        <main>
+      <main>
         <div className={styles.Open}>
           <div className={styles.headerInfo}>
-              <h1>{postData.mainH1}</h1>
-              <span>
-                By <strong>{postData.author}</strong> <BsDot className="bIcon" />
-                Published in <strong>{postData.tag}</strong>{" "}
-                <BsDot className="bIcon" />
-                <strong className={styles.time}>{postData.time}</strong>
-              </span>
+            <h1>{postData.mainH1}</h1>
+            <span>
+              By <strong>{postData.author}</strong> <BsDot className="bIcon" />
+              Published in <strong>{postData.tag}</strong>{" "}
+              <BsDot className="bIcon" />
+              <strong className={styles.time}>{postData.time}</strong>
+            </span>
           </div>
           <div className={styles.bodyInfo}>
-          <div className={styles.rightInfo}>
+            <div className={styles.rightInfo}>
               <div className={styles.table}>
                 <h5>Table of content</h5>
                 <div className={styles.contentT}>
@@ -69,23 +71,23 @@ export default function Post({ postData, posts }) {
                 </div>
                 <h5>Related Posts</h5>
                 <div className={styles.relatePost}>
-                {posts.map((post, i) => {
-                  return (
-                    <div className={styles.rPost} key={i}>
-                      <a href={post.id}>
-                        {" "}
-                        <h5>{post.title}</h5>
-                      </a>
-                      <span>
-                        {post.author}
-                        <p className={styles.rPostD}>
-                          <IoTimeOutline className={styles.timeIcon} />
-                          {post.date}
-                        </p>
-                      </span>
-                    </div>
-                  );
-                })}
+                  {posts.map((post, i) => {
+                    return (
+                      <div className={styles.rPost} key={i}>
+                        <a href={post.id}>
+                          {" "}
+                          <h5>{post.title}</h5>
+                        </a>
+                        <span>
+                          {post.author}
+                          <p className={styles.rPostD}>
+                            <IoTimeOutline className={styles.timeIcon} />
+                            {post.date}
+                          </p>
+                        </span>
+                      </div>
+                    );
+                  })}
                 </div>
               </div>
             </div>
@@ -94,7 +96,10 @@ export default function Post({ postData, posts }) {
               <hr />
               <div className={styles.tag}>
                 <div className={styles.lSide}>
-                  <p>Tags</p> {postData.tag.map((tag,i)=>{ return <span key={i}>#{tag}</span> })}
+                  <p>Tags</p>{" "}
+                  {postData.tag.map((tag, i) => {
+                    return <span key={i}>#{tag}</span>;
+                  })}
                 </div>
               </div>
 
@@ -102,7 +107,7 @@ export default function Post({ postData, posts }) {
             </div>
           </div>
         </div>
-        </main>
+      </main>
     </>
   );
 }
