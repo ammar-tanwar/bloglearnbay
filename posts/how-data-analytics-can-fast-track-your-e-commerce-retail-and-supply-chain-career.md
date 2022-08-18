@@ -19,9 +19,7 @@ tableData:
  Retail Domain,
  E-Commerce Domain,
  Supply Chain Domain,
-Conclusion,
-
-    
+Conclusion,    
   ]
 ---
 

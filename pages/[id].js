@@ -50,7 +50,7 @@ export default function Post({ postData, posts }) {
 
                     const uMake = removeSpecial
                       .toLowerCase()
-                      .replace(" ", "-");
+                      .replaceAll(" ", "-");
 
                     const url = `#${uMake}`;
                     return (
