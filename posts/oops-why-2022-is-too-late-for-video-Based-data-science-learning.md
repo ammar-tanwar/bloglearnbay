@@ -15,8 +15,6 @@ tableData:
   [
     Self-paced,
     Scheduled learning,
-    Instructor led online classes,
-    Career guidance and assistance,
     Doubt Clearance,
     Real-time Projects, 
   ]
@@ -31,7 +29,7 @@ Are you searching for a **data science course online?** Well, the subtitle might
 
 No worries. This blog will tell you the difference between self-paced and live online learning for data science. So, you would know which learning methodology suits you better and know which methodology will transform you into a successful data scientist.
 
-Mostly MOOCs ( Massive Open Online Courses) are the traditional way of teaching, like college lecture methodology through video lectures. For many edtech platforms that are not affiliated with any universities, video lecturing has become the primary approach for [**data science certification online**](https://www.learnbay.co/data-science-course/advance-data-science-certification-courses/) **.**
+Mostly MOOCs ( Massive Open Online Courses) are the traditional way of teaching, like college lecture methodology through video lectures. For many edtech platforms that are not affiliated with any universities, video lecturing has become the primary approach for [**data science certification online**](https://www.learnbay.co/advance-data-science-certification-courses/) **.**
 
 ## There are two methodologies for learning data science online:
 
@@ -61,7 +59,7 @@ Consequently, as most business organizations were sales-driven before, they have
 
 ## Know what to learn:
 
-The motivation to learn is appreciated, but knowing what to learn is crucial. Data science is huge. You cannot learn independently as it is very vast to explore. Instructor-led  [**data science training online**](https://www.learnbay.co/data-science-course/data-science-certification-courses/) can help students recognize the right topic to study in the right way. Learning any advanced topic early can lead to a disaster, like a mixture of basic curry and slow-cooked advanced concepts. Online instructor-led classes consist of mentors and lecturers who will always help you plan effective learning orientations.
+The motivation to learn is appreciated, but knowing what to learn is crucial. Data science is huge. You cannot learn independently as it is very vast to explore. Instructor-led  [**data science training online**](https://www.learnbay.co/data-science-certification-courses/) can help students recognize the right topic to study in the right way. Learning any advanced topic early can lead to a disaster, like a mixture of basic curry and slow-cooked advanced concepts. Online instructor-led classes consist of mentors and lecturers who will always help you plan effective learning orientations.
 
 ## Scheduled learning
 
@@ -87,7 +85,7 @@ Currently, recruiters are less concerned with your certifications and more inter
 
 ## But do Learning costs matter?
 
-### Yes, it's a big concern. While recorded video-based classes are even available for 20K INR, the live and interactive classes usually cost more than 70K. Certainly, there will be second thoughts amongst the candidates before spending the hard-earned money on such courses. But here, one thing you need to consider- is the ROI. Yes, as you don't get any job assurance and even proper project exposure, the entire 20K seems like a complete waste. On the other hand, even if you pay 1 lakh for an instructor-led [job-guaranteed](https://www.learnbay.co/data-science-course/job-guarantee-or-money-back-data-science-ai-certification-course/) data science course, that's worth it. Even some courses offer more than 300% ROI.
+### Yes, it's a big concern. While recorded video-based classes are even available for 20K INR, the live and interactive classes usually cost more than 70K. Certainly, there will be second thoughts amongst the candidates before spending the hard-earned money on such courses. But here, one thing you need to consider- is the ROI. Yes, as you don't get any job assurance and even proper project exposure, the entire 20K seems like a complete waste. On the other hand, even if you pay 1 lakh for an instructor-led [job-guaranteed](https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course/) data science course, that's worth it. Even some courses offer more than 300% ROI.
 
 ## So, what's next?
 
@@ -95,4 +93,4 @@ Plenty of options are roaming around for learning data science and AI. Most of t
 
 Maybe, I am making you a bit terrified, but the present data science job market is like that only. What you can do to ensure the safest decision is take an expert [data science career counseling.](https://api.whatsapp.com/send?phone=917349222263&text=Hey%20Learnbay) You can avail extremely personalized career counseling by FAANG experts at Learnbay.
 
-For the latest updates about top courses companies are hiring, trending tools and technologies about data science, artificial intelligence, and machine learning, you can follow us on  [Facebook](https://www.facebook.com/learnbay/), [Youtube](https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured), [Linkedin](https://www.linkedin.com/company/learnbay/), and [Twitter](https://twitter.com/Learnbay1).
+For the latest updates about top courses companies are hiring, trending tools and technologies about data science, artificial intelligence, and machine learning, you can follow us on  [Facebook](https://www.facebook.com/learnbay/), [Youtube](https://bit.ly/Learnbay_YouTube), [Linkedin](https://www.linkedin.com/company/learnbay/), and [Twitter](https://twitter.com/Learnbay).

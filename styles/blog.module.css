@@ -9,6 +9,13 @@
 .headerInfo {
   margin: 0px 0px 50px 0px;
 }
+
+
+.blogdiv1{
+  overflow-y: auto;
+  height: 1000px;
+}
+
 .headerInfo h1 {
   font-size: 40px;
   margin: 0;
@@ -128,6 +135,7 @@
   justify-content: center;
 }
 .contentT {
+
   border-radius: 5px;
   box-shadow: 0px 0px 5px 0px rgb(45 156 215 / 31%);
   padding: 20px;
@@ -135,6 +143,11 @@
   margin-bottom: 40px;
   flex-flow: column;
   justify-content: center;
+  
+  /* position: sticky;
+  top: 72px;
+  background-color:#ffffff; */
+
 }
 .contentT p {
   cursor: pointer;
@@ -283,4 +296,15 @@
     .leftInfo article p img {
       width: 100%;
     }
+
+    .blogdiv1{
+      overflow-y: none;
+      height: fit-content;
+    }
 }
+
+
+
+
+
+

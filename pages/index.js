@@ -18,8 +18,8 @@ export default function blog({ allPostsData }) {
   return (
     <>
       <Head>
-        <title>Learnbay Courses</title>
-        <meta name="description" content="Learnbay Courses" />
+        <title>Learnbay Blogs</title>
+        <meta name="description" content="Learnbay Blogs" />
         <link href="/Learnbay-Favicon-L.png" />
       </Head>
       <div className={styles.BackP} style={{ marginTop: "70px" }}>

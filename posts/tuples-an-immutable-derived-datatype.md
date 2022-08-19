@@ -13,7 +13,6 @@ h1: "Tuples - An Immutable Derived Datatype"
 id: "tuples-an-immutable-derived-datatype"
 tableData:
   [
-    Tuples - An Immutable Derived Datatype,
     non-empty tuple,
     DriverCode
   ]

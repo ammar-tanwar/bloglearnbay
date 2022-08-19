@@ -41,6 +41,7 @@ export default function Post({ postData, posts }) {
           </div>
           <div className={styles.bodyInfo}>
             <div className={styles.rightInfo}>
+            <div className={styles.blogdiv1}>
               <div className={styles.table}>
                 <h5>Table of content</h5>
                 <div className={styles.contentT}>
@@ -52,7 +53,7 @@ export default function Post({ postData, posts }) {
 
                     const uMake = removeSpecial
                       .toLowerCase()
-                      .replaceAll(" ", "-");
+                      .replace(" ", "-");
 
                     const url = `#${uMake}`;
                     return (
@@ -91,6 +92,8 @@ export default function Post({ postData, posts }) {
                 </div>
               </div>
             </div>
+            </div>
+            <div className={styles.blogdiv1}>
             <div className={styles.leftInfo}>
               <article dangerouslySetInnerHTML={{ __html: postData.body }} />
               <hr />
@@ -104,6 +107,7 @@ export default function Post({ postData, posts }) {
               </div>
 
               <hr />
+            </div>
             </div>
           </div>
         </div>
