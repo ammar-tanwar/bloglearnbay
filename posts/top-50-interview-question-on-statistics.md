@@ -13,8 +13,7 @@ h1: "Marketing, Sales, and HR Is being a data scientist the only hope?"
 id: "top-50-interview-question-on-statistics"
 tableData:
   [
-    Marketing, Sales, and HR Is being a data scientist the only hope?,
-How is Data Science Used in Sales and Marketing?,
+
 MNCs Currently Using Data Science,
 What is the advantage of using Data Science in Business?,
 Data Science Jobs in Sales and Marketing,

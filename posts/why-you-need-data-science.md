@@ -13,7 +13,7 @@ h1: "Data Science is Important!"
 id: "why-you-need-data-science"
 tableData:
   [
-  Data Science is Important, Why We Need it?,
+  Data Science is Important,
   Python, R programming, Java, SQL, Scala, Tensorflow, Matlab.,
 
 

@@ -14,14 +14,7 @@ id: "banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucr
 tableData:
   [
  Introduction to Banking Financial Services and Insurance,
- Data Science in Banking, Finance, Services & Insurance Sector,
  Is Data science beneficial to finance?,
- Benefits of DS in Banking, Finance, Services & Insurance Domain,
- Banking, Finance, Services, and Insurance Capstone Projects,
- Scope of Banking, Financial Services, and Insurance in India,
- Salary/Remuneration Package in Banking, Finance, Services, and Insurance,
- Banking, Finance, Services, and Insurance Course,
- Prerequisites for BFSI,
   ]
 ---
 
@@ -298,7 +291,7 @@ Those with one year or more of experience can expect to earn 4,62,321 per year. 
 You should enroll at[ Learnbay](https://www.learnbay.co/data-science-course/) institute, if you want to pursue a profession in the Banking, Finance, and Service Insurance area. It gives you a certificate that is recognized around the world. This will help you get more attention and make you stand out from the rest of the people. You’ll also be able to get live interactive sessions so that you can ask questions. Learnbay’s BFSI course includes Project Life Cycle Expertise, as well as two capstone projects and the opportunity to work on real-world projects. By visiting the Learnbay institute, you can learn more about the domain. Learnbay provides one of the greatest data science courses in Bangalore, and I definitely suggest it.
 
 
-## Prerequisites for BFSI:
+#
 
 Course Professionals with 1+ years of expertise in the BFSI area are required. Non-BFSI professionals who want to learn about the most up-to-date technology, data science, artificial intelligence, data analyst, and business analyst methodologies that drive strategic development can learn through Learnbay’s[ Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://bit.ly/Learnbay_YouTube),[ Linkedin](https://www.linkedin.com/company/learnbay/),[ Twitter]( https://twitter.com/Learnbay) handles.
 

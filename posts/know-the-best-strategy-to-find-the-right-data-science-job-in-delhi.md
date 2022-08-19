@@ -19,7 +19,6 @@ What is the data science salary in India?,
 Is data science in demand in Delhi?,
 Which companies keep hiring a data scientist around the year in Delhi?,
 To find the right data science job in Delhi?,
-So, what’s next?,
   ]
 ---
 

@@ -14,11 +14,8 @@ id: "media-hospitality-and-transportation-know-how-data-science-will-help-you-to
 tableData:
   [
     Media Hospitality and Transportation Know How Data Science Will Help you to Survive,
-Need for Data Science in Media, Hospitality, and Transportation,
-What are data science tools used in the media, hospitality, and transportation industries?,
-Companies Hiring Data Scientists in the Media, Transportation, and Hospitality Industry,
-Projects,
-Conclusion,
+    Projects,
+    Conclusion,
 
 
   ]

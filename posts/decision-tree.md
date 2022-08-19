@@ -16,10 +16,6 @@ tableData:
  Decision tree,
  What is Classification?,
  Types of classification,
- Entropy(Play|Outlook=Sunny),
- Since, it's a homogenous data entropy will be 0,
- Entropy(Play_Sunny|),
- Entropy(Play_Sunny|),
 
     
   ]

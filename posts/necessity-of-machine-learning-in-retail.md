@@ -13,7 +13,6 @@ h1: "Necessity of Machine Learning in Retail"
 id: "necessity-of-machine-learning-in-retail"
 tableData:
   [
-    Necessity of Machine Learning in Retail,
 Advanced Data science Course Training in Bangalore,
 
   ]

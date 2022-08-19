@@ -14,7 +14,7 @@ id: "how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-c
 tableData:
   [
   What Role Does E-Commerce Play in the Post-Pandemic Retail Future?,
-  For Retailers, the Future of E-Commerce is Bright,
+  For Retailers,
  Packages and Companies,
  Retail Domain,
  E-Commerce Domain,
@@ -59,8 +59,7 @@ The final mile is crucial to[ e-commerce](https://en.wikipedia.org/wiki/E-commer
 Retailers need to be ready to build better, deeper relationships with their customers, both online and in-person, no matter how people act.
 
 
-## For Retailers, the Future of E-Commerce is Bright
-
+## For Retailers
 
 
 * Emerging Markets Will Be Critical

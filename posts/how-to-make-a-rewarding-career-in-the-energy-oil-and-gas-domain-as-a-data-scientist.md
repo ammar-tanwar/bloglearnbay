@@ -13,13 +13,8 @@ h1: "How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data
 id: "how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist"
 tableData:
   [
-    How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?,
-    Use of Data Science in Energy, Oil, and Gas Industry,
     Need for Data Science in the Energy domain,
-    Advantages of Data Science in the Energy, Oil and Gas Industry.,
     Projects To Level Up Your Resume,
-What are companies hiring for Energy, oil, and gas data scientists?,
-How much do data scientists earn with different variables?,
 
   ]
 ---

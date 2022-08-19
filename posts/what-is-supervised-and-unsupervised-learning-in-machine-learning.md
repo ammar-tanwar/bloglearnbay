@@ -13,7 +13,7 @@ h1: "What is Supervised, Unsupervised Learning, and Reinforcement Learning in Ma
 id: "what-is-supervised-and-unsupervised-learning-in-machine-learning"
 tableData:
   [
-What is Supervised, Unsupervised Learning, and Reinforcement Learning in Machine Learning,
+What is Supervised,
 
   ]
 ---
