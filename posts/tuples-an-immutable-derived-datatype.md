@@ -39,8 +39,8 @@ A list and tuple are the same in some ways when it's related to indexing, nested
 Example:
 
 | #Creating an empty tuple
- empty\_tuple = ()
- print(empty\_tuple)
+ empty_tuple = ()
+ print(empty_tuple)
 
  Output
  ()
@@ -69,17 +69,17 @@ Example:
 
 | #testing that tuples are immutable
 
- tuple\_1 = (5, 6, 8, 12)
- tuple\_1[0] = 'Numbers'
- print(tuple\_1)
+ tuple_1 = (5, 6, 8, 12)
+ tuple_1[0] = 'Numbers'
+ print(tuple_1)
 
  Output
  TypeError Traceback(most recent call last)
  Input In [10], in \<cell line: 4\>()
-1# testing that tuples are immutable
-3 tuple\_1 = (5, 6, 8, 12)
- ---\>4 tuple\_1[0] = 'Numbers'
-5 print(tuple\_1)
+      1# testing that tuples are immutable
+      3 tuple_1 = (5, 6, 8, 12)
+ ---\>4 tuple_1[0] = 'Numbers'
+      5 print(tuple_1)
 
  TypeError: 'tuple' object does not support item assignment |
 | --- |
@@ -88,7 +88,6 @@ Example:
 
 In a tuple, there are several ways to do the basic operations. Let's take a look at each one individually with examples.
 
-1.
 ### **Tuple Concatenation**
 
 Since the tuple is immutable, you cannot change any value in the tuple element. But, you can combine two tuples as a single tuple which is called _ **tuple concatenation** _.
@@ -107,7 +106,6 @@ Example:
  (5, 6, 7, 8, 'data', 'science', 'python', 'class') |
 | --- |
 
-1.
 ### **Repeating Tuple**
 
 If you need any value in a tuple to be repeated, you just need to multiply it by several times.
@@ -116,14 +114,13 @@ Example:
 
 | # Creating tuple with repetition
 
- tuple\_repeat = ('How are you? ')\*5
- print(tuple\_repeat)
+ tuple_repeat = ('How are you? ')\*5
+ print(tuple_repeat)
 
  Output
  How are you? How are you? How are you? How are you? How are you? |
 | --- |
 
-1.
 ### **Slicing Tuple**
 
 A slicing is retrieving a particular portion for some operation while the initial data remains unaffected. The operation of slicing in python considers three parameters of which two are depending on the operational requirement.
@@ -143,7 +140,6 @@ Example:
  (50, 87, 63) |
 | --- |
 
-1.
 ### **Finding the length of the Tuple**
 
 You can find out the length of values inside a tuple by using the 'len' option.
@@ -152,8 +148,8 @@ Example:
 
 | # Finding the length of tuple
 
- tuple\_length = (5, 6, 7, 8, 'data', 'science', 'python', 'class')
- print(len(tuple\_length))
+ tuple_length = (5, 6, 7, 8, 'data', 'science', 'python', 'class')
+ print(len(tuple_length))
 Output8 |
 | --- |
 
@@ -188,7 +184,6 @@ Example:
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-3.jpg" style="width:100%" class="img"/></img>
 
-1.
 ### **Sorting of tuple**
 
 By using the sort() method you can sort a tuple. When sorting by this method the real content of the tuple is changed and the in-place method of the sort is performed.
@@ -200,19 +195,19 @@ Example:
 #Function for sorting the list by the second item of tuple |
 | --- |
 
-| defSort\_Tuple(tup\_1)
+| def Sort_Tuple(tup_1)
 
  #reverse = None(Sorting in ascending order)
  #keyissetforsortingusingthesecondelementof
  #sublistlambdaisused
-tup\_1.sort(key = lambda a: a[1])
-returntup\_1
+ tup_1.sort(key = lambda a: a[1])
+ returntup_1
 
  # DriverCode
 tup\_1 = [('Avni', 10), ('Akash', 5), ('Avinash', 20), ('Arvind', 15)]
 
  #printthesortedlistoftuples
-print(Sort\_Tuple(tup\_1))
+print(Sort_Tuple(tup_1))
 
 Output
  [('Akash', 5), ('Avni', 10), ('Arvind', 15), ('Avinash', 20)] |
@@ -224,18 +219,18 @@ We use the '+' operator when we need to concatenate tuples to nested tuples. Acc
 
 Example:
 
-| first\_tuple\_1 = (5, 8, 4, 4, 7, 1),
- second\_tuple\_2 = (9, 5, 3, 2, 1, 8),
+| first_tuple_1 = (5, 8, 4, 4, 7, 1),
+ second_tuple_2 = (9, 5, 3, 2, 1, 8),
 
  print("The first tuple consists: ")
- print(first\_tuple\_1)
+ print(first_tuple_1)
  print("The second tuple consists: ")
- print(second\_tuple\_2)
+ print(second_tuple_2)
 
- joint\_result = first\_tuple\_1 + second\_tuple\_2
+ joint_result = first_tuple_1 + second_tuple_2
 
  print("The tuple after concatenating: ")
- print(joint\_result)
+ print(joint_result)
 
  Output
  The first tuple consists:
