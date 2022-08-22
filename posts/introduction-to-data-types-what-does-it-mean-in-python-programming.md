@@ -101,7 +101,9 @@ A string is a sequence of Unicode characters. Characters are always enclosed in 
 
 Example <br>
 
- a = 'Hello Python'b = "hello python"c = '''HELLO PYTHON'''  <br>
+ a = 'Hello Python' <br>
+  b = "hello python" <br>
+  c = '''HELLO PYTHON'''  <br>
 
 
 The tasks like slicing, concatenation, and repetition can be performed using string.
@@ -111,8 +113,9 @@ The tasks like slicing, concatenation, and repetition can be performed using str
 Example: <br>
 
 a = 'how are you' <br>
-print (a[4:11]) <br>
-Output : how are you <br>
+print (a[4:11]) <br> 
+
+Output <br> how are you 
 
 **Concatenation** : It is joining two or more strings together.
 
@@ -122,7 +125,9 @@ Example:
  b = 'are ' <br>
  c = 'you' <br>
  print (a+b+c) <br>
- Output : how are you
+
+ Output <br>
+  how are you
 
 **Repetition** : It repeats the same sequence of instructions several times.
 
@@ -144,7 +149,9 @@ Example: <br>
 
 lst = [1, 5, 4.38, 'hello'] <br>
 print(lst) <br>
-Output : [1, 5, 4.38, 'hello']  <br>
+
+Output  <br>
+[1, 5, 4.38, 'hello'] 
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-4.jpg" style="width:100%" class="img"/></img>
 
@@ -156,7 +163,9 @@ Example:
 
  tpl = (1, 5, 4.38, 'hello') <br>
  print (tpl) <br>
- Output: (1, 5, 4.38, 'hello')
+
+ Output <br>
+ (1, 5, 4.38, 'hello')
 
 **5.**** Set data types**
 
@@ -166,7 +175,9 @@ Example:
 
 set = {1, 5, 4.38, 'hello'} <br>
 print(set)  <br>
-Output{1, 'hello', 4.38, 5}  <br>
+
+Output <br>
+{1, 'hello', 4.38, 5} 
 
 
 **6.**** Dictionary data type**
@@ -177,6 +188,7 @@ Example:
  dictionary = {'Data Science' : 'Python', 'Hi' : 'Hello'} <br>
  dictionary['Hi'] <br>
  dictionary.get('Data Science') <br>
+
  Output   <br>
  'Hello'  <br>
  'Python'  <br>

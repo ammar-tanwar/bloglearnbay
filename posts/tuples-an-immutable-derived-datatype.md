@@ -42,7 +42,7 @@ Example:
  empty_tuple = () <br>
  print(empty_tuple) <br>
 
- Output
+ Output <br>
  ()
 
 # non-empty tuple
@@ -55,11 +55,11 @@ Example:
  ('Data', 'Science') <br>
 
 #another way of creating <br>
- tup = 'Data', 'Science') <br>
+ tup = 'Data', 'Science' <br>
  print(tup) <br>
 
  Output <br>
- ('Data', 'Science') |
+ ('Data', 'Science')
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-2.jpg" style="width:100%" class="img"/></img>
 
@@ -92,7 +92,7 @@ Since the tuple is immutable, you cannot change any value in the tuple element. 
 
 Example:
 
-| #creating two tuple <br>
+#creating two tuple <br>
 
   tuple1 = 5, 6, 7, 8 <br>
   tuple2 = ('data', 'science', 'python', 'class') <br>
@@ -100,6 +100,7 @@ Example:
 #concatination of tuple <br>
 
  print(tuple1 + tuple2) <br>
+
  Output <br>
  (5, 6, 7, 8, 'data', 'science', 'python', 'class') | <br>
 
@@ -128,11 +129,12 @@ Example: <br>
  tuple = (10, 30, 50, 87, 63) <br>
  print(tuple[1 :]) <br>
  print(tuple[: : -1]) <br>
- print(tuple[2:5] <br>
+ print(tuple[2:5]) <br>
+
  Output <br>
  (30, 50, 87, 63) <br>
  (63, 87, 50, 30, 10) <br>
- (50, 87, 63) | <br>
+ (50, 87, 63)<br>
 
 ### **Finding the length of the Tuple**
 
@@ -144,7 +146,9 @@ Example: <br>
 
  tuple_length = (5, 6, 7, 8, 'data', 'science', 'python', 'class') <br>
  print(len(tuple_length)) <br>
-Output8 | <br>
+
+ Output <br> 
+ 8 
 
 **Basic functions to use while executing a code in the tuple**
 
@@ -158,7 +162,7 @@ Output8 | <br>
 
 Example:
 
-| #length, minimum, maximum, count and index of tuple <br>
+#length, minimum, maximum, count and index of tuple <br>
  tuple = (10, 30, 50, 87, 63, 10, 87) <br>
  print('Length of the tuple: ', len(tuple)) <br>
  print('Minimum of the tuple: ', min(tuple)) <br>
@@ -182,11 +186,11 @@ By using the sort() method you can sort a tuple. When sorting by this method the
 
 Example: <br>
 
-| #Sorting a list of tuples by the second item using sort() <br>
+#Sorting a list of tuples by the second item using sort() <br>
 
 #Function for sorting the list by the second item of tuple | <br>
 
-| def Sort_Tuple(tup_1) <br>
+ def Sort_Tuple(tup_1) <br>
 
  #reverse = None(Sorting in ascending order) <br>
  #keyissetforsortingusingthesecondelementof <br>
@@ -194,16 +198,16 @@ Example: <br>
  tup_1.sort(key = lambda a: a[1]) <br>
  returntup_1 <br>
 
- # DriverCode
+ #Driver Code <br>
 tup_1 = [('Avni', 10), ('Akash', 5), ('Avinash', 20), ('Arvind', 15)] <br>
 
  #printthesortedlistoftuples <br>
 print(Sort_Tuple(tup_1)) <br>
 
 Output <br>
- [('Akash', 5), ('Avni', 10), ('Arvind', 15), ('Avinash', 20)] | <br>
+ [('Akash', 5), ('Avni', 10), ('Arvind', 15), ('Avinash', 20)] | <br> <br>
 
-1. **Nesting of tuples**
+### **Nesting of tuples**
 
 We use the '+' operator when we need to concatenate tuples to nested tuples. Accessing the index elements and trying to make any changes will give an error. We use ''+' for both nesting and concatenating operations. <br>
 
