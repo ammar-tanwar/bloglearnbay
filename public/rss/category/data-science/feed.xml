@@ -4,7 +4,7 @@
         <title>Learnbay blog</title>
         <link>https://learnbay.co/</link>
         <description></description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 10:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -77,6 +77,13 @@
             <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
         </item>
         <item>
+            <title><![CDATA[Tuples - An Immutable Derived Datatype]]></title>
+            <link>https://learnbay.co//blog/category/data-science</link>
+            <guid>https://learnbay.co//blog/category/data-science</guid>
+            <pubDate>Sun, 21 Aug 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[Introduction To Data Types - What Does It Mean In Python Programming?]]></description>
+        </item>
+        <item>
             <title><![CDATA[Introduction to Python Programming]]></title>
             <link>https://learnbay.co//blog/category/data-science</link>
             <guid>https://learnbay.co//blog/category/data-science</guid>
@@ -137,6 +144,13 @@
             <link>https://learnbay.co//blog/category/data-science</link>
             <guid>https://learnbay.co//blog/category/data-science</guid>
             <pubDate>Thu, 09 Jun 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tuples - An Immutable Derived Datatype]]></title>
+            <link>https://learnbay.co//blog/category/data-science</link>
+            <guid>https://learnbay.co//blog/category/data-science</guid>
+            <pubDate>Wed, 17 Aug 2022 18:30:00 GMT</pubDate>
             <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
         </item>
         <item>

@@ -38,29 +38,28 @@ A list and tuple are the same in some ways when it's related to indexing, nested
 
 Example:
 
-| #Creating an empty tuple
- empty_tuple = ()
- print(empty_tuple)
+ #Creating an empty tuple <br>
+ empty_tuple = () <br>
+ print(empty_tuple) <br>
 
  Output
  ()
 
 # non-empty tuple
 
-#one way of creating
- tup = ('Data', 'Science')
- print(tup)
+#one way of creating <br>
+ tup = ('Data', 'Science') <br>
+ print(tup) <br>
 
- Output
- ('Data', 'Science')
+ Output <br>
+ ('Data', 'Science') <br>
 
-#another way of creating
- tup = 'Data', 'Science')
- print(tup)
+#another way of creating <br>
+ tup = 'Data', 'Science') <br>
+ print(tup) <br>
 
- Output
+ Output <br>
  ('Data', 'Science') |
-| --- |
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-2.jpg" style="width:100%" class="img"/></img>
 
@@ -69,20 +68,19 @@ Example:
 
 | #testing that tuples are immutable
 
- tuple_1 = (5, 6, 8, 12)
- tuple_1[0] = 'Numbers'
- print(tuple_1)
+ tuple_1 = (5, 6, 8, 12) <br>
+ tuple_1[0] = 'Numbers' <br>
+ print(tuple_1) <br>
 
- Output
- TypeError Traceback(most recent call last)
- Input In [10], in \<cell line: 4\>()
-      1# testing that tuples are immutable
-      3 tuple_1 = (5, 6, 8, 12)
- ---\>4 tuple_1[0] = 'Numbers'
-      5 print(tuple_1)
+ Output <br>
+ TypeError Traceback(most recent call last) <br>
+ Input In [10], in \<cell line: 4\>() <br>
+      1# testing that tuples are immutable <br>
+      3 tuple_1 = (5, 6, 8, 12) <br>
+ ---\>4 tuple_1[0] = 'Numbers' <br>
+      5 print(tuple_1) <br>
 
  TypeError: 'tuple' object does not support item assignment |
-| --- |
 
 ## How to perform basic operations in a tuple?
 
@@ -94,17 +92,16 @@ Since the tuple is immutable, you cannot change any value in the tuple element. 
 
 Example:
 
-| #creating two tuple
+| #creating two tuple <br>
 
- tuple1 = 5, 6, 7, 8
- tuple2 = ('data', 'science', 'python', 'class')
+  tuple1 = 5, 6, 7, 8 <br>
+  tuple2 = ('data', 'science', 'python', 'class') <br>
 
-#concatination of tuple
+#concatination of tuple <br>
 
- print(tuple1 + tuple2)
- Output
- (5, 6, 7, 8, 'data', 'science', 'python', 'class') |
-| --- |
+ print(tuple1 + tuple2) <br>
+ Output <br>
+ (5, 6, 7, 8, 'data', 'science', 'python', 'class') | <br>
 
 ### **Repeating Tuple**
 
@@ -112,134 +109,127 @@ If you need any value in a tuple to be repeated, you just need to multiply it by
 
 Example:
 
-| # Creating tuple with repetition
+| # Creating tuple with repetition <br>
 
- tuple_repeat = ('How are you? ')\*5
- print(tuple_repeat)
+ tuple_repeat = ('How are you? ')\*5 <br>
+ print(tuple_repeat) <br>
 
- Output
- How are you? How are you? How are you? How are you? How are you? |
-| --- |
+ Output <br>
+ How are you? How are you? How are you? How are you? How are you? | <br>
 
 ### **Slicing Tuple**
 
-A slicing is retrieving a particular portion for some operation while the initial data remains unaffected. The operation of slicing in python considers three parameters of which two are depending on the operational requirement.
+A slicing is retrieving a particular portion for some operation while the initial data remains unaffected. The operation of slicing in python considers three parameters of which two are depending on the operational requirement. <br>
+ 
+Example: <br>
 
-Example:
+| # Slicing of tuple <br>
 
-| # Slicing of tuple
-
- tuple = (10, 30, 50, 87, 63)
- print(tuple[1 :])
- print(tuple[: : -1])
- print(tuple[2:5]
-
- Output
- (30, 50, 87, 63)
- (63, 87, 50, 30, 10)
- (50, 87, 63) |
-| --- |
+ tuple = (10, 30, 50, 87, 63) <br>
+ print(tuple[1 :]) <br>
+ print(tuple[: : -1]) <br>
+ print(tuple[2:5] <br>
+ Output <br>
+ (30, 50, 87, 63) <br>
+ (63, 87, 50, 30, 10) <br>
+ (50, 87, 63) | <br>
 
 ### **Finding the length of the Tuple**
 
-You can find out the length of values inside a tuple by using the 'len' option.
+You can find out the length of values inside a tuple by using the 'len' option. <br>
 
-Example:
+Example: <br>
 
-| # Finding the length of tuple
+| # Finding the length of tuple <br>
 
- tuple_length = (5, 6, 7, 8, 'data', 'science', 'python', 'class')
- print(len(tuple_length))
-Output8 |
-| --- |
+ tuple_length = (5, 6, 7, 8, 'data', 'science', 'python', 'class') <br>
+ print(len(tuple_length)) <br>
+Output8 | <br>
 
 **Basic functions to use while executing a code in the tuple**
 
-- len() – you can find the length in a tuple
-- min() – you can find the min value in a tuple
-- max()– you can find the max value in a tuple
-- count() – you can find the number of occurrences in a tuple
-- index() – you can find the index value of a tuple
+- len() – you can find the length in a tuple <br>
+- min() – you can find the min value in a tuple <br>
+- max()– you can find the max value in a tuple <br>
+- count() – you can find the number of occurrences in a tuple <br>
+- index() – you can find the index value of a tuple <br>
 
 **Note** : Count and index are not functions, they are the methods
 
 Example:
 
-| #length, minimum, maximum, count and index of tuple
- tuple = (10, 30, 50, 87, 63, 10, 87)
- print('Length of the tuple: ', len(tuple))
- print('Minimum of the tuple: ', min(tuple))
- print('Maximum of the tuple: ', max(tuple))
- print('Count of 87: ', tuple.count(87))
- index = tuple.index(63)
- print('Index of 63: ', index)
+| #length, minimum, maximum, count and index of tuple <br>
+ tuple = (10, 30, 50, 87, 63, 10, 87) <br>
+ print('Length of the tuple: ', len(tuple)) <br>
+ print('Minimum of the tuple: ', min(tuple)) <br>
+ print('Maximum of the tuple: ', max(tuple)) <br>
+ print('Count of 87: ', tuple.count(87)) <br>
+ index = tuple.index(63) <br>
+ print('Index of 63: ', index) <br>
 
- Output
- Length of the tuple: 7
- Minimum of the tuple: 10
- Maximum of the tuple: 87
- Count of 87: 2
- Index of 63: 4 |
-| --- |
+ Output <br>
+ Length of the tuple: 7 <br>
+ Minimum of the tuple: 10 <br>
+ Maximum of the tuple: 87 <br>
+ Count of 87: 2 <br> 
+ Index of 63: 4 | <br>
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-3.jpg" style="width:100%" class="img"/></img>
 
 ### **Sorting of tuple**
 
-By using the sort() method you can sort a tuple. When sorting by this method the real content of the tuple is changed and the in-place method of the sort is performed.
+By using the sort() method you can sort a tuple. When sorting by this method the real content of the tuple is changed and the in-place method of the sort is performed. <br>
 
-Example:
+Example: <br>
 
-| #Sorting a list of tuples by the second item using sort()
+| #Sorting a list of tuples by the second item using sort() <br>
 
-#Function for sorting the list by the second item of tuple |
-| --- |
+#Function for sorting the list by the second item of tuple | <br>
 
-| def Sort_Tuple(tup_1)
+| def Sort_Tuple(tup_1) <br>
 
- #reverse = None(Sorting in ascending order)
- #keyissetforsortingusingthesecondelementof
- #sublistlambdaisused
- tup_1.sort(key = lambda a: a[1])
- returntup_1
+ #reverse = None(Sorting in ascending order) <br>
+ #keyissetforsortingusingthesecondelementof <br>
+ #sublistlambdaisused <br>
+ tup_1.sort(key = lambda a: a[1]) <br>
+ returntup_1 <br>
 
  # DriverCode
-tup\_1 = [('Avni', 10), ('Akash', 5), ('Avinash', 20), ('Arvind', 15)]
+tup_1 = [('Avni', 10), ('Akash', 5), ('Avinash', 20), ('Arvind', 15)] <br>
 
- #printthesortedlistoftuples
-print(Sort_Tuple(tup_1))
+ #printthesortedlistoftuples <br>
+print(Sort_Tuple(tup_1)) <br>
 
-Output
- [('Akash', 5), ('Avni', 10), ('Arvind', 15), ('Avinash', 20)] |
-| --- |
+Output <br>
+ [('Akash', 5), ('Avni', 10), ('Arvind', 15), ('Avinash', 20)] | <br>
 
 1. **Nesting of tuples**
 
-We use the '+' operator when we need to concatenate tuples to nested tuples. Accessing the index elements and trying to make any changes will give an error. We use ''+' for both nesting and concatenating operations.
+We use the '+' operator when we need to concatenate tuples to nested tuples. Accessing the index elements and trying to make any changes will give an error. We use ''+' for both nesting and concatenating operations. <br>
 
-Example:
+Example: <br>
 
-| first_tuple_1 = (5, 8, 4, 4, 7, 1),
- second_tuple_2 = (9, 5, 3, 2, 1, 8),
+| first_tuple_1 = (5, 8, 4, 4, 7, 1), <br>
+ second_tuple_2 = (9, 5, 3, 2, 1, 8), <br>
 
- print("The first tuple consists: ")
- print(first_tuple_1)
- print("The second tuple consists: ")
- print(second_tuple_2)
+ print("The first tuple consists: ") <br>
+ print(first_tuple_1) <br>
+ print("The second tuple consists: ") <br>
+ print(second_tuple_2) <br>
 
- joint_result = first_tuple_1 + second_tuple_2
+ joint_result = first_tuple_1 + second_tuple_2 <br>
 
- print("The tuple after concatenating: ")
- print(joint_result)
+ print("The tuple after concatenating: ") <br>
+ print(joint_result) <br>
 
- Output
- The first tuple consists:
- ((5, 8, 4, 4, 7, 1),)
- The Second tuple consists:
- ((9, 5, 3, 2, 1, 8),)
- The tuple after concatenating:
- ((5, 8, 4, 4, 7, 1), (9, 5, 3, 2, 1, 8)) |
-| --- |
+ Output <br>
+ The first tuple consists: <br>
+ ((5, 8, 4, 4, 7, 1),) <br>
+ The Second tuple consists:<br>
+ ((9, 5, 3, 2, 1, 8),) <br>
+ The tuple after concatenating: <br>
+ ((5, 8, 4, 4, 7, 1), (9, 5, 3, 2, 1, 8)) | <br>
+
 
 **Take away**
 
