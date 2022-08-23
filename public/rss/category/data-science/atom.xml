@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learnbay.co/</id>
     <title>Learnbay blog</title>
-    <updated>2022-08-22T12:17:06.554Z</updated>
+    <updated>2022-08-23T05:49:21.885Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -78,7 +78,7 @@
         <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tuples - An Immutable Derived Datatype]]></title>
+        <title type="html"><![CDATA[Introduction To Data Types - What Does It Mean In Python Programming?]]></title>
         <id>https://learnbay.co//blog/category/data-science</id>
         <link href="https://learnbay.co//blog/category/data-science"/>
         <updated>2022-08-21T18:30:00.000Z</updated>

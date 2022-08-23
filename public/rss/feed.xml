@@ -4,7 +4,7 @@
         <title>Learnbay blog</title>
         <link>https://learnbay.co/</link>
         <description></description>
-        <lastBuildDate>Mon, 22 Aug 2022 12:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 05:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -168,7 +168,7 @@
             <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
         </item>
         <item>
-            <title><![CDATA[Tuples - An Immutable Derived Datatype]]></title>
+            <title><![CDATA[Introduction To Data Types - What Does It Mean In Python Programming?]]></title>
             <link>https://learnbay.co//blog/introduction-to-data-types-what-does-it-mean-in-python-programming</link>
             <guid>https://learnbay.co//blog/introduction-to-data-types-what-does-it-mean-in-python-programming</guid>
             <pubDate>Sun, 21 Aug 2022 18:30:00 GMT</pubDate>
