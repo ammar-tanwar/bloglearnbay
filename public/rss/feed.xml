@@ -4,7 +4,7 @@
         <title>Learnbay blog</title>
         <link>https://learnbay.co/</link>
         <description></description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 12:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>https://learnbay.co/</link>
         </image>
         <copyright>All rights reserved 2022, Sreetam Das</copyright>
+        <item>
+            <title><![CDATA[10 Reasons Why Data Science is A Best Career Move]]></title>
+            <link>https://learnbay.co//blog/10-reasons-why-data-science-is-a-best-career-move</link>
+            <guid>https://learnbay.co//blog/10-reasons-why-data-science-is-a-best-career-move</guid>
+            <pubDate>Tue, 27 Nov 2018 18:30:00 GMT</pubDate>
+            <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
+        </item>
         <item>
             <title><![CDATA[Artificial Intelligence in E-commerce]]></title>
             <link>https://learnbay.co//blog/artificial-intelligence-in-e-commerce</link>
@@ -196,6 +203,13 @@
             <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
         </item>
         <item>
+            <title><![CDATA[Is AI a threat to humanity?]]></title>
+            <link>https://learnbay.co//blog/is-ai-a-threat-to-humanity</link>
+            <guid>https://learnbay.co//blog/is-ai-a-threat-to-humanity</guid>
+            <pubDate>Wed, 17 Aug 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
+        </item>
+        <item>
             <title><![CDATA[Know The Best Strategy To Find The Right Data Science Job in Delhi?]]></title>
             <link>https://learnbay.co//blog/know-the-best-strategy-to-find-the-right-data-science-job-in-delhi</link>
             <guid>https://learnbay.co//blog/know-the-best-strategy-to-find-the-right-data-science-job-in-delhi</guid>
@@ -207,6 +221,13 @@
             <link>https://learnbay.co//blog/know-the-top-10-data-science-trends-2022</link>
             <guid>https://learnbay.co//blog/know-the-top-10-data-science-trends-2022</guid>
             <pubDate>Tue, 24 May 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Learnbay | Data Science Training in Bangalore]]></title>
+            <link>https://learnbay.co//blog/learnbay-data-science-training-in-bangalore</link>
+            <guid>https://learnbay.co//blog/learnbay-data-science-training-in-bangalore</guid>
+            <pubDate>Mon, 27 May 2019 18:30:00 GMT</pubDate>
             <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
         </item>
         <item>
