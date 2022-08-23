@@ -362,6 +362,17 @@
             "author": {}
         },
         {
+<<<<<<< HEAD
+=======
+            "id": "https://learnbay.co//blog/tuples-an-immutable-derived-datatype",
+            "url": "https://learnbay.co//blog/tuples-an-immutable-derived-datatype",
+            "title": "Tuples - An Immutable Derived Datatype",
+            "summary": "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!",
+            "date_modified": "2022-08-17T18:30:00.000Z",
+            "author": {}
+        },
+        {
+>>>>>>> edc9779 (merge)
             "id": "https://learnbay.co//blog/tuples-an-immutable-derived-datatype",
             "url": "https://learnbay.co//blog/tuples-an-immutable-derived-datatype",
             "title": "Tuples - An Immutable Derived Datatype",
