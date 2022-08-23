@@ -309,7 +309,7 @@ You should enroll at[ Learnbay](https://www.learnbay.co/data-science-course/) in
 
 ## Prerequisites for BFSI:
 
-Course Professionals with 1+ years of expertise in the BFSI area are required. Non-BFSI professionals who want to learn about the most up-to-date technology, data science, artificial intelligence, data analyst, and business analyst methodologies that drive strategic development can learn through Learnbay’s[ Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://bit.ly/Learnbay_YouTube),[ Linkedin](https://www.linkedin.com/company/learnbay/),[ Twitter]( https://twitter.com/Learnbay) handles.
+Course Professionals with 1+ years of expertise in the BFSI area are required. Non-BFSI professionals who want to learn about the most up-to-date technology, data science, artificial intelligence, data analyst, and business analyst methodologies that drive strategic development can learn through Learnbay’s <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
 
 
 
