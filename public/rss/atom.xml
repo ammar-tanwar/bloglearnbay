@@ -2,23 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learnbay.co/</id>
     <title>Learnbay blog</title>
-<<<<<<< HEAD
-    <updated>2022-08-23T12:49:25.987Z</updated>
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <updated>2022-08-23T07:24:10.845Z</updated>
-=======
-<<<<<<< HEAD
-    <updated>2022-08-22T10:24:03.183Z</updated>
-=======
-    <updated>2022-08-18T11:46:41.173Z</updated>
->>>>>>> 59f62eb (nerge)
->>>>>>> ee6e13e (merge)
-=======
-    <updated>2022-08-22T11:40:09.094Z</updated>
->>>>>>> edc9779 (merge)
->>>>>>> 5cb3f670821716fab74fcff7f0248eb3140fa5a0
+    <updated>2022-08-23T12:58:08.421Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -223,7 +207,7 @@
         <title type="html"><![CDATA[Is AI a threat to humanity?]]></title>
         <id>https://learnbay.co//blog/is-ai-a-threat-to-humanity</id>
         <link href="https://learnbay.co//blog/is-ai-a-threat-to-humanity"/>
-        <updated>2022-08-17T18:30:00.000Z</updated>
+        <updated>2019-08-17T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
     </entry>
     <entry>
@@ -360,16 +344,6 @@
         <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
     </entry>
     <entry>
-<<<<<<< HEAD
-=======
-        <title type="html"><![CDATA[Tuples - An Immutable Derived Datatype]]></title>
-        <id>https://learnbay.co//blog/tuples-an-immutable-derived-datatype</id>
-        <link href="https://learnbay.co//blog/tuples-an-immutable-derived-datatype"/>
-        <updated>2022-08-17T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
-    </entry>
-    <entry>
->>>>>>> edc9779 (merge)
         <title type="html"><![CDATA[Tuples - An Immutable Derived Datatype]]></title>
         <id>https://learnbay.co//blog/tuples-an-immutable-derived-datatype</id>
         <link href="https://learnbay.co//blog/tuples-an-immutable-derived-datatype"/>

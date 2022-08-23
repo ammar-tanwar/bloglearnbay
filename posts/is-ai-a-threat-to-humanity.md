@@ -3,7 +3,7 @@ title: Is AI a threat to humanity?
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isai.png"
-date: "August 18, 2022" 
+date: "August 18, 2019" 
 tag: [ Data Science ]
 category: "Data Science"
 author: "Akash Kumar"

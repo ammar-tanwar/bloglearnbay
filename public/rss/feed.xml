@@ -4,23 +4,7 @@
         <title>Learnbay blog</title>
         <link>https://learnbay.co/</link>
         <description></description>
-<<<<<<< HEAD
-        <lastBuildDate>Tue, 23 Aug 2022 12:49:25 GMT</lastBuildDate>
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <lastBuildDate>Tue, 23 Aug 2022 07:24:10 GMT</lastBuildDate>
-=======
-<<<<<<< HEAD
-        <lastBuildDate>Mon, 22 Aug 2022 10:24:03 GMT</lastBuildDate>
-=======
-        <lastBuildDate>Thu, 18 Aug 2022 11:46:41 GMT</lastBuildDate>
->>>>>>> 59f62eb (nerge)
->>>>>>> ee6e13e (merge)
-=======
-        <lastBuildDate>Mon, 22 Aug 2022 11:40:09 GMT</lastBuildDate>
->>>>>>> edc9779 (merge)
->>>>>>> 5cb3f670821716fab74fcff7f0248eb3140fa5a0
+        <lastBuildDate>Tue, 23 Aug 2022 12:58:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -222,7 +206,7 @@
             <title><![CDATA[Is AI a threat to humanity?]]></title>
             <link>https://learnbay.co//blog/is-ai-a-threat-to-humanity</link>
             <guid>https://learnbay.co//blog/is-ai-a-threat-to-humanity</guid>
-            <pubDate>Wed, 17 Aug 2022 18:30:00 GMT</pubDate>
+            <pubDate>Sat, 17 Aug 2019 18:30:00 GMT</pubDate>
             <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
         </item>
         <item>
@@ -359,16 +343,6 @@
             <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
         </item>
         <item>
-<<<<<<< HEAD
-=======
-            <title><![CDATA[Tuples - An Immutable Derived Datatype]]></title>
-            <link>https://learnbay.co//blog/tuples-an-immutable-derived-datatype</link>
-            <guid>https://learnbay.co//blog/tuples-an-immutable-derived-datatype</guid>
-            <pubDate>Wed, 17 Aug 2022 18:30:00 GMT</pubDate>
-            <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
-        </item>
-        <item>
->>>>>>> edc9779 (merge)
             <title><![CDATA[Tuples - An Immutable Derived Datatype]]></title>
             <link>https://learnbay.co//blog/tuples-an-immutable-derived-datatype</link>
             <guid>https://learnbay.co//blog/tuples-an-immutable-derived-datatype</guid>
