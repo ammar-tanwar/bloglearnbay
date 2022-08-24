@@ -2,11 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learnbay.co/</id>
     <title>Learnbay blog</title>
-<<<<<<< HEAD
-    <updated>2022-08-24T09:31:01.173Z</updated>
-=======
-    <updated>2022-08-24T08:48:57.111Z</updated>
->>>>>>> 3008e19 (merrge)
+    <updated>2022-08-24T09:42:09.776Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
