@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learnbay.co/</id>
     <title>Learnbay blog</title>
-    <updated>2022-08-24T07:08:25.497Z</updated>
+    <updated>2022-08-24T07:41:20.939Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -278,13 +278,6 @@
         <id>https://learnbay.co//blog/nlp-and-deep-learning-for-data-scientists</id>
         <link href="https://learnbay.co//blog/nlp-and-deep-learning-for-data-scientists"/>
         <updated>2020-12-16T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oops! Why 2022 Is Too Late For Video-Based Data Science Learning]]></title>
-        <id>https://learnbay.co//blog/oops-why-2022-is-too-late-for-video-Based-data-science-learning</id>
-        <link href="https://learnbay.co//blog/oops-why-2022-is-too-late-for-video-Based-data-science-learning"/>
-        <updated>2022-08-16T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
     </entry>
     <entry>
