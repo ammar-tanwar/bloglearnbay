@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learnbay.co/</id>
     <title>Learnbay blog</title>
-    <updated>2022-08-24T09:42:09.598Z</updated>
+    <updated>2022-08-25T12:56:43.004Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -165,7 +165,7 @@
         <title type="html"><![CDATA[Top 5 Job-Ready Data Science Course For Managers And Leaders In 2022]]></title>
         <id>https://learnbay.co//blog/category/data-science</id>
         <link href="https://learnbay.co//blog/category/data-science"/>
-        <updated>2022-08-22T18:30:00.000Z</updated>
+        <updated>2022-08-23T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
     </entry>
     <entry>
@@ -180,6 +180,13 @@
         <id>https://learnbay.co//blog/category/data-science</id>
         <link href="https://learnbay.co//blog/category/data-science"/>
         <updated>2021-11-30T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Need Data Structures And Algorithms training]]></title>
+        <id>https://learnbay.co//blog/category/data-science</id>
+        <link href="https://learnbay.co//blog/category/data-science"/>
+        <updated>2017-05-07T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
     </entry>
     <entry>
