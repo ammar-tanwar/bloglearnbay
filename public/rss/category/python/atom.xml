@@ -2,7 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learnbay.co/</id>
     <title>Learnbay blog</title>
+<<<<<<< HEAD
     <updated>2022-08-25T12:56:43.098Z</updated>
+=======
+    <updated>2022-08-24T13:25:48.313Z</updated>
+>>>>>>> bfbfe1a24b15585e8248207c88d38541b2a90997
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
