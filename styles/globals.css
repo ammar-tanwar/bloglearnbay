@@ -1,0 +1,152 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.RightPopup h5 {
+  font-size: 24px;
+  text-align: left;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+}
+.RightPopup p {
+  font-size: 18px;
+  color: rgb(143, 143, 143);
+}
+
+h4 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  color: #000;
+  padding: 0;
+  font-weight: 600;
+  text-align: center;
+}
+
+button {
+  padding: 15px 20px;
+  outline: none;
+  background-color: #2d9cd7;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  font-size: 14px;
+  border: 1px solid #2d9cd7;
+}
+
+.buttonline {
+  padding: 15px 20px;
+  outline: none;
+  background-color: #fff;
+  color: #2d9cd7;
+  border: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  font-size: 14px;
+  border: 1px solid #2d9cd7;
+}
+
+.bIcon {
+  font-size: 18px;
+  margin-left: 8px;
+  color: #2d9cd7;
+}
+.bIcons {
+  font-size: 18px;
+  margin-right: 8px;
+  color: white;
+  display: initial;
+}
+
+.popupModal {
+  display: grid;
+  grid-template-columns: 49% 49%;
+  background-color: white;
+}
+
+.RightPopup {
+  display: flex;
+  flex-flow: column;
+
+  margin-left: 40px;
+
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.hoverBtn {
+  padding: 15px 20px;
+  outline: none;
+  background-color: #2d9cd7;
+  color: white;
+  border: 0;
+  gap: 10px;
+  justify-content: space-between;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+@media (max-width: 481px) {
+  h4 {
+    font-size: 26px;
+    margin: 0;
+    color: #000;
+    padding: 0;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  h5 {
+    font-size: 30px;
+    margin: 0;
+    color: #000;
+    padding: 0;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .leftPopup {
+    display: none;
+  }
+  .RightPopup {
+    display: flex;
+    flex-flow: column;
+    margin-left: 0;
+    gap: 10px;
+  }
+
+  .RightPopup h5 {
+    margin-top: 10px;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+  }
+  .RightPopup p {
+    font-size: 16px;
+    color: rgb(143, 143, 143);
+  }
+
+}

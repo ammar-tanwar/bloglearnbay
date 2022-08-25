@@ -1,0 +1,139 @@
+.mains {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.Back {
+  background-color: #f4fcfe;
+  height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 59% 39%;
+  align-items: center;
+  margin: auto;
+  padding: 0px 100px;
+  margin-top: 70px;
+  color: black;
+}
+
+.Back h4 {
+  text-align: left;
+}
+
+.right {
+  display: flex;
+  margin: auto;
+  width: 1300px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.rights {
+  display: grid;
+  margin: auto;
+  width: 1300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+
+
+.hptop {
+  color: #000;
+  font-size: 36px;
+  color: white;
+  margin: 0;
+}
+
+.Ptopp {
+  font-size: 20px;
+  margin: 20px 10px;
+  color: Black;
+  text-align: center;
+  font-weight: 700;
+}
+
+.mainb {
+  display: flex;
+}
+
+.Button {
+  margin: 10px;
+  margin: auto;
+}
+
+@media (max-width: 481px) {
+  .mains {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .Back {
+    height: 100%;
+    text-align: left;
+    padding: 100px 20px 30px 20px;
+    display: block;
+  }
+
+  .Back h4 {
+    text-align: center;
+  }
+
+  .right {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: auto;
+    margin-top: 20px;
+    text-align: center;
+    padding: 0px 20px;
+  }
+
+  .rights {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: auto;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .Ptop {
+    font-size: 20px;
+    margin: 15px;
+    color: white;
+  }
+  
+  .hptop {
+    color: #000;
+    font-size: 36px;
+    color: white;
+    margin: 0;
+  }
+
+  .Ptopp {
+    font-size: 20px;
+    margin: 20px 2px;
+    color: Black;
+    text-align: center;
+    font-weight: 600;
+    padding: 0px 20px;
+  }
+  
+  .mainb {
+    display: flex;
+  }
+  
+  .Button {
+    margin-bottom: 10px;
+  }
+}
