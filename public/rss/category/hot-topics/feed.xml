@@ -4,11 +4,7 @@
         <title>Learnbay blog</title>
         <link>https://learnbay.co/</link>
         <description></description>
-<<<<<<< HEAD
-        <lastBuildDate>Thu, 25 Aug 2022 12:56:43 GMT</lastBuildDate>
-=======
-        <lastBuildDate>Wed, 24 Aug 2022 13:25:48 GMT</lastBuildDate>
->>>>>>> bfbfe1a24b15585e8248207c88d38541b2a90997
+        <lastBuildDate>Mon, 29 Aug 2022 05:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -67,7 +63,7 @@
             <description><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></description>
         </item>
         <item>
-            <title><![CDATA[Marketing, Sales, and HR Is being a data scientist the only hope?]]></title>
+            <title><![CDATA[Top 50 interview question on statistics]]></title>
             <link>https://learnbay.co//blog/category/hot-topics</link>
             <guid>https://learnbay.co//blog/category/hot-topics</guid>
             <pubDate>Wed, 06 Apr 2022 18:30:00 GMT</pubDate>

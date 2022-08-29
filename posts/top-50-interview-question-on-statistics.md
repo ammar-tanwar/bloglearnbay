@@ -1,5 +1,5 @@
 ---
-title: Marketing, Sales, and HR Is being a data scientist the only hope?
+title: Top 50 interview question on statistics
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/stats.jpg"

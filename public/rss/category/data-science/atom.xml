@@ -2,11 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learnbay.co/</id>
     <title>Learnbay blog</title>
-<<<<<<< HEAD
-    <updated>2022-08-25T12:56:43.004Z</updated>
-=======
-    <updated>2022-08-24T13:25:48.172Z</updated>
->>>>>>> bfbfe1a24b15585e8248207c88d38541b2a90997
+    <updated>2022-08-29T05:52:42.345Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -177,6 +173,20 @@
         <id>https://learnbay.co//blog/category/data-science</id>
         <link href="https://learnbay.co//blog/category/data-science"/>
         <updated>2022-08-17T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?]]></title>
+        <id>https://learnbay.co//blog/category/data-science</id>
+        <link href="https://learnbay.co//blog/category/data-science"/>
+        <updated>2022-08-28T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Data Science? | Uncovering The Explicit Truth]]></title>
+        <id>https://learnbay.co//blog/category/data-science</id>
+        <link href="https://learnbay.co//blog/category/data-science"/>
+        <updated>2022-08-25T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
     </entry>
     <entry>
