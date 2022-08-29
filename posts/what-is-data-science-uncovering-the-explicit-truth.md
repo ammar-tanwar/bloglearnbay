@@ -1,8 +1,6 @@
 ---
 title: What is Data Science? | Uncovering The Explicit Truth
-desc: "Data Science Become a Major Player in 2022: Know-How.
-
-Technology keeps revolutionizing as it gets better and better every day. Many unique and customized models are developed according to the business needs as well as operations...."
+desc: "Data Science Become a Major Player in 2022: Know-How. Technology keeps revolutionizing as it gets better and better every day. Many unique and customized models are developed according to the business needs as well as operations...."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science1.png"
 date: "August 26, 2022" 

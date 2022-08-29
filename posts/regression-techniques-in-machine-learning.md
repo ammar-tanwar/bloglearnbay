@@ -1,7 +1,6 @@
 ---
 title: Regression techniques in Machine Learning
-desc: "1. There should be a linear relationship between the variables.
-2. It is very sensitive to Outliers and can give a high variance and bias model."
+desc: "There should be a linear relationship between the variables. It is very sensitive to Outliers and can give a high variance and bias model."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech.jpg"
 date: "may 29, 2022"
