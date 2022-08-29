@@ -1,6 +1,6 @@
 ---
 title: What is Supervised, Unsupervised Learning, and Reinforcement Learning in Machine Learning
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "The Supervised Unsupervised And Reinforcement Learning algorithm is widely used in the industries to predict the business outcome, and forecasting the result on the basis of historical data"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/super.png"
 date: "April 7, 2022"

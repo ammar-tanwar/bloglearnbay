@@ -2,7 +2,7 @@
 title: Exploratory Data Analysis on Iris dataset
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/exp.png"
+headerImg: "Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, spot anomalies, to test hypotheses and to check assumptions with the help of summary statistics and graphical representations..."
 date: "January 3, 2021"
 tag: [ Uncategorized ]
 author: "Admin"

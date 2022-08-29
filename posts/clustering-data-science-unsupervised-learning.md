@@ -2,7 +2,7 @@
 title: Clustering & Types Of Clustering
 desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/medical.jpg"
+headerImg: "Clustering & Types Of Clustering is the process of finding similar groups in data, called a cluster. It groups data instances that are similar to each other in one cluster and data instances that are very different(far away) from each other into different clusters..."
 date: "November 17, 2020"
 tag: [ Machine learning ]
 category: "Machine learning"

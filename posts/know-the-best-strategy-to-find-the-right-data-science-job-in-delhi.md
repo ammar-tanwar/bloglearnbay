@@ -1,6 +1,6 @@
 ---
 title: Know The Best Strategy To Find The Right Data Science Job in Delhi?
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Data science careers are buzzing everywhere, and so the data science courses. It’s true that data science salaries are too lucrative and offer sample scopes of career growth..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/delhi.jpg"
 date: "August 30, 2020"
@@ -21,7 +21,6 @@ Which companies keep hiring a data scientist around the year in Delhi?,
 To find the right data science job in Delhi?,
   ]
 ---
-
 
 Data science careers are buzzing everywhere, and so the data science courses. It’s true that data science salaries are too lucrative and offer sample scopes of career growth. But the majority of candidates struggle a lot to grab the right data science job after competing in their data science courses. After Bengaluru, Mumbai, Hyderabad, and Chennai, Delhi will be the next promising destination for data science aspirants. In this blog, I’ll discuss the best strategy for grabbing the right data science job in Delhi and a brief understanding of the growth orientation of the data science salary in India.
 

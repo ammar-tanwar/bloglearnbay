@@ -1,6 +1,6 @@
 ---
 title: Introduction To Data Types - What Does It Mean In Python Programming?
-desc: "Introduction To Data Types - What Does It Mean In Python Programming?"
+desc: "When you are working on any programming language, the information has to be written in different forms. This is very important to run the program. Programming is a combination of different data elements, such as integers, values, and strings called data types..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-1.jpg"
 date: "August 22, 2022" 

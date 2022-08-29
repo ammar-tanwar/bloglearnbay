@@ -1,6 +1,6 @@
 ---
 title: Introduction to Python Programming
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Python is a general-purpose, interpreted, and dynamic programming language that belongs to high-level programming language divisions. Python is commonly used for application development because it supports object-oriented programming approach..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/soft.jpg"
 date: "April 27, 2022"

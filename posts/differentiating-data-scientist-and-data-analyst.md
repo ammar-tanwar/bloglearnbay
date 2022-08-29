@@ -1,6 +1,6 @@
 ---
 title: Differentiating Data Scientist and Data Analyst
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Even people who have some basic knowledge of data science have confused the data scientist and data analyst roles. So, what’s the difference between a data scientist and a data analyst? Both work with data, but the key difference is what they do with this data..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/diff1.jpg"
 date: "August 14, 2022"

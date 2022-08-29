@@ -1,6 +1,6 @@
 ---
 title: Reliable sources to understand about Data Science
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Data science is the leading concept currently throughout the world, it has successfully managed to bring different nations under one umbrella..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/source.jpg"
 date: "February, 2022"

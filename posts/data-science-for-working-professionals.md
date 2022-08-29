@@ -1,6 +1,6 @@
 ---
 title: Data Science for working professionals
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "To secure a job in any domain one has to give it a lot of preparation, should be trained for the role and should have absolute knowledge about the field..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/working1.jpg"
 date: "July 08, 2022"

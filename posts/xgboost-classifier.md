@@ -1,6 +1,6 @@
 ---
 title: Everything About the XGBoost Classifier
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "XGBoost classifier is a Machine learning algorithm that is applied for structured and tabular data. XGBoost classifier is an implementation of gradient boosted decision trees designed for speed and performance..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xg.png"
 date: "February 04, 2022"

@@ -1,6 +1,6 @@
 ---
 title: Necessity of Machine Learning in Retail
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Nowadays data proves to be a powerful pushing force of the industry. Big companies representing diverse trade spheres seek to make use of the beneficial value of the data..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/retail.jpg"
 date: "April 18, 2022"

@@ -1,6 +1,6 @@
 ---
 title: How Does Data Science Promote Project Managers to a New Perspective of Success
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Businesses have changed their work process; consumers have changed their consumption behavior. Accordingly, the service experience expectations of customers are also changing their directions..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg"
 date: "may 30, 2022"

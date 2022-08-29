@@ -1,6 +1,6 @@
 ---
 title: Everything About Data Preprocessing
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Introduction to Data Preprocessing:- Before modeling the data we need to clean the information to get a training sample for the modeling. Data preprocessing is a data mining technique that involves transforming the raw data into an understandable format"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/databack.jpg"
 date: "November 25, 2021"

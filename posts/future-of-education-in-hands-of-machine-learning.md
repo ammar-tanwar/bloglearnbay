@@ -1,6 +1,6 @@
 ---
 title: Future of Education in hands of Machine Learning
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Old school educators are having a hard time getting used to machines having the ability to think and learn. Suggesting to them that machine learning is going to revolutionize the education field usually falls on deaf ears..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/machine.jpg"
 date: "June 10, 2022"

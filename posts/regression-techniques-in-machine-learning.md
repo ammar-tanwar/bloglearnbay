@@ -1,6 +1,7 @@
 ---
 title: Regression techniques in Machine Learning
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "1. There should be a linear relationship between the variables.
+2. It is very sensitive to Outliers and can give a high variance and bias model."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech.jpg"
 date: "may 29, 2022"

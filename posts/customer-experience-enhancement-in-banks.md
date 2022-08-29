@@ -1,6 +1,6 @@
 ---
 title: Customer Experience Enhancement In Banks
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Customer Experience Enhancement now have access to accounts and can transact across mobile, social, and other self-serve channels..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cus.jpg"
 date: "July 11, 2021"

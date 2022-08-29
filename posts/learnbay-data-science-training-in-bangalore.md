@@ -1,6 +1,6 @@
 ---
 title: Learnbay | Data Science Training in Bangalore
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Data science is an umbrella term which covers many areas of technology from Programming tools, statistics,Mathematics, machine learning, and computer science..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-data-science-1.png"
 date: "may 28, 2019" 

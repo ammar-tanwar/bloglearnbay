@@ -1,6 +1,6 @@
 ---
 title: Win the COVID-19
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "COVID-19 is an inevitable unfortunate situation, each one of us have got to fight it being at home, I just hope this all ends soon..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/covid.png"
 category: "Data Science"

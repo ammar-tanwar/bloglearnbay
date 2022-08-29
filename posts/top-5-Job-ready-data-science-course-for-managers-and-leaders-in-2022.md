@@ -1,6 +1,6 @@
 ---
 title: Top 5 Job-Ready Data Science Course For Managers And Leaders In 2022
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Data Science Course For Managers- The Assured Way of a Lucrative Career Switch, even after 10 Years of Employment..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-1.png"
 date: "August 24, 2022"

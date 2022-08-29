@@ -1,6 +1,6 @@
 ---
 title: Know The Top 10 Data Science Trends (2022)
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Technology keeps advancing and innovating. This makes our lives better and so the business outcomes. But trends in such advancements come and go..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"
 date: "May 25, 2022"

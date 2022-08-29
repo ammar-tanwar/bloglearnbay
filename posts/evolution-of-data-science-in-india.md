@@ -1,6 +1,6 @@
 ---
 title: Evolution of Data Science in India
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "When we talk about evolution of Data Science, we mean about the origin of Statistics, because the term “Data Science” is a_ tailored term_ to the original term “Statistics“..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/evolution.jpg"
 date: "Febraury 7, 2020"

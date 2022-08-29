@@ -1,6 +1,8 @@
 ---
 title: Media Hospitality and Transportation Know How Data Science Will Help you to Survive
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Consumer data will be the biggest differentiator in the next two to three years. Whoever unlocks the reams of data and uses it strategically will win – Angela Ahrendts Senior Vice President of Retail at Apple Inc"
+
+The Same is true for Media, Hospitality, and the transportation industry..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-01.jpg"
 date: "april 6, 2022"

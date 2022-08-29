@@ -1,6 +1,6 @@
 ---
 title: Everything About Decision Tree From Scratch
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "The decision tree is the classification algorithm in ML(machine learning). A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tree.png"
 date: "November, 2021"

@@ -1,6 +1,7 @@
 ---
 title: You could be a pro in Data Science by Self Assisting
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Get good at stats, math and machine learning. Take online data course.
+    Learn to code. Computer science, development and a language..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/book.jpg"
 date: "September 11, 2020"

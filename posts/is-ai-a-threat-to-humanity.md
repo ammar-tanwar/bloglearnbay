@@ -1,6 +1,6 @@
 ---
 title: Is AI a threat to humanity?
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "The alarms rang in July 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out "I have exposure to the very cutting-edge AI, and I think people should be really concerned about it..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isai.png"
 date: "August 18, 2019" 

@@ -1,6 +1,6 @@
 ---
 title: How to Build a Rewarding Career As a Healthcare Data Scientist?
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Data science in Healthcare isn’t something new. It is the most common industry where data science and analytics are applied..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health.png"
 date: "May 16, 2022"

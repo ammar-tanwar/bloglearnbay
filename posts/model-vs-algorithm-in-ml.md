@@ -1,6 +1,6 @@
 ---
 title: Model vs Algorithm in ML
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Machine Learning works with “models” and “algorithms”, and both play an important role in machine learning where the algorithm tells about the process and model is built by following those rules..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/model.png"
 date: "April 29, 2021"

@@ -1,6 +1,8 @@
 ---
 title: Top 50 interview questions of Machine Learning
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "How to handle categorical variables in KNN?
+
+Ans: Create dummy variables out of a categorical variable and include them instead of the original categorical variable. Unlike regression, create k dummies instead of (k-1)..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview.jpg"
 date: "May 27, 2021"

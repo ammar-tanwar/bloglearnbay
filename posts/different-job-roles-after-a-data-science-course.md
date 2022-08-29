@@ -1,6 +1,6 @@
 ---
 title: Different Job Roles After A Data Science Course
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Data science has existed since the 1990s. However, its significance was only realised when firms were unable to make decisions based on massive amounts of data. Most firms out there collect and analyze a large amount of particular data in their everyday operations in this age of technology and today we will discuss different job roles after the data science course..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/roles1.jpg"
 date: "April 7, 2022"

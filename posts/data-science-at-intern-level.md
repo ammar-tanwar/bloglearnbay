@@ -1,6 +1,6 @@
 ---
 title: Data Science at Intern Level
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "As Data Science holds the grand title of sexiest job of the decade the idea of pursuing it becomes still more uneasy, more to that there is the viral notion of “Data Science is the toughest to build career in”..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/intern.jpg"
 date: "January 7, 2022"

@@ -1,6 +1,6 @@
 ---
 title: Oops! Why 2022 Is Too Late For Video-Based Data Science Learning
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Online data science courses are still the best option, but the recorded video-based ones are the worst..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-4.jpg"
 date: "August 17, 2022"

@@ -1,6 +1,6 @@
 ---
 title: Marketing, Sales, and HR Is being a data scientist the only hope?
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Sales, marketing, and HR have been among the most profitable industries in the 21st century. But there have been some hidden downfalls that you may not be aware of..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market.png"
 date: "April 07, 2022"

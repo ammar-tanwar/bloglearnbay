@@ -1,6 +1,6 @@
 ---
 title: Practice of Intelligence with help of Artificial Intelligence in Academics
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Artificial Intelligence is no longer just contained in science fiction films. It is increasingly becoming a significant part of our everyday lives..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/robot.jpg"
 date: "April 7, 2022"

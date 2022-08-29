@@ -1,6 +1,6 @@
 ---
 title: How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Today’s retail data is exploding at a tremendous speed. Retailers are relying on data analysis, to turn insights into profitable margins by developing data-driven plans."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png"
 date: "May 7, 2022"
@@ -28,7 +28,7 @@ Conclusion,
 
 ## What Role Does E-Commerce Play in the Post-Pandemic Retail Future?
 
-Today’s retail data is exploding at a tremendous speed. Retailers are relying on data analysis, to turn insights into profitable margins by developing data-driven plans.  Owing to the growing volume of data, data scientists are higher in demand.
+Today’s retail data is exploding at a tremendous speed. Retailers are relying on data analysis, to turn insights into profitable margins by developing data-driven plans. Owing to the growing volume of data, data scientists are higher in demand.
 
 Some employees working in the e-commerce and retail industries are quite dissatisfied with their jobs. And wish to shift their profession without changing their domain. If you’re one of them, then you’re in the right place. If you love working with data and have some technical abilities, then[ Data science](https://www.learnbay.co/data-science-course/different-job-roles-after-a-data-science-course/)<span style="text-decoration:underline;"> </span>can be the ideal choice for your career. 
 

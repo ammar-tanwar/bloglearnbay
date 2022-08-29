@@ -1,6 +1,6 @@
 ---
 title: Text Stemming In NLP
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Human language is an unsolved problem that there are more than 6500 languages worldwide..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/stem.jpg"
 date: "July 5, 2022"

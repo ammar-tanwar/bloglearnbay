@@ -1,6 +1,6 @@
 ---
 title: What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "Capstone Project Is What You Need To Stand Out From Other Applicants During Recruitment..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-1.jpg"
 date: "August 29, 2022" 
@@ -29,7 +29,7 @@ About 80% of working professionals seek a   **job-ready data science and AI cour
 
 And this is where the **capstone project**  plays a vital role for data science and AI aspirants.
 
-A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology. And even showcase their skills to the recruiter while applying for a [_ **job in data science** _](https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/)[.](https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/)
+A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology. And even showcase their skills to the recruiter while applying for a [ **job in data science** ](https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/)[.](https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/)
 
 Recruiters usually offer an in-depth eye on your **capstone project** to know how valuable and usable  **data science**  **skills** and knowledge you own. So, enrolling in an AI and Data Science course that offers capstone projects is ideal and the first entry point toward a successful   **data science**  **career.**   As I told you earlier, it is a way to show your knowledge and skills in Data Science and [**Artificial Intelligence**](https://www.learnbay.co/artificial-intelligence-certification-course). Many courses offer projects but not a capstone project or capstone project certification.
 

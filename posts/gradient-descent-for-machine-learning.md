@@ -1,6 +1,6 @@
 ---
 title: Gradient Descent for Machine Learning
-desc: "Learnbay one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!"
+desc: "It is an optimization algorithm to find the values of parameters(coefficient) of a function(f) that minimizes the cost function. It is used when parameters can not be calculated by Linear algebra..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog1.webp"
 date: "March 6, 2022"
