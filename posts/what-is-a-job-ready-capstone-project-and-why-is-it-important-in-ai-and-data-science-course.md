@@ -93,7 +93,7 @@ Today many are opting for professional courses to improve the strength of their 
 
 ### 5 . Helps in attending interviews and case study
 
-Interviews are way different today. Recruitment is not just dependent on the usual HR questions and answers. [_ **Data Science and Artificial intelligence job** _](https://learnbay.co/data-science-course/job-guarantee-or-money-back-data-science-ai-certification-course/)roles even have technical rounds involving case studies, which can be practical or verbal. You can easily take the lead in demonstrating your analytical skills during the interview and even build confidence in resolving issues. A capstone project will prepare you for this even before you would know this.
+Interviews are way different today. Recruitment is not just dependent on the usual HR questions and answers. [_ **Data Science and Artificial intelligence job** _](https://www.learnbay.co/data-science-course/job-guarantee-or-money-back-data-science-ai-certification-course/)roles even have technical rounds involving case studies, which can be practical or verbal. You can easily take the lead in demonstrating your analytical skills during the interview and even build confidence in resolving issues. A capstone project will prepare you for this even before you would know this.
 
 ### 6 . Develop discipline and team spirit
 

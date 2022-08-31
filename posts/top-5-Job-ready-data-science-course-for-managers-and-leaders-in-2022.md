@@ -24,7 +24,7 @@ tableData:
 
 Data Science Course For Managers- The Assured Way of a Lucrative Career Switch, even after 10 Years of Employment
 
-8 to 10 years of career means you are gradually approaching your retirement. At this stage, no one wants to experiment. Rather everyone searches for a settled career space. But even after having 15 years of experience, so many professionals are now pursuing data science certification courses, in fact paying 2 to 3 lakhs for the same. Leadership level professionals are getting mad over <b><a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank">data science certification courses</a></b>
+8 to 10 years of career means you are gradually approaching your retirement. At this stage, no one wants to experiment. Rather everyone searches for a settled career space. But even after having 15 years of experience, so many professionals are now pursuing data science certification courses, in fact paying 2 to 3 lakhs for the same. Leadership level professionals are getting mad over <b><a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank">data science certification courses</a></b>
 
 In fact, several ed-tech platforms are also introducing various **data science and AI Courses** like a rapid-fire. But have you ever thought about why such a sudden need to pursue data science courses was raised amongst the leadership level pros? And also, are these courses really help to achieve your desired career growth? This blog will provide more information on the identical.
 
@@ -70,7 +70,7 @@ Learbay is a pioneer in teaching Data Science. It has a specialized course for M
 
 Topics covering these courses are **SQL,** <b><a href="https://www.learnbay.co/data-science-course/regression-techniques-in-machine-learning/" target="_blank">machine learning</a></b> **, MongoDB, Tableau, Big Data, Spark Analytics,** etc. You get certificates for the tools you have learned to work on.
 
-Faculties are FAANG experts, <b><a href="https://learnbay.co/data-science-ai-for-managers" target="_blank">Data Science manager's course</a></b> is for 11 months and offers flexible membership to LMS. Managers even get to work on live projects and receive **project experience certification from IBM**.
+Faculties are FAANG experts, <b><a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">Data Science manager's course</a></b> is for 11 months and offers flexible membership to LMS. Managers even get to work on live projects and receive **project experience certification from IBM**.
 
 Key Features includes
 

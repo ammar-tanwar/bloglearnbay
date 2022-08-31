@@ -65,7 +65,7 @@ const Tabs = ({ handleIcon }) => {
             {viewAll ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                  <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -78,7 +78,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                  <a href="https://www.learnbay.co/data-science-ai-for-managers">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -93,7 +93,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-software-development-program">
+                  <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -106,7 +106,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                  <a href="https://www.learnbay.co/artificial-intelligence-certification-course">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -121,7 +121,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -136,7 +136,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -191,7 +191,7 @@ const Tabs = ({ handleIcon }) => {
             {oneYear ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/data-science-certification-courses">
+                  <a href="https://www.learnbay.co/data-science-certification-courses">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -206,7 +206,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                  <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Advance Data Science & AI Program</h5>
@@ -218,7 +218,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                  <a href="https://www.learnbay.co/artificial-intelligence-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Advance AI & ML Program For Tech Professionals</h5>
@@ -228,7 +228,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                  <a href="https://www.learnbay.co/data-science-ai-for-managers">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Data Science and AI for Managers & Leaders</h5>
@@ -240,7 +240,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Data Science and AI With Job Guarantee</h5>
@@ -250,7 +250,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/business-analytics-certification-course">
+                  <a href="https://www.learnbay.co/business-analytics-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>
@@ -266,7 +266,7 @@ const Tabs = ({ handleIcon }) => {
                 </div>
 
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                  <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -323,7 +323,7 @@ const Tabs = ({ handleIcon }) => {
             {nonTech ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -338,7 +338,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-software-development-program">
+                  <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -393,7 +393,7 @@ const Tabs = ({ handleIcon }) => {
             {Guarantee ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -408,7 +408,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -463,7 +463,7 @@ const Tabs = ({ handleIcon }) => {
             {Stack ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/data-science-certification-courses">
+                  <a href="https://www.learnbay.co/data-science-certification-courses">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -478,7 +478,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -493,7 +493,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                  <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Advance Data Science & AI Program</h5>
@@ -504,7 +504,7 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
 
-                  <a href="https://learnbay.co/full-stack-software-development-program">
+                  <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Full Stack Software Development</h5>
@@ -516,7 +516,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                  <a href="https://www.learnbay.co/artificial-intelligence-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Advance AI & ML Program For Tech Professionals</h5>
@@ -526,7 +526,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                  <a href="https://www.learnbay.co/data-science-ai-for-managers">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Data Science and AI for Managers & Leaders</h5>
@@ -538,7 +538,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Data Science and AI With Job Guarantee</h5>
@@ -548,7 +548,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/business-analytics-certification-course">
+                  <a href="https://www.learnbay.co/business-analytics-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>
@@ -562,7 +562,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/data-analytics-certification-course">
+                  <a href="https://www.learnbay.co/data-analytics-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>
@@ -574,7 +574,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/dsa-system-design">
+                  <a href="https://www.learnbay.co/dsa-system-design">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -601,7 +601,7 @@ const Tabs = ({ handleIcon }) => {
             {viewAll ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                  <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -614,7 +614,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                  <a href="https://www.learnbay.co/data-science-ai-for-managers">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -629,7 +629,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-software-development-program">
+                  <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -642,7 +642,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                  <a href="https://www.learnbay.co/artificial-intelligence-certification-course">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -657,7 +657,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -670,7 +670,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/dsa-system-design">
+                  <a href="https://www.learnbay.co/dsa-system-design">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -685,7 +685,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -706,7 +706,7 @@ const Tabs = ({ handleIcon }) => {
             {oneYear ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/data-science-certification-courses">
+                  <a href="https://www.learnbay.co/data-science-certification-courses">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -722,7 +722,7 @@ const Tabs = ({ handleIcon }) => {
                 </div>
 
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                  <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Advance Data Science & AI Program</h5>
@@ -734,7 +734,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                  <a href="https://www.learnbay.co/artificial-intelligence-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Advance AI & ML Program For Tech Professionals</h5>
@@ -744,7 +744,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                  <a href="https://www.learnbay.co/data-science-ai-for-managers">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Data Science and AI for Managers & Leaders</h5>
@@ -756,7 +756,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Data Science and AI With Job Guarantee</h5>
@@ -766,7 +766,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/business-analytics-certification-course">
+                  <a href="https://www.learnbay.co/business-analytics-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>
@@ -782,7 +782,7 @@ const Tabs = ({ handleIcon }) => {
                 </div>
 
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/data-analytics-certification-course">
+                  <a href="https://www.learnbay.co/data-analytics-certification-course">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -806,7 +806,7 @@ const Tabs = ({ handleIcon }) => {
             {nonTech ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -821,7 +821,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-software-development-program">
+                  <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -836,7 +836,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/dsa-system-design">
+                  <a href="https://www.learnbay.co/dsa-system-design">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -858,7 +858,7 @@ const Tabs = ({ handleIcon }) => {
             {Guarantee ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -873,7 +873,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -894,7 +894,7 @@ const Tabs = ({ handleIcon }) => {
             {Stack ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/data-science-certification-courses">
+                  <a href="https://www.learnbay.co/data-science-certification-courses">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -909,7 +909,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -924,7 +924,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/advance-data-science-certification-courses">
+                  <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Advance Data Science & AI Program</h5>
@@ -935,7 +935,7 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
 
-                  <a href="https://learnbay.co/full-stack-software-development-program">
+                  <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Full Stack Software Development</h5>
@@ -947,7 +947,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/artificial-intelligence-certification-course">
+                  <a href="https://www.learnbay.co/artificial-intelligence-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Advance AI & ML Program For Tech Professionals</h5>
@@ -957,7 +957,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/data-science-ai-for-managers">
+                  <a href="https://www.learnbay.co/data-science-ai-for-managers">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Data Science and AI for Managers & Leaders</h5>
@@ -969,7 +969,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>Data Science and AI With Job Guarantee</h5>
@@ -979,7 +979,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/business-analytics-certification-course">
+                  <a href="https://www.learnbay.co/business-analytics-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>
@@ -993,7 +993,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://learnbay.co/data-analytics-certification-course">
+                  <a href="https://www.learnbay.co/data-analytics-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>
@@ -1005,7 +1005,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://learnbay.co/dsa-system-design">
+                  <a href="https://www.learnbay.co/dsa-system-design">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>

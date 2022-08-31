@@ -11,7 +11,7 @@ const Footer = () => {
     <section className={styles.FooterSection}>
       <div className={styles.FooterDiv}>
         <div className={styles.FooterDivInner}>
-          <a href="https://learnbay.co/">
+          <a href="https://www.learnbay.co/">
                 <Image
                   src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/logo-light.png"
                   alt="Learnbay"
@@ -34,28 +34,28 @@ const Footer = () => {
         </div>
         <div className={styles.FooterDivInner}>
           <p className={styles.FooterInnerP}>Courses</p>
-          <a href="https://learnbay.co/data-science-certification-courses"><p className={styles.FooterInnerli}>Data Science Foundation Program</p></a>
-          <a href="https://learnbay.co/advance-data-science-certification-courses"><p className={styles.FooterInnerli}>Advanced DS and AI Program</p></a>
-          <a href="https://learnbay.co/full-stack-web-development-program"><p className={styles.FooterInnerli}>Full Stack Web Development Program</p></a>
-          <a href="https://learnbay.co/full-stack-software-development-program"><p className={styles.FooterInnerli}>Full Stack Software Development Program</p></a>
-          <a href="https://learnbay.co/artificial-intelligence-certification-course"><p className={styles.FooterInnerli}>Advance AI & ML Program for Tech Professionals</p></a>
-          <a href="https://learnbay.co/data-science-ai-for-managers"><p className={styles.FooterInnerli}>Data Science & AI For Managers</p></a>
-          <a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course"><p className={styles.FooterInnerli}>Data Science & AI with Job Guarantee Program</p></a>
-          <a href="https://learnbay.co/business-analytics-certification-course"><p className={styles.FooterInnerli}>Business Analytics Program</p></a>
-          <a href="https://learnbay.co/data-analytics-certification-course"><p className={styles.FooterInnerli}>Data Analytics Program</p></a>
-          <a href="https://learnbay.co/dsa-system-design"><p className={styles.FooterInnerli}>Data Structures Algorithms And System Design</p></a>
+          <a href="https://www.learnbay.co/data-science-certification-courses"><p className={styles.FooterInnerli}>Data Science Foundation Program</p></a>
+          <a href="https://www.learnbay.co/advance-data-science-certification-courses"><p className={styles.FooterInnerli}>Advanced DS and AI Program</p></a>
+          <a href="https://www.learnbay.co/full-stack-web-development-program"><p className={styles.FooterInnerli}>Full Stack Web Development Program</p></a>
+          <a href="https://www.learnbay.co/full-stack-software-development-program"><p className={styles.FooterInnerli}>Full Stack Software Development Program</p></a>
+          <a href="https://www.learnbay.co/artificial-intelligence-certification-course"><p className={styles.FooterInnerli}>Advance AI & ML Program for Tech Professionals</p></a>
+          <a href="https://www.learnbay.co/data-science-ai-for-managers"><p className={styles.FooterInnerli}>Data Science & AI For Managers</p></a>
+          <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course"><p className={styles.FooterInnerli}>Data Science & AI with Job Guarantee Program</p></a>
+          <a href="https://www.learnbay.co/business-analytics-certification-course"><p className={styles.FooterInnerli}>Business Analytics Program</p></a>
+          <a href="https://www.learnbay.co/data-analytics-certification-course"><p className={styles.FooterInnerli}>Data Analytics Program</p></a>
+          <a href="https://www.learnbay.co/dsa-system-design"><p className={styles.FooterInnerli}>Data Structures Algorithms And System Design</p></a>
 
           </div>
           <div className={styles.FooterDivInner}>
           <p className={styles.FooterInnerP}>Learnbay</p>
-          <a href="https://learnbay.co/about-us"><p className={styles.FooterInnerli}>About Us</p></a>
-          <a href="https://learnbay.co/contact-us"><p className={styles.FooterInnerli}>Contact Us</p></a>
-          <a href="https://learnbay.co/demo"><p className={styles.FooterInnerli}>Demo</p></a>
+          <a href="https://www.learnbay.co/about-us"><p className={styles.FooterInnerli}>About Us</p></a>
+          <a href="https://www.learnbay.co/contact-us"><p className={styles.FooterInnerli}>Contact Us</p></a>
+          <a href="https://www.learnbay.co/demo"><p className={styles.FooterInnerli}>Demo</p></a>
           <a href="https://blog.learnbay.co/"><p className={styles.FooterInnerli}>Blogs</p></a>
           <p className={styles.FooterInnerP}>Terms</p>
-          <a href="https://learnbay.co/terms-conditions"><p className={styles.FooterInnerli}>Terms and Conditions</p></a>
-          <a href="https://learnbay.co/refund-cancellation-policy"><p className={styles.FooterInnerli}>Refund/Cancellation policy</p></a>
-          <a href="https://learnbay.co/privacy-policy"><p className={styles.FooterInnerli}>Privacy Policy</p></a>
+          <a href="https://www.learnbay.co/terms-conditions"><p className={styles.FooterInnerli}>Terms and Conditions</p></a>
+          <a href="https://www.learnbay.co/refund-cancellation-policy"><p className={styles.FooterInnerli}>Refund/Cancellation policy</p></a>
+          <a href="https://www.learnbay.co/privacy-policy"><p className={styles.FooterInnerli}>Privacy Policy</p></a>
           </div>
         <div className={styles.FooterDivInner}>
           <p className={styles.FooterInnerP}>Get Our Apps On</p>
@@ -68,77 +68,77 @@ const Footer = () => {
         <div className={styles.FooterDiv} style={{borderTop: "1px solid", borderBottom: "1px solid", borderColor:"#ffffff50"}}>
           <div className={styles.FooterDivInner}>
           <p className={styles.FooterInnerP}>Pune</p>
-            <a href="https://learnbay.co/data-science-course-training-in-pune"><p className={styles.FooterInnerli}>Data Science Course Training in Pune</p></a>
-            <a href="https://learnbay.co/machine-learning-course-training-in-pune"><p className={styles.FooterInnerli}>Machine learning course training in pune</p></a>
-            <a href="https://learnbay.co/data-analytics-course-training-in-pune"><p className={styles.FooterInnerli}>data analytics course training in pune</p></a>
-            <a href="https://learnbay.co/business-analytics-course-training-in-pune"><p className={styles.FooterInnerli}>business analytics course training in pune</p></a>
-            <a href="https://learnbay.co/artificial-intelligence-ai-course-training-pune"><p className={styles.FooterInnerli}>artificial intelligence AI course training pune</p></a>
+            <a href="https://www.learnbay.co/data-science-course-training-in-pune"><p className={styles.FooterInnerli}>Data Science Course Training in Pune</p></a>
+            <a href="https://www.learnbay.co/machine-learning-course-training-in-pune"><p className={styles.FooterInnerli}>Machine learning course training in pune</p></a>
+            <a href="https://www.learnbay.co/data-analytics-course-training-in-pune"><p className={styles.FooterInnerli}>data analytics course training in pune</p></a>
+            <a href="https://www.learnbay.co/business-analytics-course-training-in-pune"><p className={styles.FooterInnerli}>business analytics course training in pune</p></a>
+            <a href="https://www.learnbay.co/artificial-intelligence-ai-course-training-pune"><p className={styles.FooterInnerli}>artificial intelligence AI course training pune</p></a>
 
           </div>
           <div className={styles.FooterDivInner}>
             <p className={styles.FooterInnerP}>Mumbai</p>
-            <a href="https://learnbay.co/data-science-course-training-in-mumbai"><p className={styles.FooterInnerli}>Data Science Course Training in Mumbai</p></a>
-            <a href="https://learnbay.co/machine-learning-course-training-in-mumbai"><p className={styles.FooterInnerli}>Machine learning course training in Mumbai</p></a>
-            <a href="https://learnbay.co/data-analytics-course-training-in-mumbai"><p className={styles.FooterInnerli}>data analytics course training in Mumbai</p></a>
-            <a href="https://learnbay.co/business-analytics-course-training-in-mumbai"><p className={styles.FooterInnerli}>business analytics course training in Mumbai</p></a>
-            <a href="https://learnbay.co/artificial-intelligence-ai-course-training-mumbai"><p className={styles.FooterInnerli}>artificial intelligence AI course training Mumbai</p></a>
+            <a href="https://www.learnbay.co/data-science-course-training-in-mumbai"><p className={styles.FooterInnerli}>Data Science Course Training in Mumbai</p></a>
+            <a href="https://www.learnbay.co/machine-learning-course-training-in-mumbai"><p className={styles.FooterInnerli}>Machine learning course training in Mumbai</p></a>
+            <a href="https://www.learnbay.co/data-analytics-course-training-in-mumbai"><p className={styles.FooterInnerli}>data analytics course training in Mumbai</p></a>
+            <a href="https://www.learnbay.co/business-analytics-course-training-in-mumbai"><p className={styles.FooterInnerli}>business analytics course training in Mumbai</p></a>
+            <a href="https://www.learnbay.co/artificial-intelligence-ai-course-training-mumbai"><p className={styles.FooterInnerli}>artificial intelligence AI course training Mumbai</p></a>
 
             </div>
             <div className={styles.FooterDivInner}>
             <p className={styles.FooterInnerP}>Chennai</p>
-            <a href="https://learnbay.co/data-science-course-training-in-chennai"><p className={styles.FooterInnerli}>Data Science Course Training in Chennai</p></a>
-            <a href="https://learnbay.co/machine-learning-course-training-in-chennai"><p className={styles.FooterInnerli}>Machine learning course training in Chennai</p></a>
-            <a href="https://learnbay.co/data-analytics-course-training-in-chennai"><p className={styles.FooterInnerli}>data analytics course training in Chennai</p></a>
-            <a href="https://learnbay.co/business-analytics-course-training-in-chennai"><p className={styles.FooterInnerli}>business analytics course training in Chennai</p></a>
-            <a href="https://learnbay.co/artificial-intelligence-ai-course-training-chennai"><p className={styles.FooterInnerli}>artificial intelligence AI course training Chennai</p></a>
+            <a href="https://www.learnbay.co/data-science-course-training-in-chennai"><p className={styles.FooterInnerli}>Data Science Course Training in Chennai</p></a>
+            <a href="https://www.learnbay.co/machine-learning-course-training-in-chennai"><p className={styles.FooterInnerli}>Machine learning course training in Chennai</p></a>
+            <a href="https://www.learnbay.co/data-analytics-course-training-in-chennai"><p className={styles.FooterInnerli}>data analytics course training in Chennai</p></a>
+            <a href="https://www.learnbay.co/business-analytics-course-training-in-chennai"><p className={styles.FooterInnerli}>business analytics course training in Chennai</p></a>
+            <a href="https://www.learnbay.co/artificial-intelligence-ai-course-training-chennai"><p className={styles.FooterInnerli}>artificial intelligence AI course training Chennai</p></a>
             </div>
           <div className={styles.FooterDivInner}>
           <p className={styles.FooterInnerP}>Canada</p>
-            <a href="https://learnbay.co/data-science-course-training-in-canada"><p className={styles.FooterInnerli}>Data Science Course Training in Canada</p></a>
-            <a href="https://learnbay.co/machine-learning-course-training-in-canada"><p className={styles.FooterInnerli}>Machine learning course training in Canada</p></a>
-            <a href="https://learnbay.co/data-analytics-course-training-in-canada"><p className={styles.FooterInnerli}>data analytics course training in Canada</p></a>
-            <a href="https://learnbay.co/business-analytics-course-training-in-canada"><p className={styles.FooterInnerli}>business analytics course training in Canada</p></a>
-            <a href="https://learnbay.co/artificial-intelligence-ai-course-training-canada"><p className={styles.FooterInnerli}>artificial intelligence AI course training Canada</p></a>
+            <a href="https://www.learnbay.co/data-science-course-training-in-canada"><p className={styles.FooterInnerli}>Data Science Course Training in Canada</p></a>
+            <a href="https://www.learnbay.co/machine-learning-course-training-in-canada"><p className={styles.FooterInnerli}>Machine learning course training in Canada</p></a>
+            <a href="https://www.learnbay.co/data-analytics-course-training-in-canada"><p className={styles.FooterInnerli}>data analytics course training in Canada</p></a>
+            <a href="https://www.learnbay.co/business-analytics-course-training-in-canada"><p className={styles.FooterInnerli}>business analytics course training in Canada</p></a>
+            <a href="https://www.learnbay.co/artificial-intelligence-ai-course-training-canada"><p className={styles.FooterInnerli}>artificial intelligence AI course training Canada</p></a>
           </div>
         </div>
         <div className={styles.FooterDiv}>
           <div className={styles.FooterDivInner}>
           <p className={styles.FooterInnerP}>Bangalore</p>
-            <a href="https://learnbay.co/data-science-course-training-in-bangalore"><p className={styles.FooterInnerli}>Data Science Course Training in Bangalore</p></a>
-            <a href="https://learnbay.co/machine-learning-course-training-in-bangalore"><p className={styles.FooterInnerli}>Machine learning course training in Bangalore</p></a>
-            <a href="https://learnbay.co/data-analytics-course-training-in-bangalore"><p className={styles.FooterInnerli}>data analytics course training in Bangalore</p></a>
-            <a href="https://learnbay.co/business-analytics-course-training-in-bangalore"><p className={styles.FooterInnerli}>business analytics course training in Bangalore</p></a>
-            <a href="https://learnbay.co/artificial-intelligence-ai-course-training-bangalore"><p className={styles.FooterInnerli}>artificial intelligence AI course training Bangalore</p></a>
+            <a href="https://www.learnbay.co/data-science-course-training-in-bangalore"><p className={styles.FooterInnerli}>Data Science Course Training in Bangalore</p></a>
+            <a href="https://www.learnbay.co/machine-learning-course-training-in-bangalore"><p className={styles.FooterInnerli}>Machine learning course training in Bangalore</p></a>
+            <a href="https://www.learnbay.co/data-analytics-course-training-in-bangalore"><p className={styles.FooterInnerli}>data analytics course training in Bangalore</p></a>
+            <a href="https://www.learnbay.co/business-analytics-course-training-in-bangalore"><p className={styles.FooterInnerli}>business analytics course training in Bangalore</p></a>
+            <a href="https://www.learnbay.co/artificial-intelligence-ai-course-training-bangalore"><p className={styles.FooterInnerli}>artificial intelligence AI course training Bangalore</p></a>
           </div>
           <div className={styles.FooterDivInner}>
             <p className={styles.FooterInnerP}>Hyderabad</p>
-            <a href="https://learnbay.co/data-science-course-training-in-hyderabad"><p className={styles.FooterInnerli}>Data Science Course Training in Hyderabad</p></a>
-            <a href="https://learnbay.co/machine-learning-course-training-in-hyderabad"><p className={styles.FooterInnerli}>Machine learning course training in Hyderabad</p></a>
-            <a href="https://learnbay.co/data-analytics-course-training-in-hyderabad"><p className={styles.FooterInnerli}>data analytics course training in Hyderabad</p></a>
-            <a href="https://learnbay.co/business-analytics-course-training-in-hyderabad"><p className={styles.FooterInnerli}>business analytics course training in Hyderabad</p></a>
-            <a href="https://learnbay.co/artificial-intelligence-ai-course-training-hyderabad"><p className={styles.FooterInnerli}>artificial intelligence AI course training Hyderabad</p></a>
+            <a href="https://www.learnbay.co/data-science-course-training-in-hyderabad"><p className={styles.FooterInnerli}>Data Science Course Training in Hyderabad</p></a>
+            <a href="https://www.learnbay.co/machine-learning-course-training-in-hyderabad"><p className={styles.FooterInnerli}>Machine learning course training in Hyderabad</p></a>
+            <a href="https://www.learnbay.co/data-analytics-course-training-in-hyderabad"><p className={styles.FooterInnerli}>data analytics course training in Hyderabad</p></a>
+            <a href="https://www.learnbay.co/business-analytics-course-training-in-hyderabad"><p className={styles.FooterInnerli}>business analytics course training in Hyderabad</p></a>
+            <a href="https://www.learnbay.co/artificial-intelligence-ai-course-training-hyderabad"><p className={styles.FooterInnerli}>artificial intelligence AI course training Hyderabad</p></a>
 
             </div>
             <div className={styles.FooterDivInner}>
             <p className={styles.FooterInnerP}>Dubai</p>
-            <a href="https://learnbay.co/data-science-course-training-in-dubai"><p className={styles.FooterInnerli}>Data Science Course Training in Dubai</p></a>
-            <a href="https://learnbay.co/machine-learning-course-training-in-dubai"><p className={styles.FooterInnerli}>Machine learning course training in Dubai</p></a>
-            <a href="https://learnbay.co/data-analytics-course-training-in-dubai"><p className={styles.FooterInnerli}>data analytics course training in Dubai</p></a>
-            <a href="https://learnbay.co/business-analytics-course-training-in-dubai"><p className={styles.FooterInnerli}>business analytics course training in Dubai</p></a>
-            <a href="https://learnbay.co/artificial-intelligence-ai-course-training-dubai"><p className={styles.FooterInnerli}>artificial intelligence AI course training Dubai</p></a>
+            <a href="https://www.learnbay.co/data-science-course-training-in-dubai"><p className={styles.FooterInnerli}>Data Science Course Training in Dubai</p></a>
+            <a href="https://www.learnbay.co/machine-learning-course-training-in-dubai"><p className={styles.FooterInnerli}>Machine learning course training in Dubai</p></a>
+            <a href="https://www.learnbay.co/data-analytics-course-training-in-dubai"><p className={styles.FooterInnerli}>data analytics course training in Dubai</p></a>
+            <a href="https://www.learnbay.co/business-analytics-course-training-in-dubai"><p className={styles.FooterInnerli}>business analytics course training in Dubai</p></a>
+            <a href="https://www.learnbay.co/artificial-intelligence-ai-course-training-dubai"><p className={styles.FooterInnerli}>artificial intelligence AI course training Dubai</p></a>
             </div>
           <div className={styles.FooterDivInner}>
           <p className={styles.FooterInnerP}>Delhi</p>
-            <a href="https://learnbay.co/data-science-course-training-in-delhi"><p className={styles.FooterInnerli}>Data Science Course Training in Delhi</p></a>
-            <a href="https://learnbay.co/machine-learning-course-training-in-delhi"><p className={styles.FooterInnerli}>Machine learning course training in Delhi</p></a>
-            <a href="https://learnbay.co/data-analytics-course-training-in-delhi"><p className={styles.FooterInnerli}>data analytics course training in Delhi</p></a>
-            <a href="https://learnbay.co/business-analytics-course-training-in-delhi"><p className={styles.FooterInnerli}>business analytics course training in Delhi</p></a>
-            <a href="https://learnbay.co/artificial-intelligence-ai-course-training-delhi"><p className={styles.FooterInnerli}>artificial intelligence AI course training Delhi</p></a>
+            <a href="https://www.learnbay.co/data-science-course-training-in-delhi"><p className={styles.FooterInnerli}>Data Science Course Training in Delhi</p></a>
+            <a href="https://www.learnbay.co/machine-learning-course-training-in-delhi"><p className={styles.FooterInnerli}>Machine learning course training in Delhi</p></a>
+            <a href="https://www.learnbay.co/data-analytics-course-training-in-delhi"><p className={styles.FooterInnerli}>data analytics course training in Delhi</p></a>
+            <a href="https://www.learnbay.co/business-analytics-course-training-in-delhi"><p className={styles.FooterInnerli}>business analytics course training in Delhi</p></a>
+            <a href="https://www.learnbay.co/artificial-intelligence-ai-course-training-delhi"><p className={styles.FooterInnerli}>artificial intelligence AI course training Delhi</p></a>
           </div>
         </div>
         <div className={styles.FooterBottom}>
           <div className={styles.FooterBottomInner}>
-          <p className={styles.FooterInnerB}>Copyright © 2020 Learnbay by <a href="https://learnbay.co/">www.learnbay.co.</a> All Rights Reserved.</p>
+          <p className={styles.FooterInnerB}>Copyright © 2020 Learnbay by <a href="https://www.learnbay.co/">www.learnbay.co.</a> All Rights Reserved.</p>
           </div>
           </div>
     </section>

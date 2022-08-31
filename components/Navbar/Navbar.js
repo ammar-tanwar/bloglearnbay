@@ -62,13 +62,13 @@ const Navbar = () => {
           <div className={show ? styles.mobileWrapper : styles.hide}>
             <div className={styles.mobileMenu}>
               <span onClick={showMenu}>
-                <Link href="https://learnbay.co/">Home</Link>
+                <Link href="https://www.learnbay.co/">Home</Link>
               </span>
               <span onClick={showMenu}>
-                <Link href="https://learnbay.co/about-us">About Us</Link>
+                <Link href="https://www.learnbay.co/about-us">About Us</Link>
               </span>
               <span onClick={showMenu}>
-                <Link href="https://learnbay.co/demo">Demo</Link>
+                <Link href="https://www.learnbay.co/demo">Demo</Link>
               </span>
 
               <span onClick={showMenu}>
@@ -76,11 +76,11 @@ const Navbar = () => {
               </span>
 
               <span onClick={showMenu}>
-                <Link href="https://learnbay.co/contact-us">Contact Us</Link>
+                <Link href="https://www.learnbay.co/contact-us">Contact Us</Link>
               </span>
             </div>
           </div>
-          <a href="https://learnbay.co/">
+          <a href="https://www.learnbay.co/">
             <Image
               src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Logo.webp"
               alt="Learnbay"
@@ -130,13 +130,13 @@ const Navbar = () => {
         </div>
         <div className={styles.right}>
           <span>
-            <Link href="https://learnbay.co/">Home</Link>
+            <Link href="https://www.learnbay.co/">Home</Link>
           </span>
           <span>
-            <Link href="https://learnbay.co/about-us">About Us</Link>
+            <Link href="https://www.learnbay.co/about-us">About Us</Link>
           </span>
           <span>
-            <Link href="https://learnbay.co/demo">Demo</Link>
+            <Link href="https://www.learnbay.co/demo">Demo</Link>
           </span>
 
           <span>
@@ -144,7 +144,7 @@ const Navbar = () => {
           </span>
 
           <span>
-            <Link href="https://learnbay.co/contact-us">Contact Us</Link>
+            <Link href="https://www.learnbay.co/contact-us">Contact Us</Link>
           </span>
 
           <button onClick={popupShow} className="outLineBtn">
