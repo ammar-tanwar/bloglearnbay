@@ -113,7 +113,7 @@ Capstone projects are about the current business problems that need datascientis
 
 Working with real-world data will enable aspirants to work for real-world challenges like loopholes, missing data etc. This will improve the data scientist's creativity and critical thinking when solving problems. This kind of criticality solving problems will allow aspirants to know the fundamental cause of challenges. In return, you can support these challenges with a solution relevant to the issue and technological environment.
 
-### How Do You End A Capstone Project?
+## How Do You End A Capstone Project?
 
 Every capstone project starts by recognizing problems. As a student, you must think about a problem and divide the components, which will be presented as theories. When finding a solution to the causes, you have to give it as a hypothesis. Hence both the theory and hypothesis are offered as a capstone project. The proposal is often presented to a committee or experts for approval. When it is approved, you can start to research as planned for the solutions and then improve them until the last submission date. The last thing to do on the list is to combine these on paper so you can verbally present them.
 
