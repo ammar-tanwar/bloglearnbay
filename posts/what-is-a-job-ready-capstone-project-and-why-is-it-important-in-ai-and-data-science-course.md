@@ -13,7 +13,19 @@ h1: "What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Dat
 id: "what-is-a-job-ready-capstone-project-and-why-is-it-important-in-ai-and-data-science-course"
 tableData:
   [
-    What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course,
+    What Is A Job-Ready Capstone Project And Why Is It Important In AI And Data Science Course?,
+    What does the term "capstone project" refer to?,
+    What are the advantages of a capstone project?,
+       1. Prepare for the real world, 
+       2. Best For Entry-level professionals, 
+       3. Improves your research skills, 
+       4. Gives a competitive edge, 
+       5. Helps in attending interviews and case study,
+       6. Develop discipline and team spirit,
+       7. learn about the market trends,
+    How Do You End A Capstone Project?,
+
+
 
     
   ]
@@ -33,7 +45,7 @@ About 80% of working professionals seek am **job-ready data science and AI cours
 
 And this is where the **capstone project**  plays a vital role for data science and AI aspirants.
 
-A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology. And even showcase their skills to the recruiter while applying for a <a href="https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/" target="_blank">job in data science.</a>
+A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology. And even showcase their skills to the recruiter while applying for a <a href="https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/" target="_blank">job in data science</a>
 
 
 
@@ -77,15 +89,14 @@ Working on a specialized domain capstone project will strengthen your resume gam
 
 As an experienced candidate, when switching to a data science or AI career, you must master the skill of effectively amalgamating your domain knowledge and data science techniques. Once you achieve this skill, landing a data science role is impossible for a working pro.
 
-## **What are the advantages of a capstone project?**
+## **What are the advantages of a capstone project?**    
 
-  ### 1. Prepare for the real world
-
+  ### 1. Prepare for the real world    
   When you work on a real-world project, you will learn all the areas that need to be addressed. This includes the challenges, possibilities, loopholes, and information gaps. It gives the owner of this solution to the candidate working on a capstone project. It is like making a key for real-world problems. As you would have found a solution to a specific problem, you can improve your abilities to see many more things in the real world when you work for an organization or a firm.
 
   ### 2. Best For Entry-level professionals
 
-  Many times when you work in a junior position in a marketing or analytics department but are capable of working on challenging projects. Today most organizations hire working professionals with high qualifications and more experience. This is how capstone project certification comes to the rescue. After you complete a capstone project, you are equipped with problem-solving abilities. So, you can convince your recruiter or the manager that you can handle challenging projects from the beginning of your  <a href="https://www.learnbay.co/data-science-course/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist/" target="_blank">data science career.</a>
+  Many times when you work in a junior position in a marketing or analytics department but are capable of working on challenging projects. Today most organizations hire working professionals with high qualifications and more experience. This is how capstone project certification comes to the rescue. After you complete a capstone project, you are equipped with problem-solving abilities. So, you can convince your recruiter or the manager that you can handle challenging projects from the beginning of your  <a href="https://www.learnbay.co/data-science-course/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist/" target="_blank">data science career</a>
 
   ### 3. Improves your research skills
 
