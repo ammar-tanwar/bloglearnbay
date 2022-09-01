@@ -53,4 +53,4 @@ underlying technicalities. Small or medium organizations are taking the upside o
 
 Data Science will be in great demand and interest at least for the following decade!
 
-If you are looking for [data science course](https://www.learnbay.in/shop/courses/data-science-training-courses-bangalore/) with job Assistance And Project visit [Data Science Training in Bangalore-Learnbay](https://www.learnbay.in/shop/courses/data-science-training-courses-bangalore/)
+If you are looking for [data science course](https://www.learnbay.co/data-science-course-training-in-bangalore) with job Assistance And Project visit [Data Science Training in Bangalore-Learnbay](https://www.learnbay.co/data-science-course-training-in-bangalore)

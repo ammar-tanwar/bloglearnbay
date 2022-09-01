@@ -45,7 +45,7 @@ About 80% of working professionals seek am **job-ready data science and AI cours
 
 And this is where the **capstone project**  plays a vital role for data science and AI aspirants.
 
-A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology. And even showcase their skills to the recruiter while applying for a <a href="https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/" target="_blank">job in data science</a>
+A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology. And even showcase their skills to the recruiter while applying for a <a href="https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/" target="_blank">job in data science.</a>
 
 
 
