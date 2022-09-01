@@ -57,7 +57,7 @@ In the present competitive data science job world, a course completion certifica
 
 Now, you might be thinking, what is a   **domain-specialized**   capstone project? Let me explain it a bit.
 
-## **What is the key difference between a generic capstone project and a domain-oriented fresh capstone project?**
+### **What is the key difference between a generic capstone project and a domain-oriented fresh capstone project?**
 
 ### First, know what a generic project and new capstone projects are.
 
@@ -101,7 +101,7 @@ As an experienced candidate, when switching to a data science or AI career, you 
 
   Interviews are way different today. Recruitment is not just dependent on the usual HR questions and answers <a href="https://learnbay.co/data-science-course/job-guarantee-or-money-back-data-science-ai-certification-course/" target="_blank">Data Science and Artificial intelligence job.</a>
 
-  roles even have technical rounds involving case studies, which can be practical or verbal. You can easily take the lead in demonstrating your analytical skills during the interview and even build confidence in resolving issues. A capstone project will prepare you for this even before you would know this.
+  Roles even have technical rounds involving case studies, which can be practical or verbal. You can easily take the lead in demonstrating your analytical skills during the interview and even build confidence in resolving issues. A capstone project will prepare you for this even before you would know this.
 
 ### 6. Develop discipline and team spirit
 
