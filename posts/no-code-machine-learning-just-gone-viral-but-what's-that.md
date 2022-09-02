@@ -6,7 +6,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocod
 date: "September 1, 2022"
 tag: [ Data Science ]
 category: "Data Science"
-author: "Navin" 
+author: "Nivin" 
 position: "Editor"
 readTime: "9-10 mins"
 h1: "No Code Machine Learning Just Gone Viral!- But What's That?"
