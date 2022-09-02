@@ -41,7 +41,7 @@ Data science is zestful and a never-ending profession. That is why many institut
 
  The growth in online education occurred during the COVID pandemic. Everyone opts for online classes and lessons, even from schools to universities. So students lose their academic careers.
 
-About 80% of working professionals seek am **job-ready data science and AI course**. Every course now offers lucrative highlights, mainly lavishing certification tags. So this begins a debate in the minds of aspirants about where they enroll and complete the course.
+About 80% of working professionals seek a **job-ready data science and AI course**. Every course now offers lucrative highlights, mainly lavishing certification tags. So this begins a debate in the minds of aspirants about where they enroll and complete the course.
 
 And this is where the **capstone project**  plays a vital role for data science and AI aspirants.
 
@@ -61,7 +61,7 @@ Capstone projects are divided into two parts. Here learners have to choose indep
 
 Online courses encourage data science aspirants to collect and learn all the essential information. This will indeed help them to get into the data science world. But only the course would not help them as much as  **capstone project certification**  would.
 
- **Yes, you hear right. I mentioned capstone project certification.** 
+ **Yes, you read it right. I mentioned capstone project certification.
 
 In the present competitive data science job world, a course completion certificate is not enough to get a job. It is best if you have authentication of your practical skill. Here, Capstone project certification works like a wild card entry.
 
@@ -69,7 +69,7 @@ In the present competitive data science job world, a course completion certifica
 
 Now, you might be thinking, what is a   **domain-specialized**   capstone project? Let me explain it a bit.
 
-### **What is the key difference between a generic capstone project and a domain-oriented fresh capstone project?**
+### What is the key difference between a generic capstone project and a domain-oriented fresh capstone project?
 
 ### First, know what a generic project and new capstone projects are.
 
@@ -89,20 +89,20 @@ Working on a specialized domain capstone project will strengthen your resume gam
 
 As an experienced candidate, when switching to a data science or AI career, you must master the skill of effectively amalgamating your domain knowledge and data science techniques. Once you achieve this skill, landing a data science role is impossible for a working pro.
 
-## **What are the advantages of a capstone project?**    
+## What are the advantages of a capstone project?   
 
   ### 1. Prepare for the real world    
   When you work on a real-world project, you will learn all the areas that need to be addressed. This includes the challenges, possibilities, loopholes, and information gaps. It gives the owner of this solution to the candidate working on a capstone project. It is like making a key for real-world problems. As you would have found a solution to a specific problem, you can improve your abilities to see many more things in the real world when you work for an organization or a firm.
 
   ### 2. Best For Entry-level professionals
 
-  Many times when you work in a junior position in a marketing or analytics department but are capable of working on challenging projects. Today most organizations hire working professionals with high qualifications and more experience. This is how capstone project certification comes to the rescue. After you complete a capstone project, you are equipped with problem-solving abilities. So, you can convince your recruiter or the manager that you can handle challenging projects from the beginning of your  <a href="https://www.learnbay.co/data-science-course/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist/" target="_blank">data science career</a>
+  Many times when you work in a junior position in a marketing or analytics department but are capable of working on challenging projects. Today most organizations hire working professionals with high qualifications and more experience. This is how capstone project certification comes to the rescue. After you complete a capstone project, you are equipped with problem-solving abilities. So, you can convince your recruiter or the manager that you can handle challenging projects from the beginning of your  <a href="https://www.learnbay.co/data-science-course/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist/" target="_blank">data science career.</a>
 
   ### 3. Improves your research skills
 
-  The true success of capstone projects needs a lot of research and analytical skills to excel in them. You need excellent research skills in the process of a financial model, designing an online advertising campaign, or taking on a data analysis role in a business. With these skills, you will break down problems into **solvable chunks, organize your research activities in sequence and even arrange your findings. Knowledge of history and identifying trends by exploring results are a few skills you would develop during a capstone project.** 
+  The true success of capstone projects needs a lot of research and analytical skills to excel in them. You need excellent research skills in the process of a financial model, designing an online advertising campaign, or taking on a data analysis role in a business. With these skills, you will break down problems into **solvable chunks, organize your research activities in sequence and even arrange your findings. Knowledge of history and identifying trends by exploring results are a few skills you would develop during a capstone project.
 
-  ### 4. Gives a competitive edge
+  ### 4. Gives a competitive edge 
 
   Today many are opting for professional courses to improve the strength of their resume. But in reality, each resume gets around 10 seconds of attention from HR or the recruiter, so you need that extra mark on your resume over the other applicants. Adding the details of your industrial capstone project will do it. The recruiter will get an idea of how enterprising you are and how you can learn the new skills much faster and much better.
 
@@ -112,7 +112,7 @@ As an experienced candidate, when switching to a data science or AI career, you 
 
   Interviews are way different today. Recruitment is not just dependent on the usual HR questions and answers <a href="https://learnbay.co/data-science-course/job-guarantee-or-money-back-data-science-ai-certification-course/" target="_blank">Data Science and Artificial intelligence job.</a>
 
-  Roles even have technical rounds involving case studies, which can be practical or verbal. You can easily take the lead in demonstrating your analytical skills during the interview and even build confidence in resolving issues. A capstone project will prepare you for this even before you would know this.
+  Data science roles even have technical rounds involving case studies, which can be practical or verbal. You can easily take the lead in demonstrating your analytical skills during the interview and even build confidence in resolving issues. A capstone project will prepare you for this even before you would know this.
 
 ### 6. Develop discipline and team spirit
 
@@ -120,7 +120,7 @@ From every other skill related to the <a href="https://www.learnbay.co/data-scie
 
 ### 7. Learn about the market trend
 
-Capstone projects are about the current business problems that need datascientists to work with actual data available in the market. Thus helping data science aspirants to stay updated with the latest industrial <a href="https://www.learnbay.co/data-science-course/know-the-top-10-data-science-trends-2022/" target="_blank">data science trends.</a>
+Capstone projects are about the current business problems that need data scientists to work with actual data available in the market. Thus helping data science aspirants to stay updated with the latest industrial <a href="https://www.learnbay.co/data-science-course/know-the-top-10-data-science-trends-2022/" target="_blank">data science trends.</a>
 
 Working with real-world data will enable aspirants to work for real-world challenges like loopholes, missing data etc. This will improve the data scientist's creativity and critical thinking when solving problems. This kind of criticality solving problems will allow aspirants to know the fundamental cause of challenges. In return, you can support these challenges with a solution relevant to the issue and technological environment.
 
