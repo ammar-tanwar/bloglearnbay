@@ -3,9 +3,9 @@ title: No Code Machine Learning Just Gone Viral!- But What's That?
 desc: "Big platforms like Tesla, Walmart, and P&G are enjoying the endless advantages of Data science. In short, they are making the market competition for SMEs tougher...."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-1.jpeg"
-date: "September 1, 2022"
-tag: [ Data Science ]
-category: "Data Science"
+date: "September 2, 2022"
+tag: [ Machine Learning ]
+category: "Machine Learning"
 author: "Nivin" 
 position: "Editor"
 readTime: "9-10 mins"
