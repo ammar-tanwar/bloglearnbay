@@ -42,7 +42,7 @@ The recruiter even looks at your overall code quality by checking if you have co
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-2.jpg" style="width:100%" class="img"/></img>
 
--
+
 ### Practice coding   
 
 Because you now understand the significance of the coding problems, you must prepare yourself to answer them correctly in the time allotted. You should practice as many data science interview questions as possible to obtain a deeper understanding of various circumstances. Concentrate more on real-world issues.
