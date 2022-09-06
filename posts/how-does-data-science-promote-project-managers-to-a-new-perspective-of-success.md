@@ -95,7 +95,7 @@ Managers use current market trends to create a product for the general public. T
 
 The most crucial aspect of data science in management is predictive analytics. Companies’ ability to deal with various types of data has grown. This has led to the introduction of enhanced prediction tools and technology.
 
-Predictive analytics is the statistical analysis of data. It works with other large machine learning algorithms. To forecast future outcomes based on historical data. SAS, IBM SPSS, SAP HANA, and other predictive analytics solutions are available.
+Predictive analytics is the statistical analysis of data. It works with other large Machine Learning algorithms. To forecast future outcomes based on historical data. SAS, IBM SPSS, SAP HANA, and other predictive analytics solutions are available.
 
 Customer segmentation, market analysis, risk assessment, and sales forecasting- are a few business tools of predictive analytics. Managers operate predictive analytics to gain an advantage over their competitors because they can forecast future problems and can take necessary action in response.
 

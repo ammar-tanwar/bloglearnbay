@@ -81,7 +81,7 @@ KNN Code Snippet:
 
 58. What is SVM Algorithm? 
 
-Ans: SVM stands for support vector machine, it is a supervised machine learning algorithm that can be used for both Regression and Classification. In this algorithm, we plot each data item as a point in n-dimensional space (where n is a number of features you have) with the value of each feature being the value of a particular coordinate.
+Ans: SVM stands for support vector machine, it is a supervised Machine Learning algorithm that can be used for both Regression and Classification. In this algorithm, we plot each data item as a point in n-dimensional space (where n is a number of features you have) with the value of each feature being the value of a particular coordinate.
 
 For example, if we only had two features like Height and Hair length of an individual, we’d first plot these two variables in two-dimensional space where each point has two coordinates (these co-ordinates are known as Support Vectors)
 
@@ -510,7 +510,7 @@ Below are some constraints that can be imposed on the construction of decision t
 
 Ans: Dimensionality reduction refers to the process of converting a set of data. That data needs to having vast dimensions into data with lesser dimensions. Also, it needs to ensure that it conveys similar information concisely. 
 
-Although, we use these techniques to solve machine learning problems. And the problem is to obtain better features for a classification or regression task.
+Although, we use these techniques to solve Machine Learning problems. And the problem is to obtain better features for a classification or regression task.
 
 87. What are the commonly used Dimensionality Reduction Techniques?
 
@@ -524,9 +524,9 @@ Ans: The various methods used for dimensionality reduction include:
 
 88. How does PCA work? When to use? 
 
-Ans: Short Answer: Principal Component Analysis (PCA) is an unsupervised, non-parametric statistical technique primarily used for dimensionality reduction in machine learning.
+Ans: Short Answer: Principal Component Analysis (PCA) is an unsupervised, non-parametric statistical technique primarily used for dimensionality reduction in Machine Learning.
 
-High dimensionality means that the dataset has a large number of features. The primary problem associated with high dimensionality in the machine learning field in model overfitting, which reduces the ability to generalize beyond the examples in the training set.
+High dimensionality means that the dataset has a large number of features. The primary problem associated with high dimensionality in the Machine Learning field in model overfitting, which reduces the ability to generalize beyond the examples in the training set.
 
 PCA in Layman’s Term: Consider the 2D XY plane.
 
@@ -662,6 +662,6 @@ Disadvantages:
 * Also, PCA fails in cases where mean and covariance are not enough to define datasets.
 * Further, we may not know how many principal components to keep- in practice, some thumb rules are applied.
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited[ data science courses](https://www.learnbay.co/data-science-course/) in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited[ data science courses](https://www.learnbay.co/data-science-course/) in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

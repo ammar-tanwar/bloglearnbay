@@ -34,7 +34,7 @@ Technology keeps revolutionizing as it gets better and better every day. Many un
 ## What is Data Science?
 
 <a href="https://www.learnbay.co/data-science-course/data-science-at-intern-level/" target="_blank">Data science</a>
-is the field of study combining programming, domain expertise, skills, and knowledge of mathematics and statistics to derive meaningful insights from data. A person who practices data science applies machine learning algorithms to images, texts, video, and audio to analyze the same as a human but beyond the human-bound accuracy level. In return, such analysis gives out precise and future-proof insights that analysts and managers can later transform into a business value.
+is the field of study combining programming, domain expertise, skills, and knowledge of mathematics and statistics to derive meaningful insights from data. A person who practices data science applies Machine Learning algorithms to images, texts, video, and audio to analyze the same as a human but beyond the human-bound accuracy level. In return, such analysis gives out precise and future-proof insights that analysts and managers can later transform into a business value.
 
 **With the help of data science, information is converted into business strategies generating more revenue from the businesses.** 
 

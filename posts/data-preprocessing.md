@@ -36,7 +36,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 * Learning algorithms have an affinity towards a certain pattern of data.
 * Unscaled or unstandardized data have might have an unacceptable prediction.
 * Learning algorithms understand the only number, converting text image to number is required.
-* Preprocessing refers to transformation before feeding to machine learning.
+* Preprocessing refers to transformation before feeding to Machine Learning.
 
 
 ## 

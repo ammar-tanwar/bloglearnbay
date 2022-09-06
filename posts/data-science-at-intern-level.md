@@ -4,9 +4,9 @@ desc: "As Data Science holds the grand title of sexiest job of the decade the id
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/intern.jpg"
 date: "January 7, 2022"
-tag: [ Uncategorized ]
+tag: [ Data Science ]
 author: "Admin"
-category: "Uncategorized"
+category: "Data Science"
 position: "Editor"
 readTime: "5-6 mins"
 h1: "Data Science at Intern Level"

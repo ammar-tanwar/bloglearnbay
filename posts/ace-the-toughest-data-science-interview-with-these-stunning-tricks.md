@@ -14,7 +14,7 @@ id: "ace-the-toughest-data-science-interview-with-these-stunning-tricks"
 tableData:
   [
 
-     Ace The Toughest Data Science Interview With These Stunning Tricks, Ace The Toughest Data Science Interview With These Stunning Tricks, Practice coding, Spare more in analytic and logical thinking, Hone your product service sense, Brush up your communication skills, problem-solving abilities, How to deal with machine learning statistics nd modeling questions?, Concentrate on theory and implement it, Behavioral questions, Select stories to refine, Divide the story in the STAR framework, General data science interview preparation tips,  Long-term data science interview preparation,   Ace The Toughest Data Science Interview With These Stunning Tricks, Practice coding, Spare more in analytic and logical thinking, Hone your product/service sense, Brush up your communication skills, problem-solving abilities, How to deal with machine learning statistics nd modeling questions?, Concentrate on theory and implement it, Behavioral questions, Select stories to refine, Divide the story in the STAR framework, General data science interview preparation tips,  Long-term data science interview preparation, Conclusion,
+     Ace The Toughest Data Science Interview With These Stunning Tricks, Ace The Toughest Data Science Interview With These Stunning Tricks, Practice coding, Spare more in analytic and logical thinking, Hone your product service sense, Brush up your communication skills, problem-solving abilities, How to deal with Machine Learning statistics nd modeling questions?, Concentrate on theory and implement it, Behavioral questions, Select stories to refine, Divide the story in the STAR framework, General data science interview preparation tips,  Long-term data science interview preparation,   Ace The Toughest Data Science Interview With These Stunning Tricks, Practice coding, Spare more in analytic and logical thinking, Hone your product/service sense, Brush up your communication skills, problem-solving abilities, How to deal with Machine Learning statistics nd modeling questions?, Concentrate on theory and implement it, Behavioral questions, Select stories to refine, Divide the story in the STAR framework, General data science interview preparation tips,  Long-term data science interview preparation, Conclusion,
   ]
 ---
 
@@ -49,7 +49,7 @@ Because you now understand the significance of the coding problems, you must pre
 
 By logically coming up with an effective solution, you will be able to break down difficult questions into simple elements.
 
-Don't be put off by the types of inquiries that may appear intimidating at first. You'll need some time to prepare them, but you'll need a strong understanding of basic programming ideas and machine learning techniques. You can also develop several solutions to a single problem, analyze their strengths and limitations, and choose the best feasible way to gain a more comprehensive understanding. Taking part in different hackathons events helps you hone your logical coding skills.
+Don't be put off by the types of inquiries that may appear intimidating at first. You'll need some time to prepare them, but you'll need a strong understanding of basic programming ideas and Machine Learning techniques. You can also develop several solutions to a single problem, analyze their strengths and limitations, and choose the best feasible way to gain a more comprehensive understanding. Taking part in different hackathons events helps you hone your logical coding skills.
 
 That is why you must have a clear grasp of the product that must be produced to synchronize your efforts and truly apply them to the product.
 
@@ -75,7 +75,7 @@ You should be good at communicating your thought process and understand your par
 
 You don't have to know what the problem is to be able to solve it. It indicates that you should understand how to apply data science to the situation. As a result, you must be able to devise a framework or an effective technique to solve the problem and provide a superior product.
 
-## How to deal with machine learning, statistics, and modeling questions?
+## How to deal with Machine Learning, statistics, and modeling questions?
 
 Generally, these are non-coding questions. The recruiter is testing you on both technical knowledge and theory and implementation. So, the questions from the recruiter usually are
 
@@ -164,7 +164,7 @@ I suggest you break-down questions like:
 
 - Modeling questions
 
-- Machine learning models
+- Machine Learning models
 
 ### How To Prepare for a short-term data science interview?     
 

@@ -95,7 +95,7 @@ AI and DS technologies are being used in many industries, but I am most excited 
 
 * Marketing
 
-Machine learning systems enable hotels to analyze historical data to make better decisions. Marketers can use all these inputs to target the right audience at the right moment with targeted campaigns.
+Machine Learning systems enable hotels to analyze historical data to make better decisions. Marketers can use all these inputs to target the right audience at the right moment with targeted campaigns.
 
 
 

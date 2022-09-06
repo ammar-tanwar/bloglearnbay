@@ -4,9 +4,9 @@ desc: "Exploratory Data Analysis refers to the critical process of performing in
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/exp.png"
 date: "January 3, 2021"
-tag: [ Uncategorized ]
+tag: [ Data Science ]
 author: "Admin"
-category: "Uncategorized"
+category: "Data Science"
 position: "Editor"
 readTime: "5-6 mins"
 h1: "Exploratory Data Analysis on Iris dataset"
@@ -23,7 +23,7 @@ tableData:
 
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, spot anomalies, to test hypotheses and to check assumptions with the help of summary statistics and graphical representations.
 
-It is always good to explore and compare a data set with multiple exploratory techniques. After the exploratory data analysis, you will get confidence in your data to point where you’re ready to engage a machine learning algorithm and another benefit of EDA is to the selection of feature variables that will be used later for Machine Learning.
+It is always good to explore and compare a data set with multiple exploratory techniques. After the exploratory data analysis, you will get confidence in your data to point where you’re ready to engage a Machine Learning algorithm and another benefit of EDA is to the selection of feature variables that will be used later for Machine Learning.
 
 In this post, we take Iris Dataset to get the process of EDA.
 
@@ -194,6 +194,6 @@ Std-dev:
 
 0.4651881339845203
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

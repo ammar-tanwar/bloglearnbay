@@ -163,7 +163,7 @@ Believe it or not, the salary you get depends heavily on the field’s skills yo
 * Knowing R is the most critical and demanding skill, followed by Python. Python’s salary in India is projected to be around 10.2 lakh rupees per year. 
 * If data analysts have both big data and data science, their income will increase by 26% compared to just one piece of knowledge. 
 * SAS users are paid 9.1-10.8 lux per year, and SPSS Professionals are paid 7.3 lakhs per year. 
-* Machine learning salaries in India start at around Rs 3-5 lakhs and can rise to Rs 16 lakhs as the industry progresses. Python is one of the most popular machine learning languages, and Python developers in India have the highest salaries globally. 
+* Machine Learning salaries in India start at around Rs 3-5 lakhs and can rise to Rs 16 lakhs as the industry progresses. Python is one of the most popular Machine Learning languages, and Python developers in India have the highest salaries globally. 
 * Knowledge of artificial intelligence generally helps advance your career. Artificial intelligence payments in India are over 5-6 lakhs rupees for beginners in this field.
 
 So these are all the variables that can affect your salary and how much you will get paid. To me, it is impressive. So I think you should start thinking about that career switch carefully.

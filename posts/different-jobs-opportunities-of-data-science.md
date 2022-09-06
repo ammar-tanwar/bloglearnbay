@@ -117,7 +117,7 @@ Trust me, even though they all sound almost same, are very individual in their s
   <tr>
    <td><strong>Machine Learning Engineer</strong>
    </td>
-   <td>They basically be software engineer specialized in machine learning. Their job is to enhance the intelligence of a machine by upgrading them, testing several numerous problems on them.
+   <td>They basically be software engineer specialized in Machine Learning. Their job is to enhance the intelligence of a machine by upgrading them, testing several numerous problems on them.
    </td>
    <td>1,103.K rs
    </td>

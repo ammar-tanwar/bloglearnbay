@@ -34,7 +34,7 @@ According to[ the Analytics Insight](https://www.analyticsinsight.net/analytics-
 
 ## What is the data science salary in India?
 
-According to the data available in[ Glassdoor](https://www.glassdoor.co.in/Salaries/data-scientist-salary-SRCH_KO0,14.htm) (as of June 15, 2021), the average data scientist salary in India have already reached the figure of 10,00,000 INR/ year with a lower limit of 4,00,000 INR/ year (freshers) and a higher limit of 20,98,000 INR/ year (for senior-level). In the case of the other subdomains of data science, such as machine learning engineers, AI experts, deep learning experts, India’s companies offer more lucrative packages.
+According to the data available in[ Glassdoor](https://www.glassdoor.co.in/Salaries/data-scientist-salary-SRCH_KO0,14.htm) (as of June 15, 2021), the average data scientist salary in India have already reached the figure of 10,00,000 INR/ year with a lower limit of 4,00,000 INR/ year (freshers) and a higher limit of 20,98,000 INR/ year (for senior-level). In the case of the other subdomains of data science, such as Machine Learning engineers, AI experts, deep learning experts, India’s companies offer more lucrative packages.
 
 And not only the MNCs but SMEs are also stepping forward to invest in sky-high salary packages for data science professionals.
 
@@ -78,7 +78,7 @@ Let’s explore the 6-step data science job searching strategy to grab the first
 The keyword ‘Data science’ indicates the entire data science domain, but while searching for a job, you need to focus on specific job roles like
     * Data scientist
     * Data analyst
-    * Machine learning engineer
+    * Machine Learning engineer
     * AI expert
     * Business intelligence analyst
     * Marketing data analyst

@@ -87,11 +87,11 @@ These data are used to search for patterns in sales forecast systems. These patt
 
 4. Churn Prevention
 
-Sales professionals are now able to anticipate when clients will purchase their next product. It is also possible to predict when consumers will stop buying. Customer churn is the percentage of customers that have stopped using the product or bought it again. Machine learning algorithms can be used to identify patterns and features in customer behavior, communication, order, and order.
+Sales professionals are now able to anticipate when clients will purchase their next product. It is also possible to predict when consumers will stop buying. Customer churn is the percentage of customers that have stopped using the product or bought it again. Machine Learning algorithms can be used to identify patterns and features in customer behavior, communication, order, and order.
 
 5. Inventory Management
 
-Effective inventory management is essential for retailers to ensure that sales rise but supply remains stable. To achieve this, supply chains and inventory chains must be thoroughly examined. Machine learning algorithms can analyze and provide detailed supply data and identify patterns and correlations. An analyst then evaluates this data and provides a strategy to increase revenue, timely delivery, and inventory management.
+Effective inventory management is essential for retailers to ensure that sales rise but supply remains stable. To achieve this, supply chains and inventory chains must be thoroughly examined. Machine Learning algorithms can analyze and provide detailed supply data and identify patterns and correlations. An analyst then evaluates this data and provides a strategy to increase revenue, timely delivery, and inventory management.
 
 6. Cross-sell recommendations
 
@@ -233,7 +233,7 @@ In India, the average salary for the position of Data Scientist in the sales and
 
 * Sales Prediction (Sales Domain)
 
-Big-Bazar like companies employs this machine learning model in order to identify the characteristics of stores and products that are most important for increasing sales. Certain characteristics have been identified for each retailer and product. This machine learning project aims to build a predictive model that will determine the sales of each product at a particular retailer. It involves determining the future or present-day sales using data such as past sales, seasonality, and economic conditions. This model can predict sales on a specific day if it is given a set of inputs.
+Big-Bazar like companies employs this Machine Learning model in order to identify the characteristics of stores and products that are most important for increasing sales. Certain characteristics have been identified for each retailer and product. This Machine Learning project aims to build a predictive model that will determine the sales of each product at a particular retailer. It involves determining the future or present-day sales using data such as past sales, seasonality, and economic conditions. This model can predict sales on a specific day if it is given a set of inputs.
 
 
 
@@ -244,7 +244,7 @@ Big-Bazar like companies employs this machine learning model in order to identif
 
 * Resume Parsing(HR Domain)
 
-All businesses face challenges in hiring the right talent. The challenge is made more difficult by a large number of applicants, especially if the business has high labor costs, is growing rapidly, or is subject to high attrition rates.IT departments lack the ability to access new markets. A typical service company will hire professionals who have a range of technical skills and business expertise to solve customer problems. Resume screening is the process of selecting the best talent from many applicants. Large companies don’t have the time to read every CV. Therefore, they use machine learning algorithms for Resume Screening.
+All businesses face challenges in hiring the right talent. The challenge is made more difficult by a large number of applicants, especially if the business has high labor costs, is growing rapidly, or is subject to high attrition rates.IT departments lack the ability to access new markets. A typical service company will hire professionals who have a range of technical skills and business expertise to solve customer problems. Resume screening is the process of selecting the best talent from many applicants. Large companies don’t have the time to read every CV. Therefore, they use Machine Learning algorithms for Resume Screening.
 
 
 

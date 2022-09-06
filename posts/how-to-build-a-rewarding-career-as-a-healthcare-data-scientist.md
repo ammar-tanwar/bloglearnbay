@@ -93,7 +93,7 @@ It is important to build a strong foundation of skills before moving forward bas
 * Mathematics and statistical skills
 * Programming languages,[ Python](https://www.learnbay.co/data-science-course/introduction-to-python-programming/) and R
 * Database management languages like SQL and SAS
-* Machine learning and deep learning concepts
+* Machine Learning and deep learning concepts
 * Data visualization
 * Quantitative skills and analytical skills
 * Communication and presentation skills
@@ -144,7 +144,7 @@ Here are some project ideas you can work on to level-up your portfolio:
 
  
 [ Ultrasound Nerve Segmentation dataset from Kaggle](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=train_masks.csv)
-3. Heart failure prediction: Heart failure is a common consequence of cardiovascular diseases (CVDs) resulting in an increase in mortality rate. In this project, you’ll build a machine learning model that predicts mortality by heart failure. Throughout this project, you’ll learn multiple ML algorithms including Random Forest and K-NN, data wrangling, and filtering techniques.
+3. Heart failure prediction: Heart failure is a common consequence of cardiovascular diseases (CVDs) resulting in an increase in mortality rate. In this project, you’ll build a Machine Learning model that predicts mortality by heart failure. Throughout this project, you’ll learn multiple ML algorithms including Random Forest and K-NN, data wrangling, and filtering techniques.
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health5.jpg"   class="img"  /></img>
 
@@ -156,7 +156,7 @@ Here are some project ideas you can work on to level-up your portfolio:
 
  
 [ Depression analysis dataset by Kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset)
-5. Breast cancer prediction: Breast cancer affects approximately 12% of women worldwide and is on the verge to rise even more. This project helps doctors to predict whether a patient has breast cancer or not. You’ll be required to create an ML model to classify malignant and benign tumors by utilizing the supervised machine learning classifier technique.
+5. Breast cancer prediction: Breast cancer affects approximately 12% of women worldwide and is on the verge to rise even more. This project helps doctors to predict whether a patient has breast cancer or not. You’ll be required to create an ML model to classify malignant and benign tumors by utilizing the supervised Machine Learning classifier technique.
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health7.jpg"   class="img"  /></img>
 

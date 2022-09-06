@@ -42,7 +42,7 @@ Simple Linear Regression in Machine Learning (SLR) is a tactic that can help to 
 
 Now, if you ask why ‘simple?’ Well, the phrase “Simple” relates to two factors used in this regression evaluation method. A line that is certainly straight used to mold linear regression and grant an explanation for the association between factors.
 
-While you get to indulge in machine learning problems and then land on the expected and profitable outcomes, you need to find certain inter-relationships between a set of the above two types of variables. So here comes the application of Simple Linear Regression in Machine Learning .
+While you get to indulge in Machine Learning problems and then land on the expected and profitable outcomes, you need to find certain inter-relationships between a set of the above two types of variables. So here comes the application of Simple Linear Regression in Machine Learning .
 
 
 ## What are the real-life applications of SLR algorithms?

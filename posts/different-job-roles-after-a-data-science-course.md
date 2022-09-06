@@ -82,7 +82,7 @@ Data scientists must technically comprehend business difficulties and doubts as 
 
 
 
-* Many of the same tasks are performed by data analysts, but data scientists additionally use machine learning models to generate and analyze accurate predictions about the future based on historical data.
+* Many of the same tasks are performed by data analysts, but data scientists additionally use Machine Learning models to generate and analyze accurate predictions about the future based on historical data.
 * A data scientist has more leeway to experiment and explore their own ideas in order to uncover fascinating patterns and trends in the data that management may not have considered.
 * They can also do so by spotting different trends and specific patterns that might aid businesses in making better and finest judgments.
 
@@ -102,12 +102,12 @@ The data infrastructure of a specific corporation is certainly managed by a data
 
 ## Machine Learning Engineer
 
-Engineers who specialise in machine learning are in high demand right now. Between a machine learning engineer and a data scientist, there is a lot of overlap. However, the work profile has its own set of difficulties.
+Engineers who specialise in Machine Learning are in high demand right now. Between a Machine Learning engineer and a data scientist, there is a lot of overlap. However, the work profile has its own set of difficulties.
 
 
 
-* Aside from having extensive knowledge of some of the most powerful technologies, the different relevant term simply refers to a data scientist with machine learning outcomes.
-* Regardless of the specifics, almost all machine learning engineer positions will necessitate at least data science programming skills and a somewhat deep understanding of machine learning algorithms.
+* Aside from having extensive knowledge of some of the most powerful technologies, the different relevant term simply refers to a data scientist with Machine Learning outcomes.
+* Regardless of the specifics, almost all Machine Learning engineer positions will necessitate at least data science programming skills and a somewhat deep understanding of Machine Learning algorithms.
 
 
 ## Data Architect
@@ -123,7 +123,7 @@ Basically, this is a sub-field of data engineering for people who want to be in 
 
 ## Statistician
 
-A statistician, unlike a data scientist, will not be expected to know how to develop and train machine learning models. As the name implies here, a statistician is finite well-versed in statistical theory as well as in data organisation. Before the keyword data scientist was invented in this era, then it was 1st referred to as “statisticians.”
+A statistician, unlike a data scientist, will not be expected to know how to develop and train Machine Learning models. As the name implies here, a statistician is finite well-versed in statistical theory as well as in data organisation. Before the keyword data scientist was invented in this era, then it was 1st referred to as “statisticians.”
 
 
 

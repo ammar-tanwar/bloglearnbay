@@ -4,7 +4,7 @@ desc: "Deep learning and natural language processing (NLP and Deep Learning) are
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nlp.jpg"
 date: "December 17, 2020"
-tag: [ Data Science, machine learning ]
+tag: [ Data Science, Machine Learning ]
 category: "Data Science"
 author: "Admin"
 position: "editor"
@@ -29,7 +29,7 @@ Final lines,
   ]
 ---
 
-Deep learning and[ natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) (NLP and Deep Learning)are as busy as they’ve always been. The most in-demand technologies are deep learning and natural language processing (NLP). Advances in natural language processing and deep learning (NLP and Deep Learning) are produced nearly every day. Despite the fact that quarantine regulations in many nations have hampered numerous businesses, the[ machine learning](https://datascience-learnbay.medium.com/things-you-need-to-do-before-taking-machine-learning-or-data-science-coursehere-are-a-few-things-c302b1fce32a?source=user_profile---------8-------------------------------) industry continues to advance.
+Deep learning and[ natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) (NLP and Deep Learning)are as busy as they’ve always been. The most in-demand technologies are deep learning and natural language processing (NLP). Advances in natural language processing and deep learning (NLP and Deep Learning) are produced nearly every day. Despite the fact that quarantine regulations in many nations have hampered numerous businesses, the[ Machine Learning](https://datascience-learnbay.medium.com/things-you-need-to-do-before-taking-machine-learning-or-data-science-coursehere-are-a-few-things-c302b1fce32a?source=user_profile---------8-------------------------------) industry continues to advance.
 
 Aside from the fact that the Covid-19 has caused problems for a number of organizations, new-age tech skills such as Machine Learning (ML), Artificial Intelligence (AI), and Natural Language Processing (NLP and Deep Learning) is in high demand. For budding Data Scientists, here are some must-read publications. In this article, we at Learnbay try to go over some of the most crucial and current breakthroughs.
 
@@ -117,13 +117,13 @@ Many difficult research areas, like image recognition and natural language proce
 
 
 
-* Deep learning has had a substantial impact on the conceptual foundations of machine learning and artificial intelligence and has achieved significant practical success.
+* Deep learning has had a substantial impact on the conceptual foundations of Machine Learning and artificial intelligence and has achieved significant practical success.
 * They would demonstrate in this certain Deep Learning Generalization article that deep learning technology nowadays is a strong contender for increasing sensing abilities.
 
 
 ## The Model Card Toolkit for Easier Model Transparency Reporting
 
-Transparency in machine learning (ML) models is crucial in a range of sectors that affect people’s lives, including healthcare, personal finance, and implementation as well. It gets more difficult to convey the intended use cases and other information to consumers downstream whenever larger and also possibly more and more intricate deep learning models are developed.
+Transparency in Machine Learning (ML) models is crucial in a range of sectors that affect people’s lives, including healthcare, personal finance, and implementation as well. It gets more difficult to convey the intended use cases and other information to consumers downstream whenever larger and also possibly more and more intricate deep learning models are developed.
 
 
 
@@ -190,4 +190,4 @@ You do not need to understand this material before learning to train and use dee
 
 ## Final lines
 
-We hope that these articles and instructions on natural language processing and NLP and Deep Learning helped you keep up with some of the major developments in machine learning this year. Increased focus with NLP and Deep Learning means more internet materials are available. But a good article is sometimes required to gain a solid understanding of such a complicated and multi-faceted subject. Articles can help you improve your overall data literacy by providing basic background information, such as an introduction to deep learning and natural language processing (NLP) or clarification on significant ideas and real-world illustrations very well. Keep growing, my fellow members of the A.I. community.
+We hope that these articles and instructions on natural language processing and NLP and Deep Learning helped you keep up with some of the major developments in Machine Learning this year. Increased focus with NLP and Deep Learning means more internet materials are available. But a good article is sometimes required to gain a solid understanding of such a complicated and multi-faceted subject. Articles can help you improve your overall data literacy by providing basic background information, such as an introduction to deep learning and natural language processing (NLP) or clarification on significant ideas and real-world illustrations very well. Keep growing, my fellow members of the A.I. community.

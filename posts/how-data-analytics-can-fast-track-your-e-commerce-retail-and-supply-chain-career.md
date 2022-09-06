@@ -180,7 +180,7 @@ Source: Linkedin
 * A bachelor’s degree in engineering, computer science, applied math, statistics, or a quantitative field is needed to work in this field. It is better if you have a master’s or certified degree than not.
 * A minimum of three to five years of experience using Data Science, Machine Learning, or AI to solve Supply Chain or Manufacturing problems is needed.
 * Supply Chain, Manufacturing, Warehousing, Distribution, and Logistics domain knowledge and familiarity.
-* Python experience creating and implementing[ machine learning and artificial intelligence algorithms](https://www.learnbay.co/data-science-course/model-vs-algorithm-in-ml/).
+* Python experience creating and implementing[ Machine Learning and artificial intelligence algorithms](https://www.learnbay.co/data-science-course/model-vs-algorithm-in-ml/).
 * Common statistical and Data Science packages and libraries as well as optimization tools are well known to him.
 * Advanced statistical methods and ideas are needed to do this (regression, decision trees, ensemble models, time series, forecasting, neural networks, network routing, linear programming, and optimization).
 * Expertise in SQL and experience with relational and non-relational databases, SQL query writing tools, and SQL debugging skills are needed.
@@ -191,11 +191,11 @@ Source: Linkedin
 
 
 
-* To solve problems in Supply Chain, Manufacturing, Inventory Management, and Distribution, design, build and test machine learning models and algorithms.
+* To solve problems in Supply Chain, Manufacturing, Inventory Management, and Distribution, design, build and test Machine Learning models and algorithms.
 * Build features and functionality for ThroughPut’s ELI Flow platform with help from Product and Engineering.
 * Collaborate with Dev Ops and Quality Assurance to put models into a production environment that can grow with the business.
 * Participate in client-facing Sales Engineering conversations and help with data-related analysis and troubleshooting.
-* People who work in data science, machine learning, artificial intelligence, and supply chain management should stay up to date on the most recent tools and methods. They should also come up with new, unique solutions.
+* People who work in data science, Machine Learning, artificial intelligence, and supply chain management should stay up to date on the most recent tools and methods. They should also come up with new, unique solutions.
 
 
 ### Data Science in E-commerce Retail and Supply Chain Domain

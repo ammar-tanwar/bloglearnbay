@@ -24,7 +24,7 @@ tableData:
 
 Support vector machines (SVMs) are a particularly powerful and flexible class of supervised algorithms for both classification and regression.
 
-SVMs were introduced initially in the 1960s and were later refined in 1990s. However, it is only now that they are becoming extremely popular, owing to their ability to achieve brilliant results. SVMs are implemented uniquely when compared to other machine learning algorithms.
+SVMs were introduced initially in the 1960s and were later refined in 1990s. However, it is only now that they are becoming extremely popular, owing to their ability to achieve brilliant results. SVMs are implemented uniquely when compared to other Machine Learning algorithms.
 
 Support vector machine(SVM) is a supervised learning algorithm that is used to classify the data into different classes, now unlike most algorithms SVM makes use of hyperplane which acts as a decision boundary between the various classes. In general, SVM can be used to generate multiple separating the hyperplane so that the data is divided into segments. These segments contain some kind of data. SVM used to classify the data into two different segments depending on the feature of data.
 
@@ -198,4 +198,4 @@ In the real world, our dataset is generally dispersed up to some extent. To solv
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vector1.png"   class="img"  /></img>
 
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM.
+[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM.

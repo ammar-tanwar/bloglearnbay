@@ -1,6 +1,6 @@
 ---
 title: Everything About the XGBoost Classifier
-desc: "XGBoost classifier is a Machine learning algorithm that is applied for structured and tabular data. XGBoost classifier is an implementation of gradient boosted decision trees designed for speed and performance..."
+desc: "XGBoost classifier is a Machine Learning algorithm that is applied for structured and tabular data. XGBoost classifier is an implementation of gradient boosted decision trees designed for speed and performance..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xg.png"
 date: "February 04, 2022"
@@ -20,11 +20,11 @@ Everything About the XGBoost Classifier,
 
 What is the XGboost classifier?
 
-XGBoost classifier is a Machine learning algorithm that is applied for structured and tabular data. XGBoost classifier is an implementation of gradient boosted decision trees designed for speed and performance. XGBoost is an extreme gradient boost algorithm. And that means it’s a big Machine learning algorithm with lots of parts. XGBoost works with large complicated datasets. XGBoost classifier is an ensemble modelling technique.
+XGBoost classifier is a Machine Learning algorithm that is applied for structured and tabular data. XGBoost classifier is an implementation of gradient boosted decision trees designed for speed and performance. XGBoost is an extreme gradient boost algorithm. And that means it’s a big Machine Learning algorithm with lots of parts. XGBoost works with large complicated datasets. XGBoost classifier is an ensemble modelling technique.
 
 What is ensemble modeling?
 
-XGBoost classifier is an ensemble learning method. Sometimes, it may not be sufficient to rely upon the results of just one machine learning model. Ensemble learning offers a systematic solution to combine the predictive power of multiple learners. The resultant is a single model that gives the aggregated output from several models.
+XGBoost classifier is an ensemble learning method. Sometimes, it may not be sufficient to rely upon the results of just one Machine Learning model. Ensemble learning offers a systematic solution to combine the predictive power of multiple learners. The resultant is a single model that gives the aggregated output from several models.
 
 The models that form the ensemble, also known as base learners, could be either from the same learning algorithm or different learning algorithms. Bagging and boosting are two widely used ensemble learners. Though these two techniques can be used with several statistical models, the most predominant usage has been with[ decision trees](https://scikit-learn.org/stable/modules/tree.html#:~:text=Decision%20Trees%20(DTs)%20are%20a,as%20a%20piecewise%20constant%20approximation.).
 
@@ -90,6 +90,6 @@ Hence the result we got is:
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xg6.png"   class="img"  /></img>
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. By choosing Learnbay you will reach the most aspiring job of present and future.
+[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. By choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

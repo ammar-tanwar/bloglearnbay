@@ -165,7 +165,7 @@ BFSI will assist you:
 
 ### What is the Data Science team’s role in the banking business?
 
-The people who work in data science are very important. They can gather, summarize, and predict fraudulent activity in customer databases, which makes them very important people. Before data science and big data, it was impossible to look at customer records and come up with reliable data. Artificial intelligence (AI) and[ machine learning](https://www.learnbay.co/data-science-course/necessity-of-machine-learning-in-retail/) may assist banks in combating fraud.
+The people who work in data science are very important. They can gather, summarize, and predict fraudulent activity in customer databases, which makes them very important people. Before data science and big data, it was impossible to look at customer records and come up with reliable data. Artificial intelligence (AI) and[ Machine Learning](https://www.learnbay.co/data-science-course/necessity-of-machine-learning-in-retail/) may assist banks in combating fraud.
 
 
 ## Is Data science beneficial to finance?

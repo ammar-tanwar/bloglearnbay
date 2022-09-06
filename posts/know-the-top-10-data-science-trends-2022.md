@@ -48,7 +48,7 @@ Augmented Data Analytics is a type of data analytics that automates the analysis
 
 Augmented Data science or data analytics can merge data that is available inside an organization and the data from outside. The organization usually gets less time to process these data and extract any important insights. This data analysis provides deeper utterances and predictions by processing and preparing data and relevant visualization.
 
-So many data analytics tools have been discovered in recent years based on business-specific visualization and explanation needs. It has been swiftly implemented in businesses, not just for data scientists but also for customers or service users. This made data analytics (Entry-level data science) and machine learning (Advanced-level data science) work together rather than operating them differently. In the next few years, you will see experts working more with Augmented analytics. Accordingly, there will be a surge in job openings in the same.
+So many data analytics tools have been discovered in recent years based on business-specific visualization and explanation needs. It has been swiftly implemented in businesses, not just for data scientists but also for customers or service users. This made data analytics (Entry-level data science) and Machine Learning (Advanced-level data science) work together rather than operating them differently. In the next few years, you will see experts working more with Augmented analytics. Accordingly, there will be a surge in job openings in the same.
 
 Because of the rapid evolution of this technology, augmented analytics modules are now required in all[ data analytics training programs](https://www.learnbay.co/data-science-course/data-analytics-business-analytics-programs-for-professionals/), not just advanced data science courses.
 
@@ -85,22 +85,22 @@ A TechRepublic poll resulted in over half of the companies have started using lo
 
 ### 5. Cloud AI and Data science
 
-In the past few years, and mainly during the Covid-19  pandemic era, there has been a massive stroll-in Cloud-based solution. As a result, data is getting produced more enormously. Collecting, arranging, labeling, formatting, and analyzing data in one platform is a huge issue, and cloud-based AI is the only way to deal with the same. As different insights indicate, the upcoming 3-5 years will be too crucial for[ AI and Machine learning](https://www.learnbay.co/data-science-course/artificial-intelligence-certification-course/). The cost of adopting AI has risen, and the developments of these technologies ensure cloud-based adoption in the future. So as the use of the cloud-based solution in various industries increases, the market will also expand with it. And obviously, professionals are working hard on reducing the cost of AI software development and implementation.
+In the past few years, and mainly during the Covid-19  pandemic era, there has been a massive stroll-in Cloud-based solution. As a result, data is getting produced more enormously. Collecting, arranging, labeling, formatting, and analyzing data in one platform is a huge issue, and cloud-based AI is the only way to deal with the same. As different insights indicate, the upcoming 3-5 years will be too crucial for[ AI and Machine Learning](https://www.learnbay.co/data-science-course/artificial-intelligence-certification-course/). The cost of adopting AI has risen, and the developments of these technologies ensure cloud-based adoption in the future. So as the use of the cloud-based solution in various industries increases, the market will also expand with it. And obviously, professionals are working hard on reducing the cost of AI software development and implementation.
 
 
 ### 6. Auto-ML
 
-The method of installing machine learning models to real-world scenarios through automation is called AUTO-ML. It automatically selects, parameterizes, and constructs machine learning models. Machine learning becomes user-friendly when automated and provides more precise results than hand-coded methods. AutoML will give access to non-experts to create and deploy models. Don’t you think this is charming information for non-techies?
+The method of installing Machine Learning models to real-world scenarios through automation is called AUTO-ML. It automatically selects, parameterizes, and constructs Machine Learning models. Machine Learning becomes user-friendly when automated and provides more precise results than hand-coded methods. AutoML will give access to non-experts to create and deploy models. Don’t you think this is charming information for non-techies?
 
 
 ### 7. Enhanced Natural Language Processing
 
-The method of installing machine learning models to real-world scenarios through automation is called AUTO-ML. It automatically selects, parameterizes, and constructs machine learning models. Machine learning becomes user-friendly when automated and provides more precise results than hand-coded methods. AutoML will give access to non-experts to create and deploy models. Don’t you think this is charming information for non-techies?
+The method of installing Machine Learning models to real-world scenarios through automation is called AUTO-ML. It automatically selects, parameterizes, and constructs Machine Learning models. Machine Learning becomes user-friendly when automated and provides more precise results than hand-coded methods. AutoML will give access to non-experts to create and deploy models. Don’t you think this is charming information for non-techies?
 
 
 ### 8. Automated Data Cleaning
 
-Any data that is not cleaned before analysis is useless. These useless data can be redundant, inaccurate, and duplicated without any structure and format. The data retrieval process is slowed because of these unfiltered data. This results in a loss for businesses. Many organizations are searching for automatic data cleansing to improve data analytics to acquire better insights with big data. Data cleaning needs huge system support from artificial intelligence and machine learning.
+Any data that is not cleaned before analysis is useless. These useless data can be redundant, inaccurate, and duplicated without any structure and format. The data retrieval process is slowed because of these unfiltered data. This results in a loss for businesses. Many organizations are searching for automatic data cleansing to improve data analytics to acquire better insights with big data. Data cleaning needs huge system support from artificial intelligence and Machine Learning.
 
 
 ### 9. Blockchain

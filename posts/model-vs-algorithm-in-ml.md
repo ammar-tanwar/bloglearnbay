@@ -1,6 +1,6 @@
 ---
 title: Model vs Algorithm in ML
-desc: "Machine Learning works with “models” and “algorithms”, and both play an important role in machine learning where the algorithm tells about the process and model is built by following those rules..."
+desc: "Machine Learning works with “models” and “algorithms”, and both play an important role in Machine Learning where the algorithm tells about the process and model is built by following those rules..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/model.png"
 date: "April 29, 2021"
@@ -14,9 +14,9 @@ id: "model-vs-algorithm-in-ml"
 tableData:
   [
  Model vs Algorithm in ML Introduction,
-What is an algorithm in Machine learning?,
-What is the Model in Machine learning?,
-How the model and algorithms work together in machine learning?,
+What is an algorithm in Machine Learning?,
+What is the Model in Machine Learning?,
+How the model and algorithms work together in Machine Learning?,
 Conclusion,    
   ]
 ---
@@ -27,13 +27,13 @@ Conclusion,
 
 ## Model vs Algorithm in ML: Introduction
 
-Machine Learning works with “models” and “algorithms”, and both play an important role in machine learning where the algorithm tells about the process and model is built by following those rules. So, let’s study further how Model vs Algorithm in ML( Machine Learning).
+Machine Learning works with “models” and “algorithms”, and both play an important role in Machine Learning where the algorithm tells about the process and model is built by following those rules. So, let’s study further how Model vs Algorithm in ML( Machine Learning).
 
 Algorithms have derived by the statistician or mathematician very long ago and those algorithms are studies and applied by the individuals for their business purposes.
 
-A model in machine learning nothing but a function that is used to take some certain input, perform a certain operation which is told by algorithms to its best on the given input, and gives a suitable output.
+A model in Machine Learning nothing but a function that is used to take some certain input, perform a certain operation which is told by algorithms to its best on the given input, and gives a suitable output.
 
-Some of the machine learning algorithms are:
+Some of the Machine Learning algorithms are:
 
 
 
@@ -45,20 +45,20 @@ Some of the machine learning algorithms are:
 6. K-means learning
 
 
-## What is an algorithm in Machine learning?
+## What is an algorithm in Machine Learning?
 
-An algorithm is a step by step approach powered by statistics that guides the machine learning in its learning process. An algorithm is nothing but one of the several components that constitute a model.
+An algorithm is a step by step approach powered by statistics that guides the Machine Learning in its learning process. An algorithm is nothing but one of the several components that constitute a model.
 
-There are several characteristics of machine learning algorithms:
-
-
-
-1. [Machine learning algorithms](https://en.wikipedia.org/wiki/Machine_learning) can be represented by the use of mathematics and pseudo code.
-2. The effectiveness of machine learning algorithms can be measured and represented.
-3. With any of the popular programming languages, machine learning algorithms can be implemented.
+There are several characteristics of Machine Learning algorithms:
 
 
-## What is the Model in Machine learning?
+
+1. [Machine Learning algorithms](https://en.wikipedia.org/wiki/Machine_learning) can be represented by the use of mathematics and pseudo code.
+2. The effectiveness of Machine Learning algorithms can be measured and represented.
+3. With any of the popular programming languages, Machine Learning algorithms can be implemented.
+
+
+## What is the Model in Machine Learning?
 
 The model is dependent on factors such as features selection, tuning parameters, cost functions along with the algorithm the model just not fully dependent on algorithms.
 
@@ -76,7 +76,7 @@ A model contains four major steps that are:
 4. performance measurement.
 
 
-## How the model and algorithms work together in machine learning?
+## How the model and algorithms work together in Machine Learning?
 
 For example:
 
@@ -109,10 +109,10 @@ After building a model, a data science enthusiasts test it to get the accuracy o
 
 ## Conclusion
 
-This article may help you yo understand about the algorithm and model (Model Vs Algorithm in ML) in Machine learning and its relationship. In summary, an algorithm is a process or a technique that we follow to get the result or to find the solution to a problem.
+This article may help you yo understand about the algorithm and model (Model Vs Algorithm in ML) in Machine Learning and its relationship. In summary, an algorithm is a process or a technique that we follow to get the result or to find the solution to a problem.
 
 And a model is a computation or a formula that formed as an output of an algorithm that takes some input, so you can say that you are building a model using a given algorithm.
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited[ data science courses](https://www.learnbay.co/data-science-course/) in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited[ data science courses](https://www.learnbay.co/data-science-course/) in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

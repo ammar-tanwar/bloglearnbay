@@ -27,7 +27,7 @@ Even people who have some basic knowledge of data science have confused the data
 
 Data analysts sift through data and seek to identify trends. What stories do the numbers tell? What business decisions can be made based on these insights? They may also create visual representations, such as charts and graphs to better showcase what the data reveals.
 
-Data scientists are pros at interpreting data, but also tend to have coding and mathematical modelling expertise. Most data scientists hold an advanced degree, and many actually went from data analyst to data scientist. They can do the work of a data analyst, but are also hands-on in machine learning, skilled with advanced programming, and can create new processes for data modelling. They can work with algorithms, predictive models, and more.
+Data scientists are pros at interpreting data, but also tend to have coding and mathematical modelling expertise. Most data scientists hold an advanced degree, and many actually went from data analyst to data scientist. They can do the work of a data analyst, but are also hands-on in Machine Learning, skilled with advanced programming, and can create new processes for data modelling. They can work with algorithms, predictive models, and more.
 
 
 ## Data Analyst
@@ -41,7 +41,7 @@ At their core, most required:
 * Degree in mathematics, statistics, or business, with an analytics focus
 * Experience working with languages such as SQL/CQL, R, Python
 * A strong combination of analytical skills, intellectual curiosity, and reporting acumen
-* A solid understanding of data mining techniques, emerging technologies (MapReduce, Spark, large-scale data frameworks, machine learning, neural networks) and a proactive approach, with an ability to manage multiple priorities simultaneously.
+* A solid understanding of data mining techniques, emerging technologies (MapReduce, Spark, large-scale data frameworks, Machine Learning, neural networks) and a proactive approach, with an ability to manage multiple priorities simultaneously.
 * Familiarity with agile development methodology
 * Exceptional facility with Excel and Office
 * Strong written and verbal communication skills
@@ -61,7 +61,7 @@ qualifications for a data scientist:
 * Experience using statistical computer languages such as R, Python, SQL, etc.
 * Experience in statistical and data mining techniques, including generalized linear model/regression, random forest, boosting, trees, text mining, social network analysis
 * Experience working with and creating data architectures
-* Knowledge of machine learning techniques such as clustering, decision tree learning, and artificial neural networks
+* Knowledge of Machine Learning techniques such as clustering, decision tree learning, and artificial neural networks
 * Knowledge of advanced statistical techniques and concepts, including regression, properties of distributions, and statistical tests
 * 5-7 years of experience manipulating data sets and building statistical models
 * Experience using web services: Redshift, S3, Spark, DigitalOcean, etc.
