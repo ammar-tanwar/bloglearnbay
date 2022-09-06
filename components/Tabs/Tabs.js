@@ -120,7 +120,7 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
                 </div>
-                <div className={styles.Row}>
+                {/* <div className={styles.Row}>
                   <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
@@ -134,7 +134,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                </div>
+                </div> */}
                 <div className={styles.Row}>
                   <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div
@@ -322,7 +322,7 @@ const Tabs = ({ handleIcon }) => {
 
             {nonTech ? (
               <div className={styles.RowWrap}>
-                <div className={styles.Row}>
+                {/* <div className={styles.Row}>
                   <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
@@ -336,7 +336,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                </div>
+                </div> */}
                 <div className={styles.Row}>
                   <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div
@@ -407,7 +407,7 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
                 </div>
-                <div className={styles.Row}>
+                {/* <div className={styles.Row}>
                   <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
@@ -421,7 +421,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                </div>
+                </div> */}
               </div>
             ) : (
               ""
@@ -477,7 +477,7 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
                 </div>
-                <div className={styles.Row}>
+                {/* <div className={styles.Row}>
                   <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
@@ -491,7 +491,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                </div>
+                </div> */}
                 <div className={styles.Row}>
                   <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div className={styles.Program}>
@@ -657,7 +657,7 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
+                  {/* <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
@@ -669,7 +669,7 @@ const Tabs = ({ handleIcon }) => {
                         </span>
                       </div>
                     </div>
-                  </a>
+                  </a> */}
                   <a href="https://www.learnbay.co/dsa-system-design">
                     <div
                       className={styles.Program}
@@ -805,7 +805,7 @@ const Tabs = ({ handleIcon }) => {
             )}
             {nonTech ? (
               <div className={styles.RowWrap}>
-                <div className={styles.Row}>
+                {/* <div className={styles.Row}>
                   <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
@@ -819,7 +819,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                </div>
+                </div> */}
                 <div className={styles.Row}>
                   <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div
@@ -872,7 +872,7 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
                 </div>
-                <div className={styles.Row}>
+                {/* <div className={styles.Row}>
                   <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
@@ -886,7 +886,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                </div>
+                </div> */}
               </div>
             ) : (
               ""
@@ -907,8 +907,20 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
+                  <a href="https://www.learnbay.co/dsa-system-design">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          DSA & <br />System Design
+                        </h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 6 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
                 </div>
-                <div className={styles.Row}>
+                {/* <div className={styles.Row}>
                   <a href="https://www.learnbay.co/full-stack-web-development-program">
                     <div
                       className={styles.Program}
@@ -922,7 +934,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                </div>
+                </div> */}
                 <div className={styles.Row}>
                   <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div className={styles.Program}>
@@ -1005,18 +1017,7 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://www.learnbay.co/dsa-system-design">
-                    <div className={styles.Program}>
-                      <div className={styles.ProLeft}>
-                        <h5>
-                          DSA & <br />System Design
-                        </h5>
-                        <span>
-                          200+ Hours <BsDot /> 5 & 6 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
+                  
                 </div>
               </div>
             ) : (
