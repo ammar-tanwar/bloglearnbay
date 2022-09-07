@@ -21,6 +21,7 @@ export default function blog({ allPostsData }) {
         <title>Learnbay Blogs</title>
         <meta name="description" content="Learnbay Blogs" />
         <link href="/Learnbay-Favicon-L.png" />
+        <meta name="google-site-verification" content="q2xA2OZrvhAj8r1YGNF_3x5m5GuWCqo9rNb7atG4mXU" />
       </Head>
       <div className={styles.BackP} style={{ marginTop: "70px" }}>
         <h4>
