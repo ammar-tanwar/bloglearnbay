@@ -13,8 +13,7 @@ h1: "Tuples - An Immutable Derived Datatype"
 id: "tuples-an-immutable-derived-datatype"
 tableData:
   [
-    non-empty tuple,
-    DriverCode
+    What is a tuple in Python?, Then what is the difference between list and tuple?, non-empty tuple, How to perform basic operations in a tuple?, Tuple Concatenation,  Repeating Tuple, Slicing Tuple, Finding the length of the Tuple ,Basic functions to use while executing a code in the tuple, Sorting of tuple, Nesting of tuples,Take away,
   ]
 ---
 
@@ -32,7 +31,7 @@ So, it's basically a sequence of different elements that we access via unpacking
 
 More clearly, a collection of objects in a round bracket in python and separated by a comma is known as a tuple. Doesn't it seem like 'list?'
 
-## Then what is the difference between list and tuple?
+## Then what is the difference between list and tuple?   
 
 A list and tuple are the same in some ways when it's related to indexing, nested objects, and repetition. Even if we don't use any brackets, it becomes a tuple. However, a tuple is immutable and lists are mutable.
 
@@ -45,7 +44,7 @@ Example:
  Output <br>
  ()
 
-# non-empty tuple
+# non-empty tuple    
 
 #one way of creating <br>
  tup = ('Data', 'Science') <br>
@@ -82,11 +81,11 @@ Example:
 
  TypeError: 'tuple' object does not support item assignment |
 
-## How to perform basic operations in a tuple?
+## How to perform basic operations in a tuple?    
 
 In a tuple, there are several ways to do the basic operations. Let's take a look at each one individually with examples.
 
-### **Tuple Concatenation**
+### Tuple Concatenation      
 
 Since the tuple is immutable, you cannot change any value in the tuple element. But, you can combine two tuples as a single tuple which is called _ **tuple concatenation** _.
 
@@ -104,7 +103,7 @@ Example:
  Output <br>
  (5, 6, 7, 8, 'data', 'science', 'python', 'class') | <br>
 
-### **Repeating Tuple**
+### Repeating Tuple   
 
 If you need any value in a tuple to be repeated, you just need to multiply it by several times.
 
@@ -118,7 +117,7 @@ Example:
  Output <br>
  How are you? How are you? How are you? How are you? How are you? | <br>
 
-### **Slicing Tuple**
+### Slicing Tuple        
 
 A slicing is retrieving a particular portion for some operation while the initial data remains unaffected. The operation of slicing in python considers three parameters of which two are depending on the operational requirement. <br>
  
@@ -136,7 +135,7 @@ Example: <br>
  (63, 87, 50, 30, 10) <br>
  (50, 87, 63)<br>
 
-### **Finding the length of the Tuple**
+### Finding the length of the Tuple  
 
 You can find out the length of values inside a tuple by using the 'len' option. <br>
 
@@ -150,7 +149,7 @@ Example: <br>
  Output <br> 
  8 
 
-**Basic functions to use while executing a code in the tuple**
+### Basic functions to use while executing a code in the tuple   
 
 - len() – you can find the length in a tuple <br>
 - min() – you can find the min value in a tuple <br>
@@ -180,7 +179,8 @@ Example:
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-3.jpg" style="width:100%" class="img"/></img>
 
-### **Sorting of tuple**
+
+### Sorting of tuple       
 
 By using the sort() method you can sort a tuple. When sorting by this method the real content of the tuple is changed and the in-place method of the sort is performed. <br>
 
@@ -207,8 +207,7 @@ print(Sort_Tuple(tup_1)) <br>
 Output <br>
  [('Akash', 5), ('Avni', 10), ('Arvind', 15), ('Avinash', 20)] | <br> <br>
 
-### **Nesting of tuples**
-
+### Nesting of tuples      
 We use the '+' operator when we need to concatenate tuples to nested tuples. Accessing the index elements and trying to make any changes will give an error. We use ''+' for both nesting and concatenating operations. <br>
 
 Example: <br>
@@ -235,6 +234,6 @@ Example: <br>
  ((5, 8, 4, 4, 7, 1), (9, 5, 3, 2, 1, 8)) | <br>
 
 
-**Take away**
+### Take away  
 
-Let us summarize in simple words, a tuple is a set where you cannot make any changes. In other words, it is immutable. With the above explanations and examples, you would have got a better understanding and ease to work on tuples. _If you are looking for a best-in-class resource to learn python or understand each concept in detail for data science applications, you can check out the_ [_data science course_](https://www.learnbay.co/) _with special python-support with top-class trainers. In case you are just exploring python as a beginner, follow us on_   
+Let us summarize in simple words, a tuple is a set where you cannot make any changes. In other words, it is immutable. With the above explanations and examples, you would have got a better understanding and ease to work on tuples. If you are looking for a best-in-class resource to learn python or understand each concept in detail for data science applications, you can check out the <a href="https://www.learnbay.co/" target="_blank">data science course</a> with special python-support with top-class trainers. In case you are just exploring python as a beginner, follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.

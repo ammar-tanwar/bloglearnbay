@@ -16,9 +16,9 @@ tableData:
     What exactly is Python?,
     Why is Python so well-likely?,
     Why should you learn Python in 2021?,
-What are the uses of python Software?,
-Features of Python,
-Can I learn Python on my own?
+    What are the uses of python Software?,
+    Features of Python,
+    Can I learn Python on my own?
 
 
   ]

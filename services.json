@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "blog-learnbay-index-api",
+    "private_key_id": "30281a2c2de1c0dd7cadaade39d1b8a6773c5e62",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIqUwEQZfEL40p\nk7/Xa589vgeJfgBwqZaSnmaFuQ9Rc+nDlu8ieGeEaGVUq8LMmhZyXJbn124Lo07+\nzSQbwOIc2KdXy3RbkW/HJPsLwayaTNhxubI8lbYs+0VPrx2j1w214FinQ36KZ7rw\nxFPXQhhm52xQg8kRL6wpMR2o51Pyykc4Vm0TgRHvdG4EA3M6CklC3H0zTdN1xKGI\ntlq12WAInDBcSt4oFkb9+9d6DKu8zdErHlXuLOFcp52e9f7jZKCS2fjbcvZtNdfU\nMStZaopMJxCWQ5YfHfkC1MjEKv12Gn05xzWP6keDLYEcb+XF++KgBYbkr+rj3dEZ\n8blTJYyVAgMBAAECggEAK/E1GiaCFX6jT2RRaduh2OvFK0UaVBGzTWLeSTDsS5ZS\nbhhewGH1K2AQNrFRfKxOt5cSne1FpktKSI7EdkZwTchdJyMBFW9dNtNgnaO5SGYF\nLSxw/Yb8iM+yzz8mQsOct0RMrb5gVu9d1w1rXdOV0+0ggWZGsRqLPU8J83vLHLru\nzXPqUK5Z01FlxsQ8TQKwZ6917NB8uKhnQkUa5+Rb9LlCDYbdUy2FqQMwZWuNdGOy\n90Mvf3HiITkSsR+GBdUPQH+/9wqA/+f4CoEnkRALx1orMmWh7cJpxj2PlCjf+Yud\noH1lFXYtaeRuyOdBDxa4WJCkpMj1dxqRBx968dbdcQKBgQD/udLCyeytYfWy3+Dw\neCDZixbHAsf4UuqSpmNwIpQwWlWbkEaZFuUqC6s5lFiCta5DSJd1fcAzhPo8nWJo\nQo0/b1rm3wkoColQiK0tYwde59AViU9rKCCX+aiwi8QvtSpPhOuAcCe95pmKeu8V\nZUwQE1jMXgzwh/kNWTsMcqGjkQKBgQDI4FzdHkWHRmLajNYmyF6GB8j3Dio0v9ee\nzsR3jMbxmIBMcVmTd4UIXs0Uc9xptTJ28SfI2eQhnqERber9YSxWksV660kNIEvp\nkSQWUx0lhnR7q+g9+P6uOsJUgd3IP2ww5cORSn53nMALtXeXtw5BbnizogvxaGkZ\nXFdwfuTOxQKBgAdx7YTmRBG4LGMMyYu2s54hwoQAvLmqEFI8reBx4UaXGq7wwF1s\noTdcJ5wBiaIkj/I9hstQ4eueD3r8SgUnCt2x7D+UdrvHsr+5evE7VNeagCBgYwOH\no4tJJXQeXZPV/mlaQVD38vBAam/xrEw/Kru9FHS+uDm4e7O7yVBPdg1BAoGAauqQ\nQtjT5PZfszd23FmVhf0qx+RwLndVip8/DuqNERY8Y3OJW+YnlpbuzM4GKPVakNg2\ndr8Sn5pQ3HgGtSo9cS7ZkV0eGrBv9zdbX86JGun/obuT9zhKRe3cdSJSKz0mlrgU\naYae3Yc+6HyD1OqH2ee0stezR6BtICR4HdZMbokCgYEAq783/xE05t2ORy/mqo2+\nIf/5hxmso9LML2pYbtiQB5EHWlIXADwEisEZ3U0f1//vhQJ6nwzDFE+FsIDaQ/5C\nTuApvNxRjeBm499EFQFTGrXKytlH0NV6Rz5C1eNyzT04BjFuvcpejw/pLp8XpFxC\nr7UZ8vhbj4NGwJXdWMfocMw=\n-----END PRIVATE KEY-----\n",
+    "client_email": "blog-learnbay-index-api@blog-learnbay-index-api.iam.gserviceaccount.com",
+    "client_id": "100978879431768669280",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/blog-learnbay-index-api%40blog-learnbay-index-api.iam.gserviceaccount.com"
+  }
+  

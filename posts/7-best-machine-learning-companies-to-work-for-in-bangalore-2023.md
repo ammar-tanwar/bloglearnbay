@@ -43,7 +43,7 @@ stated that job postings for **Machine Learning and Artificial Intelligence engi
 
 # 1. HP        
 
-Hp is always committed to delivering solutions with a positive impact. HP is a global technology business and operates in 170+ countries. Its mission is to develop technology by improving the lives of people everywhere. HP's commitment would say who they are as a company. Here employees can be themselves from the boardroom to the production floor. HP values the idea that you may feel at home and bring your whole self to work every day. You'll be more innovative as a result, which will help them grow in their bottom line. Come to HP to succeed!
+HP is always committed to delivering solutions with a positive impact. HP is a global technology business and operates in 170+ countries. Its mission is to develop technology by improving the lives of people everywhere. HP's commitment would say who they are as a company. Here employees can be themselves from the boardroom to the production floor. HP values the idea that you may feel at home and bring your whole self to work every day. You'll be more innovative as a result, which will help them grow in their bottom line. Come to HP to succeed!
 
 - More than 350 ML job vacancies every month.
 
@@ -51,11 +51,11 @@ Hp is always committed to delivering solutions with a positive impact. HP is a g
 
 # 2. IBM
 
-IBM is always committed to creating a diverse environment and also takes pride in providing equal employment opportunities. Every qualified candidate is offered consideration of employment without any discrimination. IBM is even committed to compliance with fair employment opportunities with regard to citizenship and immigration status.
+IBM has diversified environment committed to creating a diverse environment and also takes pride in providing equal employment opportunities. Every qualified candidate is offered consideration of employment without any discrimination. IBM is even committed to compliance with fair employment opportunities with regard to citizenship and immigration status.
 
 - Five hundred eighty vacancies in every quarter of the year.
 
-- 10 LPA is the average package for mid-career-level ML pros
+- 10 LPA is the average package for mid-career-level ML pros.
 
 # 3. Accenture       
 

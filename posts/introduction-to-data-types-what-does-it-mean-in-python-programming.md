@@ -13,16 +13,17 @@ h1: "Introduction To Data Types - What Does It Mean In Python Programming?"
 id: "introduction-to-data-types-what-does-it-mean-in-python-programming"
 tableData:
   [
-    Primary keyword-Data types,
+     Let us understand what a data type is in python?,
+     1. Numeric data type, 
+     2. String Data Type in Python, 
+     3.List data Types,
+     4.Tuple data types, 
+     5. Set data types,
+     6. Dictionary data type, 
+     Take away 
+
   ]
 ---
-
-
-# Primary keyword: Data types
-
-Secondary keyword: Tuple in python, String datatype in python, datatypes in python
-
-Author: Vineeth Kumar
 
 # Introduction To Data Types - What Does It Mean In Python Programming?
 
@@ -32,7 +33,7 @@ When you are working on any programming language, the information has to be writ
 
 In this article, you will learn about different types of data. Alongside, you will know the process of dealing with various data types and their uses while you are writing a program in python. You will discover their syntax and observe some real-time situations.
 
-## **Let us understand what a**  **data type is in python?**
+## Let us understand what a data type is in python?
 
 The categorization or classification of data elements is called data types.
 
@@ -58,7 +59,7 @@ There are six data types in python
 
 Let's discuss each data type individually.
 
-**1. Numeric data type**
+# 1. Numeric data type
 
 Numerical data types are shown as numerical values used as integers, float, and complex numbers.
 
@@ -95,7 +96,7 @@ where x is the real part and y along with j is the imaginary part
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-3.jpg" style="width:100%" class="img"/></img>
 
-**2. String Data Type in Python**
+# 2. String Data Type in Python        
 
 A string is a sequence of Unicode characters. Characters are always enclosed in single, double, or triple quotations to access the values. We use square brackets and indexes to fetch the value from the string. It is represented as '_str'_ in python.
 
@@ -141,7 +142,7 @@ Output <br>
 
 Hi Python Hi Python Hi Python Hi Python Hi Python
 
-**3.List data Types**
+# 3.List data Types     
 
 A list is represented by placing all the elements inside a square bracket [] and separated by a comma (,). The list can store any data type as items like (int, float, etc.......…). The list is mutable, where we can modify the elements.
 
@@ -155,9 +156,9 @@ Output  <br>
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-4.jpg" style="width:100%" class="img"/></img>
 
-**4.Tuple data types**
+# 4.Tuple data types  
 
-A tuple in python is represented by placing all the elements inside a round bracket () and separated by a comma (,). Tuple can store any data type as items like (int, float, etc.....…). The only disadvantage of tuples is that it is immutable, where you cannot modify the elements. Since you will not be able to change the item once you have declared it, the operations that you perform on a tuple are less. There is also an advantage, and you can store any values which do not require any change while working on a project.
+A tuple in python is represented by placing all the elements inside a round bracket () and separated by a comma (,). Tuple can store any data type as items like (int, float, etc. ).The only disadvantage of tuples is that it is immutable, where you cannot modify the elements. Since you will not be able to change the item once you have declared it, the operations that you perform on a tuple are less. There is also an advantage, and you can store any values which do not require any change while working on a project.
 
 Example:
 
@@ -167,7 +168,7 @@ Example:
  Output <br>
  (1, 5, 4.38, 'hello')
 
-**5. Set data types**
+# 5. Set data types      
 
 A collection of unordered data types is iterable and changeable. It does not have any indexes. It is represented using curly brackets {} and separated by a comma. A set does not contain any duplicate values, so the output will have only distinct values.
 
@@ -180,7 +181,7 @@ Output <br>
 {1, 'hello', 4.38, 5} 
 
 
-**6. Dictionary data type**
+# 6. Dictionary data type      
 
 A collection of unordered data values is called a Dictionary. It holds a key-value pair instead of a single-value element. To access an item from a dictionary, refer to the key name by using a key in square brackets. If you want to deal with a high volume of data, a dictionary data type would be most useful. Its function is to revert to which it is optimized. We use curly brackets {} to define this data type.
 
@@ -194,6 +195,7 @@ Example:
  'Python'  <br>
 
 
-**Take away**
+# Take away     
 
-Now, as you all are aware of different types of data types and we as a programmer feed this food called datatypes to python and execute a reliable output that helps a task to run smoother, faster, and more efficiently. If you are interested in knowing more about python efficiently, you can check out the_ [_data science course_](https://www.learnbay.co/data-science-course/data-science-certification-courses/)  _with special python-support with top-class trainers with best-in-class resources. In case you are just exploring python as a beginner, follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
+Now, as you all are aware of different types of data types and we as a programmer feed this food called datatypes to python and execute a reliable output that helps a task to run smoother, faster, and more efficiently. If you are interested in knowing more about python efficiently, you can check out the <a href="https://www.learnbay.co/data-science-course/data-science-certification-courses/" target="_blank">data science course</a>
+  with special python-support with top-class trainers with best-in-class resources. In case you are just exploring python as a beginner, follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
