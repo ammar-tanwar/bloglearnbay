@@ -299,12 +299,15 @@ Course Professionals with 1+ years of expertise in the BFSI area are required. N
 
 * Bibliography:
 
-[https://360digitmg.com/applications-of-data-science-in-finance-and-insurance](https://360digitmg.com/applications-of-data-science-in-finance-and-insurance)
+<a href="https://360digitmg.com/applications-of-data-science-in-finance-and-insurance" target="_blank">https://360digitmg.com/applications-of-data-science-in-finance-and-insurance</a>
 
-[https://activewizards.com/blog/](https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/)
+<a href="https://activewizards.com/blog/" target="_blank">https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/</a>
 
-[https://www.investopedia.com/ask/answers/](https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp)
+<a href="https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp" target="_blank">https://www.investopedia.com/ask/answers/</a>
 
-[https://financialservices.gov.in/](https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies)
+<a href="https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies" target="_blank">https://financialservices.gov.in/</a>
 
-[https://www.payscale.com/research/IN/](https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary)
+<a href="https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary" target="_blank">https://www.payscale.com/research/IN/</a>
+
+
+

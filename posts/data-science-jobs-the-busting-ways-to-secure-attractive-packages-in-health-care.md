@@ -33,7 +33,7 @@ tableData:
 
 ## Introduction to Banking, Financial Services, and Insurance
 
-The BFSI  industry is witnessing a major transformation in the Indian economy, fueled by new FinTech competition, shifting business models, compliance demands,[ customer experience enhancement](https://www.learnbay.co/data-science-course/customer-experience-enhancement-in-banks/), and innovative technologies.
+The BFSI  industry is witnessing a major transformation in the Indian economy, fueled by new FinTech competition, shifting business models, compliance demands, <a href="https://www.learnbay.co/data-science-course/customer-experience-enhancement-in-banks/" target="_blank">customer experience enhancement</a>, and innovative technologies.
 
 However, in 2020, this scenario changed due to an unprecedented event that shook the entire world, the BFSI sector was heavily hit like any other industry resulting in layoffs and halting of employment. 
 
@@ -45,7 +45,7 @@ However, in 2020, this scenario changed due to an unprecedented event that shook
 
 Nevertheless, as the lockdown has been lifted and the world learned to live with this normalcy, the hiring trends in the BFSI sector are beginning to shine again. 
 
-A[ report](https://economictimes.indiatimes.com/jobs/banking-financial-services-need-1-6-million-skilled-workers-by-2022/articleshow/49168237.cms) by the National skill development corporation (NSDC) reveals that in India, Banking and financial services need 1.6 million skilled workforces by 2022. 
+A <a href="https://economictimes.indiatimes.com/jobs/banking-financial-services-need-1-6-million-skilled-workers-by-2022/articleshow/49168237.cms" target="_blank">report</a> by the National skill development corporation (NSDC) reveals that in India, Banking and financial services need 1.6 million skilled workforces by 2022. 
 
 Therefore, this can be the right time for you to get back on track and secure your career.
 
@@ -53,11 +53,15 @@ But what can be the best option for you? Data Science!
 
 In today’s world, Data science plays a major role in the BFSI sector. They help in analyzing data to improve the overall customer experience. 
 
-[Data science and AI](https://www.learnbay.co/data-science-course/data-science-certification-courses/) can be the finest option to land a high-paying job in the BFSI sector. 
+<a href="https://www.learnbay.co/data-science-course/data-science-certification-courses/" target="_blank">Data science and AI 
+</a> can be the finest option to land a high-paying job in the BFSI sector. 
+
 
 Throughout this blog, you’ll get an idea of how data science is influencing the financial industry and how it can help secure your career. Let us discuss data science in banking, finance, services, and insurance sector.
 
-Financial Services are in high competition now. Even entrepreneurs are targeting this industry. As per the Goldman Sachs insight, more than 4.7 trillion dollar revenue might get directed to such startups from the traditional financial MNCs (Source:[ Global Hitachi](https://global.hitachi-solutions.com/blog/top-10-challenges-banking-financial-organizations-can-overcome)).  Apart from that, the massive changes in regulatory compliance changes (such as the Dodd-Frank Act, ALLL of US ) are also making it the banking business harder to maintain profit. This is not the end the applications of _Robo-advisory and algorithmic trading_ are making The competition is becoming harder day by day.
+Financial Services are in high competition now. Even entrepreneurs are targeting this industry. As per the Goldman Sachs insight, more than 4.7 trillion dollar revenue might get directed to such startups from the traditional financial MNCs (Source: <a href="https://global.hitachi-solutions.com/blog/top-10-challenges-banking-financial-organizations-can-overcome" target="_blank">Global Hitachi</a>).
+
+Apart from that, the massive changes in regulatory compliance changes (such as the Dodd-Frank Act, ALLL of US ) are also making it the banking business harder to maintain profit. This is not the end the applications of _Robo-advisory and algorithmic trading_ are making The competition is becoming harder day by day.
 
 Indian Banks are also facing lots of stress due to several types of debt. In July 2021, SBI indicated highly increased stress from holding debt (due to the COVID-19 outbreak). In 2019-20, the Indian government opted for 10 public sector bank amalgamation to lower the number to 4. The reason behind this was to lower the debt risk and better financial operation. But, the situation is going in such a way that it might be possible, for private banks also face a similar amalgamation- this may lead to severe layoffs.
 

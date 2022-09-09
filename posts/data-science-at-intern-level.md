@@ -51,6 +51,6 @@ For the people of domain or education background different to it must find thems
 
 Useful information by a Data Scientist of sources where you can learn Data Science easy and efficiently:
 
-Podcasts:[ Data Skeptic](http://dataskeptic.com/podcast)
+Podcasts: <a href="http://dataskeptic.com/podcast" target="_blank">Data Skeptic</a>
 
-posts:[ Data Science Central ](https://www.datasciencecentral.com/)
+posts: <a href="https://www.datasciencecentral.com/" target="_blank">Data Science Central</a>

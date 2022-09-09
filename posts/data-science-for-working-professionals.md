@@ -74,6 +74,6 @@ Everything that you do and every effort that you put is only to learn Data Scien
 
 With the right approach and proper planning you can[ triumph in learning Data Science](https://medium.com/@datascience.learnbay/who-could-learn-data-science-4a1f7cb8c763?sk=5b417fe423bb32fa5607f25919f90b94) while maintaining a full time job. Stick to your plans and preparations, seek help from a good course, practice as much as you could and start involving yourself with the field. If you manage to everyday execute the plans you will surely reach your destination in ease.
 
-[Learnbay](https://www.learnbay.co/data-science-course/)<span style="text-decoration:underline;"> </span>could help you
-
-The data science course of Learnbay is specially designed for working professionals, the benefits provided in the course will help you balance your scheduling. Learnbay powered by IBM will help you throughout the journey of learning and experiencing data science.
+ <a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> <span style="text-decoration:underline;"> </span>could help you 
+ 
+ The data science course of Learnbay is specially designed for working professionals, the benefits provided in the course will help you balance your scheduling. Learnbay powered by IBM will help you throughout the journey of learning and experiencing data science.
