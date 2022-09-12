@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { getAllPostIds, getPostData, getSortedPostsData } from "../lib/posts";
 import Head from "next/head";
 import styles from "../styles/blog.module.css";
@@ -49,13 +50,13 @@ export default function Post({ postData, posts }) {
                 <div className={styles.contentT}>
                   {postData.table.map((table, i) => {
                     const removeSpecial = table.replace(
-                      /[&\/\\#,’!+()$~%.'":*?<>{}]/g,
+                      /[&\/\\#,+()$~%.'":*?<>{}]/g,
                       ""
                     );
 
                     const uMake = removeSpecial
                       .toLowerCase()
-                      .replace(" ", "-");
+                      .replace(/\s+/g, "-");
 
                     const url = `#${uMake}`;
                     return (
@@ -64,9 +65,9 @@ export default function Post({ postData, posts }) {
                           <span className={styles.number}>{i}</span>
                         </div>
                         <span>
-                          <a href={url}>
-                            <p>{table}</p>
-                          </a>
+                          <p>
+                            <Link href={url}>{table}</Link>
+                          </p>
                         </span>
                       </div>
                     );

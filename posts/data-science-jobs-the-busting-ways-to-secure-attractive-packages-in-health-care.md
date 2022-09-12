@@ -13,16 +13,9 @@ h1: "Banking, Finance, Services & Insurance Sector Know How to Achieve The Most 
 id: "banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package"
 tableData:
   [
-  Introduction to Banking, Financial Services, and Insurance,
-  Data Science in Banking, Finance, Services & Insurance Sector,
-  Is Data science beneficial to finance?,
-  Benefits of DS in Banking, Finance, Services & Insurance Domain,
-  Banking, Finance, Services, and Insurance Capstone Projects,
-  Scope of Banking, Financial Services, and Insurance in India,
-  Salary/Remuneration Package in Banking, Finance, Services, and Insurance,
-  Banking, Finance, Services, and Insurance Course,
-  Prerequisites for BFSI,
-
+  Possibilities and Challenges ,
+  Data Science Applications in the Financial Services Industry,
+  
 
   ]
 ---
@@ -65,9 +58,9 @@ Apart from that, the massive changes in regulatory compliance changes (such as t
 
 Indian Banks are also facing lots of stress due to several types of debt. In July 2021, SBI indicated highly increased stress from holding debt (due to the COVID-19 outbreak). In 2019-20, the Indian government opted for 10 public sector bank amalgamation to lower the number to 4. The reason behind this was to lower the debt risk and better financial operation. But, the situation is going in such a way that it might be possible, for private banks also face a similar amalgamation- this may lead to severe layoffs.
 
-_Until now,_ _whatever disasters financial companies have faced everything got saved by proper implementation of data analytics and AI innovation._ J.P Morgan, Accenture, Goldman-Sachs are the lightning examples in such cases. 
+Until now,  whatever disasters financial companies have faced everything got saved by proper implementation of data analytics and AI innovation.  J.P Morgan, Accenture, Goldman-Sachs are the lightning examples in such cases. 
 
-_But the risk of layoffs in the BFSI sector can be easily overcome by adapting the DS and Ai skills- The sector is in massive need of such talents._
+_But the risk of layoffs in the BFSI sector can be easily overcome by adapting the DS and Ai skills- The sector is in massive need of such talents.
 
 A lot of people who work for IT companies, BPO companies, or technical and professional service businesses use this word. It stands for “Banking, Financial Services, and Insurance.” They do data processing or test software applications or write software for this kind of business. This is because people have more money, the banking, financial services, and insurance (BFSI) industry in India are expected to develop dramatically. In the last 15 years, the BFSI sector has undergone a lot of changes, and it will be a big part of India’s economic development based on inclusive growth. 
 
@@ -80,7 +73,7 @@ A lot of people who work for IT companies, BPO companies, or technical and profe
 Source: By the Author
 
 
-### Possibilities and Challenges: 
+### Possibilities and Challenges 
 
 
 
@@ -128,7 +121,7 @@ Client lifetime value (CLV) is a prediction of how much value a company will get
 Segmenting people into groups based on how they act or look is called customer segmentation. It’s important for data scientists to know how much each customer group is worth. Some of the tools they use to figure this out include clustering, decision trees, logistic regression, and more. These tools help them figure out which groups have the most and least value. Making groups of customers makes it easier to allocate marketing resources and make the point-based approach, as well as selling chances for each group of customers, the best they can be for each group customers. No one needs to see this. Remember that[ customer segmentation](https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/money-banking-and-investment/banking) is intended to enhance customer service and aid in customer loyalty and retention, which is critical in the banking industry.
 
 
-### Data Science Applications in the Financial Services Industry:
+### Data Science Applications in the Financial Services Industry
 
 
 
@@ -188,7 +181,7 @@ BFSI will assist you:
 The people who work in data science are very important. They can gather, summarize, and predict fraudulent activity in customer databases, which makes them very important people. Before data science and big data, it was impossible to look at customer records and come up with reliable data. Artificial intelligence (AI) and[ Machine Learning](https://www.learnbay.co/data-science-course/necessity-of-machine-learning-in-retail/) may assist banks in combating fraud.
 
 
-## Is Data science beneficial to finance?
+## Is Data science beneficial to finance?   
 
 People in the finance industry use data science a lot to manage risks and make decisions. This is called “data science.” In the end, businesses that deal with money make more money when people do more research. Businesses also use business intelligence tools to look at data trends.
 

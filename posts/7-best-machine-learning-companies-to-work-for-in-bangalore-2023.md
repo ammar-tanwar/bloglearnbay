@@ -34,7 +34,7 @@ Machine Learning connects software engineers and data science. It works together
 <a href="https://www.indeed.com/lead/top-10-ai-jobs-salaries-cities" target="_blank">Indeed</a>
 stated that job postings for **Machine Learning and Artificial Intelligence engineer** increased by 30%. But candidates using AI and ML for job search went down by 15%. AI and ML have revolutionized the digital ecosystem in the past two decades. Machine learning originates from a computer algorithm. It develops a program that can access data and learn by itself. Many organizations are recruiting professionals. Who can fit in with **Artificial Intelligence and Machine Learning engineering jobs?** Even fresher can receive the best job as machine learning engineers. We have a list of the **best machine learning companies to work for in Bangalore in 2022.**
 
-## Here are the 7 best companies for a machine learning engineer to work for in Bangalore :
+## Here are the 7 best companies for a machine learning engineer to work for in Bangalore
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7-machine-2.jpg" style="width:100%" class="img"/></img>
 

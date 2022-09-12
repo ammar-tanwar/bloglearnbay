@@ -14,7 +14,7 @@ id: "ace-the-toughest-data-science-interview-with-these-stunning-tricks"
 tableData:
   [
 
-     Ace The Toughest Data Science Interview With These Stunning Tricks, Ace The Toughest Data Science Interview With These Stunning Tricks, Practice coding, Spare more in analytic and logical thinking, Hone your product service sense, Brush up your communication skills, problem-solving abilities, How to deal with Machine Learning statistics nd modeling questions?, Concentrate on theory and implement it, Behavioral questions, Select stories to refine, Divide the story in the STAR framework, General data science interview preparation tips,  Long-term data science interview preparation,   Ace The Toughest Data Science Interview With These Stunning Tricks, Practice coding, Spare more in analytic and logical thinking, Hone your product/service sense, Brush up your communication skills, problem-solving abilities, How to deal with Machine Learning statistics nd modeling questions?, Concentrate on theory and implement it, Behavioral questions, Select stories to refine, Divide the story in the STAR framework, General data science interview preparation tips,  Long-term data science interview preparation, Conclusion,
+     Ace The Toughest Data Science Interview With These Stunning Tricks, Practice coding, Spare more in analytic and logical thinking, Hone your product/service sense, Brush up your communication skills, problem-solving abilities, Concentrate on theory and implement it, Behavioral questions, Select stories to refine, Divide the story in the STAR framework, General data science interview preparation tips,  Long-term data science interview preparation, How To Prepare for a short-term data science interview?, Conclusion,
   ]
 ---
 
@@ -124,11 +124,11 @@ These are some of the behavioral questions that are typically asked during a dat
 
 The data science behavioral questions are divided into parts.
 
-### -  Select stories to refine    
+### Select stories to refine    
 
 You have to recall your experience and recollect 4-6 stories that can demonstrate both the conflict and the resolution. You must have your own story so you can answer behavioral questions. If you would explain these stories in a hypothetical situation like you would have done if this happened, then it would not impact the recruiter. So this would make them feel that you do not have experience because you have not explained a real story of your work to the questions asked.
 
-### -  Divide the story in the STAR framework
+### Divide the story in the STAR framework
 
 **S- Situation**
 
@@ -152,7 +152,7 @@ What are the best ways to prepare for a data science interview? One of the key o
 
 How to prepare for a long-term data science interview that will take place in two to three months and a short-term interview that will take place within 4 to 5 days?
 
-### Long-term data science interview preparation:      
+### Long-term data science interview preparation     
 
 You must separate the questions, such as pre-questions and post-questions, and some videos and content to study in between. Then attempt the pre-section and see how you do and your shortcomings, and make some notes. The goal is to note where you're weak, fast, or slow so you can figure out which parts you need to work on more.
 

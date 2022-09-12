@@ -4,7 +4,7 @@ desc: "Everything is undergoing digital transformation today. Our present decade
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg"
 date: "September 12, 2022"
-tag: [ Full Stack ]
+tag: [ Full StackN ]
 author: "Milan"
 category: "Full Stack"
 position: "Editor"

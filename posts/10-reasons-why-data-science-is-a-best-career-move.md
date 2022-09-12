@@ -13,14 +13,14 @@ h1: "10 Reasons Why Data Science is A Best Career Move"
 id: "10-reasons-why-data-science-is-a-best-career-move"
 tableData:
   [ 
-    Without wavering 'Data Science is the new corporate currency',
+    
   ]
 ---
 
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10-reasons-why-data-science-is-a-best-career-move-1.png" style="width:100%" class="img"/></img>
 
-# Without wavering, 'Data Science is the new corporate currency'
+# Without wavering, 'Data Science is the new corporate currency
 
 The field of Data Science is booming because it is validating to be viable not only over businesses but also over divisions inside the businesses as well.
 
