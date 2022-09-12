@@ -14,6 +14,8 @@ export default function CategoryBlog({ categoryPosts }) {
   return (
     <>
       <Head>
+      <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
+
         <title>{categoryPosts.tag}</title>
       </Head>
       <section className={styles.blogHead}>

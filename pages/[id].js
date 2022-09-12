@@ -11,6 +11,8 @@ export default function Post({ postData, posts }) {
     <>
       <section className={styles.MainS}>
         <Head>
+       <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
+
           <title>{postData.title}</title>
           <meta
             name="description"
