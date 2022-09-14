@@ -33,7 +33,7 @@ Where to learn SLR?,
 
 No matter what ML course you have chosen, the first learning goal of data science statistics modules will be the LR (linear regression), better to say, Simple Linear Regression in Machine Learning . In addition, we call this type of widely useful ML algorithm with an abbreviation of SLR.
 
-In this blog, we’ll evaluate the foundational approach of Simple Linear Regression in Machine Learning in[ ML modelling](https://www.learnbay.co/data-science-course/blog-post/model-vs-algorithm-in-ml/).
+In this blog, we’ll evaluate the foundational approach of Simple Linear Regression in Machine Learning in[ ML modelling](https://blog.learnbay.co/model-vs-algorithm-in-ml).
 
 
 ## What is SLR in Machine Learning?
@@ -94,7 +94,7 @@ To make an SLR work to find out the solution to your identified problem, you nee
 
 Step#1: Visualise the inter-connections between the identified factors through graphical outcomes. The standard type of graph used in SLR is a scatter plot.
 
-Step#2: Utilise the[ OLS](https://en.wikipedia.org/wiki/Ordinary_least_squares#:~:text=In%20statistics%2C%20ordinary%20least%20squares,in%20a%20linear%20regression%20model.) technique to calculate the regression parameters and defining the proper execution of the relationship between the variables.
+Step#2: Utilise the[OLS](https://en.wikipedia.org/wiki/Ordinary_least_squares#:~:text=In%20statistics%2C%20ordinary%20least%20squares,in%20a%20linear%20regression%20model.) technique to calculate the regression parameters and defining the proper execution of the relationship between the variables.
 
 Step#3:Calculate error that is standard of regression estimation.
 

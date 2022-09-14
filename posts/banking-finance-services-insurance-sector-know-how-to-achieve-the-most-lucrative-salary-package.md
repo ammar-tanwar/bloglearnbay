@@ -23,7 +23,7 @@ tableData:
 
 ## Introduction to Banking Financial Services and Insurance
 
-The BFSI  industry is witnessing a major transformation in the Indian economy, fueled by new FinTech competition, shifting business models, compliance demands,[ customer experience enhancement](https://www.learnbay.co/data-science-course/customer-experience-enhancement-in-banks/), and innovative technologies.
+The BFSI  industry is witnessing a major transformation in the Indian economy, fueled by new FinTech competition, shifting business models, compliance demands,[ customer experience enhancement](https://blog.learnbay.co/customer-experience-enhancement-in-banks/), and innovative technologies.
 
 However, in 2020, this scenario changed due to an unprecedented event that shook the entire world, the BFSI sector was heavily hit like any other industry resulting in layoffs and halting of employment. 
 
@@ -41,7 +41,7 @@ But what can be the best option for you? Data Science!
 
 In today’s world, Data science plays a major role in the BFSI sector. They help in analyzing data to improve the overall customer experience. 
 
-[Data science and AI](https://www.learnbay.co/data-science-course/data-science-certification-courses/) can be the finest option to land a high-paying job in the BFSI sector. 
+[Data science and AI](https://blog.learnbay.co/data-science-certification-courses/) can be the finest option to land a high-paying job in the BFSI sector. 
 
 Throughout this blog, you’ll get an idea of how data science is influencing the financial industry and how it can help secure your career. Let us discuss data science in banking, finance, services, and insurance sector.
 
@@ -99,7 +99,7 @@ Because fraud can happen in a lot of different places, it’s important to find 
 
 * Lifetime value prediction:
 
-Client lifetime value (CLV) is a prediction of how much value a company will get from a customer over time. This is because these numbers help build and keep good relationships with specific clients, which helps the company make even more money and grow even faster than before. Banks are having a hard time getting and keeping customers who are worth their while. In order to spend money wisely, banks must now have a 360-degree view of each customer. This is because the competition is getting tougher. In this case, the[ data science field](https://www.learnbay.co/data-science-course/evolution-of-data-science-in-india/) comes into play. Data about how many customers are added and how long they stay must be looked at first. Banking products and services that people use, how much money they make and where it comes from, and how many customers come from certain places all play a role in how people use banking services.
+Client lifetime value (CLV) is a prediction of how much value a company will get from a customer over time. This is because these numbers help build and keep good relationships with specific clients, which helps the company make even more money and grow even faster than before. Banks are having a hard time getting and keeping customers who are worth their while. In order to spend money wisely, banks must now have a 360-degree view of each customer. This is because the competition is getting tougher. In this case, the[ data science field](https://blog.learnbay.co/evolution-of-data-science-in-india/) comes into play. Data about how many customers are added and how long they stay must be looked at first. Banking products and services that people use, how much money they make and where it comes from, and how many customers come from certain places all play a role in how people use banking services.
 
 
 
@@ -149,7 +149,7 @@ Wireless “telematics” devices could be used to send real-time driving data t
 
 * Personalized marketing:
 
-Personalized marketing is not an anomaly in the insurance sector. Insurers must ensure a digital connection with their clients to satisfy these needs.[ Data science jobs](https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/) and advanced analytics use a lot of demographic data, preferences, interactions, behavior, attitude, lifestyle information, interests, hobbies, and other things to make insurance more personalized and relevant for each person. This makes insurance more personalized and relevant for each person.
+Personalized marketing is not an anomaly in the insurance sector. Insurers must ensure a digital connection with their clients to satisfy these needs.[ Data science jobs](https://blog.learnbay.co/different-jobs-opportunities-of-data-science/) and advanced analytics use a lot of demographic data, preferences, interactions, behavior, attitude, lifestyle information, interests, hobbies, and other things to make insurance more personalized and relevant for each person. This makes insurance more personalized and relevant for each person.
 
 
 ### Banking, Finance, Services & Insurance Domain Modules
@@ -165,7 +165,7 @@ BFSI will assist you:
 
 ### What is the Data Science team’s role in the banking business?
 
-The people who work in data science are very important. They can gather, summarize, and predict fraudulent activity in customer databases, which makes them very important people. Before data science and big data, it was impossible to look at customer records and come up with reliable data. Artificial intelligence (AI) and[ Machine Learning](https://www.learnbay.co/data-science-course/necessity-of-machine-learning-in-retail/) may assist banks in combating fraud.
+The people who work in data science are very important. They can gather, summarize, and predict fraudulent activity in customer databases, which makes them very important people. Before data science and big data, it was impossible to look at customer records and come up with reliable data. Artificial intelligence (AI) and[ Machine Learning](https://blog.learnbay.co/necessity-of-machine-learning-in-retail/) may assist banks in combating fraud.
 
 
 ## Is Data science beneficial to finance?
@@ -187,7 +187,7 @@ People in the finance industry use data science a lot to manage risks and make d
 
 ## Benefits of DS in Banking, Finance, Services & Insurance Domain
 
-The most important benefits that[ data science certifications](https://www.learnbay.co/data-science-course/data-science-ai-for-managers/)<span style="text-decoration:underline;"> </span>have had for the BFSI business as a whole should be talked about. These small changes have had a big impact on people’s lives, especially how they work.
+The most important benefits that[ data science certifications](https://blog.learnbay.co/data-science-ai-for-managers/)<span style="text-decoration:underline;"> </span>have had for the BFSI business as a whole should be talked about. These small changes have had a big impact on people’s lives, especially how they work.
 
 
 
@@ -233,7 +233,7 @@ NSDC did a study and found that India is one of the few countries that have a st
 
 
 * Partnerships between payment banks and fintech firms.
-* [Artificial Intelligence](https://www.learnbay.co/data-science-course/artificial-intelligence-in-e-commerce/) and Cognitive Analytics
+* [Artificial Intelligence](https://blog.learnbay.co/artificial-intelligence-in-e-commerce/) and Cognitive Analytics
 * Blockchain.
 * Automation of Robotic Processes.
 * Cybersecurity is an important topic.
@@ -288,7 +288,7 @@ Those with one year or more of experience can expect to earn 4,62,321 per year. 
 
 ## Banking, Finance, Services, and Insurance Course:
 
-You should enroll at[ Learnbay](https://www.learnbay.co/data-science-course/) institute, if you want to pursue a profession in the Banking, Finance, and Service Insurance area. It gives you a certificate that is recognized around the world. This will help you get more attention and make you stand out from the rest of the people. You’ll also be able to get live interactive sessions so that you can ask questions. Learnbay’s BFSI course includes Project Life Cycle Expertise, as well as two capstone projects and the opportunity to work on real-world projects. By visiting the Learnbay institute, you can learn more about the domain. Learnbay provides one of the greatest data science courses in Bangalore, and I definitely suggest it.
+You should enroll at[ Learnbay](https://blog.learnbay.co/) institute, if you want to pursue a profession in the Banking, Finance, and Service Insurance area. It gives you a certificate that is recognized around the world. This will help you get more attention and make you stand out from the rest of the people. You’ll also be able to get live interactive sessions so that you can ask questions. Learnbay’s BFSI course includes Project Life Cycle Expertise, as well as two capstone projects and the opportunity to work on real-world projects. By visiting the Learnbay institute, you can learn more about the domain. Learnbay provides one of the greatest data science courses in Bangalore, and I definitely suggest it.
 
 
 # Conclusion

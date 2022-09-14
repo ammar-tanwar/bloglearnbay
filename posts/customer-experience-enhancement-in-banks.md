@@ -47,4 +47,4 @@ A successful Big Data strategy must be coordinated across the enterprise. It’s
 
 Big Data shows so much promise for banks willing to consider it strategically. Those that do will be able to understand Customer Experience Enhancement more intimately and act in real-time to meet their stated and perceived needs. On the efficiency side, they will harmonize channels by defining multichannel journeys that make sense to the user and eliminate redundancies. And overall, banks that create Big Data dominance will influence customer behaviour across channels to make interactions more effective and efficient, gaining loyalty and financial strength in the process.
 
-Visit <a href="https://www.learnbay.co/data-science-course/data-science-course-in-bangalore/" target="_blank">here</a>.
+Visit <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">here</a>.

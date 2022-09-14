@@ -72,7 +72,7 @@ Web developmen3D CAD applicatioMachine learninScriptinAnalysis datProcessing of 
 ## [Features of Python](https://www.geeksforgeeks.org/python-features/)
 
 It’s simple to understand, read, and write. 
-Syntaxes used in python programming are more like natural language/ human language (like English). For example, to print ‘Learnbay- The Data Science & AI Institute, ‘we have to just type print(“[Learnbay](https://www.learnbay.co/data-science-course/)– The Data Science & AI Institute”) in python editor or any IDLESmart in memory management 
+Syntaxes used in python programming are more like natural language/ human language (like English). For example, to print ‘Learnbay- The Data Science & AI Institute, ‘we have to just type print(“<a herf="https://www.learnbay.co/data-science-course/" target="_blank"> Learnbay </a> – The Data Science & AI Institute”) in python editor or any IDLESmart in memory management 
 Python offers you a stress-free programming experience concerning memory. This programming software comes with efficient auto-memory management features that periodically clean the memory by itselfFree to use and open source 
 No purchasing cost or subscription cost is required for downloading and using Python.you can use Python at zero cost for a lifetime. And due to its open-source licensing features, you can share this software, among others. Even, can modify the source code as per your project requirementCross-platform performance 
 Python has compatibility with most operating systems like Windows, Linux, Mac, Unix, etc. 

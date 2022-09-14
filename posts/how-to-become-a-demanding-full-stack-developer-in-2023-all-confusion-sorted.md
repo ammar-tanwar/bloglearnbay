@@ -4,7 +4,7 @@ desc: "Everything is undergoing digital transformation today. Our present decade
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg"
 date: "September 12, 2022"
-tag: [ Full StackN ]
+tag: [ Full Stack ]
 author: "Milan"
 category: "Full Stack"
 position: "Editor"
@@ -50,7 +50,7 @@ The app or the website that a user interacts with is the front end. The operatin
 
 - **Server operation, etc.**
 
-The full-stack Developer is an expert in programming languages like **Javascript, CSS, and HTML** used in the front end and with languages like <a href="https://www.learnbay.co/data-science-course/introduction-to-python-programming/" target="_blank">Python</a> and Ruby used for backend development.
+The full-stack Developer is an expert in programming languages like **Javascript, CSS, and HTML** used in the front end and with languages like <a href="https://blog.learnbay.co/introduction-to-python-programming/" target="_blank">Python</a> and Ruby used for backend development.
 
 **It saves time and cost for a firm if a full-stack developer can alone Handle front and backend development.** 
 

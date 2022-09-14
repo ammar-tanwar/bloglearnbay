@@ -13,8 +13,7 @@ h1: "Banking, Finance, Services & Insurance Sector Know How to Achieve The Most 
 id: "banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package"
 tableData:
   [
-  Possibilities and Challenges ,
-  Data Science Applications in the Financial Services Industry,
+  Possibilities and Challenges, Data Science Applications in the Financial Services Industry,  Is Data science beneficial to finance?, Prerequisites for BFSI,
   
 
   ]
@@ -121,8 +120,7 @@ Client lifetime value (CLV) is a prediction of how much value a company will get
 Segmenting people into groups based on how they act or look is called customer segmentation. It’s important for data scientists to know how much each customer group is worth. Some of the tools they use to figure this out include clustering, decision trees, logistic regression, and more. These tools help them figure out which groups have the most and least value. Making groups of customers makes it easier to allocate marketing resources and make the point-based approach, as well as selling chances for each group of customers, the best they can be for each group customers. No one needs to see this. Remember that[ customer segmentation](https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/money-banking-and-investment/banking) is intended to enhance customer service and aid in customer loyalty and retention, which is critical in the banking industry.
 
 
-### Data Science Applications in the Financial Services Industry
-
+### Data Science Applications in the Financial Services Industry   
 
 
 * Algorithmic trading:
@@ -176,12 +174,13 @@ BFSI will assist you:
 * A better leader can learn more about data and make smarter decisions about who to target, what to sell, and what to do in the market. This can help both you and your team.
 
 
-### What is the Data Science team’s role in the banking business?
+### What is the Data Science team’s role in the banking business?      
+
 
 The people who work in data science are very important. They can gather, summarize, and predict fraudulent activity in customer databases, which makes them very important people. Before data science and big data, it was impossible to look at customer records and come up with reliable data. Artificial intelligence (AI) and[ Machine Learning](https://www.learnbay.co/data-science-course/necessity-of-machine-learning-in-retail/) may assist banks in combating fraud.
 
 
-## Is Data science beneficial to finance?   
+## Is Data science beneficial to finance?       
 
 People in the finance industry use data science a lot to manage risks and make decisions. This is called “data science.” In the end, businesses that deal with money make more money when people do more research. Businesses also use business intelligence tools to look at data trends.
 
@@ -301,10 +300,11 @@ Source: CollegeDunia
 
 ## Banking, Finance, Services, and Insurance Course:
 
-You should enroll at[ Learnbay](https://www.learnbay.co/data-science-course/) institute, if you want to pursue a profession in the Banking, Finance, and Service Insurance area. It gives you a certificate that is recognized around the world. This will help you get more attention and make you stand out from the rest of the people. You’ll also be able to get live interactive sessions so that you can ask questions. Learnbay’s BFSI course includes Project Life Cycle Expertise, as well as two capstone projects and the opportunity to work on real-world projects. By visiting the Learnbay institute, you can learn more about the domain. Learnbay provides one of the greatest data science courses in Bangalore, and I definitely suggest it.
+You should enroll at <a href="https://www.learnbay.co/data-science-course-training-in-https://blog.learnbay.co/" target="_blank">Learnbay</a>
+ institute, if you want to pursue a profession in the Banking, Finance, and Service Insurance area. It gives you a certificate that is recognized around the world. This will help you get more attention and make you stand out from the rest of the people. You’ll also be able to get live interactive sessions so that you can ask questions. Learnbay’s BFSI course includes Project Life Cycle Expertise, as well as two capstone projects and the opportunity to work on real-world projects. By visiting the Learnbay institute, you can learn more about the domain. Learnbay provides one of the greatest data science courses in Bangalore, and I definitely suggest it.
 
 
-## Prerequisites for BFSI:
+## Prerequisites for BFSI   
 
 Course Professionals with 1+ years of expertise in the BFSI area are required. Non-BFSI professionals who want to learn about the most up-to-date technology, data science, artificial intelligence, data analyst, and business analyst methodologies that drive strategic development can learn through Learnbay’s <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
 
@@ -312,12 +312,13 @@ Course Professionals with 1+ years of expertise in the BFSI area are required. N
 
 * Bibliography:
 
-[https://360digitmg.com/applications-of-data-science-in-finance-and-insurance](https://360digitmg.com/applications-of-data-science-in-finance-and-insurance)
 
-[https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/](https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/)
+<a href="https://360digitmg.com/applications-of-data-science-in-finance-and-insurance" target="_blnak">https://360digitmg.com/applications-of-data-science-in-finance-and-insurance</a>
 
-[https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp](https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp)
+<a href="https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/" target="_blnak">https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/</a>
 
-[https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies](https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies)
+<a href="https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/" target="_blnak">https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp</a>
 
-[https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary](https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary)
+<a href="https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies" target="_blnak">https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies</a>
+
+<a href="https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary" target="_blnak">https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary</a>

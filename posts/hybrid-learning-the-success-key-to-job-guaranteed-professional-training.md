@@ -60,11 +60,8 @@ Getting something beyond expectation might also be harmful. The same applied to 
 
 ### 2. Affordability   
 
-##
-
 The internet has made learning very feasible and accessible. As it does not require any traveling, that cuts down the experience the same for about 60% of sessions. In fact, if you compare the course fees with offline university courses, it seems cheaper with a similar kind of practical experience. Hybrid online courses not only provide a lot of knowledge of the natural world but even offer **certificates of completion** and projects so you can stand above all.
 
-##
 
 ### 3. Accessibility   
 

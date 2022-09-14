@@ -30,11 +30,11 @@ Conclusion,
 
 Today’s retail data is exploding at a tremendous speed. Retailers are relying on data analysis, to turn insights into profitable margins by developing data-driven plans. Owing to the growing volume of data, data scientists are higher in demand.
 
-Some employees working in the e-commerce and retail industries are quite dissatisfied with their jobs. And wish to shift their profession without changing their domain. If you’re one of them, then you’re in the right place. If you love working with data and have some technical abilities, then[ Data science](https://www.learnbay.co/data-science-course/different-job-roles-after-a-data-science-course/)<span style="text-decoration:underline;"> </span>can be the ideal choice for your career. 
+Some employees working in the e-commerce and retail industries are quite dissatisfied with their jobs. And wish to shift their profession without changing their domain. If you’re one of them, then you’re in the right place. If you love working with data and have some technical abilities, then <a href=" https://blog.learnbay.co/different-job-roles-after-a-data-science-course" target="_blank">Data science</a> <span style="text-decoration:underline;"> </span>can be the ideal choice for your career. 
 
-In this article, we will look at the impact of[ Data Science and Artificial Intelligence](https://www.learnbay.co/data-science-course/data-science-certification-courses/) in the retail and e-commerce industry, the challenges that come while implementing it, career scopes, and how you can get started as a data science professional in the same. 
+In this article, we will look at the impact of  <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">Data Science and Artificial Intelligence</a> in the retail and e-commerce industry, the challenges that come while implementing it, career scopes, and how you can get started as a data science professional in the same. 
 
-_People are still changing how they shop in early 2021, according to a survey from EY, which has been polling customers since the epidemic started. That’s about 80% of the people ([Digital Library](http://dl.lib.uom.lk/handle/123/16866))._ 60 percent of people no longer go to stores in person, and 43 percent are shopping more online for things they would have bought in stores before the pandemic. In Covid-19, many people don’t care where they are as long as they can connect to the web. _People spent about $10 billion on e-commerce investments, acquisitions, and partnerships from May to July 2020 (by Kathy Gramling). This is about how much money they spent._ A lot of money was spent on logistics to make last-mile options like ghost kitchens and shadow storefronts possible. There was also a lot of money spent on AI and blockchain to make more things. Let us discuss data science in e-commerce, retail, and supply chain domain.
+_People are still changing how they shop in early 2021, according to a survey from EY, which has been polling customers since the epidemic started. That’s about 80% of the people <a href="http://dl.lib.uom.lk/handle/123/16866" target="_blank">Digital Library</a>. 60 percent of people no longer go to stores in person, and 43 percent are shopping more online for things they would have bought in stores before the pandemic. In Covid-19, many people don’t care where they are as long as they can connect to the web. _People spent about $10 billion on e-commerce investments, acquisitions, and partnerships from May to July 2020 (by Kathy Gramling). This is about how much money they spent._ A lot of money was spent on logistics to make last-mile options like ghost kitchens and shadow storefronts possible. There was also a lot of money spent on AI and blockchain to make more things. Let us discuss data science in e-commerce, retail, and supply chain domain.
 
 _But do you know even after such massive demand so many retail and e-comm employees are losing their jobs?_
 
@@ -54,7 +54,7 @@ _On the other hand, there is also an intelligent community of professionals to r
 
 Image by Author
 
-The final mile is crucial to[ e-commerce](https://en.wikipedia.org/wiki/E-commerce) success: _21% said they would not forgive stores and brands if service was delayed because of Covid-19._ It’s getting harder and harder for businesses to get last-mile delivery capacity because more people are shopping online. After Black Friday in 2020, many of us had to wait weeks for things to show up on our doorsteps. Delivery is now an important part of the whole experience. As a fulfillment center, the shop is used a lot. _According to the Index, 37% of US customers plan to purchase online and pick up in-store more often in the future (online library)._ While using a shop as a fulfillment center may be a good idea, it needs systems and business divisions to work together to make the promise come true. Retailers’ ability to create a consistent experience must expand as services grow.
+The final mile is crucial to <a href="https://en.wikipedia.org/wiki/E-commerce" target="_blank">e-commerce</a> success: _21% said they would not forgive stores and brands if service was delayed because of Covid-19._ It’s getting harder and harder for businesses to get last-mile delivery capacity because more people are shopping online. After Black Friday in 2020, many of us had to wait weeks for things to show up on our doorsteps. Delivery is now an important part of the whole experience. As a fulfillment center, the shop is used a lot. _According to the Index, 37% of US customers plan to purchase online and pick up in-store more often in the future (online library)._ While using a shop as a fulfillment center may be a good idea, it needs systems and business divisions to work together to make the promise come true. Retailers’ ability to create a consistent experience must expand as services grow.
 
 Retailers need to be ready to build better, deeper relationships with their customers, both online and in-person, no matter how people act.
 
@@ -95,7 +95,7 @@ Data science is changing how people shop and how businesses order and ship thing
 
 ### A Data Scientist’s Role in the Retail Industry
 
-Every year, the number, diversity, and usefulness of retail data increase dramatically. When retailers make decisions based on data, they use data science to make money. This is how businesses are using[ data science in retail](https://www.learnbay.co/data-science-course/necessity-of-machine-learning-in-retail/) to stay competitive, improve customer service, and make more money and sales. And, as technology advances, data science in the retail business will have much more to give!
+Every year, the number, diversity, and usefulness of retail data increase dramatically. When retailers make decisions based on data, they use data science to make money. This is how businesses are using <a href="https://blog.learnbay.co/necessity-of-machine-learning-in-retail" target="_blank">data science in retail</a> to stay competitive, improve customer service, and make more money and sales. And, as technology advances, data science in the retail business will have much more to give!
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce3.png"   class="img"  /></img>
 
@@ -136,13 +136,13 @@ This means that more and more businesses see the benefits of using data science 
 
 * Overall, this is a great time for supply chain experts and data scientists to work on important academic research and come up with ideas and solutions that will have a long-term impact on the world.
 * Employers are looking for skilled data scientists who can apply their knowledge to the problems their companies are having with their supply chains, as well as to academic research in the field.
-* One of the best ways to get the skills you need to become a data scientist or start a new job is to get more education, like[ Learnbay’s data science course](https://www.learnbay.co/data-science-course/).
+* One of the best ways to get the skills you need to become a data scientist or start a new job is to get more education, like <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">Learnbay’s data science course</a>.
 * Students learn how to process, model, evaluate, and draw conclusions from data through these programs, which will help them when they start their businesses in the future.
 
 
 ### What do Supply Chain Data Scientists get paid?
 
-People who work in[ Supply Chain data science](https://www.payscale.com/research/US/Job=Data_Scientist/Salary/749e089b/Supply-Chain) make on average 14.3 lakhs a year, according to the 56 profiles. They make between 5.0 lakhs and 28.2 lakhs per year. Those in the top 10% earn more than £18.4 lakhs a year.
+People who work in <a href="https://www.payscale.com/research/US/Job=Data_Scientist/Salary/749e089b/Supply-Chain" target="_blank">Supply Chain data science</a>make on average 14.3 lakhs a year, according to the 56 profiles. They make between 5.0 lakhs and 28.2 lakhs per year. Those in the top 10% earn more than £18.4 lakhs a year.
 
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce4.png"   class="img"  /></img>
@@ -150,7 +150,7 @@ People who work in[ Supply Chain data science](https://www.payscale.com/research
 
 Why are Data Scientists getting paid at a higher level? 
 
- Image Source:[ Supply Chain 24/7](https://www.supplychain247.com/article/why_supply_chain_data_scientists_get_paid_so_much)
+ Image Source: <a href="https://www.supplychain247.com/article/why_supply_chain_data_scientists_get_paid_so_much" target="_blank">Supply Chain 24/7</a>
 
 
 ## Packages and Companies:
@@ -180,7 +180,7 @@ Source: Linkedin
 * A bachelor’s degree in engineering, computer science, applied math, statistics, or a quantitative field is needed to work in this field. It is better if you have a master’s or certified degree than not.
 * A minimum of three to five years of experience using Data Science, Machine Learning, or AI to solve Supply Chain or Manufacturing problems is needed.
 * Supply Chain, Manufacturing, Warehousing, Distribution, and Logistics domain knowledge and familiarity.
-* Python experience creating and implementing[ Machine Learning and artificial intelligence algorithms](https://www.learnbay.co/data-science-course/model-vs-algorithm-in-ml/).
+* Python experience creating and implementing <a href="https://blog.learnbay.co/model-vs-algorithm-in-ml" target="_blank">Machine Learning and artificial intelligence algorithms</a>.
 * Common statistical and Data Science packages and libraries as well as optimization tools are well known to him.
 * Advanced statistical methods and ideas are needed to do this (regression, decision trees, ensemble models, time series, forecasting, neural networks, network routing, linear programming, and optimization).
 * Expertise in SQL and experience with relational and non-relational databases, SQL query writing tools, and SQL debugging skills are needed.
@@ -225,7 +225,7 @@ So, let’s have a look at what Learnbay’s Supply Chain domain has to offer.
 * There are many examples of the RSCA process. Sentiment Analysis is one of them. Google Analytics is another. Natural Language Processing, Recommendation Systems, Deep Learning Concepts, and Text Analysis are also examples. Operations Research is used in supply chain management in a separate class.
 * The Supply Chain Operation Reference (SCOR) framework also has models and metrics like ROE, ROA, APT, INVT, and PPET. These models and metrics are part of the framework, as well.
 * Simulators and time series forecasting are also important in supply chain management, and the people who come to the meeting will like that.
-* The purpose of this[ E-Commerce, Retail, and Supply Chain curriculum](https://drive.google.com/file/d/1aLEC-8GRyOBFMsvlT_Z-o9_WagAbo20G/view) is to introduce participants to the fundamentals, components, business models, and other aspects of running an electronic commerce firm.
+* The purpose of this <a href="https://drive.google.com/file/d/1aLEC-8GRyOBFMsvlT_Z-o9_WagAbo20G/view" target="_blank">E-Commerce, Retail, and Supply Chain curriculum </a> is to introduce participants to the fundamentals, components, business models, and other aspects of running an electronic commerce firm.
 * You will have a better grasp of the issue than anybody else in your firm if you have domain expertise. 
 * Learn the finest practices in your respective professions and become well-versed in them. Be mindful of potential problems that you and your firm may face in the future. Most importantly, a well-known Domain Specialist increases the market value of a firm.
 
@@ -257,7 +257,7 @@ So, let’s have a look at what Learnbay’s Supply Chain domain has to offer.
 
 Dataset for eCommerce Customers
 
-Image Source:[ Kaggle Dataset](https://www.kaggle.com/shashwatwork/ecommerce-data)
+Image Source: <a href="https://www.kaggle.com/shashwatwork/ecommerce-data" target="_blank">Kaggle Dataset</a>
 
 
 ## Supply Chain Domain
@@ -271,7 +271,7 @@ Image Source:[ Kaggle Dataset](https://www.kaggle.com/shashwatwork/ecommerce-dat
 
 ## Conclusion:
 
-Now that we’re done with the article on data science in e-commerce, retail, and supply chain domain, I hope it has helped you understand how important it is to know your field. Another point we wanted to emphasize was the possibility of this in the future, as well as in the present. Take a look at the[ Data Science & AI Certification| Domain Specialization For Professionals course](https://www.learnbay.co/data-science-course/data-science-certification-courses/) to learn more about the Data Science course or visit Learnbay’s[ Linkedin](https://www.linkedin.com/company/learnbay/),[ Twitter]( https://twitter.com/Learnbay),[ Facebook](https://www.facebook.com/learnbay/)<span style="text-decoration:underline;"> </span>accounts for updates. 
+Now that we’re done with the article on data science in e-commerce, retail, and supply chain domain, I hope it has helped you understand how important it is to know your field. Another point we wanted to emphasize was the possibility of this in the future, as well as in the present. Take a look at the<a href="https://www.learnbay.co/data-science-certification-courses/" target="_blank">Data Science & AI Certification| Domain Specialization For Professionals course</a> to learn more about the Data Science course or visit Learnbay’s <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.<span style="text-decoration:underline;"> </span>accounts for updates. 
 
 
 ##### Bibliography

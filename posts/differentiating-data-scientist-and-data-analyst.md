@@ -15,8 +15,8 @@ tableData:
   [
  Introduction,
  Data Analyst,
- Data scientist,
- Conclusion,
+ Data scientist,ß
+ Conclusion,ß
     
   ]
 ---

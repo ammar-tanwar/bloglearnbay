@@ -21,7 +21,7 @@ tableData:
   ]
 ---
 
-## Decision tree:
+## Decision tree
 
 The decision tree is the classification algorithm in ML(Machine Learning). A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements.
 
@@ -336,6 +336,6 @@ Final tree:
 
 Decision trees are popular among non-statisticians as they produce a model that is very easy to interpret. Each leaf node is presented as an if/then rule. Cases that satisfy the if/then the statement is placed in the node. Are non-parametric and therefore do not require normality assumptions of the data. Parametric models specify the form of the relationship between predictors and response. An example is a linear relationship for regression. In many cases, however, the nature of the relationship is unknown. This is a case in which non-parametric models are useful. Can handle data of different types, including continuous, categorical, ordinal, and binary. Transformations of the data are not required. It can be useful for detecting important variables, interactions, and identifying outliers. It handles missing data by identifying surrogate splits in the modeling process. Surrogate splits are splitting highly associated with the primary split. In other models, records with missing values are omitted by default.
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. By choosing Learnbay you will reach the most aspiring job of present and future.
+<a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">Learnbay</a> provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. By choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

@@ -52,7 +52,7 @@ Trust me, even though they all sound almost same, are very individual in their s
    <td><strong>Salary in $</strong>
    </td>
    <td><strong>Tools used</strong>
-   </td>
+   </td>ß
   </tr>
   <tr>
    <td><strong>Data scientist</strong>
@@ -169,4 +169,4 @@ I hope this would help you in understanding about the diversity in one Data Scie
 
 The salary mentioned in here increases as days passes by, but it is not about the money, it is about the proficiency one would get in fields of authentic working of technology. If you want to be a part of Data Science then Learnbay is one of the best options. Become masters in data science from the best institute of data science in Bangalore and get different job opportunities of data science.
 
-[Learnbay](https://www.learnbay.co/data-science-course/) is located in the IT hub of India, Bangalore. This feature will help students to invent their future in best place possible, Learnbay is a Data Science training institute along with Machine Learning, Big Data and Artificial Intelligence are also taught. The[ course structure of Data Science](https://drive.google.com/file/d/1QMbaMyB1O8BAusq6ZcHoZi60fYz_8wm5/view) has all the updated essential tools and techniques of field, IBM will certify the aspirants of here.
+<a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">Learnbay</a> is located in the IT hub of India, Bangalore. This feature will help students to invent their future in best place possible, Learnbay is a Data Science training institute along with Machine Learning, Big Data and Artificial Intelligence are also taught. The <a href="https://drive.google.com/file/d/1QMbaMyB1O8BAusq6ZcHoZi60fYz_8wm5/view" target="_blank"> course structure of Data Science</a> has all the updated essential tools and techniques of field, IBM will certify the aspirants of here.

@@ -26,7 +26,7 @@ tableData:
 ---
 
 
-## Human Activity recognition:
+## Human Activity recognition
 
 In this case study, we design a model by which a smartphone can detect its owner’s activity precisely. Human activity recognition with a smartphone is a very famous ML project. It is a wellness approach for a human.  Human activity is a very exciting project for AI.
 
@@ -35,7 +35,7 @@ Most of the smartphones have two smart sensors accelerometer and gyroscope, whic
 An example that a smartphone has an android app that reads the accelerometers and gyroscope which can predict the human activity that he/she walking normally, walking upstairs, walking downstairs, laying down, sitting all these are the human activities.  Some of the accelerometer and gyroscope measures heart rate, calories burned, etc. by reading all the human activities these tells how much work have done in a day by the human this is also the area of the internet of things(IoT).
 
 
-## Working of Human task project:
+## Working of Human task project
 
 1. Human activity recognition: With the help of sensors we collect the data of body movement which is captured by the smartphone. Movements are often indoor activities such as walking, walking upstairs, walking downstairs, lying down, sitting and standing. The data have recorded for the prediction of the data.
 
@@ -216,6 +216,6 @@ plt.show()
 
 Click here to watch the video:
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+[Learnbay](https://www.learnbay.co/data-science-course-training-in-bangalore) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

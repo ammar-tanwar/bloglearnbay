@@ -65,14 +65,14 @@ np.zeros_like(iris_virginica["petal_length"]), 'o')
 
 plt.grid()
 
-plt.show() [ ](https://www.learnbay.co/data-science-course/wp-content/uploads/2020/01/1st.png)
+plt.show() [ ]
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris1.png"   class="img"  /></img>
 
  2D scatter plot: iris.plot(kind="scatter",x="sepal_length"
  ,y="sepal_width")
 
-plt.show()[ ](https://www.learnbay.co/data-science-course/wp-content/uploads/2020/01/3rd.png)
+plt.show()[ ]
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris2.png"   class="img"  /></img>
 
@@ -87,7 +87,7 @@ sns.FacetGrid(iris,hue="species",size=4) \
 
 .add_legend()
 
-plt.show() [ ](https://www.learnbay.co/data-science-course/wp-content/uploads/2020/01/4th.png)
+plt.show() 
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris3.png"   class="img"  /></img>
 
@@ -194,6 +194,6 @@ Std-dev:
 
 0.4651881339845203
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+<a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">Learnbay</a> provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

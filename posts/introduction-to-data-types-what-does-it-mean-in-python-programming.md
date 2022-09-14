@@ -43,17 +43,17 @@ Data types are classes, and variables are instances(objects) for these classes, 
 
 There are six data types in python
 
-● Numeric
+-Numeric
 
-● String
+-String
 
-● List
+-List
 
-● Tuple
+-Tuple
 
-● Set
+-Set
 
-● Dictionary
+-Dictionary
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-2.jpg" style="width:100%" class="img"/></img>
 
@@ -65,11 +65,11 @@ Numerical data types are shown as numerical values used as integers, float, and 
 
 There are four sub-types of numerical data
 
-● Integer
+-Integer
 
-● Float
+-Float
 
-● Complex
+-Complex
 
 **Integer** – In this, the value is represented as a whole number without any decimal, irrespective of its positive or negative. The length of the integer is not required to be defined. <br>
 
@@ -197,5 +197,5 @@ Example:
 
 # Take away     
 
-Now, as you all are aware of different types of data types and we as a programmer feed this food called datatypes to python and execute a reliable output that helps a task to run smoother, faster, and more efficiently. If you are interested in knowing more about python efficiently, you can check out the <a href="https://www.learnbay.co/data-science-course/data-science-certification-courses/" target="_blank">data science course</a>
+Now, as you all are aware of different types of data types and we as a programmer feed this food called datatypes to python and execute a reliable output that helps a task to run smoother, faster, and more efficiently. If you are interested in knowing more about python efficiently, you can check out the <a href="https://www.learnbay.co/data-science-certification-courses/" target="_blank">data science course</a>
   with special python-support with top-class trainers with best-in-class resources. In case you are just exploring python as a beginner, follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
