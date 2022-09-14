@@ -34,7 +34,7 @@ In today's digital age, **hybrid learning** is so widespread that it's become sy
 Online learning can benefit from many of the same teaching strategies used in traditional classrooms. As an approach, a round robin, in which students write down their ideas on a piece of paper and then hand it off, can be done in the online classroom. Online forums and in-person gatherings are both viable options for having discussions.
 
 With many edtech offering students online courses, they know that at least a gathering once a week is needed. This is essential for better industrial skill authentication. It not only lets students socialize and communicate but even learn together. However, it demands offline project training when it comes to advanced tech skills like <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">Artificial intelligence</a>, <a href="https://www.learnbay.co/data-science-course/why-you-need-data-science/" target="_blank">data science</a>, <a href="https://www.learnbay.co/data-science-course/model-vs-algorithm-in-ml/" target="_blank">Machine Learning</a>
-,<a href="https://course.learnbay.co/full-stack-web-development-program" target="_blank">full-stack web</a>, <a href="https://course.learnbay.co/full-stack-web-development-program" target="_blank">software development</a> ,etc. But a hybrid classroom for completing your capstone project is rare until now.    
+,<a href="https://learnbay.co/full-stack-web-development-program" target="_blank">full-stack web</a>, <a href="https://learnbay.co/full-stack-software-development-program" target="_blank">software development</a> ,etc. But a hybrid classroom for completing your capstone project is rare until now.    
 
 ## What Is Hybrid Learning?
 
@@ -122,4 +122,4 @@ Even the experts who teach in hybrid classes can alter the topic and subject acc
 
 ### In a Nutshell
 
-AI, Machine Learning, and <a href="https://www.learnbay.co/data-science-course/advance-data-science-certification-courses/" target="_blank">data science courses</a> are available for fast and convenient learning. But the drawback is that they offer only online training, and even the projects are not certified. Enroll in courses where your skills and course are recognized with global certificates and even provide expertise in hybrid classes for capstone projects.
+AI, Machine Learning, and <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">data science courses</a> are available for fast and convenient learning. But the drawback is that they offer only online training, and even the projects are not certified. Enroll in courses where your skills and course are recognized with global certificates and even provide expertise in hybrid classes for capstone projects.

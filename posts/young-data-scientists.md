@@ -49,7 +49,7 @@ Finally after[ learning Python](https://realpython.com/python-beginner-tips/) he
 Even after being so much knowledgeable in the technical field he has not looked down upon the importance of schooling, he attends school 3 days a week, on the rest of weekdays, he works for the company he has been hired in.
 
 
-### _Think twice before you say Data Science is tough!_
+### _Think twice before you say Data Science is tough!
 
 Also, Data Science is still not an easy field to cakewalk in, so how could the young minds get Data Science but not you? Lets us know what they have for Data Science that generally adults lack.
 

@@ -20,7 +20,7 @@ You could be a pro in Data Science by Self Assisting,
 
 I think that really depends on where you are now and what you really want to do as a data scientist.
 
- Get good at stats, math and Machine Learning. Take online data course.
+    Get good at stats, math and Machine Learning. Take online data course.
     Learn to code. Computer science, development and a language.
     Understand databases. Data types, technologies store them, and methods to retrieve data.
     Master data munging, visualization and reporting. Tools.

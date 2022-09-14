@@ -26,7 +26,7 @@ Yes you read that right, you need Data Science and so does everyone! Irrespectiv
 
 ‘Anything’ does not count superpowers of course, but it means that you could survive anytime in the technical world. If you just notice the definition of Data Science you may get my point. The definition goes by, Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. Since it is a multidisciplinary field the aspirants will get to have knowledge on diverse languages and various tools, which will not only work inside the field of Data Science but also in any field of technology. Because Field of Technology is a vast land that bears all the technologies that has ever existed so far and Data Science is only one of its part.
 
-_Lets first get what will one get to study in Data Science, that is:_
+_Lets first get what will one get to study in Data Science, that is:
 
 
 ## Python, R programming, Java, SQL, Scala, Tensorflow, Matlab.
@@ -84,4 +84,4 @@ Artificial Intelligence is the field you will attract if you get handy with Tens
 
 These are the tools that are essentially used in DS, there are still other concepts one will get to study in the[ course of Data Science](https://www.learnbay.co/data-science-course/) which will also work in different fields of the IT field.
 
-By studying Data Science you will not only Learn that concept but also all the important languages and tools that currently runs in the technical field. You will have wide and far better opportunities even outside the boundary of Data Science. All you need is a good place where you can learn Data Science as it will act as the foundation for your journey([know why](https://medium.com/somethingnew/truth-about-learning-data-science-c5500db9780a)). Data Science is so much of a diverse field that it will provide diverse opportunities even for those who are a part of it, don’t hesitate to take up Data Science, it is worth it. I hope now you know why_ Data Science is important and how much you need it._
+By studying Data Science you will not only Learn that concept but also all the important languages and tools that currently runs in the technical field. You will have wide and far better opportunities even outside the boundary of Data Science. All you need is a good place where you can learn Data Science as it will act as the foundation for your journey([know why](https://medium.com/somethingnew/truth-about-learning-data-science-c5500db9780a)). Data Science is so much of a diverse field that it will provide diverse opportunities even for those who are a part of it, don’t hesitate to take up Data Science, it is worth it. I hope now you know why_ Data Science is important and how much you need it.

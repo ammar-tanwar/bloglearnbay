@@ -88,7 +88,7 @@ Any object-oriented programming language has the ability to allow a subclass or 
 * It’s used to alter existing methods’ behaviour and implementation.
 * For method overriding, a minimum of two classes is always required.
 
-Check Out Our Course :[ Artificial Intelligence Certification Course](https://www.learnbay.co/data-science-course/artificial-intelligence-certification-course/)
+Check Out Our Course :[ Artificial Intelligence Certification Course](https://www.learnbay.co/artificial-intelligence-certification-course)
 
 
 ## Advantages Of Method Overriding
@@ -163,4 +163,4 @@ One of the most important elements of the Python language is method overriding. 
 
 A child class can provide a customised implementation of a method that is already supplied by one of its parent classes using the overriding method. Method overriding also facilitates code compilation and rechecking. If the method name is the same in the parent and child classes, the method will be overridden in the child class. Understanding the fundamental concepts of classes and inheritance is required to use this functionality.
 
-We recommend taking the Data Science course if you want to understand more about method overriding in Python. The key benefit of this feature is that it allows a class to declare its own model for an inherited function without affecting the parent class’s code. This course is available in Bangalore through[ Learnbay](https://www.learnbay.co/data-science-course/data-science-course-in-bangalore/). Deep Learning, Natural Language Processing, Business Analytics, and Data Engineering are all disciplines that students with a thorough understanding of Python ideas can handle.
+We recommend taking the Data Science course if you want to understand more about method overriding in Python. The key benefit of this feature is that it allows a class to declare its own model for an inherited function without affecting the parent class’s code. This course is available in Bangalore through[ Learnbay](https://www.learnbay.co/data-science-course-training-in-bangalore). Deep Learning, Natural Language Processing, Business Analytics, and Data Engineering are all disciplines that students with a thorough understanding of Python ideas can handle.

@@ -195,10 +195,6 @@ Data scientists’ salary in India is between Rs 4.9 Lakhs and Rs 28.0 Lakhs, wi
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-06.png"  style="width: 100%;" /></img>
 
 
-Image by Author
-
-Source: Ambition box
-
 
 ### Hospitality
 
@@ -236,7 +232,7 @@ Data scientists’ salary in India, with less than one year experience or more t
 * Indian Railway Catering and Tourism offers 31.8 lakhs per annum for DS specialists with 2 to 4 years of experience. 
  
 How can Learnbay help you? 
-Learnbay offers one of the best[ data science courses in Bangalore](https://www.learnbay.co/data-science-course/data-science-online-training-in-bangalore/) and also offers an array of domain electives. One of which is Media, Hospitality, and Transportation. Let’s see some of the features of Learnbay and its domain electives.
+Learnbay offers one of the best[ data science courses in Bangalore](https://www.learnbay.co/data-science-online-training-in-bangalore/) and also offers an array of domain electives. One of which is Media, Hospitality, and Transportation. Let’s see some of the features of Learnbay and its domain electives.
 
 
 ### Objectives of the electives
@@ -291,7 +287,7 @@ Users who are new to Airbnb can book a space to stay in over 34,000 cities sprea
 
 The role of data science in media, transportation, and hospitality is huge. The media, Transportation, and Hospitality industries have a great future with data science. That includes even natural disasters like Pandemics or even a tsunami. With the reasons mentioned above and tips, we’re sure you will get a good chance in this domain.
 
-To know more about domain specializations,[ click here](https://www.learnbay.co/data-science-course/data-science-certification-courses/) and make sure to follow all our socials:
+To know more about domain specializations,[ click here](https://www.learnbay.co/data-science-certification-courses/) and make sure to follow all our socials:
 
 Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
 

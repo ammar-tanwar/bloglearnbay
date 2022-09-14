@@ -85,7 +85,7 @@ Currently, recruiters are less concerned with your certifications and more inter
 
 ## But do Learning costs matter?
 
-### Yes, it's a big concern. While recorded video-based classes are even available for 20K INR, the live and interactive classes usually cost more than 70K. Certainly, there will be second thoughts amongst the candidates before spending the hard-earned money on such courses. But here, one thing you need to consider- is the ROI. Yes, as you don't get any job assurance and even proper project exposure, the entire 20K seems like a complete waste. On the other hand, even if you pay 1 lakh for an instructor-led [job-guaranteed](https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course/) data science course, that's worth it. Even some courses offer more than 300% ROI.
+### Yes, it's a big concern. While recorded video-based classes are even available for 20K INR, the live and interactive classes usually cost more than 70K. Certainly, there will be second thoughts amongst the candidates before spending the hard-earned money on such courses. But here, one thing you need to consider- is the ROI. Yes, as you don't get any job assurance and even proper project exposure, the entire 20K seems like a complete waste. On the other hand, even if you pay 1 lakh for an instructor-led [job-guaranteed](https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course) data science course, that's worth it. Even some courses offer more than 300% ROI.
 
 ## So, what's next?
 

@@ -28,7 +28,7 @@ Data science is swiftly expanding each year, and so is the demand for various da
 
 There is a lot of demand for data scientists in today's tech world.
 
- The <a href="https://www.learnbay.co/data-science-course/different-job-roles-after-a-data-science-course/" target="_blank">data science role</a> is not just for one industry. Whether an IT or non-IT, employers are looking to hire the appropriate data scientist with the right skills in almost every sector. If you are a technology-driven professional, you know that the skills required to be a data scientist are crucial. The data scientist skills will make you a unique candidate to all other job applicants when you are about to interview for a data science role.
+ The <a href="https://blog.learnbay.co/different-job-roles-after-a-data-science-course" target="_blank">data science role</a> is not just for one industry. Whether an IT or non-IT, employers are looking to hire the appropriate data scientist with the right skills in almost every sector. If you are a technology-driven professional, you know that the skills required to be a data scientist are crucial. The data scientist skills will make you a unique candidate to all other job applicants when you are about to interview for a data science role.
 
 ## What is Data Science?
 
@@ -42,7 +42,7 @@ To be a data scientist, you need to know basic mathematics, statistics, and basi
 
 ####  Machine Learning
 
-Organizations operate Machine Learning algorithms to predict any course of action. In fact, all of the AI-applications we enjoy are nothing but the result of optimized ML algorithm usage. Organizations need data science experts who can create short but highly effective ML algorithms and applications. ML helps data scientists extract real and important data by data matrices easily. Aspirants can opt for an exclusive <a href="https://www.learnbay.co/data-science-course/data-science-certification-courses/" target="_blank">Data Science certification</a> program for working professionals to become demanding data scientists. Here you can learn the most used ML concepts of industrial data science like
+Organizations operate Machine Learning algorithms to predict any course of action. In fact, all of the AI-applications we enjoy are nothing but the result of optimized ML algorithm usage. Organizations need data science experts who can create short but highly effective ML algorithms and applications. ML helps data scientists extract real and important data by data matrices easily. Aspirants can opt for an exclusive <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">Data Science certification</a> program for working professionals to become demanding data scientists. Here you can learn the most used ML concepts of industrial data science like
 
 -Linear and logistic regression models
 
@@ -68,7 +68,7 @@ Organizations operate Machine Learning algorithms to predict any course of actio
 
 Almost every organization is transferring its infrastructure to the cloud. Cloud computing allows organizations to customize their framework according to their business requirements without investing much in physical storage.
 
-It's not like you have to master the core engineering part of cloud technology, but as a promising data scientist, you must be well versed in cloudML engines in Machine Learning. Taking effective <a href="https://www.learnbay.co/data-science-course/advance-data-science-certification-courses/" target="_blank">data science and AI courses</a>
+It's not like you have to master the core engineering part of cloud technology, but as a promising data scientist, you must be well versed in cloudML engines in Machine Learning. Taking effective <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">data science and AI courses</a>
  will certainly include such modules.
 
 ####  Python

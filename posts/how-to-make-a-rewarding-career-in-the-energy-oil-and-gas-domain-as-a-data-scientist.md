@@ -26,7 +26,7 @@ Well, no need to get panic. We all know that if one road gets blocked, certainly
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward1.png"   class="img"  /></img>
 
 
-_According to PetroLMI, which provides industry labor market information, the unemployment rate, especially for oil and gas workers, peaked at 16.1% in 2020, 26% below 2014 levels. _People working in this industry are quitting by themselves due to the lack of growth. _People who have more experience are also not in the green zone._ What is important to keep your ground in the domain is the skills that you have. You need to keep upskilling only then you will be safe. Even the oil and gas industry lives and breathes on data and has been going digital as well. _It is very possible that not only will you retain your position in the industry but also have good pay as a[ Data science specialist](https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/)._
+According to PetroLMI, which provides industry labor market information, the unemployment rate, especially for oil and gas workers, peaked at 16.1% in 2020, 26% below 2014 levels. People working in this industry are quitting by themselves due to the lack of growth. _People who have more experience are also not in the green zone. What is important to keep your ground in the domain is the skills that you have. You need to keep upskilling only then you will be safe. Even the oil and gas industry lives and breathes on data and has been going digital as well. It is very possible that not only will you retain your position in the industry but also have good pay as a[ Data science specialist](https://blog.learnbay.co/different-jobs-opportunities-of-data-science).
 
 Data Science salary is a hot topic everyone thinks about when becoming a data scientist. We all have heard praises about how lucrative the DS field is. So much so that data scientists are notorious for being pompous. But I wouldn’t blame them. A data scientist makes big bucks in any and every domain. It is a very versatile field, and the domain-specific approach of specific organizations makes it a game-changer for many people looking to make that career switch.
 
@@ -69,7 +69,7 @@ Here are some high-level examples of how data science can help the oil and gas i
 
 
 * Exploration and Discovery-Geological data such as seismic data and rock types in nearby drilling holes can predict oil pockets.
-* Production Accounting-You can link production data to alarms. 
+* Production Accounting You can link production data to alarms. 
 * Drilling and Completion-Predictive Analytics can use geological completion and drilling data to determine preferred and optimal drilling sites. 
 * Equipment Maintenance-Compare real-time streaming data from oil rigs with past drills to better predict and avoid problems and understand operational risk. These examples show the operational goals of oil and gas data science. 
 
@@ -77,7 +77,7 @@ Here are some high-level examples of how data science can help the oil and gas i
 
 
 
-* _Taxing Compute Resources_-You may not have enough resources to store and  process large amounts of structured and unstructured data.  
+* _Taxing Compute Resources You may not have enough resources to store and  process large amounts of structured and unstructured data.  
 * Poor data quality-Data is stored in multiple locations and can be subject to inconsistent governance. 
 * Incorrect Modeling– The correct question may not have been asked or misunderstood.
 * Relentless Corporate – C-suite support is essential from the start. Communication between employees, SMBs, and data scientists is essential.
@@ -90,9 +90,9 @@ When we talk about entering into a specific specialization job market, it is ess
 
 
 
-* _Prediction of cost overruns in Oil and Gas Engineering_
-* _Developing a Failure Prediction Model_
-* _Model for determining the optimum and efficient use of machines._
+* Prediction of cost overruns in Oil and Gas Engineering_
+* Developing a Failure Prediction Model_
+* Model for determining the optimum and efficient use of machines._
 
 
 ## What are companies hiring for Energy, oil, and gas data scientists?

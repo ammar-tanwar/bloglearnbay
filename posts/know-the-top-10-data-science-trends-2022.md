@@ -22,7 +22,7 @@ tableData:
 
 ## Technology Has No Break- Know The Data Science Latest Trends Leading Different Industries.
 
-Technology keeps advancing and innovating. This makes our lives better and so the business outcomes. But trends in such advancements come and go. Until you stay updated with the latest one, your career will also become obsolete over time. And if you ask ‘what’s trending now?’. The shortest and most perfect answer will be ‘[Data science and AI](https://www.learnbay.co/data-science-course/data-science-certification-courses/).’But do you know in the last few years, so many _data science skills_ and applications have become archaic? Here I will discuss the latest _data science, latest trends, _and the fate of different industries.
+Technology keeps advancing and innovating. This makes our lives better and so the business outcomes. But trends in such advancements come and go. Until you stay updated with the latest one, your career will also become obsolete over time. And if you ask ‘what’s trending now?’. The shortest and most perfect answer will be ‘[Data science and AI](https://www.learnbay.co/data-science-certification-courses).’But do you know in the last few years, so many _data science skills_ and applications have become archaic? Here I will discuss the latest _data science, latest trends, _and the fate of different industries.
 
 Data Science gave pathways to Deep Learning, computer vision, and Natural Language Processing. Data science even helped advance Machine Learning, a component of Artificial intelligence. These technologies are changing the way we work and live.
 
@@ -30,9 +30,9 @@ We are seeing new patterns emerge in the industries as organizations rely on dat
 
 
 
-* _Accelerating change_
-* _Operationalizing business value_
-* _Distribution of everything_
+* Accelerating change
+* Operationalizing business value
+* Distribution of everything
 
 These three are the main trends that have been identified (data and insights).
 
@@ -50,7 +50,7 @@ Augmented Data science or data analytics can merge data that is available inside
 
 So many data analytics tools have been discovered in recent years based on business-specific visualization and explanation needs. It has been swiftly implemented in businesses, not just for data scientists but also for customers or service users. This made data analytics (Entry-level data science) and Machine Learning (Advanced-level data science) work together rather than operating them differently. In the next few years, you will see experts working more with Augmented analytics. Accordingly, there will be a surge in job openings in the same.
 
-Because of the rapid evolution of this technology, augmented analytics modules are now required in all[ data analytics training programs](https://www.learnbay.co/data-science-course/data-analytics-business-analytics-programs-for-professionals/), not just advanced data science courses.
+Because of the rapid evolution of this technology, augmented analytics modules are now required in all[ data analytics training programs](https://www.learnbay.co/data-analytics-certification-course), not just advanced data science courses.
 
 
 
@@ -85,7 +85,7 @@ A TechRepublic poll resulted in over half of the companies have started using lo
 
 ### 5. Cloud AI and Data science
 
-In the past few years, and mainly during the Covid-19  pandemic era, there has been a massive stroll-in Cloud-based solution. As a result, data is getting produced more enormously. Collecting, arranging, labeling, formatting, and analyzing data in one platform is a huge issue, and cloud-based AI is the only way to deal with the same. As different insights indicate, the upcoming 3-5 years will be too crucial for[ AI and Machine Learning](https://www.learnbay.co/data-science-course/artificial-intelligence-certification-course/). The cost of adopting AI has risen, and the developments of these technologies ensure cloud-based adoption in the future. So as the use of the cloud-based solution in various industries increases, the market will also expand with it. And obviously, professionals are working hard on reducing the cost of AI software development and implementation.
+In the past few years, and mainly during the Covid-19  pandemic era, there has been a massive stroll-in Cloud-based solution. As a result, data is getting produced more enormously. Collecting, arranging, labeling, formatting, and analyzing data in one platform is a huge issue, and cloud-based AI is the only way to deal with the same. As different insights indicate, the upcoming 3-5 years will be too crucial for[ AI and Machine Learning](https://www.learnbay.co/artificial-intelligence-certification-course). The cost of adopting AI has risen, and the developments of these technologies ensure cloud-based adoption in the future. So as the use of the cloud-based solution in various industries increases, the market will also expand with it. And obviously, professionals are working hard on reducing the cost of AI software development and implementation.
 
 
 ### 6. Auto-ML

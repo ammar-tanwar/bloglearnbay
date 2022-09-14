@@ -24,13 +24,13 @@ tableData:
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg" style="width:100%" class="img"/></img>
 
-Become A Full-Stack Developer Wiz Within A Year
+## <i>Become A Full-Stack Developer Wiz Within A Year</i>
 
-Everything is undergoing digital transformation today. Our present decade lives are filled with applications and websites. The apps like Instagram, Zomato, Alexa, HealthifyMe, or youtube are providing users with solutions and services as desired.
+Everything is undergoing digital transformation today. Our present decade lives are filled with applications and websites. The apps like <b>Instagram, Zomato, Alexa, HealthifyMe, or youtube</b> are providing users with solutions and services as desired.
 
 Starting from the morning alarm to the nighttime planning for the following days, starting from the health monitoring to ordering medicines, even while feeling hungry.
 
-Ever wondered who makes the apps work?
+<i>Ever wondered who makes the apps work?</i>
 
 Who is behind all the updates, and how do you get new posts or videos every time you refresh the page or the app? Here comes the **full-stack Developer**  under the limelight.
 
@@ -48,7 +48,7 @@ The app or the website that a user interacts with is the front end. The operatin
 
 - **Logical processing**
 
-- **Server operation, etc.**
+- **Server operation etc.**
 
 The full-stack Developer is an expert in programming languages like **Javascript, CSS, and HTML** used in the front end and with languages like <a href="https://blog.learnbay.co/introduction-to-python-programming/" target="_blank">Python</a> and Ruby used for backend development.
 
@@ -62,7 +62,7 @@ Small enterprises and businesses usually recruit a **Full-stack developer** to h
 
 **Becoming a full-stack developer is not that hard; you must take a few steps.**
 
-1. **Educate yourself with all the necessary technical skills and programming language.**
+1. **<i>Educate yourself with all the necessary technical skills and programming language.**
 
 2. **You can try the traditional way to either get a computer science degree like always or learn creatively with today's self-learning or full-stack online training courses.**
 
@@ -70,7 +70,7 @@ Small enterprises and businesses usually recruit a **Full-stack developer** to h
 
 4. **Once you get a degree or a certification, try gaining practical experience.**
 
-5. **Working on projects is the key. Take part in coding competitions to hone your coding capabilities.**
+5. **Working on projects is the key. Take part in coding competitions to hone your coding capabilities.</i>**
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-3.jpg" style="width:100%" class="img"/></img>
 
@@ -80,15 +80,15 @@ By 2024 there will be 8,53,000 full-stack developer job vacancies <a href="https
 
 Moreover, **full-stack developers** are very high-paid professionals.
 
-The market demand for **full-stack developers** (both web and application) is continuously increasing with the advancement of different technologies. Organizations are ready to pay highly to developers with the correct skill set and diversified knowledge in the same field. A survey conducted by Indeedconcluded that the minimum average salary of a full-stack developer is much more than that of an average software engineer. Salaries might vary based on experience and expertise.
+The market demand for **full-stack developers** (both web and application) is continuously increasing with the advancement of different technologies. Organizations are ready to pay highly to developers with the correct skill set and diversified knowledge in the same field. A survey conducted by Indeed concluded that the minimum average salary of a full-stack developer is much more than that of an average software engineer. Salaries might vary based on experience and expertise.
 
 ## Is it hard to become a Full-Stack Developer?
 
-Some say full Stack development is not easy, but to be frank, it is not that difficult either. If you want to make it easy, start learning one end, either the back end or the front end. Later learn the other as you grow as a full-stack developer. Nothing should hold you back if you are passionate about being a full-stack developer **.**
+Some say full Stack development is not easy, but to be frank, it is not that difficult either. If you want to make it easy, start learning one end, either the back end or the front end. Later learn the other as you grow as a full-stack developer. Nothing should hold you back if you are passionate about being a full-stack developer.
 
 ## What to Learn?
 
-Knowing what you have to learn and scheduling it accordingly for learning thoroughly is better. Many online full-stack courses are available but choose only the one that fulfills your specific learning needs. Check for custom-fit learning modules as per your eligibility and interest. But whatever course you choose, ensure that it comes with _ **good project opportunities and a placement guarantee**. You can check Learnbay's <a href="https://course.learnbay.co/full-stack-software-development-program" target="_blank">full-stack software development</a>
+Knowing what you have to learn and scheduling it accordingly for learning thoroughly is better. Many online full-stack courses are available but choose only the one that fulfills your specific learning needs. Check for custom-fit learning modules as per your eligibility and interest. But whatever course you choose, ensure that it comes with  **good project opportunities and a placement guarantee**. You can check Learnbay's <a href="https://learnbay.co/full-stack-software-development-program" target="_blank">full-stack software development</a>
  course with a job or money-back guarantee.
 
 The few Important factors that a Full-Stack developer needs to keep in mind are:
@@ -111,7 +111,7 @@ Every company has its tech stack that they follow. The choice of a stack can dep
 
 Some tech stacks have become more popular for a few years because of their easy-to-apply features and other capabilities.
 
-The tech stack includes the  **frontend, backend, and database management** technology. There are two popular tech stacks:
+The tech stack includes the  **frontend, backend, and database management** technology.
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-4.jpg" style="width:100%" class="img"/></img>
 
@@ -148,7 +148,7 @@ The tech stack includes the  **frontend, backend, and database management** tech
 
 - **N [Node.js] -** Javascript runtime environment on a server side.
 
-### **2.**** Frontend stack**
+### **1.** Frontend stack**
 
 It deals with the interface and website that the user gets to see or interact with. The Developer has to innovate and create graphics while designing this. **UI/UX** is a very challenging and crucial task. The primary technology required for frontend development is **HTML5, Javascript, CSS3, jQuery, ReactJs, Angular, etc.**
 
@@ -167,19 +167,19 @@ A Back-end framework is needed to create applications as it is the script side o
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-5.jpg" style="width:100%" class="img"/></img>
 
 ### 3. Database    
-We need to retrieve and store data, and we need a database. The two types of databases are (SQL & NoSQL) relational and nonrelational.
+We need to retrieve and store data, and we need a database. The two types of databases are (SQL & NoSQL) relational and non-relational.
 
 Developers must be excellent in database management systems like MongoDB, Cassandra, MySQL, and PostgreSQL. In addition, the skill of caching options like Memchand, Redis, and Varnish would be great.
 
 **Few databases are :**
 
-- _ **MySQL, SQLite, and Postgres** _
+-  **MySQL, SQLite, and Postgres** 
 
-- _ **VoltDB and MemSQL** _
+- **VoltDB and MemSQL** 
 
-- _ **Cassandra, Sphinx, MongoDB, Apache Storm** _
+-  **Cassandra, Sphinx, MongoDB, Apache Storm** 
 
-### **4.**** Version Control**
+### **4. Version Control**
 
 Every application receives many version updates and revisions before it is compiled or deployed. A version control system has to be learned along with the usage of software like GitLab, GitHub, and Apache subversion.
 
@@ -206,6 +206,6 @@ Algorithms are a general approach that solves problems and requirements. Every p
 
 ## Summarizing
 
-**Full-stack software/web development** is a vital department of every large or small organization. Many full-stack developers are not as skilled as they would have learned the basics from self-learning courses, coding boot camps, or learning a few old local computing programs. Engineering graduates and working professionals with 1+ years of experience in any domain can apply for <a href="https://course.learnbay.co/full-stack-web-development-program" target="_blank">Full-stack web development</a> courses and add these top skills to their resumes.
+**Full-stack software/web development** is a vital department of every large or small organization. Many full-stack developers are not as skilled as they would have learned the basics from self-learning courses, coding boot camps, or learning a few old local computing programs. Engineering graduates and working professionals with 1+ years of experience in any domain can apply for <a href="https://learnbay.co/full-stack-web-development-program" target="_blank">Full-stack web development</a> courses and add these top skills to their resumes.
 
-Choose a full-stack web development or a **full-stack software development** to accelerate your career at the fastest possible pace. You can opt for both as you would have already learned different programming languages. You have to work on how the front and back end works with these languages.
+Choose a full-stack web development or a **full-stack software development** to accelerate your career at the fastest pace possible. You can opt for both as you would have already learned different programming languages. You have to work on how the front and back end works with these languages.

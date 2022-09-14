@@ -73,7 +73,7 @@ You might be wondering why I am fragging the topic regarding the importance of d
 
 Learnbay is a pioneer in teaching Data Science. It has a specialized course for Managers and leaders who want to learn Data Science. Managers and leaders can re-skill their methodologies and make better decisions in their work process. Managers will be able to use data to make plans for future operations based on the data.
 
-Topics covering these courses are **SQL,** <b><a href="https://www.learnbay.co/data-science-course/regression-techniques-in-machine-learning/" target="_blank">Machine Learning</a></b> **, MongoDB, Tableau, Big Data, Spark Analytics,** etc. You get certificates for the tools you have learned to work on.
+Topics covering these courses are **SQL,** <b><a href="https://blog.learnbay.co/regression-techniques-in-machine-learning" target="_blank">Machine Learning</a></b> **, MongoDB, Tableau, Big Data, Spark Analytics,** etc. You get certificates for the tools you have learned to work on.
 
 Faculties are MAANG experts, <b><a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">Data Science manager's course</a></b> is for 11 months and offers flexible membership to LMS. Managers even get to work on live projects and receive <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Data+Science+and+AI+Projects.pdf" target="_blank">project experience certification from IBM.</a>
 

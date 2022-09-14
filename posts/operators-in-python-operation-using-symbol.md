@@ -26,7 +26,7 @@ tableData:
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg" style="width:100%" class="img"/></img>
 
-A character that is used to represent an action in mathematics is an operator. In the same way, python operators are used in performing a particular task on values and variables. There is a specific operation for each symbol or operator.
+<i>A character that is used to represent an action in mathematics is an operator. In the same way, python operators are used in performing a particular task on values and variables. There is a specific operation for each symbol or operator.</i>
 
 ## **What is an operator in python?**   
 
@@ -36,7 +36,7 @@ Example:
 
 When you write 'x+y', the operator '+' is used on two operands, 'x' and 'y'.
 
-In this article, you will understand different concepts and types of operators used in python.
+<b>In this article, you will understand different concepts and types of operators used in python.</b>
 
 ## **What are the types of operators?**   
 There are seven different types of operators in python. Let us take a look at them individually:
@@ -197,7 +197,7 @@ False <br>
 
 Bitwise operators are individual bits (0 and 1) of the operands. These 0 and 1 are referred to as bits or binary digits that represent the values. It is used when integers are transformed into a binary number system. The integers are converted to binary numbers and the operations are executed bit by bit. You can convert decimal numbers to binary numbers and vice-versa.
 
-**Note** : Only Integers work in the Bitwise operator.
+**(Note)** : Only Integers work in the Bitwise operator.
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-7.jpeg" style="width:100%" class="img"/></img>
 

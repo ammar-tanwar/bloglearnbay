@@ -83,9 +83,9 @@ In python, you have two important types of functions
 - Built-in functions
 - User-defined functions
 
-### Built-in functions  
+### Built-in functions    
 
-Default functions which are already programmed in python software called 'Build-in function'. You have a wide range of built-in functions available in python. Some of the built-in functions are
+Default functions which are already programmed in python software called 'Built -in function'. You have a wide range of built-in functions available in python. Some of the built-in functions are
 
 - int
 - list

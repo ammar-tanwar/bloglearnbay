@@ -33,7 +33,7 @@ Technology keeps revolutionizing as it gets better and better every day. Many un
 
 ## What is Data Science?
 
-<a href="https://www.learnbay.co/data-science-course/data-science-at-intern-level/" target="_blank">Data science</a>
+<a href="https://blog.learnbay.co/data-science-at-intern-level" target="_blank">Data science</a>
 is the field of study combining programming, domain expertise, skills, and knowledge of mathematics and statistics to derive meaningful insights from data. A person who practices data science applies Machine Learning algorithms to images, texts, video, and audio to analyze the same as a human but beyond the human-bound accuracy level. In return, such analysis gives out precise and future-proof insights that analysts and managers can later transform into a business value.
 
 **With the help of data science, information is converted into business strategies generating more revenue from the businesses.** 
@@ -92,7 +92,7 @@ Predictive analytics can help telecom data scientists prevent churns to:
 
 ### 2. Data Science in Healthcare
 
-Data science is like 'God' in healthcare. Humanity has been fighting life-threatening diseases, including cancer, for decades. However, AI, data science, and ML have made the most ever developments. Carcinogenic cell proliferation can now be predicted. <a href="https://www.learnbay.co/data-science-course/data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care/" target="_blank">Data science and AI in clinical and healthcare</a> industries:
+Data science is like 'God' in healthcare. Humanity has been fighting life-threatening diseases, including cancer, for decades. However, AI, data science, and ML have made the most ever developments. Carcinogenic cell proliferation can now be predicted. <a href="https://blog.learnbay.co/data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care" target="_blank">Data science and AI in clinical and healthcare</a> industries:
 
 1. **A serious health-issue preventive wearable device-**
 
@@ -118,7 +118,7 @@ If 99 percent of patients with the same symptoms are treated with a certain amou
 
 The trending financial technology domain, popularly known as 'the Fintech sector, is one of the sectors that keenly depends on top-edge technologies. Both the user and financial institutions depend on secure transactions with minute customer service communication. For example, AI and chatbots have reached a level where they can easily interact with customers that once required human communication.
 
-So, the meaning of <a href="https://www.learnbay.co/data-science-course/banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package/" target="_blank">data science in banking and financial institutions</a>
+So, the meaning of <a href="https://blog.learnbay.co/banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package" target="_blank">data science in banking and financial institutions</a>
 is something like these:
 
 - Automated and early-stage financial fraud detection
@@ -132,9 +132,9 @@ is something like these:
 
 Today without any doubt, organizations, whether big or small, are integrating data science and its applications within their business system. The importance of data in the present world scenario has reached a new bookmark that organizations are making decisions only after a complete analysis of relevant data.
 
-This is specifically found in the <a href="https://www.learnbay.co/data-science-course/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career/" target="_blank">e-commerce and retail industry.</a>
+This is specifically found in the <a href="https://blog.learnbay.co/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career" target="_blank">e-commerce and retail industry.</a>
 
-E-commerce giants can **predict profits, losses, and purchases and even influence their customers to buy additional products based on their buying patterns.**   Organizations have started to buy data to create a psychological portrait of a consumer of products. This helps them to drive customer loyalty and hence increase revenues. <a href="https://www.learnbay.co/data-science-course/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career/" target="_blank">Data analytics in the e-commerce industry.</a> is becoming an integral part even for the basic level of decision making.
+E-commerce giants can **predict profits, losses, and purchases and even influence their customers to buy additional products based on their buying patterns.**   Organizations have started to buy data to create a psychological portrait of a consumer of products. This helps them to drive customer loyalty and hence increase revenues. <a href="https://blog.learnbay.co/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career" target="_blank">Data analytics in the e-commerce industry.</a> is becoming an integral part even for the basic level of decision making.
 
 ## 1. **The data science applications in which the e-commerce giants work are**
 
@@ -157,7 +157,7 @@ E-commerce giants can **predict profits, losses, and purchases and even influenc
 There are a lot of high-value data industries that just cannot let go of it. They are real data and can be used to implement new strategies by leveraging these data. Companies today can easily collect these data from their customers, sales, operations, and marketing. So the information gained by CRM, ERP, and marketing does not directly lead to improving revenue or gaining profit.
 
 In a study by <a href="https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/by-the-numbers-what-drives-sales-growth-outperformance" target="_blank">McKinsey,</a>
-, 72% of the rapid-growing B2B organizations stated that analytics helped them to drive sales compared to 50% of the other slow-growing companies. The reputation of the sales sector has become too dependent on live data tracking. Here comes the need for data science, and that can be deployed in many ways in sales as follows. Or we can say <a href="https://www.learnbay.co/data-science-course/marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope/" target="_blank">data science in sales and marketing</a> means,
+, 72% of the rapid-growing B2B organizations stated that analytics helped them to drive sales compared to 50% of the other slow-growing companies. The reputation of the sales sector has become too dependent on live data tracking. Here comes the need for data science, and that can be deployed in many ways in sales as follows. Or we can say <a href="https://blog.learnbay.co/marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope" target="_blank">data science in sales and marketing</a> means,
 
 - Maximization of customer lifetime value (CLV)
 
@@ -175,7 +175,7 @@ In a study by <a href="https://www.mckinsey.com/business-functions/marketing-and
 
 So, that's all about the industrial perspective of data science. Until now, I hope you have understood the fact that data science can't be explained through two-or three-line definitions anymore. Data science is not just for one industry but for all. It can be useful for organizations and even for consumers. It has opened up a new gateway for organizations and consumers to communicate and do business together. As a whole, the entire world is standing on data science.
 
-If you want to stand out as a data scientist. You can take professional <a href="https://www.learnbay.co/data-science-course/job-guarantee-or-money-back-data-science-ai-certification-course/" target="_blank">data science courses with a job guarantee.</a> 
+If you want to stand out as a data scientist. You can take professional <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank">data science courses with a job guarantee.</a> 
 
  Our **data science course** is IBM certified and is recognized globally. Our data science and AI course covers all the latest tools and modules that are presently used by organizations. It consists of live capstone projects, mock interviews, and job referrals. We guarantee you a job in six months, or you can claim your course fees back.
 For getting instant updates on the latest information on Data science technology, You can follow us on  <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.

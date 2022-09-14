@@ -37,7 +37,7 @@ Obviously no.
 
 There’s no need to be concerned as the saying goes, there’s always a solution for every problem. 
 
-Starting your career in[ Data Science and AI](https://www.learnbay.co/data-science-course/data-science-certification-courses/)<span style="text-decoration:underline;"> </span>might be your one-stop solution to begin your career for breaking into the marketing and sales industry. 
+Starting your career in[ Data Science and AI](https://www.learnbay.co/data-science-certification-courses/)<span style="text-decoration:underline;"> </span>might be your one-stop solution to begin your career for breaking into the marketing and sales industry. 
 
 Data science is the newest craze, and it’s swept the marketing world as well.
 
@@ -214,7 +214,7 @@ In India, the average salary for the position of Data Scientist in the sales and
 
 ## Where can Learnbay Help you?
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides some of the best Data Science courses in Bangalore. It especially provides[ Data science and AI courses for working professionals](https://www.learnbay.co/data-science-course/data-science-for-working-professionals/). It also provides you with various domain electives, sales, marketing, and HR being one of them. Let us see about this elective in a bit more detail.
+[Learnbay](https://www.learnbay.co/data-science-course/) provides some of the best Data Science courses in Bangalore. It especially provides[ Data science and AI courses for working professionals](https://blog.learnbay.co/data-science-for-working-professionals). It also provides you with various domain electives, sales, marketing, and HR being one of them. Let us see about this elective in a bit more detail.
 
 
 ### Learnbay’s teaching approach

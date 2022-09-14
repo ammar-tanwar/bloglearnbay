@@ -46,12 +46,12 @@ We at Learnbay provides data science training in Bangalore with real time projec
 - R Programming
 - Statistics For Data Science
 - Machine Learning
-- _ **Tensor-Flow & Deep Learning** _
+- Tensor-Flow & Deep Learning
 - SAS
-- _ **Time Series Forecasting** _
+- Time Series Forecasting
 - Hadoop And Spark Analytics ,Mongodb
-- _Deployment of Machine Learning Algorithms_ Using Google Cloud ML Engine
-- **Resume Preparation And Interview guidance, Mock Interview**
+- Deployment of Machine Learning Algorithms Using Google Cloud ML Engine
+- Resume Preparation And Interview guidance, Mock Interview
 - Job Referrals and Placement Support
 
 **Course Highlights:**
