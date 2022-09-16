@@ -13,7 +13,7 @@ h1: "What is Supervised, Unsupervised Learning, and Reinforcement Learning in Ma
 id: "what-is-supervised-and-unsupervised-learning-in-machine-learning"
 tableData:
   [
-What is Supervised,
+ 1. Linear regression, 2. Logistic regression, 3. Decision tree, 4. Random forest, 5. support vector machine, 6. k-Nearest neighbors, Unsupervised learning algorithms, Types of unsupervised learning, 1. Hierarchical clustering, 2. K-means clustering, 3. K-NN (k nearest neighbors), 4. Principal Component Analysis, 5. Singular Value Decomposition, 6. Independent Component Analysis, Main points in Reinforcement learning,
 
   ]
 ---
@@ -24,16 +24,16 @@ The supervised learning model is used to teach the machine to predict the result
 
 For example, you have a bucket of fruits and there are different types of fruits in the bucket. You need to separate the fruits according to their features and you know the name of the fruits follow up its corresponding features the features of the fruits are independent variables and name of fruits are dependent variable that is out target variable. We can build a predicting model to determine the fruit name.
 
-There are various types of Supervised learning:
+## There are various types of Supervised learning 
 
 
 
-1. Linear regression
-2. Logistic regression
-3. Decision tree
-4. Random forest
-5. support vector machine
-6. k-Nearest neighbors
+### 1. Linear regression
+### 2. Logistic regression   
+### 3. Decision tree
+### 4. Random forest
+### 5. support vector machine
+### 6. k-Nearest neighbors    
 
 Linear and logistic regression is used when we have continuous data. Linear regression defines the relationship between the variables where we have independent and dependent variables. For example, what would be the performance percentage of a student after studying a number of hours? The numbers of hours are in an independent feature and the performance of students in the dependent features. The linear regression is also categorized in types
 
@@ -43,22 +43,20 @@ Classification algorithms help to classify the categorical values. It is used fo
 
 The support vector machine is used for both classification and regression problems. It uses the regression method to create a hyperplane to classify the category of the datapoint. sentiment analysis of a subject is determined with the help of SVM whether the statement is positive or negative.
 
-Unsupervised learning algorithms
+## Unsupervised learning algorithms      
 
 Unsupervised learning is a technique in which we need to supervise the model as we have not any target variable or labeled dataset. It discovers its own information to predict the outcome. It is used for the unlabeled datasets. Unsupervised learning algorithms allow you to perform more complex processing tasks compared to supervised learning. Although, unsupervised learning can be more unpredictable compared with other natural learning methods. It is easier to get unlabeled data from a computer than labeled data, which needs manual intervention.
 
 For example, We have a bucket of fruits and we need to separate them accordingly, and there no target variable available to determine whether the fruit is apple, orange, or banana. Unsupervised learning categorizes these fruits to make a prediction when new data comes.
 
-Types of unsupervised learning:
+## Types of unsupervised learning    
 
-
-
-1. Hierarchical clustering
-2. K-means clustering
-3. K-NN (k nearest neighbors)
-4. Principal Component Analysis
-5. Singular Value Decomposition
-6. Independent Component Analysis
+### 1. Hierarchical clustering
+### 2. K-means clustering
+### 3. K-NN (k nearest neighbors)
+### 4. Principal Component Analysis
+### 5. Singular Value Decomposition
+### 6. Independent Component Analysis
 
 Hierarchical clustering is an algorithm that builds a hierarchy of clusters. It begins with all the data which is assigned to a cluster of their own. Here, two close clusters are going to be in the same cluster. This algorithm ends when there is only one cluster left.
 
@@ -68,9 +66,7 @@ K-means and KNN is also a clustering method to classify the dataset. k-means is 
 
 Reinforcement learning is also a type of Machine Learning algorithm. It provides a suitable action in a particular situation, and it is used to maximize the reward. The reward could be positive or negative based on the behavior of the object. Reinforcement learning is employed by various software and machines to find the best possible behavior in a situation.
 
-Main points in Reinforcement learning –
-
-
+### Main points in Reinforcement learning    
 
 * Input: The input should be an initial state from which the model will start
 * Output: There are much possible output as there are a variety of solution to a particular problem

@@ -22,6 +22,7 @@ Conclusion,
 
 
 
+
 ## Data Science in Healthcare– Know The Hidden Scopes
 
 [Data science in Healthcare](https://drive.google.com/file/d/1mJg0ZGImTFbTtkTCeLfytMxAeMhhOUUC/view)<span style="text-decoration:underline;"> </span>isn’t something new. It is the most common industry where data science and analytics are applied. The global pandemic has dramatically raised the demand and importance of healthcare data scientists. Over the years, we have seen how[ data science](https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/)<span style="text-decoration:underline;"> </span>professionals have pulled together to work on Covid-19 Healthcare data and build AI/ML models to track the outbreak. This data was used for contact tracing, screening, and vaccine development. 

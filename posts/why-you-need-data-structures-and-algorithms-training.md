@@ -13,9 +13,9 @@ h1: "Why You Need Data Structures And Algorithms training"
 id: "why-you-need-data-structures-and-algorithms-training"
 tableData:
   [
-        Practical training,
-        Expert Instructor,
-        Placement Assistance
+        1. Practical training, 2. Expert Instructor,
+        3. Placement Assistance, 4. Limited Batch Size,
+        5. Recorded Class, 6. Coding challenges 
 
 
   ]
@@ -28,29 +28,29 @@ A practical and in depth Data structure and advance algorithm coaching will bene
 
  [Learnbay](https://www.learnbay.co/data-science-course-training-in-bangalore)provides practical and in-depth training for [**data structure and Algorithm/Competitive Programming**](https://learnbay.wordpress.com/2016/09/20/why-choose-online-courses-for-learning-data-structures-and-algorithms/) with **interview preparation** for e-commerce companies and top product based MNC.
 
-1. **Practical training**
+## 1. Practical training
 
 Real Time Project Implementation With Assignment and hands on.
 
-2. **Expert Instructor**
+## 2. Expert Instructor   
 
 Instructors from premier institute - IIT Roorkee, BITS Pilani ,IIITs and working with tier one product based MNCs like NVIDEA,McAfee,Directi .
 
-3. **Placement Assistance** :
+## 3. Placement Assistance   
 
 Interview Guidance And Placement assistance for job seekers
 
-4. **Limited Batch Size**
+## 4. Limited Batch Size
 
 To make class interactive and improve faculty ­to ­student interaction,
 
 number of student in our classroom never exceeds ten.
 
-**5. Recorded Class:**
+## 5. Recorded Class
 
   **Class recording**  is provided for every class ,which can be used in future for revision.Flexibility to attend **class online**.
 
-**6. Coding challenges:**
+## 6. Coding challenges   
 
 Two coding competition among batches monthly. Six months of technical support even after course completion.
 

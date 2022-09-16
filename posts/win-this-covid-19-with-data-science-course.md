@@ -15,11 +15,12 @@ tableData:
   [
   Win the COVID-19,
   Job opportunities?,
-How will Data Science help you?,
-How to study Data Science?,
-CONCLUSION,
+  How will Data Science help you?,
+  How to study Data Science?,
+  CONCLUSION,
   ]
 ---
+## Win the COVID-19
 
 COVID-19 is an inevitable unfortunate situation, each one of us have got to fight it being at home, I just hope this all ends soon. Many lives have changed since Corona came into existence, people died, families suffered, economy collapsed, companies are temporarily logged off, jobs are lost and productivity has stopped. None of us can help in anyway unless by maintaining our personal hygiene by staying at home. Sounds hopeless isn’t it? But what if I told you that by slightly changing your perspective towards this situation you can find hope of this pandemic to end and can hope of a brighter than ever future. This is everything about how to get the most out of COVID-19 pandemic. We all used to whine about going to office, convinced ourselves that the reason behind being not-so-productive is the less time we get due to the work, but now that option is no more available to blame upon because we are literally at our home with enough personal time. This is the best opportunity to build a habit, learn new things and to renovate your lifestyle. The best way to utilize this abundance of time is by learning new things, so why not learn something that will not only be as a new good habit but also help you to level up your game in your professional life? Something that will help for big time, that is popular, trendy and the sexiest. Yes, I am talking about Data Science.
 

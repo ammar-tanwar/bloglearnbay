@@ -84,7 +84,7 @@ To add to your portfolio, earn a certificate of completion.
 
 EdX collaborates with the world's top schools and universities. To give students what they want. It offers online data science finance courses from top universities. You can master financial analysis and become a great senior financial analyst. There are courses for entry-level financial analysts to senior financial analysts. Most of the data science courses in the finance industry and training programs are available to audit for free. But this particular financial analytics course costs approx 1 lac INR.
 
-## Course Highlights :
+### Course Highlights :
 
 - 5 skill-building courses with expert instruction 
 - Risk management and credit principles
@@ -125,7 +125,7 @@ This IABAC Business Analytics in Banking certification focuses on the applicatio
 
 Studying from recorded videos can be tedious; Learnbay offers an instructor-led interactive program with live doubt-solving sessions. This particular course is a BFSI domain specialization. Students get to work on live capstone projects. This assists in making a career change as an entry-to-senior-level financial analyst. They have Data science expertise from FAANG. This course is all about putting your domain-specific knowledge to good use. Imply data-driven strategies to balance knowledge. Two or three units of the subject are insufficient for industrial requirements. It is full-stack data science and AI course with the option of BFSI domain specialization. Hence, you can consider it a financial analyst certification course also. Designed especially for working professionals. After your course completion, you will receive an IBM certificate for the same, with certificates for the tools you have expertise in. And not only that, you will even receive certificates for project completion.
 
-## Course highlight :
+### Course highlight :
 
 - 12+ Real-Time Projects
 - 2 Capstone Projects
@@ -140,3 +140,60 @@ Studying from recorded videos can be tedious; Learnbay offers an instructor-led 
 <b>Course Duration: Weekday - 7.5 months</b>
 
 Weekend - 9 months
+
+
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-4.jpeg"   class="img"  /></img>
+
+## 4. Python for Financial Analysis and Algorithmic Trading (Udemy)
+This course consists of a thorough introduction to data science in the finance industry. The key focus lies on how Python helps to analyze financial data and perform algorithmic trading.
+ 
+The course's curriculum is comprehensive and well-organized. It begins with a basic crash course in Python so you can study the programming language. Before moving on to the core libraries for analysis, such as NumPy, pandas, and matplotlib. Then goes over how to use 
+Time series
+Big data 
+Various stats models package is also included 
+It also covers 
+Pandas-DataReader 
+Quandl Python API. 
+How to work with Python to get financial securities data 
+Quantopian, one of the greatest online platforms for algorithmic trading 
+Quantopian with Python
+ 
+### Course Highlights :
+Use ARIMA models on Time Series Data
+Calculate the Sharpe Ratio
+Optimize Portfolio Allocations
+Understand the Capital Asset Pricing Model
+Learn about the Efficient Market Hypothesis
+Conduct algorithmic Trading on Quantopian
+Q&A forum
+NumPy tool to work with Numerical Data
+Use Pandas to Analyze and Visualize Data
+Use Matplotlib to create custom plots
+Time Series Analysis
+Calculate Financial Statistics, Cumulative Returns, Daily Returns, Volatility, etc.
+Use Weighted Moving Averages
+ 
+<b>Course Duration:</b> 17 hrs on-demand video
+
+## 5. Learnbay - data science and AI for managers and leaders
+Get cutting-edge industrial leadership training for the domains of Data Science in the finance industry. The above courses will not work for the pros already having 7+ years of experience. And the occurrence of a data science course that is specially built for this much experienced BFSI pros is very rare. Learnbay data science and AI courses for Managers and Leaders to solve this problem. Here, you can choose the banking and finance domain as your specialization option. Even you get an option for upgrading with a data science course with a job guarantee. It ensures a financial analyst course with placement. If students do not get a job in 6 months, they can claim their fees back.
+ 
+### Course highlights:
+15+ Real-Time Projects
+2 Capstone Projects
+Get 8 unique certifications by IBM on course completion 
+Industry lead curated training 
+100% interview guarantee
+Employer alliance 250+
+Interview prep session and Mock interview
+Guaranteed job referrals
+Globally recognized Data Science and AI program certified by IBM. 
+ 
+<b>Course Duration :</b>
+ 
+Weekday - 11 months
+ 
+Weekend - 13 months
+ 
+So, these are the list of best data science courses for banking professionals. All of the financial analyst courses are available online to assist you in your quest to master financial analysis. You will learn the necessary skills and tools to become a competent financial analyst- such as financial statement analysis and valuation, financial data analytics, financial planning, analysis, etc. However, choosing a course with a job guarantee seems the best decision if you want a lucrative career within a year. However, it costs a bit higher but offers the best ROI. But yes, whether you are taking a course or not even planning a career shift, still stay updated about data science and AI happenings worldwide. Because within the next few years non, a single job role will be beyond the basic analytical skills. You can get instant updates on the latest news on data science by following us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
+

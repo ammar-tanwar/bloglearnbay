@@ -13,14 +13,14 @@ h1: "Data Science is Important!"
 id: "why-you-need-data-science"
 tableData:
   [
-  Data Science is Important,
-  Python, R programming, Java, SQL, Scala, Tensorflow, Matlab.,
+  Data Science is Important - Why We Need it?,
+  Python, R programming, Java, SQL, Tensorflow,
 
 
   ]
 ---
 
-## Data Science is Important, Why We Need it?
+## Data Science is Important - Why We Need it?
 
 Yes you read that right, you need Data Science and so does everyone! Irrespective of the domain you work in, your educational background or if you are a tech-head or a non-tech person, you will still be in need of Data Science. Ask me how. There is a typical notion of one will end up being only a Data Scientist by pursuing Data Science, Well, this is half the truth, while the fact is, by pursuing Data Science you could become anything. (anything is only limited to technical growth, of course)
 
@@ -34,7 +34,7 @@ _Lets first get what will one get to study in Data Science, that is:
 The above tools and languages are the essentially used tools and languages in the field of Data Science, now I will tell you the uses of each of these tools outside the field of DS.
 
 
-### Python:
+### Python
 
 Used in: It is generally used in developing desktop GUI applications, websites and web applications.
 

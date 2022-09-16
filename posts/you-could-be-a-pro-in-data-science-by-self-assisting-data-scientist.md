@@ -13,21 +13,22 @@ h1: "You could be a pro in Data Science by Self Assisting,"
 id: "you-could-be-a-pro-in-data-science-by-self-assisting-data-scientist"
 tableData:
   [
-You could be a pro in Data Science by Self Assisting,
+   How do you become a data scientist?,
+
   ]
 ---
-## How do you become a data scientist?:
+## How do you become a data scientist?
 
 I think that really depends on where you are now and what you really want to do as a data scientist.
 
-    Get good at stats, math and Machine Learning. Take online data course.
-    Learn to code. Computer science, development and a language.
-    Understand databases. Data types, technologies store them, and methods to retrieve data.
-    Master data munging, visualization and reporting. Tools.
-    Level up with big data. Bigger tools like hadoop, mapreduce and spark.
-    Get experience, practice and meet fellow data scientists. Competitions, pet project and developing an intuition.
-    Internship
-    Follow and engage with the community
+Get good at stats, math and Machine Learning. Take online data course.
+Learn to code. Computer science, development and a language.
+Understand databases. Data types, technologies store them, and methods to retrieve data.
+Master data munging, visualization and reporting. Tools.
+Level up with big data. Bigger tools like hadoop, mapreduce and spark.
+Get experience, practice and meet fellow data scientists. Competitions, pet project and developing an intuition.
+Internship
+Follow and engage with the community
 
 At first glance, the graphic suggests that standard mantra of become a math and programming genius before even looking at data or algorithms, an approach I think is wrong. At closer examination, the graphic is suggesting a path of familiarization from steps 1-5. It suggests to take courses and get up to speed with the language of data science and data.
 I would suggest that steps 1-5 be minimized further to one step that provided a crash course of terms and themes across these areas. I would suggest getting to the point of working a data set using a tool as soon as possible. Working through this process and working problem after problem will highlight the need and provide the context for those foundational topics that can be learned and weaved in just-in-time.

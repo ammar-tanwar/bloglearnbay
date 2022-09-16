@@ -15,7 +15,8 @@ tableData:
   [
     Intorduction- Young Data Scientists,
     Tanmay Bakshi young data scientist,
-Sidharth Srivatsav Pillai:young data scientist,
+    Sidharth Srivatsav Pillai:young data scientist,
+    1. Curiosity - it was their only fuel!,  2. Baby steps, 3. The aim was to only learn the languages 
 
   ]
 ---
@@ -49,22 +50,22 @@ Finally after[ learning Python](https://realpython.com/python-beginner-tips/) he
 Even after being so much knowledgeable in the technical field he has not looked down upon the importance of schooling, he attends school 3 days a week, on the rest of weekdays, he works for the company he has been hired in.
 
 
-### _Think twice before you say Data Science is tough!
+### Think twice before you say Data Science is tough!
 
 Also, Data Science is still not an easy field to cakewalk in, so how could the young minds get Data Science but not you? Lets us know what they have for Data Science that generally adults lack.
 
 
-#### 1. Curiosity, it was their only fuel!
+#### 1. Curiosity - it was their only fuel!    
 
 In both cases of these young data scientists, curiosity is the initial zest that made them dig into deep layers of Data Science. A meaningful analysis came out of Tanmay when he was asked how he could manage the toughness of the concepts, he said he could do it only because he got them learning at the age where going behind the subject that we are curious about is the first and the only goal. This is so much of a truth, usually, adults lose their sense of curiosity for the notion of “I know it all”, they expect things to work out in the first attempt but it is absolutely contrary in a matter of kids, they do things out of pure zest to learn what amazes them. Tanmay got into coding at the very age of 5, which helped him create a simple application but it was his curiosity that made him to try out for more innovative coding techniques. In the case of Sidharth, it was all about absolute curiosity and passion, he got so much amazed at video games that he couldn’t resist learning coding and its techniques behind the animations and characters. Only if the Data Science seekers shift their perception of “burden” to “only learning to quench the curiosity” the tough and heavy concepts would no longer bother them to become a Data scientist.
 
 
-#### 2. Baby steps
+#### 2. Baby steps   
 
 One main thing we should not neglect in these two’s journey is that they eased themselves into the field, Tanmay started with VB, when his application was recognized by IBM he continued with furthermore programming languages like C, Python, Machine Learning and got into Data Science. Sidharth was first introduced to C, then Java, HTML, CSS, SQL happened. He then turned towards Python and Machine Learning. When it comes to adults I have seen many people asking[ how to become a Data Scientist in 3 months or 4 months](https://medium.com/@krishna.kumar_learnbay/can-one-become-data-scientist-in-2-months-d01c03f49329), they tend to hurry into the field. They only effort on acquiring a certificate in Data Science but only if they know that Data Science is like no other field and only skills can make them a Data Scientist, they would effort on understanding the field. Since the field is multidisciplinary, it is important to follow up and understand the stance of the essential programming languages one after the other.
 
 
-#### 3. The aim was to only learn the languages
+#### 3. The aim was to only learn the languages   
 
 There many are people who desire the data scientist job position merely for the mighty amount of money it acquires but only if they understood that it is the large amount of responsibility that is being paid for, the notion of “Data Science is easy” would fade away. While yes, money is good in Data Science but it is just an upshot of the field. In both cases of Tanmay and Sidharth, none weren’t even aware that they are in the highest-paid job, their aim was to just be one in the field. Tanmay seeks[ Data Science](https://www.learnbay.co/data-science-course/) more than just a career and money, he is working to make Data Science a powerful tool to use in fixing the issues of the society, he is working on Machine Learning and AI to identify the victims of depression and weak mental health. He also understands the necessity of the tools to learn Data Science for which he hustles to teach coding to as many people as possible, he has so far taught 11,000 aspirants and is expecting to reach 100,000 aspirants. If the aim to learn Data Science is kept higher than just money and fame then one can achieve more quickly than expected.
 

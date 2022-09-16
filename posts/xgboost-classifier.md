@@ -13,29 +13,30 @@ h1: "Everything About the XGBoost Classifier"
 id: "xgboost-classifier"
 tableData:
   [
-Everything About the XGBoost Classifier,
-
+  What is the XGboost classifier?,
+  What is ensemble modeling?, 
+  Unique features of XGBoost classifier, 
   ]
 ---
 
-What is the XGboost classifier?
+## What is the XGboost classifier?
 
 XGBoost classifier is a Machine Learning algorithm that is applied for structured and tabular data. XGBoost classifier is an implementation of gradient boosted decision trees designed for speed and performance. XGBoost is an extreme gradient boost algorithm. And that means it’s a big Machine Learning algorithm with lots of parts. XGBoost works with large complicated datasets. XGBoost classifier is an ensemble modelling technique.
 
-What is ensemble modeling?
+## What is ensemble modeling?
 
 XGBoost classifier is an ensemble learning method. Sometimes, it may not be sufficient to rely upon the results of just one Machine Learning model. Ensemble learning offers a systematic solution to combine the predictive power of multiple learners. The resultant is a single model that gives the aggregated output from several models.
 
 The models that form the ensemble, also known as base learners, could be either from the same learning algorithm or different learning algorithms. Bagging and boosting are two widely used ensemble learners. Though these two techniques can be used with several statistical models, the most predominant usage has been with[ decision trees](https://scikit-learn.org/stable/modules/tree.html#:~:text=Decision%20Trees%20(DTs)%20are%20a,as%20a%20piecewise%20constant%20approximation.).
 
-Unique features of XGBoost classifier:
+## Unique features of XGBoost classifier
 
 XGBoost is a popular implementation of gradient boosting. Let’s discuss some features of XGBoost that make it so interesting.
 
 
 
-Regularization: XGBoost classifier has an option to penalize complex models through both L1 and L2 regularization. Regularization helps in preventing overfitting
-Handling sparse data: Missing values or data processing steps like one-hot encoding make data sparse. XGBoost incorporates a sparsity-aware split finding algorithm to handle different types of sparsity patterns in the data
+<b>Regularization: </b>XGBoost classifier has an option to penalize complex models through both L1 and L2 regularization. Regularization helps in preventing overfitting
+<b>Handling sparse data:</b> Missing values or data processing steps like one-hot encoding make data sparse. XGBoost incorporates a sparsity-aware split finding algorithm to handle different types of sparsity patterns in the data
 Weighted quantile sketch: Most existing tree-based algorithms can find the split points when the data points are of equal weights (using a quantile sketch algorithm). However, they are not equipped to handle weighted data. XGBoost has a distributed weighted quantile sketch algorithm to effectively handle weighted data
 Block structure for parallel learning: For faster computing, the XGBoost classifier can make use of multiple cores on the CPU. This is possible because of a block structure in its system design. Data is sorted and stored in in-memory units called blocks. Unlike other algorithms, this enables the data layout to be reused by subsequent iterations, instead of computing it again. This feature also serves useful for steps like split finding and column sub-sampling
 Cache awareness: In XGBoost classifier, non-continuous memory access is required to get the gradient statistics by row index. Hence, XGBoost Classifier has been designed to make optimal use of hardware. This is done by allocating internal buffers in each thread, where the gradient statistics can be stored

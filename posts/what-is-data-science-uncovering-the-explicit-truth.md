@@ -13,16 +13,12 @@ h1: "What is Data Science ? | Uncovering The Explicit Truth"
 id: "what-is-data-science-uncovering-the-explicit-truth"
 tableData:
   [
-    What is Data Science?,
-    Data Science in Tele-communications,
-    Data Science in Healthcare,
-    Data Science in Banking and Finance,
-     Data Science in E-commerce,
-    Data Science in Sales and Marketing
+    What is Data Science? | Uncovering The Explicit Truth,
+    What is Data Science?, What Exactly is Data Science? The Perspective From Different Industries, 1. Data Science in Tele-communications, 2. Data Science in Healthcare, 3. Data Science in Banking and Finance, 4. Data Science in E-commerce, 5. Data Science in Sales and Marketing,
   ]
 ---
 
-# **What is Data Science? | Uncovering The Explicit Truth**
+# What is Data Science? | Uncovering The Explicit Truth
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science1.png" style="width:100%" class="img"/></img>
 
@@ -40,9 +36,9 @@ is the field of study combining programming, domain expertise, skills, and knowl
 
 Data Science is now leading all the industries. We can say each successful business entity is the outcome of data science.
 
-## What Exactly is Data Science? The Perspective From Different Industries
+## What Exactly is Data Science? The Perspective From Different Industries  
 
-### 1. Data Science in Tele-communications:
+### 1. Data Science in Tele-communications    
 
 In the telecommunication industry, data science is nothing but a 'promise of Big data. 'Yes, the telecommunications business is the largest source of data on a daily basis. Due to the same reasons, the expense of data storage and management used to be huge in this industry. Data Science has proven an extensive blessing to the telecom industries. Not only that, but the service outcomes are also touching the peak of excellence only because of data science and AI innovation. In this industry, data science means the following:
 
@@ -90,7 +86,7 @@ Predictive analytics can help telecom data scientists prevent churns to:
 
 - As soon as a change is detected, act to retain customers.
 
-### 2. Data Science in Healthcare
+### 2. Data Science in Healthcare   
 
 Data science is like 'God' in healthcare. Humanity has been fighting life-threatening diseases, including cancer, for decades. However, AI, data science, and ML have made the most ever developments. Carcinogenic cell proliferation can now be predicted. <a href="https://blog.learnbay.co/data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care" target="_blank">Data science and AI in clinical and healthcare</a> industries:
 
@@ -114,7 +110,7 @@ MedAware, another cutting-edge firm, attempted to eliminate prescription errors.
 
 If 99 percent of patients with the same symptoms are treated with a certain amount of drug, A prescription, prescribing a different medicine, or modifying the dose will cause a system alert, questioning if the doctor is sure about his or her prescription. As a result, such an approach has the potential to save hundreds of lives while also reducing costs associated with avoidable readmissions or extended hospital stays.
 
-### 3. Data Science in Banking and Finance
+### 3. Data Science in Banking and Finance   
 
 The trending financial technology domain, popularly known as 'the Fintech sector, is one of the sectors that keenly depends on top-edge technologies. Both the user and financial institutions depend on secure transactions with minute customer service communication. For example, AI and chatbots have reached a level where they can easily interact with customers that once required human communication.
 
@@ -128,7 +124,7 @@ is something like these:
 - Sentiment analysis powered automated recommendation engines building
 - Highly secured mobile banking platform
 
-### 4. Data Science in E-commerce
+### 4. Data Science in E-commerce    
 
 Today without any doubt, organizations, whether big or small, are integrating data science and its applications within their business system. The importance of data in the present world scenario has reached a new bookmark that organizations are making decisions only after a complete analysis of relevant data.
 
@@ -136,7 +132,7 @@ This is specifically found in the <a href="https://blog.learnbay.co/how-data-ana
 
 E-commerce giants can **predict profits, losses, and purchases and even influence their customers to buy additional products based on their buying patterns.**   Organizations have started to buy data to create a psychological portrait of a consumer of products. This helps them to drive customer loyalty and hence increase revenues. <a href="https://blog.learnbay.co/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career" target="_blank">Data analytics in the e-commerce industry.</a> is becoming an integral part even for the basic level of decision making.
 
-## 1. **The data science applications in which the e-commerce giants work are**
+1. **The data science applications in which the e-commerce giants work are**
 
 - Market Basket Analysis
 
@@ -152,7 +148,7 @@ E-commerce giants can **predict profits, losses, and purchases and even influenc
 
 - Customer sentiment analysis
 
-### 5. Data Science in Sales and Marketing,
+### 5. Data Science in Sales and Marketing   
 
 There are a lot of high-value data industries that just cannot let go of it. They are real data and can be used to implement new strategies by leveraging these data. Companies today can easily collect these data from their customers, sales, operations, and marketing. So the information gained by CRM, ERP, and marketing does not directly lead to improving revenue or gaining profit.
 
