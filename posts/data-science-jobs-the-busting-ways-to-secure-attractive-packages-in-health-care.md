@@ -1,19 +1,20 @@
 ---
-title: Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package
-desc: "The BFSI  industry is witnessing a major transformation in the Indian economy, fueled by new FinTech competition, shifting business models, compliance demands and innovative technologies."
+title: Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?
+desc: "Got your master's degree in genetic counseling, occupational therapy, health administration, or any other healthcare domain?..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/med.png"
-date: "April 7, 2022"
+date: "April 6, 2022"
 tag: [ Hot Topics ]
 author: "Admin"
 category: "Hot Topics"
 position: "Editor"
-readTime: "20-25 mins"
-h1: "Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package"
-id: "banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package"
+readTime: "10-12 mins"
+h1: "Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?"
+id: "data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care"
 tableData:
   [
-  Possibilities and Challenges, Data Science Applications in the Financial Services Industry,  Is Data science beneficial to finance?, Prerequisites for BFSI,
+   Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?, 
+   Do data science job in health care sector come with attractive packages?, This Drives your data science salary, Why is data science important in healthcare?, Can data scientists work in healthcare?  , Applications of Data Science in Healthcare , Medical Image Analysis, Algorithms used in medical image analysis, Predictive Analytics in Healthcare, Algorithms used in predictive analysis, Genomics, Algorithms used in Genomics, Role of a Data Scientist in the Healthcare domain,  How much do healthcare data scientists make?, Companies and Packages, Based on area,  What skills does it take to become a Healthcare Data Scientist?, Domain Specialization with Learnbay, What can you expect?, Who is it suitable for?, Projects you will get to work on, Conclusion, Bibliography
   
 
   ]
@@ -23,45 +24,48 @@ tableData:
 
 
 
-## Introduction to Banking, Financial Services, and Insurance
+# Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?
 
-The BFSI  industry is witnessing a major transformation in the Indian economy, fueled by new FinTech competition, shifting business models, compliance demands, <a href="https://www.learnbay.co/data-science-course/customer-experience-enhancement-in-banks/" target="_blank">customer experience enhancement</a>, and innovative technologies.
+Got your master's degree in genetic counseling, occupational therapy, health administration, or any other healthcare domain? Well, you might be very anxious to join a renowned organization with a six-figure salary package? But wait. It’s not that easy these days. I have found more than 70% of lucrative healthcare degree holders are still struggling to secure their position. Every single day they dreamt of losing their jobs.
 
-However, in 2020, this scenario changed due to an unprecedented event that shook the entire world, the BFSI sector was heavily hit like any other industry resulting in layoffs and halting of employment. 
+<i>But what’s the reason? They all are well qualified and experienced enough. </i>
 
+Well, there has been a new ‘must-have’ skill requirement in this industry for the last few years. It’s Data Science and AI. 
 
+Yes, data science and AI have changed the direction of the editor job market. Lots of vacancies are there, and lots of candidates are roaming around to fill those positions. Still, they are not getting hired. Some are working almost 24X7 with a package of 3 LPA-4 LPA, even after having a master's degree. 
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance1.png"   class="img"  /></img>
 
 
+However, there is a contrasting side also. A few are enjoying 10 to 12 LPA, with an average of 3 to 4 years of experience in the same domain.
 
-Nevertheless, as the lockdown has been lifted and the world learned to live with this normalcy, the hiring trends in the BFSI sector are beginning to shine again. 
+This blog will help you to find out the root path to secure your data science jobs in health care sector. 
 
-A <a href="https://economictimes.indiatimes.com/jobs/banking-financial-services-need-1-6-million-skilled-workers-by-2022/articleshow/49168237.cms" target="_blank">report</a> by the National skill development corporation (NSDC) reveals that in India, Banking and financial services need 1.6 million skilled workforces by 2022. 
+First, let me answer the toughest question coming to the mind of most readers, right now. 
 
-Therefore, this can be the right time for you to get back on track and secure your career.
+## Do data science job in health care sector come with attractive packages?
 
-But what can be the best option for you? Data Science! 
+In present days, while we think about the healthcare system, we visualize highly tech upgraded and AI-powered patient care services. It includes SMART clinical apparatus and advanced medical research. But are you aware of the fact that for the last few years the healthcare industry is in the topmost positions on cyber criminals’ hit list? As per one of the Accenture Survey in 2017, in the first quarter, about 26% of US patients become victims of such birches. 
 
-In today’s world, Data science plays a major role in the BFSI sector. They help in analyzing data to improve the overall customer experience. 
+In India, during the 1st wave of the COVID-19 pandemic, lots of COVID-positive patients’ sensitive personal data got leaked from several governments and NABL healthcare portals. Such data types include residential address, contact number, Aadhar number, etc. Such incidents caused the suspension of so many frontlines as well as other associated employees. Wrong handling of data and lack of data management expertise was the key reason behind it.
 
-<a href="https://www.learnbay.co/data-science-course/data-science-certification-courses/" target="_blank">Data science and AI 
-</a> can be the finest option to land a high-paying job in the BFSI sector. 
+Employees from a non-data science background in healthcare are also at the risk of job loss. So many pharmaceutical companies are now tieing up for better regional sales across the world. Recently, US-based pharma company Eli Lilly, fired 120 of their Indian office employees because of the transfer of anti-diabetic medicine selling rights to Cipla (Source: The Economic Times). This is very common in business but candidates with core DS skills and analytical knowledge are in quite a safer position. The Pharma industry needs them. Even the Parma industry is suffering from a huge lack of such talent. 
 
+Healthcare data science jobs are all the rage because when you look at it, healthcare is that domain where DS has been used predominantly and for a very long time. The clinical industry cannot run without applying some DS concepts, a well-known fact. So there is no doubt that you will have a great scope in the healthcare industry as a data scientist. But does it provide just as great a salary as working in a product-based MNC? Let's see what your data science salary depends on to find the answer.
 
-Throughout this blog, you’ll get an idea of how data science is influencing the financial industry and how it can help secure your career. Let us discuss data science in banking, finance, services, and insurance sector.
+Image created by Author
 
-Financial Services are in high competition now. Even entrepreneurs are targeting this industry. As per the Goldman Sachs insight, more than 4.7 trillion dollar revenue might get directed to such startups from the traditional financial MNCs (Source: <a href="https://global.hitachi-solutions.com/blog/top-10-challenges-banking-financial-organizations-can-overcome" target="_blank">Global Hitachi</a>).
+## This Drives your data science salary    
 
-Apart from that, the massive changes in regulatory compliance changes (such as the Dodd-Frank Act, ALLL of US ) are also making it the banking business harder to maintain profit. This is not the end the applications of _Robo-advisory and algorithmic trading_ are making The competition is becoming harder day by day.
+We all know and hear that specialists in this field make a lot of money, but we are unaware that it varies from domain to domain. How much a data scientist makes in a field is dependent on these factors.
 
-Indian Banks are also facing lots of stress due to several types of debt. In July 2021, SBI indicated highly increased stress from holding debt (due to the COVID-19 outbreak). In 2019-20, the Indian government opted for 10 public sector bank amalgamation to lower the number to 4. The reason behind this was to lower the debt risk and better financial operation. But, the situation is going in such a way that it might be possible, for private banks also face a similar amalgamation- this may lead to severe layoffs.
+Need for DS in the industry.
+Type of role that you will be playing
+Your skills that are relevant to the field of interest
+Your skillset as a data scientist.
+Years of experience you have as a Specialist.
 
-Until now,  whatever disasters financial companies have faced everything got saved by proper implementation of data analytics and AI innovation.  J.P Morgan, Accenture, Goldman-Sachs are the lightning examples in such cases. 
-
-_But the risk of layoffs in the BFSI sector can be easily overcome by adapting the DS and Ai skills- The sector is in massive need of such talents.
-
-A lot of people who work for IT companies, BPO companies, or technical and professional service businesses use this word. It stands for “Banking, Financial Services, and Insurance.” They do data processing or test software applications or write software for this kind of business. This is because people have more money, the banking, financial services, and insurance (BFSI) industry in India are expected to develop dramatically. In the last 15 years, the BFSI sector has undergone a lot of changes, and it will be a big part of India’s economic development based on inclusive growth. 
+Now that this is in check, let us know more about the correlation between DS and healthcare.
 
 
 
@@ -69,256 +73,157 @@ A lot of people who work for IT companies, BPO companies, or technical and profe
 
 
 
-Source: By the Author
+## Why is data science important in healthcare?  
+According to one study, (source: dailymail uk) the amount of data produced by all human bodies is 2 terabytes per day. This data includes brain activity, stress levels, heart rate, sugar content, and more. There are now more advanced technologies for processing such large amounts of data, one of which is DS.
+ It helps to monitor the patient's health based on the recorded data. 
+With the help of DS in medicine, it has become possible to detect the symptoms of disease very early. With the advent of various innovative tools and technologies, doctors can also remotely monitor the patient's condition.
+Any industry that generates large amounts of data needs DS. The medical industry produces large datasets of useful information about patient demographics, treatment plans, health check results, insurance, and more. The data collected by Internet of Things (IoT) devices has attracted the attention of data scientists.
+
+All these techniques and methods make it important to have DS in the healthcare industry.
+
+## Can data scientists work in healthcare?   
+
+So far, we have established that data scientists play a major role in the healthcare industry, so the answer to this question is absolutely! These will be your responsibilities as a medical data scientist.
+
+The role of the data scientist is to implement all the technologies of DS and incorporate them into health software. Data scientists extract useful insights from the data to create predictive models. Overall, the tasks of data scientists in health care are:
+
+- Data collection from patients  <br>
+- Analysis of hospital needs perform data analysis using a variety of tools <br>
+- Implement algorithms in your data to gain insights <br>
+- The development team creates a predictive model <br>
+
+## Applications of Data Science in Healthcare    
+
+The uses of data science in healthcare are close to infinity. But let us see some of the most important applications. 
+
+### Medical Image Analysis
+
+DS identifies scanned images to find defects in the human body and helps doctors develop effective treatment strategies. These medical imaging tests include x-rays, ultrasonography, MRI (Magnetic Resonance Imaging), and CT scans. Proper analysis of images from these tests helps doctors gain valuable knowledge to treat them better.
+
+### Algorithms used in medical image analysis
+<b> - Anomaly detection algorithm: </b> This algorithm helps identify conditions such as fractures and dislocations. <br> <br>
+<b> - Image Processing Algorithms: </b> Image processing algorithms are useful for image analysis, improvement, and noise reduction. <br><br>
+<b> - Descriptive image recognition algorithm: </b>Visualises and extracts data from images and uses them to interpret them to form larger images (for example, merge images from brain scans and name them accordingly.<br><br>
+
+## Predictive Analytics in Healthcare
+
+A predictive analytics model based on DS makes predictions about a patient's condition. It also helps develop strategies for the appropriate treatment for the patient. Therefore, predictive analytics is a very useful technique and plays an important role in the medical industry.
+
+### Algorithms used in predictive analysis   
+<b>Classification Model:</b> For categorizing patient data according to requirements and needs.<br>
+<b>Clustering Model:</b> The clustering model sorts the data into separate nested smart groups based on similar attributes. Suppose an e-commerce shoe company wants to run a targeted marketing campaign for its customers. In that case, they can explore hundreds of thousands of records and create a bespoke strategy for each individual.
+<b>Forecast Model:</b> As one of the most widely used predictive analytics models, forecasting models involve predicting metric values ​​and estimating new data numbers based on insights from historical data.
+
+## Genomics   
+
+In the past, genomics research was a tedious and time-consuming task before the advent of powerful data analysis techniques. There are millions of pairs of DNA cells in the human body. But now, DS applications in healthcare and genomics make that task easier. With the help of various DS and big data tools, we can analyze human genes with less effort and time. With these tools, researchers can easily find the drug that best responds to a particular genetic problem or a particular type of gene.
+
+### Algorithms used in Genomics
+<b>V Framework:</b> The V framework categorizes volume, velocity, and variety of data. In genomics, it is used to analyze the current data concerning the other applications in data sciences.
+<b>4M Framework:</b> So what is the 4M framework? DS mining in the natural sciences is closely related to mathematical modeling. A concise way to understand this relationship is the 4M framework developed by Lauffenburger. This concept describes the overall process of systems biology, which is closely related to genomics in terms of 
+quantity measurement
+large-scale mining
+
+Model the extracted observations, and finally manipulate or test this model to ensure accuracy.
+
+So these are some of the applications of DS in the clinical industry. There are many more, but these are some of the prime examples. Let's see what you will be doing as a specialist in this domain.
+
+## Role of a Data Scientist in the Healthcare domain  
+- Most data scientists have technical skills such as <b>probability and statistics, data visualization, machine learning, AI knowledge, and programming languages ​​such as R, Python, and SQL</b>. While these skills can help you analyze through sources, healthcare data scientists must, first and foremost, be strong problem-solvers who understand the goals of their organization.
+ 
+- Another common requirement for Healthcare Data Science jobs is a good understanding of quantitative data analysis. Due to the large amount of data generated by hospitals and authorities, data scientists must organize, manage, and analyze different datasets without being overwhelmed. When a large amount of information is mixed, healthcare data scientists are expected to connect points and identify solutions and suggestions to help businesses achieve their goals. 
+
+### Other common roles played by healthcare data scientists are: 
+
+- Convert data into digestible nibbles that non-technical members of the organization can understand.  <br>
+- Understand hospital functions and systems and use data results to support decision-making. <br> <br>
+- Database management includes data collection, storage, acquisition, security, etc. <br> <br>
+- Creating reports and dashboards to give administrators access to results.<br> <br>
+- Agile enough to jump over different dashboards to types of records, from operational to clinical to financial.<br>
 
 
-### Possibilities and Challenges 
+## How much do healthcare data scientists make?     
 
+This is the number one question everyone has regarding doing domain-specific roles in DS. But I am pleased to tell you that the domain discussed in this blog offers big bucks to specialists. 
 
+On average, a DS specialist working in the medical field is about Rs.50 lakhs per year in India. These are some of the popular healthcare companies and how much they offer.
 
-* The BFSI business is expected to grow a lot in the future as India’s economy grows and people become more aware of financial goods and services.
-* New and broader items will provide a plethora of options for specialized development.
-* When it comes to these kinds of computer systems, RSM is well-equipped to offer a wide range of services. This is why the business world now sees IT as an important part of its strategy.
-* People who have a lot of rules and regulations will need to be aware all the time and use a lot of risk-reduction strategies all of the time.
-
-
-## Data Science in Banking, Finance, Services & Insurance Sector
-
-People have strived to handle money effectively since the invention of money. Temples were used as banks by the ancient Greeks and Romans. This was partly due to the temples’ ability to keep people’s hard-earned money secure. Money storage became insufficient after a while. Banks were expected to provide more to their customers. As a result, the financial business has grown significantly. The financial business began to expand in leaps and bounds. The banking and insurance industry has changed from being a business that cares about people to one that cares about big profits. The financial industry’s watchwords quickly became revenue and profit. They found that their customers were smarter than they thought. These people, too, wanted to beat the banks and other financial institutions at every turn. In order to stop the money from leaving, banks used historical data analysis to look for common trends from the past. This way, they could stop the money from going out of the door. This was most likely the start of data science. This project quickly evolved into a potential source of employment. 
-
-Data science is a nebulous subset of computer science that has piqued the interest of many experts seeking new prospects. Finance is a manifestation of data at several levels in and of itself. Only that, this is financial data, which is critical for financial firms. History shows that data science was used before it became a separate field of computer science, as shown in the short history above. Decisions are being made based on data because there is so much information out there now. To make things even faster for banks and other financial institutions, they can now quickly look at a lot of customer data like their personal and security information a lot more quickly.
-
-
-
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance3.png"   class="img"  /></img>
-
-
-
-Source: By the Author
-
-
-### How did data science help the Banking, Financial Services, and Insurance businesses handle problems?
-
-In the banking industry, data science is being used in a variety of ways.
-
-
-
-* Fraud detection: 
-
-Because fraud can happen in a lot of different places, it’s important to find and stop it with the help of data science. A bank needs to be able to spot fraud before it happens, which is very important for the safety of both its customers and employees. The sooner a bank finds out about fraud, the sooner it can stop account activity and cut down on losses. When banks use a variety of fraud detection methods, they can get the protection they need and avoid a lot of money being lost. People do this for things like getting data samples for a model estimate and testing, as well as for things like model estimation.
-
-
-
-* Lifetime value prediction:
-
-Client lifetime value (CLV) is a prediction of how much value a company will get from a customer over time. This is because these numbers help build and keep good relationships with specific clients, which helps the company make even more money and grow even faster than before. Banks are having a hard time getting and keeping customers who are worth their while. In order to spend money wisely, banks must now have a 360-degree view of each customer. This is because the competition is getting tougher. In this case, the[ data science field](https://www.learnbay.co/data-science-course/evolution-of-data-science-in-india/) comes into play. Data about how many customers are added and how long they stay must be looked at first. Banking products and services that people use, how much money they make and where it comes from, and how many customers come from certain places all play a role in how people use banking services.
-
-
-
-* Customer segmentation:
-
-Segmenting people into groups based on how they act or look is called customer segmentation. It’s important for data scientists to know how much each customer group is worth. Some of the tools they use to figure this out include clustering, decision trees, logistic regression, and more. These tools help them figure out which groups have the most and least value. Making groups of customers makes it easier to allocate marketing resources and make the point-based approach, as well as selling chances for each group of customers, the best they can be for each group customers. No one needs to see this. Remember that[ customer segmentation](https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/money-banking-and-investment/banking) is intended to enhance customer service and aid in customer loyalty and retention, which is critical in the banking industry.
-
-
-### Data Science Applications in the Financial Services Industry   
-
-
-* Algorithmic trading:
-
-An algorithm helps financial companies quickly make smart decisions based on the most up-to-date data because they can do this right away. People who trade this way look at both traditional and non-traditional data when they make their trades. Good at this kind of work needs to be able to quickly look at this data because it’s only useful for a short time. When real-time and predictive analytics are used together in this field, there is a new way to look at things. There used to be a lot of mathematicians who worked for financial companies, but that has changed. To make trading algorithms that could predict what would happen in the market, they made statistical models and used data that had already been collected. People who do data science now have tools that can help speed up and improve getting data.
-
-
-
-* Robo-advisory: 
-
-A lot of people in the world of finance are using Robo-advisors all the time. In the app, people can write down how much money they have and what they want to do with their money. For example, they can write down how much they want to save by the age of 50. A robot adviser is then used to put the person’s current assets into different investment options based on their risk preferences and what they want to do with the money. Insurance is something that people buy online from a lot of companies that use robots to help them make unique insurance policies for each customer. It’s cheaper to hire a robot financial adviser because they can give personalized and calibrated advice that’s tailored to each person’s needs.
-
-
+### Companies and Packages
+GE Healthcare offers Rs.18.6 lakhs per annum
+SCIO Health Analytics offers Rs.7.10 lakhs to 8.64 lakhs per annum
+Novartis Healthcare offers Rs.21.7 lakhs per annum
+Dr. Reddy offers Rs.12,89,859 per annum.
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance4.png"   class="img"  /></img>
 
 
-
-Source: By the Author
-
-
-### In the insurance industry, data science is being used in a variety of ways.
-
-
-
-* Underwriting and credit scoring:
-
-The Top Data science field is good at things like underwriting and credit scoring, which happen a lot in finance and insurance. There are tones of consumer profiles that data scientists use to train their models. Each one has a lot of data points. In real life, a well-trained algorithm can do the same job as an underwriter and credit scorer. Human workers may work considerably quicker and more precisely with the aid of such scoring algorithms.
-
-
-
-* Insurance for automobiles:
-
-Wireless “telematics” devices could be used to send real-time driving data to an insurance company. Imagine a room full of car insurance agents drooling over their desks. Progressive introduced telematics-based insurance in 1998, and it has been around since then. But, in the intervening years, technology has advanced significantly.
-
-
-
-* Personalized marketing:
-
-Personalized marketing is not an anomaly in the insurance sector. Insurers must ensure a digital connection with their clients to satisfy these needs.[ Data science jobs](https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/) and advanced analytics use a lot of demographic data, preferences, interactions, behavior, attitude, lifestyle information, interests, hobbies, and other things to make insurance more personalized and relevant for each person. This makes insurance more personalized and relevant for each person.
-
-
-### Banking, Finance, Services & Insurance Domain Modules
-
-BFSI will assist you:
-
-
-
-* Learn how to use modern tools and technology, as well as established methods, to win in an increasingly competitive industry.
-* Master data analysis and design a dynamic dashboard to summarize your findings.
-* A better leader can learn more about data and make smarter decisions about who to target, what to sell, and what to do in the market. This can help both you and your team.
-
-
-### What is the Data Science team’s role in the banking business?      
-
-
-The people who work in data science are very important. They can gather, summarize, and predict fraudulent activity in customer databases, which makes them very important people. Before data science and big data, it was impossible to look at customer records and come up with reliable data. Artificial intelligence (AI) and[ Machine Learning](https://www.learnbay.co/data-science-course/necessity-of-machine-learning-in-retail/) may assist banks in combating fraud.
-
-
-## Is Data science beneficial to finance?       
-
-People in the finance industry use data science a lot to manage risks and make decisions. This is called “data science.” In the end, businesses that deal with money make more money when people do more research. Businesses also use business intelligence tools to look at data trends.
-
-
-### What are the Modules for Banking, Financial Services, and Insurance training?
-
-
-
-1. Data Science in Banking, Finance, Services and Insurance Sector is introduced.
-2. Institutions of Finance and the Services They Provide
-3. How can financial institutions create profits?
-4. Customer data management, customer segmentation, and real-time and predictive analytics are just a few of the services that can be used to improve your business.
-5. Security, Process Automation
-6. For investment banks, fraud detection, underwriting and credit rating, and risk modeling are all important things to keep an eye out for.
-
-
-## Benefits of DS in Banking, Finance, Services & Insurance Domain
-
-The most important benefits that[ data science certifications](https://www.learnbay.co/data-science-course/data-science-ai-for-managers/)<span style="text-decoration:underline;"> </span>have had for the BFSI business as a whole should be talked about. These small changes have had a big impact on people’s lives, especially how they work.
-
-
-
-* Financial trend forecasting:
-
-When businesses want to make good decisions about their goods and services, they need to know how much demand there will be for them and how much supply there will be. This is called forecasting. It also helps them tell their customers how to make smart financial decisions by using predictive models.
-
-
-
-* Automating tasks: 
-
-Making tasks easier for financial services analysts, managers, and their coworkers to do makes them more productive and makes it easier for them to do their jobs. Online apps and algorithms make it much easier to figure out whether or not a customer is a financial drain. People who work at a bank can quickly figure out if they should give that personal service or not. A lot of people also like that they don’t have to go into a bank anymore to apply for things and services. Also, they may be able to fill out most of their applications online at home if their browser is set up to remember things like their address, phone number, and name when they come back to it. The more automation makes it easier for people to interact with businesses, the more happy people will be with it. Their productivity also goes up.
-
-
-
-* Assessing risk: 
-
-Using a person’s[ credit score and financial activities](https://www.kaggle.com/gauravduttakiit/risk-analytics-in-banking-financial-services-1), It is very easy for data science algorithms to figure out if a person or group is a bad investment. This will determine whether or not this person or company can get a loan, or if they should be turned down because of their bad credit history.
-
-
-
-* Fostering inclusivity: 
-
-There can’t be any exceptions to this rule when financial companies use algorithms. They must treat everyone the same no matter what their ethnicity or sexual orientation is. This is because the whole decision-making process is based on what the customer does with their money. As a result, customers will be able to see more clearly how they can get the things they want. There is also no discrimination, which could happen in more subjective applications. This is because it doesn’t allow for that.
-
-
-## Banking, Finance, Services, and Insurance Capstone Projects
-
-
-
-* Prediction of Loan Default.
-* Fraudulent credit card transactions should be identified.
-* Prediction of Claims.
-* Estimating Insurance Premiums.
-* Risk Analysis in the Financial Industry.
-* Algorithmic Trading.
-
-
-## Scope of Banking, Financial Services, and Insurance in India
-
-NSDC did a study and found that India is one of the few countries that have a strong foundation for high productivity and global integration in recent years. It’s important to note that two main things are at play during the digital transformation of the BFSI: These are digitization and the digitalization of things, and they are both very important. Learn about and test new technologies and business processes that could make your BFSI service better with these new tools, like:
-
-
-
-* Partnerships between payment banks and fintech firms.
-* [Artificial Intelligence](https://www.learnbay.co/data-science-course/artificial-intelligence-in-e-commerce/) and Cognitive Analytics
-* Blockchain.
-* Automation of Robotic Processes.
-* Cybersecurity is an important topic.
-
-Even though digitization promises more security and cost savings, its real value comes from giving people what they want. However, with the introduction of new fields like services and insurance in India and business consulting, banking has become one of the most popular jobs in India. It’s a big problem for the industry because the Indian government is building new offices to bring banking to more rural areas. It is also seen as a socially acceptable and stable occupation.
-
-Companies in the banking, finance, services, and insurance sectors in India in 2021:
-
-
+### Based on area  
+Analysts in the New Delhi region reported making Rs.18,70,000 a year. 
+Data analysts in the Bangalore area reported making Rs.12,89,859 a year.   
+Pharmaceutical data analysts in the Chennai region reported making Rs. 70,000 yen a month. 
+ SAS programmers in the New Delhi region are reported to have made Rs.20,000 a month
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance5.png"   class="img"  /></img>
 
-Image by Author
+## What skills does it take to become a Healthcare Data Scientist?
 
-Source: Glassdoor
+With each domain come certain requirements that you need to check to become a specialist in that field. Does that mean that you need to know bioinformatics to become a data scientist in the medical industry? Well, continue reading to find out.
 
-Bajaj Finance Ltd: It focuses on consumer loans, small- and medium-sized business loans, and commercial loans, as well as many other types of loans. Several things are important to the company: fixed deposits and rural loans. Value-added services are also important.
+Health DS is a relatively young discipline with epidemiology, statistics, mathematics, computer science, and computer science. 
+Innovative skills are needed to unleash knowledge from complex health data and address some of the biggest health problems facing the world today. 
+Health care data scientists manage and process vast and confusing health data records from various sources, putting them all together in an evaluable format. 
+ They provide knowledge about analyzing data using a statistical machine learning approach and extracting useful insights from the data. 
+ Quantitative methods, applied regression, statistical analysis, statistical inference calculations, machine learning, statistical advice and collaboration, and epidemiological methodologies. 
+The major programming languages ​​used in most health-related DS courses include a combination of Python and R, and in some cases, SAS.
+Requires a strong computational or math background. 
+A solid quantitative background provides emerging health data scientists with several healthcare and medical research areas. 
+These roles are ideal for students with a bachelor's degree in mathematics or statistics or related disciplines. Up-and-coming healthcare data scientists need a deep understanding of statistics, linear algebra, and calculus.
 
-Muthoot Finance Ltd: Finance and making electricity are two parts of Muthoot Finance. When it doesn’t have formal credit for a long time, it gives out personal and business loans to people who need short-term cash.
+One of the other skills needed is communicating results with different healthcare professionals. Health data scientists communicate with other data scientists about how to use the data and insights, discuss with clinicians to understand the illness they are studying, communicate with laboratory scientists, and most importantly, patients. It would help if you communicated clearly and transparently with the general public. The focus of all healthcare DS projects is to develop suitable applications that can work with patients or the general public in the healthcare sector and the commercial arena.
 
-Tata Capital Financial Services ltd: If you want to buy something for yourself, your business, or the city itself, there are a lot of financial services that can help you. They come from here all the time. A lot of different things it does: managing wealth, home loans, and infrastructure management are just a few of them.
+Having taken a look at all the above information, you may be wondering how Learnbay will help you with specializations such as healthcare? Learnbay Primarily focuses on domain specializations, and medicine is one of those domains. Let's see what you will get when you learn with Learnbay.
 
-L & T Finance Holdings Ltd: As you can see, there are many different businesses that it does, such as information technology and financial services. They also build and make products, and so on. The company sells power and electrical equipment, as well as ships and heavy equipment. You can buy these things from the company. Also, people can buy other things from them.
+## Domain Specialization with Learnbay       
 
-Aditya Birla Finance Ltd.: There are a lot of different things it can help with. It can help with commercial mortgages, corporate finance, and more.
+Learnbay is known for its diversity in subjects. This is why it provides some of the best data science courses in Bangalore. But the best part is it comes with a hybrid model of learning, which means you can take classes online and offline. So let's see what the Healthcare domain of Learnbay provides you with.
 
-There are more and more of these businesses in the BFSI industry. If you want to work in the banking or financial sector, you need to learn about Data Science. There has been a huge rise in the amount of data that needs to be analyzed and used in this field.
-
-
-### Banking, Finance, Services, and Insurance job positions:
-
-
-
-* Agents in the insurance industry.
-* Sales representative for banks and financial products.
-* Sales representative for equity products.
-* Representatives of investment firms.
-* Stockbrokers.
-
-Required abilities: 
-
-In this field, there are a lot of different skills that are needed to get a job. Some of the most common are sales skills, math skills, knowledge of the stock market and mutual funds, and knowledge of how banks work.
-
-
-## Salary/Remuneration Package in Banking, Finance, Services, and Insurance
-
-Those with one year or more of experience can expect to earn 4,62,321 per year. A seasoned expert may also receive a variety of incentives, such as a 7-30% share of revenue, based on the work level completed.
+### What can you expect?
+To learn about the application of advanced tools that will allow you to effectively use them in this domain.
+You will also be developing leadership skills that will enable you to deliver products that stand rightly with the customer's needs.
+You can also get to take a look at more than 20 Case Studies.
+Graded Assignments to test your skills along the way.
+About 6 live projects in the domain to make you more well-versed with your skills.
+You can also expect to land interviews and placement opportunities if you decide to take a course with Learnbay.
 
 
-Source: CollegeDunia
+### Who is it suitable for?
+If you are a seasoned professional in the healthcare, pharmaceutical, or clinical domain looking for that upgrade in your career, this is suitable for you.
+Or if you are a professional who wants to learn about DS and its methodologies in the Pharma/Health sector to make that switch even then, this course is highly compatible for you. 
+It is completely fine if you do not have a mathematical or statistical background.
 
 
-## Banking, Finance, Services, and Insurance Course:
-
-You should enroll at <a href="https://www.learnbay.co/data-science-course-training-in-https://blog.learnbay.co/" target="_blank">Learnbay</a>
- institute, if you want to pursue a profession in the Banking, Finance, and Service Insurance area. It gives you a certificate that is recognized around the world. This will help you get more attention and make you stand out from the rest of the people. You’ll also be able to get live interactive sessions so that you can ask questions. Learnbay’s BFSI course includes Project Life Cycle Expertise, as well as two capstone projects and the opportunity to work on real-world projects. By visiting the Learnbay institute, you can learn more about the domain. Learnbay provides one of the greatest data science courses in Bangalore, and I definitely suggest it.
+### Projects you will get to work on    
 
 
-## Prerequisites for BFSI   
+<b>Personalized Medicine: </b> Much has happened in recent years. How precision medicine and, more specifically, genetic testing change the way a disease like cancer will be treated. But because of the large amount of respective data, manual labor is still needed but only to a partial extent. We should strive to maximize the potential of personalized medicine for this project. Malignant tumor undergoes thousands of genetic changes as soon as they develop. proper analysis of relevant data can make such research much easier. Well-trained ML models can easily handle such data.
 
-Course Professionals with 1+ years of expertise in the BFSI area are required. Non-BFSI professionals who want to learn about the most up-to-date technology, data science, artificial intelligence, data analyst, and business analyst methodologies that drive strategic development can learn through Learnbay’s <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
+<b>Ultrasound Nerve Segmentation:</b> It is important to properly identify the neural structure on ultrasound images before placing the patient's pain catheter. This DS project in Python needs to create a model that can detect neural components in a collection of ultrasound images of the neck. This will help improve catheter placement and contribute to a pain-free future.
 
+<b>Healthy Diet chart for COVID-19 Patients:</b> The right food intake fosters the recovery of Corona patients. But the measure of diet is different for each patient. Advanced analytical surveys have made it possible. Even a few smart healthcare devices and apps can provide effective outcomes. You can easily calculate the required level of each nutrient. 
 
+Image Source: Kaggle Data Set
 
-* Bibliography:
+To know more about domain specialization or if you want to take an entry-level DS course, then take a look at the Data Science & AI Certification| Domain Specialization For Professionals course
 
+## Conclusion    
 
-<a href="https://360digitmg.com/applications-of-data-science-in-finance-and-insurance" target="_blnak">https://360digitmg.com/applications-of-data-science-in-finance-and-insurance</a>
+Now that we have reached the end of the blog, I hope it has served the purpose of educating you on the importance of domain expertise. Another thing that we wanted to make clear was the potential of this in the coming future and even the present. Pharma and the medical industry will never be outdated as long as humans exist. So if you want to make that switch, then I would say that you can change into this industry with your eyes closed.
 
-<a href="https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/" target="_blnak">https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/</a>
+## Bibliography
 
-<a href="https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/" target="_blnak">https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp</a>
+<a href="https://analyticsindiamag.com/what-does-it-take-to-become-a-healthcare-data-scientist/" target="_blank">https://analyticsindiamag.com/what-does-it-take-to-become-a-healthcare-data-scientist/</a>
 
-<a href="https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies" target="_blnak">https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies</a>
-
-<a href="https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary" target="_blnak">https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary</a>
+<a href="https://www.springboard.com/library/data-science/healthcare-industry-jobs/" target="_blank">https://www.springboard.com/library/data-science/healthcare-industry-jobs/</a>
+<a herf="https://www.hsph.harvard.edu/health-data-science/
+" target="_blank">https://www.hsph.harvard.edu/health-data-science/
+</a>

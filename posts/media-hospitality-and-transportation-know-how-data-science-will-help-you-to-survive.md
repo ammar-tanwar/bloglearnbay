@@ -76,17 +76,6 @@ Social media has given media and entertainment companies a wonderful opportunity
 * Analysis of media content usage 
 Big media companies can use data science algorithms to make data work for them and generate profit. Media content analysis is a well-developed method that analyses the message and connotations of content. The media content analysis process consists of three main levels: capture and understand. The algorithms identify patterns and incidents within the text. The data can then be processed. These frameworks are used to define the tone of the text. Its influence on the user can be predicted.
 
-
-
-
-
-
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-04.png" style="width: 100%;"/></img>
-
-
-Image by Author
-
-
 ### Hospitality
 
 AI and DS technologies are being used in many industries, but I am most excited about how these can be applied to the hospitality industry. Recently, however, I noticed a lot more innovation in the hospitality industry. The industry is embracing these advanced technologies with open minds.

@@ -1,9 +1,10 @@
 ---
 title: Regression techniques in Machine Learning
-desc: "There should be a linear relationship between the variables. It is very sensitive to Outliers and can give a high variance and bias model."
+desc: "
+Machine learning has become the sexiest and very trendy technology in this world of technologies, Machine learning is used every day in our life such as Virtual assistance, for making future predictions, Videos surveillance, Social media services, spam mail detection, online customer support, search engine resulting prediction, fraud detection, recommendation systems, etc..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech.jpg"
-date: "may 29, 2022"
+date: "May 29, 2022"
 tag: [ Machine Learning ]
 category: "Machine Learning"
 author: "Admin"
@@ -13,13 +14,50 @@ h1: "Regression techniques in Machine Learning"
 id: "regression-techniques-in-machine-learning"
 tableData:
   [
-   Additional points on Linear regression,
-   Additional point,
+   Regression techniques in Machine Learning,
+   Introduction , What is Regression?, Linear regression, Additional points on Linear regression,  Logistic regression , Additional point, Polynomial regression, Step-wise Regression,  Additional points,  Lasso Regression, Additional points, 
 
   ]
 ---
 
-#### Additional points on Linear regression:
+# Regression techniques in Machine Learning
+
+Machine learning has become the sexiest and very trendy technology in this world of technologies, Machine learning is used every day in our life such as Virtual assistance, for making future predictions, Videos surveillance, Social media services, spam mail detection, online customer support, search engine resulting prediction, fraud detection, recommendation systems, etc. In machine learning, Regression is the most important topic that needed to be learned. There are different types of Regression techniques in Machine Learning which we will know in this article.
+
+## Introduction 
+
+Regression techniques in Machine Learning such as Linear regression and Logistic regression are the most important algorithms that people learn while they study about <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">Machine learning</a> algorithms. There are numerous forms of regression that are used to perform regression and each has its own specific features, that are applied accordingly. The regression techniques are used to find out the relationship between the dependent and independent variables or features. It is a part of data analysis that is used to analyze the infinite variables and the main aim of this is forecasting, time series analysis, modeling.
+
+## What is Regression?    
+
+Regression is a statistical method that mainly used for finance, investing and sales forecasting, and other business disciplines that make attempts to find out the strength and relationship among the variables.
+
+There are two types of the variable into the dataset for apply regression techniques:
+
+Dependent Variable that is mainly denoted as Y
+Independent variable that is denoted as x.
+
+And, There are two types of regression
+
+Simple Regression: Only with a single independent feature /variable
+Multiple Regression: With two or more than two independent features/variables.
+
+Indeed, in all regression studies, mainly seven types of regression techniques are used firmly for complex problems.
+
+- Linear regression
+- Logistics regression
+- Polynomial regression
+- Stepwise Regression
+- Ridge Regression
+- Lasso Regression
+
+## Linear regression     
+
+It is basically used for predictive analysis, and this is a supervised machine learning algorithm. Linear regression is a linear approach to modeling the relationship between scalar response and the parameters or multiple predictor variables. It focuses on the conditional probability distribution. The formula for linear regression is Y = mX+c.
+
+Where Y is the target variable, m is the slope of the line, X is the independent feature, and c is the intercept.
+
+## Additional points on Linear regression   
 
 
 
@@ -28,7 +66,7 @@ tableData:
 3. The problem of occurring multi colinearity with multiple independent features
 
 
-### Logistic regression:
+### Logistic regression 
 
 It is used for classification problems with a linear dataset. In layman’s term, if the depending or target variable is in the binary form (1 0r 0), true or false, yes or no. It is better to decide whether an occurrence is possibly either success or failure.
 
@@ -37,8 +75,7 @@ It is used for classification problems with a linear dataset. In layman’s term
 
 
 
-## Additional point:
-
+## Additional point   
 
 
 1. It is used for classification problems.
@@ -48,7 +85,7 @@ It is used for classification problems with a linear dataset. In layman’s term
 5. It needs to avoid collinearity and multicollinearity.
 
 
-### Polynomial regression:
+### Polynomial regression        
 
 The polynomial regression technique is used to execute a model that is suitable for handling non-linear separated data. It gives a curve that is best suited to data points, rather than a straight line.
 
@@ -65,7 +102,7 @@ Additional  features:
 Look particularly for curve towards the ends to see if those shapes to patterns make logical sense. More polynomials can lead to weird extrapolation results. 
 
 
-### Step-wise Regression:
+### Step-wise Regression
 
 It is used for statistical model fitting regression with predictive models. It is done automatically. 
 
@@ -82,8 +119,7 @@ Additional points:
 3. The backward elimination starts with all the predictors into the model and then removes the least significant variable.
 
 
-### Ridge Regression: 
-
+### Ridge Regression    
 It is a method that used when the dataset having multicollinearity which means, the independent variables are strongly related to each other. Although the least-squares estimates are unbiased in multicollinearity, So after adding the degree of bias to the regression, ridge regression can reduce the standard errors.
 
 
@@ -91,7 +127,7 @@ It is a method that used when the dataset having multicollinearity which means, 
 
 
 
-#### Additional points:
+#### Additional points 
 
 
 
@@ -100,7 +136,8 @@ It is a method that used when the dataset having multicollinearity which means, 
 3. This uses the l2 regularization method as it is also a regularization method.
 
 
-### Lasso Regression:
+### Lasso Regression    
+
 
 Lasso is an abbreviation of the Least Absolute shrinkage and selection operator. This is similar to the ridge regression as it also analyzes the absolute size of the regression coefficients. And the additional features of that are it is capable of reducing the accuracy and variability of the coefficients of the Linear regression models.
 
@@ -108,9 +145,7 @@ Lasso is an abbreviation of the Least Absolute shrinkage and selection operator.
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech4.png"   class="img"  /></img>
 
 
-Additional points: 
-
-
+### Additional points     
 
 1. Lasso regression shrinks the coefficients aero, which will help in feature selection for building a proper ML model.
 2. It is also a regularization method that uses l1 regularization.
