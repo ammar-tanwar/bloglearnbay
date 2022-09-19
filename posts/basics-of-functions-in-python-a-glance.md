@@ -7,7 +7,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic
 date: "September 9, 2022"
 tag: [ Data Science ]
 category: "Data Science"
-author: "Vineeth" 
+author: "Vineeth Kumar" 
 position: "Editor"
 readTime: "9-10 mins"
 h1: "Basics of Functions In Python - A Glance"

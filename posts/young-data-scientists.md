@@ -25,7 +25,7 @@ tableData:
 
 Data Science is like a wildlife jungle, looks amazing and interesting at first sight but just as one tries to enter into it the vastness of Data Science will be visible, which is so vast that it will scare the one to drop the passion of Data Science. Even if efforts are put in, the heavy syllabus of concepts would weigh too much on one’s sanity. This is the one major reason why Data Science seems not a cup of tea for most people. In a ratio of 10, only 6 percent of people would make it as Data Scientists. On the other hand, two youngsters aged 12 and 14 are currently on their internship as Data Scientists in massive huge IT companies and started their journey to become young data scientists. Lets us step further to know who are the youngest data scientists?
 
-Now the question is, _if Data Science is so much daunting to learn by adults how could the young kids triumph in it?_
+Now the question is, if Data Science is so much daunting to learn by adults how could the young kids triumph in it?_
 
 The answer to this question lays in the journey of these two young Data Scientists. Let’s get it now, but first, let’s have a brief intro of them.
 

@@ -1,5 +1,5 @@
 ---
-title: Introduction To Vertex AI models - The New Horizon of Google Cloud's Success
+title: Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success
 desc: "Google has officially announced that it has unified its AutoML and AI Platform **APIs** into one managed platform called Vertex AI..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg"
@@ -9,7 +9,7 @@ category: "Machine Learning"
 author: "Nivin" 
 position: "Editor"
 readTime: "9-10 mins"
-h1: "Introduction To Vertex AI models - The New Horizon of Google Cloud's Success"
+h1: "Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success"
 id: "introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success"
 tableData:
   [
@@ -19,9 +19,9 @@ tableData:
   ]
 ---
 
-# Introduction To Vertex AI models: The New Horizon of Google Cloud's Success
+# Introduction To Vertex AI Models: What Is Vertex AI Model ?
 
-Vertex AI models: A New Tool by Google Cloud.
+  <span style="color:blue;">Vertex AI models: A New Tool by Google Cloud.</span>
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg" style="width:100%" class="img"/></img>
 
@@ -62,18 +62,16 @@ The **Cloud (ML)** allows customers to train machine learning models in the clou
 
 ## Benefits of Vertex [AI](https://www.youtube.com/c/Learnbay/search?query=AI) **Workbench:-**
 
--
-### **Exploration and analysis are simple-**     
+
+- ### **Exploration and analysis are simple-**     
 
 BigQuery, Dataproc, Spark, and Vertex AI integration simplify data access and machine learning access in the notebook.
 
--
-### **Model development and rapid prototyping-**
+- ### **Model development and rapid prototyping-**
 
 To go from data to training at scale, take advantage of the potential of unbounded compute with Vertex AI training for exploration and prototyping.
 
--
-### **Notebook workflows from start to finish-**   
+- ### **Notebook workflows from start to finish-**   
 
 Vertex AI Workbench allows you to centralize your training and deployment procedures on Vertex AI.
 
@@ -109,20 +107,20 @@ This page explains how to prepare video footage for use in a Vertex AI dataset. 
 
 ## **Vertex AI Use Cases**
 
-Vertex AI can help data scientists and machine learning developers in a variety of ways.
+### **Vertex AI can help data scientists and machine learning developers in a variety of ways.**
 
-- **Use Vertex AI Data Labeling to boost prediction accuracy and analyze high-quality training data by importing data from Cloud Storage and Big Query.**
+- Use Vertex AI Data Labeling to boost prediction accuracy and analyze high-quality training data by importing data from Cloud Storage and Big Query.
 
-- **To serve, reuse, and distribute ML features, use Vertex AI Feature Store (a fully-managed feature-rich repository)**
+- To serve, reuse, and distribute ML features, use Vertex AI Feature Store (a fully-managed feature-rich repository)
 
-- **Streamline the development and execution of machine learning processes with Vertex AI Pipelines.**
+- Streamline the development and execution of machine learning processes with Vertex AI Pipelines.
 
-- **Vertex AI Prediction simplifies the deployment and monitoring of models in the field.**
+- Vertex AI Prediction simplifies the deployment and monitoring of models in the field.
 
-- **Get detailed model feature attributions and evaluation metrics with Vertex Explainable AI.**
+- Get detailed model feature attributions and evaluation metrics with Vertex Explainable AI.
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-4.jpg" style="width:100%" class="img"/></img>
 
 ## **Conclusion** :-     
  
-In a nutshell, Vertex AI is a one-stop shop for data scientists, providing all of the tools they'll need to manage, construct, deploy, interpret, and monitor their models. Newbies and experts alike can instantly start utilizing Vertex AI with any kind of formal machine learning training. **Vertex AI is a powerful Google offering that offers a lot of potential for any company that has been trying to get true benefit from their machine learning efforts. I hope you learned something new tech from our blog post. Follow us on**  <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a> **to stay up to date on the latest data science and AI news.** 
+In a nutshell, Vertex AI is a one-stop shop for data scientists, providing all of the tools they'll need to manage, construct, deploy, interpret, and monitor their models. Newbies and experts alike can instantly start utilizing Vertex AI with any kind of formal machine learning training. **Vertex AI is a powerful Google AI & AutoML platform that offers a lot of potential for any company that has been trying to get true benefit from their machine learning efforts. I hope you learned something new tech from our blog post.<br> Follow us on**  <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a> **to stay up to date on the latest data science and AI news.** 

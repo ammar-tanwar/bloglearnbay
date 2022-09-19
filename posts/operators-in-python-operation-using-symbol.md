@@ -5,7 +5,7 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg"
 date: "September 14, 2022"
 tag: [ Python ]
-author: "Vineeth"
+author: "Vineeth Kumar"
 category: "Python"
 position: "Editor"
 readTime: "10-12 mins"

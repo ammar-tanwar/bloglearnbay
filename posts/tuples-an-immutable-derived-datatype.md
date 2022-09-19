@@ -13,7 +13,7 @@ h1: "Tuples - An Immutable Derived Datatype"
 id: "tuples-an-immutable-derived-datatype"
 tableData:
   [
-    What is a tuple in Python?, Then what is the difference between list and tuple?, non-empty tuple, How to perform basic operations in a tuple?, Tuple Concatenation,  Repeating Tuple, Slicing Tuple, Finding the length of the Tuple ,Basic functions to use while executing a code in the tuple, Sorting of tuple, Nesting of tuples,Take away,
+    What is a tuple in Python?, Then what is the difference between list and tuple?, non-empty tuple, Creating Immutable tuple, How to perform basic operations in a tuple?, Tuple Concatenation,  Repeating Tuple, Slicing Tuple, Finding the length of the Tuple ,Basic functions to use while executing a code in the tuple, Sorting of tuple, Nesting of tuples,Take away,
   ]
 ---
 
@@ -63,7 +63,8 @@ Example:
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-2.jpg" style="width:100%" class="img"/></img>
 
 
-**Creating Immutable tuple:** An example shown below is that the item assignment is not possible.
+### Creating Immutable tuple
+ An example shown below is that the item assignment is not possible.
 
 | #testing that tuples are immutable
 
