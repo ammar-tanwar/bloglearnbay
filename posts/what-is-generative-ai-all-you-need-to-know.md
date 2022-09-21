@@ -1,5 +1,5 @@
 ---
-title: Why Has Generative AI For Deepfake And Synthetic Data Been So Popular Till Now?
+title: What Is Generative AI? All You Need To Know! 
 desc: "AI-generated deep fake and synthetic data** appears to be a very fascinating topic these days, with a developing trend. We've seen a lot of examples, and one of the most common examples of Deepfake and Synthetic data is Instagram or TikTok"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-1.jpg"
@@ -9,12 +9,12 @@ category: "AI"
 author: "Nivin" 
 position: "Editor"
 readTime: "9-10 mins"
-h1: "Why Has Generative AI For Deepfake And Synthetic Data Been So Popular Till Now?"
-id: "why-has-generative-ai-for-deepfake-and-synthetic-data-been-so-popular-till-now"
+h1: "What Is Generative AI? All You Need To Know!"
+id: "what-is-generative-ai-all-you-need-to-know"
 tableData:
   [
 
-     Why Has Generative AI For Deepfake And Synthetic Data Been So Popular Till Now?, Synthetic Data- What Does it mean?, Now - what is Deepfake technology? Many people might be curious about that., Highlights on DeepFake technology:-, Text Generation, Speech cloning, Lip-syncing, Face-swapping, Merits of Deepfake and Synthetic data:-, Demerits, How is synthetic media used in business communication?, Final thoughts ,
+    Why Has Generative AI For Deepfake And Synthetic Data Been So Popular Till Now?, Synthetic Data- What Does it mean?, Now - what is Deepfake technology? Many people might be curious about that., Highlights on DeepFake technology:-, Text Generation, Speech cloning, Lip-syncing, Face-swapping, Merits of Deepfake and Synthetic data:-, Demerits, How is synthetic media used in business communication?, Final thoughts ,
         
   ]
 ---

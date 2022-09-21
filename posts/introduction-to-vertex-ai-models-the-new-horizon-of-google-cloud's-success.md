@@ -18,10 +18,9 @@ tableData:
         
   ]
 ---
+# Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success
 
-# Introduction To Vertex AI Models: What Is Vertex AI Model ?
-
-  <span style="color:blue;">Vertex AI models: A New Tool by Google Cloud.</span>
+  <span style="color:blue;">What Is Vertex AI Model?</span>
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg" style="width:100%" class="img"/></img>
 
