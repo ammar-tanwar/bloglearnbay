@@ -1,5 +1,5 @@
 ---
-title: Successful Data Scientist without a Tech degree! Yes, it is possible
+title: Successful Data Scientist Without A Tech Degree! Yes, It Is Possible
 desc: "Technology keeps evolving with discoveries every day. In recent years many interesting jobs have been created with high-paying salaries, and a data science job is one of them. But being a non-stem degree holder,"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg"
@@ -9,8 +9,8 @@ category: "Data Science"
 author: "Milan" 
 position: "Editor"
 readTime: "9-10 mins"
-h1: "Successful Data Scientist without a Tech degree! Yes, it is possible"
-id: "successful-data-scientist-without-a-tech-degree-yes-i-is-possible"
+h1: "Successful Data Scientist Without A Tech Degree! Yes, It Is Possible"
+id: "successful-data-scientist-without-a-tech-degree-yes-it-is-possible"
 tableData:
   [
 
@@ -20,9 +20,9 @@ tableData:
 ---
 
 
-# Successful Data Scientist without a Tech degree! Yes, it is possible
+# Successful Data Scientist Without A Tech Degree! Yes, It Is Possible
 
-<span style="color:blue;">You Can Still Become A Data Scientist Without Any TechDegree</span>
+<span style="color:blue;">You Can Still Become A Data Scientist Without Any Tech Degree</span>
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg" style="width:100%" class="img"/></img>
 
@@ -63,7 +63,7 @@ A major part of a data scientist's job involves accessing, cleaning, wrangling, 
 
 When you are comfortable working with key skills and tools, you have to work a little deeper. Test yourself with Kaggle and TopCoder competitions, a data science hackathon. Apply skills when and where you do all of these.
 
-Hands-on projects and capstone projects are the keys to your resume and career. Data science and AI certificates are good, but these projects will make you stand out from the crowd. And this is also where the recruiters are more curious to know about than the certificates or whether you have a degree or not. A **data science course** must **include** real-time projects and fresh capstone projects. Learnbay data science course offers a project completion certificate by IBM on the successful completion of capstone projects.
+Hands-on projects and capstone projects are the keys to your resume and career. Data science and AI certificates are good, but these projects will make you stand out from the crowd. And this is also where the recruiters are more curious to know about than the certificates or whether you have a degree or not. A **data science course** must include real-time projects and fresh capstone projects. Learnbay data science course offers a project completion certificate by IBM on the successful completion of capstone projects.
 
 
 ### **Create A Portfolio**
@@ -85,6 +85,6 @@ Data science interviews are one of the toughest ones to crack. The data scientis
 Your first job in data science may not be the one you wish to work for. Getting a foot in the door is more valuable rather than completely moving towards your dream job late. You can improve your data analysis skills, so if you work in data warehousing or management, you can develop your expertise in data structures and databases.It is important to set the right goals that you learn from each role in data science. Everything that you learn technically with soft skills will bring you closer to becoming a data scientist, your dream job role.
 
 
-Yes, you can learn **data science without a degree**. It won't take you years to know so. If you feel that you are working too much on math, you can give programming ample time. It will hardly take months to become a data scientist if you choose the right guidance. You can join Learnbay data science and AI training with an interview guarantee, where you get live classes from FAANG experts. This course includes real-world capstone projects and even helps you build your resume and portfolio.
+Yes, you can learn **data science without a degree**. It won't take you years to know so. If you feel that you are working too much on math, you can give programming ample time. It will hardly take months to become a data scientist if you choose the right guidance. You can join Learnbay data science and AI training with an interview guarantee, where you get live classes from MAANG experts. This course includes real-world capstone projects and even helps you build your resume and portfolio.
 
 So why wait? Jump into the world of possibilities. Best of luck.
