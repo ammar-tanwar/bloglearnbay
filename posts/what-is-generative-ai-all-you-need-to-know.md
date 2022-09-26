@@ -4,8 +4,8 @@ desc: "AI-generated deep fake and synthetic data** appears to be a very fascinat
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-1.jpg"
 date: "September 20, 2022"
-tag: [ AI ]
-category: "AI"
+tag: [ Artificial Intelligence ]
+category: "Artificial Intelligence"
 author: "Nivin" 
 position: "Editor"
 readTime: "9-10 mins"
