@@ -83,14 +83,14 @@ Ishu Jain applied all her skills and experience at Swiggy for central functions.
 
 Ishu Jain leads a team of 100+ data scientists and analysts for functions like geospatial analytics, delivery network optimization, payout structure, fleet assignment and demand and supply forecasting.
 
-### 4.Lakshmi Vaidesswaran  
+### 4. Lakshmi Vaidesswaran  
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-5.jpg" style="width:100%" class="img"/></img>
 
 Lakshmi Vaideeswaran is the VP at Tiger analytics. She is a pioneer in technological development and commercialization with 30 years of experience. She offers her clients high value from their customers by tiger analytics.
 
-She has received the "Women In AI leadership award for Tiger analytics." Tiger analytics provides data analytics, consulting solutions, <a href="https://www.learnbay.co/marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope/" target="_blank">marketing</a>, risk analytics, planning, and operation solutions. Tiger analytics excels in data engineering,
-<a href="https://www.learnbay.co/data-science-for-working-professionals/" target="_blank">data science</a>, and business analytics. They even offer consumer packaged goods, <a href="https://blog.learnbay.co/customer-experience-enhancement-in-banks" target="_blank">banking</a>, financial services, insurance, and solutions to <a href="https://www.learnbay.co/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career/ " target="_blank">retail</a> industries.
+She has received the "Women In AI leadership award for Tiger analytics." Tiger analytics provides data analytics, consulting solutions, <a href="https://blog.learnbay.co/marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope" target="_blank">marketing</a>, risk analytics, planning, and operation solutions. Tiger analytics excels in data engineering,
+<a href="https://blog.learnbay.co/data-science-for-working-professionals" target="_blank">data science</a>, and business analytics. They even offer consumer packaged goods, <a href="https://blog.learnbay.co/customer-experience-enhancement-in-banks" target="_blank">banking</a>, financial services, insurance, and solutions to <a href="https://blog.learnbay.co/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career" target="_blank">retail</a> industries.
 
 She was even added to the list of Top 50 STEM scientists in the country by the confederation of Indian industry.
 
