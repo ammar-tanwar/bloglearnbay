@@ -17,7 +17,7 @@ export default function Post({ postData, posts }) {
           <title>{postData.title}</title>
           <meta
             name="description"
-            content="Learnbay - Advance Data Science Course With IBM Certification"
+            content={postData.desc}
           />
           <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
         </Head>
