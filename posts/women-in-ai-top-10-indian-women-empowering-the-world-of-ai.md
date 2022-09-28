@@ -47,7 +47,7 @@ Here are the top Indian **women in AI** or better to say top Indian women leader
 
 ### 1.Hardika Shah   
 
-**<span style="color:green;">"a true attestation of our sustainable business model and the vast MSME market opportunity ahead of us. This fresh equity round will energize us to scale faster to continue doing what we do best, bringing more small business entrepreneurs into the fold of financial inclusion."</span>**  **Hardika Shah.** 
+**<span style="color:green;">"A true attestation of our sustainable business model and the vast MSME market opportunity ahead of us. This fresh equity round will energize us to scale faster to continue doing what we do best, bringing more small business entrepreneurs into the fold of financial inclusion."</span>**  **Hardika Shah.** 
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-2.jpg" style="width:100%" class="img"/></img>
 
