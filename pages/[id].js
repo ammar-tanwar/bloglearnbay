@@ -12,7 +12,7 @@ export default function Post({ postData, posts }) {
     <>
       <section className={styles.MainS}>
         <Head>
-       <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
+          <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
 
           <title>{postData.title}</title>
           <meta
@@ -20,6 +20,54 @@ export default function Post({ postData, posts }) {
             content={postData.desc}
           />
           <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
+
+
+{/* Schema genertor start */}
+          {/* <script type="application/ld+json">{`
+
+
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "${postData.id}"
+        },
+      
+
+
+      "about": "${blurb}",
+      "author": { "@type": "Person", "@id": "${site}author/${
+        author.slug
+      }", "name": "${author.name}" },
+      ${
+        citationsText.length
+          ? `"citation": [
+        ${citationsText}
+      ],`
+          : ""
+      }
+      "commentCount": ${commentCount},
+      "copyrightHolder": { "@id": "${site}#organization" },
+      "copyrightYear": ${copyrightYear},
+      "datePublished": "${date}",
+      "dateModified": "${modified}",
+      "description": "${blurb}",
+      "discussionUrl": "${site}articles/${slug}#comments",
+      "editor": { "@id": "${site}author/${author.slug}#author" },
+      "headline": "${title}",
+      ${sourceUrl ? `"image": "${sourceUrl}",` : ""}
+      "inLanguage": "English",
+      "mainEntityOfPage": "${site}articles/${slug}",
+      "publisher": { "@id": "${site}#organization" },
+      "sourceOrganization": ${org},
+      "url": "${site}articles/${slug}"
+    }
+    `}</script> */}
+
+    {/* Schema Generator End */}
+
+
         </Head>
         <div className={styles.DivImg}>
           <img
@@ -44,73 +92,73 @@ export default function Post({ postData, posts }) {
           </div>
           <div className={styles.bodyInfo}>
             <div className={styles.rightInfo}>
-            <div className={styles.blogdiv1}>
-              <div className={styles.table}>
-                <h5>Table of content</h5>
-                <div className={styles.contentT}>
-                  {postData.table.map((table, i) => {
-                    const removeSpecial = table.replace(
-                      /[&\/\\#,+()$~%.'":*?<>{}]/g,
-                      ""
-                    );
+              <div className={styles.blogdiv1}>
+                <div className={styles.table}>
+                  <h5>Table of content</h5>
+                  <div className={styles.contentT}>
+                    {postData.table.map((table, i) => {
+                      const removeSpecial = table.replace(
+                        /[&\/\\#,+()$~%.'":*?<>{}]/g,
+                        ""
+                      );
 
-                    const uMake = removeSpecial
-                      .toLowerCase()
-                      .replace(/\s+/g, "-");
+                      const uMake = removeSpecial
+                        .toLowerCase()
+                        .replace(/\s+/g, "-");
 
-                    const url = `#${uMake}`;
-                    return (
-                      <div key={i}>
-                        <div className={styles.numberBack}>
-                          <span className={styles.number}>{i}</span>
+                      const url = `#${uMake}`;
+                      return (
+                        <div key={i}>
+                          <div className={styles.numberBack}>
+                            <span className={styles.number}>{i}</span>
+                          </div>
+                          <span>
+                            <p>
+                              <Link href={url}>{table}</Link>
+                            </p>
+                          </span>
                         </div>
-                        <span>
-                          <p>
-                            <Link href={url}>{table}</Link>
-                          </p>
-                        </span>
-                      </div>
-                    );
-                  })}
-                </div>
-                <h5>Related Posts</h5>
-                <div className={styles.relatePost}>
-                  {posts.map((post, i) => {
-                    return (
-                      <div className={styles.rPost} key={i}>
-                        <a href={post.id}>
-                          {" "}
-                          <h5>{post.title}</h5>
-                        </a>
-                        <span>
-                          {post.author}
-                          <p className={styles.rPostD}>
-                            <IoTimeOutline className={styles.timeIcon} />
-                            {post.date}
-                          </p>
-                        </span>
-                      </div>
-                    );
-                  })}
+                      );
+                    })}
+                  </div>
+                  <h5>Related Posts</h5>
+                  <div className={styles.relatePost}>
+                    {posts.map((post, i) => {
+                      return (
+                        <div className={styles.rPost} key={i}>
+                          <a href={post.id}>
+                            {" "}
+                            <h5>{post.title}</h5>
+                          </a>
+                          <span>
+                            {post.author}
+                            <p className={styles.rPostD}>
+                              <IoTimeOutline className={styles.timeIcon} />
+                              {post.date}
+                            </p>
+                          </span>
+                        </div>
+                      );
+                    })}
+                  </div>
                 </div>
               </div>
-            </div>
             </div>
             <div className={styles.blogdiv1}>
-            <div className={styles.leftInfo}>
-              <article dangerouslySetInnerHTML={{ __html: postData.body }} />
-              <hr />
-              <div className={styles.tag}>
-                <div className={styles.lSide}>
-                  <p>Tags</p>{" "}
-                  {postData.tag.map((tag, i) => {
-                    return <span key={i}>#{tag}</span>;
-                  })}
+              <div className={styles.leftInfo}>
+                <article dangerouslySetInnerHTML={{ __html: postData.body }} />
+                <hr />
+                <div className={styles.tag}>
+                  <div className={styles.lSide}>
+                    <p>Tags</p>{" "}
+                    {postData.tag.map((tag, i) => {
+                      return <span key={i}>#{tag}</span>;
+                    })}
+                  </div>
                 </div>
-              </div>
 
-              <hr />
-            </div>
+                <hr />
+              </div>
             </div>
           </div>
         </div>

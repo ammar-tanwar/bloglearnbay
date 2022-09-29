@@ -141,7 +141,7 @@ const Tabs = ({ handleIcon }) => {
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master`&apos;`s Program</h5>
+                        <h5>Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -242,7 +242,7 @@ const Tabs = ({ handleIcon }) => {
                   <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master`&apos;`s Program</h5>
+                        <h5>Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -398,7 +398,7 @@ const Tabs = ({ handleIcon }) => {
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master`&apos;`s Program</h5>
+                        <h5>Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -540,7 +540,7 @@ const Tabs = ({ handleIcon }) => {
                   <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master`&apos;`s Program</h5>
+                        <h5>Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -690,7 +690,7 @@ const Tabs = ({ handleIcon }) => {
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master`&apos;`s Program</h5>
+                        <h5>Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -758,7 +758,7 @@ const Tabs = ({ handleIcon }) => {
                   <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master`&apos;`s Program</h5>
+                        <h5>Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -863,7 +863,7 @@ const Tabs = ({ handleIcon }) => {
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master`&apos;`s Program</h5>
+                        <h5>Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -983,7 +983,7 @@ const Tabs = ({ handleIcon }) => {
                   <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master`&apos;`s Program</h5>
+                        <h5>Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
