@@ -22,7 +22,7 @@ tableData:
 
 # Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break
 
-Women can now easily grab an unbelievable hike even after a long career break… Just earn industry-level full-stack developer skills.
+<span style="color:blue;">Women can now easily grab an unbelievable hike even after a long career break… Just earn industry-level full-stack developer skills.</span>
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f1.jpg" style="width:100%" class="img"/></img>
 
