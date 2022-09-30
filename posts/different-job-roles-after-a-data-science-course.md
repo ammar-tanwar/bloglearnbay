@@ -10,7 +10,7 @@ category: "Hot Topics"
 position: "Editor"
 readTime: "20-25 mins"
 h1: "Different Job Roles After A Data Science Course"
-id: "banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package"
+id: "different-job-roles-after-a-data-science-course"
 tableData:
   [
    Why choose Data Science?, Do you know why data science is in high demand Different Job Roles?, Data Analyst,  Data Scientist , Data Engineers, Machine Learning Engineer, Data Architect, Statistician,  Business Analyst, Market Research Analyst, Database Administrator,  Final Words
