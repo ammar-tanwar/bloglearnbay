@@ -23,7 +23,7 @@ export default function Post({ postData, posts }) {
 
 
 {/* Schema genertor start */}
-          {/* <script type="application/ld+json">{`
+          <script type="application/ld+json">{`
 
 
       {
@@ -33,39 +33,33 @@ export default function Post({ postData, posts }) {
           "@type": "WebPage",
           "@id": "${postData.id}"
         },
+
+        "title": "${postData.title}",
+        "image": "${postData.img}", 
+        "author": {
+          "@type": "Person",
+          "author": "${postData.author}"
+        },
+        
+        "publisher": {
+          "@type": "Organization",
+          "name": "Learnbay",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://blog.learnbay.co/_next/image?url=https%3A%2F%2Flearnbay-wb.s3.ap-south-1.amazonaws.com%2Fmain-blog%2FLearnbay-Logo.webp&w=256&q=100"
+          }
+        },
+        "datePublished": "${postData.date}"
       
-
-
-      "about": "${blurb}",
-      "author": { "@type": "Person", "@id": "${site}author/${
-        author.slug
-      }", "name": "${author.name}" },
-      ${
-        citationsText.length
-          ? `"citation": [
-        ${citationsText}
-      ],`
-          : ""
-      }
-      "commentCount": ${commentCount},
-      "copyrightHolder": { "@id": "${site}#organization" },
-      "copyrightYear": ${copyrightYear},
-      "datePublished": "${date}",
-      "dateModified": "${modified}",
-      "description": "${blurb}",
-      "discussionUrl": "${site}articles/${slug}#comments",
-      "editor": { "@id": "${site}author/${author.slug}#author" },
-      "headline": "${title}",
-      ${sourceUrl ? `"image": "${sourceUrl}",` : ""}
-      "inLanguage": "English",
-      "mainEntityOfPage": "${site}articles/${slug}",
-      "publisher": { "@id": "${site}#organization" },
-      "sourceOrganization": ${org},
-      "url": "${site}articles/${slug}"
-    }
-    `}</script> */}
+    `}</script>
 
     {/* Schema Generator End */}
+
+
+
+
+
+    
 
 
         </Head>
