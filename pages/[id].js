@@ -6,6 +6,7 @@ import Head from "next/head";
 import styles from "../styles/blog.module.css";
 import { BsDot } from "react-icons/bs";
 import { IoTimeOutline } from "react-icons/io5";
+import Socialshare from "../components/Socialshare/Socialshare";
 
 export default function Post({ postData, posts }) {
   return (
@@ -55,14 +56,6 @@ export default function Post({ postData, posts }) {
     `}</script>
 
     {/* Schema Generator End */}
-
-
-
-
-
-    
-
-
         </Head>
         <div className={styles.DivImg}>
           <img
@@ -74,8 +67,10 @@ export default function Post({ postData, posts }) {
         </div>
       </section>
 
-      <main>
+      <main> 
+       
         <div className={styles.Open}>
+        <Socialshare />
           <div className={styles.headerInfo}>
             <h1>{postData.mainH1}</h1>
             <span>

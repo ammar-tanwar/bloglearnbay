@@ -303,6 +303,15 @@
     }
 }
 
+.socialshare{
+  display: flex;
+  padding: 10px;
+}
+
+.share{
+  padding:3px;
+}
+
 
 
 

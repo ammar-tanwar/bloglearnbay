@@ -27,10 +27,12 @@ export default function blog({ allPostsData }) {
       <div className={styles.BackP} style={{ marginTop: "70px" }}>
         <h4>
           <b>Our Blogs</b>
+
         </h4>
       </div>
       <section className={styles.blogHead}>
-        <p>Latest Blogs</p>
+
+        <p>Latest Blogs</p>          
       </section>
       <section className={styles.blogWrap}>
         {allPostsData
