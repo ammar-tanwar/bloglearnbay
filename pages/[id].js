@@ -50,6 +50,7 @@ export default function Post({ postData, posts }) {
           }
         },
         "datePublished": "${postData.date}"
+      }
       
     `}</script>
 
