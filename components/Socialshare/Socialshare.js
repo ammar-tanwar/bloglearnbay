@@ -15,43 +15,54 @@ import {
     TwitterIcon,
 } from 'next-share';
 
-export default function Text() {
+function Text({socialText}) {
     return (
         <>
+
+        {
+            socialText.map((socialText, index) => {
+                let murl = socialText.id.replace(" ", "-");
+                let url = `/${murl}`;
+        
+        return(
             <div className={styles.socialshare}>
                 <FacebookShareButton
-                    url={'http://localhost:3000'} >
+                    url={url} >
                     <FacebookIcon size={42} round className={styles.share} />
                 </FacebookShareButton>
                 <PinterestShareButton
-                    url={'http://localhost:3000'} >
+                    url={url} >
                     <PinterestIcon size={42} round className={styles.share} />
                 </PinterestShareButton>
                 {/* <TwitterShareButton 
-		url={'http://localhost:3000'} >
+		url={url } >
 		<TwitterIcon size={42} round className={styles.share} />
 	</TwitterShareButton> */}
                 <RedditShareButton
-                    url={'http://localhost:3000'} >
+                    url={url} >
                     <RedditIcon size={42} round className={styles.share} />
                 </RedditShareButton>
                 <WhatsappShareButton
-                    url={'http://localhost:3000'} >
+                    url={url } >
                     <WhatsappIcon size={42} round className={styles.share} />
                 </WhatsappShareButton>
                 <LinkedinShareButton
-                    url={'http://localhost:3000'} >
+                    url={url} >
                     <LinkedinIcon size={42} round className={styles.share} />
                 </LinkedinShareButton>
                 <TwitterShareButton
-                    url={'http://localhost:3000'} >
+                    url={url} >
 
                     <TwitterIcon size={42} round className={styles.share} />
 
 
                 </TwitterShareButton>
             </div>
+        )    
+        })}
 
         </>
     )
 }
+
+export default Text
