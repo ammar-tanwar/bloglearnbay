@@ -70,7 +70,7 @@ export default function Post({ postData, posts }) {
       <main> 
        
         <div className={styles.Open}>
-        <Socialshare />
+        {/* <Socialshare /> */}
           <div className={styles.headerInfo}>
             <h1>{postData.mainH1}</h1>
             <span>
