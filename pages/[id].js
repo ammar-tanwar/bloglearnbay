@@ -9,6 +9,7 @@ import { IoTimeOutline } from "react-icons/io5";
 import Socialshare from "../components/Socialshare/Socialshare";
 
 export default function Post({ postData, posts }) {
+  console.log(postData);
   return (
     <>
       <section className={styles.MainS}>
@@ -70,7 +71,7 @@ export default function Post({ postData, posts }) {
       <main> 
        
         <div className={styles.Open}>
-        {/* <Socialshare /> */}
+        <Socialshare postData={postData}/>
           <div className={styles.headerInfo}>
             <h1>{postData.mainH1}</h1>
             <span>
