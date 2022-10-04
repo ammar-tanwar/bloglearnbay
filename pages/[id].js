@@ -9,24 +9,20 @@ import { IoTimeOutline } from "react-icons/io5";
 import Socialshare from "../components/Socialshare/Socialshare";
 
 export default function Post({ postData, posts }) {
+  console.log(postData);
   return (
     <>
       <section className={styles.MainS}>
         <Head>
           <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
-
           <title>{postData.title}</title>
           <meta
             name="description"
             content={postData.desc}
           />
           <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
-
-
 {/* Schema genertor start */}
           <script type="application/ld+json">{`
-
-
       {
         "@context": "https://schema.org",
         "@type": "BlogPosting",
@@ -34,7 +30,6 @@ export default function Post({ postData, posts }) {
           "@type": "WebPage",
           "@id": "${postData.id}"
         },
-
         "title": "${postData.title}",
         "image": "${postData.img}", 
         "author": {
@@ -54,7 +49,6 @@ export default function Post({ postData, posts }) {
       }
       
     `}</script>
-
     {/* Schema Generator End */}
         </Head>
         <div className={styles.DivImg}>
@@ -66,11 +60,10 @@ export default function Post({ postData, posts }) {
           ></img>
         </div>
       </section>
-
       <main> 
-       
+
         <div className={styles.Open}>
-        <Socialshare />
+        <Socialshare postData={postData}/>
           <div className={styles.headerInfo}>
             <h1>{postData.mainH1}</h1>
             <span>
@@ -91,11 +84,9 @@ export default function Post({ postData, posts }) {
                         /[&\/\\#,+()$~%.'":*?<>{}]/g,
                         ""
                       );
-
                       const uMake = removeSpecial
                         .toLowerCase()
                         .replace(/\s+/g, "-");
-
                       const url = `#${uMake}`;
                       return (
                         <div key={i}>
@@ -142,11 +133,17 @@ export default function Post({ postData, posts }) {
                   <div className={styles.lSide}>
                     <p>Tags</p>{" "}
                     {postData.tag.map((tag, i) => {
-                      return <span key={i}>#{tag}</span>;
+                      return <span key={i}>#{tag}</span>  
+                      ;
                     })}
+
+                    
+
                   </div>
                 </div>
-
+                <div>
+                   <Socialshare postData={postData}/>
+                   </div>
                 <hr />
               </div>
             </div>
@@ -156,7 +153,6 @@ export default function Post({ postData, posts }) {
     </>
   );
 }
-
 export async function getStaticPaths() {
   const paths = getAllPostIds();
   return {
@@ -164,7 +160,6 @@ export async function getStaticPaths() {
     fallback: false,
   };
 }
-
 export async function getStaticProps({ params }) {
   const posts = getSortedPostsData();
   const postData = getPostData(params.id);
