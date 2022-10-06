@@ -32,7 +32,7 @@ There are stacks of such languages but the trends of the best programming langua
 
 C/C++ has been the oldest language that was used in data science. But lately, python has become the most used programming language for data science. It was primarily because of the simplicity of python programming. In fact, for non-programmers, python is the most significant language to enter into the world of data science. Java, on the other hand, has been a programming language for ages.
 
-But it's not only the two languages that are driving the world of data science. The best <a herf="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">data science course</a> should always include the programming language that is going to be the upcoming boom too. So, which language should you learn first is not at all easy to answer. You need to do a proper assessment based on your individual needs.
+But it's not only the two languages that are driving the world of data science. The best <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">data science course</a> should always include the programming language that is going to be the upcoming boom too. So, which language should you learn first is not at all easy to answer. You need to do a proper assessment based on your individual needs.
 
 In this blog, we will discuss the Top 10 programming languages of data science, which are going to drive the entire data science industry for the next few years.
 <br><br>
