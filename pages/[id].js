@@ -9,7 +9,7 @@ import { IoTimeOutline } from "react-icons/io5";
 import Socialshare from "../components/Socialshare/Socialshare";
 
 export default function Post({ postData, posts }) {
-  console.log(postData);
+  // console.log(postData);
   return (
     <>
       <section className={styles.MainS}>
