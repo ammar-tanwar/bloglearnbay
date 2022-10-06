@@ -14,7 +14,7 @@ id: "know-the-10-most-used-programming-languages-for-data-science"
 tableData:
   [
 
-    Know The 10 Most Used Programming Languages For Data Science, Which programming language should a data scientist learn first?, First - let us understand the correlation between 'programming language skills' and 'data scientists' efficacy',  1.Python, 2. R, 3. SQL, 4. Swift,  5. C++ ,  6. Scala, 7. Java, 8. CUDA-C, 9. GO,  10. Kotlin, Wrapping Up 
+    Know The 10 Most Used Programming Languages For Data Science, Which programming language should a data scientist learn first?, First - let us understand the correlation between 'programming language skills' and 'data scientists' efficacy',Python, R, SQL, Swift, C++ , Scala, Java, CUDA-C, GO, Kotlin, Wrapping Up 
   ]
 ---
 
@@ -52,24 +52,24 @@ There are many different programming languages, but we have listed the top 10 mo
 
 <br>
 
-## 1.Python  
+## Python  
 
 
 Python is the most popular and used programming language in data science for newcomers. It is easy to learn and imply this language, and all credit goes to simple syntax. It is widely utilized in various fields like web development and software development. Library support, garbage collection, increased interoperability with other languages and expanded GUI support are all included in the language.
 <br><br>
 
-## 2. R
+## R
 
 R is an open-source variant of the language called S. It is a programming language that is mostly used in data science. In many cases, R developers can use the same code written for S. R applications are used to process statistics, such as linear and nonlinear modeling, calculation, testing, visualization, and analysis. Data can be structured and unstructured in applications written in R, which can access a wide variety of databases.
 <br><br>
 
 
-## 3. SQL     
+## SQL     
 
 SQL is one of the important programming languages in data science. The program helps in handling structured data. SQL allows access to data and makes it one of the most resourceful programming languages in data science. We have already mentioned that a database is a must in data science. So, SQL has become a necessary programming language in data science. Any query in a database and big data needs a good command of SQL.
 <br><br>
 
-## 4. Swift
+## Swift
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata-3.png" style="width:100%" class="img"/></img>
 
@@ -80,12 +80,12 @@ It has open-source code and straightforward syntax. The excellent interface with
 Python is getting widely used in data science, but do you have any idea that this is already approaching its limits? And yes, you guessed right. Swift owns the probability of replacing the **python language for data science**.
 <br><br>
 
-## 5. C++  
+## C++  
 
 Analytics, research, and game development all require C++. C++'s ability to be both object-oriented and method-oriented means that it may be used to create a wide range of different types of applications. When it comes to data science, C/C++ goes to the least-priority list for the data science learner. It's true it's quite harder than other languages, but in fact, it's the base of programming languages for data science requirements. The piles of programming libraries that drive the data analytical outcomes are based on C/C++ only. If you know C++ well, you will become quite versatile with your data scientific innovation because you can develop new libraries as per your specific requirements.
  <br><br>
 
-## 6. Scala
+## Scala
 
 When it comes to the matter of complex data pipelines, none other than scala can be the savior. In data science, the most significant thing is a scalable data framework. Currently, 90% of data scientists rely on scale for the same. Even for big data analytics, the use of Hadoop is also based on Scala and Java. Hence, <a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">job-ready data science and AI courses</a> must always focus a bit better on scala and Java modules.
 
@@ -96,18 +96,18 @@ Scala is an updated version of Java that was created for removing redundant code
 Scala is utilized by Spark Framework, which handles real-time data streaming. It has large data libraries like ScalaNLP, EPIC, and PUCK.
 <br><br>
 
-## 7. Java     
+## Java     
 Java is object-oriented. It is versatile and a unique language with a lot of functionality. It performs excellently, and it is fast, which makes it the most required skill in the market. Java in data science can help in network-centric security features and platform-independence programming. Java provides data scientists with many features such as data analysis, statistical analysis, data processing, NLP, and data visualization. REPL and lambda expression simplifies the development of large-scale applications. So if you want to use Java for data science projects, then it is a great choice.
  <br><br>
 
-## 8. CUDA-C
+## CUDA-C
 
 CUDA is a programming language developed by Nvidia. CUDA lets developers speed up their computer applications intensively by harnessing the power of GPU (Graphics processing unit).
 
 If you are a professional data scientist in any industry, you have to know CUDA. It will help data scientists to understand how deep learning frameworks get written. It is the programming language that is good to have on your resume. Data engineers can implement models with CUDA that others develop. 
 <br><br>
 
-## 9. GO    
+## GO    
 
 
 Go was developed by 3 google computer scientists, **Robert Griesmer, Ken Thompson, and Rob pike**. Go retains the performance advances of C. For data scientists, It is much easier and safer to work with GO than with C. Go was introduced in 2009. For any mission-critical system in most organizations, Go has replaced C/C++, Python, JAVA, and C#. Go is fancily known as "GOLANG," AND IT suggests a more reliable term in search engines.
@@ -115,7 +115,7 @@ Go was developed by 3 google computer scientists, **Robert Griesmer, Ken Thompso
 Python was introduced to computers 30 years ago; there were no multi-processor at that time. Python is a single-interpreted language, which is less suited for systems that have concurrent processing. A data scientist would be writing codes in Python, but for intensive work on computers, it is C or C++ that does all the work. Python acts like a glue that keeps machine learning together. Go is one of the leading languages in data science other than Python or R. 
 <br><br>
 
-## 10. Kotlin
+## Kotlin
 
 Kotlin has all the capabilities and provides a common platform that closes the gap between data engineers, software engineers, and data science. It gives accessibility to learning easily and is intuitive. It provides **"PYTHONIC"** performance with minimal boilerplate and fast turnaround. Kotlin easily integrates with java ecosystems in enterprises. It helps data scientists to improve data structure at runtime. Data scientists can create streamlined languages for domain-specific logic. It consists of flexible, expressive features with extensions. Lamda and pipelines in Kotlin are present for practical, functional programming construction.
 
