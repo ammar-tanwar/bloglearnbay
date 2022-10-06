@@ -1,9 +1,9 @@
 ---
-title: Top 7 Women Full Stack-Software Developer | The Inspiration for all women in Tech
+title: Top 7 Women Full Stack-Software Developer | The Inspiration for All Women in Tech
 desc: "When we talk about software developers, we hear famous names MARTIN FOWLER, KENT BECK, GEORGE H. FAIRBANKS, MARK RICHARDS, UNCLE BOB, and a few more..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-1.jpg"
-date: "November 04, 2022"
+date: "October 04, 2022"
 tag: [ Full Stack ]
 category: "Full Stack"
 author: "Milan" 
@@ -18,7 +18,7 @@ tableData:
   ]
 ---
 
-# Top 7 Women Full Stack-Software Developer | The Inspiration for all women in Tech
+# Top 7 Women Full Stack-Software Developer | The Inspiration for All Women in Tech
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-1.jpg" style="width:100%" class="img"/></img>
 
@@ -26,7 +26,7 @@ tableData:
 
 When we talk about software developers, we hear famous names **MARTIN FOWLER, KENT BECK, GEORGE H. FAIRBANKS, MARK RICHARDS, UNCLE BOB,** and a few more. The tech industry is flooded with men. Most of them think that when it comes to software development or any other job role in the tech industry, it is only about men.
 
-This is why we want to share with you and clear your thoughts that full-stack software is not just about men. In fact, it can change the growth direction of a woman's career—no matter whether she has a career break or has an impressive career flow. Industry-paced full-stack developer courses are helping women to remove the gender gap in tech by assisting women in restarting their careers after a <a href="https://blog.learnbay.co/full-stack-software-developer-course-the-guarantee-of-a-lucrative-career-restart-for-women-after-a-break" target="_blank">career break.</a>
+This is why we want to share with you and clear your thoughts that full-stack software is not just about men. In fact, it can change the growth direction of a woman's career no matter whether she has a career break or has an impressive career flow. Industry-paced full-stack developer courses are helping women to remove the gender gap in tech by assisting women in restarting their careers after a <a href="https://blog.learnbay.co/full-stack-software-developer-course-the-guarantee-of-a-lucrative-career-restart-for-women-after-a-break" target="_blank">career break.</a>
 
 In fact, we can say a full-stack developer's training is like a career booster for women professionals irrespective of their professional background, tech or non-tech. Alternatively, you can consider the data structure and the algorithm course too.
 
@@ -62,7 +62,7 @@ Mala Gupta is a speaker at JBCN (industry conference) in Spain, C# corner, Eclip
 
 Here is the list of publications by Mala Gupta that full-stack software developers books you would like to read :
 
-- <a herf="https://www.amazon.com/gp/product/1617293253/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0" target="_blank">OCA Java S.E. 8 programmer/certification guide.</a>
+- <a href="https://www.amazon.com/gp/product/1617293253/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0" target="_blank">OCA Java S.E. 8 programmer/certification guide.</a>
 
 - <a href="https://www.amazon.com/gp/product/B07DT9Z5QK/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1" target="_blank">Java 11 and 12 - New features (amber project and latest language and platform development in Java.</a>
 
@@ -113,7 +113,7 @@ At present, she is the engineering product manager at <a href="https://hackernes
 
 Alicia Sykes is an experienced full-stack web and native mobile developer who is determined about great code. She is among the top 5 Vue coders in the U.K. and spends her time participating in international hackathons and answering questions on StackOverflow. She even contributes to many open source projects that include:
 
-1. **digital-defense.io**. Series of guides to help people learn about personal cybersecurity and online privacy.
+1. **digital-defense.io** -  Series of guides to help people learn about personal cybersecurity and online privacy.
 
 2. **Happy app** - finds how team members feel about the project and visually displays results.
 
