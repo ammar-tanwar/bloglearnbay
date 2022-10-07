@@ -98,7 +98,7 @@ export default function Post({ postData, posts }) {
                             <p>
                               <Link href={url}>{table}</Link>
                             </p>
-                            <hr />
+                            <hr className={styles.tableline} />
                           </span>
                         </div>
                       );
