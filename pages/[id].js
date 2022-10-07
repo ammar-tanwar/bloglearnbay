@@ -7,6 +7,7 @@ import styles from "../styles/blog.module.css";
 import { BsDot } from "react-icons/bs";
 import { IoTimeOutline } from "react-icons/io5";
 import Socialshare from "../components/Socialshare/Socialshare";
+import LikeButtonComponent from '../components/LikeButtonComponent/LikeButtonComponent';
 
 export default function Post({ postData, posts }) {
   // console.log(postData);
@@ -90,13 +91,14 @@ export default function Post({ postData, posts }) {
                       const url = `#${uMake}`;
                       return (
                         <div key={i}>
-                          <div className={styles.numberBack}>
+                          {/* <div className={styles.numberBack}>
                             <span className={styles.number}>{i}</span>
-                          </div>
+                          </div> */}
                           <span>
                             <p>
                               <Link href={url}>{table}</Link>
                             </p>
+                            <hr />
                           </span>
                         </div>
                       );
@@ -143,7 +145,14 @@ export default function Post({ postData, posts }) {
                 </div>
                 <div>
                    <Socialshare postData={postData}/>
-                   </div>
+                </div>
+
+                <div>
+                <LikeButtonComponent />
+                </div>
+
+
+                  
                 <hr />
               </div>
             </div>

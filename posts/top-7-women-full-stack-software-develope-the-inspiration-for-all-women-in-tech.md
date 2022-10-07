@@ -18,11 +18,10 @@ tableData:
   ]
 ---
 
-# Top 7 Women Full Stack-Software Developer | The Inspiration for All Women in Tech
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-1.jpg" style="width:100%" class="img"/></img>
 
-<span style="color:blue;">Full stack software developer career can change the game for women in Tech</span>
+<span style="color:blue; font-weight:bold; font-size:28px">Full stack software developer career can change the game for women in Tech</span>
 
 When we talk about software developers, we hear famous names **MARTIN FOWLER, KENT BECK, GEORGE H. FAIRBANKS, MARK RICHARDS, UNCLE BOB,** and a few more. The tech industry is flooded with men. Most of them think that when it comes to software development or any other job role in the tech industry, it is only about men.
 

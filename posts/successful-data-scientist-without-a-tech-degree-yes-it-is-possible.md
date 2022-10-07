@@ -19,12 +19,9 @@ tableData:
   ]
 ---
 
-
-# Successful Data Scientist Without A Tech Degree! Yes, It Is Possible
-
-<span style="color:blue;">You Can Still Become A Data Scientist Without Any Tech Degree</span>
-
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg" style="width:100%" class="img"/></img>
+
+<span style="color:blue; font-weight:bold; font-size:28px">You Can Still Become A Data Scientist Without Any Tech Degree</span>
 
 Technology keeps evolving with discoveries every day. In recent years many interesting jobs have been created with high-paying salaries, and a <a href="https://blog.learnbay.co/different-job-roles-after-a-data-science-course" target="_blank">data science job</a> is one of them. But being a non-stem degree holder, you might lose hope of a successful data science career. The first question that comes to mind is can I become a _data scientist without a degree?_ Well, there is good news for you. It's nothing but a myth. No degree is irrelevant to becoming a demanding data science pro. You can surely become a successful **data scientist without a tech degree** or you can become a data scientist without a stem degree.
 

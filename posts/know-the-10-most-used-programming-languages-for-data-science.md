@@ -14,15 +14,14 @@ id: "know-the-10-most-used-programming-languages-for-data-science"
 tableData:
   [
 
-    Know The 10 Most Used Programming Languages For Data Science, Which programming language should a data scientist learn first?, First - let us understand the correlation between 'programming language skills' and 'data scientists' efficacy',Python, R, SQL, Swift, C++ , Scala, Java, CUDA-C, GO, Kotlin, Wrapping Up 
+   Which programming language should a data scientist learn first?, First - let us understand the correlation between 'programming language skills' and 'data scientists' efficacy',Python, R, SQL, Swift, C++ , Scala, Java, CUDA-C, GO, Kotlin, Wrapping Up 
   ]
 ---
 
-# Know The 10 Most Used Programming Languages For Data Science
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata-1.png" style="width:100%" class="img"/></img>
 
-<span style="color:blue;">Explore The Most Used Programming Languages In Data Science</span>
+<span style="color:blue; font-weight:bold; font-size:28px">Explore The Most Used Programming Languages In Data Science</span>
 
 Programming language is one of the pillars of data science advancement that comes just after the statistical requirement. You might question yourself as to which is the best data science course where you can learn all the present-day programming languages that are driving the world of AI and data science. But before that, you must be updated about the most used programming language.
 

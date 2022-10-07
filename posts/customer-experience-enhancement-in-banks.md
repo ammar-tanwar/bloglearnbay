@@ -15,7 +15,7 @@ tableData:
   [
   Introduction Customer Experience Enhancement,
   Outlined Five Steps To Guide Craft Smart Data Strategies Customer Experience Enhancement,
-    Conclusion,
+  Conclusion,
   ]
 ---
 

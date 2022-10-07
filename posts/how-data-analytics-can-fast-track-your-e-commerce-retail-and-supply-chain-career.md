@@ -42,9 +42,8 @@ _But do you know even after such massive demand so many retail and e-comm employ
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png" style="width: 100%;" /></img>
 
 
-Source: Author
 
-_On the other hand, there is also an intelligent community of professionals to reach the top of success. And you can also be a part of that community. _To know how, please continue reading this blog. 
+On the other hand, there is also an intelligent community of professionals to reach the top of success. And you can also be a part of that community. _To know how, please continue reading this blog. 
  
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce2.png"   class="img"  /></img>
@@ -52,7 +51,6 @@ _On the other hand, there is also an intelligent community of professionals to r
 
 
 
-Image by Author
 
 The final mile is crucial to <a href="https://en.wikipedia.org/wiki/E-commerce" target="_blank">e-commerce</a> success: _21% said they would not forgive stores and brands if service was delayed because of Covid-19._ It’s getting harder and harder for businesses to get last-mile delivery capacity because more people are shopping online. After Black Friday in 2020, many of us had to wait weeks for things to show up on our doorsteps. Delivery is now an important part of the whole experience. As a fulfillment center, the shop is used a lot. _According to the Index, 37% of US customers plan to purchase online and pick up in-store more often in the future (online library)._ While using a shop as a fulfillment center may be a good idea, it needs systems and business divisions to work together to make the promise come true. Retailers’ ability to create a consistent experience must expand as services grow.
 
@@ -99,7 +97,6 @@ Every year, the number, diversity, and usefulness of retail data increase dramat
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce3.png"   class="img"  /></img>
 
-Image by Author
 
 
 ### What Role Does Data Science Play in eCommerce?
@@ -159,13 +156,6 @@ Why are Data Scientists getting paid at a higher level?
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce5.jpg"   class="img"  /></img>
 
-
- Image by Author
-
-Source: Linkedin
-
-
-
 * Amazon: Rs 5 lakh to Rs 45.57 lakh | Rs 15.56 lakh (average)  
 * Flipkart: Rs 14.5 lakh to Rs 42 lakh | Rs 24.2 lakh (average)
 * Walmart: Rs 14.5 lakh to Rs 33.5 lakh | Rs 24.6 lakh (average) 
@@ -209,10 +199,6 @@ _It’s all about domain specializations at Learnbay, and one of them is Retail,
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce6.png"   class="img"  /></img>
 
 
-
-
- Image by Author
-
 Let’s take a look at what you’ll receive if you study with Learnbay:
 
 Learnbay is noted for its wide range of data scientific subjects. This is why it offers some of the top data science courses in Bangalore. But the best thing about it is that it has hybrid learning and IBM-approved courses, so you can take lessons both online and offline.
@@ -249,7 +235,6 @@ So, let’s have a look at what Learnbay’s Supply Chain domain has to offer.
 * Fraud Detection: Fraud in the e-commerce business is one of the most difficult to find because it can cost a lot of money.
 * Recommendation System: This technology aids firms in anticipating customer behavior.
 
-//no img given for this
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce7.png"   class="img"  /></img>
 
@@ -269,7 +254,7 @@ Image Source: <a href="https://www.kaggle.com/shashwatwork/ecommerce-data" targe
 * Planning a network: To have a strong supply chain and a profitable business, you need to make sure that all of your inventory and production facilities are properly connected.
 
 
-## Conclusion:
+## Conclusion
 
 Now that we’re done with the article on data science in e-commerce, retail, and supply chain domain, I hope it has helped you understand how important it is to know your field. Another point we wanted to emphasize was the possibility of this in the future, as well as in the present. Take a look at the<a href="https://www.learnbay.co/data-science-certification-courses/" target="_blank">Data Science & AI Certification| Domain Specialization For Professionals course</a> to learn more about the Data Science course or visit Learnbay’s <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.<span style="text-decoration:underline;"> </span>accounts for updates. 
 

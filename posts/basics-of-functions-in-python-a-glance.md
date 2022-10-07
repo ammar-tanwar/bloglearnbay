@@ -5,8 +5,8 @@ Transforming the data in an effective way and then utilizing them in an optimize
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic-python-1.jpeg"
 date: "September 9, 2022"
-tag: [ Data Science ]
-category: "Data Science"
+tag: [ Python ]
+category: "Python"
 author: "Vineeth Kumar" 
 position: "Editor"
 readTime: "9-10 mins"
@@ -15,12 +15,10 @@ id: "basics-of-functions-in-python-a-glance"
 tableData:
   [
 
-      Basics of Functions In Python - A Glance, Defining a function,Driver code to call a function, What are the various types of functions in python?,Built-in functions, User-defined function, program for user-defined functions, Recursive Functions in Python, What do you mean by recursion in python?, Lamda Function, What are Lambda Functions in python?, Take away
+      Defining a function,Driver code to call a function, What are the various types of functions in python?,Built-in functions, User-defined function, program for user-defined functions, Recursive Functions in Python, What do you mean by recursion in python?, Lamda Function, What are Lambda Functions in python?, Take away
         
   ]
 ---
-
-# Basics of Functions In Python - A Glance
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic-python-1.jpeg" style="width:100%" class="img"/></img>
 

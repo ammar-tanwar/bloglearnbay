@@ -14,16 +14,15 @@ id: "a-career-in-data-science-the-key-to-lucrative-come-back-for-women-after-a-c
 tableData:
   [
 
-     A Career in Data Science - The Key To Lucrative Come-back for Women After a Career Break, Just upgrade yourself -, End-to-end professional training from home -, Domain specialization - The magic key to a stunning comeback after a career break
+  Just upgrade yourself -, End-to-end professional training from home -, Domain specialization - The magic key to a stunning comeback after a career break
         
   ]
 ---
 
-# A Career in Data Science - The Key To Lucrative Come-back for Women After a Career Break
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w1.jpg" style="width:100%" class="img"/></img>
 
-<span style="color:blue;">A Career Break Now Can't Stop Women from Growing</span>
+<span style="color:blue; font-weight:bold; font-size:28px">A Career Break Now Can't Stop Women from Growing</span>
 
 Women are usually considered not to be good at tech jobs; it was always considered that a man was ideal for a tech job until the advancement that took place back in the 90s. Today we have a lot of female engineering graduates, but still, the ratio of men and women in the tech field is not that satisfactory. Gender biases are still believed to exist today, mostly in the tech world, and males are still prioritized.
 

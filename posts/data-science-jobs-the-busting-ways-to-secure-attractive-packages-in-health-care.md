@@ -13,7 +13,6 @@ h1: "Data Science Jobs - The Busting Ways To Secure Attractive Packages In Healt
 id: "data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care"
 tableData:
   [
-   Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?, 
    Do data science job in health care sector come with attractive packages?, This Drives your data science salary, Why is data science important in healthcare?, Can data scientists work in healthcare?  , Applications of Data Science in Healthcare , Medical Image Analysis, Algorithms used in medical image analysis, Predictive Analytics in Healthcare, Algorithms used in predictive analysis, Genomics, Algorithms used in Genomics, Role of a Data Scientist in the Healthcare domain,  How much do healthcare data scientists make?, Companies and Packages, Based on area,  What skills does it take to become a Healthcare Data Scientist?, Domain Specialization with Learnbay, What can you expect?, Who is it suitable for?, Projects you will get to work on, Conclusion, Bibliography
   
 
@@ -22,9 +21,6 @@ tableData:
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance.png"   class="img"  /></img>
 
-
-
-# Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?
 
 Got your master's degree in genetic counseling, occupational therapy, health administration, or any other healthcare domain? Well, you might be very anxious to join a renowned organization with a six-figure salary package? But wait. It’s not that easy these days. I have found more than 70% of lucrative healthcare degree holders are still struggling to secure their position. Every single day they dreamt of losing their jobs.
 

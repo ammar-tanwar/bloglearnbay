@@ -14,17 +14,16 @@ id: "full-stack-software-developer-course-the-guarantee-of-a-lucrative-career-re
 tableData:
   [
 
-    Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break, Why do women drop their careers after a break?, How can a full-stack software developer course help women restart work after a career break?, How can you easily learn the current job market demands for full-stack software developer skills?, 1. Choose the right course -, 2. Opt for an industry-paced capstone project -, 3. Look for domain specialized training -, 4. Look for Job-oriented training -, 1. A Lot of potential in a fast-growing field, 2. Women Can Learn Full Stack Software Development Without A Degree, 3. Software development is a flexible career, Conclusion
+   Why do women drop their careers after a break?, How can a full-stack software developer course help women restart work after a career break?, How can you easily learn the current job market demands for full-stack software developer skills?, 1. Choose the right course -, 2. Opt for an industry-paced capstone project -, 3. Look for domain specialized training -, 4. Look for Job-oriented training -, 1. A Lot of potential in a fast-growing field, 2. Women Can Learn Full Stack Software Development Without A Degree, 3. Software development is a flexible career, Conclusion
         
   ]
 ---
 
 
-# Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break
-
-<span style="color:blue;">Women can now easily grab an unbelievable hike even after a long career break… Just earn industry-level full-stack developer skills.</span>
-
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f1.jpg" style="width:100%" class="img"/></img>
+
+
+<span style="color:blue; font-weight:bold; font-size:28px">Women can now easily grab an unbelievable hike even after a long career break… Just earn industry-level full-stack developer skills.</h2>
 
 Career break- the nightmare of a successful or passionate woman. The reason can be anything. In most cases, family planning generates barriers for most female professionals. Especially in the corporate world, this is the key reason why women's percentage lags a lot compared to male pros.
 

@@ -13,7 +13,6 @@ h1: "Data Science for working professionals"
 id: "data-science-for-working-professionals"
 tableData:
   [
-    Data Science for working professionals,
     Have a vision and plan your strategy,
     Firmly state your purpose of learning data science,
     Have a soft target,

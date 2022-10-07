@@ -22,7 +22,7 @@ tableData:
 
 
 
-## Data Preprocessing:
+## Data Preprocessing
 
 Introduction to Data Preprocessing:- Before modeling the data we need to clean the information to get a training sample for the modeling. Data preprocessing is a <a href="https://www.ibm.com/cloud/learn/data-mining" target="_blank">data mining</a>
  technique that involves transforming the raw data into an understandable format. It provides the technique for cleaning the data from the real world which is often incomplete, inconsistent, lacking accuracy and more likely to contain many errors. Preprocessing provides clean information before it gets to the modeling phase.
@@ -39,16 +39,9 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 * Learning algorithms understand the only number, converting text image to number is required.
 * Preprocessing refers to transformation before feeding to Machine Learning.
 
-
-## 
-
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data.png" width="400px" class="img"  /></img>
 
-
-
 2. StandardScaler
-
-
 
 * The StandardScaler assumes your data is normally distributed within each feature and will scale them such that the distribution is now centered around 0, with a standard deviation of 1.
 * Calculate – Subtract mean of column & div by the standard deviation
@@ -58,11 +51,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data1.png"   class="img"  /></img>
 
-
-
 3. MinMaxScaler
-
-
 
 * Calculate – Subtract min of column & div by the difference between max & min
 * Data shifts between 0 & 1

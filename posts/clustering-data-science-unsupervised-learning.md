@@ -13,14 +13,12 @@ h1: "Clustering & Types Of Clustering"
 id: "clustering-data-science-unsupervised-learning"
 tableData:
   [
- Types of clustering technique,
+  Types of clustering technique,
   ]
 ---
 
 
 Clustering & Types Of Clustering is the process of finding similar groups in data, called a cluster. It groups data instances that are similar to each other in one cluster and data instances that are very different(far away) from each other into different clusters. A cluster is, therefore, a collection of objects which are “similar” between them and are “dissimilar” to the objects belonging to other clusters.
-
-
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering.jpeg"   class="img"  /></img>
 
@@ -44,7 +42,7 @@ Steps involved in Clustering analysis:
 7. Validate the clusters.
 
 
-## Types of clustering technique:
+## Types of clustering technique:- 
 
 Broadly speaking, clustering can be divided into two subgroups :
 
@@ -74,6 +72,7 @@ K means is an iterative clustering algorithm that aims to find local maxima in e
 5. Re-compute cluster centroids: Now, re-computing the centroids for both the clusters.
 6. Repeat steps 4 and 5 until no improvements are possible: Similarly, we’ll repeat the 4<sup>th</sup> and 5<sup>th</sup> steps until we’ll reach global optima. When there will be no further switching of data points between two clusters for two successive repeats. It will mark the termination of the algorithm if not explicitly mentioned.
 
+ ```python
 from pandas import DataFrame
 
 * Data = {'x': [25,34,22,27,33,33,
@@ -117,6 +116,7 @@ print(centroids)
 plt.scatter(df['x'], df['y'], c= kmeans.labels_.astype(float), s=50, alpha=0.5)
 
 plt.scatter(centroids[:, 0], centroids[:, 1], c='red', s=50) Hierarchical Clustering: 
+ ```
 
 Hierarchical clustering, as the name suggests is an algorithm that builds the hierarchy of clusters. This algorithm starts with all the data points assigned to a cluster of their own. Then two nearest clusters are merged into the same cluster. In the end, this algorithm terminates when there is only a single cluster left.
 
@@ -140,6 +140,7 @@ Two important things that you should know about hierarchical clustering are:
 * Maximum distance:||a-b||<sub>INFINITY</sub> = max<sub>i</sub>|a<sub>i</sub>-b<sub>i</sub>|
 * Mahalanobis distance: √((a-b)<sup>T</sup> S<sup>-1</sup> (-b))   {where, s : covariance matrix}
 
+ ```python
 import numpy as np
 
 X = np.array([[5,3],
@@ -183,6 +184,8 @@ xy=(x, y), xytext=(-3, 3),
 textcoords='offset points', ha='right', va='bottom')
 
 plt.show()
+
+ ```
 
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering3.png"   class="img"  /></img>

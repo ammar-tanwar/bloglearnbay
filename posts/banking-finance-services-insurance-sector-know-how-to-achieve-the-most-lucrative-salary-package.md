@@ -5,8 +5,8 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job.png"
 date: "April 7, 2022"
 tag: [ Hot Topics ]
-author: "Admin"
 category: "Hot Topics"
+author: "Admin"
 position: "Editor"
 readTime: "20-25 mins"
 h1: "Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package"

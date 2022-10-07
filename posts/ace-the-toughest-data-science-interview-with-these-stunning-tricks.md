@@ -14,13 +14,11 @@ id: "ace-the-toughest-data-science-interview-with-these-stunning-tricks"
 tableData:
   [
 
-     Ace The Toughest Data Science Interview With These Stunning Tricks, Practice coding, Spare more in analytic and logical thinking, Hone your product/service sense, Brush up your communication skills, problem-solving abilities, Concentrate on theory and implement it, Behavioral questions, Select stories to refine, Divide the story in the STAR framework, General data science interview preparation tips,  Long-term data science interview preparation, How To Prepare for a short-term data science interview?, Conclusion,
+ Practice coding, Spare more in analytic and logical thinking, Hone your product/service sense, Brush up your communication skills, problem-solving abilities, Concentrate on theory and implement it, Behavioral questions, Select stories to refine, Divide the story in the STAR framework, General data science interview preparation tips,  Long-term data science interview preparation, How To Prepare for a short-term data science interview?, Conclusion,
   ]
 ---
 
 
-
-# Ace The Toughest Data Science Interview With These Stunning Tricks
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-1.jpg" style="width:100%" class="img"/></img>
 
