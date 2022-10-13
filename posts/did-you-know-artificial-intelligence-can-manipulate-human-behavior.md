@@ -9,7 +9,7 @@ category: "Artificial Intelligence"
 author: "Nivin Biswas" 
 position: "Editor"
 readTime: "9-10 mins"
-h1: "Did You Know? Artificial Intelligence Can Manipulate Human Behavior?"
+h1: "Did You Know Artificial Intelligence Can Manipulate Human Behavior?"
 id: "did-you-know-artificial-intelligence-can-manipulate-human-behavior"
 tableData:
   [
