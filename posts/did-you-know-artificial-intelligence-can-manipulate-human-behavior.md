@@ -1,5 +1,5 @@
 ---
-title: Did You Know? Artificial Intelligence Can Manipulate Human Behavior?
+title: Did You Know Artificial Intelligence Can Manipulate Human Behavior?
 desc: "Artificial intelligence (AI) is an area of computer science concerned with the research and development of intelligent devices, such as digital agents and computer programs. Artificial intelligence is a broad word that can be used to refer to a variety of systems..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-1.jpg"
@@ -59,7 +59,7 @@ Now the debate is whether or not an intelligent computer can be deemed aware. As
 
 Certainly, we are all aware that AI is infiltrating every aspect of life, from our phones and laptops to our employment. **But, how can we introduce AI for a good purpose?** 
 
-The <a herf="https://www.csiro.au/en/" target="_blank">CSIRO</a> ran a series of tests in which people were asked to play games versus a computer. We'll look at three of their experiments in this blog to see how they turned out.
+The <a href="https://www.csiro.au/en/" target="_blank">CSIRO</a> ran a series of tests in which people were asked to play games versus a computer. We'll look at three of their experiments in this blog to see how they turned out.
 
 The first experiment consisted primarily of red and blue-colored ball games, in which the AI learned the participant's patterns of choices and ran them, resulting in an accuracy of over 70%.
 

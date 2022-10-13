@@ -1,7 +1,6 @@
 ---
 title: Basics of Functions In Python - A Glance
-desc: "
-Transforming the data in an effective way and then utilizing them in an optimized manner while programming is known as Functions in python..."
+desc: "Transforming the data in an effective way and then utilizing them in an optimized manner while programming is known as Functions in python..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic-python-1.jpeg"
 date: "September 9, 2022"
