@@ -1,14 +1,14 @@
 ---
 title:  15 Tools Every Full-Stack Web Developer Should Master
-desc: "Artificial intelligence (AI) is an area of computer science concerned with the research and development of intelligent devices, such as digital agents and computer programs. Artificial intelligence is a broad word that can be used to refer to a variety of systems..."
+desc: "When it comes to full-stack web developer tools, then plenty of options lie. It's not at all possible to master all the tools for full-stack web development available in the market for a single full-stack web developer..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-1.png"
 date: "October 14, 2022"
-tag: [ Artificial Intelligence ]
-category: "Artificial Intelligence"
+tag: [ Full Stack ]
+category: "Full Stack"
 author: "Nivin Biswas" 
 position: "Editor"
-readTime: "9-10 mins"
+readTime: "10-13 mins"
 h1: "15 Tools Every Full-Stack Web Developer Should Master"
 id: "15-tools-every-full-stack-web-developer-should-master"
 tableData:
