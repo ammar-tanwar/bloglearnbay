@@ -82,7 +82,7 @@ export default function Post({ postData, posts }) {
                   <div className={styles.contentT}>
                     {postData.table.map((table, i) => {
                       const removeSpecial = table.replace(
-                        /[&\/\\#,+()$~%.'":*?<>{}]/g,
+                        /[&\/\\#+()$~%.'":*?<>{}]/g,
                         ""
                       );
                       const uMake = removeSpecial

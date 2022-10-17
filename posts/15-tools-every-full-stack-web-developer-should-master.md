@@ -38,7 +38,7 @@ A web developer that possesses full-stack skills can build both client and serve
 
 In addition to full-stack web developer tools listed above, the web developers will also have some other tools in their toolbox, such as Database management systems (e.g. MySQL, MongoDB, or PostgreSQL), Database designing (e.g. SQL, MongoDB, or MSSQL) Web servers software (e.g. Apache, Nginx, or Apache Solr Desktop Application that runs on Windows, Mac, or Linux).
 
-The key thing that differentiates between a general web developer and a full-stack developer is: that the latter comes with pro-level expertise in both front-end and back-end web developer tools. The former one has knowledge of either the front-end or back-end development.
+The key thing that differentiates between a general web developer and a full-stack developer is that the latter comes with pro-level expertise in both front-end and back-end web developer tools. The former one has knowledge of either the front-end or back-end development.
 
 As a full-stack developer, you must be proficient in various front-end and back-end technologies and programming. So, let's take a look at these tools.
 
