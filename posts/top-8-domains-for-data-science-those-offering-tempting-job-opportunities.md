@@ -34,7 +34,7 @@ But which domain holds the greatest opportunities for data scientists? Well, the
 
 ## Top 8 Domains Creating Huge Data Science Jobs :-
 
-### <a href="https://drive.google.com/file/d/1fs6RdIVrJoKCgHbUpCsgouyiA9jbeWO5/view" target="_blank">1. Retail - E-commerce and supply chain management</a>  
+### 1. Retail - E-commerce and supply chain management
 
 
 The physical stores remained shut during the pandemic. This industry experienced the highest layoff rates during that time. But such occurrences did not impact data scientists in the same industry. This is because the retail and sales industry thrives on consumers. Everything went online. Most retail sectors experienced huge growth via online business. To compete in the market, their personalization and relevance aim is to understand consumer behavior and patterns through their buying data.
@@ -67,7 +67,7 @@ Top Recruiters:
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d2.jpg" style="width:100%" class="img"/>
 
-###  <a href="https://drive.google.com/file/d/1mJg0ZGImTFbTtkTCeLfytMxAeMhhOUUC/view" target="_blank">2. Healthcare</a>  
+###  2. Healthcare  
 
 Healthcare has a lot of sectors, and data scientists can combine large and unstructured data. So hospitals and healthcare institutions are searching for data scientists. Data science made it look easy to manage everything from **clinical trials, genetic information, and electronic medical records to billing, wearable data, care management databases, and scholarly journals**. Additionally, data science has been used to design and evaluate healthcare policies that increase access, opportunity, and quality of care. I.e., In recent years, India's healthcare sector has emerged as the country's leading source of new data science jobs.
 
@@ -95,7 +95,7 @@ Healthcare has a lot of sectors, and data scientists can combine large and unstr
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d3.jpg" style="width:100%" class="img"/>
 
-### <a href="https://drive.google.com/file/d/118isUaJJjsXKSnh_mlTcScXab81qeyTM/view" target="blank">3. Telecommunication</a>
+### 3. Telecommunication
 
 At present, subscribers are constantly connected to telecommunication networks by text messages, voice, social media, etc. So this gives telecom industries access to a vast amount of customer data.
 
@@ -133,11 +133,11 @@ Other data sources, like past purchases, search habits, and consumer demographic
 
 - Bharti Airtel Limited
 
-### <a href="https://drive.google.com/file/d/1fjpMIYaaSy6WSZyKPO5vZl_ycb1R0WVn/view" target="_blank">4. Energy - oil - and gas domain</a>
+### 4. Energy - oil - and gas domain
 
 The oil industry is not exempted when it comes to a huge risk industry. They must operate 24/7/365. The mining and oil & gas industries are increasingly relying on data science, which isn't just for exploration and production anymore. Industrial transformation and distribution have been heavily influenced by data science. Examples include probability modules in many Geographic Information Systems (GIS), which identify the most productive areas. With terabytes of petrophysical, Measurement During Drilling (MWD) technology and fluid information can be mined to understand the reservoir better.
 
-**The data science application in Energy, Oil, and Gas :**
+**The data science application in Energy, Oil, and Gas <a href="https://blog.learnbay.co/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist" target="_blank"> Energy, Oil, and Gas</a> :**
 
 - Reducing drilling time.
 
@@ -173,7 +173,7 @@ The oil industry is not exempted when it comes to a huge risk industry. They mus
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d4.jpg" style="width:100%" class="img"/>
 
-### <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/manufacturing+mechanical+%26+telecom+Domain+Elective.pdf" target="_blank">5. Automotive - IoT - and embedded</a>
+### 5. Automotive - IoT - and embedded
 Improved research, design, manufacturing, and marketing processes have also helped the automotive industry stay competitive. Even more importantly, advanced analytics has led to the development of self-driving car systems that include  **sensors such as camera and radar systems, GPS systems, inertial navigation systems, and more.** Unfortunately, a lack of data science has made it impossible to keep track of tire wear, mileage, fuel efficiency, or driving patterns in light of the increasing complexity of automobiles and their ability to collect more data. So, expect self-driving cars without requiring a driver to communicate, collaborate, or navigate soon!
 
 **The data science application in IoT and Automotive :**
@@ -202,7 +202,7 @@ Improved research, design, manufacturing, and marketing processes have also help
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d5.jpg" style="width:100%" class="img"/>
 
-### <a href="https://drive.google.com/file/d/10e443meQhL9EhGsPtDfJuLk1VEU0r-Tp/view" target="_blank">6. BFSI</a>
+### 6. BFSI
 
 
 There are various ways to operate data science in banking and financial institutes to provide better services to clients. The Financial Services, Banking, and Insurance domains are significantly run by the usage of data and its analysis helps in business decisions. This domain has integrated data usage in almost all its features.
@@ -239,7 +239,7 @@ Top Recruiters
 
 - Citi Group
 
-### <a href="https://drive.google.com/file/d/1fs6RdIVrJoKCgHbUpCsgouyiA9jbeWO5/view" target="_blank">7. Sales and marketing</a>
+### 7. Sales and marketing
  
 
 Data scientists have become too important in this domain. Big conglomerates and SMEs who store data need a secure security guarantee for their consumer's data as every business has a different process for collecting data, processing, and visualization. An extension of data science in this domain can improve analytical decisions, create competency, understand the business mechanization and work towards the business's overall objectives.
@@ -268,7 +268,7 @@ Data scientists have become too important in this domain. Big conglomerates and 
 
 - Accenture.
 
-### <a href="https://drive.google.com/file/d/1NtNA6bHAKBZEKzWvbZGTZ_PCr0RWHTSI/view" target="_blank">8. Cloud computing and DevOps</a> 
+### 8. Cloud computing and DevOps
 
 Cloud computing involves servers, data analytics, databases, artificial intelligence, and software that are accessible and can work together with the help of the cloud. It helps companies use most data centers at a very low cost. In addition, cloud computing clears data science obstacles to implementing it in systems. So, cloud computing would increase the computing speed and access to data and even increase revenue.
 
