@@ -137,7 +137,7 @@ Other data sources, like past purchases, search habits, and consumer demographic
 
 The oil industry is not exempted when it comes to a huge risk industry. They must operate 24/7/365. The mining and oil & gas industries are increasingly relying on data science, which isn't just for exploration and production anymore. Industrial transformation and distribution have been heavily influenced by data science. Examples include probability modules in many Geographic Information Systems (GIS), which identify the most productive areas. With terabytes of petrophysical, Measurement During Drilling (MWD) technology and fluid information can be mined to understand the reservoir better.
 
-**The data science application in Energy, Oil, and Gas <a href="https://blog.learnbay.co/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist" target="_blank"> Energy, Oil, and Gas</a> :**
+**The data science application in <a href="https://blog.learnbay.co/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist" target="_blank"> Energy, Oil, and Gas</a> :**
 
 - Reducing drilling time.
 
