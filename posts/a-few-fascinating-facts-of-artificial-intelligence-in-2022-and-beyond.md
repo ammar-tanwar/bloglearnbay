@@ -156,7 +156,7 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 - 61% of enterprises and organizations may employ a CAIO - Chief AI officer.
 - Forrester forecasts 8.9 million cognitive jobs in the US before 2025. Cognitive jobs like motoring robot professionals, data scientists, and content curators.
 
-**Sources:** [**Business insider**](https://www.businessinsider.com/is-your-jobs-safe-from-the-rise-of-robots-2017-6)<a href="" target="_blank"></a>
+**Sources:** <a href="https://www.businessinsider.com/is-your-jobs-safe-from-the-rise-of-robots-2017-6" target="_blank">Business insider</a>
 
 ## Future Stats Of AI
 
