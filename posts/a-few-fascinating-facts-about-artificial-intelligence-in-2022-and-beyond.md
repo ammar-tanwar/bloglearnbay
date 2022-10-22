@@ -1,5 +1,5 @@
 ---
-title:  A Few Fascinating Facts of Artificial Intelligence in 2022 and Beyond
+title:  A Few Fascinating Facts about Artificial Intelligence in 2022 and Beyond
 desc: "You must have been wondering how businesses were not gaining much traction from customers a few years back, and today, every company you see is reaching new heights and milestones. It's artificial intelligence (AI). AI has not just helped businesses but has improved customer satisfaction..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-1.jpg"
@@ -9,8 +9,8 @@ category: "Artificial Intelligence"
 author: "Milan" 
 position: "Editor"
 readTime: "15-18 mins"
-h1: "A Few Fascinating Facts of Artificial Intelligence in 2022 and Beyond"
-id: "a-few-fascinating-facts-of-artificial-intelligence-in-2022-and-beyond"
+h1: "A Few Fascinating Facts about Artificial Intelligence in 2022 and Beyond"
+id: "a-few-fascinating-facts-about-artificial-intelligence-in-2022-and-beyond"
 tableData:
   [
     Did you know that AI had its presence in ancient Greece?,Key Statistics of AI, AI Stats by Industry, 1. AI and Retail, 2. AI and sales ,  3. AI and Marketing, 4. AI and customer service, AI Stats by Application, 1. Voice search, 2. Chatbots, 3. NLP (Natural language processing), 4. Self-driving cars, Artificial intelligence and Employment Stats, Future Stats Of AI  
@@ -151,7 +151,7 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 - AI will create 97million global jobs by 2025.
 - By 2030 50% of global employees have to be reskilled.
 - 7% of US jobs will be replaced by machine learning, AI, robotics, and automation by 2025.
-- Thirty-six million Americans with the most exposure will have 70% of their tasks automated by robots by 2030.
+- Thirty-six million Americans with the most exposure will have 70% of their tasks automated by robots by 2030.f
 - China is said to add 14 million robots to work by 2030.
 - 61% of enterprises and organizations may employ a CAIO - Chief AI officer.
 - Forrester forecasts 8.9 million cognitive jobs in the US before 2025. Cognitive jobs like motoring robot professionals, data scientists, and content curators.
