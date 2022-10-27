@@ -13,7 +13,7 @@ h1: "Stock Prediction Gone Extraordinarily Precise - An Outstanding Application 
 id: "stock-prediction-gone-extraordinarily-precise-an-outstanding-application-of-ml"
 tableData:
   [
-     Which part of machine learning focuses on stock prediction?, Which part of machine learning focuses on stock prediction?, Procedure for reinforcement learning:-, The segments in reinforcement learning are, Deep Q-Networks and Q-Learning:-, Forecasting/Predictive analytics in the stock market:-, Predictive analytics:-, Here is a small example of the stock prediction of Apple:-, Conclusion:-
+     Which part of machine learning focuses on stock prediction?, What role does reinforcement learning play in stock forecasting?, Procedure for reinforcement learning:-, The segments in reinforcement learning are, Deep Q-Networks and Q-Learning:-, Forecasting/Predictive analytics in the stock market:-, Predictive analytics:-, Here is a small example of the stock prediction of Apple:-, Conclusion:-
    ]
 ---
 
