@@ -35,7 +35,7 @@ Fairness in data and machine learning algorithms is a critical component of buil
 
 Data is fed into machine learning models during their training, and they then interpret the data as either "correct" or "wrong." Therefore, a large sample size must be used during the training phase to measure the model's accuracy precisely. But for this to happen, the resulting model also needs to have been taught to be non-discriminatory so it doesn't unfairly target groups that a machine learning algorithm may otherwise categorize.
 
-Although good performance, even across slices, does not necessarily imply that a system is fair, it is nonetheless crucial to remember that fairness cannot be accomplished solely through measurements and measurement.
+Although good performance, even across slices, does not necessarily imply that a system is fair, it is nonetheless crucial to remember that fairness cannot be accomplished solely through measurements.
 
 Instead, appraisal should be seen as one of the first methods to spot performance disparities. Observe that if top performers are consistently performing well across all slices (a slice is a part of the whole such as a sector, location, etc.), an evaluation might not find any gaps in classification models (which predict the possibility of something happening rather than assigning "good" or "bad"); however, by paying closer attention to whether top performers are receiving fair compensation, you can determine if your model is biassed.
 
@@ -90,7 +90,6 @@ The <a href="https://aif360.mybluemix.net/" target="_blank">IBM AI</a> <a href="
 To detect bias in machine learning algorithms, Facebook is creating an internal tool called <a href="https://ai.facebook.com/blog/how-were-using-fairness-flow-to-help-build-ai-that-works-better-for-everyone/" target="_blank">"</a> <a href="https://ai.facebook.com/blog/how-were-using-fairness-flow-to-help-build-ai-that-works-better-for-everyone/" target="_blank">Fairness</a> <a href="https://ai.facebook.com/blog/how-were-using-fairness-flow-to-help-build-ai-that-works-better-for-everyone/" target="_blank">Flow."</a>
 
 ### The What-If Tool and TensorFlow Data Validation (TFDV) are coupled with ML Fairness Indicators; using Fairness Indicators helps in
-
 
 -  Analyze model performance as it relates to certain user groups.
 

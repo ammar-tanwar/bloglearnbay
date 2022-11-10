@@ -128,11 +128,11 @@ With a root node that is divided into two split nodes, the Gini coefficient is c
 
 -  As we can understand that AI can predict weather information, it becomes too reliable for other people to ensure poor weather conditions result. They can simply organize meetings, programs, and other events.
 
-In the event of a disaster, the prediction can assist you in evaluating your neighborhood. Unfortunately, those cautions may not be heeded since people do not place enough faith in forecasts. Scientists are working on a new forecast that will utilize artificial intelligence to predict and forecast future weather disasters.
+- In the event of a disaster, the prediction can assist you in evaluating your neighborhood. Unfortunately, those cautions may not be heeded since people do not place enough faith in forecasts. Scientists are working on a new forecast that will utilize artificial intelligence to predict and forecast future weather disasters.
 
 -  Forecasting has never been more accurate than it is now, thanks to AI. In fact, this new projection is anticipated to be 70% correct. Tornadoes, hurricanes, and other catastrophic weather disasters can be tracked using artificial intelligence. The evacuation process will be must faster and more reliable. Furthermore, when the severity of such storms grows, the speed and accuracy of this tracker may save lives.
 
--  **One of the most important applications of weather forecasting is in the aviation business**, where it was formerly difficult for pilots and other aviation employees to keep up with weather conditions, which might result in a considerable waste of time, money, and safety.
+-  One of the most important applications of weather forecasting is in the aviation business, where it was formerly difficult for pilots and other aviation employees to keep up with weather conditions, which might result in a considerable waste of time, money, and safety.
 
 However, with this new invention, an alert was given to pilots and aviation workers a few hours ago, allowing them to check each and every safety point that may be triggered for passenger safety.
 
