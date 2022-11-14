@@ -1,6 +1,6 @@
 ---
 title:  Best AI eBooks For You To Explore And Refine Domain Knowledge
-desc: "Raw data is available in every industry. However, data is a new resource for businesses to improve, so artificial intelligence and machine learning are integrated into every industry. Automation in business processes is the main goal of Industry 4.0."
+desc: "Looking for the best AI eBooks? Check out our collection of top AI eBooks for you to explore and refine your domain knowledge. From books on machine learning and artificial intelligence to data science and big data, we've got you covered. So what are you waiting for? Start reading today!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-1.jpg"
 date: "November 11, 2022"
