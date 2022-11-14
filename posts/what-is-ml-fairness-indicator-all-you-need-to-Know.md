@@ -13,7 +13,7 @@ h1: "What is ML Fairness Indicator?- All You Need to Know"
 id: "what-is-ml-fairness-indicator-all-you-need-to-Know"
 tableData:
   [
-     Why is the ML fairness indicator so important?, How to use the fairness and comprehensibility of open-source packages, The library enables the computation of metrics that are frequently used for binary and multiclass fairness evaluations such as, Tools for Machine Learning (ML) fairness indicator:-, Here are a few of the major and most prominent tools for the ML Fairness Indicator:-, The benefits of the ML fairness indicator include the following:-, What's Next?
+     Why is the ML fairness indicator so important?, How to use the fairness and comprehensibility of open-source packages, The library enables the computation of metrics that are frequently used for binary and multiclass fairness evaluations such as, Tools for Machine Learning (ML) fairness indicator:-, Here are a few of the major and most prominent tools for the ML Fairness Indicator:-, The What-If Tool and TensorFlow Data Validation (TFDV) are coupled with ML Fairness Indicators using Fairness Indicators helps in, The benefits of the ML fairness indicator include the following:-, What's Next?
    ]
 ---
 
@@ -89,7 +89,7 @@ The <a href="https://aif360.mybluemix.net/" target="_blank">IBM AI</a> <a href="
 
 To detect bias in machine learning algorithms, Facebook is creating an internal tool called <a href="https://ai.facebook.com/blog/how-were-using-fairness-flow-to-help-build-ai-that-works-better-for-everyone/" target="_blank">"</a> <a href="https://ai.facebook.com/blog/how-were-using-fairness-flow-to-help-build-ai-that-works-better-for-everyone/" target="_blank">Fairness</a> <a href="https://ai.facebook.com/blog/how-were-using-fairness-flow-to-help-build-ai-that-works-better-for-everyone/" target="_blank">Flow."</a>
 
-### The What-If Tool and TensorFlow Data Validation (TFDV) are coupled with ML Fairness Indicators; using Fairness Indicators helps in
+### The What-If Tool and TensorFlow Data Validation (TFDV) are coupled with ML Fairness Indicators using Fairness Indicators helps in
 
 -  Analyze model performance as it relates to certain user groups.
 
