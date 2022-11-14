@@ -1,6 +1,6 @@
 ---
 title:  How is Augmented Reality Helping the Cyber Security System?
-desc: "Augmented reality (AR) is a concept that describes how a person's digital experience is enhanced in the actual world. For example, applications such as video games and outdoor navigation systems can be accessed through images of the actual environment when a user wears a head-mounted device with a small screen."
+desc: "Learn how Augmented Reality is helping the cyber security system by providing a new level of security for businesses and organizations.  AR can be used to detect and respond to potential threats in real time, making it a valuable tool for keeping businesses and individuals safe. Read more to find out how augmented reality is changing the landscape of cyber security."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-1.jpg"
 date: "November 14, 2022"
