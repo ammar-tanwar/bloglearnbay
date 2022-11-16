@@ -29,7 +29,7 @@ export default function blog({ allPostsData }) {
         src="https://www.googletagmanager.com/gtag/js?id=G-2GC4QV7F7F"
         strategy="afterInteractive"
       />
-      <script id="google-analytics" strategy="afterInteractive">
+      {/* <script id="google-analytics" strategy="afterInteractive">
         {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){window.dataLayer.push(arguments);}
@@ -37,7 +37,7 @@ export default function blog({ allPostsData }) {
 
           gtag('config', 'G-2GC4QV7F7F');
         `}
-      </script>
+      </script> */}
 
         {/* <!-- Google tag (gtag.js) --> */}
 
