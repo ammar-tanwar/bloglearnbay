@@ -8,7 +8,7 @@ import { sortByDate } from "../utils";
 import { IoTimeOutline } from "react-icons/io5";
 import generateRssFeed from "../lib/generateRss";
 import generateCategoryRssFeed from "../lib/geneRateCategoryRss";
-import Search from "../components/Searchbar/Search"
+import Search from "../components/Searchbar/Search";
 
 export default function blog({ allPostsData }) {
   const length = parseInt(allPostsData.length);
@@ -22,41 +22,29 @@ export default function blog({ allPostsData }) {
         <title>Learnbay Blogs</title>
         <meta name="description" content="Learnbay Blogs" />
         <link href="/Learnbay-Favicon-L.png" />
-        <meta name="google-site-verification" content="q2xA2OZrvhAj8r1YGNF_3x5m5GuWCqo9rNb7atG4mXU" />
-        <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
-
-        <script
-        src="https://www.googletagmanager.com/gtag/js?id=G-2GC4QV7F7F"
-        strategy="afterInteractive"
-      />
-      {/* <script id="google-analytics" strategy="afterInteractive">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){window.dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-2GC4QV7F7F');
-        `}
-      </script> */}
+        <meta
+          name="google-site-verification"
+          content="q2xA2OZrvhAj8r1YGNF_3x5m5GuWCqo9rNb7atG4mXU"
+        />
+        <link
+          rel="icon"
+          href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png"
+        />
 
         {/* <!-- Google tag (gtag.js) --> */}
-
       </Head>
       <div className={styles.BackP} style={{ marginTop: "70px" }}>
         <h4>
           <b>Our Blogs</b>
-
         </h4>
       </div>
       <section className={styles.blogHead}>
-
-        <div><p>Latest Blogs</p>  
-        <div className={styles.searchmain}>
-        <Search /> 
-        </div> 
+        <div>
+          <p>Latest Blogs</p>
+          <div className={styles.searchmain}>
+            <Search />
+          </div>
         </div>
-
-        
       </section>
       <section className={styles.blogWrap}>
         {allPostsData
