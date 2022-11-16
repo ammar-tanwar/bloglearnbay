@@ -20,7 +20,9 @@ export default function CategoryBlog({ categoryPosts }) {
       </Head>
       <section className={styles.blogHead}>
         {categoryPosts.slice(0, 1).map((category) => {
-          return <p key={category.tag}>{category.tag}</p>;
+          // return <p key={category.tag}>{category.tag}</p>;
+
+
         })}
       </section>
       <section className={styles.blogWrap}>

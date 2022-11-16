@@ -4,7 +4,7 @@ desc: "For a long time, weather prediction seemed impracticable. Yet, with advan
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-1.jpg"
 date: "November 07, 2022"
-tag: [ Artificial Intelligence ]
+tag: [ Artificial Intelligence, Weather Forecasting, AI, Data Mining ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 
 position: "Editor"

@@ -1,10 +1,10 @@
 ---
 title: OctoML- The Coolest Platform for Faster Machine Learning Model Deployment
-desc: "OctoML is a platform for deploying machine learning (ML). It is powered by ML for automation that integrates your model and produces an intelligent/hardware-independent model function."
+desc: "Artificial intelligence is playing an increasingly important role in weather forecasting. Data mining techniques are helping us to predict the weather more accurately, and this can definitely save us from bad weather."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-1.jpg"
 date: "November 09, 2022"
-tag: [ Machine Learning ]
+tag: [ Machine Learning, OctoML, Apache TVM, TVM ]
 category: "Machine Learning"
 author: "Nivin Biswas" 
 position: "Editor"

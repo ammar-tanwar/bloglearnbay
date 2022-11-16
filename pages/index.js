@@ -24,6 +24,23 @@ export default function blog({ allPostsData }) {
         <link href="/Learnbay-Favicon-L.png" />
         <meta name="google-site-verification" content="q2xA2OZrvhAj8r1YGNF_3x5m5GuWCqo9rNb7atG4mXU" />
         <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
+
+        <script
+        src="https://www.googletagmanager.com/gtag/js?id=G-2GC4QV7F7F"
+        strategy="afterInteractive"
+      />
+      <script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-2GC4QV7F7F');
+        `}
+      </script>
+
+        {/* <!-- Google tag (gtag.js) --> */}
+
       </Head>
       <div className={styles.BackP} style={{ marginTop: "70px" }}>
         <h4>
@@ -136,7 +153,7 @@ export default function blog({ allPostsData }) {
                               rel="noreferrer"
                               className={styles.link}
                             >
-                              <span className={styles.tagSpan}>{tag}</span>
+                              <span className={styles.tagSpan}>{category}</span>
                             </a>
                             <a href={url} target="_blank" rel="noreferrer">
                               <h4>{title}</h4>

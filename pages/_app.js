@@ -22,6 +22,8 @@ function MyApp({ Component, pageProps }) {
             gtag('config', 'UA-215989751-1');
                 `}
       </Script>
+
+   
       <Navbar />
       <Component {...pageProps} />
       <Footer />
