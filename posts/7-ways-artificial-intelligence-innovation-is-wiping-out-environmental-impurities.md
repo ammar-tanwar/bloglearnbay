@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-1.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-1.jpg" alt="A banner image titled, ' 7 Ways Artificial Intelligence Innovation Is Wiping Out Environmental Impurities!'" style="width:100%" class="img"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Know the application of artificial intelligence in environmental health control</span>
 
@@ -29,7 +29,7 @@ As we know, <a href="https://blog.learnbay.co/no-code-machine-learning-just-gone
 
 The advancement of Artificial intelligence in environmental science is essential for finding answers to some of the most pressing environmental problems currently plaguing the world. Artificial Intelligence applications in environmental control can help us better understand our planet and the threats it faces but also help us take advantage of its resources in more sustainable ways. The term green AI plays a prominent role in this scenario.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-2.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-2.jpg" alt="An image of an AI-powered robot surrounded by flora and fauna indicates the concept of green AI." style="width:100%" class="img"/>
 
 ## Many people now wonder what 'Green AI' is.   
 
@@ -47,7 +47,7 @@ Here are a handful of "game-changing" AI applications that can help solve some o
 
 The advent of AI-guided <a href="https://youtu.be/YU6l-p2ekRk" target="_blank">autonomous cars</a> will revolutionize how people get around cities in the coming years and decades. Autonomous ride-sharing services will be able to significantly reduce greenhouse gas emissions for urban transportation by optimizing routes and traffic, using eco-driving algorithms, and platooning cars in traffic. To achieve these substantial advantages, electric AV fleets will be essential. So, when it comes to the applications of artificial intelligence in environmental optimization, the advancement of autonomous and battery-powered cars has become a significant innovation.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-3.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-3.jpg" alt="An AI-based drone flying over an agricultural field." style="width:100%" class="img"/>
 
 ### 2. Agroecosystems and integrated farming:-  
 
@@ -65,7 +65,7 @@ AI can help disaster relief efforts in several ways. It may evaluate simulations
 
 A new field known as climate informatics is using artificial intelligence to change the game when it comes to weather forecasting and understanding climate change. Climate informatics traditionally requires a lot of energy to power the high-performance computing needed for the complex calculations involved. However, by using deep-learning networks, computers can run much faster while still being able to handle the same level of complexity. Artificial intelligence methods may also be used to model impacts, predict extreme weather events, and extract the most pertinent information in order to prevent data degradation.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-4.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-4.jpg" alt="A world map with highlighted areas having extreme weather forecasts." style="width:100%" class="img"/>
 
 ### 6. Digitalization of the environment:-    
 

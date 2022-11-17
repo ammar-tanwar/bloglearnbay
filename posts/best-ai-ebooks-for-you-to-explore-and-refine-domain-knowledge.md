@@ -4,7 +4,7 @@ desc: "Looking for the best AI eBooks? Check out our collection of top AI eBooks
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-1.jpg"
 date: "November 11, 2022"
-tag: [ Artificial Intelligence, AI books,book on AI, Domain knowledge ]
+tag: [ AI books, book on AI, Domain knowledge, ai books amazon, ai books for beginners, ai books 2022 ]
 category: "Artificial Intelligence"
 author: "Milan" 
 position: "Editor"

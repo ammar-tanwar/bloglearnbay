@@ -4,7 +4,7 @@ desc: "Learn how Augmented Reality is helping the cyber security system by provi
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-1.jpg"
 date: "November 14, 2022"
-tag: [ Artificial Intelligence, AR, Augmented Reality, Cybersecurity ]
+tag: [ AR, Augmented reality, Cybersecurity, augmented reality examples, augmented reality technology, augmented reality definition ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 
 position: "Editor"
