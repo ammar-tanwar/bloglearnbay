@@ -1,10 +1,10 @@
 ---
 title:  7 Ways Artificial Intelligence Innovation Is Wiping Out Environmental Impurities!
-desc: "People are becoming increasingly aware of the pollution problem in their backyards. Millions of people worldwide suffer from air pollution's effects, and climate change is only worsening the problem. Developing global solutions is the only viable response to these global concerns..."
+desc: "Seven ways that artificial intelligence is being used to wipe out environmental impurities! From cleaning up oil spills to reducing air pollution, AI is making a big difference. Learn more about how AI is helping to save the planet."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-1.jpg"
 date: "October 31, 2022"
-tag: [ Artificial Intelligence ]
+tag: [ Artificial intelligence, AI, Delivery, logistics, positive impact of artificial intelligence on environment, ai and the environment, artificial intelligence and environmental sustainability, artificial intelligence in environmental engineering ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 
 position: "Editor"

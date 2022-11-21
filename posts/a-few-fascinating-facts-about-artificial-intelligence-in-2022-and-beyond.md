@@ -1,16 +1,16 @@
 ---
-title:  A Few Fascinating Facts about Artificial Intelligence in 2022 and Beyond
-desc: "You must have been wondering how businesses were not gaining much traction from customers a few years back, and today, every company you see is reaching new heights and milestones. It's artificial intelligence (AI). AI has not just helped businesses but has improved customer satisfaction..."
+title:  A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond
+desc: "Learn about the fascinating world of artificial intelligence with these AI facts. From chatbots to voice search, find out how AI is impacting our lives and what the future holds for this incredible technology."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-1.jpg"
 date: "October 21, 2022"
-tag: [ Artificial Intelligence ]
+tag: [ 10 cool facts on artificial intelligence, 10 points on artificial intelligence, artificial intelligence facts and statistics, artificial intelligence facts 2022, positive facts about ai, artificial intelligence facts 2023, Artificial intelligence, artificial intelligence facts, AI, NLP, Chatbot, Voice search ]
 category: "Artificial Intelligence"
 author: "Milan" 
 position: "Editor"
 readTime: "15-18 mins"
-h1: "A Few Fascinating Facts about Artificial Intelligence in 2022 and Beyond"
-id: "a-few-fascinating-facts-about-artificial-intelligence-in-2022-and-beyond"
+h1: "A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond"
+id: "a-few-fascinating-facts-about-artificial-intelligence-in-2023-and-beyond"
 tableData:
   [
     Did you know that AI had its presence in ancient Greece?,Key Statistics of AI, AI Stats by Industry, 1. AI and Retail, 2. AI and sales ,  3. AI and Marketing, 4. AI and customer service, AI Stats by Application, 1. Voice search, 2. Chatbots, 3. NLP (Natural language processing), 4. Self-driving cars, Artificial intelligence and Employment Stats, Future Stats Of AI  

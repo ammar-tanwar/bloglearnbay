@@ -4,7 +4,7 @@ desc: "Every individual always seems to find it tough to predict stocks. Machine
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-1.jpg"
 date: "October 27, 2022"
-tag: [ Machine Learning ]
+tag: [ Machine learning, Application of ML, Stock market, Reinforcement learning, machine learning application examples, stock market prediction, stock market prediction using machine learning, ml for trading, application of stock market prediction ]
 category: "Machine Learning"
 author: "Nivin Biswas" 
 position: "Editor"
