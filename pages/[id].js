@@ -33,6 +33,7 @@ export default function Post({ postData, posts }) {
         },
         "title": "${postData.title}",
         "image": "${postData.img}", 
+        "tag": "${postData.tag}", 
         "author": {
           "@type": "Person",
           "author": "${postData.author}"
