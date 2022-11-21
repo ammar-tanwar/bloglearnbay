@@ -21,6 +21,21 @@ export default function Post({ postData, posts }) {
             name="description"
             content={postData.desc}
           />
+           <meta
+            name="keywords"
+            content={postData.tag}
+          />
+           <link rel="canonical" href={postData.id}/>
+           <meta
+            name="author"
+            content={postData.author}
+          />
+          <meta
+            name="publisher"
+            content="Learnbay"
+          />
+          <meta name="robots" content="index, follow" />
+          <html lang="en"/>
           <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
           {/* Schema genertor start */}
           <script type="application/ld+json">{`
