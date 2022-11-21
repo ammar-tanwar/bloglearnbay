@@ -36,7 +36,7 @@ export default function blog({ allPostsData }) {
 
           <meta
             name="keywords"
-            content="Learnbay Blogs"
+            content="Learnbay Blog"
           />
 
         <meta
