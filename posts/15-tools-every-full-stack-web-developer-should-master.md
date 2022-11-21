@@ -1,10 +1,10 @@
 ---
 title:  15 Tools Every Full-Stack Web Developer Should Master
-desc: "Check out this list of 15 essential tools that every full-stack web developer should master. Categorized for front-end and back-end developer tools, these tools will help you build better web applications faster."
+desc: "When it comes to full-stack web developer tools, then plenty of options lie. It's not at all possible to master all the tools for full-stack web development available in the market for a single full-stack web developer..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-1.png"
 date: "October 14, 2022"
-tag: [ java full stack developer tools, best web developer tools, Full stack web developer, full-stack web developer tool ]
+tag: [ Full Stack ]
 category: "Full Stack"
 author: "Nivin Biswas" 
 position: "Editor"

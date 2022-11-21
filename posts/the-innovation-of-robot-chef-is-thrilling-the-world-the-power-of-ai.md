@@ -4,7 +4,7 @@ desc: "Have you ever considered having your food prepared by a robot chef? Many 
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-1.jpg"
 date: "November 04, 2022"
-tag: [ robotic chefs, food robot chefs, robot chef price ]
+tag: [ AI , Robot , Chef , Robotics  ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 
 position: "Editor"

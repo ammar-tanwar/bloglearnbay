@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence in Weather Forecasting - It Can Definitely Save Our Day
-desc: "Artificial intelligence is playing an increasingly important role in weather forecasting. Data mining techniques are helping us to predict the weather more accurately, and this can definitely save us from bad weather."
+desc: "For a long time, weather prediction seemed impracticable. Yet, with advancements in technology and new innovations, this endeavor has become both feasible and bizarre. Our access to a varied range of information is advancing at a rapid pace as technology advances."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-1.jpg"
 date: "November 07, 2022"

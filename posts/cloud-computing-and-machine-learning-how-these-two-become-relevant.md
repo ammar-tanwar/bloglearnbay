@@ -4,7 +4,7 @@ desc: "Cloud computation and machine learning are ruling the industry for a long
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-1.jpg"
 date: "October 25, 2022"
-tag: [ Cloud computing, machine learning Machine learning, Artificial intelligence, machine learning introduction, types of machine learning, machine learning examples, supervised vs unsupervised learning, machine learning definition, cloud computing meaning, cloud computing basics, what is cloud computing with example, types of cloud computing]
+tag: [ Cloud Computing ]
 category: "Cloud Computing"
 author: "Nivin Biswas" 
 position: "Editor"

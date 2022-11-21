@@ -1,10 +1,10 @@
 ---
 title:  21 Most Asked Data Science Interview Questions for 2023
-desc: "We've compiled a list of the 21 most asked questions for 2023. Whether you're a beginner or an experienced data scientist, this list will help you prepare for your next interview. "
+desc: "Data science is a subject that works on raw data, and the analysis derives patterns that can be used to extract important insights. Usually, the candidates are never worried about completing the course but are more worried about the interview process and the questions asked during it..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-1.jpg"
 date: "October 17, 2022"
-tag: [ data science interview questions and answers, data science interview, data science basic interview questions, data science interview questions for freshers, most important data science interview questions and answers, basic data science interview questions, top 20 data science interview questions and answers, 21 must-know data science interview questions and answers, how to prepare for a data scientist interview, most asked data science interview questions, what to expect in a data science interview, data science beginner interview questions, what questions to ask a data scientist ]
+tag: [ Data Science ]
 category: "Data Science"
 author: "Milan" 
 position: "Editor"
