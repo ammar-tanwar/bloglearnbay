@@ -25,7 +25,7 @@ export default function Post({ postData, posts }) {
             name="keywords"
             content={postData.tag}
           />
-           <link rel="canonical" href={postData.id}/>
+           <link rel="canonical" href={'https://blog.learnbay.co/'+postData.id}/>
            <meta
             name="author"
             content={postData.author}
