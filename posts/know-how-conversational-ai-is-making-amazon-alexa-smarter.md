@@ -113,7 +113,7 @@ Alexa gets smarter with time. As humans do, Alexa has learned to continue conver
 
 Furthermore, when you use Alexa hunches or smart home devices that are connected to the smart home Alexa hunches and smart home devices, Alexa will inform you when any pattern is not working, such as lighting being on for too long, or if the door is locked and then suggest fixing it for you.
 
-These significant advancements were achieved in conversational and sophisticated voice assistants a few years ago, and <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">machine learning</a> is how these advances were achieved.
+These significant advancements were achieved in conversational and sophisticated voice assistants a few years ago, and <a href="https://www.learnbay.co/machine-learning-course-training-in-bangalore" target="_blank">machine learning</a> is how these advances were achieved.
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-5.jpg" alt="A desktop monitor displays a pie chart and a bar graph, side-by-side. The accompanying text reads, 'Hyperautomation and Its Benefits to Businesses and IT Processes.'" style="width:100%" class="img"/>
 
@@ -150,6 +150,6 @@ There are many various layers to creating and developing a natural conversationa
 
 ## Conclusion
 
-<a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">Artificial intelligence</a> is not just advancing on its own but is also helping to develop other technology. AI was said to be harmful and would even discard many jobs. But in the real world, it paved the way for many advancements in technology, not just for revenue purposes but simplifying daily lives. <a href="https://blog.learnbay.co/nlp-and-deep-learning-for-data-scientists" target="_blank">NLP</a> is one of the technologies accelerated by artificial intelligence.
+<a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">Artificial intelligence</a> is not just advancing on its own but is also helping to develop other technology. AI was said to be harmful and would even discard many jobs. But in the real world, it paved the way for many advancements in technology, not just for revenue purposes but simplifying daily lives. <a href="https://blog.learnbay.co/nlp-and-deep-learning-for-data-scientists" target="_blank">NLP</a> is one of the technologies accelerated by artificial intelligence.
 
 Learn artificial intelligence, machine learning, and data science to create and develop much more devices like Alexa, Siri, or Cortana as voice recognition and other voice-based applications are needed for businesses for automation and even to improve user experience and interaction.
