@@ -20,8 +20,7 @@
     "react-dom": "18.2.0",
     "react-icons": "^4.4.0",
     "react-phone-number-input": "^3.2.4",
-    "sass": "^1.53.0",
-    "sitemap": "^7.1.1"
+    "sass": "^1.53.0"
   },
   "devDependencies": {
     "eslint": "8.19.0",

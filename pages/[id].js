@@ -21,23 +21,8 @@ export default function Post({ postData, posts }) {
             name="description"
             content={postData.desc}
           />
-           <meta
-            name="keywords"
-            content={postData.tag}
-          />
-           <link rel="canonical" href={postData.id}/>
-           <meta
-            name="author"
-            content={postData.author}
-          />
-          <meta
-            name="publisher"
-            content="Learnbay"
-          />
-          <meta name="robots" content="index, follow" />
-          <html lang="en"/>
           <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
-          {/* Schema genertor start */}
+{/* Schema genertor start */}
           <script type="application/ld+json">{`
       {
         "@context": "https://schema.org",
@@ -65,22 +50,7 @@ export default function Post({ postData, posts }) {
       }
       
     `}</script>
-          {/* Schema Generator End */}
-
-          {/* <script
-            src="https://www.googletagmanager.com/gtag/js?id=G-2GC4QV7F7F"
-            strategy="afterInteractive"
-          />
-          <script id="google-analytics" strategy="afterInteractive">
-            {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){window.dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-2GC4QV7F7F');
-        `}
-          </script> */}
-
+    {/* Schema Generator End */}
         </Head>
         <div className={styles.DivImg}>
           <img
@@ -91,15 +61,15 @@ export default function Post({ postData, posts }) {
           ></img>
         </div>
       </section>
-      <main>
+      <main> 
 
         <div className={styles.Open}>
-          <Socialshare postData={postData} />
+        <Socialshare postData={postData}/>
           <div className={styles.headerInfo}>
             <h1>{postData.mainH1}</h1>
             <span>
               By <strong>{postData.author}</strong> <BsDot className="bIcon" />
-              Published in <strong>{postData.category}</strong>{" "}
+              Published in <strong>{postData.tag}</strong>{" "}
               <BsDot className="bIcon" />
               <strong className={styles.time}>{postData.time}</strong>
             </span>
@@ -165,24 +135,24 @@ export default function Post({ postData, posts }) {
                   <div className={styles.lSide}>
                     <p>Tags</p>{" "}
                     {postData.tag.map((tag, i) => {
-                      return <span key={i}>#{tag}</span>
-                        ;
+                      return <span key={i}>#{tag}</span>  
+                      ;
                     })}
 
-
+                    
 
                   </div>
                 </div>
                 <div>
-                  <Socialshare postData={postData} />
+                   <Socialshare postData={postData}/>
                 </div>
 
                 <div>
-                  <LikeButtonComponent />
+                <LikeButtonComponent />
                 </div>
 
 
-
+                  
                 <hr />
               </div>
             </div>
