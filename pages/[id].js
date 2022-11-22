@@ -69,7 +69,7 @@ export default function Post({ postData, posts }) {
             <h1>{postData.mainH1}</h1>
             <span>
               By <strong>{postData.author}</strong> <BsDot className="bIcon" />
-              Published in <strong>{postData.tag}</strong>{" "}
+              Published in <strong>{postData.category}</strong>{" "}
               <BsDot className="bIcon" />
               <strong className={styles.time}>{postData.time}</strong>
             </span>

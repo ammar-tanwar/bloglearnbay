@@ -101,6 +101,7 @@
   display: flex;
   align-items: center;
   gap: 20px;
+  flex-wrap: wrap;
 }
 .lSide span {
   background-color: rgb(235, 235, 235);
