@@ -18,7 +18,7 @@ tableData:
     What Are The Latest Trends In Data Scientist Salary?,
   ]
 ---
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"   class="img"/></img>
 
 ## Technology Has No Break- Know The Data Science Latest Trends Leading Different Industries.
 

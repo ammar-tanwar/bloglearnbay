@@ -19,7 +19,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-1.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' Top 7 Women Full Stack-Software Developers' consists of a desktop monitor displaying a cardboard box and coding syntax. Three female figures are present around the monitor."/></img>
 
 <span style="color:blue; font-weight:bold; font-size:28px">Full stack software developer career can change the game for women in Tech</span>
 
@@ -38,7 +38,7 @@ In fact, we can say a full-stack developer's training is like a career booster f
 ### **1. Elizabeth Hendrickson** 
 <br>   
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-2.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-2.jpg" style="width:100%" class="img" alt="A portrait of Elizabeth Hendrickson."/></img>
 
 Elizabeth Hendrickson is the first woman who we want to share about in our list of top women full stack developers. She takes all the responsibilities for R&D (engineering and product development) for Gemfire and associated Pivotal cloud cache products.
 
@@ -51,7 +51,7 @@ She shares essential skills that one has to gain in order to be a master explore
 ### **2. Mala Gupta**   
 <br> 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-3.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-3.jpg" style="width:100%" class="img" alt="A portrait of Mala Gupta."/></img>
 
 Mala is the developer advocate with Jetbrains and the founder, as well as a lead mentor at JavaGuru.com. Mala actively supports people who want to take up Java certification as a path to their career advancement. Mala Gupta has written Java books under a publication called Manning (USA) and is top-rated for oracle certification all around the globe.
 
@@ -76,7 +76,7 @@ Here is the list of publications by Mala Gupta that full-stack software develope
 ### **3. Dani Roxberry** 
 <br> 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-4.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-4.jpg" style="width:100%" class="img" alt="A portrait of Dani Roxberry."/></img>
 
 Dani Roxberry is a battle-tested software architect with over 15 years of experience in coding. When she wrote her first BASIC PROGRAM, she was just 5. She gained a lot of experience while working as a senior system engineer and CTO with clients such as IMAX and NFL and a CTO of patented software that is used in products like Twitch and instructor for UC Berkeley extension.
 
@@ -96,7 +96,7 @@ Dani Roxberry is a battle-tested software architect with over 15 years of experi
 
 <br>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-5.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-5.jpg" style="width:100%" class="img" alt="A portrait of Teresa Shih."/></img>
 
 Teresa Shih was often shy and afraid to ask or answer questions in class among the other boys in the class, as we all know that women are usually not renowned in the full-stack software developer role. She continued to be a full-stack software developer, however. She loves coding and problem-solving and likes to learn while working.
 H
@@ -108,7 +108,7 @@ At present, she is the engineering product manager at <a href="https://hackernes
 <br>
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-6.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-6.jpg" style="width:100%" class="img" alt="A portrait of Alicia Sykes."/></img>
 
 Alicia Sykes is an experienced full-stack web and native mobile developer who is determined about great code. She is among the top 5 Vue coders in the U.K. and spends her time participating in international hackathons and answering questions on StackOverflow. She even contributes to many open source projects that include:
 
@@ -125,7 +125,7 @@ Alicia Sykes is an experienced full-stack web and native mobile developer who is
 ### **6. Judit Pacasi**
 <br>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-7.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-7.jpg" style="width:100%" class="img" alt="A portrait of Judit Pacasi."/></img>
 
 Judit is a front-end developer and obsessed gamer girl. She is among the top 5 Vue coders in the U.K. and spends her time participating in international hackathons and answering questions on StackOverflow. Even for young girls and women who want to learn how to create and implement unique designs, Judit is the go-to person for whom you have to watch and learn.
 
@@ -140,7 +140,7 @@ classic arcade games, and a restaurant review app. Judit even holds multiple cer
 ### **7. Lyndsey Padget**   
 <br>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-8.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-8.jpg" style="width:100%" class="img" alt="A portrait of Lyndsey Padget."/></img>
 
 Lyndsey is a Kansas City-based full-stack Javascript developer.Her 15 years of experience in web and software development has been gained from her work with top companies and startups.
 

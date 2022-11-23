@@ -4,7 +4,7 @@ desc: "AI is making Amazon Alexa smarter every day. Check out how conversational
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-1.jpg"
 date: "November 18, 2022"
-tag: [ Amazon Alexa, Alexa AI, Conversational AI, Alexa, API, Amazon, alexa ai knowledge, alexa ai technology, alexa ai voice, alexa is an example of ai, conversational ai examples, conversational ai definition, what is an example of conversational ai, Application Programming Interface ]
+tag: [ Amazon Alexa, Alexa AI, Conversational AI, Alexa, API, Amazon, alexa ai knowledge, alexa ai technology, alexa ai voice, alexa is an example of ai, conversational ai examples, conversational ai definition, what is an example of conversational ai, Application Programming Interface, how does alexa use ai ]
 category: "Artificial Intelligence"
 author: "Milan" 
 position: "Editor"

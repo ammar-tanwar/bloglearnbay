@@ -1,10 +1,10 @@
 ---
 title:  15 Tools Every Full-Stack Web Developer Should Master
-desc: "When it comes to full-stack web developer tools, then plenty of options lie. It's not at all possible to master all the tools for full-stack web development available in the market for a single full-stack web developer..."
+desc: "Check out this list of 15 essential tools that every full-stack web developer should master. Categorized for front-end and back-end developer tools, these tools will help you build better web applications faster."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-1.png"
 date: "October 14, 2022"
-tag: [ Full Stack ]
+tag: [ java full stack developer tools, best web developer tools, Full stack web developer, full-stack web developer tool, Full stack web developer, full-stack web developer tool ]
 category: "Full Stack"
 author: "Nivin Biswas" 
 position: "Editor"
@@ -15,7 +15,7 @@ tableData:
   [
 
     Who are full-stack web developers?, Client-Side/Front-End Web Developer Tools,
-    1. Angular.js,2. Bootstrap, 3. Foundation, Programming Languages for Front-end Web Development , 1. PHP , 2. HTML5 , 3. CSS3 , 4. SQL , 5. Python , 6. JavaScript , Back-end Web Developer Tools , 1. Django , 2. NodeJS , 3. Ruby on Rails ,  Database tools for Back-end , 1. MongoDB , 2. PostgreSQL , Being a full-stack web developer has the following benefits , Many people would wonder why is full-stack web development still in-demand?, What training should a full-stack web developer receive? , Does Full Stack Development involve coding?,  Conclusion
+    1. Angular.js,2. Bootstrap, 3. Foundation, Programming Languages for Front-end Web Development , 1. PHP , 2. HTML5 , 3. CSS3 , 4. SQL , 5. Python , 6. JavaScript , Back-end Web Developer Tools , 1. Django , 2. NodeJS , 3. Ruby on Rails ,  Database tools for Back-end , 1. MongoDB , 2. PostgreSQL , Being a full-stack web developer has the following benefits , Many people would wonder why is full-stack web development still in-demand?, What training should a full-stack web developer receive? , Does Full Stack Development involve coding?, Conclusion
   ]
 ---
 
