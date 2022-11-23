@@ -1,10 +1,10 @@
 ---
 title: Did You Know Artificial Intelligence Can Manipulate Human Behavior?
-desc: "Artificial intelligence (AI) is an area of computer science concerned with the research and development of intelligent devices, such as digital agents and computer programs. Artificial intelligence is a broad word that can be used to refer to a variety of systems..."
+desc: "In this blog, we'll look at how Artificial Intelligence (AI) may detect defects in human behavior and utilize them to make decisions. AI has a lot of potential, but it also has a nasty side."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-1.jpg"
 date: "October 12, 2022"
-tag: [ Artificial Intelligence ]
+tag: [ human behavior manipulation definition, ai predicting human behavior, artificial intelligence and human behaviour, dark side of ai, ai manipulate human behavior, role of artificial intelligence in human life, is artificial intelligence a threat to humans ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 
 position: "Editor"

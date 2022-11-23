@@ -1,10 +1,10 @@
 ---
 title: Women in AI - Top 10 Indian Women Empowering the World of AI
-desc: "Technology keeps evolving with discoveries every day. In recent years many interesting jobs have been created with high-paying salaries, and a data science job is one of them. But being a non-stem degree holder,"
+desc: "Indian women are making a mark in the field of artificial intelligence. Here is a list of the top 10 Indian women who are empowering the world of AI. We salute these women for their work and achievements."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-1.png"
 date: "September 26, 2022"
-tag: [ Artificial Intelligence ]
+tag: [ Women Leader In AI, women leaders in data and AI, Women leading In AI, women leaders AI ]
 category: "Artificial Intelligence"
 author: "Milan" 
 position: "Editor"

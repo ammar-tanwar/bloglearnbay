@@ -4,7 +4,7 @@ desc: "Cloud computation and machine learning are ruling the industry for a long
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-1.jpg"
 date: "October 25, 2022"
-tag: [ Cloud Computing ]
+tag: [ Cloud computing, machine learning Machine learning, Artificial intelligence, machine learning introduction, types of machine learning, machine learning examples, supervised vs unsupervised learning, machine learning definition, cloud computing meaning, cloud computing basics, what is cloud computing with example, types of cloud computing ]
 category: "Cloud Computing"
 author: "Nivin Biswas" 
 position: "Editor"
@@ -14,7 +14,7 @@ id: "cloud-computing-and-machine-learning-how-these-two-become-relevant"
 tableData:
   [
      What is machine learning?, 1. Supervised Learning:-, 2. Unsupervised Learning:-,
-     3. Semi-Supervised Learning:-, 4. Reinforcement Learning:-, Now - What is cloud computing?, 1. On-demand self-service:-, 2. Network Access:-, 3. Rapid elasticity:-, How is cloud computing so relevant to Machine Learning?, Benefits of Machine Learning and cloud computing Applicability:-, Advantages of Machine Learning With Clouds:-, 1. Cognitive clouds:-, 2. Business Intelligence:-, 3. IoT (Internet of things):-, Final Thoughts:-
+     1. Semi-Supervised Learning:-, 4. Reinforcement Learning:-, Now - What is cloud computing?, 1. On-demand self-service:-, 2. Network Access:-, 3. Rapid elasticity:-, How is cloud computing so relevant to Machine Learning?, Benefits of Machine Learning and cloud computing Applicability:-, Advantages of Machine Learning With Clouds:-, 1. Cognitive clouds:-, 2. Business Intelligence:-, 3. IoT (Internet of things):-, Final Thoughts:-
    ]
 ---
 

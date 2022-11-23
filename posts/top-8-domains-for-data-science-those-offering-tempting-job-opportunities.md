@@ -1,10 +1,10 @@
 ---
 title:  Top 8 Domains For Data Science Those Offering Tempting Job Opportunities
-desc: "Data is almost present everywhere, and it is crucial in every business today. The use of data across industries has grown abundantly by creating numerous data scientist job roles in almost every field..."
+desc: "Check out our list of the top 8 domains for data science that are offering tempting job opportunities. We will tell you about the skills you need to succeed in each domain and the types of jobs that are available."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d0.jpg"
 date: "October 19, 2022"
-tag: [ Data Science ]
+tag: [ data science domain, best domain for data science, different domain in data science, data science applications, data science domain knowledge, why is domain expertise important for data science, data science domain expertise ]
 category: "Data Science"
 author: "Milan" 
 position: "Editor"
