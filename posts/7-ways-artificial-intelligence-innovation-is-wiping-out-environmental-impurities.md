@@ -6,6 +6,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-1.
 date: "October 31, 2022"
 tag: [ Artificial intelligence, AI, Delivery, logistics, positive impact of artificial intelligence on environment, ai and the environment, artificial intelligence and environmental sustainability, artificial intelligence in environmental engineering ]
 category: "Artificial Intelligence"
+author: "Nivin Biswas" 
 position: "Editor"
 readTime: "10-13 mins"
 h1: "7 Ways Artificial Intelligence Innovation Is Wiping Out Environmental Impurities!"
