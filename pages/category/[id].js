@@ -18,11 +18,12 @@ export default function CategoryBlog({ categoryPosts }) {
 
         <title>{categoryPosts.tag}</title>
       </Head>
-      <section className={styles.blogHead}>
+      {/* <section className={styles.blogHead}>
         {categoryPosts.slice(0, 1).map((category) => {
           return <p key={category.tag}>{category.tag}</p>;
         })}
-      </section>
+      </section> */}
+      <br></br><br></br><br></br>
       <section className={styles.blogWrap}>
         {categoryPosts.map(
           ({ id, date, title, author, readTime, headerImg }) => {
