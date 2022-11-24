@@ -54,7 +54,7 @@ Because of the rapid evolution of this technology, augmented analytics modules a
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends1.jpg"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends1.jpg"   class="img"/></img>
 
 
 
@@ -121,7 +121,7 @@ The Future of AIaas technology will be divided into well-defined and self-contai
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends2.jpg"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends2.jpg"   class="img"/></img>
 
 
 

@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-1.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-1.jpg" style="width:100%" class="img" alt=" An increasing forecast of stocks is represented by a bar graph."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">The application of ML has changed the direction of stock market prediction. Know how? </span>
 
@@ -31,7 +31,7 @@ Unlike most traditional tactics, which are limited to a single area of expertise
 
 In general, machine learning tools are used to develop predictive models that effectively capture patterns in data and use that information to identify and predict future events. Investors can use this predictive model to maintain high investment values while maximizing returns and minimizing losses.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-2.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-2.jpg" style="width:100%" class="img" alt="An image indicating a deterministic growth in stock prediction with the use of reinforcement learning."/>
 
 ## Which part of machine learning focuses on stock prediction?
 
@@ -41,7 +41,7 @@ There are a few approaches to anticipating stock prices using machine learning. 
 
 <a href="https://blog.learnbay.co/what-is-supervised-and-unsupervised-learning-in-machine-learning" target="_blank">Reinforcement learning</a> can predict stock prices since it adheres to the concepts of using less historical data and operating in an agent-based system to forecast higher returns based on the current environment. It makes use of <a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank">Q learning</a>. The Q-learning algorithm uses model-free reinforcement learning to assess the significance of a given action in a given situation. Since it doesn't require a model of the environment, it can deal with stochastic transition and reward concerns without adjustments (hence the term "model-free").
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-3.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-3.jpg" style="width:100%" class="img" alt="An illustration of deep neural network that resembles a human brain shape. The accompanying text reads, 'deep learning.'"/>
 
 All you have to do is take current market data and create a model to forecast future stock performance. In general, reinforcement learning can be used to anticipate the price of a particular stock.
 
@@ -83,7 +83,7 @@ The Bellman equation is a method for figuring out how to solve the term "optimal
 
 The Bellman equation expresses the relationship between Q values as a function of subsequent Q values.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-4.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-4.jpg" style="width:100%" class="img" alt="A man presenting the stock market prediction using forecasting and predictive analytics."/>
 
 ## Forecasting/Predictive analytics in the stock market:-    
 

@@ -19,7 +19,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-1.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-1.jpg" style="width:100%" class="img" alt="A banner graphic showing an AI-powered robot and a human sitting together with their laptops at a round table. multiple setting logos around them indicates the robot can manipulate human behavior. The accompanying text reads, 'AI.'"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">Introduction to AI and Human Behavior</span>
 
@@ -33,7 +33,7 @@ In this blog, we'll look at how Artificial Intelligence (AI) may detect defects 
 
 <a href="https://youtu.be/haaNnBmyRiM)" target="_blank">Artificial intelligence (AI)</a> has a lot of potential, but it also has a nasty side. This is why so much AI research is being done to ensure that the technology being developed is being used for the proper goals. AI can learn to discover vulnerabilities in human routines and behaviors and exploit them to affect human decision-making, according to a recent study. This is a fascinating breakthrough, and it exemplifies how artificial intelligence can be utilized for good.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-2.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-2.jpg" style="width:100%" class="img" alt="A robotic arm and a human arm approach a human brain  from two opposite sides. This anticipates the optimization of workflows through AI."/>
 
 **AI** is affecting society in a variety of ways. One of the profound effects is on the workplace. Artificial intelligence tends to reform human work. AI helps organizations work remotely. AI can also anticipate and optimize workflows, saving time and money. The majority of AI's effects are only now beginning to manifest, and they are expected to become more significant in the future.
 
@@ -51,7 +51,7 @@ It's not a question that can be objectively addressed, but it's a fact that mach
 
 Now the debate is whether or not an intelligent computer can be deemed aware. Aside from specific responses, there are undoubtedly some continuous ground-breaking factors. Machines will never have consciousness in the technical sense. However, if machines begin to resemble humans, they can be termed intelligent, albeit without consciousness.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-3.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-3.jpg" style="width:100%" class="img" alt="An AI robot greets a human, which represents the Impact of AI in human behavior." />
 
 ## Impact of AI on human behavior:-  
 

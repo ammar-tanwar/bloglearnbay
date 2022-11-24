@@ -17,7 +17,7 @@ tableData:
   ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-1.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-1.jpg" style="width:100%" class="img" alt="A Banner image of a professional teaching and student understanding 21 most common data science interview questions for 2023"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Know the Right Approach to Handle the Most Asked Data Science Interview Questions </span>
 
@@ -48,11 +48,11 @@ Here is the list ofm **basic data science interview questions** that are general
 
 Estimate probability by using the underlying logistic function. Logistic regression evaluates the connection of the dependent variable(labeling of what you want to predict) and 1 or more independent variables (sigmoid).
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-2.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-2.jpg" style="width:100%" class="img" alt="An Image describing, Logistics regression by Linear model inputs, sigmoid function, threshold classifier with inputs probabilities and values to O&1"/>
 
 The formula and graph for the sigmoid function :
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-3.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-3.jpg" style="width:100%" class="img" alt="An illustration of a graph with two lines the first graph shows an straight line, while the second has a sigmoid curve."/>
 
 
 
@@ -133,7 +133,7 @@ For 3 multiples, print "Fizz" then the number, 5 multiples, print "buzz ."For 3 
 
 The code is :
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-4.png" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-4.png" style="width:100%" class="img" alt="An illustration implying a Fizzbuzz code for several printouts of number with 0 to 50."/>
 
 ### 10. A data set has missing values of 30%. How will you work on it ? 
 
@@ -165,7 +165,7 @@ The reduction compresses data and reduces space in storage. It even reduces comp
 | 3 | 2 | 1 |
 | 0 | 4 | 2 |
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-5.png" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-5.png" style="width:100%" class="img" alt="An images suggesting the solution for calculating the eigen value of and eigen vector of 3*3 matrices."/>
 
 ### 14. How do you deploy a trained model ?     
 
@@ -203,11 +203,11 @@ I.e, Pandora takes the properties of songs to recommend music with the same prop
 
 RMSE and MSE is the measure that is commonly used in a linear regression model. Root mean square error by RMSE.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-6.png" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-6.png" style="width:100%" class="img" alt="An images suggesting RMSE a root mean square error value of a linear regression model."/>
 
 The Mean Square Error is highlighted by MSE.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-7.jpg" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-7.jpg" style="width:100%" class="img" alt="An images suggesting the mean square error formulae."/>
 
 ### 17. How do you select k for k-means ?   
 
@@ -249,7 +249,7 @@ The time-series data is stationary when the series' variance and mean are consta
 
 Here is a visual example :
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-8.PNG" style="width:100%" class="img"/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-8.PNG" style="width:100%" class="img" alt="An image showing four graphs, two of which are stationary and the other two are  non-stationary, with the variance constant in the stationary graph and varying with time in the non-stationary graph."/>
 
 The variance is constant with time. X is time, and Y is variable. Y is stationary because it goes through the same points.
 
