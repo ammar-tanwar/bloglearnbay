@@ -20,7 +20,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f1.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f1.jpg" style="width:100%" class="img" alt="A banner image shows a woman seated with a job offer as a full-stack software developer. The text reads, 'let's get started.'"/></img>
 
 
 <span style="color:blue; font-weight:bold; font-size:28px">Women can now easily grab an unbelievable hike even after a long career break… Just earn industry-level full-stack developer skills.</h2>
@@ -33,7 +33,7 @@ So, a career break is no longer an issue if you are really passionate about maki
 
 Yes, it's possible. Why not become a full-stack developer? You just need a passion for coding and the basics of computers. That's it. A <a href="https://www.learnbay.co/full-stack-software-development-program" target="_blank">job-ready full-stack software developer course </a> will do the rest. Alternatively, you can even start with <a href="https://www.learnbay.co/dsa-system-design" target="_blank">a DSA and a system design course</a>.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f2.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f2.jpg" style="width:100%" class="img" alt="A woman sits in front of her computer, considering her next job after a long career break."/></img>
 
 ## **Why do women drop their careers after a break?**   
 
@@ -47,7 +47,7 @@ A full stack development is not a normal tech course for which one needs a so-ca
 
 Even non-techies can switch their career to the tech world via system designing and DSA skill upgradation. That will also provide an adequate hike for women returning to the workforce after a career break.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f3.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f3.jpg" style="width:100%" class="img" alt="An illustration shows a girl sitting with a tutor and learning full-stack developer skills."/></img>
 
 ## **How can you easily learn the current job market demands for full-stack software developer skills?** 
 
@@ -67,7 +67,7 @@ You can complete a capstone project in <a href="https://blog.learnbay.co/hybrid-
 
 Keep in mind that, in most cases, women fail to switch careers as they randomly try to change their domain. But when you are restarting your career, you will be joining a mid-level designation. So, try to land a job in the job market with some expertise.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f4.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f4.jpg" style="width:100%" class="img" alt="An illustration shows a woman is sitting in front of a laptop and looking for domain-specific instruction in a full-stack web development course."/></img>
 
 Women can choose to excel in a software developer course. You can choose from-
 

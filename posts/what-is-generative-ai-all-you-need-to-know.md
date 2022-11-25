@@ -1,10 +1,10 @@
 ---
 title: What Is Generative AI? All You Need To Know! 
-desc: "AI-generated deep fake and synthetic data** appears to be a very fascinating topic these days, with a developing trend. We've seen a lot of examples, and one of the most common examples of Deepfake and Synthetic data is Instagram or TikTok"
+desc: "Generative AI is a type of Artificial Intelligence that is used to generate new data from scratch. This could be anything from new images to new text or even new 3D models."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-1.jpg"
 date: "September 20, 2022"
-tag: [ Artificial Intelligence ]
+tag: [ synthetic data ai, synthetic data generation tools, synthetic data meaning, synthetic data for deep learning, deepfake meaning, deepfake examples, deepfake technology, deepfake definition, generative ai examples, generative ai course, generative ai applications, generative ai applications, how does generative ai work, generative artificial intelligence (ai) ]
 category: "Artificial Intelligence"
 author: "Nivin" 
 position: "Editor"

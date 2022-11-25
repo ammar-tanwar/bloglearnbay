@@ -1,10 +1,10 @@
 ---
 title: Successful Data Scientist Without A Tech Degree! Yes, It Is Possible
-desc: "Technology keeps evolving with discoveries every day. In recent years many interesting jobs have been created with high-paying salaries, and a data science job is one of them. But being a non-stem degree holder,"
+desc: "Are you considering a career in data science, but don't have a tech degree? It is possible to have a successful career in data science without a tech degree. Here's how"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg"
 date: "September 22, 2022"
-tag: [ Data Science ]
+tag: [ data scientist without a degree, data science courses, can you become a data scientist without a quantitative degree, can you become a data scientist without a degree, can i become a data scientist without a degree, do data scientist need a degree, how to become a data scientist without a degree, is it possible to become a data scientist without a degree, data science courses in bangalore, data science courses online, data science courses in india, data science courses fees, data scientist course syllabus, data science course eligibility, best data science courses, data science courses near me, data science courses in canada, data science course in pune, best data science courses in india, top data science courses in india, best data science courses in bangalore, best data science courses in the world ]
 category: "Data Science"
 author: "Milan" 
 position: "Editor"
@@ -19,7 +19,7 @@ tableData:
   ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg" style="width:100%" class="img" alt="An image portrays a recruiter conducting an interview with two data science aspirants after completing a data science course."/></img>
 
 <span style="color:blue; font-weight:bold; font-size:28px">You Can Still Become A Data Scientist Without Any Tech Degree</span>
 
@@ -36,7 +36,7 @@ Even if a college degree can help you, in reality, many organizations recruit da
 
 ## **How Can One Become A Successful Data Scientist Without A Degree?**
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-2.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-2.jpg" style="width:100%" class="img" alt="An image of a person sitting in front of a laptop, searching for ways to boost their profile as a data scientist without a degree."/></img>
 
 To become a data scientist, you need to dedicate ample time and gain a massive edge through portfolio projects and certifications. But if you are enthusiastic and put in your best efforts, you can reward yourself with a great career. You can pursue a job-ready course in <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">Advance Data science and AI</a>.
 
@@ -71,7 +71,7 @@ A resume displays what you are capable of, but a portfolio is mostly necessary. 
 2.  **Look for internships and start-ups** , as they are always actively hiring and would be happy to have you on short-term projects. Such training is more valuable than the degree, as it is a real-world experience.
 3. Many government departments, small businesses, and NGOs need data scientists' help. Keep an eye on such opportunities.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-3.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-3.jpg" style="width:100%" class="img" alt="An image portrays a recruiter interviewing two data science aspirants who had completed their data science course."/></img>
 
 ### **Hone Your Interview Cracking Skills**   
 

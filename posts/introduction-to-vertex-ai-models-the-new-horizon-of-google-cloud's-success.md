@@ -1,10 +1,10 @@
 ---
 title: Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success
-desc: "Google has officially announced that it has unified its AutoML and AI Platform **APIs** into one managed platform called Vertex AI..."
+desc: "Vertex AI is a one-stop shop for data scientists, providing all of the tools they'll need to manage, construct, deploy, interpret, and monitor their models."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg"
 date: "September 16, 2022"
-tag: [ Machine Learning ]
+tag: [ vertex ai, vertex AI models, machine learning, cloud ml ]
 category: "Machine Learning"
 author: "Nivin" 
 position: "Editor"
