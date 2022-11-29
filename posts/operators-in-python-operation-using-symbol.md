@@ -1,10 +1,10 @@
 ---
 title: Operators in Python - Operation using Symbol
-desc: "Operators are special symbols that substitute the values of the operands. Operators in python act on variables which are called operands. Python is a user-friendly programming language..."
+desc: "Python has a set of built-in operators that can be used on different data types. These operators are represented by symbols that you can use in your Python code. In this article, we will learn about the different operators in Python and how to use them."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg"
 date: "September 14, 2022"
-tag: [ Python ]
+tag: [ Operator in python, Arithmetic operator, logical operator, bitwise operator, bitwise operator in python, assignment operator in python, floor division operator in python, membership operator in python, logical operators in python, types of operators in python, operator in python with example, operators in python, operator meaning in python, set operations in python with examples ]
 author: "Vineeth Kumar"
 category: "Python"
 position: "Editor"
@@ -24,7 +24,7 @@ tableData:
 
 # Operators in Python - Operation using Symbols
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg" style="width:100%" class="img" alt="A banner image titled as an operator in python."/></img>
 
 <i>A character that is used to represent an action in mathematics is an operator. In the same way, python operators are used in performing a particular task on values and variables. There is a specific operation for each symbol or operator.</i>
 
@@ -53,7 +53,7 @@ There are seven different types of operators in python. Let us take a look at th
 
 In python you have seven different arithmetic operators known as binary operators since it is performed on two operands. In simple words, it is a basic mathematical operation.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-2.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-2.jpeg" style="width:100%" class="img" alt="An Image suggests the arithmetic operator function such as addition, subtraction, multiplication, divide, modules operator, exponents, and Floor division."/></img>
 
 Examples of each Arithmetic operator
 #Addition <br>
@@ -111,9 +111,9 @@ print(x ** y)<br>
 
 Assigning values to a variable is called an assignment operator. The result of these operations can later be stored into a variable.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-3.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-3.jpeg" style="width:100%" class="img" alt="An image suggesting the function of Assignment operator."/></img>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-4.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-4.jpeg" style="width:100%" class="img" alt="An image suggesting the function of Assignment operator."/></img>
 
 Examples for Assignment operators 
 
@@ -162,13 +162,13 @@ print(y)<br>
 
 Relational operator is also known as the comparison operator where we compare whether two values are the same or which is greater or lesser, etc... Depending on the compared values these operators will result in either True or False.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-5.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-5.jpeg" style="width:100%" class="img" alt="An image suggests the function of the comparison operator."/></img>
 
 ### **Logical operator**
 
 In python symbols or characters used in conditional statements is called Logical operators. It is either True or False. They are capable of performing AND, OR, and NOT operations. You can have a combination of more than a simple compound statement. In Logical Operator, False indicates 0, and True indicates any other number.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-6.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-6.jpeg" style="width:100%" class="img" alt="An image suggesting the logic operator function such as AND LOGIC, OR LOGIC, and NOT LOGIC"/></img>
 
 - **AND Logic:** While using this operator, if the first expression is false, further expressions are not evaluated.
 - **OR Logic:** While using this operator, if the first expression is True, further expressions are not evaluated.
@@ -199,7 +199,7 @@ Bitwise operators are individual bits (0 and 1) of the operands. These 0 and 1 a
 
 **(Note)** : Only Integers work in the Bitwise operator.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-7.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-7.jpeg" style="width:100%" class="img" alt="An image suggesting the bitwise operator function such as AND, OR, XOR, NOT, Zero fill left shift, Signed right shift."/></img>
 
 Example<br>
 
@@ -237,7 +237,7 @@ In this we can check whether the elements are present in the sequence or not. It
 
 There are two membership operators listed below:
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-8.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-8.jpeg" style="width:100%" class="img" alt="An image suggesting the function of the membership operator, such as in and not in."/></img>
 
 Example <br>
 
@@ -265,7 +265,7 @@ In this we can internally locate the memory location of the object and return an
 
 There are two types of identity operators:
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-9.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-9.jpeg" style="width:100%" class="img" alt="An image suggesting the function of identity operator such as is and is not"/></img>
 
 Example <br>
 

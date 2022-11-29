@@ -1,10 +1,10 @@
 ---
 title: How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted
-desc: "Everything is undergoing digital transformation today. Our present decade lives are filled with applications and websites. The apps like Instagram, Zomato, Alexa, HealthifyMe, or youtube are providing users with solutions and services as desired..."
+desc: "In this blog post we will tell you everything you need to know to get started on your career as a full-stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full-stack developer."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg"
 date: "September 12, 2022"
-tag: [ Full Stack ]
+tag: [ Full stack, full stack developer, full stack developer course, how to become a full stack developer, how to become a full stack developer with no experience, full stack developer salary, full stack developer course, how to become a full stack developer roadmap, how to become a full stack developer for free, how to become a full stack developer in 2022, how to become a full stack developer in 2023, how to become a full stack developer in india, how to become a full-stack developer roadmap, how to become a full stack developer in python, how long does it take to become a full stack developer, how hard is it to become a full stack developer, how to start to become a full stack developer ]
 author: "Milan"
 category: "Full Stack"
 position: "Editor"
@@ -22,7 +22,7 @@ tableData:
 
 # How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg" style="width:100%" class="img" alt="A banner image suggesting the codes for full stack developer course ."/></img>
 
 ## <i>Become A Full-Stack Developer Wiz Within A Year</i>
 
@@ -54,7 +54,7 @@ The full-stack Developer is an expert in programming languages like **Javascript
 
 **It saves time and cost for a firm if a full-stack developer can alone Handle front and backend development.** 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-2.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-2.jpg" style="width:100%" class="img" alt="An image suggesting a person sitting in front of a laptop and started pursuing Full Stack Software or Web Developer career online."/></img>
 
 ## Where to start pursuing a Full Stack Software or Web Developer career?
 
@@ -72,7 +72,7 @@ Small enterprises and businesses usually recruit a **Full-stack developer** to h
 
 5. **Working on projects is the key. Take part in coding competitions to hone your coding capabilities.</i>**
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-3.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-3.jpg" style="width:100%" class="img" alt="An image suggests a few of the Scripting and programming of Full stack developers such as HTML/CSS, JAVASCRIPT, PHP, PYTHON, RUBY, and DATABASE."/></img>
 
 ## Do Full Stack Developers have a Future?      
 
@@ -113,7 +113,7 @@ Some tech stacks have become more popular for a few years because of their easy-
 
 The tech stack includes the  **frontend, backend, and database management** technology.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-4.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-4.jpg" style="width:100%" class="img" alt="An image suggests the LAMP stack, such as Linux, Apache, MySQL, and PHP."/></img>
 
 ### 1. LAMP Stack (It is an old stack, and most of them do not operate this stack much)  
 
@@ -164,7 +164,7 @@ A Back-end framework is needed to create applications as it is the script side o
 
 - **Ruby on rails**.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-5.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-5.jpg" style="width:100%" class="img" alt="An image suggests various functions in database management systems such as  MongoDB, Cassandra, MySQL, and PostgreSQL."/></img>
 
 ### 3. Database    
 We need to retrieve and store data, and we need a database. The two types of databases are (SQL & NoSQL) relational and non-relational.
@@ -193,7 +193,7 @@ The secure shell (SSH) protocol operates network services securely in an unsecur
 
 HyperText Transfer Protocol (HTTP) helps define how messages are transmitted and what actions browsers and web servers take when it responds to commands. HTTPS is a secured version of HTTP. The communication protocol is encrypted in Transport layer security, protecting against eavesdropping and man-in-the-middle attacks.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-6.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-6.jpg" style="width:100%" class="img" alt="An image suggests the Symbol of the Linux programming language."/></img>
 
 
 ### 3. Linux Command    
