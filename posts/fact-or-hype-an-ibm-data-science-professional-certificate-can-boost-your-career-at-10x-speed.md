@@ -39,7 +39,7 @@ Let's dig out the scopes associated with an industry-ready, unique **IBM data sc
 
 ## What is an interview-guaranteed IBM data science Professional Certificate?
 
-While scrolling on the internet, you find plenty of IBM certifications for machine learning, AI, and data science. But a few only will provide an interview guarantee. To survive in the current competitive data science job market, you have to choose an <a href="https://www.learnbay.co/data-science-ai-masters-program" target="_blank">IBM data science certification</a> with an unlimited interview guarantee.
+While scrolling on the internet, you find plenty of IBM certifications for machine learning, AI, and data science. But a few only will provide an interview guarantee. To survive in the current competitive data science job market, you have to choose an IBM data science certification with an unlimited interview guarantee.
 
 Such a course offers you.
 
