@@ -57,7 +57,7 @@ The **Cloud (ML)** allows customers to train machine learning models in the clou
 
 - With our gateway for complete end-to-end ML training, you can develop and deploy AI solutions on Vertex AI with minimal transition.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-30.jpeg" style="width:100%" class="img" alt="A vertex AI workbench that can be used as the KMS project, Analytics project, Data Project."/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-30.jpg" style="width:100%" class="img" alt="A vertex AI workbench that can be used as the KMS project, Analytics project, Data Project."/></img>
 
 ## Benefits of Vertex [AI](https://www.youtube.com/c/Learnbay/search?query=AI) **Workbench:-**
 
