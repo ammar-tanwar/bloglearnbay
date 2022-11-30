@@ -21,7 +21,7 @@ tableData:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7-machine-1.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7-machine-1.jpg" style="width:100%" class="img" alt="A banner image shows stacks of high-raised office buildings of machine learning companies."/></img>
 
 <span style="color:blue; font-weight:bold; font-size:28px">Here are the companies, ready to pay any figure to an eligible machine learning engineer</span>
 
@@ -32,7 +32,7 @@ stated that job postings for **Machine Learning and Artificial Intelligence engi
 
 ## Here are the 7 best companies for a machine learning engineer to work for in Bangalore
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7-machine-2.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7-machine-2.jpg" style="width:100%" class="img" alt="A map with locations for the top seven companies in Bangalore for machine learning engineers, such as Accenture, IBM, Wipro, FugenX, Gramener, HP, and Infosys."/></img>
 
 
 **Note** : All the vacancies are with respect to the Bangalore location and different ML roles.
@@ -67,7 +67,7 @@ Infosys is a leader of digital solutions with consent to the future generation. 
 - 240 vacancies every month.
 - Paycheque of 7-8 LPA (mid-senior level).
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7-machine-3.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7-machine-3.jpg" style="width:100%" class="img" alt="A robotic machine that can build an Innovative ecosystem."/></img>
 
 # 5. Wipro   
 
