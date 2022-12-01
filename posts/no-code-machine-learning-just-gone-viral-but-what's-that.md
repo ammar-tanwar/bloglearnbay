@@ -22,7 +22,7 @@ tableData:
 
 # No Code Machine Learning Just Gone Viral!- But What's That?
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-1.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-1.jpeg" style="width:100%" class="img" alt="A banner shows two professionals working on coding while one is seated in front of a laptop and the other is using a different screen."/></img>
 
 ## Introduction to No code Machine Learning:-
 
@@ -30,7 +30,7 @@ Big platforms like Tesla, Walmart, and P&G are enjoying the endless advantages o
 
 <a href="https://www.learnbay.co/data-science-course/what-is-supervised-and-unsupervised-learning-in-machine-learning/" target="_blank">Machine Learning (ML)</a> is a critical component of AI and Data Science, and it can be found in a variety of industries ranging from medical to finance. In most cases, Machine Learning is required to analyze the data, which is often unstructured. After that, we'll need AI to provide highly personalized services on a huge scale.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-2.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-2.jpeg" style="width:100%" class="img" alt="A cropped screen with different kinds of coding syntax created using machine learning with no code."/></img>
 
 ## How does no-code Machine Learning come to a highlight?  
 
@@ -39,7 +39,7 @@ Understanding a deep Machine Learning approach appears to be a difficult task; a
 ## How ML and No code ML are linked together?  
 **Machine Learning** with no code is a subset of Machine Learning that seeks to make it more accessible. **No code Machine Learning uses a development platform with a code-free drag and drop interface, which is basically grounded on ML and AI-based models.** With **no code ML** , non-technical individuals can quickly categorize, assess, and construct accurate models for making predictions.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-3.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-3.jpeg" style="width:100%" class="img" alt="An illustration differentiate between  traditional ML and no-code ML. Traditional MLfocuses on data preparation, feature extraction, model selection, fine-tuning, model training, and improvement, whereas no-code ML focuses on drag-and-drop modelling and obtains results."/></img>
 
 It's crucial to understand the distinctions between traditional and no-code Machine Learning before we get into all of the reasons why your firm requires no-code solutions.
 
@@ -94,7 +94,7 @@ The importance of no-code platforms for Machine Learning is now widely recognize
 
 Allowing non-programmers to add basic functionalities frees up IT workers to focus on more challenging tasks or projects with more business value, as there will be less manpower necessary for a single type of work.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-4.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-4.jpeg" style="width:100%" class="img" alt="An image shows a man tapping a tablet screen, which provides some technical projection. A robotic hand from the other end of the projection taps the projection."/></img>
 
 ## Platforms that support No Code ML:-
 

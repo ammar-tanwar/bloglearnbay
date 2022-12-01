@@ -1,10 +1,10 @@
 ---
 title: What is Data Science? | Uncovering The Explicit Truth
-desc: "Data Science is a Major Player in 2022: Know-How ? Technology keeps revolutionizing as it gets better and better every day. Many unique and customized models are developed according to the business needs as well as operations...."
+desc: "Data science is the field of study combining programming, domain expertise, skills, and knowledge of mathematics and statistics to derive meaningful insights from data."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science1.png"
 date: "August 26, 2022" 
-tag: [ Data Science ]
+tag: [ Data Science Course, Data Scientist Job, Data Science, data science course in bangalore, data science course fees, data science course online, data science course in india, data science course duration, best data science course, best data science course in india, data scientist jobs bangalore ]
 category: "Data Science"
 author: "Milan"
 position: "Editor"

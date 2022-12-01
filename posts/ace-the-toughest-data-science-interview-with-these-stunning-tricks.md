@@ -20,7 +20,7 @@ tableData:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-1.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-1.jpg" style="width:100%" class="img" alt="A data science aspirant seated in front of a laptop analyzes numerous data science interview preparations."/></img>
 
 A Guide for **data science interview preparation.**
 
@@ -38,7 +38,7 @@ These coding questions also help determine your logical reasoning to solve real-
 
 The recruiter even looks at your overall code quality by checking if you have considered all crucial cases in your solutions or not.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-2.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-2.jpg" style="width:100%" class="img" alt="Three data science students practice coding techniques on laptops, tablets, and mobile devices."/></img>
 
 
 ### Practice coding   
@@ -61,7 +61,7 @@ If you have an issue, you must be able to transform it into a problem that data 
 
 Your comprehension of the product/ service (domain-specific) is referred to as product/service sense. It is more important to clearly understand the context than to solve problems and become bogged down in technical minutiae. You must understand the goal of the product or service you're creating, why it's essential to you, and how you'll use it to help others.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-3.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-3.jpg" style="width:100%" class="img" alt="An illustration shows four professionals seated at the table and communicating."/></img>
 
 
 ### Brush up your communication skills
@@ -104,7 +104,7 @@ These are the few common models that usually data scientists should know and hav
 
 ## Behavioral questions    
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-4.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-4.jpg" style="width:100%" class="img" alt="Three interviewers take a data scientist candidate's interview."/></img>
 
 Questions in these tests can help recruiters understand how you respond to different work situations. How good you are at solving problems and achieving successful outcomes? The recruiters throw some questions of conflict to you and then see how you resolve it. The importance of these questions is for HR to know whether you are the right fit or not.
 
