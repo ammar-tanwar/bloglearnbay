@@ -20,7 +20,7 @@ tableData:
 
 # What is Data Science? | Uncovering The Explicit Truth
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science1.png" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science1.png" style="width:100%" class="img" alt="An image titled, ' What is data science?'"/></img>
 
 
 Data Science Become a Major Player in 2022: Know-How.
@@ -96,7 +96,7 @@ The data that a human body generates on a daily basis is two terabytes. Collecti
 
 Machine Learning algorithms are used to detect and track common conditions like heart or respiratory disease. Technology can identify the tiniest changes in a patient's health indicators and predict possible problems by collecting and analyzing heart rate and breathing patterns. While 600,000 people in the United States suffer from sudden heart attacks each year, the ability to predict the problem and give out timely alerts could save thousands of lives.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science2.png" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science2.png" style="width:100%" class="img" alt="An illustration of two data scientists working in a scientific lab analyzing various health-related data."/></img>
 
 2. **Bringing precision medicine to perfection-**
 

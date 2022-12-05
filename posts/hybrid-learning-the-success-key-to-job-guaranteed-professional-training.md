@@ -23,7 +23,7 @@ tableData:
 
 How Can Hybrid Learning Help You Achieve the Full-fledged Benefits of an Online Professional Course?
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-1.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-1.jpeg" style="width:100%" class="img" alt="A professional studying online while enjoying the benefits of offline classes."/></img>
 
 
 Upgrading technical skills is the only key to sustainable professional growth. It has already been proven that self-learning is not a good choice in the fast-growing job market.
@@ -39,7 +39,7 @@ With many edtech offering students online courses, they know that at least a gat
 
 ## What Is Hybrid Learning?
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-2.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-2.jpeg" style="width:100%" class="img" alt="An image displaying in two halves in which the left one shows a girl undergoing an online class, while the right one shows a batch of students undergoing offline training."/></img>
 
 **Hybrid learning** (aka blended learning) is the combination of learning online and on-site. A **hybrid class**  design course is how subjects are taught online, and the other activities, like capstone projects and interview preparation, are taught in a classroom dedicated to such activities.
 
@@ -68,7 +68,7 @@ The internet has made learning very feasible and accessible. As it does not requ
 
 The accessibility of the platform is optimized and can be accessed through mobile phones and other devices. Students can access study materials and class recordings whenever they want. Around 4.88 billion people across the globe have access to the internet. This makes the academic content available from any location for students and removes the geographical barrier to learning.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-3.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-3.jpeg" style="width:100%" class="img" alt="A professional undergoing highly accessible online classes."/></img>
 
 The above benefits the online sessions associated with hybrid learning, similar to all other online learning modes.
 
@@ -92,7 +92,7 @@ Everyone learns at a different pace, which is a fact to be acknowledged. So in t
 
 In blended learning, self-paced is what can be focused on, which removes the barrier between fast and slow learners. Here students can learn in their own time, submit assignments and capstone projects whenever they have finished, and even contact the lecturer. Even after that, everything gets completed within a specified timeline, just like university courses.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-4.jpeg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-4.jpeg" style="width:100%" class="img" alt="A group of data scientists discussing data science projects."/>
 
 ### 7. Time management  
 
