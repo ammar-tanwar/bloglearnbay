@@ -1,10 +1,10 @@
 ---
 title: Differentiating Data Scientist and Data Analyst
-desc: "Even people who have some basic knowledge of data science have confused the data scientist and data analyst roles. So, what’s the difference between a data scientist and a data analyst? Both work with data, but the key difference is what they do with this data..."
+desc: "Data analysts sift through data and seek to identify trends while Data scientists are pros at interpreting data, but also tend to have coding and mathematical modelling expertise."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/diff1.jpg"
 date: "August 14, 2022"
-tag: [ Data Science ]
+tag: [ difference between data analyst and data scientist and data engineer, Data Scientist v/s Data Analyst, difference between data science and data analytics with example, data analyst vs data scientist, data scientist and data analyst difference, data analyst and data scientist course, difference between data scientist and data analyst ]
 category: "Data Science"
 author: "Admin"
 position: "editor"

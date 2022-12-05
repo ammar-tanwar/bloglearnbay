@@ -1,16 +1,16 @@
 ---
-title: Oops! Why 2022 Is Too Late For Video-Based Data Science Learning
-desc: "Online data science courses are still the best option, but the recorded video-based ones are the worst..."
+title: Oops! Why 2023 Is Too Late For Video-Based Data Science Learning
+desc: "Data science is a rapidly growing field with many opportunities. However, many people are still unaware of the basics of data science learning."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-4.jpg"
 date: "August 17, 2022"
-tag: [ Data Science ]
+tag: [ how to learn data science from scratch, data science learning path, data science course for beginners, data science courses, video based learning benefits, video based learning, video-based learning examples, video-based learning, , video lectures on data science ]
 category: "Data Science"
 author: "Milan" 
 position: "Editor"
 readTime: "9-10 mins"
-h1: "Oops! Why 2022 Is Too Late For Video-Based Data Science Learning"
-id: "oops-why-2022-is-too-late-for-video-Based-data-science-learning"
+h1: "Oops! Why 2023 Is Too Late For Video-Based Data Science Learning"
+id: "oops-why-2023-is-too-late-for-video-Based-data-science-learning"
 tableData:
   [
     Self-paced,
@@ -19,7 +19,7 @@ tableData:
     Real-time Projects, 
   ]
 ---
-# Oops! Why 2022 Is Too Late For Video-Based Data Science Learning
+# Oops! Why 2023 Is Too Late For Video-Based Data Science Learning
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-4.jpg" style="width:100%" class="img"/></img>
 
@@ -29,7 +29,7 @@ Are you searching for a **data science course online?** Well, the subtitle might
 
 No worries. This blog will tell you the difference between self-paced and live online learning for data science. So, you would know which learning methodology suits you better and know which methodology will transform you into a successful data scientist.
 
-Mostly MOOCs ( Massive Open Online Courses) are the traditional way of teaching, like college lecture methodology through video lectures. For many edtech platforms that are not affiliated with any universities, video lecturing has become the primary approach for [**data science certification online**](https://www.learnbay.co/advance-data-science-certification-courses/) **.**
+Mostly MOOCs ( Massive Open Online Courses) are the traditional way of teaching, like college lecture methodology through video lectures. For many edtech platforms that are not affiliated with any universities, video lecturing has become the primary approach for <a href="https://www.learnbay.co/advance-data-science-certification-courses/" target="_blank">data science certification online</a>.
 
 ## There are two methodologies for learning data science online:
 
@@ -49,7 +49,7 @@ An instructor in a classroom scenario or online courses teaches data science in 
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-3.jpg" style="width:100%" class="img"/></img>
 
-Video-based learning consumes a lot of time and is inappropriate for [working professionals](https://blog.learnbay.co/data-science-for-working-professionals). So online instructor led-learning is the most liked learning method by professionals as it is scheduled and keeps them always on track. Professionals do not have to leave their job to complete a data science course. They get to clear their queries during Q&A discussions.
+Video-based learning consumes a lot of time and is inappropriate for <a href="https://blog.learnbay.co/data-science-for-working-professionals" target="_blank">working professionals</a>. So online instructor led-learning is the most liked learning method by professionals as it is scheduled and keeps them always on track. Professionals do not have to leave their job to complete a data science course. They get to clear their queries during Q&A discussions.
 
 **But let me clarify another point here. Why should you learn data science?**
 
@@ -91,6 +91,6 @@ Currently, recruiters are less concerned with your certifications and more inter
 
 Plenty of options are roaming around for learning data science and AI. Most of them come with tempting offers and pitches. But choosing the right course is not that easy. Even if you choose an instructor-led class, you have to stay informed about fulfilling the respective promises associated with the course.
 
-Maybe, I am making you a bit terrified, but the present data science job market is like that only. What you can do to ensure the safest decision is take an expert [data science career counseling.](https://api.whatsapp.com/send?phone=917349222263&text=Hey%20Learnbay) You can avail extremely personalized career counseling by FAANG experts at Learnbay.
+Maybe, I am making you a bit terrified, but the present data science job market is like that only. What you can do to ensure the safest decision is take an expert [data science career counseling.](https://api.whatsapp.com/send?phone=917349222263&text=Hey%20Learnbay) You can avail extremely personalized career counseling by MAANG experts at Learnbay.
 
 For the latest updates about top courses companies are hiring, trending tools and technologies about data science, artificial intelligence, and Machine Learning, you can follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.

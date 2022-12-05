@@ -4,7 +4,7 @@ desc: "Some documents that have unique numbers (passport, driving license, voter
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-1.jpg"
 date: "August 18, 2022" 
-tag: [ Data Science ]
+tag: [ what are mutable and immutable data types in python, are tuples mutable in python, tuples are mutable or immutable, what are mutable data types in python, what is immutable in python, tuple immutable meaning, tuple are immutable, tuple immutable example, tuple immutable in python, tuple is a mutable data type ]
 category: "Data Science"
 author: "Vineeth Kumar"
 position: "Editor"
