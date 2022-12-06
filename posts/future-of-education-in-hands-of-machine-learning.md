@@ -1,10 +1,10 @@
 ---
 title: Future of Education in hands of Machine Learning
-desc: "Old school educators are having a hard time getting used to machines having the ability to think and learn. Suggesting to them that Machine Learning is going to revolutionize the education field usually falls on deaf ears..."
+desc: "The field of machine learning technology is constantly developing and progressing. Additionally, this kind of learning allows computers to learn from data without using programs or human interference. This blog will brief you on comprehending how machine learning is revolutionizing the educational sector."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/machine.jpg"
 date: "June 10, 2022"
-tag: [ Machine Learning ]
+tag: [ future of machine learning in india, future of machine learning, machine learning in education sector, machine learning in education examples, machine learning in education industry, use of machine learning in education, artificial intelligence and machine learning in education, benefits of machine learning in education, machine learning in edtech ]
 category: "Machine Learning"
 author: "Admin"
 position: "Editor"
@@ -26,13 +26,13 @@ Machine Learning is defined as a field of computer science that uses statistical
 In this piece, I want to discuss 6 ways Machine Learning will revolutionize the education sector.
 
 
-1. Increasing efficiency: Machine Learning in the form of artificial intelligence has the potential to make educators more efficient by completing tasks such as classroom management, scheduling, etc. In turn, educators are free to focus on tasks that cannot be achieved by[ AI](https://searchenterpriseai.techtarget.com/definition/AI-Artificial-Intelligence#:~:text=Artificial%20intelligence%20is%20the%20simulation,speech%20recognition%20and%20machine%20vision.), and that require a human touch.
+1. Increasing efficiency: Machine Learning in the form of artificial intelligence has the potential to make educators more efficient by completing tasks such as classroom management, scheduling, etc. In turn, educators are free to focus on tasks that cannot be achieved by <a href="https://blog.learnbay.co/a-few-fascinating-facts-about-artificial-intelligence-in-2022-and-beyond" target="_blank">AI</a>, and that require a human touch.
 2. Learning analytics: Machine Learning in the form of learning analytics can help teachers gain insight into data that cannot be gleaned by using the human brain. In this capacity, computers can perform deep dives into data, sifting through millions of pieces of content, and making connections and conclusions that positively impact the teaching and learning process.
 3. Predicative analytics: Machine Learning in the form of predictive analytics can make conclusions about things that may happen in the future. For instance, using a data set of middle school students’ cumulative records, predictive analytics can tell us which ones are more likely to drop out because of academic failure or even their predicated score on a standardized exam, such as the ACT or SAT.
 4. Adaptive learning: Machine Learning in the form of adaptive learning can be used to remediate struggling students or challenge gifted ones. Adaptive learning is a technology-based or online educational system that analyzes a student’s performance in real time and modifies teaching methods and the curriculum based on that data. Think AI meets dedicated math tutor meets personalized engagement.
 5. Personalized learning: Machine Learning in the form of personalized learning could be used to give each student an individualized educational experience. Personalized learning is an educational model where students guide their own learning, going at their own pace and, in some cases, making their own decisions about what to learn. Ideally, in a classroom using personalized learning, students choose what they’re interested in, and teachers fit the curriculum and standards to the students’ interests.
 6. Assessment: Machine Learning in the form of artificial intelligence can be used to grade student assignments and exams more accurately than a human can. It may require some input from a human being, but the results will have higher validity and reliability.
 
-Pretty much of an interesting topic isn’t it? Know more about Machine Learning in detail with the help of[ Learnbay](https://www.learnbay.ai/data-science-course/artificial-intelligence-certification/).
+Pretty much of an interesting topic isn’t it? Know more about Machine Learning in detail with the help of <a href="https://www.learnbay.ai/data-science-course/artificial-intelligence-certification" target="_blank">Learnbay</a>.
 
-<a href="https://www.learnbay.co/artificial-intelligence-certification/" target="_blank">Learnbay</a> is a Data Science and Artificial Intelligence training institute that provides the essential and highly recommended topics of Machine Learning.
+<a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">Learnbay</a> is a Data Science and Artificial Intelligence training institute that provides the essential and highly recommended topics of Machine Learning.

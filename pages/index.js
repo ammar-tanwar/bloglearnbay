@@ -33,10 +33,10 @@ export default function blog({ allPostsData }) {
 
       </Head>
       <div className={styles.BackP} style={{ marginTop: "70px" }}>
-        <h4>
+        {/* <h4>
           <b>Our Blogs</b>
 
-        </h4>
+        </h4> */}
       </div>
       <section className={styles.blogHead}>
 

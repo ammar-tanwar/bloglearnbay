@@ -59,7 +59,7 @@ Consequently, as most business organizations were sales-driven before, they have
 
 ## Know what to learn:
 
-The motivation to learn is appreciated, but knowing what to learn is crucial. Data science is huge. You cannot learn independently as it is very vast to explore. Instructor-led  [**data science training online**](https://www.learnbay.co/data-science-certification-courses/) can help students recognize the right topic to study in the right way. Learning any advanced topic early can lead to a disaster, like a mixture of basic curry and slow-cooked advanced concepts. Online instructor-led classes consist of mentors and lecturers who will always help you plan effective learning orientations.
+The motivation to learn is appreciated, but knowing what to learn is crucial. Data science is huge. You cannot learn independently as it is very vast to explore. Instructor-led <a href="https://www.learnbay.co/data-science-certification-courses/" target="_blank">data science training online</a> can help students recognize the right topic to study in the right way. Learning any advanced topic early can lead to a disaster, like a mixture of basic curry and slow-cooked advanced concepts. Online instructor-led classes consist of mentors and lecturers who will always help you plan effective learning orientations.
 
 ## Scheduled learning
 
@@ -85,12 +85,12 @@ Currently, recruiters are less concerned with your certifications and more inter
 
 ## But do Learning costs matter?
 
-### Yes, it's a big concern. While recorded video-based classes are even available for 20K INR, the live and interactive classes usually cost more than 70K. Certainly, there will be second thoughts amongst the candidates before spending the hard-earned money on such courses. But here, one thing you need to consider- is the ROI. Yes, as you don't get any job assurance and even proper project exposure, the entire 20K seems like a complete waste. On the other hand, even if you pay 1 lakh for an instructor-led [job-guaranteed](https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course) data science course, that's worth it. Even some courses offer more than 300% ROI.
+ Yes, it's a big concern. While recorded video-based classes are even available for 20K INR, the live and interactive classes usually cost more than 70K. Certainly, there will be second thoughts amongst the candidates before spending the hard-earned money on such courses. But here, one thing you need to consider- is the ROI. Yes, as you don't get any job assurance and even proper project exposure, the entire 20K seems like a complete waste. On the other hand, even if you pay 1 lakh for an instructor-led <a href="https://www.learnbay.co/data-science-ai-masters-program" target="_blank">job ready</a> data science course, that's worth it. Even some courses offer more than 300% ROI.
 
 ## So, what's next?
 
 Plenty of options are roaming around for learning data science and AI. Most of them come with tempting offers and pitches. But choosing the right course is not that easy. Even if you choose an instructor-led class, you have to stay informed about fulfilling the respective promises associated with the course.
 
-Maybe, I am making you a bit terrified, but the present data science job market is like that only. What you can do to ensure the safest decision is take an expert [data science career counseling.](https://api.whatsapp.com/send?phone=917349222263&text=Hey%20Learnbay) You can avail extremely personalized career counseling by MAANG experts at Learnbay.
+Maybe, I am making you a bit terrified, but the present data science job market is like that only. What you can do to ensure the safest decision is take an expert <a href="https://api.whatsapp.com/send?phone=917349222263&text=Hey%20Learnbay" target="_blank">data science career counseling.</a> You can avail extremely personalized career counseling by MAANG experts at Learnbay.
 
 For the latest updates about top courses companies are hiring, trending tools and technologies about data science, artificial intelligence, and Machine Learning, you can follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.

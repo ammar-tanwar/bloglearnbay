@@ -24,7 +24,7 @@ tableData:
   ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-1.png" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-1.png" style="width:100%" class="img" alt="A Banner image consists of the text, 'Top 5' in the background."/></img>
 
 # Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023
 
@@ -43,7 +43,7 @@ Data science was induced as a small advancement in technology. It disrupted the 
 ## Why should you opt to become a data science skill-equipped manager?
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-2.png" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-2.png" style="width:100%" class="img" alt="A background image shows partially torn brown paper on top of white paper. The torn part shows a text, 'Why?'"/></img>
 
 According to a <a href="https://towardsdatascience.com/analysis-of-data-science-and-ml-job-openings-in-usa-eda-e9191dddef15" target="_blank">Towards Data Science' Article</a>, at the ending era of 2020, in the USA, the total number of <b><a href="https://www.learnbay.co/data-science-course/data-science-for-working-professionals" target="_blank">data scientist job</a></b> vacancies was 46.1%, and the lead **data scientist** role was lying at a percentage of 4.1%. But the scenario has changed to a broader extent. At present, In the USA and around the globe, there is a huge vacancy in the lead **data scientist** <a href="https://blog.learnbay.co/different-jobs-opportunities-of-data-science" target="_blank">roles</a> and managerial designations.
 
@@ -54,18 +54,18 @@ The field of data science is suffering from leadership. So, it's very clear that
 In the below two figures, please check the percentage of vacancies in the lead/senior level positions.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-3.png" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-3.png" style="width:100%" class="img" alt="A pie chart describes 'Demand of different data science job role 2020.'"/></img>
 Figure 1: Vacancies at different-level data science jobs (2020)
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-4.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-4.jpg" style="width:100%" class="img" alt="A pie chart describes, 'Demand of different data science job role - 2022.'"/></img>
 Figure 2: Vacancies at different-level data science jobs (2022)
 
 You might be wondering why I am fragging the topic regarding the importance of data science skills at the manager level instead of coming to the list of top 5 courses. Well, as I told data science courses are spreading like rapid fire. Hence the possibility of getting affected by the wrong course is also becoming huge. So knowing the exact thing about what type of data science knowledge you need or why you need the same at the leadership level will ultimately help you to choose the right course._
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-5.png" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-5.png" style="width:100%" class="img" alt="Six-word blocks and arrows arrange to spell 'Career.' This indicates the data science career."/></img>
 
 ## Which Are The Top 5 Data Science Institute For Managers and Leaders?
 
@@ -77,7 +77,7 @@ Topics covering these courses are **SQL,** <b><a href="https://blog.learnbay.co/
 
 Faculties are MAANG experts, <b><a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">Data Science manager's course</a></b> is for 11 months and offers flexible membership to LMS. Managers even get to work on live projects and receive <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Data+Science+and+AI+Projects.pdf" target="_blank">project experience certification from IBM.</a>
 
-Key Features includes
+**Key Features includes**
 
 - 100% interview guarantee
 - Upgrade option with 100% job or money-back guarantee

@@ -27,7 +27,7 @@ tableData:
 
 # Introduction To Data Types - What Does It Mean In Python Programming?
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-1.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' An introduction to Data types in statistics'."/></img>
 
 When you are working on any programming language, the information has to be written in different forms. This is very important to run the program. Programming is a combination of different data elements, such as integers, values, and strings called  **data types** .
 
@@ -55,7 +55,7 @@ There are six data types in python
 
 -Dictionary
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-2.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-2.jpg" style="width:100%" class="img" alt="An image suggests an example of numeric data types with the functions A and B."/></img>
 
 Let's discuss each data type individually.
 
@@ -94,7 +94,7 @@ Example: <br>
 x + yj <br>
 where x is the real part and y along with j is the imaginary part 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-3.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-3.jpg" style="width:100%" class="img" alt="An image demonstrates various codes and outputs related to Python's String Data Type."/></img>
 
 # 2. String Data Type in Python        
 
@@ -154,7 +154,7 @@ print(lst) <br>
 Output  <br>
 [1, 5, 4.38, 'hello'] 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-4.jpg" style="width:100%" class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-4.jpg" style="width:100%" class="img" alt="An image displaying the example for tuples in Python. The example is made up of Tuple 1, Tuple 2,  Concatenate Tuples."/></img>
 
 # 4.Tuple data types  
 

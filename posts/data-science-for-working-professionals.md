@@ -1,10 +1,10 @@
 ---
 title: Data Science for working professionals
-desc: "To secure a job in any domain one has to give it a lot of preparation, should be trained for the role and should have absolute knowledge about the field..."
+desc: "A working professional will always find it challenging to change career. However, data science can be a fantastic companion in our efforts. Check out our articles for the most updated tips on learning data science and how it may help you advance your career while maintaining your current professional career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/working1.jpg"
 date: "July 08, 2022"
-tag: [ Data Science ]
+tag: [ data science course for working professionals in india, best data science course for working professionals, ibm data science professional certificate, best data science institute in india ]
 category: "Data Science"
 author: "Admin"
 position: "Editor"
@@ -50,7 +50,7 @@ Why do you want to change your domain into Data Science while you already have a
 
 ## Have a soft target
 
-People think only the role of ‘data scientist’ matters the most but the fact is that there are several other roles in data science which significantly matter in the field, choose one role that which you want to become and start preparing for it. Doing this should be good for the starters, because you do not have to be a scholar in every tool that has ever been used in the field, smartly target those topics that are the[ essentials in Data Science](https://towardsdatascience.com/how-to-become-a-data-scientist-3f8d6e75482f). When you specifically work on a targeted role you will have the chance to completely know about it and its importance in the field. This way of approach will be a very smart move because you will not be confused regarding what exactly to study in the vast field of data science and the field generally prioritizes those who holds master expertise in specified field. So be very sure about the role you want to serve in, in data science.
+People think only the role of ‘data scientist’ matters the most but the fact is that there are several other roles in data science which significantly matter in the field, choose one role that which you want to become and start preparing for it. Doing this should be good for the starters, because you do not have to be a scholar in every tool that has ever been used in the field, smartly target those topics that are the <a href="https://towardsdatascience.com/how-to-become-a-data-scientist-3f8d6e75482f" target="_blank">essentials in Data Science</a>. When you specifically work on a targeted role you will have the chance to completely know about it and its importance in the field. This way of approach will be a very smart move because you will not be confused regarding what exactly to study in the vast field of data science and the field generally prioritizes those who holds master expertise in specified field. So be very sure about the role you want to serve in, in data science.
 
 ## Plan the execution
 
@@ -60,7 +60,7 @@ Exercise on the way you spend time on everyday things, revise it according to yo
 
 ## Networking and understanding the field
 
-Involve with the people that come from the field of Data Science, know about the insider story of the field and about how it works. Having field knowledge is very much necessary, remember that when you get into data science you will have to work in teams, so practice[ skills in communication and confidence](https://medium.com/somethingnew/social-and-soft-skills-required-in-a-data-scientist-21801fa85724). Get interactive with the people by asking them about the ways to reach to the field, this way you will build good connections and will get great suggestions as well. Start associating yourself with the people who belongs to Data science, you will need to get used to that.
+Involve with the people that come from the field of Data Science, know about the insider story of the field and about how it works. Having field knowledge is very much necessary, remember that when you get into data science you will have to work in teams, so practice <a href="https://medium.com/somethingnew/social-and-soft-skills-required-in-a-data-scientist-21801fa85724" target="_blank">skills in communication and confidence</a>. Get interactive with the people by asking them about the ways to reach to the field, this way you will build good connections and will get great suggestions as well. Start associating yourself with the people who belongs to Data science, you will need to get used to that.
 
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/working.jpg"   style="width: 100%;"  /></img>
@@ -71,7 +71,7 @@ Everything that you do and every effort that you put is only to learn Data Scien
 
 ## Conclusion
 
-With the right approach and proper planning you can[ triumph in learning Data Science](https://medium.com/@datascience.learnbay/who-could-learn-data-science-4a1f7cb8c763?sk=5b417fe423bb32fa5607f25919f90b94) while maintaining a full time job. Stick to your plans and preparations, seek help from a good course, practice as much as you could and start involving yourself with the field. If you manage to everyday execute the plans you will surely reach your destination in ease.
+With the right approach and proper planning you can <a href="https://medium.com/@datascience.learnbay/who-could-learn-data-science-4a1f7cb8c763?sk=5b417fe423bb32fa5607f25919f90b94" target="_blank" >triumph in learning Data Science</a> while maintaining a full time job. Stick to your plans and preparations, seek help from a good course, practice as much as you could and start involving yourself with the field. If you manage to everyday execute the plans you will surely reach your destination in ease.
 
  <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">Learnbay</a> <span style="text-decoration:underline;"> </span>could help you 
  

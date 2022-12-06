@@ -1,10 +1,10 @@
 ---
 title: Text Stemming In NLP
-desc: "Human language is an unsolved problem that there are more than 6500 languages worldwide..."
+desc: "Tons of data are generated every day as we speak, we text, we tweet, from voice to text on every social application and to get the insights of these text data we need technology as Text Stemming In NLP. "
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/stem.jpg"
 date: "July 5, 2022"
-tag: [ Data Science ]
+tag: [ Natural Language Processing, stemming example in nlp, lemmatization nlp, stemming vs lemmatization, stemming in nlp example, stemming in nlp ]
 author: "Admin"
 category: "Data Science"
 position: "editor"
@@ -14,11 +14,11 @@ id: "text-stemming-in-nlp"
 tableData:
   [
     Text Stemming In NLP,
-
+    
   ]
 ---
 
-Human language is an unsolved problem that there are more than 6500 languages worldwide. The tons of data are generated every day as we speak, we text, we tweet, from voice to text on every social application and to get the insights of these text data we need technology as Text Stemming In NLP. If you know there are two types of data are there one is structured and unstructured data. Structured data used for[ Machine Learning](https://searchenterpriseai.techtarget.com/definition/machine-learning-ML#:~:text=Machine%20learning%20(ML)%20is%20a,to%20predict%20new%20output%20values.)<span style="text-decoration:underline;"> </span>models and unstructured data is used for Natural language processing. There are only 21% of structured data is available, so now you can estimate how much Text Stemming In NLP is required to handle unstructured data. 
+Human language is an unsolved problem that there are more than 6500 languages worldwide. The tons of data are generated every day as we speak, we text, we tweet, from voice to text on every social application and to get the insights of these text data we need technology as Text Stemming In NLP. If you know there are two types of data are there one is structured and unstructured data. Structured data used for <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">Machine Learning</a> <span style="text-decoration:underline;"> </span>models and unstructured data is used for Natural language processing. There are only 21% of structured data is available, so now you can estimate how much Text Stemming In NLP is required to handle unstructured data. 
 
 To get the insights of the dataset of unstructured data to take out the important information from it. The important technique to analyze the text data is text mining. Text mining is the technique to extract useful information from the unstructured data by identifying and exploring a large amount of text data. Or we can say that text mining is used to convert the unstructured data to the structured dataset.
 
@@ -48,6 +48,6 @@ Under stemming: Under-stemming is the opposite of stemming. It comes from when w
 
 This can be seen if we have a stemming algorithm that stems from the words data and datum to “dat” and “datu.” And you might be thinking, well, just resolve these both to “dat.” However, then what do we do with the date? And is there a good general rule? So there under stemming occurs.
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning,Text Stemming In NLP, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+<a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning,Text Stemming In NLP, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

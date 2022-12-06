@@ -1,6 +1,6 @@
 ---
 title: Tuples - An Immutable Derived Datatype
-desc: "Some documents that have unique numbers (passport, driving license, voter id, and the pixels of an image) that cannot/should not be changed. Such elements are stored in a set that satisfies all the requirements known as a tuple..."
+desc: "In this blog post, we'll learn more about the tuple primitives in Python.  we can describe a tuple in Python as a general grouping of objects encased in a round bracket and separated by commas. In the general coding of Python, we can use tuples in multiple operations."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-1.jpg"
 date: "August 18, 2022" 
@@ -237,4 +237,4 @@ Example: <br>
 
 ### Take away  
 
-Let us summarize in simple words, a tuple is a set where you cannot make any changes. In other words, it is immutable. With the above explanations and examples, you would have got a better understanding and ease to work on tuples. If you are looking for a best-in-class resource to learn python or understand each concept in detail for data science applications, you can check out the <a href="https://www.learnbay.co/" target="_blank">data science course</a> with special python-support with top-class trainers. In case you are just exploring python as a beginner, follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
+Let us summarize in simple words, a tuple is a set where you cannot make any changes. In other words, it is immutable. With the above explanations and examples, you would have got a better understanding and ease to work on tuples. If you are looking for a best-in-class resource to learn python or understand each concept in detail for data science applications, you can check out the <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">data science course</a> with special python-support with top-class trainers. In case you are just exploring python as a beginner, follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.

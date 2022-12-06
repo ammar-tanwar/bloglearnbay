@@ -76,4 +76,4 @@ More work goes into becoming a data scientist than a data analyst, but the rewar
 
 However, if you are early in your career and are great with numbers but still need to hone your data modeling and coding skills, then you’d be better suited for a job as a data analyst. You can think of a data analyst as a stepping stone to becoming a data scientist, if that is your final goal.
 
-If you are interested in being a Data Scientist or a Data Analyst,[ Learnbay](http://learnbay.co/) is a suitable choice, visit here.
+If you are interested in being a Data Scientist or a Data Analyst, <a href="http://learnbay.co/" target="_blank">Learnbay</a> is a suitable choice, visit here.
