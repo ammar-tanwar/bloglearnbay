@@ -25,7 +25,7 @@ Alexa,' 'Siri,' and 'Google Assistant' are well-known names now. In fact, due to
 
 ## What are deep learning algorithms?
 
-**Deep learning algorithms** are <a href="https://blog.learnbay.co/no-code-machine-learning-just-gone-viral-but-what's-that" target="_blank">machine learning</a>techniques that heavily rely on multi-layered artificial neural networks. Deep learning allows machines to replicate and learn behaviors in the same way that humans do. All data-driven approaches involve deep learning models, including predictive modeling and statistics.
+**Deep learning algorithms** are <a href="https://blog.learnbay.co/no-code-machine-learning-just-gone-viral-but-what's-that" target="_blank">machine learning</a> techniques that heavily rely on multi-layered artificial neural networks. Deep learning allows machines to replicate and learn behaviors in the same way that humans do. All data-driven approaches involve deep learning models, including predictive modeling and statistics.
 
 To provide multiple tasks, neural network architects play a prominent role in deep learning algorithms.
 
@@ -308,4 +308,4 @@ These are all deep learning algorithms that any tech expert must be aware of. De
 
 You can also get benefitted from this promising technology. Analyzing the demand, it seems deep learning skills can offer your a jaw-dropping salary hike. Why not enroll in <a href="https://learnbay.co/artificial-intelligence-certification-course" target="_blank">advanced AI and ML training</a> first-hand capstone projects?
 
-Follow us on <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">Youtube</a>, <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, and <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a>to discover more about machine learning and deep learning algorithms.
+Follow us on <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">Youtube</a> , <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a> , and <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a> to discover more about machine learning and deep learning algorithms.
