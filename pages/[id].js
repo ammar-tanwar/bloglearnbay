@@ -51,6 +51,7 @@ export default function Post({ postData, posts }) {
     "@id": "https://blog.learnbay.co/${postData.id}"
   },
   "headline": "${postData.title}",
+  "description": "${postData.desc}",
   "image": "${postData.img}",   
   "author": {
     "@type": "Person",
