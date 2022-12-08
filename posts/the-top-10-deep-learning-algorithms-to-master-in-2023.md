@@ -4,7 +4,7 @@ desc: "The article discusses deep learning algorithms and some of the most effec
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-1.jpg"
 date: "December 7, 2022"
-tag: [ deep learning algortihms, neural network, deep learning algorithms in machine learning, deep learning algorithms list, deep learning algorithms examples, artificial neural network, neural network machine learning, neural network deep learning, neural network example, neural network algorithm, types of neural network, deep learning algorithms, deep learning models, deep learning example, types of deep learning, neural network algorithm, deep learning techniques, deep learning algorithm, example of deep learning ]
+tag: [ deep learning algorithms in machine learning, deep learning algorithms list, deep learning algorithms examples, artificial neural network, neural network machine learning, neural network deep learning, neural network example, neural network algorithm, types of neural network, deep learning models, deep learning example, types of deep learning, neural network algorithm, deep learning techniques, deep learning algorithm, example of deep learning ]
 category: "Machine Learning"
 author: "Nivin Biswas" 
 position: "Editor"

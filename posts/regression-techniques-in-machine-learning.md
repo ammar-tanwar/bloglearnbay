@@ -1,11 +1,10 @@
 ---
 title: Regression techniques in Machine Learning
-desc: "
-Machine learning has become the sexiest and very trendy technology in this world of technologies, Machine learning is used every day in our life such as Virtual assistance, for making future predictions, Videos surveillance, Social media services, spam mail detection, online customer support, search engine resulting prediction, fraud detection, recommendation systems, etc..."
+desc: "In machine learning, Regression is the most important topic that needed to be learned. There are different types of Regression techniques in Machine Learning which we will know in this article."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech.jpg"
 date: "May 29, 2022"
-tag: [ Machine Learning ]
+tag: [ types of regression models in machine learning, regression in machine learning example, regression algorithms, types of regression models and when to use them, logistic regression machine learning, linear regression machine learning, machine learning regression models python, methods of regression analysis, linear regression techniques in machine learning, explain about the types of regression techniques in machine learning, what are the methods of machine learning, what is regression in machine learning with example, regression method in machine learning, how many types of regression in machine learning, what are machine learning techniques, what is regression techniques, explain regression in machine learning ]
 category: "Machine Learning"
 author: "Admin"
 position: "editor"
@@ -26,7 +25,7 @@ Machine learning has become the sexiest and very trendy technology in this world
 
 ## Introduction 
 
-Regression techniques in Machine Learning such as Linear regression and Logistic regression are the most important algorithms that people learn while they study about <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">Machine learning</a> algorithms. There are numerous forms of regression that are used to perform regression and each has its own specific features, that are applied accordingly. The regression techniques are used to find out the relationship between the dependent and independent variables or features. It is a part of data analysis that is used to analyze the infinite variables and the main aim of this is forecasting, time series analysis, modeling.
+Regression techniques in Machine Learning such as Linear regression and Logistic regression are the most important algorithms that people learn while they study about <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">Machine learning</a> algorithms. There are numerous forms of regression that are used to perform regression and each has its own specific features, that are applied accordingly. The regression techniques are used to find out the relationship between the dependent and independent variables or features. It is a part of data analysis that is used to analyze the infinite variables and the main aim of this is forecasting, time series analysis, modeling.
 
 ## What is Regression?    
 
@@ -51,9 +50,11 @@ Indeed, in all regression studies, mainly seven types of regression techniques a
 - Ridge Regression
 - Lasso Regression
 
-## Linear regression     
+## Linear regression   
 
-It is basically used for predictive analysis, and this is a supervised machine learning algorithm. Linear regression is a linear approach to modeling the relationship between scalar response and the parameters or multiple predictor variables. It focuses on the conditional probability distribution. The formula for linear regression is Y = mX+c.
+It is basically used for predictive analysis, and this is a supervised machine learning algorithm.
+Linear regression is a linear approach to modeling the relationship <br> between scalar response and the parameter or multiple predictor variables. 
+It focuses on the conditional probability distribution. The formula for linear regression is Y = mX+c.
 
 Where Y is the target variable, m is the slope of the line, X is the independent feature, and c is the intercept.
 
@@ -71,8 +72,7 @@ Where Y is the target variable, m is the slope of the line, X is the independent
 It is used for classification problems with a linear dataset. In layman’s term, if the depending or target variable is in the binary form (1 0r 0), true or false, yes or no. It is better to decide whether an occurrence is possibly either success or failure.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech1.png"   class="img"  /></img>
-
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech1.png"/></img>
 
 
 ## Additional point   
@@ -94,7 +94,7 @@ The polynomial regression suits the least-squares form. The purpose of an analys
 The formula for this Y=  _β0+ β0x1+e_
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech2.png"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech2.png"/></img>
 
 
 Additional  features: 
@@ -123,7 +123,7 @@ Additional points:
 It is a method that used when the dataset having multicollinearity which means, the independent variables are strongly related to each other. Although the least-squares estimates are unbiased in multicollinearity, So after adding the degree of bias to the regression, ridge regression can reduce the standard errors.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech3.png"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech3.png"></img>
 
 
 
@@ -142,7 +142,7 @@ It is a method that used when the dataset having multicollinearity which means, 
 Lasso is an abbreviation of the Least Absolute shrinkage and selection operator. This is similar to the ridge regression as it also analyzes the absolute size of the regression coefficients. And the additional features of that are it is capable of reducing the accuracy and variability of the coefficients of the Linear regression models.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech4.png"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech4.png"/></img>
 
 
 ### Additional points     
@@ -151,6 +151,6 @@ Lasso is an abbreviation of the Least Absolute shrinkage and selection operator.
 2. It is also a regularization method that uses l1 regularization.
 3. If there are many correlated features, it picks only one of them and shrinks it to the zero.
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited[ data science courses](https://www.learnbay.co/data-science-course/) in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Regression techniques in Machine Learning,Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+<a href="https://www.learnbay.co/" target="_blank">Learnbay</a> provides industry accredited <a href="https://www.learnbay.co/data-science-course/" target="_blank">data science courses</a> in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Regression techniques in Machine Learning,Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

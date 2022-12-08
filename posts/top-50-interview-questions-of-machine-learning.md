@@ -18,25 +18,25 @@ tableData:
   ]
 ---
 
-51. How to handle categorical variables in KNN?
+1. How to handle categorical variables in KNN?
 
 Ans: Create dummy variables out of a categorical variable and include them instead of the original categorical variable. Unlike regression, create k dummies instead of (k-1). 
 
 For example, a categorical variable named “Department” has 5 unique levels/categories. So we will create 5 dummy variables. Each dummy variable has 1 against its department and else 0.
 
-52. Can KNN be used for Regression? How to use[ KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) for Regression?
+1. Can KNN be used for Regression? How to use <a href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" target="">KNN</a> for Regression?
 
 Ans: Yes, K-nearest neighbour can be used for regression. In other words, the K-nearest neighbour algorithm can be applied when the dependent variable is continuous. In this case, the predicted value is the average of the values of its k nearest neighbours.
 
-53. Discuss the difference between KNN and K Means Algorithms.
+3. Discuss the difference between KNN and K Means Algorithms.
 
 Ans: KNN and k-means clustering both are very different algorithms that solve different problems and have their own meanings of what the variable ‘k’ is.  KNN is a supervised classification algorithm that will label new data points based on the ‘k’ number of nearest data points and k-means clustering is an unsupervised clustering algorithm that groups the data into ‘k’ number of clusters.
 
-54. How to reduce the increased variance of the model other than changing k?
+4. How to reduce the increased variance of the model other than changing k?
 
 Ans: By using bagging-based decision boundaries. If not restricted in the number of times, one can draw samples from the original dataset, a sample variance reduction method would be to sample, many times, and then simply take a majority vote of the kNN models to fit each of these samples to classify each test data point. This variance reduction method is called bagging. 
 
-55. What is the effect of sampling on KNN?
+5. What is the effect of sampling on KNN?
 
 Ans: Sampling does several things from the perspective of a single data point since kNN works on a point-by-point basis.
 
@@ -50,7 +50,7 @@ A consequence of this change in input is an increase in variance. When we talk o
 
 Notice that now a larger area of the feature space is represented by the same k data points. While our sample size has not grown, the population space that it represents has increased in size. This will result in higher variance in the proportion of classes in the k nearest data points, and consequently a higher variance in the classification of each data point.
 
-56. What happens when we change the value of K in KNN?
+6. What happens when we change the value of K in KNN?
 
 Ans: Short Answer: The class boundaries of the predictions become more smooth as k increases.
 
@@ -60,7 +60,7 @@ All of these examples point to an inverse relationship between variance and k. A
 
 _Final Verdict: _In order to offset the increased variance due to sampling, k can be increased to decrease model variance.
 
-57. What is the thumb rule to approach the KNN problem?
+7. What is the thumb rule to approach the KNN problem?
 
 Ans:
 1. Load the data
@@ -79,7 +79,7 @@ KNN Code Snippet:
 
 
 
-58. What is SVM Algorithm? 
+8. What is SVM Algorithm? 
 
 Ans: SVM stands for support vector machine, it is a supervised Machine Learning algorithm that can be used for both Regression and Classification. In this algorithm, we plot each data item as a point in n-dimensional space (where n is a number of features you have) with the value of each feature being the value of a particular coordinate.
 
@@ -101,17 +101,17 @@ Now, we will find some line that splits the data between the two differently cla
 
 In the example shown above, the line which splits the data into two differently classified groups is the black line, since the two closest points are the farthest apart from the line. This line is our classifier. Then, depending on where the testing data lands on either side of the line, that’s what class we can classify the new data as.
 
-59. What are support Vectors? 
+9. What are support Vectors? 
 
 Ans: A support vector machine attempts to find the line that “best” separates two classes of points. By “best”, we mean the line that results in the largest margin between the two classes. The points that lie on this margin are the support vectors.
 
 The vectors that define the hyperplane are the support vectors.
 
-60. What is the purpose of the Support Vector in SVM?
+10. What is the purpose of the Support Vector in SVM?
 
 Ans: A Support Vector Machine (SVM) performs classification by finding the hyperplane that maximizes the distance margin between the two classes. The extreme points in the data sets that define the hyperplane are the support vectors. 
 
-61. What are kernels? 
+11. What are kernels? 
 
 Ans: SVM algorithms use a set of mathematical functions that are defined as the[ kernel](https://en.wikipedia.org/wiki/Kernel_method). The function of the kernel is to take data as input and transform it into the required form. Different SVM algorithms use different types of kernel functions. These functions can be of different types.
 
@@ -124,7 +124,7 @@ There are four types of kernels in SVM.
 3. Radial basis kernel
 4. Sigmoid kernel
 
-62. What is Kernel Trick?
+12. What is Kernel Trick?
 
 Ans: Short Answer:  It allows us to operate in the original feature space without computing the coordinates of the data in a higher-dimensional space.
 
@@ -143,7 +143,7 @@ Long Answer:
 * For a given pair of vectors (in lower-dimensional feature space) and a transformation into a higher-dimensional space, there exists a function (The Kernel Function) which can compute the dot product in the higher-dimensional space without explicitly transforming the vectors into the higher-dimensional space first
 * We are saved!
 
-63. Why is SVM called as Large Margin Classifier?
+13. Why is SVM called as Large Margin Classifier?
 
 Ans: Short Answer: Because it places the decision boundary such that it maximizes the distance between two clusters.
 
@@ -157,7 +157,7 @@ Long Answer: choosing the best hyperplane is to choose one in which the distance
 
 Which is simply the functional margin normalized. So, these intuitions lead to the maximum margin classifier which is a precursor to the SVM.
 
-64. What is the difference between Logistics Regression and SVM? When to use which model?
+14. What is the difference between Logistics Regression and SVM? When to use which model?
 
 Ans:
 
@@ -169,7 +169,7 @@ Ans:
 4. Logistic Regression can’t be applied to a nonlinearly separable dataset whereas SVM can be applied.
 5. The risk of overfitting is less in SVM, while Logistic regression is vulnerable to overfitting.
 
-65. When to Use Logistic Regression vs Support Vector Machine?
+15. When to Use Logistic Regression vs Support Vector Machine?
 
 Ans: Depending on the number of training sets (data)/features that you have, you can choose to use either logistic regression or support vector machine.
 
@@ -185,7 +185,7 @@ _m = number of training examples_
 2. If _n is small (1–1000) and m is intermediate (10–10,000_): use SVM with (Gaussian, polynomial, etc) kernel
 3. If _n is small (1–100), m is large _(50,000–1,000,000+): first, manually add more features and then use logistic regression or SVM with a linear kernel
 
-66. What does c and gamma parameter in SVM signify?
+16. What does c and gamma parameter in SVM signify?
 
 Ans: Short Answer:
 
@@ -209,7 +209,7 @@ The gamma parameters can be seen as the inverse of the radius of influence of sa
 
 When gamma is very small, the model is too constrained and cannot capture the complexity or “shape” of the data. The region of influence of any selected support vector would include the whole training set. The resulting model will behave similarly to a linear model with a set of hyperplanes that separate the centers of the high density of any pair of two classes.
 
-67. What are the Advantages and Disadvantages of SVM?
+17. What are the Advantages and Disadvantages of SVM?
 
 Ans: SVM Advantages
 
@@ -241,7 +241,7 @@ SVM code snippet:
 
 
 
-68. What is Naïve Bayes Algorithm? 
+18. What is Naïve Bayes Algorithm? 
 
 Ans: It is a classification algorithm that predicts the probability of each data point belonging to a class and then classifies the point as the class with the highest probability.
 
@@ -262,19 +262,19 @@ Formally
 * P(A) = Prior probability = Probability of A happening in general
 * P(B) = Evidence probability = Probability of getting a positive test
 
-69. Why is Naïve Bayes Naïve?
+19. Why is Naïve Bayes Naïve?
 
 Ans: In Layman’s Term: The simple meaning of Naive is willing to believe that that life is simple and fair, which is not true. Naive Bayes is naive because it assumes that the features that are going into the model are not related to each other anyhow Change in one variable will not affect the other variable directly.
 
 Long Answer: Naive Bayes (NB) is ‘naive’ because it makes the assumption that features of measurement are independent of each other. This is naive because it is (almost) never true. Here is how it works even then – NB is a very intuitive classification algorithm. It asks the question, “Given these features, does this measurement belong to class A or B?”, and answers it by taking the proportion of all previous measurements with the same features belonging to class A multiplied by the proportion of all measurements in class A. If this number is bigger than the corresponding calculation for class B then we say the measurement belongs in class A.
 
-70. What are feature matrix and response vectors?
+20. What are feature matrix and response vectors?
 
 Ans: Feature matrix:- The feature matrix contains all the vectors(rows) of the dataset in which each vector consists of the value of dependent features. 
 
 Response vectors:- The response vector contains the value of the class variable (prediction or output) for each row of the feature matrix. 
 
-71 Applications of Naïve Bayes Classification Algorithms?
+21. Applications of Naïve Bayes Classification Algorithms?
 
 Ans: Some of the real-world examples are as given below
 
@@ -285,7 +285,7 @@ Ans: Some of the real-world examples are as given below
 * Check a piece of text expressing positive emotions, or negative emotions?
 * Also used for face recognition software.
 
-72. What are the Advantages and Disadvantages of using the Naïve Bayes Algorithm?
+22. What are the Advantages and Disadvantages of using the Naïve Bayes Algorithm?
 
 Ans: Advantages
 
@@ -308,7 +308,7 @@ Naïve Bayes Code Snippet:
 
 
 
-73. What is K-Means Clustering? What are the steps for it?
+23. What is K-Means Clustering? What are the steps for it?
 
 Ans: K-means (Macqueen, 1967) is one of the simplest unsupervised learning algorithms that solve the well-known clustering problem. K-means clustering is a method of vector quantization, original from signal processing, that is popular for cluster analysis in data mining.
 
@@ -322,7 +322,7 @@ If k is given, the K-means algorithm can be executed in the following steps:
 * Compute the distances from each point and allot points to the cluster where the distance from the centroid is minimum.
 * After re-allotting the points, find the centroid of the new cluster formed.
 
-74. Why is the word “means” associated with the name of the K-Means algorithm?
+24. Why is the word “means” associated with the name of the K-Means algorithm?
 
 Ans: The ‘means’ in the K-means refers to averaging of the data; that is, finding the centroid. 
 
@@ -332,7 +332,7 @@ k-medoids minimizes the sum of dissimilarities between points labeled to be in a
 
 k-medians is a variation of k-means clustering where instead of calculating the mean for each cluster to determine its centroid, one instead calculates the median.
 
-75. How to find the optimum number of clusters in K-Means? Discuss the elbow curve/elbow method?
+25. How to find the optimum number of clusters in K-Means? Discuss the elbow curve/elbow method?
 
 Ans: The basic idea behind partitioning methods, such as k-means clustering, is to define clusters such that the total intra-cluster variation [or total within-cluster sum of square (WSS)] is minimized. The total WSS measures the compactness of the clustering and we want it to be as small as possible.
 
@@ -354,13 +354,13 @@ The optimal number of clusters can be defined as follow:
 3. Plot the curve of WSS according to the number of clusters k.
 4. The location of a bend (knee) in the plot is generally considered as an indicator of the appropriate number of clusters.
 
-76. What is the difference between K-Means and Hierarchical Clustering? When to use which?
+26. What is the difference between K-Means and Hierarchical Clustering? When to use which?
 
 Ans: Hierarchical Clustering and k-means clustering complement each other. In hierarchical clustering, the researcher is not aware of the number of clusters to be made whereas, in k-means clustering, the number of clusters to be made is specified before-hand.
 
 Advice- If unaware of the number of clusters to be formed, use hierarchical clustering to determine the number and then use k-means clustering to make more stable clusters as hierarchical clustering is a single-pass exercise whereas k-means is an iterative process.
 
-77. What are the advantages and disadvantages of using K-Means Algorithms?
+27. What are the advantages and disadvantages of using K-Means Algorithms?
 
 Ans: K-Means Advantages :
 
@@ -386,7 +386,7 @@ KNN code snippet:
 
 
 
-78. What is Hierarchical Clustering?
+28. What is Hierarchical Clustering?
 
 Ans: Hierarchical clustering is another unsupervised learning algorithm that is used to group together the unlabelled data points having similar characteristics. Hierarchical clustering algorithms fall into the following two categories.
 
@@ -394,7 +394,7 @@ Agglomerative hierarchical algorithms − In agglomerative hierarchical algorith
 
 Divisive hierarchical algorithms − On the other hand, in divisive hierarchical algorithms, all the data points are treated as one big cluster and the process of clustering involves dividing (Top-down approach) the one big cluster into various small clusters
 
-79. What are the steps to perform Agglomerative Hierarchical Clustering?
+29. What are the steps to perform Agglomerative Hierarchical Clustering?
 
 Ans: Most used and important Hierarchical clustering i.e. agglomerative. The steps to perform the same is as follows −
 
@@ -406,7 +406,7 @@ Ans: Most used and important Hierarchical clustering i.e. agglomerative. The ste
 * Step 4 − Now, to form one big cluster repeat the above three steps until K would become 0 i.e. no more data points left to join.
 * Step 5 − At last, after making one single big cluster, dendrograms will be used to divide into multiple clusters depending upon the problem.
 
-80. What is Dendrogram and what is its importance in Hierarchical Clustering?
+30. What is Dendrogram and what is its importance in Hierarchical Clustering?
 
 Ans: A dendrogram is a type of Tree Diagram showing hierarchical clustering — relationships between similar sets of data. They are frequently used in biology to show clustering between genes or samples, but they can represent any type of grouped data.
 
@@ -426,7 +426,7 @@ Hierarchical Clustering Code Snippet:
 
 
 
-81. What is Boosting?
+31. What is Boosting?
 
 Ans: Boosting is a method of converting weak learners into strong learners. In boosting, each new tree is a fit on a modified version of the original data set.
 
@@ -434,7 +434,7 @@ Purpose of Boosting: It helps the weak learner to be modified to become better.
 
 How it evolved: The first Boosting Algorithm gained popularity was AdaBoost or Adaptive Boosting. Further it evolved and generalized as Gradient Boosting.
 
-82. What is Adaboost?
+32. What is Adaboost?
 
 Ans: Adaboost combines multiple weak learners into a single strong learner. The weak learners in AdaBoost are decision trees with a single split, called decision stumps. When AdaBoost creates its first decision stump, all observations are weighted equally. To correct the previous error, the observations that were incorrectly classified now carry more weight than the observations that were correctly classified. AdaBoost algorithms can be used for both classification and regression problems.
 
@@ -444,7 +444,7 @@ Adaboost Code Snippet:
 
 
 
-83. What is Gradient Boosting Method (GBM)?
+33. What is Gradient Boosting Method (GBM)?
 
 Ans: Gradient Boosting works by sequentially adding predictors to an ensemble, each one correcting its predecessor. However, instead of changing the weights for every incorrect classified observation at every iteration like AdaBoost, the Gradient Boosting method tries to fit the new predictor to the residual errors made by the previous predictor.
 
@@ -463,7 +463,7 @@ Gradient Boosting Code Snippet:
 
 
 
-84. What is XGBoost?
+34. What is XGBoost?
 
 Ans: XGBoost stands for eXtreme Gradient Boosting. XGBoost is an implementation of gradient boosted decision trees designed for speed and performance. Gradient boosting machines are generally very slow in implementation because of sequential model training. Hence, they are not very scalable. Thus, XGBoost is focused on computational speed and model performance. XGBoost provides:
 * Parallelization of tree construction using all of your CPU cores during training.
@@ -479,7 +479,7 @@ XGBoost Code Snippet:
 
 
 
-85. What are the basic enhancements done to Gradient Boosting?
+35. What are the basic enhancements done to Gradient Boosting?
 
 Ans: Gradient boosting is a greedy algorithm and can overfit a training dataset quickly. It can benefit from regularization methods that penalize various parts of the algorithm and generally improve the performance of the algorithm by reducing overfitting.
 
@@ -491,7 +491,7 @@ We will look at 4 enhancements to basic gradient boosting:
 2. Shrinkage
 3. Random sampling
 4. Penalized Learning
-1. Tree Constraints: A good general heuristic is that the more constrained tree creation is, the more trees you will need in the model, and the reverse, where less constrained individual trees, the fewer trees that will be required.
+5. Tree Constraints: A good general heuristic is that the more constrained tree creation is, the more trees you will need in the model, and the reverse, where less constrained individual trees, the fewer trees that will be required.
 
 Below are some constraints that can be imposed on the construction of decision trees:
 
@@ -506,13 +506,13 @@ Below are some constraints that can be imposed on the construction of decision t
 2. Weighted Updates: The predictions of each tree are added together sequentially. The contribution of each tree to this sum can be weighted to slow down the learning by the algorithm. This weighting is called a shrinkage or a learning rate.
 3. Stochastic Gradient Boosting: A big insight into bagging ensembles and the random forest was allowing trees to be greedily created from subsamples of the training dataset. This same benefit can be used to reduce the correlation between the trees in the sequence in gradient boosting models. This variation of boosting is called stochastic gradient boosting. At each iteration a subsample of the training data is drawn at random (without replacement) from the full training dataset. The randomly selected subsample is then used, instead of the full sample, to fit the base learner.
 
-86. What is Dimensionality Reduction? Why is it used?
+36. What is Dimensionality Reduction? Why is it used?
 
 Ans: Dimensionality reduction refers to the process of converting a set of data. That data needs to having vast dimensions into data with lesser dimensions. Also, it needs to ensure that it conveys similar information concisely. 
 
 Although, we use these techniques to solve Machine Learning problems. And the problem is to obtain better features for a classification or regression task.
 
-87. What are the commonly used Dimensionality Reduction Techniques?
+37. What are the commonly used Dimensionality Reduction Techniques?
 
 Ans: The various methods used for dimensionality reduction include:
 
@@ -522,7 +522,7 @@ Ans: The various methods used for dimensionality reduction include:
 * Linear Discriminant Analysis (LDA)
 * Generalized Discriminant Analysis (GDA)
 
-88. How does PCA work? When to use? 
+38. How does PCA work? When to use? 
 
 Ans: Short Answer: Principal Component Analysis (PCA) is an unsupervised, non-parametric statistical technique primarily used for dimensionality reduction in Machine Learning.
 
@@ -556,7 +556,7 @@ Variance(X(new)) = distance ((4,4), (1,1)) = sqrt(18) = 4.24
 
 Variance(Y(new)) =requires some calculations.
 
-89. What did we get by doing this rotation?
+39. What did we get by doing this rotation?
 
 Ans: Original data – had the highest variance on any axis as 3. This rotation gave us a variance of 4.24
 
@@ -590,7 +590,7 @@ PCA code snippet:
 
 
 
-90. How does LDA work? When to use?
+40. How does LDA work? When to use?
 
 Ans: LDA is a way to reduce ‘dimensionality’ while at the same time preserving as much of the class discrimination information as possible.
 
@@ -610,7 +610,7 @@ So, we should be able to represent a point with 2 coordinates in 2-dimensional s
 
 So we get a bunch of these data points, represented by their 2d representation (x,y). We are going to use LDA to group these points into either group 1 or group 2.
 
-91. What are the Steps for LDA?
+41. What are the Steps for LDA?
 
 Ans: Steps of LDA:
 
@@ -632,13 +632,13 @@ LDA code snippet:
 
 
 
-92. What is GDA? 
+42. What is GDA? 
 
 Ans: When we have a classification problem in which the input features are continuous random variable, we can use GDA, it’s a generative learning algorithm in which we assume p(x|y) is distributed according to a multivariate normal distribution and p(y) is distributed according to Bernoulli.
 
 Gaussian discriminant analysis (GDA) is a generative model for classification where the distribution of each class is modeled as a multivariate Gaussian.
 
-93. What are the advantages and disadvantages of Dimensionality Reduction?
+43. What are the advantages and disadvantages of Dimensionality Reduction?
 
 Ans: Advantages:
 
@@ -662,6 +662,6 @@ Disadvantages:
 * Also, PCA fails in cases where mean and covariance are not enough to define datasets.
 * Further, we may not know how many principal components to keep- in practice, some thumb rules are applied.
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited[ data science courses](https://www.learnbay.co/data-science-course/) in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+<a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> provides industry accredited <a href="https://www.learnbay.co/data-science-course/" target="_blank">data science courses</a> in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

@@ -1,10 +1,10 @@
 ---
 title: How Does Data Science Promote Project Managers to a New Perspective of Success
-desc: "Businesses have changed their work process; consumers have changed their consumption behavior. Accordingly, the service experience expectations of customers are also changing their directions..."
+desc: "As a project manager, understanding how data science can be used to improve your projects is essential to success. In this article, we will explore how data science can promote project managers to a new perspective of success."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg"
 date: "may 30, 2022"
-tag: [ Data Science ]
+tag: [ what is data science in project management, why is data analysis a key part of any project?, project management analytics, data science project management methodologies, managing data projects, data science project management certification ]
 category: "Data Science"
 author: "Admin"
 position: "editor"
@@ -34,7 +34,7 @@ Data is new energy. It has moon-shot sales and performance by integrating data s
 
 Organizations are integrating data science into their business to simplify regular processes. To reach the most profitable outcomes within a targeted timeline, companies are now massively hiring  Data science managers or data science project managers. But wait, here, you might have a pinch of misconception. All the time, it’s not like a data science manager handles data science and AI projects only. Some companies hire for such a designation to make their normal business project highly data-driven and precise.
 
-It is a well-known truth that modern businesses are completely about data. In the previous year,[ McKinsey](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/the-big-data-revolution-in-us-health-care) estimated that the U.S healthcare system has reduced healthcare project management spending. $2.6 trillion baselines around 12-17% cost on earlier spending on the same. And big data is roughly costing $3.1 trillion a year to the U.S. Data science is not so easy to implement technically and financially as it needs a lot of investment. But yes, the ultimate gain is quite lucrative.
+It is a well-known truth that modern businesses are completely about data. In the previous year, <a href="https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/the-big-data-revolution-in-us-health-care" target="_blank">McKinsey</a> estimated that the U.S healthcare system has reduced healthcare project management spending. $2.6 trillion baselines around 12-17% cost on earlier spending on the same. And big data is roughly costing $3.1 trillion a year to the U.S. Data science is not so easy to implement technically and financially as it needs a lot of investment. But yes, the ultimate gain is quite lucrative.
 
 
 ## How does Data Science Help Managers In Businesses
@@ -79,7 +79,7 @@ Managers, after data analysis, can know which product has to be manufactured tha
 
 Take the example of a project manager handling an e-commerce data science project.
 
-Customer review analysis is another side of[ data science applications in e-commerce](https://www.learnbay.co/data-science-course/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career/). This helps such managers to know what customers think about the product and also helps them in knowing which new product customers want in the market.
+Customer review analysis is another side of[ data science applications in e-commerce](https://www.learnbay.co/data-science-course/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career/)<a href="" target="_blank"></a>. This helps such managers to know what customers think about the product and also helps them in knowing which new product customers want in the market.
 
 Managers use current market trends to create a product for the general public. These market trends give companies insight into the product’s current demand. Innovation allows businesses to grow. Managers can not only sell newer items but also varied inventive techniques as data grows.
 
