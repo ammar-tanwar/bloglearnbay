@@ -23,8 +23,8 @@ tableData:
 Ans: Create dummy variables out of a categorical variable and include them instead of the original categorical variable. Unlike regression, create k dummies instead of (k-1). 
 
 For example, a categorical variable named “Department” has 5 unique levels/categories. So we will create 5 dummy variables. Each dummy variable has 1 against its department and else 0.
-
-1. Can KNN be used for Regression? How to use <a href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" target="">KNN</a> for Regression?
+ 
+2. Can KNN be used for Regression? How to use <a href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" target="">KNN</a> for Regression?
 
 Ans: Yes, K-nearest neighbour can be used for regression. In other words, the K-nearest neighbour algorithm can be applied when the dependent variable is continuous. In this case, the predicted value is the average of the values of its k nearest neighbours.
 
@@ -117,14 +117,12 @@ Ans: SVM algorithms use a set of mathematical functions that are defined as the[
 
 There are four types of kernels in SVM.
 
+  1. Linear Kernel
+  2. Polynomial kernel
+  3. Radial basis kernel
+  4. Sigmoid kernel
 
-
-1. Linear Kernel
-2. Polynomial kernel
-3. Radial basis kernel
-4. Sigmoid kernel
-
-12. What is Kernel Trick?
+12.  What is Kernel Trick?
 
 Ans: Short Answer:  It allows us to operate in the original feature space without computing the coordinates of the data in a higher-dimensional space.
 
@@ -169,7 +167,7 @@ Ans:
 4. Logistic Regression can’t be applied to a nonlinearly separable dataset whereas SVM can be applied.
 5. The risk of overfitting is less in SVM, while Logistic regression is vulnerable to overfitting.
 
-15. When to Use Logistic Regression vs Support Vector Machine?
+   1.  When to Use Logistic Regression vs Support Vector Machine?
 
 Ans: Depending on the number of training sets (data)/features that you have, you can choose to use either logistic regression or support vector machine.
 

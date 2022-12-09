@@ -79,7 +79,7 @@ Managers, after data analysis, can know which product has to be manufactured tha
 
 Take the example of a project manager handling an e-commerce data science project.
 
-Customer review analysis is another side of[ data science applications in e-commerce](https://www.learnbay.co/data-science-course/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career/)<a href="" target="_blank"></a>. This helps such managers to know what customers think about the product and also helps them in knowing which new product customers want in the market.
+Customer review analysis is another side of <a href="https://www.learnbay.co/data-science-course/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career/" target="_blank">data science applications in e-commerce</a>. This helps such managers to know what customers think about the product and also helps them in knowing which new product customers want in the market.
 
 Managers use current market trends to create a product for the general public. These market trends give companies insight into the product’s current demand. Innovation allows businesses to grow. Managers can not only sell newer items but also varied inventive techniques as data grows.
 
