@@ -15,11 +15,11 @@ tableData:
   [
   What Role Does E-Commerce Play in the Post-Pandemic Retail Future?,
   For Retailers,
- Packages and Companies,
- Retail Domain,
- E-Commerce Domain,
- Supply Chain Domain,
-Conclusion,    
+  Packages and Companies,
+  Retail Domain,
+  E-Commerce Domain,
+  Supply Chain Domain,
+  Conclusion,    
   ]
 ---
 
@@ -74,7 +74,6 @@ It’s not possible to talk about the future of e-commerce without talking about
 ### For Marketers, the Future of Ecommerce
 
 
-
 * The importance of device use will increase.
 
 If you want to buy something from an e-commerce site, you usually have to use a computer to do it. It’s now on the other side. If you work for an eCommerce Data Science company, you have to make your website for mobile users before you make it for people who use their computers. This may seem to be an unusual shift, but it makes sense, particularly when you realize that 45 percent of all commerce choices were made on mobile devices last year. For comparison, it translates to $284 billion in sales. Buyers now want a seamless purchasing experience across all devices.
@@ -95,7 +94,7 @@ Data science is changing how people shop and how businesses order and ship thing
 
 Every year, the number, diversity, and usefulness of retail data increase dramatically. When retailers make decisions based on data, they use data science to make money. This is how businesses are using <a href="https://blog.learnbay.co/necessity-of-machine-learning-in-retail" target="_blank">data science in retail</a> to stay competitive, improve customer service, and make more money and sales. And, as technology advances, data science in the retail business will have much more to give!
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce3.png"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce3.png" class="img"/></img>
 
 
 

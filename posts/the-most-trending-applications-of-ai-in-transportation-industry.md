@@ -18,11 +18,11 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg" style="width:100%" class="img" alt="A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg" style="width:100%" class="img" alt="A banner illustration titled, 'Most Trending AI Applications in the Transportation Industry.' The illustration of transport vehicles and an AI-based automated robot."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Know How Innovation of AI in Transportation Is Easing Our Life?</span>
 
-Neither the design nor the price, AI solutions with high-end performance are the success differentiators between the brands. Competitors in the automobile market always are in a very tough situation when it comes to customer satisfaction and product quality. Here, the application of **AI in the transportation industry** can be an all-in-one solution.
+Neither the design nor the price, AI solutions with high-end performance are the success differentiators between the brands. Competitors in the automobile market are always in a very tough situation when it comes to customer satisfaction and product quality. Here, the application of **AI in the transportation industry** can be an all-in-one solution.
 
 The automobile industry market has shown a lot of adoption of Artificial intelligence. <a href="https://www.tractica.com/research/artificial-intelligence-for-automotive-applications/" target="_blank">Tractica</a> stated that the automotive need for hardware and software will jump to 26B$ by 2025.
 
@@ -30,7 +30,7 @@ The realization of driverless cars and autonomous vehicles is almost done. We ar
 
 As per the current automotive industry demand, the user experience must be fast and flawless. This would make anyone stop thinking about a car to be just as a transportation and more like a computer on wheels. Traditional automakers have to adapt to AI or have to move out.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-2.jpg" style="width:100%" class="img" alt="A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-2.jpg" style="width:100%" class="img" alt="A quote graphics reads, 'Not only are AI technologies critical for enabling our autonomous vehicles, but they are playing an increasing roles in transforming our customer employee experiences.'"/>
 
 ## The Advancements of Artificial Intelligence in Different Means of Transportation
 
@@ -44,7 +44,7 @@ They are developing automated vehicles for personal and commercial transportatio
 
 AI algorithms are mostly used in sharing economy platforms offering road transport services. UBER uses AI in every aspect of its solutions, from matching drivers to route optimization. AI technology is also implied in road traffic management, which helps analyze traffic patterns. This provides the fastest route for the driver. When it comes to AI innovation in the transportation industry, the application of AI in the automobile sector remains the fastest one in the race.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-3.jpg" style="width:100%" class="img" alt="A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-3.jpg" style="width:100%" class="img" alt="An AI-powered robotic hand holds an airplane miniature at the tip of its index finger. This indicates the applications of AI in the aviation industry."/>
 
 ### Applications of AI in Aviation   
 
@@ -62,11 +62,11 @@ In the 1990s, the development of the **internet of things and big data** provide
 
 Rail-freight was uplifted in competitiveness and performance. <a href="https://shift2rail.org/research-development/ip5/" target="_blank">Shift2rail</a> is the activity related to ATO on optimizing resource use. Some projects are on their way to better synchronization of container train movements. These decisions are made by the network, data exchange, and real-time Information. ATO was in the testing stage. But as a success in 2018 on the freight <a href="https://www.alstom.com/press-releases-news/2018/12/alstom-succeed-ato-tests-betuweroute" target="_blank">Betuwe route</a>, a connectivity route to the port of Rotterdam to Germany.
 
-Railways avoid every interruption of the services they provide is very valuable. So AI can utilize data power by sensors placed on important trains and their infrastructure components. The AI benefits in railways are forecasting fast or less comprehensive repair and cost reduction. Rail operators must be aware of potential failures before accidents and losses occur. The train operators can reduce fleet reserves if there is any breakdown. AI would help them increase reliability with effectiveness.
+Railways avoid every interruption of the services they provide which is very valuable. So AI can utilize data power by sensors placed on important trains and their infrastructure components. The AI benefits in railways are forecasting fast or less comprehensive repair and cost reduction. Rail operators must be aware of potential failures before accidents and losses occur. The train operators can reduce fleet reserves if there is any breakdown. AI would help them increase reliability with effectiveness.
 
 Until now, amongst all kinds of innovative measures of AI in the transportation industry rails transportation has been the biggest pride for India.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-4.jpg" style="width:100%" class="img" alt="A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."/>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-4.jpg" style="width:100%" class="img" alt="A foreground image shows a logistic ship, in the background image shows an AI-based automated robot."/>
 
 ### AI in Shipping  
 
@@ -74,7 +74,7 @@ Recently, river, sea, and inland waterway transport have shown many important de
 
 AI is the only key technology that is used in **intelligent ports**. They range from problem-solving and pattern recognition to machine learning. The operating system uses AI for port equipment scheduling (cranes and vehicles) and berth planning. AI runs automated loading cranes and vehicles in the U.S.A, Asia, and Europe ports. AI decides which containers have to unload first, how to stack them, and even the predictive maintenance of port equipment.
 
-AI takes data to tell about the ship's estimated <a href="https://www.portofrotterdam.com/en/news-and-press-releases/self-learning-computer-predicts-vessel-arrival?subsite=asia" target="_blank">arrival and departure time</a>. This reduces the wastage time for vessels in a shipping port by 20% and makes the logistics more predictable. It allows more transparency in operations about the availability of dock space. This information helps sailors to adjust their speed and save energy. The data is analyzed and collected at the container port for future operations. AI-assisted tools need a day to manage the delivery process and optimize future terminal operations.
+AI takes data to tell about the ship's estimated arrival and departure time. This reduces the wastage time for vessels in a shipping port by 20% and makes the logistics more predictable. It allows more transparency in operations about the availability of dock space. This information helps sailors to adjust their speed and save energy. The data is analyzed and collected at the container port for future operations. AI-assisted tools need a day to manage the delivery process and optimize future terminal operations.
 
 The Transportation Industry is a sector that every country wants the best in it. Tourism, airplanes that patrol the border, and the trains that run between national borders imply AI and ML. These sectors keep innovating, and these sectors first receive every best AI and ML application in transportation. The same is going to open up numerous lucrative job opportunities. If you belong to the transportation industry and want to grab lucrative hikes, you should upgrade your abilities by earning <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">AI and ML</a> skills. Take a step today and secure your career for the upcoming 15 to 20 years.
 

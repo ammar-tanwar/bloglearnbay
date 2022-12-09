@@ -1,10 +1,10 @@
 ---
 title: Know The Top 10 Data Science Trends (2022)
-desc: "Technology keeps advancing and innovating. This makes our lives better and so the business outcomes. But trends in such advancements come and go..."
+desc: "From Blockchain to Data Regulation, we have covered the top 10 data science trends for 2023 that will shape the future of data science. Read our blog post to stay ahead of the competition."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"
 date: "May 25, 2022"
-tag: [ Data Science ]
+tag: [ future trends of data science, data science trends 2023, data science trends in india ]
 category: "Data Science"
 author: "Admin"
 position: "Editor"
@@ -18,13 +18,13 @@ tableData:
     What Are The Latest Trends In Data Scientist Salary?,
   ]
 ---
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"   class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"/></img>
 
 ## Technology Has No Break- Know The Data Science Latest Trends Leading Different Industries.
 
-Technology keeps advancing and innovating. This makes our lives better and so the business outcomes. But trends in such advancements come and go. Until you stay updated with the latest one, your career will also become obsolete over time. And if you ask ‘what’s trending now?’. The shortest and most perfect answer will be ‘[Data science and AI](https://www.learnbay.co/data-science-certification-courses).’But do you know in the last few years, so many _data science skills_ and applications have become archaic? Here I will discuss the latest _data science, latest trends, _and the fate of different industries.
+Technology keeps advancing and innovating. This makes our lives better and so the business outcomes. But trends in such advancements come and go. Until you stay updated with the latest one, your career will also become obsolete over time.<br> And if you ask ‘what’s trending now?’. The shortest and most perfect answer will be ‘<a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">Data science and AI</a>.’ But do you know in the last few years, so many _data science skills_ and applications have become archaic? Here I will discuss the latest data science, latest trends, and the fate of different industries.
 
-Data Science gave pathways to Deep Learning, computer vision, and Natural Language Processing. Data science even helped advance Machine Learning, a component of Artificial intelligence. These technologies are changing the way we work and live.
+Data Science gave pathways to Deep Learning, computer vision, and Natural Language Processing. Data science even helped advance Machine Learning, <br> a component of Artificial intelligence. These technologies are changing the way we work and live.
 
 We are seeing new patterns emerge in the industries as organizations rely on data analytics to avoid and solve a variety of difficulties.
 
@@ -36,7 +36,7 @@ We are seeing new patterns emerge in the industries as organizations rely on dat
 
 These three are the main trends that have been identified (data and insights).
 
-We even know organizations have upgraded with time, accepting technology to _increase customer satisfaction and complete their organizational goals. _Data science, Artificial Intelligence, and Big Data are the leading technologies that have empowered businesses. We will tell you about the Latest Data Science trends in 2022 that you would love to know.
+We even know organizations have upgraded with time, accepting technology to _increase customer satisfaction and complete their organizational goals.<br> Data science, Artificial Intelligence, and Big Data are the leading technologies that have empowered businesses. We will tell you about the Latest Data Science trends in 2022 that you would love to know.
 
 
 ## Top 10 Trends of Data Science in 2022
@@ -50,11 +50,11 @@ Augmented Data science or data analytics can merge data that is available inside
 
 So many data analytics tools have been discovered in recent years based on business-specific visualization and explanation needs. It has been swiftly implemented in businesses, not just for data scientists but also for customers or service users. This made data analytics (Entry-level data science) and Machine Learning (Advanced-level data science) work together rather than operating them differently. In the next few years, you will see experts working more with Augmented analytics. Accordingly, there will be a surge in job openings in the same.
 
-Because of the rapid evolution of this technology, augmented analytics modules are now required in all[ data analytics training programs](https://www.learnbay.co/data-analytics-certification-course), not just advanced data science courses.
+Because of the rapid evolution of this technology, augmented analytics modules are now required in all <a href="https://www.learnbay.co/data-analytics-certification-course" target="_blank">data analytics training programs</a>, not just advanced data science courses.
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends1.jpg"   class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends1.jpg"/></img>
 
 
 
@@ -68,7 +68,7 @@ Data software is expensive and investing in it without any meaningful insight or
 * Create new opportunities
 * Study market trends.
 
-Insights gained by actionable data can uplift an organization’s efficiency, work process, and scheduling of projects for different teams. Research by[ MIT](https://www.techtarget.com/searchbusinessanalytics/feature/Developing-a-data-driven-culture-begins-with-enablement) stated that organizations that make data-driven decisions gain 4% in productivity and 6% in profit.
+Insights gained by actionable data can uplift an organization’s efficiency, work process, and scheduling of projects for different teams. Research by <a href="https://www.techtarget.com/searchbusinessanalytics/feature/Developing-a-data-driven-culture-begins-with-enablement" target="_blank">MIT</a> stated that organizations that make data-driven decisions gain 4% in productivity and 6% in profit.
 
 
 ### 3. Data Regulation
@@ -78,14 +78,14 @@ Application of data science Data privacy and rules have been regulated, such as 
 
 ### 4. No code or Low code
 
-Most organizations have integrated AI, and these organizations are using customized models. The key reason for model customization is reducing processing time. AI has initiated a lot of advancements in[ citizen development](https://www.techtarget.com/searchsoftwarequality/definition/citizen-development#:~:text=Citizen%20development%20is%20a%20business,platforms%20to%20create%20business%20applications.), anyone can become a Citizen developer, and this is because of AI with low code technologies. Citizen coders can look for problems in simple English, and AI will generate codes.
+Most organizations have integrated AI, and these organizations are using customized models. The key reason for model customization is reducing processing time. AI has initiated a lot of advancements in <a href="https://www.techtarget.com/searchsoftwarequality/definition/citizen-development#:~:text=Citizen%20development%20is%20a%20business,platforms%20to%20create%20business%20applications." target="_blank">citizen development</a>, anyone can become a Citizen developer, and this is because of AI with low code technologies. Citizen coders can look for problems in simple English, and AI will generate codes.
 
 A TechRepublic poll resulted in over half of the companies have started using low-code and no-code in the operational process. 1/5th of the companies that have not started working with these trends in their system said they would do this in less than a year. So the adoption rate will gradually increase.
 
 
 ### 5. Cloud AI and Data science
 
-In the past few years, and mainly during the Covid-19  pandemic era, there has been a massive stroll-in Cloud-based solution. As a result, data is getting produced more enormously. Collecting, arranging, labeling, formatting, and analyzing data in one platform is a huge issue, and cloud-based AI is the only way to deal with the same. As different insights indicate, the upcoming 3-5 years will be too crucial for[ AI and Machine Learning](https://www.learnbay.co/artificial-intelligence-certification-course). The cost of adopting AI has risen, and the developments of these technologies ensure cloud-based adoption in the future. So as the use of the cloud-based solution in various industries increases, the market will also expand with it. And obviously, professionals are working hard on reducing the cost of AI software development and implementation.
+In the past few years, and mainly during the Covid-19  pandemic era, there has been a massive stroll-in Cloud-based solution. As a result, data is getting produced more enormously. Collecting, arranging, labeling, formatting, and analyzing data in one platform is a huge issue, and cloud-based AI is the only way to deal with the same. As different insights indicate, the upcoming 3-5 years will be too crucial for <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">AI and Machine Learning</a>. The cost of adopting AI has risen, and the developments of these technologies ensure cloud-based adoption in the future. So as the use of the cloud-based solution in various industries increases, the market will also expand with it. And obviously, professionals are working hard on reducing the cost of AI software development and implementation.
 
 
 ### 6. Auto-ML
@@ -121,20 +121,20 @@ The Future of AIaas technology will be divided into well-defined and self-contai
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends2.jpg"   class="img"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends2.jpg"/></img>
 
 
 
 Image by Author
 
-Source:[ Career Foundry](https://careerfoundry.com/en/blog/data-analytics/data-scientist-salary/)
+Source: <a href="https://careerfoundry.com/en/blog/data-analytics/data-scientist-salary/" target="_blank">Career Foundry</a>
 
 The position of Data Scientist is one of the most coveted in today’s field of Data Science and Business Intelligence. It has been branded the “sexiest job of the twenty-first century” for all the right reasons. A data scientist can extract hidden knowledge from large amounts of raw data.
 
-The worldwide focus has switched more and more towards data in recent years, with new-age tech sectors like Artificial Intelligence, Machine Learning, and Data Science seeing substantial growth. The need for data scientists is skyrocketing, as is their pay. Computer and information research scientists, as well as data scientists, will see a 14 percent increase in jobs through 2028, according to the[ Bureau of Labor Statistics (BLS).](https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm)
+The worldwide focus has switched more and more towards data in recent years, with new-age tech sectors like Artificial Intelligence, Machine Learning, and Data Science seeing substantial growth. The need for data scientists is skyrocketing, as is their pay. Computer and information research scientists, as well as data scientists, will see a 14 percent increase in jobs through 2028, according to the <a href="https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm" target="_blank">Bureau of Labor Statistics (BLS).</a>
 
 There are various Data Scientist job openings in India, providing possibilities for data science professionals to advance in their careers and data enthusiasts who wish to enter the industry. Almost 50,000 data scientist positions are vacant in India.
 
-The average income of a Data Scientist in India is 708,012 dollars, according to[ PayScale](https://www.payscale.com/research/IN/Job=Data_Scientist%2C_IT/Salary).
+The average income of a Data Scientist in India is 708,012 dollars, according to <a href="https://www.payscale.com/research/IN/Job=Data_Scientist%2C_IT/Salary" target="_blank">PayScale</a>.
 
-Data science uses technologies like big data, predictive analytics, and artificial intelligence to apply ideas in both practical and theoretical ways. We’ve covered ten of the most important data science trends for 2022 and beyond in this article. By 2027, the market for big data and data analytics is estimated to exceed $421 billion. The subject of data science is rapidly expanding, and businesses are adopting it enthusiastically in order to avoid falling behind. But I must mention this industry is making track changes also very fast. Hence, the trends we have mentioned above are not stagnant. It keeps changing over the years. Stay on track by following the updated latest trends in data science on our[ Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://bit.ly/Learnbay_YouTube),[ Linkedin](https://www.linkedin.com/company/learnbay/), and[ Twitter]( https://twitter.com/Learnbay) pages.
+Data science uses technologies like big data, predictive analytics, and artificial intelligence to apply ideas in both practical and theoretical ways. We’ve covered ten of the most important data science trends for 2022 and beyond in this article. By 2027, the market for big data and data analytics is estimated to exceed $421 billion. The subject of data science is rapidly expanding, and businesses are adopting it enthusiastically in order to avoid falling behind. But I must mention this industry is making track changes also very fast. Hence, the trends we have mentioned above are not stagnant. It keeps changing over the years. Stay on track by following the updated latest trends in data science on our <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://bit.ly/Learnbay_YouTube" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/" target="_blank">Linkedin</a>, and <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a> pages.

@@ -1,10 +1,10 @@
 ---
 title: Media Hospitality and Transportation Know How Data Science Will Help you to Survive
-desc: "Consumer data will be the biggest differentiator in the next two to three years. Whoever unlocks the reams of data and uses it strategically will win – Angela Ahrendts Senior Vice President of Retail at Apple Inc The Same is true for Media, Hospitality, and the transportation industry..."
+desc: "The media and hospitality industries keep changing constantly and to survive, it is essential to be able to adapt to these changes. Data science can help you to do this by providing you with the ability to understand and predict customer behavior."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-01.jpg"
 date: "april 6, 2022"
-tag: [ Hot Topics ]
+tag: [ Data Science in Media Hospitality and Transportation, Importance of Data Science ]
 category: "Hot Topics"
 author: "Admin"
 position: "editor"
@@ -20,8 +20,6 @@ tableData:
 
   ]
 ---
-
- 
 
 “_Consumer data will be the biggest differentiator in the next two to three years. Whoever unlocks the reams of data and uses it strategically will win_.” – Angela Ahrendts Senior Vice President of Retail at Apple Inc
 
@@ -42,9 +40,9 @@ _So, is not there any way for media, hospitality, and transportation pros to sec
 
 Certainly, there is a way.
 
-In this article, I have described the challenges faced by the Media, Hospitality, and Transportation sectors. Based on my case study in these sectors, I believe that revolutionizing technology, such as[ Data Science](https://www.learnbay.co/data-science-course/why-you-need-data-science/) and Artificial Intelligence, has benefited these industries in overcoming their obstacles to increasing corporate efficiency.
+In this article, I have described the challenges faced by the Media, Hospitality, and Transportation sectors. Based on my case study in these sectors, I believe that revolutionizing technology, such as[ Data Science](https://www.learnbay.co/data-science-course/why-you-need-data-science/)<a href="https://www.learnbay.co/data-science-course/why-you-need-data-science/" target="_blank">Data Science</a> and Artificial Intelligence, has benefited these industries in overcoming their obstacles to increasing corporate efficiency.
 
-The media industry has been known to be one of the most lucrative industries. Due to the surge in Pandemic, many movie productions were stopped therefore incurring a lot of loss for the whole crew. _The struggling actors especially had a very hard time, as discussed in this[ Times of India](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bigstory-with-pandemic-hitting-the-film-industry-hard-how-are-struggling-actors-and-debutantes-coping-up-with-the-sudden-break-in-their-yet-to-be-launched-careers/articleshow/82221597.cms) issue_. The competitive algorithm of social media platforms has ultimately hit the media Industry Quiet hard.
+The media industry has been known to be one of the most lucrative industries. Due to the surge in Pandemic, many movie productions were stopped therefore incurring a lot of loss for the whole crew. _The struggling actors especially had a very hard time, as discussed in this <a href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bigstory-with-pandemic-hitting-the-film-industry-hard-how-are-struggling-actors-and-debutantes-coping-up-with-the-sudden-break-in-their-yet-to-be-launched-careers/articleshow/82221597.cms" target="_blank">Times of India</a> issue_. The competitive algorithm of social media platforms has ultimately hit the media Industry Quiet hard.
 
 The hospitality industry was affected gravely by the pandemic’s rise and the imposition of a global lockdown. Many small restaurant chains whose families depend on it had to shut down. E_ven hotels were affected when the majority of the people were being separated from their families due to COVID, and the hotels had to spend a large amount of revenue to equip these people whilst maintaining the integrity and safety of the hotel staff_. This had a lot of people quitting their jobs and being unemployed for a very long time.
 
@@ -53,9 +51,9 @@ The hospitality industry was affected gravely by the pandemic’s rise and the i
 
 Image created by Author
 
-Transportation is not indifferent to losses. The pressure on the organization during this coronavirus pandemic is from the relocation of citizens to the core transport with the basic workforce to keep cargo and key and important workers on the move. Shifted to system maintenance. _The side effect of this shift is the sudden change in the revenue sources of transportation companies, many of which are experiencing unexpected financial constraints._ Organizations need to plan to ensure that the transport network is ready to return to normal if the coronavirus pandemic blockade is lifted._ An article by[ Deloitte](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/covid-19/covid-19-impact-on-transportation-sector.html) has outlined all the shortcomings of the transport industry._
+Transportation is not indifferent to losses. The pressure on the organization during this coronavirus pandemic is from the relocation of citizens to the core transport with the basic workforce to keep cargo and key and important workers on the move. Shifted to system maintenance. _The side effect of this shift is the sudden change in the revenue sources of transportation companies, many of which are experiencing unexpected financial constraints._ Organizations need to plan to ensure that the transport network is ready to return to normal if the coronavirus pandemic blockade is lifted._ An article by <a href="https://www2.deloitte.com/us/en/pages/about-deloitte/articles/covid-19/covid-19-impact-on-transportation-sector.html" target="_blank">Deloitte</a> has outlined all the shortcomings of the transport industry.
 
-So what can be done? These industries need to make space for more[ data science jobs](https://www.learnbay.co/data-science-course/know-the-best-strategy-to-find-the-right-data-science-job-in-delhi/) to revive their infrastructure. Data science tools will allow a much better understanding of the pain points in the domains and help with their growth even during a natural disaster. If this isn’t convincing, let us see the need for data science in the aforementioned sectors.
+So what can be done? These industries need to make space for more <a href="https://www.learnbay.co/data-science-course/know-the-best-strategy-to-find-the-right-data-science-job-in-delhi/" target="_blank">data science jobs</a> to revive their infrastructure. Data science tools will allow a much better understanding of the pain points in the domains and help with their growth even during a natural disaster. If this isn’t convincing, let us see the need for data science in the aforementioned sectors.
 
 
 ## Need for Data Science in Media, Hospitality, and Transportation
@@ -213,7 +211,6 @@ Source: Glassdoor Salary Insights
 Data scientists’ salary in India, with less than one year experience or more than 12 years, is Rs 7.0 Lakh to R 33.6 Lakh. Based on 76 salaries, the average annual salary is 18.4 Lakhs.
 
 
-
 * Uber offers about 29.5 Lakhs per annum for a data scientist with more than 10 years of experience.
 * ElasticRun offers 9.3 Lakhs per annum for DS specialists with 1-5 years of experience.
 * Citadel offers 12 lakhs per annum for Data scientists with 2 to 3 years of experience in the field.
@@ -221,7 +218,7 @@ Data scientists’ salary in India, with less than one year experience or more t
 * Indian Railway Catering and Tourism offers 31.8 lakhs per annum for DS specialists with 2 to 4 years of experience. 
  
 How can Learnbay help you? 
-Learnbay offers one of the best[ data science courses in Bangalore](https://www.learnbay.co/data-science-online-training-in-bangalore/) and also offers an array of domain electives. One of which is Media, Hospitality, and Transportation. Let’s see some of the features of Learnbay and its domain electives.
+Learnbay offers one of the best <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">data science courses in Bangalore</a> and also offers an array of domain electives. One of which is Media, Hospitality, and Transportation. Let’s see some of the features of Learnbay and its domain electives.
 
 
 ### Objectives of the electives
@@ -253,7 +250,7 @@ Taxi-hailing companies must predict taxi demand to optimize their fleet manageme
 We would build a model that would use users’ ride request data. It would include attributes such as ride-booking time, pickup location, and drop point latitude/longitude. This model would predict the demand for taxis in a specific city area. It would also help companies optimize taxi concentration to meet users’ needs.
 
 
-[Resultant DataFrame Dataset](https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201)
+<a href="https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201" target="_blank">Resultant DataFrame Dataset</a>
 
 
 ### 2.  Netflix Movies and TV Shows (Media and Entertainment Domain)
@@ -264,7 +261,7 @@ Discover what other insights you can get from the Netflix list of movies and tv 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-08.png"   class="img"  /></img>
 
 
-[Netflix movies and TV shows dataset from Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+<a href="https://www.kaggle.com/shivamb/netflix-shows" target="_blank">Netflix movies and TV shows dataset from Kaggle</a>
 
 
 ### 3.  Airbnb New User Bookings(Hospitality Domain)
@@ -276,19 +273,17 @@ Users who are new to Airbnb can book a space to stay in over 34,000 cities sprea
 
 The role of data science in media, transportation, and hospitality is huge. The media, Transportation, and Hospitality industries have a great future with data science. That includes even natural disasters like Pandemics or even a tsunami. With the reasons mentioned above and tips, we’re sure you will get a good chance in this domain.
 
-To know more about domain specializations,[ click here](https://www.learnbay.co/data-science-certification-courses/) and make sure to follow all our socials:
+To know more about domain specializations, <a href="https://www.learnbay.co/data-science-certification-courses/" target="_blank">click here</a> and make sure to follow all our socials:
 
-Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
+Twitter: <a href="https://twitter.com/Learnbay" target="_blank">https://twitter.com/Learnbay</a>
 
-Facebook:[ https://www.facebook.com/learnbay/](https://www.facebook.com/learnbay/)
+Facebook: <a href="https://www.facebook.com/learnbay/" target="_blank">https://www.facebook.com/learnbay/</a>
 
-LinkedIn:[ https://www.linkedin.com/company/learnbay/](https://www.linkedin.com/company/learnbay/)
+LinkedIn: <a href="https://www.linkedin.com/company/learnbay/" target="_blank">https://www.linkedin.com/company/learnbay/</a>
 
 
 ## Bibliography
 
-
-
-* [https://www.kaggle.com/](https://www.kaggle.com/)
-* [https://www.ambitionbox.com/profile/data-scientist-salary/](https://www.ambitionbox.com/profile/data-scientist-salary/transportation-industry?page=2#:~:text=Data%20Scientist%20salary%20in%20India%20ranges%20between%20%E2%82%B9%207.0%20Lakhs,salaries%20received%20from%20Data%20Scientists)
-* [https://www.indeed.com/q-Film-Industry-Data-Science-jobs.html](https://www.indeed.com/q-Film-Industry-Data-Science-jobs.html)
+* [https://www.kaggle.com/](https://www.kaggle.com/)<a href="https://www.kaggle.com/" target="_blank">https://www.kaggle.com/</a>
+* <a href="https://www.ambitionbox.com/profile/data-scientist-salary/transportation-industry?page=2#:~:text=Data%20Scientist%20salary%20in%20India%20ranges%20between%20%E2%82%B9%207.0%20Lakhs,salaries%20received%20from%20Data%20Scientists" target="_blank">https://www.ambitionbox.com/profile/data-scientist-salary/</a>
+* <a href="https://www.indeed.com/q-Film-Industry-Data-Science-jobs.html" target="_blank">https://www.indeed.com/q-Film-Industry-Data-Science-jobs.html</a>

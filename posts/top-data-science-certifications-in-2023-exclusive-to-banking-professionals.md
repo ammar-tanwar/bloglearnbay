@@ -1,6 +1,6 @@
 ---
-title: Top Data Science Certifications In 2022 - Exclusive To Banking Professionals
-desc: "Do you hold a finance or banking background? These 5 data science courses for banking professionals can make you eligible for a 400% hike..."
+title: Top Data Science Certifications In 2023 - Exclusive To Banking Professionals
+desc: "If you are a finance or banking professional looking for a data science course that can increase your salary by 400%, then check out our list of the best data science certification programs and financial analytics training courses that will undoubtedly help you land a job at a top fintech company and advance your career opportunities."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-1.jpeg"
 date: "june 09, 2022"
@@ -9,23 +9,23 @@ category: "Data Science"
 author: "Milan"
 position: "editor"
 readTime: "7-8 mins"
-h1: "Top Data Science Certifications In 2022 - Exclusive To Banking Professionals"
-id: "top-data-science-certifications-in-2022-exclusive-to-banking-professionals"
+h1: "Top Data Science Certifications In 2023 - Exclusive To Banking Professionals"
+id: "top-data-science-certifications-in-2023-exclusive-to-banking-professionals"
 tableData:
   [
-   Top Data Science Certifications In 2022- Exclusive To Banking Professionals, Why such a huge surge of data science jobs in the BFSI domain?, The Best Data Science Course For Finance are -, Course Highlights - ,
+   Top Data Science Certifications In 2023- Exclusive To Banking Professionals, Why such a huge surge of data science jobs in the BFSI domain?, The Best Data Science Course For Finance are -, Course Highlights - ,
 
   ]
 ---
 
-# Top Data Science Certifications In 2022- Exclusive To Banking Professionals
+# Top Data Science Certifications In 2023- Exclusive To Banking Professionals
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-1.jpeg" class="img"  /></img>
 
 
 Do you hold a finance or banking background? These 5 data science courses for banking professionals can make you eligible for a 400% hike.
 
-In the last two years (2020 end to -2022 mid), folks of people have switched their jobs. The most hiked figures you could find from the fintech companies like HSBC, JP Morgan, etc. But by chance, if you think that such a hiring source was exclusive to IT pros- then you are damn wrong. The positions like 'financial analyst,' 'credit risk analyst,' AI experts, ML engineer, and data scientist were actually the top positions. 
+In the last two years (2020 end to 2022 mid), folks of people have switched their jobs. The most hiked figures you could find from the fintech companies like HSBC, JP Morgan, etc. But by chance, if you think that such a hiring source was exclusive to IT pros- then you are damn wrong. The positions like 'financial analyst,' 'credit risk analyst,' AI experts, ML engineer, and data scientist were actually the top positions. 
 
 Yes, the above roles have already overtaken traditional IT roles from the perspective of salary, job security, and future growth. But pursuing a random data science course to target these roles will be the biggest mistake of your life. Although it is the least exposed, there lies a bunch of financial analytics courses or exclusive <b><a href="https://learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank"> data science certifications</a></b> for banking professionals. 
 
