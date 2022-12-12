@@ -6,7 +6,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1
 date: "December 9, 2022"
 tag: [ AI in transportation, AI in automotive industry, Artificial intelligence in transportation, AI in Aviation, AI in automobile, examples of ai in transportation, ai in transportation in india, benefits of ai in transportation, future of ai in transportation, ai in public transportation, ai in transportation and logistics, benefits of ai in transportation, application of ai in automotive industry, applications of artificial intelligence in transport an overview, future of ai in aviation, advantages of ai in aviation, application of ai in aviation, use of ai in automobile industry, benefits of ai in automotive industry, future of ai in automotive industry ]
 category: "Artificial Intelligence"
-author: "Nivin Biswas" 
+author: "Milan" 
 position: "Editor"
 readTime: "15-18 mins"
 h1: "The Most Trending Applications of AI in Transportation Industry"
@@ -78,4 +78,4 @@ AI takes data to tell about the ship's estimated arrival and departure time. Thi
 
 The Transportation Industry is a sector that every country wants the best in it. Tourism, airplanes that patrol the border, and the trains that run between national borders imply AI and ML. These sectors keep innovating, and these sectors first receive every best AI and ML application in transportation. The same is going to open up numerous lucrative job opportunities. If you belong to the transportation industry and want to grab lucrative hikes, you should upgrade your abilities by earning <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">AI and ML</a> skills. Take a step today and secure your career for the upcoming 15 to 20 years.
 
-I hope you enjoyed the blog. And, if you appreciate learning more about AI and ML-related topics, make sure to follow our <a href="https://blog.learnbay.co/" target="_blank">blog</a> and subscribe to our <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a> channel for the most recent updates.
+I hope you enjoyed the blog. And, if you appreciate learning more about AI and ML-related topics, make sure to follow up <a href="https://blog.learnbay.co/" target="_blank">blog</a> and subscribe to our <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a> channel for the most recent updates.
