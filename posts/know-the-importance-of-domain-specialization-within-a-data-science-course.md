@@ -6,7 +6,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-1
 date: "December 14, 2022"
 tag: [ domain specialization, domain knowledge, course certification, data science, AI, what is domain specialization in data science,  domain specialization examples, domain specialization means, domain knowledge examples, domain knowledge data science, domain knowledge in resume, two examples of domain knowledge, best data science course certification ]
 category: "Data Science"
-author: "Nivin Biswas" 
+author: "Milan" 
 position: "Editor"
 readTime: "15-18 mins"
 h1: "Know The Importance of Domain Specialization Within a Data Science Course"
