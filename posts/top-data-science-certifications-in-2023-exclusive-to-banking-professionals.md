@@ -20,7 +20,7 @@ tableData:
 
 # Top Data Science Certifications In 2023- Exclusive To Banking Professionals
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-1.jpeg" class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-1.jpeg" class="img" alt="An illustration shows two data science professionals busy discussing data science certification."/></img>
 
 
 Do you hold a finance or banking background? These 5 data science courses for banking professionals can make you eligible for a 400% hike.
@@ -45,7 +45,7 @@ Financial analysts work for banks, insurance companies, real estate, and investm
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-2.jpeg"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-2.jpeg" alt="An image titled 'Finance' represents the usage of a financial analyst certification course in the field of the BFSI sector."/></img>
 
 
 ## The Best Data Science Course For Finance are -
@@ -77,7 +77,7 @@ To add to your portfolio, earn a certificate of completion.
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-3.jpeg"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-3.jpeg" alt="An illustration shows a smartphone screen with a credit score. Several stacks of notes and currencies surround the smartphone."/></img>
 
 
 ## 1. Credit Risk and Credit Analysis Certification (edX)
@@ -142,7 +142,7 @@ Studying from recorded videos can be tedious; Learnbay offers an instructor-led 
 Weekend - 9 months
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-4.jpeg"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-4.jpeg" alt="An illustration of two financial analysts discussing the use of python and data science in the finance industry." class="img"/></img>
 
 ## 4. Python for Financial Analysis and Algorithmic Trading (Udemy)
 This course consists of a thorough introduction to data science in the finance industry. The key focus lies on how Python helps to analyze financial data and perform algorithmic trading.

@@ -40,7 +40,7 @@ _So, is not there any way for media, hospitality, and transportation pros to sec
 
 Certainly, there is a way.
 
-In this article, I have described the challenges faced by the Media, Hospitality, and Transportation sectors. Based on my case study in these sectors, I believe that revolutionizing technology, such as[ Data Science](https://www.learnbay.co/data-science-course/why-you-need-data-science/)<a href="https://www.learnbay.co/data-science-course/why-you-need-data-science/" target="_blank">Data Science</a> and Artificial Intelligence, has benefited these industries in overcoming their obstacles to increasing corporate efficiency.
+In this article, I have described the challenges faced by the Media, Hospitality, and Transportation sectors. Based on my case study in these sectors, I believe that revolutionizing technology, such as <a href="https://www.learnbay.co/data-science-course/why-you-need-data-science/" target="_blank">Data Science</a> and Artificial Intelligence, has benefited these industries in overcoming their obstacles to increasing corporate efficiency.
 
 The media industry has been known to be one of the most lucrative industries. Due to the surge in Pandemic, many movie productions were stopped therefore incurring a lot of loss for the whole crew. _The struggling actors especially had a very hard time, as discussed in this <a href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bigstory-with-pandemic-hitting-the-film-industry-hard-how-are-struggling-actors-and-debutantes-coping-up-with-the-sudden-break-in-their-yet-to-be-launched-careers/articleshow/82221597.cms" target="_blank">Times of India</a> issue_. The competitive algorithm of social media platforms has ultimately hit the media Industry Quiet hard.
 

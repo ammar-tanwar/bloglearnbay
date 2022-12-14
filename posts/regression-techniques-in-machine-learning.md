@@ -15,7 +15,6 @@ tableData:
   [
    Regression techniques in Machine Learning,
    Introduction , What is Regression?, Linear regression, Additional points on Linear regression,  Logistic regression , Additional point, Polynomial regression, Step-wise Regression,  Additional points,  Lasso Regression, Additional points, 
-
   ]
 ---
 

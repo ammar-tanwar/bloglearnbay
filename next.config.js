@@ -19,8 +19,8 @@ module.exports = {
         destination: '/top-data-science-certifications-in-2023-exclusive-to-banking-professionals',
         permanent: true,
 
-        source: '/know-the-top-10-data-science-trends-2023',
-        destination: '/know-the-top-10-data-science-trends-2022',
+        source: '/know-the-top-10-data-science-trends-2022',
+        destination: '/know-the-top-10-data-science-trends-2023',
         permanent: true,
       },
     ]

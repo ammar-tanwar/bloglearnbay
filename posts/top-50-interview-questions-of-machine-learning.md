@@ -115,12 +115,14 @@ Ans: A Support Vector Machine (SVM) performs classification by finding the hyper
 
 Ans: SVM algorithms use a set of mathematical functions that are defined as the[ kernel](https://en.wikipedia.org/wiki/Kernel_method). The function of the kernel is to take data as input and transform it into the required form. Different SVM algorithms use different types of kernel functions. These functions can be of different types.
 
-There are four types of kernels in SVM.
+  There are four types of kernels in SVM.
 
-  1. Linear Kernel
-  2. Polynomial kernel
-  3. Radial basis kernel
-  4. Sigmoid kernel
+       1. Linear Kernel
+       2. Polynomial kernel
+       3. Radial basis kernel
+       4. Sigmoid kernel
+
+
 
 12.  What is Kernel Trick?
 
@@ -160,14 +162,13 @@ Which is simply the functional margin normalized. So, these intuitions lead to t
 Ans:
 
 
+    1. SVM tries to find the “best” margin (distance between the line and the support vectors) that separates the classes and this reduces the risk of error on the data, while logistic regression does not, instead it can have different decision boundaries with different weights that are near the optimal point.
+    2. SVM works well with unstructured and semi-structured data like text and images while logistic regression works with already identified independent variables.
+    3. SVM is based on the geometrical properties of the data while logistic regression is based on statistical approaches.
+    4. Logistic Regression can’t be applied to a nonlinearly separable dataset whereas SVM can be applied.
+    5. The risk of overfitting is less in SVM, while Logistic regression is vulnerable to overfitting.
 
-1. SVM tries to find the “best” margin (distance between the line and the support vectors) that separates the classes and this reduces the risk of error on the data, while logistic regression does not, instead it can have different decision boundaries with different weights that are near the optimal point.
-2. SVM works well with unstructured and semi-structured data like text and images while logistic regression works with already identified independent variables.
-3. SVM is based on the geometrical properties of the data while logistic regression is based on statistical approaches.
-4. Logistic Regression can’t be applied to a nonlinearly separable dataset whereas SVM can be applied.
-5. The risk of overfitting is less in SVM, while Logistic regression is vulnerable to overfitting.
-
-   1.  When to Use Logistic Regression vs Support Vector Machine?
+15. When to Use Logistic Regression vs Support Vector Machine?
 
 Ans: Depending on the number of training sets (data)/features that you have, you can choose to use either logistic regression or support vector machine.
 
@@ -179,11 +180,11 @@ _m = number of training examples_
 
 
 
-1. If _n is large (1–10,000) and m is small (10–1000)_: use logistic regression or SVM with a linear kernel.
-2. If _n is small (1–1000) and m is intermediate (10–10,000_): use SVM with (Gaussian, polynomial, etc) kernel
-3. If _n is small (1–100), m is large _(50,000–1,000,000+): first, manually add more features and then use logistic regression or SVM with a linear kernel
+    1. If _n is large (1–10,000) and m is small (10–1000)_: use logistic regression or SVM with a linear kernel.
+    2. If _n is small (1–1000) and m is intermediate (10–10,000_): use SVM with (Gaussian, polynomial, etc) kernel
+    3. If _n is small (1–100), m is large _(50,000–1,000,000+): first, manually add more features and then use logistic regression or SVM with a linear kernel
 
-16. What does c and gamma parameter in SVM signify?
+16.   What does c and gamma parameter in SVM signify?
 
 Ans: Short Answer:
 
@@ -347,12 +348,12 @@ The optimal number of clusters can be defined as follow:
 
 
 
-1. Compute clustering algorithm (e.g., k-means clustering) for different values of k. For instance, by varying k from 1 to 10 clusters.
-2. For each k, calculate the total within-cluster sum of square (WSS).
-3. Plot the curve of WSS according to the number of clusters k.
-4. The location of a bend (knee) in the plot is generally considered as an indicator of the appropriate number of clusters.
+    1. Compute clustering algorithm (e.g., k-means clustering) for different values of k. For instance, by varying k from 1 to 10 clusters.
+    2. For each k, calculate the total within-cluster sum of square (WSS).
+    3. Plot the curve of WSS according to the number of clusters k.
+    4. The location of a bend (knee) in the plot is generally considered as an indicator of the appropriate number of clusters.
 
-26. What is the difference between K-Means and Hierarchical Clustering? When to use which?
+26.  What is the difference between K-Means and Hierarchical Clustering? When to use which?
 
 Ans: Hierarchical Clustering and k-means clustering complement each other. In hierarchical clustering, the researcher is not aware of the number of clusters to be made whereas, in k-means clustering, the number of clusters to be made is specified before-hand.
 
@@ -500,9 +501,9 @@ Below are some constraints that can be imposed on the construction of decision t
 * The number of nodes or number of leaves, like depth, can constrain the size of the tree but is not constrained to a symmetrical structure if other constraints are used.
 * Number of observations per split imposes a minimum constraint on the amount of training data at a training node before a split can be considered
 * Minimum improvement to loss is a constraint on the improvement of any split added to a tree.
-1. Penalized Gradient Boosting: Additional constraints can be imposed on the parameterized trees in addition to their structure. Classical decision trees like CART are not used as weak learners, instead, a modified form called a regression tree is used that has numeric values in the leaf nodes (also called terminal nodes). The values in the leaves of the trees can be called weights in some literature. As such, the leaf weight values of the trees can be regularized using popular regularization functions, such as L1 regularization of weights and L2 regularization of weights. The additional regularization term helps to smooth the final learned weights to avoid over-fitting. Intuitively, the regularized objective will tend to select a model employing simple and predictive functions.  
-2. Weighted Updates: The predictions of each tree are added together sequentially. The contribution of each tree to this sum can be weighted to slow down the learning by the algorithm. This weighting is called a shrinkage or a learning rate.
-3. Stochastic Gradient Boosting: A big insight into bagging ensembles and the random forest was allowing trees to be greedily created from subsamples of the training dataset. This same benefit can be used to reduce the correlation between the trees in the sequence in gradient boosting models. This variation of boosting is called stochastic gradient boosting. At each iteration a subsample of the training data is drawn at random (without replacement) from the full training dataset. The randomly selected subsample is then used, instead of the full sample, to fit the base learner.
+  1. Penalized Gradient Boosting: Additional constraints can be imposed on the parameterized trees in addition to their structure. Classical decision trees like CART are not used as weak learners, instead, a modified form called a regression tree is used that has numeric values in the leaf nodes (also called terminal nodes). The values in the leaves of the trees can be called weights in some literature. As such, the leaf weight values of the trees can be regularized using popular regularization functions, such as L1 regularization of weights and L2 regularization of weights. The additional regularization term helps to smooth the final learned weights to avoid over-fitting. Intuitively, the regularized objective will tend to select a model employing simple and predictive functions.  
+  2. Weighted Updates: The predictions of each tree are added together sequentially. The contribution of each tree to this sum can be weighted to slow down the learning by the algorithm. This weighting is called a shrinkage or a learning rate.
+   3. Stochastic Gradient Boosting: A big insight into bagging ensembles and the random forest was allowing trees to be greedily created from subsamples of the training dataset. This same benefit can be used to reduce the correlation between the trees in the sequence in gradient boosting models. This variation of boosting is called stochastic gradient boosting. At each iteration a subsample of the training data is drawn at random (without replacement) from the full training dataset. The randomly selected subsample is then used, instead of the full sample, to fit the base learner.
 
 36. What is Dimensionality Reduction? Why is it used?
 
