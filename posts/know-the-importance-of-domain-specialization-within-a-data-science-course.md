@@ -107,7 +107,7 @@ Another way to build domain knowledge is by consulting or learning from an exper
 
 ### Enroll in courses with domain specialization
 
-Plenty of AI and data science courses exist there, but most of them do not come with domain specialization. So, choose a data science course with the domain elective module option only. All of these custom domains offer advanced certification programs, supporting job applicants and candidates for <a href="https://learnbay.co/advance-data-science-certification-courses" target="_blank">AI and data science</a>fields throughout the hiring process.
+Plenty of AI and data science courses exist there, but most of them do not come with domain specialization. So, choose a data science course with the domain elective module option only. All of these custom domains offer advanced certification programs, supporting job applicants and candidates for <a href="https://learnbay.co/advance-data-science-certification-courses" target="_blank">AI and data science</a> fields throughout the hiring process.
 
 ## Key Takeaways
 
