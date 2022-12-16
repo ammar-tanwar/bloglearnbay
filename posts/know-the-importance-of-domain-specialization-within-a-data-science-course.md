@@ -51,7 +51,7 @@ Domain knowledge is essential when applying for jobs in data science. For exampl
 
 Domain knowledge in data science is the background knowledge by which different data science techniques are applied. This application can be data modeling, generating insights, data warehousing, data pipeline, and even making decisions based on these data. But nature, as well as the requirement of data, is different in every domain, and the segmentation is different, even in the market. So when you opt for a data science course, it's quite important that you pursue a domain specialization. Otherwise, your learning will be of no means in the job market. In fact, in the case of working professionals, this becomes the first criterion for having a successful career transition.
 
-For example, the domain specialization can bebanking, telecommunication, Oil Gas, healthcare, and many more.
+For example, the domain specialization can be banking, telecommunication, Oil Gas, healthcare, and many more.
 
 ### Why is domain knowledge important?
 
