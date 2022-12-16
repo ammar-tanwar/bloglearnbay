@@ -14,6 +14,10 @@ module.exports = {
         source: '/top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2022',
         destination: '/top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2023',
         permanent: true,
+
+        source: '/top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2022',
+        destination: '/top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2023',
+        permanent: true,
         
         source: '/top-data-science-certifications-in-2022-exclusive-to-banking-professionals',
         destination: '/top-data-science-certifications-in-2023-exclusive-to-banking-professionals',

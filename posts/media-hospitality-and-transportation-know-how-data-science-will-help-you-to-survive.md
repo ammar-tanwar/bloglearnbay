@@ -31,7 +31,7 @@ But a pandemic hit in the last couple of years has created an immense impact on 
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-02.png"   class="img"  /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-02.png" alt="An illustration titled Media, Hospitality, and Transportation on the left and represents various data science applications utilized in Media, Hospitality, and Transportation on the right."/></img>
 
 
 The most depressing thing is the higher your salary is, the greater your chances of losing the job.
@@ -46,7 +46,7 @@ The media industry has been known to be one of the most lucrative industries. Du
 
 The hospitality industry was affected gravely by the pandemic’s rise and the imposition of a global lockdown. Many small restaurant chains whose families depend on it had to shut down. E_ven hotels were affected when the majority of the people were being separated from their families due to COVID, and the hotels had to spend a large amount of revenue to equip these people whilst maintaining the integrity and safety of the hotel staff_. This had a lot of people quitting their jobs and being unemployed for a very long time.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-03.png"  style="width: 100%;" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-03.png" alt="A human hand is searching and evaluating numerous images on a laptop."  style="width: 100%;" /></img>
 
 
 Image created by Author
@@ -156,7 +156,7 @@ The most popular Data Analysis tool. Microsoft originally developed Excel for sp
 ## Companies Hiring Data Scientists in the Media, Transportation, and Hospitality Industry
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-05.png" style="width: 100%;"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-05.png" alt="An chart represents various data scientist jobs based on the experience of 2 to 5 years. For example:-" style="width: 100%;"/></img>
 
 
 Image by Author
@@ -179,7 +179,12 @@ Data scientists’ salary in India is between Rs 4.9 Lakhs and Rs 28.0 Lakhs, wi
 5. Pratilipi offers 30.9 lakhs per annum for DS specialists with 3 to 5 years of experience.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-06.png"  style="width: 100%;" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-06.png" alt="An image representing a Data science job based on experiences such as:-
+Elasticrun offers INR 9.3 LPA for 1.5 YRS
+Citadel offers INR 12 LPA for 2-3 YRS
+Redbus offers INR 15.6 LPA for 2-3 YRS
+Uber offers INR 29.5 LPA for  >10 YRS
+India Railway catering and tourism offers INR 31.8 LPA for 2-4 YRS."  style="width: 100%;" /></img>
 
 
 
@@ -198,7 +203,7 @@ The average Data Scientist’s salary in the hospitality industry is in India at
 5. ITC offers 31.8 lakhs per annum for DS specialists with 3 to 5 years of experience.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-07.png"  style="width: 100%;" /></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/media-07.png" alt="A chart representing 7 rows with several dates and times and 6 columns such as Pickup_Cluster, request_count, mins, hours, day, and month."  style="width: 100%;" /></img>
 
 
 Image by Author

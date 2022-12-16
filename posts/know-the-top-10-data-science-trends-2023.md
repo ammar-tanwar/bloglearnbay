@@ -18,7 +18,7 @@ tableData:
     What Are The Latest Trends In Data Scientist Salary?,
   ]
 ---
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg" alt="An illustration shows a boy and an AI-based robot are playing video games while sitting together,. The background shows a desk and laptop setup, a bookshelf, and an AI-based dog."/></img>
 
 ## Technology Has No Break- Know The Data Science Latest Trends Leading Different Industries.
 
@@ -54,7 +54,7 @@ Because of the rapid evolution of this technology, augmented analytics modules a
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends1.jpg"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends1.jpg" alt="An illustration represents the Top 10 Data Science Trends in 2022, such as No code or low code, AutoML, Blockchain, Cloud AI and data science, Augmented data analytics, and more."/></img>
 
 
 
@@ -121,7 +121,17 @@ The Future of AIaas technology will be divided into well-defined and self-contai
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends2.jpg"/></img>
+<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends2.jpg" alt="A cylinder chart  represents Trends In Data Scientist Salary, such as:-
+Insurance: $107K
+Automotive: $108K
+Advertising and PR: $110K
+Aerospace: $120K
+Real state: $122K
+E-commerce: $123K
+Finance: $127K
+Educational instution: $139k
+Securities, contracts, and Financial investments: $144k
+Computers, technology, and Product manufacturing: $144k"/></img>
 
 
 
