@@ -107,6 +107,5 @@ export default async (req, res) => {
   const xmlString = await streamToPromise(
     Readable.from(links).pipe(stream)
   ).then((data) => data.toString());
-s
   res.end(xmlString);
 };
