@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.47.0",
     "feed": "^4.2.2",
     "googleapis": "^107.0.0",
     "gray-matter": "^4.0.3",
