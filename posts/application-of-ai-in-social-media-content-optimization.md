@@ -22,7 +22,7 @@ tableData:
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Know How Meta, Instagram & Twitter are Utilizing the Big Benefits of AI in Social Media</span>
 
-_"AI has the potential to improve billions of lives, and the biggest risk may be failing to do so. By ensuring it is developed responsibly in a way that benefits everyone, we can inspire future generations to believe in the power of technology as much as I do," -_ Sundar Pichai, CEOof Google & Alphabet.
+_"AI has the potential to improve billions of lives, and the biggest risk may be failing to do so. By ensuring it is developed responsibly in a way that benefits everyone, we can inspire future generations to believe in the power of technology as much as I do," -_ Sundar Pichai, CEO of Google & Alphabet.
 
 Instagram, Twitter, and Facebook have become an integral part of our daily life. In fact, these social media platforms went beyond personal benefits. These three social media platforms are now deciding the fates of business organizations- whether it's a global business giant or just local startups.
 
@@ -38,13 +38,13 @@ According to <a href="https://backlinko.com/instagram-users" target="_blank">Bac
 
 Instagram, today's most popular social networking app for sharing photos and videos, was launched in 2010. Users interact with each post by showing care and affection with a heart button instead of a like, comments, and hashtag. These activities generate enormous amounts of data.
 
-**Optimizing Content Through Application of Data science and AI in Social media**
+## Optimizing Content Through Application of Data science and AI in Social media
 
-## How does Meta (formerly Facebook) make use of AI in social media?
+### How does Meta (formerly Facebook) make use of AI in social media?
 
 <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-2.jpg" style="width:100%" class="img" alt="An image shows the logo of Meta(formerly Facebook)."/>
 
-## Meta is improving its deep learning methodologies   
+### Meta is improving its deep learning methodologies   
 
 In contexts with deep learning, Meta (Facebook) employs a variety of techniques, including NLP and neural networks. META's NLP (Natural Language Processing) system's deep learning model uses neural networks to identify spam, inordinate promotional posts, and click baits via sorting and segmentation. Using such techniques to filter the contents and deliver a clean and optimized result to the user's news feed.
 
@@ -136,7 +136,7 @@ When a person follows more accounts, the feed becomes more crowded with content 
 
 If an Instagram user spends significantly less time on the app, the user will see posts from friends and family with whom they interact on the Instagram platform. This simplifies the process for businesses to surface their feed.
 
-**There are numerous ways to use AI in social media to optimize content, but the aforementioned tips should be known by all social media users because they can be incorporated into social media platforms to improve user experience and viability.**
+_There are numerous ways to use AI in social media to optimize content, but the aforementioned tips should be known by all social media users because they can be incorporated into social media platforms to improve user experience and viability._
 
 ## Conclusion  
 

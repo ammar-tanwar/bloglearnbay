@@ -5,7 +5,6 @@ export default async (req, res) => {
   // An array with your links
   const links = [
     { url: "https://blog.learnbay.co/", changefreq: "daily", priority: 0.3 },
-    { url: "https://blog.learnbay.co/how-is-augmented-reality-helping-the-cyber-security-system", changefreq: "daily", priority: 0.3 },
     { url: "https://blog.learnbay.co/best-ai-ebooks-for-you-to-explore-and-refine-domain-knowledge", changefreq: "daily", priority: 0.3 },
     { url: "https://blog.learnbay.co/octoml-the-coolest-platform-for-faster-machine-learning-model-deployment", changefreq: "daily", priority: 0.3 },
     { url: "https://blog.learnbay.co/category/artificial-intelligence", changefreq: "daily", priority: 0.3 },
