@@ -9,7 +9,6 @@ import { IoTimeOutline } from "react-icons/io5";
 import generateRssFeed from "../lib/generateRss";
 import generateCategoryRssFeed from "../lib/geneRateCategoryRss";
 // import Search from "../components/Searchbar/Search"
-// import Search from "../components/search";
 import Search from '../components/search'
 import utilStyles from '../styles/utils.module.css'
 
