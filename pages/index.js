@@ -8,7 +8,9 @@ import { sortByDate } from "../utils";
 import { IoTimeOutline } from "react-icons/io5";
 import generateRssFeed from "../lib/generateRss";
 import generateCategoryRssFeed from "../lib/geneRateCategoryRss";
-import Search from "../components/Searchbar/Search"
+
+import Search from '../components/search'
+import utilStyles from '../styles/utils.module.css'
 
 export default function blog({ allPostsData }) {
   const length = parseInt(allPostsData.length);
@@ -40,13 +42,14 @@ export default function blog({ allPostsData }) {
       </div>
       <section className={styles.blogHead}>
 
-        <div><p>Latest Blogs</p>  
-        <div className={styles.searchmain}>
-        <Search /> 
-        </div> 
-        </div>
 
-        
+      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+      <p>Latest Blogs</p>  
+        <Search />
+        <a href={`/blogs`} className={styles.blogButton}>
+                  <button>View All Blogs</button>
+        </a>
+      </section> 
       </section>
       <section className={styles.blogWrap}>
         {allPostsData

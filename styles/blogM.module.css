@@ -29,7 +29,7 @@
   grid-template-columns: 30% 30% 30%;
   align-items: center;
   margin: 30px 100px;
-  gap: 20px;
+  gap: 62px;
 }
 .blog {
   height: 450px;
@@ -397,6 +397,11 @@
     bottom: 72px;
     right: 37px;
   }
+}
+
+.blogButton{
+  display: flex;
+  flex-direction: row-reverse;
 }
 
 
