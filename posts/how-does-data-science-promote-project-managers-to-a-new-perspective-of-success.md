@@ -19,7 +19,7 @@ tableData:
   ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg" style="width: 100%;" alt="An Illustration titled, 'How Does Data Science Promote Project Managers to a New Perspective of Success' shows a man shaking hand with a robot. A second robot is busy with some analytics in front of a display."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg" style="width: 100%;" alt="An Illustration titled, 'How Does Data Science Promote Project Managers to a New Perspective of Success' shows a man shaking hand with a robot. A second robot is busy with some analytics in front of a display."/>
 
 
 ## Old School Project Management expertise Is Now outdated? But Businesses Saved And Revived By Data Science orientation.
@@ -85,7 +85,7 @@ Managers use current market trends to create a product for the general public. T
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager1.jpg" alt="A magnifier and laptop represents the use of data science in highly sensitive predictive analytics." style="width: 100%"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager1.jpg" alt="A magnifier and laptop represents the use of data science in highly sensitive predictive analytics." style="width: 100%"/></img>
 
 
 

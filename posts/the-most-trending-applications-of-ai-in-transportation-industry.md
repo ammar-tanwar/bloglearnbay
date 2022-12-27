@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg" style="width:100%" class="img" alt="A banner illustration titled, 'Most Trending AI Applications in the Transportation Industry.' The illustration of transport vehicles and an AI-based automated robot."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg" style="width:100%" class="img" alt="A banner illustration titled, 'Most Trending AI Applications in the Transportation Industry.' The illustration of transport vehicles and an AI-based automated robot."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Know How Innovation of AI in Transportation Is Easing Our Life?</span>
 
@@ -30,7 +30,7 @@ The realization of driverless cars and autonomous vehicles is almost done. We ar
 
 As per the current automotive industry demand, the user experience must be fast and flawless. This would make anyone stop thinking about a car to be just as a transportation and more like a computer on wheels. Traditional automakers have to adapt to AI or have to move out.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-2.jpg" style="width:100%" class="img" alt="A quote graphics reads, 'Not only are AI technologies critical for enabling our autonomous vehicles, but they are playing an increasing roles in transforming our customer employee experiences.'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-2.jpg" style="width:100%" class="img" alt="A quote graphics reads, 'Not only are AI technologies critical for enabling our autonomous vehicles, but they are playing an increasing roles in transforming our customer employee experiences.'"/>
 
 ## The Advancements of Artificial Intelligence in Different Means of Transportation
 
@@ -44,7 +44,7 @@ They are developing automated vehicles for personal and commercial transportatio
 
 AI algorithms are mostly used in sharing economy platforms offering road transport services. UBER uses AI in every aspect of its solutions, from matching drivers to route optimization. AI technology is also implied in road traffic management, which helps analyze traffic patterns. This provides the fastest route for the driver. When it comes to AI innovation in the transportation industry, the application of AI in the automobile sector remains the fastest one in the race.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-3.jpg" style="width:100%" class="img" alt="An AI-powered robotic hand holds an airplane miniature at the tip of its index finger. This indicates the applications of AI in the aviation industry."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-3.jpg" style="width:100%" class="img" alt="An AI-powered robotic hand holds an airplane miniature at the tip of its index finger. This indicates the applications of AI in the aviation industry."/>
 
 ### Applications of AI in Aviation   
 
@@ -66,7 +66,7 @@ Railways avoid every interruption of the services they provide which is very val
 
 Until now, amongst all kinds of innovative measures of AI in the transportation industry rails transportation has been the biggest pride for India.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-4.jpg" style="width:100%" class="img" alt="A foreground image shows a logistic ship, in the background image shows an AI-based automated robot."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-4.jpg" style="width:100%" class="img" alt="A foreground image shows a logistic ship, in the background image shows an AI-based automated robot."/>
 
 ### AI in Shipping  
 

@@ -19,7 +19,7 @@ tableData:
 
 <span style="color:blue; font-weight:bold; font-size:28px">OctoML Can Make Your Machine Learning Model Deployment 5X Faster</span>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-1.jpg" alt="A banner image titled, 'OctoML- The Coolest Platform for Faster Machine Learning Model Deployment
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-1.jpg" alt="A banner image titled, 'OctoML- The Coolest Platform for Faster Machine Learning Model Deployment
 " style="width:100%" class="img"/>
 
 ## What is OctoML ?
@@ -34,7 +34,7 @@ OctoML mainly focuses on making it easier for developers to deploy machine learn
 
 OctoML is powered by cutting-edge technology that makes a machine-learning model run faster and smoother on any hardware. They are automating the deployment of machine learning models so that anyone can quickly put them into production.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-2.jpg" alt="A robot seated in front of a laptop and building OctoML-powered machine learning models." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-2.jpg" alt="A robot seated in front of a laptop and building OctoML-powered machine learning models." style="width:100%" class="img"/>
 
 
 
@@ -57,7 +57,7 @@ The OctoML Machine Learning Deployment Platform is the perfect way to get your p
 - Utilize the user-friendly interface to accelerate your bespoke model. Realize the performance improvements and cost savings by using them in your environment.
 <br><br>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-3.jpg" alt="An image related to Apache TVM. It shows a robotic face. " style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-3.jpg" alt="An image related to Apache TVM. It shows a robotic face. " style="width:100%" class="img"/>
 
 Make portable and practical ML available to everyone using the Octomizer MLops automation platform.
 

@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-1.jpg" style="width:100%" class="img" alt="A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-1.jpg" style="width:100%" class="img" alt="A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">Explore the Deep Learning Algorithms Those Gonna Rock for the Next 5 Years</span>
 
@@ -67,7 +67,7 @@ A deep learning algorithm's operation can be summarised in three steps.
 
  **10.** **Autoencoders** 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-2.jpg" style="width:100%" class="img" alt="A Convolutional Neural Networks (CNNs) framework contains two parts: feature extraction and classification. The feature extraction parts consist of three subparts, such as 'input,' 'convolution,' and 'Pooling.' These three sub-parts are sequentially connected. The classification part consists of 'fully connected' and 'output.' Both are interconnected. The fully connected sub-part is linked with the pooling."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-2.jpg" style="width:100%" class="img" alt="A Convolutional Neural Networks (CNNs) framework contains two parts: feature extraction and classification. The feature extraction parts consist of three subparts, such as 'input,' 'convolution,' and 'Pooling.' These three sub-parts are sequentially connected. The classification part consists of 'fully connected' and 'output.' Both are interconnected. The fully connected sub-part is linked with the pooling."/>
 
 ### 1. Convolutional Neural Networks (CNNs)  
 CNN's neural network architecture consists of seven layers and is broadly used in object recognition and image preprocessing. CNN's were first discovered in 1998 by TannLeCun and were known as LeNet. At the time, they were solely designed to recognize digits and code characters. Since then, we have seen CNNs used in versatile measures.
@@ -113,7 +113,7 @@ RNNs, which stand for Recurrent **Neural Networks**, feature an interconnection 
 
 - The RNN can then easily move on with a sufficient data network.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-3.jpg" style="width:100%" class="img" alt="Radial basis function network based on based on Input and Output model."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-3.jpg" style="width:100%" class="img" alt="Radial basis function network based on based on Input and Output model."/>
 
 ### 3. Radial Basis Function Networks (RBFNs):-  
 
@@ -162,7 +162,7 @@ This deep learning algorithm has proven most useful in the following cases
 - As the SOM learned about BMUs, the number of neighbors in data sets has steadily dropped.
 - The sample vector is awarded a winning weight by SOMs.The weight of a node changes more rapidly as it gets closer to a BMU; the neighbor learns less as it gets further away from the BMU. Then the algorithm replicates the step
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-4.jpg" style="width:100%" class="img" alt="A human face with an open jaw is using voice recognition technology."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-4.jpg" style="width:100%" class="img" alt="A human face with an open jaw is using voice recognition technology."/>
 
 ### 5. Long Short-Term Memory Networks (LSTMs):-  
 
@@ -228,7 +228,7 @@ Restricted Boltzmann Machines, often known as RBMs, are a class of probabilistic
 
 - Finally, the RBMs compare the original input at the visible compare layer to determine the output quality. 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-5.jpg" style="width:100%" class="img" alt="The architecture of Deep Belief Networks."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-5.jpg" style="width:100%" class="img" alt="The architecture of Deep Belief Networks."/>
 
 ### 8. Deep Belief Networks (DBNs):-  
 
@@ -274,7 +274,7 @@ GANs have a simple deep-learning algorithm that aids in the generation of new da
 
 -  The GAN then sends the result to the generator and discriminator to update the mode.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-6.jpg" style="width:100%" class="img" alt="An autoencoder with the input serving as the encoder and the output as the decoder."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-6.jpg" style="width:100%" class="img" alt="An autoencoder with the input serving as the encoder and the output as the decoder."/>
 
 ### 10. Autoencoders:-  
 

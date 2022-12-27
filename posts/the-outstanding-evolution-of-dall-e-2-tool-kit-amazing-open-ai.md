@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-1.jpg" style="width:100%" class="img" alt="A banner image titled as, 'DALL-E2- THE NEW HORIZON TEXT-TO-IMAGE TECHNOLGY'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-1.jpg" style="width:100%" class="img" alt="A banner image titled as, 'DALL-E2- THE NEW HORIZON TEXT-TO-IMAGE TECHNOLGY'"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> DALL-E 2- The New Horizon of Text-to-Image Technology </span>
 
@@ -33,7 +33,7 @@ DALL-E was developed alongside CLIP, a model that performs zero-shot learning on
 
 ## The actual functioning of DALL-E 2:-   
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-2.jpg" style="width:100%" class="img" alt="A diagram indicating the use of CLIP with a text encoder and image encoder for creating a visual or image."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-2.jpg" style="width:100%" class="img" alt="A diagram indicating the use of CLIP with a text encoder and image encoder for creating a visual or image."/>
 
 Here is the general understanding of how it operates without oversimplification. The following are the four critical high-level concepts to remember:
 
@@ -54,7 +54,7 @@ It's unsettling how quickly AI-powered text-to-image generation is developing. T
 
 ## Is DALL-E 2 free to use?   
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-3.jpg" style="width:100%" class="img" alt="A graphic shows a man busy with the though of if Dall E 2 is free or paid."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-3.jpg" style="width:100%" class="img" alt="A graphic shows a man busy with the though of if Dall E 2 is free or paid."/>
 
 The AI system DALL-E uses a natural language description to generate realistic visuals and artwork. DALL-E users can build their projects for free using credits that replenish every month, or they can pay a small fee of $15 for additional credits in increments of 115 project generations. DALL-E is now available in public beta for use.
 
@@ -68,7 +68,7 @@ The aesthetic appeal of the images DALL-E and DALL-E 2 create one crucial factor
 
 All these pictures and art produced by DALL-E 2 are on par with those from artists or photographers that work professionally. It's not difficult to see someone working in that field observing the DALL-E 2's output and feeling as though their knowledge is soon to become outdated.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-4.jpg" style="width:100%" class="img" alt="A three dimensional construction indicates a 3D image visualization, which aids in 3D rendering style."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-4.jpg" style="width:100%" class="img" alt="A three dimensional construction indicates a 3D image visualization, which aids in 3D rendering style."/>
 
 ## Top three features of DALL-E 2:-
 
@@ -100,7 +100,7 @@ When we put together different words to create sentences, we're able to communic
 
 We can investigate the transfer of properties from different conceptions to animals in two examples. The first involves creating things by drawing ideas from unrelated concepts, and the second involves applying characteristics of diverse concepts to various creatures. In the first case, we look at how product designers might draw ideas for new products from seemingly unconnected ideas. In the second case, we look at how the characteristics of animals might be applied to other concepts.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-5.jpg" style="width:100%" class="img" alt="An abstract image divided into two halves suggest  visual reasoning with zero short which helps in creating images with small description."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-5.jpg" style="width:100%" class="img" alt="An abstract image divided into two halves suggest  visual reasoning with zero short which helps in creating images with small description."/>
 
 ### 3. Visual reasoning with a zero-shot:- 
 

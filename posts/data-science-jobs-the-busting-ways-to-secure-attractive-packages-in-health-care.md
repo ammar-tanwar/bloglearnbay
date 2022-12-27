@@ -2,7 +2,7 @@
 title: Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?
 desc: "Got your master's degree in genetic counseling, occupational therapy, health administration, or any other healthcare domain?..."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/med.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance1.png"
 date: "April 6, 2022"
 tag: [ Hot Topics ]
 author: "Admin"
@@ -14,13 +14,10 @@ id: "data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-
 tableData:
   [
    Do data science job in health care sector come with attractive packages?, This Drives your data science salary, Why is data science important in healthcare?, Can data scientists work in healthcare?  , Applications of Data Science in Healthcare , Medical Image Analysis, Algorithms used in medical image analysis, Predictive Analytics in Healthcare, Algorithms used in predictive analysis, Genomics, Algorithms used in Genomics, Role of a Data Scientist in the Healthcare domain,  How much do healthcare data scientists make?, Companies and Packages, Based on area,  What skills does it take to become a Healthcare Data Scientist?, Domain Specialization with Learnbay, What can you expect?, Who is it suitable for?, Projects you will get to work on, Conclusion, Bibliography
-  
-
   ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance.png"   class="img"  /></img>
-
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance1.png" alt="An illustration titled, 'DATA SCIENCE IN Healthcare, Pharma and Clinical research domain' shows a group of medical staff such as a doctor, Nurses, etc."/>
 
 Got your master's degree in genetic counseling, occupational therapy, health administration, or any other healthcare domain? Well, you might be very anxious to join a renowned organization with a six-figure salary package? But wait. It’s not that easy these days. I have found more than 70% of lucrative healthcare degree holders are still struggling to secure their position. Every single day they dreamt of losing their jobs.
 
@@ -30,7 +27,7 @@ Well, there has been a new ‘must-have’ skill requirement in this industry fo
 
 Yes, data science and AI have changed the direction of the editor job market. Lots of vacancies are there, and lots of candidates are roaming around to fill those positions. Still, they are not getting hired. Some are working almost 24X7 with a package of 3 LPA-4 LPA, even after having a master's degree. 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance1.png"   class="img"  /></img>
+
 
 
 However, there is a contrasting side also. A few are enjoying 10 to 12 LPA, with an average of 3 to 4 years of experience in the same domain.
@@ -65,7 +62,7 @@ Now that this is in check, let us know more about the correlation between DS and
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance2.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance2.png" alt="An Image represents the use of different data science applications in the healthcare industries."/>
 
 
 
@@ -150,7 +147,11 @@ SCIO Health Analytics offers Rs.7.10 lakhs to 8.64 lakhs per annum
 Novartis Healthcare offers Rs.21.7 lakhs per annum
 Dr. Reddy offers Rs.12,89,859 per annum.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance4.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance4.png" alt="A chart lists the salary scales of  data scientist jobs in different cities such as, 
+New Delhi: INR 20,000/month for SAS programmers
+Chennai: INR 70,000/month for pharmaceutical Data Analysts
+Bangalore: INR 12,89,859/P.A Data Analyst
+New Delhi: INR 18,70,000/P>A for Data Analysts"/>
 
 
 ### Based on area  
@@ -159,7 +160,7 @@ Data analysts in the Bangalore area reported making Rs.12,89,859 a year.   
 Pharmaceutical data analysts in the Chennai region reported making Rs. 70,000 yen a month. 
  SAS programmers in the New Delhi region are reported to have made Rs.20,000 a month
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance5.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance5.png"/>
 
 ## What skills does it take to become a Healthcare Data Scientist?
 
@@ -220,6 +221,6 @@ Now that we have reached the end of the blog, I hope it has served the purpose o
 <a href="https://analyticsindiamag.com/what-does-it-take-to-become-a-healthcare-data-scientist/" target="_blank">https://analyticsindiamag.com/what-does-it-take-to-become-a-healthcare-data-scientist/</a>
 
 <a href="https://www.springboard.com/library/data-science/healthcare-industry-jobs/" target="_blank">https://www.springboard.com/library/data-science/healthcare-industry-jobs/</a>
-<a herf="https://www.hsph.harvard.edu/health-data-science/
+<a href="https://www.hsph.harvard.edu/health-data-science/
 " target="_blank">https://www.hsph.harvard.edu/health-data-science/
 </a>

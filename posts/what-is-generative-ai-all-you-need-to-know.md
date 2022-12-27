@@ -21,7 +21,7 @@ tableData:
 
 # Why Has Generative AI For Deepfake And Synthetic Data Been So Popular Till Now?
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-1.jpg" style="width:100%" class="img" alt="An illustration shows a person's face getting scanned face with the help of deep fake AI for synthetic data."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-1.jpg" style="width:100%" class="img" alt="An illustration shows a person's face getting scanned face with the help of deep fake AI for synthetic data."/>
 
 **AI-generated deep fake** and **synthetic data** appears to be a very fascinating topic these days, with a developing trend. We've seen a lot of examples, and one of the most common examples of Deepfake and Synthetic data is Instagram or TikTok. Yes, these two crazily popular apps are powered by Deepfake.
 
@@ -42,7 +42,7 @@ On a daily basis, we are bombarded with misleading news and inaccurate informati
 
 Deepfakes have made headlines for face-swapping applications. While this is a very important application of the technology, it is only one of the many. As a result, this blog will undoubtedly assist you in becoming identified with some deep fake technologies:- **We also highlight the use cases for each of these applications.**   
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-2.jpg" style="width:100%" class="img" alt="An artistic illustration of a human face. The text reads, 'deep faking.' Four branches from deepfaking lists,  logos related to 'text generation', 'speech cloning,' lip-syncing,' and 'face-swapping.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-2.jpg" style="width:100%" class="img" alt="An artistic illustration of a human face. The text reads, 'deep faking.' Four branches from deepfaking lists,  logos related to 'text generation', 'speech cloning,' lip-syncing,' and 'face-swapping.'"/>
 
 ## **Highlights on DeepFake technology:-**   
 
@@ -87,7 +87,7 @@ So these were the few applications where Deepfake and synthetic AI were used, an
 
 - Ai-generated media frequently lacks in various fields of arts and crafts, and they don't appear to produce clear and useful output.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-3.png" style="width:100%" class="img" alt="A man's face is being been analyzed and scanned for Synthetic media that can be used in augmented reality and mixed reality."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-3.png" style="width:100%" class="img" alt="A man's face is being been analyzed and scanned for Synthetic media that can be used in augmented reality and mixed reality."/>
 
 ## **How is synthetic media used in business communication?**   
 If you've heard about all of the numerous varieties of virtual reality, you might be perplexed by this field of technology. I **t also doesn't help that it's frequently associated with other concepts like augmented reality and mixed reality.**

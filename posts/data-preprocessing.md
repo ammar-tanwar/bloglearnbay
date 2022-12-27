@@ -39,7 +39,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 * Learning algorithms understand the only number, converting text image to number is required.
 * Preprocessing refers to transformation before feeding to Machine Learning.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data.png" width="400px" class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data.png" width="400px" class="img"  />
 
 2. StandardScaler
 
@@ -49,7 +49,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data1.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data1.png"   class="img"  />
 
 3. MinMaxScaler
 
@@ -60,7 +60,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data2.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data2.png"   class="img"  />
 
 
 4. Robust Scaler
@@ -72,7 +72,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data3.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data3.png"   class="img"  />
 
 
 
@@ -85,7 +85,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data4.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data4.png"   class="img"  />
 
 
 6. Binarization

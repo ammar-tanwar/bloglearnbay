@@ -39,14 +39,14 @@ _People are still changing how they shop in early 2021, according to a survey fr
 _But do you know even after such massive demand so many retail and e-comm employees are losing their jobs?_
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png" style="width: 100%;" /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png" style="width: 100%;" />
 
 
 
 On the other hand, there is also an intelligent community of professionals to reach the top of success. And you can also be a part of that community. _To know how, please continue reading this blog. 
  
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce2.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce2.png"   class="img"  />
 
 
 
@@ -94,7 +94,7 @@ Data science is changing how people shop and how businesses order and ship thing
 
 Every year, the number, diversity, and usefulness of retail data increase dramatically. When retailers make decisions based on data, they use data science to make money. This is how businesses are using <a href="https://blog.learnbay.co/necessity-of-machine-learning-in-retail" target="_blank">data science in retail</a> to stay competitive, improve customer service, and make more money and sales. And, as technology advances, data science in the retail business will have much more to give!
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce3.png" class="img"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce3.png" class="img"/>
 
 
 
@@ -141,7 +141,7 @@ This means that more and more businesses see the benefits of using data science 
 People who work in <a href="https://www.payscale.com/research/US/Job=Data_Scientist/Salary/749e089b/Supply-Chain" target="_blank">Supply Chain data science</a>make on average 14.3 lakhs a year, according to the 56 profiles. They make between 5.0 lakhs and 28.2 lakhs per year. Those in the top 10% earn more than £18.4 lakhs a year.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce4.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce4.png"   class="img"  />
        
 
 Why are Data Scientists getting paid at a higher level? 
@@ -153,7 +153,7 @@ Why are Data Scientists getting paid at a higher level?
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce5.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce5.jpg"   class="img"  />
 
 * Amazon: Rs 5 lakh to Rs 45.57 lakh | Rs 15.56 lakh (average)  
 * Flipkart: Rs 14.5 lakh to Rs 42 lakh | Rs 24.2 lakh (average)
@@ -195,7 +195,7 @@ _It’s all about domain specializations at Learnbay, and one of them is Retail,
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce6.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce6.png"   class="img"  />
 
 
 Let’s take a look at what you’ll receive if you study with Learnbay:
@@ -235,7 +235,7 @@ So, let’s have a look at what Learnbay’s Supply Chain domain has to offer.
 * Recommendation System: This technology aids firms in anticipating customer behavior.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce7.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce7.png"   class="img"  />
 
 
 

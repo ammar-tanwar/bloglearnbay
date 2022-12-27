@@ -33,7 +33,7 @@ tableData:
 
 # What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-1.jpg" style="width:100%" class="img" alt="An illustration shows, two data scientists are discussing and analyzing a  data science capstone Project."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-1.jpg" style="width:100%" class="img" alt="An illustration shows, two data scientists are discussing and analyzing a  data science capstone Project."/>
 
 Capstone Project Is What You Need To Stand Out From Other Applicants During Recruitment
 
@@ -53,7 +53,7 @@ Recruiters usually offer an in-depth eye on your **capstone project** to know ho
 
 ## **What does the term "capstone project" refer to?**
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-2.jpg" style="width:100%" class="img" alt="An illustration shows several data science experts using multiple mediums such as phones, laptops, and tablets for capstone project certification."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-2.jpg" style="width:100%" class="img" alt="An illustration shows several data science experts using multiple mediums such as phones, laptops, and tablets for capstone project certification."/>
 
 A Capstone Project is a multifaceted work package that provides a culminating academic experience to the learners.
 
@@ -79,7 +79,7 @@ Every online course does not provide such a capstone project or a capstone proje
 
 If you want to learn  **Data science and AI**   for a successful career shift, we recommend you opt for courses with  **capstone projects**  and domain specialization.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-3.jpg" style="width:100%" class="img" alt="A group of  data science working professionals are busy in  discussion."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-3.jpg" style="width:100%" class="img" alt="A group of  data science working professionals are busy in  discussion."/>
 
 ### What is a domain-specialized capstone project? How does it help in career transition?
 
@@ -106,7 +106,7 @@ As an experienced candidate, when switching to a data science or AI career, you 
 
   Today many are opting for professional courses to improve the strength of their resume. But in reality, each resume gets around 10 seconds of attention from HR or the recruiter, so you need that extra mark on your resume over the other applicants. Adding the details of your industrial capstone project will do it. The recruiter will get an idea of how enterprising you are and how you can learn the new skills much faster and much better.
 
-  <img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-4.jpg" style="width:100%" class="img" alt="A data science professional is getting interviewed by an interview panel of four expert professionals."/></img>
+  <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-4.jpg" style="width:100%" class="img" alt="A data science professional is getting interviewed by an interview panel of four expert professionals."/>
 
   ### 5. Helps in attending interviews and case study
 

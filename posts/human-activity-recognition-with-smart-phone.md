@@ -195,7 +195,8 @@ plt.show()
 
  
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human1.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human1.png"   class="img"  />
+
 
 fig = plt.figure(figsize=(32,24))
 
@@ -211,7 +212,8 @@ plt.show()
 
  
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human2.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human2.png"   class="img"  />
+
 
 
 Click here to watch the video:

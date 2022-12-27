@@ -39,7 +39,7 @@ Python is also called as an object-oriented programming language i.e. OOP where 
 In Python, method overriding occurs when two methods with the same name accomplish distinct duties. Method overriding is nothing but a specific feature of object-oriented programming languages. It allows a subclass or child class to give the programme with certain attributes or a specific data implementation procedure that is already defined in the parent or superclass.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/over.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/over.jpg"   class="img"  />
 
 
 Method overriding allows a child class to modify functions defined by its ancestral classes. When the same returns, parameters, or names are entered in the subclass as in the parent class, the subclass’s implementation method overrides the parent class’s method. Method overriding is the term for this. In other words, the child class gets access to the parent class method’s properties and functions while also extending its own functions to the method.

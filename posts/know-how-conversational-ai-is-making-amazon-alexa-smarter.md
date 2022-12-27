@@ -19,7 +19,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-1.jpg" alt=" A 3rd generation of Amazon Alexa eco dot device." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-1.jpg" alt=" A 3rd generation of Amazon Alexa eco dot device." style="width:100%" class="img"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Conversational AI - The Magic Behind Seamless Voice Control Experience of Alexa</span>
 
@@ -33,7 +33,7 @@ Amazon has been working with _**neural networks,** the most advanced state of co
 
 Before, Alexa's algorithm was used to break down language into word parts or vocal sounds and then tried to string them together as seamlessly as possible. But it sounded chippy and robotic. So, Amazon Alexa works on neural networks which generate the whole text (<a href="https://blog.learnbay.co/text-stemming-in-nlp" target="_blank">text stemming in NLP</a>) in real-time, which sounds more like a human.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-2.jpg" alt="An AI bot greeting hello on a tablet display. This represents coversational AI technology" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-2.jpg" alt="An AI bot greeting hello on a tablet display. This represents coversational AI technology" style="width:100%" class="img"/>
 
 ## What is conversational AI?
 
@@ -47,7 +47,7 @@ A Conversational AI system is how people interact with computers. Conversational
 
 What exactly is Alexa? Alexa is the Amazon cloud-based service for voice and is available on more than 100 million Amazon and third-party devices. With Alexa, you can create natural voice experiences for customers, offering them various methods to engage with tech and use it every day.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-3.jpg" alt="An amazon alexa eco dot 2nd gen device controlled by alexa voice services (AVS)" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-3.jpg" alt="An amazon alexa eco dot 2nd gen device controlled by alexa voice services (AVS)" style="width:100%" class="img"/>
 
 **Alexa voice service (AVS)** created by Amazon replicating real-life conversations. Alexa captures your voice whenever you ask, "What's the weather likely to look like tomorrow? The recording is transmitted over the internet and then transferred it is sent to Amazon's Alexa Voice Services, which transforms it into commands, and is then able to recognize it. The system transmits the right output on your phone. When you inquire with Alexa about weather conditions, her response is provided in the form of an audio stream.
 
@@ -77,7 +77,7 @@ Before, ASR was simply an audio recording in a computer's mind. With ASR, comput
 
 Natural language understanding allows computers to understand what the speaker is saying and not just what they speak. This allows the voice technology of Alexa to conclude that you're likely seeking an accurate local weather forecast when you ask, " Alexa, what's it like outside?" At times, voice-first technologies are constructed using NLU, which is focused on recognizing patterns and meanings in human spoken language. A computer is able to understand the meaning of what you are saying without the need to express it in a particular way. Using your voice, you will appear in a real conversation.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-4.jpg" alt="A microphone symbol showing speech recognition via sound waves." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-4.jpg" alt="A microphone symbol showing speech recognition via sound waves." style="width:100%" class="img"/>
 
 Before NLU developing an app for weather that uses voice input required the creation of a list of different applications. The concept of the fact that "is it pouring rain" or "is it likely to rain" is the same thing. This kind of flexible voice experience allows it to provide a quicker, easy, more convenient, and more enjoyable way to interact with technology. Voice technologies are integrated into NLU, making it possible for developers to focus more on the design of effective voice experiences, and less on trying to figure out the meaning of what users are trying to convey.
 
@@ -115,7 +115,7 @@ Furthermore, when you use Alexa hunches or smart home devices that are connected
 
 These significant advancements were achieved in conversational and sophisticated voice assistants a few years ago, and <a href="https://www.learnbay.co/machine-learning-course-training-in-bangalore" target="_blank">machine learning</a> is how these advances were achieved.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-5.jpg" alt="A microphone symbol demonstrating the capability of AI assistants in various kinds of roles such as music, shopping, alarm etc." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-5.jpg" alt="A microphone symbol demonstrating the capability of AI assistants in various kinds of roles such as music, shopping, alarm etc." style="width:100%" class="img"/>
 
 ## How does VUI make human-machine interaction conversational?  
 

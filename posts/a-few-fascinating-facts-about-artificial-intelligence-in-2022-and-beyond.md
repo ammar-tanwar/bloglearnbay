@@ -20,7 +20,7 @@ tableData:
 
 <span style="color:blue; font-weight:bold; font-size:28px">List of AI Facts That Every Data Science Aspirant Should Know</span>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-1.jpg" style="width:100%" class="img" alt="A banner images titled, ' Fascinating Facts of AI.'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-1.jpg" style="width:100%" class="img" alt="A banner images titled, ' Fascinating Facts of AI.'"/>
 
 You must have been wondering how businesses were not gaining much traction from customers a few years back, and today, every company you see is reaching new heights and milestones. It's artificial intelligence (AI). AI has not just helped businesses but has improved customer satisfaction.
 
@@ -36,7 +36,7 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 
 ## Key Statistics of AI 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-2.jpg" style="width:100%" class="img" alt="An illustration shows an AI-based robot operating a  hologram image of a human via a laptop"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-2.jpg" style="width:100%" class="img" alt="An illustration shows an AI-based robot operating a  hologram image of a human via a laptop"/>
 
 - The artificial intelligence global market is expected to skyrocket from 58.3 billion in 2021 to a staggering 309.6 billion by 2026, with a CAGR of 39.7% .
 - AI is expected to contribute 15.7$ trillion to the global economy by 2023.
@@ -106,7 +106,7 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 
 **Sources:** <a href="https://voicebot.ai/2019/04/28/microsoft-releases-voice-assistant-usage-report-finds-apple-siri-and-google-assistant-tied-at-36-and-41-of-respondents-have-privacy-concerns/" target="_blank">Voicebot.ai</a>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-3.jpg" style="width:100%" class="img" alt="A bar graph shows the data for questions answered correctly by selected digital assistants,   Google Assistant, Siri, and Alexa.
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-3.jpg" style="width:100%" class="img" alt="A bar graph shows the data for questions answered correctly by selected digital assistants,   Google Assistant, Siri, and Alexa.
 The horizontal axis represents the types of input voice data e.g local, commerce, navigation, information, and command. The vertical axis represents the percentage of accuracy. 
 The data are as follows:
 Local-
@@ -151,7 +151,7 @@ Alexa: approx 65%"/>
 
 **Sources:** <a href="https://www.benzinga.com/pressreleases/22/08/n28571425/global-conversational-artificial-intelligence-ai-and-voice-cloning-market-report-2022-2027-leading" target="_blank">beniznga</a>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-4.png" style="width:100%" class="img" alt="A bar graph of estimated revenue earned by natural language processing around the world.  The horizontal axis represents years, the vertical axis reresents the revenue in dollar. The data is as follows:
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-4.png" style="width:100%" class="img" alt="A bar graph of estimated revenue earned by natural language processing around the world.  The horizontal axis represents years, the vertical axis reresents the revenue in dollar. The data is as follows:
 2017 - less than 5 billion dollar
 2018 - approx. 5 billion dollar
 2019 - approx. 8 billion dollars

@@ -38,7 +38,7 @@ We can understand the working of the Random Forest algorithm with the help of fo
 * Step 1 − First, start with the selection of random samples from a given dataset. Do sampling without replacement.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm1.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm1.png"   class="img"  />
 
 
 Sampling without replacement stats that the training data split into several small samples and then the result we get is a combination of all the data set. If we have 1000 features in a data set the splitting will happen with 10 features each in a small training data and all split training data contains equal no of features. The result is based on which training data has the highest value.
@@ -281,7 +281,7 @@ plt.legend(loc="lower right")
 plt.show()
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm2.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm2.png"   class="img"  />
 
 
 
@@ -342,7 +342,7 @@ plot_confusion_matrix(predictions, normalize=False)
 plt.show()
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm3.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm3.png"   class="img"  />
 
 
 

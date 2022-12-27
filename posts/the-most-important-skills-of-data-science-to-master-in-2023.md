@@ -21,7 +21,7 @@ tableData:
 
 # The Most Important Skills of Data Science To Master in 2023?
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-1.jpg" style="width:100%" class="img" alt="A human hand is busy on a laptop keyboard earning data science skills. A robotic hand pops up from the laptop screen."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-1.jpg" style="width:100%" class="img" alt="A human hand is busy on a laptop keyboard earning data science skills. A robotic hand pops up from the laptop screen."/>
 
 The Data Science Key Skills Are Not Found Easily In A Data Scientist
 
@@ -63,7 +63,7 @@ Organizations operate Machine Learning algorithms to predict any course of actio
 
 -Box and whiskers plot using ggplot2
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-2.jpg" style="width:100%" class="img" alt="An illustration shows a person setting up a cloud computing infrastructure. The setup consists of a laptop, storage devices, and the cloud computing logo."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-2.jpg" style="width:100%" class="img" alt="An illustration shows a person setting up a cloud computing infrastructure. The setup consists of a laptop, storage devices, and the cloud computing logo."/>
 
 ###  Cloud Computing   
 
@@ -94,7 +94,7 @@ Data science for Python focuses on the abilities to handle libraries and tools l
 
 - Expression pattern identification
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-3.jpg" style="width:100%" class="img" alt="An illustration of two scientists working on deep learning techniques in a lab."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-3.jpg" style="width:100%" class="img" alt="An illustration of two scientists working on deep learning techniques in a lab."/>
 
 ###  Deep Learning  
 
@@ -133,7 +133,7 @@ Artificial intelligence automates data analytics systems for forecasting and act
 
 ## 2. Non-Technical Skills
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-4.jpg" style="width:100%" class="img" alt="An image illustrates the various technical and non-technical skills required to become a data science specialist. Here, technical skills are data visualization, programming, statistics, etc., and  Non-technical are include good business acumen, strong communication skills, and so on. There is an illustration of a data scientist in the middle of the image."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-4.jpg" style="width:100%" class="img" alt="An image illustrates the various technical and non-technical skills required to become a data science specialist. Here, technical skills are data visualization, programming, statistics, etc., and  Non-technical are include good business acumen, strong communication skills, and so on. There is an illustration of a data scientist in the middle of the image."/>
 
 Soft skills in data science  are also as important as the technical skills required to become a data scientist. As I was sharing with you earlier, data scientists have to transfer analysis and insight to other teams and colleagues. In Addition, soft skill in data science is like a touch-up that will bloom your hard work and research as a data scientist.
 

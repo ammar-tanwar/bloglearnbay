@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' Application of AI in Social Media Content Optimization' contains the logo of YouTube, Facebook, Twitter, and Instagram."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' Application of AI in Social Media Content Optimization' contains the logo of YouTube, Facebook, Twitter, and Instagram."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Know How Meta, Instagram & Twitter are Utilizing the Big Benefits of AI in Social Media</span>
 
@@ -42,7 +42,7 @@ Instagram, today's most popular social networking app for sharing photos and vid
 
 ### How does Meta (formerly Facebook) make use of AI in social media?  
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-2.jpg" style="width:100%" class="img" alt="An image shows the logo of Meta(formerly Facebook)."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-2.jpg" style="width:100%" class="img" alt="An image shows the logo of Meta(formerly Facebook)."/>
 
 ### Meta is improving its deep learning methodologies    
 
@@ -112,7 +112,7 @@ Each time the user opens the app, The Instagram algorithm instantly evaluates al
 
 If you DM, follow, or comment on each other's posts? If certain users seem to interact with you a lot in the past, you're more likely to see their newly posted content frequently. (crucial for businesses: Active community management, which includes responding to D.Ms and comments, which in return improves brand visibility on **Instagram**).
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-3.jpg" style="width:100%" class="img" alt="An image shows the logo of Instagram."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-3.jpg" style="width:100%" class="img" alt="An image shows the logo of Instagram."/>
 
 ### 2. Interest:-   
 

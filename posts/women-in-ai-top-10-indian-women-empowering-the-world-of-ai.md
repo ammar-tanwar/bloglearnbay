@@ -23,7 +23,7 @@ tableData:
 
 <span style="color:blue;">Know The Women AI Leaders From India, Excelling In The Tech World.</span>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-1.png" style="width:100%" class="img" alt="A banner image titled, ' Women Empowering the World of AI.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-1.png" style="width:100%" class="img" alt="A banner image titled, ' Women Empowering the World of AI.'"/>
 
 A decade ago, very few Indian women used to choose the tech field as their career. Even after owning 100 times better technical intelligence, so many Indian women lost themselves in the crowd. Their intelligence remained limited and unrevealed under the stacks of certificates. Here, always the barrier has been the fear of not getting adopted by the fast-track corporate culture.
 
@@ -49,7 +49,7 @@ Here are the top Indian **women in AI** or better to say top Indian women leader
 
 **<span style="color:green;">"A true attestation of our sustainable business model and the vast MSME market opportunity ahead of us. This fresh equity round will energize us to scale faster to continue doing what we do best, bringing more small business entrepreneurs into the fold of financial inclusion."</span>**  **Hardika Shah.** 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-2.jpg" style="width:100%" class="img" alt="An image of Hardika Shah."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-2.jpg" style="width:100%" class="img" alt="An image of Hardika Shah."/>
 
 She is the Founder and the CEO of Kinara capital. Hardika has 20 years of experience in management consulting with Accenture lead teams and executes large global AI projects in the EU, U.S, and the Asia Pacific. She was a pro-bono mentor for a decade serving multiple universities and the best social entrepreneurship program.
 
@@ -61,7 +61,7 @@ She has set an example for all the Indian women in AI.
 
 ### 2. Aunkita Nandi     
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-3.jpg" style="width:100%" class="img" alt="An image of Aunkia Nandi."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-3.jpg" style="width:100%" class="img" alt="An image of Aunkia Nandi."/>
 
 Aunkita Nandi is the co-founder and director of Tier-5 technology solution Pvt Ltd. She started the Tier-5 at 25 with Jon Vaughn in 2016. In less than 6 months, Tier-5 was launched in Kolkata with its office in US Indiana. They invested around 5 lakhs (Approx. 8,000$) with two employees and rented computers. One was a developer, and one was an HR personnel.
 
@@ -71,7 +71,7 @@ Tier-5 is a service-based company and got its first few clients from Facebook ma
 
 **<span style="color:green;">"Women have the skill required to be at the top or should ideally acquire the quant plus coding skills needed" </span>**  **- Ishu Jain**.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-4.jpg" style="width:100%" class="img" alt="An image of  Ishu Jain."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-4.jpg" style="width:100%" class="img" alt="An image of  Ishu Jain."/>
 
 Ishu Jain is the director and head of central analytics at Swiggy. She has 15 years of excellent knowledge in analytical insight and ML models for organizations like Genpact, Fractal, Swiggy, and Target.
 
@@ -85,7 +85,7 @@ Ishu Jain leads a team of 100+ data scientists and analysts for functions like g
 
 ### 4. Lakshmi Vaidesswaran  
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-5.jpg" style="width:100%" class="img" alt="An image  Lakshmi Vaidesswaran"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-5.jpg" style="width:100%" class="img" alt="An image  Lakshmi Vaidesswaran"/>
 
 Lakshmi Vaideeswaran is the VP at Tiger analytics. She is a pioneer in technological development and commercialization with 30 years of experience. She offers her clients high value from their customers by tiger analytics.
 
@@ -96,13 +96,13 @@ She was even added to the list of Top 50 STEM scientists in the country by the c
 
 ### 5.Neharika Agarwal
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-6.jpg" style="width:100%" class="img" alt="An image of  Neharika Agarwal"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-6.jpg" style="width:100%" class="img" alt="An image of  Neharika Agarwal"/>
 
 Neharika Agarwal is the vice president and the head of business intelligence and analytics for Bharti Axa Life Insurance. She has 12 years of experience in integrating data analytics and technology for decision-making and implementation of strategies. She excelled in solving customer issues for industries like FMCG, BFSI, and automobiles. Nehariks is the leader of 14 data science members and reports at Bharti AXA life insurance. She has even established a center of excellence culture inside the organization.
 
 ### 6. Manisha Bantia  
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-7.jpg" style="width:100%" class="img" alt="An image of Manisha Bantia."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-7.jpg" style="width:100%" class="img" alt="An image of Manisha Bantia."/>
 
 Manisha Bantia is the VP of data analytics at Fiserv global services and has 20 years of experience in the technology industry. Currently, she is the Vice president of **the Artificial intelligence** center of excellence at Fiserv global services.
 
@@ -110,13 +110,13 @@ She has a team of 250 members for digital analytics with **AI** visualization fo
 
 ### 7.Kamiya Motwani     
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-8.jpg" style="width:100%" class="img" alt="An image of Kamiya Motwani"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-8.jpg" style="width:100%" class="img" alt="An image of Kamiya Motwani"/>
 
 Kamiya Motwani is the 2nd senior data science manager at Walmart global tech, India. Currently, she is building a team of data scientists who work primarily to build an optimized recommendation engine for the grocery domain, providing personalized substitutes that start from building a state-of-art neural network model and substitution for out-of-stock items during order fulfillment. Kamiya has even worked a lot on click prediction for advertisements and has experience building <a href="https://blog.learnbay.co/regression-techniques-in-machine-learning" target="blank">machine learning</a> from data. Before holding a prominent position in Walmart, she worked with top organizations like Oracle corporation and Yahoo Inc.
 
 ### 8.Divya Mittal
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-9.jpeg" style="width:100%" class="img" alt="An image of  Divya Mittal"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-9.jpeg" style="width:100%" class="img" alt="An image of  Divya Mittal"/>
 
 Divya Mittal is the director of data science at American Express. She has 11 years of professional experience in financial service and banking, managing credit risk in the customer life cycle from credit underwriting of new customers.
 
@@ -124,13 +124,13 @@ Divya works hard to make data-driven credit decisions for small and mid-corporat
 
 ### 9.Preet Saxena   
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-10.jpg" style="width:100%" class="img" alt="An image of  Preet Saxena"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-10.jpg" style="width:100%" class="img" alt="An image of  Preet Saxena"/>
 
 Preet Saxena is the group leader of global analytics practice at Concentrix. Preet has 14 years of experience in research analytics (delivery and solutions), production, and consultation. Now she is leading the center of excellence for social and brand analytics, moderation analytics, content evaluation, and people analytics. She was the leader in the 2019 Everest group - analytics services PEAK matrix.
 
 ### 10.Sandhya Gopalan   
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-11.jpg" style="width:100%" class="img" alt="An image of Sandhya Gopalan"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-11.jpg" style="width:100%" class="img" alt="An image of Sandhya Gopalan"/>
 
 Sandhya Gopalan practices AI, MLops, and data and analytics practices at EY. At EY, she creates, builds, and deploys AI and ML at a large scale for global clients across various sectors. She even scaled MLOps solutions and built target architecture with working client enterprises, data architects, businesses, and CDOs. This has enabled data-driven transformation for sizable financial service clients.
 

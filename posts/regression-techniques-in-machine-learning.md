@@ -71,7 +71,7 @@ Where Y is the target variable, m is the slope of the line, X is the independent
 It is used for classification problems with a linear dataset. In layman’s term, if the depending or target variable is in the binary form (1 0r 0), true or false, yes or no. It is better to decide whether an occurrence is possibly either success or failure.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech1.png" alt="A scatter plot of salary versus year of experience. The vertical axis represents salary (in rupees)  and ranges from 4000 to 12000, in equal intervals of 2000. The horizontal axis represents (Years of Experience) and ranges from 2 to 10 in equal intervals of 2. The best-fit straight line through the data points has a positive slope."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech1.png" alt="A scatter plot of salary versus year of experience. The vertical axis represents salary (in rupees)  and ranges from 4000 to 12000, in equal intervals of 2000. The horizontal axis represents (Years of Experience) and ranges from 2 to 10 in equal intervals of 2. The best-fit straight line through the data points has a positive slope."/>
 
 
 ## Additional point   
@@ -93,7 +93,7 @@ The polynomial regression suits the least-squares form. The purpose of an analys
 The formula for this Y=  _β0+ β0x1+e_
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech2.png" alt="A graph representing the sigmoid curve for the logistic model and the linear line for the linear model."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech2.png" alt="A graph representing the sigmoid curve for the logistic model and the linear line for the linear model."/>
 
 
 Additional  features: 
@@ -122,7 +122,7 @@ Additional points:
 It is a method that used when the dataset having multicollinearity which means, the independent variables are strongly related to each other. Although the least-squares estimates are unbiased in multicollinearity, So after adding the degree of bias to the regression, ridge regression can reduce the standard errors.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech3.png" alt="A scatter plot with an x-axis and y-axis representing three lines, one linear and two curved lines for ridge expression"></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech3.png" alt="A scatter plot with an x-axis and y-axis representing three lines, one linear and two curved lines for ridge expression">
 
 
 
@@ -141,7 +141,7 @@ It is a method that used when the dataset having multicollinearity which means, 
 Lasso is an abbreviation of the Least Absolute shrinkage and selection operator. This is similar to the ridge regression as it also analyzes the absolute size of the regression coefficients. And the additional features of that are it is capable of reducing the accuracy and variability of the coefficients of the Linear regression models.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech4.png" alt="A graph represents the x-axis (error) and y-axis (Model complexity) with 3 curved lines for measuring optimum model complexity."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech4.png" alt="A graph represents the x-axis (error) and y-axis (Model complexity) with 3 curved lines for measuring optimum model complexity."/>
 
 
 ### Additional points     

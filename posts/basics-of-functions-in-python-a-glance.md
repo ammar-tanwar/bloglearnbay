@@ -19,7 +19,7 @@ tableData:
   ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic-python-1.jpeg" style="width:100%" class="img" alt="An illustration shows a girl seated in a chair in front of a desktop screen effectively transforming data using Python functions."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic-python-1.jpeg" style="width:100%" class="img" alt="An illustration shows a girl seated in a chair in front of a desktop screen effectively transforming data using Python functions."/>
 
 Transforming the data in an effective way and then utilizing them in an optimized manner while programming is known as Functions in python. Also, executing the block only when it is called is known as a function.
 
@@ -115,7 +115,7 @@ print("The Product of: ", multiply_num(num1,num2) <br>
 The Product of: 30 <br>
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic-python-2.jpeg" style="width:100%" class="img" alt="An example of a Python recursion with several recursion cases."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic-python-2.jpeg" style="width:100%" class="img" alt="An example of a Python recursion with several recursion cases."/></img>
 
 ###  Recursive Functions in Python
 

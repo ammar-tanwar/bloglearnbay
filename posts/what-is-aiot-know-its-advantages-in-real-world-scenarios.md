@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-1.jpg" style="width:100%" class="img" alt="A banner image representing the use of IoT in various domains like automotive, electrical, etc.  This indicates the development of AIoT."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-1.jpg" style="width:100%" class="img" alt="A banner image representing the use of IoT in various domains like automotive, electrical, etc.  This indicates the development of AIoT."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">IoT is Approaching the Next-gen Advancement Via AIoT</span>
 
@@ -35,7 +35,7 @@ Let's start with IoT (the Internet of Things).
 
 IoT technology can be compared to the digital nervous system. On the other hand, artificial intelligence can be compared to the system's brain. Combining the two (Artificial intelligence and IoT) results in a system capable of self-learning, self-performance, self-decision-making, and self-change. And that's invented the power of **AIoT- 'Artificial intelligence of Things.'**
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-2.jpg" style="width:100%" class="img" alt="An image represents the applications of IoT into equipment such as wearable gear, digital assistants, sensors, gadgets etc."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-2.jpg" style="width:100%" class="img" alt="An image represents the applications of IoT into equipment such as wearable gear, digital assistants, sensors, gadgets etc."/>
 
 Without first comprehending the Internet of Things, you can't correctly grasp AIoT. The Internet of Things can undoubtedly assist devices in connecting to the Internet. This can apply to appliances, digital assistants, sensors, wearable technology, and other tools. The gadgets with such equipment and technologies can exchange information, gather data, and process it. Artificial intelligence occurs when a system completes a series of tasks or learns from data in a way that appears smart and intelligent.
 
@@ -59,7 +59,7 @@ For instance:- The AI in question is always looking for things that could be imp
 
 We should expect to see many more unique and revolutionary applications of AIoT in our homes, businesses, and communities as technological innovation develops.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-3.jpg" style="width:100%" class="img" alt="Four professionals are shaking their hands. They are connected through numerous dots, which indicates the application of AIoT in business communication. "/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-3.jpg" style="width:100%" class="img" alt="Four professionals are shaking their hands. They are connected through numerous dots, which indicates the application of AIoT in business communication. "/>
 
 AIoT can help businesses to improve communication between various departments within an organization. Additionally, AIoT can help to enhance security by providing better surveillance and identifying potential threats.
 
@@ -81,7 +81,7 @@ The retail industry has undergone numerous changes as a result of recent technol
 
 Reduced expenses are one advantage firms can gain from automating operations and procedures. AIoT simplifies and optimizes the way business is done by leveraging AI technology to reduce the impact of productivity congestion.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-4.jpg" style="width:100%" class="img" alt="An AIoT-powered automated car runs on a road. "/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-4.jpg" style="width:100%" class="img" alt="An AIoT-powered automated car runs on a road. "/>
 
 ## Top Applications of AIoT in today's scenario:-      
 
@@ -109,7 +109,7 @@ In addition to this, AIoT devices aid in altering human behavior by measuring pa
 
 ### 3. Smart Homes:-    
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-5.jpg" style="width:100%" class="img" alt="A smart home equipped with AIoT-powered devices and appliances."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-5.jpg" style="width:100%" class="img" alt="A smart home equipped with AIoT-powered devices and appliances."/>
 
 <a href="https://www.youtube.com/watch?v=8DUDgqR-6jI" target="_blank">Smart homes</a> are a significant concept associated with the consumer market. Devices such as home security systems, thermostats, lighting, and cameras are included in these homes. All of these devices use Bluetooth and WiFi, which is a critical technology that allows these smart homes to share data and store it in a database for an ecosystem. However, incorporating **AIoT** into such technologies increases their efficacy and makes it easier for AI to use monitoring cameras, lights, and other technologies without human intervention.
 

@@ -19,7 +19,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-1.jpg" alt="A desktop monitor displays a pie chart and a bar graph, side-by-side. The accompanying text reads, 'Hyperautomation and Its Benefits to Businesses and IT Processes.'" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-1.jpg" alt="A desktop monitor displays a pie chart and a bar graph, side-by-side. The accompanying text reads, 'Hyperautomation and Its Benefits to Businesses and IT Processes.'" style="width:100%" class="img"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">Learn How Hyperautomation Helps in Enhancing Business and IT Processes!</span>
 
@@ -35,7 +35,7 @@ It is helpful to look at specific use cases and the technological facts that ena
 
 ## Automation vs. Hyperautomation:-  
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-2.jpg" alt="An image of several types of applications that can be handled specifically through the process of automation." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-2.jpg" alt="An image of several types of applications that can be handled specifically through the process of automation." style="width:100%" class="img"/>
 
 It might be difficult to tell the difference between automation and hyperautomation. The accomplishment of a repetitive task by automation requires no human involvement. It usually takes place on a smaller scale, producing solutions intended to handle specific jobs.
 
@@ -49,7 +49,7 @@ Hyperautomation assists in moving your business one step ahead and enables you t
 
 One of the major subsets of hyperautomation is Hyperautomation Uipath; it is a tool that allows businesses to automate various processes by leveraging features like machine learning, natural language processing (<a href="https://blog.learnbay.co/nlp-and-deep-learning-for-data-scientists" target="_blank">NLP</a>), and sophisticated optical character recognition, through which robots can handle numerous tasks. Additionally, the firm experienced a substantial increase in production and efficiency.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-3.jpg" alt="An graphic labelled RPA consists of a robot and a laptop, demonstrating robotic process automation (RPA)" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-3.jpg" alt="An graphic labelled RPA consists of a robot and a laptop, demonstrating robotic process automation (RPA)" style="width:100%" class="img"/>
 
 ## Is hyperautomation a replacement for RPA? (Robotic process automation)?  
 
@@ -83,7 +83,7 @@ There are many benefits to hyper automation, but one of the most prominent is im
 
 Furthermore, integrating AI and ML in Hyperautomation enables the development of digital twins, which are crucial in virtual representations of tangible assets and progress.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-4.jpg" alt="An images related to ROI augmentation." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-4.jpg" alt="An images related to ROI augmentation." style="width:100%" class="img"/>
 
 ### ROI augmentation:- 
 

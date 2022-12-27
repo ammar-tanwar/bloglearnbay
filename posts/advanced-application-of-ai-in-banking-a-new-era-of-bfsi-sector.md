@@ -19,7 +19,7 @@ tableData:
 
 <span style="color:blue; font-weight:bold; font-size:28px">  Know How AI in Banking and Finance is Leading Us to Super Secure and Worry-free Banking Experiences! </span>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-1.jpg" alt="An illustration of a bank that contains a chat bubble represents the the application of AI in Banking. The accompanying text reads, 'A New Era of BFSI Sector.'" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-1.jpg" alt="An illustration of a bank that contains a chat bubble represents the the application of AI in Banking. The accompanying text reads, 'A New Era of BFSI Sector.'" style="width:100%" class="img"/>
 
 Standing in long queues for a banking service or waiting a week to do a money transfer is now like an olden days story.
 
@@ -31,7 +31,7 @@ We can all agree that AI has developed to the point where we can confidently for
 
 It is not only providing better methods to handle data and improve customer experience but also simplifying, speeding up, and redefining traditional processes to make them more efficient. By offering higher-quality products and services, this transformation benefits banks and their customers.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-2.jpg" alt="A robot hand holding a bank model represents applications of AI in banking." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-2.jpg" alt="A robot hand holding a bank model represents applications of AI in banking." style="width:100%" class="img"/>
 
 ## Why is the application of AI in the banking and finance sector mandatory?
 
@@ -55,7 +55,7 @@ Using artificial intelligence in banking has several advantages, but one of the 
 
 AI brings many benefits to the finance industry, one of which is its ability to handle large data sets. As a result, it's a valuable tool for financial analysis since it can handle massive amounts of data far faster than a human could.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-3.jpg" alt="A smartphone display shows a  mobile banking app powered by AI." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-3.jpg" alt="A smartphone display shows a  mobile banking app powered by AI." style="width:100%" class="img"/>
 
 ## 9 sorts of applications where AI has played a prominent role in advancing the banking and finance industry:-   
 
@@ -91,7 +91,7 @@ There are a number of forecasting techniques to boost bank income consistently, 
 
 But the banks preferably used predictive modeling for a long time to evaluate risk in loan underwriting and fraud detection. However, what predictive modeling can accomplish for banks is only getting started. There are lots of room to explore and invent.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-4.jpg" alt="A man whose face is being scanned using artificial face recognition technology." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-4.jpg" alt="A man whose face is being scanned using artificial face recognition technology." style="width:100%" class="img"/>
 
 ### 4. Artificial face recognition:-    
 
@@ -118,7 +118,7 @@ Virtual assistants can have a positive impact on customer experience through per
 
 Banks play a significant role in the provision of credit, yet providing loans has long been seen as risky. In the past, banks heavily relied on historical credit information to assess an applicant's loan risk. However, thanks to AI-assisted underwriting, banks can now have a more comprehensive understanding of potential borrowers, enabling them to make well-informed decisions when approving loans.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-5.jpg" alt="A green circuit board with the face of an AI bot." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-5.jpg" alt="A green circuit board with the face of an AI bot." style="width:100%" class="img"/>
 
 ### 8. Anti-money laundering shrieks:-     
 

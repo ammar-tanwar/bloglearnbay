@@ -26,7 +26,7 @@ tableData:
 
 Gaussian distribution is a bell-shaped curve, it follows the normal distribution with the equal number of measurements right side and left side of the **mean** value. Mean is situated in the centre of the curve, the right side values from the mean are greater than the mean value and the left side values from the mean are smaller than the mean. It is used for mean, median, and mode for continuous values. You all know the basic meaning of mean, median, and mod. The mean is an average of the values, the median is the centre value of the distribution and the mode is the value of the distribution which is frequently occurred. In the[ normal distribution](https://en.wikipedia.org/wiki/Normal_distribution), the values of mean, median, and are all same. If the values generate skewness then it is not normally distributed. The normal distribution is very important in statistics because it fits for many occurrences such as heights, blood pressure, measurement error, and many numerical values.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gaussian1.GiF"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gaussian1.GiF"   class="img"  />
 
 
 
@@ -36,7 +36,7 @@ There is a property of Gaussian distribution which is known as[ Empirical formul
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gaussian2.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gaussian2.png"   class="img"  />
 
 
 The empirical rule also referred to as the three-sigma rule or 68-95-99.7 rule, is a statistical rule which states that for a normal distribution, almost all data falls within three standard deviations (denoted by σ) of the mean (denoted by µ). Broken down, the empirical rule shows that 68% falls within the first standard deviation (µ ± σ), 95% within the first two standard deviations (µ ± 2σ), and 99.7% within the first three standard deviations (µ ± 3σ).
@@ -62,7 +62,7 @@ x = np.linspace(mu - 3*sigma, mu + 3*sigma, 100)
 plt.plot(x, stats.norm.pdf(x, mu, sigma))
 
 plt.show()[ ](https://www.learnbay.co/data-science-course/wp-content/uploads/2020/03/akku.png)
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gaussian3.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gaussian3.png"   class="img"  />
 
 
 

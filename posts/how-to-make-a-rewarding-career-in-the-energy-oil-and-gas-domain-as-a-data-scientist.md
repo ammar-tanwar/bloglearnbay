@@ -23,10 +23,10 @@ The oil and gas sectors have been the most lucrative arena for most chemical eng
 
 Well, no need to get panic. We all know that if one road gets blocked, certainly there are other ways to escape. Data Science and AI are the ultimate escape route from this roadblock. This blog talks about data science in energy, oil, and gas industry. But first, let’s have a look into the ‘what’s happenings?’’
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward1.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward1.png" alt="A graphical representation of the unemployment rate between 2014 to 2020 in oil and gas industry"/>
 
 
-According to PetroLMI, which provides industry labor market information, the unemployment rate, especially for oil and gas workers, peaked at 16.1% in 2020, 26% below 2014 levels. People working in this industry are quitting by themselves due to the lack of growth. _People who have more experience are also not in the green zone. What is important to keep your ground in the domain is the skills that you have. You need to keep upskilling only then you will be safe. Even the oil and gas industry lives and breathes on data and has been going digital as well. It is very possible that not only will you retain your position in the industry but also have good pay as a[ Data science specialist](https://blog.learnbay.co/different-jobs-opportunities-of-data-science).
+According to PetroLMI, which provides industry labor market information, the unemployment rate, especially for oil and gas workers, peaked at 16.1% in 2020, 26% below 2014 levels. People working in this industry are quitting by themselves due to the lack of growth. _People who have more experience are also not in the green zone. What is important to keep your ground in the domain is the skills that you have. You need to keep upskilling only then you will be safe. Even the oil and gas industry lives and breathes on data and has been going digital as well. It is very possible that not only will you retain your position in the industry but also have good pay as a <a href="https://blog.learnbay.co/different-jobs-opportunities-of-data-science" target="_blank">Data science specialist</a>.
 
 Data Science salary is a hot topic everyone thinks about when becoming a data scientist. We all have heard praises about how lucrative the DS field is. So much so that data scientists are notorious for being pompous. But I wouldn’t blame them. A data scientist makes big bucks in any and every domain. It is a very versatile field, and the domain-specific approach of specific organizations makes it a game-changer for many people looking to make that career switch.
 
@@ -35,8 +35,7 @@ Now that we have established that DS is a very profitable field and there is a n
 
 ## Use of Data Science in Energy, Oil, and Gas Industry
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward2.png"   class="img"  /></img>
-
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward2.png" alt="An illustration of an oil and gas tanker with the caption DATA SCIENCE IN oil, Gas, and Energy Domain."/>
 
 Image by Author
 
@@ -63,7 +62,7 @@ As of now, we have established that data science has found its uses in various f
 Here are some high-level examples of how data science can help the oil and gas industry. 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward3.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward3.png" alt="A photo of an energy, oil, and gas factory site."/>
 
 
 
@@ -100,7 +99,14 @@ When we talk about entering into a specific specialization job market, it is ess
 Data science, a versatile field, is also very lucrative for various fields and companies. These are some of the oil and gas companies that are looking for data scientists.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward4.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward4.jpg" alt="A bar graph of salary scales of different companies hiring for Energy, oil, and gas data scientists such as,
+Schlumberger, Cambridge will offer INR 1,468,040 per annum
+Saudi Aramco offers INR 1,986,586 per annum
+Praxair pays INR 997,500 per annum
+BP will offer you INR 1,350,000 per annum
+The total is INR 1,080,000 per annum
+And finally, National Iranian Oil Co (NIOC) offers INR 1,750,000 per annum.
+"/>
 
 Image by Author
 
@@ -127,7 +133,6 @@ On average, it is estimated that a fresher in data science earns about Rs.6,98,4
 _Based on Experience_
 
 
-
 * Freshers: The average income of entry-level data scientists is Rs 511,468 per year for recent graduates.
 * 1-4 years of experience: With 1-4 years of experience, his early career data scientist earns an average of 773,442 rupees per year.
 * 5-9 years of experience: Employees with 5-9 years of experience can expect an annual income of 12-14 rupees. The average salary-scale income of mid-sized data scientists is Rs 1,367,306 per year.
@@ -138,7 +143,14 @@ _Based on Location (India)_
 The essential factor that can affect your salary as a scientist can vary from place to place based on the demand in the region. So let’s see how much you’ll get paid in a particular place.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward5.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward5.jpg" alt="An image representing the salary of Data scientists, in different Indian Cities such as, 
+In Mumbai, you’ll get paid Rs.788,789 per annum
+Chennai will pay you Rs.794,403 per annum
+In Bangalore, you will make Rs.984,488 per annum
+In Hyderabad, you can get Rs.795,023 per annum
+In Pune, you will get a salary of Rs.725,146 per annum
+In Kolkata, you will get paid Rs. 402,978 per annum
+"/>
 
 
 Image by Author
@@ -195,7 +207,7 @@ If you have stuck with this blog till now, you are either a budding DS aspirant 
 
 ### How would Learnbay help you in this domain?
 
-I highly recommend Learnbay because it provides one of the[ best data science training in Bangalore](https://www.learnbay.co/data-science-course/data-science-online-training-in-bangalore/). It is also available online and provides some of the best features even in online sessions. Let me tell you about some of the features, and then you will know why I love this institute so much. According to an article by[ analytics insight](https://www.analyticsinsight.net/learnbay-most-acknowledged-data-science-institute-offering-comprehensive-data-science-courses/), Learnbay is one of the most acknowledged data science institutes.
+I highly recommend Learnbay because it provides one of the <a href="https://www.learnbay.co/data-science-course/data-science-online-training-in-bangalore/" target="_blank">best data science training in Bangalore</a>. It is also available online and provides some of the best features even in online sessions. Let me tell you about some of the features, and then you will know why I love this institute so much. According to an article by <a href="https://www.analyticsinsight.net/learnbay-most-acknowledged-data-science-institute-offering-comprehensive-data-science-courses/" target="_blank">analytics insight</a>, Learnbay is one of the most acknowledged data science institutes.
 
 I prefer Learnbay so much because of the choices of electives it provides. Out of the leading electives, Oil and Gas is also one of them.
 
@@ -245,10 +257,10 @@ _These are some of the DS courses on the platform_.
 
 To conclude it is very evident by now that data science in energy, oil, and gas industry has been booming. You can make a good career in the discussed domain while being a data scientist if you follow the tips and tricks that have been mentioned above. I hope you continue learning and growing in the data science field and prove to be an asset to the community.
 
-To know more about Learnaby do check out[ Learnbay’s](https://www.learnbay.co/data-science-course/) socials
+To know more about Learnaby do check out <a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay’s</a> socials
 
-Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
+Twitter: <a href="https://twitter.com/Learnbay" target="_blank">https://twitter.com/Learnbay</a>
 
-Facebook:[ https://www.facebook.com/learnbay/](https://www.facebook.com/learnbay/)
+Facebook: <a href="https://www.facebook.com/learnbay/)" target="_blank">https://www.facebook.com/learnbay/</a>
 
-LinkedIn:[ https://www.linkedin.com/company/learnbay/](https://www.linkedin.com/company/learnbay/)
+LinkedIn: <a href="https://www.linkedin.com/company/learnbay/" target="_blank">https://www.linkedin.com/company/learnbay/</a>

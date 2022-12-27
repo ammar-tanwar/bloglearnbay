@@ -35,7 +35,7 @@ import pandas as pd
 
 import matplotlib.pyplot as plt Loading the Iris data iris_data= pd.read_csv("Iris.csv") 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris.jpg"   class="img"  />
 
 
 (150,5)
@@ -67,14 +67,14 @@ plt.grid()
 
 plt.show() [ ]
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris1.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris1.png"   class="img"  />
 
  2D scatter plot: iris.plot(kind="scatter",x="sepal_length"
  ,y="sepal_width")
 
 plt.show()[ ]
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris2.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris2.png"   class="img"  />
 
  2D scatter plot with the seaborn library : import seaborn as sns
 
@@ -89,7 +89,7 @@ sns.FacetGrid(iris,hue="species",size=4) \
 
 plt.show() 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris3.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris3.png"   class="img"  />
 
 
 
@@ -161,7 +161,7 @@ plt.plot(bin_edges[1:], cdf)
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris4.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris4.png"   class="img"  />
 
 
 

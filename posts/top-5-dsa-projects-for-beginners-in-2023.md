@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-1.jpg" style="width:100%" class="img" alt="An image titled, ' Top 5 DSA Projects for Beginners in 2023.'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-1.jpg" style="width:100%" class="img" alt="An image titled, ' Top 5 DSA Projects for Beginners in 2023.'"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> New to DSA Field! Having Any of these DSA Projects in Your CV is Bound to Grab the Attention of Recruiters </span>
 
@@ -36,7 +36,7 @@ Here, I will be discussing the top five data structure projects (ideas) which wi
 
 Data Structure is the field of Computer science that helps in the arrangement of data in a systematic and well-managed order. In this article, we have decoded some of the most innovative data structure projects that will undoubtedly assist you in creating and innovating such technologies.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-2.jpg" style="width:100%" class="img" alt="A foreground image titled DSA and a background image of a person using an laptop to learn the DSA skill."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-2.jpg" style="width:100%" class="img" alt="A foreground image titled DSA and a background image of a person using an laptop to learn the DSA skill."/>
 
 A data structure is a unique and crucial way for an organization to retrieve, process, and store data. In addition, there are other advanced and complex types of data structures that are designed so they can be utilized for organizing data for a particular purpose.
 
@@ -58,7 +58,7 @@ Let's approach the most effective data structure project ideas for DSA beginners
 
 K-D trees have a hierarchical data structure that can aid in the organization of a three-dimensional coordinate system. And most notably, the K-D trees organize and represent the spatial data. K-D data organized structures have a variety of uses in nearest neighbor and range searches.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-3.jpg" style="width:100%" class="img" alt="An image shows K-dimensional tree algorithm with the different leaf node of binary tree."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-3.jpg" style="width:100%" class="img" alt="An image shows K-dimensional tree algorithm with the different leaf node of binary tree."/>
 
 ### K-D tree working:-  
 
@@ -94,7 +94,7 @@ You may also illustrate how to use the address book in programs utilizing queuin
 
 ## 3. A data structure project for developing the BSTs' memoization technique:-  
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-4.jpg" style="width:100%" class="img" alt="An image shows a BST memoization technique that provides DFS(Depth-First Search) algorithm."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-4.jpg" style="width:100%" class="img" alt="An image shows a BST memoization technique that provides DFS(Depth-First Search) algorithm."/>
 
 BSTs are a particular kind of data structure that aids in offering a depth-first search (DFS) algorithm. This is suitable for any list and allows sequential searches for insertion, deletion, and lookup.
 
@@ -124,7 +124,7 @@ However, if done in a single element, it will appear as a straight line. This is
 
 ## 5. Developing a heap insertion time analysis through a data structure algorithm:-   
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-5.jpg" style="width:100%" class="img" alt="A DSA engineer is working on a laptop with a heap insertion technique."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-5.jpg" style="width:100%" class="img" alt="A DSA engineer is working on a laptop with a heap insertion technique."/>
 
 This is one of the best ideas within all the trending data structure projects, specifically in case you are approaching a project manager role.
 

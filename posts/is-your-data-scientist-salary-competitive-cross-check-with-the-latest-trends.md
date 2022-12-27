@@ -18,7 +18,7 @@ tableData:
 ---
 <span style="color:blue; font-weight:bold; font-size:28px"> Find out the 2023 trends of data scientist salaries in India. While scopes are there why settle for less!! </span>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-1.jpg" alt="Two data scientists sitting on opposite corners of a seesaw, which is made of a gold dollar coin image and a platform. The accompanying title reads, 'Is Your Data Scientist Salary Competitive? Cross check with letest trends.'" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-1.jpg" alt="Two data scientists sitting on opposite corners of a seesaw, which is made of a gold dollar coin image and a platform. The accompanying title reads, 'Is Your Data Scientist Salary Competitive? Cross check with letest trends.'" style="width:100%" class="img"/>
 
 **Data Scientist** has been the most desired job title in the last few years. It has been termed the <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century" target="_blank">"Sexiest Job of the 21st century"</a> for every right reason. A Data Scientist has the power to derive hidden insights from any unstructured data.
 
@@ -46,7 +46,7 @@ As of now, Bangalore has the most data science jobs and the highest data scienti
 
 Figure 1 shows the latest location-based salary variation across India for <a href="https://www.learnbay.co/data-science-course/different-job-roles-after-a-data-science-course/" target="_blank">data science job roles</a>.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-2.jpg" alt="A bar graph titled, 'Data Science Salary in India' lists the salary figures in different locations in India. The data are as follows (in decreasing order):
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-2.jpg" alt="A bar graph titled, 'Data Science Salary in India' lists the salary figures in different locations in India. The data are as follows (in decreasing order):
 Bangalore: 984,488 Indian Rupees
 Delhi: 919,207 Indian Rupees
 Hyderabad: 795,023 Indian Rupees
@@ -71,7 +71,7 @@ Well. In the last case, even though you are new to the data science field, you h
 
 Figure 2 provides an idea of the gradual variation from **entry-level data scientist salary** to the topmost level's one.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-3.jpg" alt="A bar graph titled, 'Entry-level Data Scientist Salary (IN PER ANNUM)' lists the salary figures based on the year of experience. The data are as follows (in decreasing order):
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-3.jpg" alt="A bar graph titled, 'Entry-level Data Scientist Salary (IN PER ANNUM)' lists the salary figures based on the year of experience. The data are as follows (in decreasing order):
 >=10 years: 35 lakhs and above in Indian Rupees
 5-9 Years: 12 to 14 lakh in Indian Rupees
 1-4 Years: 773,442 in Indian Rupees
@@ -91,7 +91,7 @@ Consider Bangalore city. Many SMEs are willing to pay AI professionals more than
 
 Figure 3 and figure 4 show the list of firms, where you can get the best data scientist salary.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-4.jpg" alt="A bar graph titled, 'MNCS BEST FOR SENIOR LEVEL' list of best MNCs for senior-level Data Scientists. The Data are as follows in(decreasing order) :
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-4.jpg" alt="A bar graph titled, 'MNCS BEST FOR SENIOR LEVEL' list of best MNCs for senior-level Data Scientists. The Data are as follows in(decreasing order) :
 Netflix: 1,51,42,717 Indian Rupees
 Airbnb: 1,45,69,245 Indian Rupees
 NVIDIA: 1,42,05,113 Indian Rupees
@@ -100,7 +100,7 @@ Genentech: 1,26,92,331 Indian Rupees" style="width:100%" class="img"/>
 
 **Figure 3: MNCs best for Senior level**
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-5.jpg" alt="A bar graph titled, 'MNCS ARE BEST FOR ENTRY-TO-MID SENIOR LEVEL' List of Salary ranges for entry-to-mid-level data scientists at the best multinational companies. The Data are as follows in(decreasing order) :
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-5.jpg" alt="A bar graph titled, 'MNCS ARE BEST FOR ENTRY-TO-MID SENIOR LEVEL' List of Salary ranges for entry-to-mid-level data scientists at the best multinational companies. The Data are as follows in(decreasing order) :
 Accenture: 1,986,586 Indian Rupees
 Impetus: 1,900,000 Indian Rupees
 Wipro Technology: 1,750,000 Indian Rupees
@@ -141,7 +141,7 @@ The average **Data Engineer salary in India** , according to Glassdoor, is ₹.8
 
 While the demand for IT professionals has decreased, the demand for data engineering specialists has surged dramatically, resulting in a considerable salary raise. When it comes to compensating for various analytics talents, advanced analytics and predictive modeling professionals out-paid other professions. Figure 5 presents ideas about data engineer salaries in India.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-6.png" alt="A bar graph titled, 'DATA ENGINEER SALARY IN INDIA' List of Data engineer salaries in India within certain intervals of experience in LPA. The data are as follows (in decreasing order):-
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-6.png" alt="A bar graph titled, 'DATA ENGINEER SALARY IN INDIA' List of Data engineer salaries in India within certain intervals of experience in LPA. The data are as follows (in decreasing order):-
 More than 15 years: 1,579,282 Indian Rupees
 5-9 Years: 1,218,983 Indian Rupees
 1-5 Years: 7,37,257 Indian Rupees" style="width:100%" class="img"/>

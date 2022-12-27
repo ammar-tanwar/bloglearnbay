@@ -19,7 +19,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata-1.png" style="width:100%" class="img" alt="A banner image titled, ' TOP PROGRAMMING LANGUAGES OF DATA SCEINECE'."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata-1.png" style="width:100%" class="img" alt="A banner image titled, ' TOP PROGRAMMING LANGUAGES OF DATA SCEINECE'."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">Explore The Most Used Programming Languages In Data Science</span>
 
@@ -47,7 +47,7 @@ Basically, from the database! Now, it's important that you know programming to w
 
 There are many different programming languages, but we have listed the top 10 most used programming languages in data science in 2022 for you to learn and redefine coding.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata-2.png" style="width:100%" class="img" alt="An illustration represents the most used programming language for data science. The illustration consists of a chart with a circle labeled 'top programming language' at the center. Multiples branches from these circles list out the logo of different programming languages such as Python, R, SQL Swift, C++, Scala, Java, CUDA-C, GO, and Kotlin."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata-2.png" style="width:100%" class="img" alt="An illustration represents the most used programming language for data science. The illustration consists of a chart with a circle labeled 'top programming language' at the center. Multiples branches from these circles list out the logo of different programming languages such as Python, R, SQL Swift, C++, Scala, Java, CUDA-C, GO, and Kotlin."/>
 
 <br>
 
@@ -70,7 +70,7 @@ SQL is one of the important programming languages in data science. The program h
 
 ## Swift
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata-3.png" style="width:100%" class="img" alt="A portrait of Jeremy Howard founding Researcher at fast.ai. accompanied with the quote,'PyTorch was created to overcome the gaps in Tensorflow. FastAl was built to fill gaps in tooling for PyTorch. But now we're hitting the limits of Python, and Swift has the potential to bridge this gap'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata-3.png" style="width:100%" class="img" alt="A portrait of Jeremy Howard founding Researcher at fast.ai. accompanied with the quote,'PyTorch was created to overcome the gaps in Tensorflow. FastAl was built to fill gaps in tooling for PyTorch. But now we're hitting the limits of Python, and Swift has the potential to bridge this gap'"/>
 
 It has been in practice. Mostly for IOS app development. However, the language is still relatively new and should be given some attention.
 

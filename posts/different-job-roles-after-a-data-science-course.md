@@ -61,7 +61,7 @@ Data analysts are responsible for a wide range of duties, including data visuali
 * Data analysts frequently collaborate with a range of teams inside a firm over time; for example, you might focus on marketing analytics for one month and then help the CEO utilise data to uncover reasons for the company’s growth.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/roles.jpg" alt="An image suggests data science roles such as Data analyst, Data scientist, Data Engineer, Data Architect, Satatsician, Machine Learning Engineer, and Market Research Analyst." class="img"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/roles.jpg" alt="An image suggests data science roles such as Data analyst, Data scientist, Data Engineer, Data Architect, Satatsician, Machine Learning Engineer, and Market Research Analyst." class="img"/>
 
 
 

@@ -38,7 +38,7 @@ We at Learnbay provides data science training in Bangalore with real time projec
 - Lifetime Access to **Classroom Videos/Recorded Session and LMS**
 - Flexibility to attend training **live online as well from Home.**
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-data-science-1.png" style="width:100%" class="img"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-data-science-1.png" style="width:100%" class="img"/>
 
 **Course Modules And Tools Covered :**
 
@@ -64,7 +64,7 @@ We at Learnbay provides data science training in Bangalore with real time projec
 - 0% EMI on Major Credit Card
 - **Card-less EMI** ( **6 Months** ) Available(Subjected to Loan Approval)
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-data-science-2.png" style="width:100%" class="img"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-data-science-2.png" style="width:100%" class="img"/>
 
 **Job Assistance Details** :
 

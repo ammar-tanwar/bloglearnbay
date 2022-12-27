@@ -28,7 +28,7 @@ The alarms rang in July 2017 when in a meeting of the National Governors Associa
 
 Though Sci-Fi movies like Terminator and Transformers have already taken us through time travel and shown us a glimpse of the future, the facts remain uncertain. Presently innovations and technology are fostering mankind. AI, Machine Learning has a long way to go before we determine the end of humanity. Although we are definitely preparing for an end to the human race with all the climate change and bee extinction, technology is not the one that is leading our way.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isai.png" style="width:100%" class="img"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isai.png" style="width:100%" class="img"/>
 
 # The evolution of Artificial Intelligence
 

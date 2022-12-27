@@ -21,7 +21,7 @@ tableData:
 
 <span style="color:blue; font-weight:bold; font-size:28px"> What is the Relationship between Cloud Computing and Machine Learning?<span>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-1.jpg" style="width:100%" class="img" alt="An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-1.jpg" style="width:100%" class="img" alt="An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing."/>
 
 Cloud computation and machine learning are ruling the industry for a long period of time. Both of these technologies are critical to the growth of both small and large businesses. It serves as an organization's technology hub. Organizations can use cloud computing to process large amounts of data and get relevant results in real-time. This blog delves into the various aspects of cloud computing and machine learning about how they help various firms.
 
@@ -51,7 +51,7 @@ The need to apply machine learning becomes apparent when one realizes the fact t
 
 ## Now - What is cloud computing?    
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-2.jpg" style="width:100%" class="img" alt="A representation of cloud computing through  Internet-hosted services."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-2.jpg" style="width:100%" class="img" alt="A representation of cloud computing through  Internet-hosted services."/>
 
 Cloud computing is a very applicable and reliable innovation more than a marketing term. To be more precise, the future of commercial technology depends on cloud computing. For many businesses, the cloud has already become an integral element of their business model, and this trend will continue.
 
@@ -110,7 +110,7 @@ The Internet of Things (<a href="https://youtu.be/8DUDgqR-6jI" target="_blank">I
 
 **So there were a few cloud-based machine learning applications that are quite trustworthy and useful in any organizational discipline.**
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-3.jpg" style="width:100%" class="img" alt="An image indicating the use of cloud computing services in an organizational department via a few cloud-based machine learning applications."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-3.jpg" style="width:100%" class="img" alt="An image indicating the use of cloud computing services in an organizational department via a few cloud-based machine learning applications."/>
 
 ## Final Thoughts:-
 

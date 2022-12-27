@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-1.jpg" alt="A robot wearing a chef outfit and holding a pan, resembling a real robot chef. The accompanying Text reads, 'The Innovation of Robot Chef is Thrilling The World! The Power of AI'
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-1.jpg" alt="A robot wearing a chef outfit and holding a pan, resembling a real robot chef. The accompanying Text reads, 'The Innovation of Robot Chef is Thrilling The World! The Power of AI'
 " style="width:100%" class="img"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">Robot Chefs Are the New Horizon of High-Demand Restaurants…No More Order Delays…</span>
@@ -28,7 +28,7 @@ Have you ever considered having your food prepared by a robot chef? Many contend
 
 The robot chef is a robotic system that can work as a chef in a restaurant, clean the kitchen, and prepare edible snacks. All it requires is a power source and a supply of raw materials. Having a robot that can do the work of multiple people would relieve human pressure in the restaurant industry.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-2.jpg" alt="A robot chef inside the kitchen, standing in front of a chopping board with vegetables and a knife." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-2.jpg" alt="A robot chef inside the kitchen, standing in front of a chopping board with vegetables and a knife." style="width:100%" class="img"/>
 
 ## How's that feasible?
  
@@ -50,7 +50,7 @@ But if we draw a further conclusion, it becomes clear that humans cannot be repl
 
 Here the biggest concern is the robots do not have taste buds. But yes, advancements are still there. A group of scientists from Frontiers in Robotics & AI experimented on it through their 'taste as you go' robot. Such robots can create a taste map from different samples. But still, we have to go long. So as of now, we can say robot chefs can't replace human chefs.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-3.jpg" alt="A robot chef holding a knife is busy with a vegetable-chopping task.
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-3.jpg" alt="A robot chef holding a knife is busy with a vegetable-chopping task.
 " style="width:100%" class="img"/>
 
 ## Sensors on which robot chef works:-   
@@ -93,7 +93,7 @@ Force and touch sensors are the two primary categories into which these sensors 
 
 Touch sensors are frequently used in robotic chefs to enable basic movement and detect a touch in the surrounding environment. For example, such a sensor helps a robot chef to sense the exact pressure needed while cracking an egg or white knitting a flour dough. In fact, due to highly precise tactile sensors, a robot chef can perfectly hold a fork or a cooking spatula.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-4.jpg" alt="A piece of handheld equipment with a temperature detector sensor displaying a certain temperature." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-4.jpg" alt="A piece of handheld equipment with a temperature detector sensor displaying a certain temperature." style="width:100%" class="img"/>
 
 ### IV. Temperature detector:-    
 

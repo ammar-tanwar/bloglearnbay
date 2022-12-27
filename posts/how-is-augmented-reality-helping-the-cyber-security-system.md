@@ -18,7 +18,7 @@ tableData:
    ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-1.jpg" alt="The banner image displays a human hand with numerous AR features in cybersecurity." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-1.jpg" alt="The banner image displays a human hand with numerous AR features in cybersecurity." style="width:100%" class="img"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">Augmented Reality Increasing Accountability Through Cyber Security</span>
 
@@ -32,7 +32,7 @@ When building new AR technology, one of the first things that developers think a
 
 Augmented reality has the capacity to add to virtual worlds what it lacks in a real-life setting. Additionally, it enables users to explore new areas and have a unique experience. The following benefits of augmented reality are the reasons why it is anticipated that it will influence future technologies:
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-2.jpg" alt="A creative human figure wearing VR glasses." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-2.jpg" alt="A creative human figure wearing VR glasses." style="width:100%" class="img"/>
 
 **Although augmented reality and cyber security are opposed, still the combination of cyber security with an augmented workforce appears to be highly interesting and beneficial. Here are several application scenarios where this exciting innovation can be readily combined:-**
 
@@ -57,7 +57,7 @@ Apart from the organization, everyone must be cautious about cyber security. **W
 
 **We can now educate people on significant cyber threats and risks in an interactive fashion. Thanks to recent breakthroughs in Augmented Reality (AR) games and training platforms**. These games and training platforms can be used to teach both technical and non-technical professionals in cybersecurity.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-3.jpg" alt="An image of a man's face wearing glasses that are technologically linked to AR." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-3.jpg" alt="An image of a man's face wearing glasses that are technologically linked to AR." style="width:100%" class="img"/>
 
 Augmented reality (AR) is a way to view and manipulate digital information in real life. For example, users can see pictures appearing on cards placed on tables. Augmented reality technology has been around for some time, but it is becoming more popular as companies are launching apps that make the most of their capabilities, opening new opportunities for businesses.
 

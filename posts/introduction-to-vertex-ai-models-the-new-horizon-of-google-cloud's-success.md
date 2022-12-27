@@ -22,7 +22,7 @@ tableData:
 
 <span style="color:blue;">What Is Vertex AI Model?</span>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg" style="width:100%" class="img" alt="An illustration shows a human figure wearing VR glasses and leveraging vertex AI-powered cloud ML."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg" style="width:100%" class="img" alt="An illustration shows a human figure wearing VR glasses and leveraging vertex AI-powered cloud ML."/>
 
 Google has officially announced that it has unified its AutoML and AI Platform **APIs** into one managed platform called **Vertex AI**. Vertex AI Workbench is a single platform where data scientists can execute all of their machine learning processes, from testing to deployment to model administration and monitoring. It combines AutoML and AI Platform into a unified API, client library, and user experience. **It's a fully managed, scalable, and enterprise-ready Jupyter-based compute infrastructure with security controls and user management features.** 
 
@@ -34,7 +34,7 @@ It's crucial to comprehend the significance of machine learning before understan
 
 **Cloud ML** is a Google AI ecosystem extension that allows you to simply incorporate models into your existing cloud-based architecture. This allows for mainstream businesses to receive the benefits.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-2.jpg" style="width:100%" class="img" alt="Four  overlapped logos of Cloud ML surrounded by various symbols like bar graphs, coding console, browser, etc  indicates the multi dimensional applications of Cloud ML."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-2.jpg" style="width:100%" class="img" alt="Four  overlapped logos of Cloud ML surrounded by various symbols like bar graphs, coding console, browser, etc  indicates the multi dimensional applications of Cloud ML."/>
 
 ## **Now - most people may wonder what does could ML mean?**    
 
@@ -57,7 +57,7 @@ The **Cloud (ML)** allows customers to train machine learning models in the clou
 
 - With our gateway for complete end-to-end ML training, you can develop and deploy AI solutions on Vertex AI with minimal transition.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-30.jpg" style="width:100%" class="img" alt="A vertex AI workbench that can be used as the KMS project, Analytics project, Data Project."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-30.jpg" style="width:100%" class="img" alt="A vertex AI workbench that can be used as the KMS project, Analytics project, Data Project."/>
 
 ## Benefits of Vertex [AI](https://www.youtube.com/c/Learnbay/search?query=AI) **Workbench:-**
 
@@ -118,7 +118,7 @@ This page explains how to prepare video footage for use in a Vertex AI dataset. 
 
 - Get detailed model feature attributions and evaluation metrics with Vertex Explainable AI.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-4.jpg" style="width:100%" class="img" alt="A humanoid robotic face is labeled 'AI.' The text reads, 'machine learning,  systemically analyzing complex information.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-4.jpg" style="width:100%" class="img" alt="A humanoid robotic face is labeled 'AI.' The text reads, 'machine learning,  systemically analyzing complex information.'"/>
 
 ## **Conclusion** :-     
  

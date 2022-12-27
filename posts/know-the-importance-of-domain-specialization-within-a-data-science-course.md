@@ -21,7 +21,7 @@ tableData:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-1.jpg" style="width:100%" class="img" alt="An image titled, 'Know The Importance of Domain Specialization Within a Data Science Course.'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-1.jpg" style="width:100%" class="img" alt="An image titled, 'Know The Importance of Domain Specialization Within a Data Science Course.'"/>
 
 **Becoming a jack of all trades in data science is not the wisest strategy. Pursue a domain specialization if you want to make a secure data science career**
 
@@ -37,7 +37,7 @@ You might have gotten a shock. But it's a fact of the present day's data science
 
 Today, data science is the driving force of any industry more than ever before. Project certification with domain specialization is the future. Candidates applying for data science jobs include skills for algorithms developer, data engineer, data architect, data warehousing, machine learning engineer, or data analyst.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-2.jpg" style="width:100%" class="img" alt="A robot hand using a tablet to search for various types of domains in data science."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-2.jpg" style="width:100%" class="img" alt="A robot hand using a tablet to search for various types of domains in data science."/>
 
 ## What does it mean by domain specialization?
 
@@ -57,7 +57,7 @@ For example, the domain specialization can be banking, telecommunication, Oil Ga
 
 Domain knowledge has been very crucial for the past few years. It even helps recruiters to know about their employees by their specialization. Employees with specified domain knowledge allow businesses to work on more projects with better outcomes in the minimal possible time. Domain knowledge is essential during a job search.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-3.jpg" style="width:100%" class="img" alt="A data science professional standing with a laptop, google searches for the best practices of predictive analytics in the oil and gas sector."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-3.jpg" style="width:100%" class="img" alt="A data science professional standing with a laptop, google searches for the best practices of predictive analytics in the oil and gas sector."/>
 
 ### How does domain specialization help a data science professional?
 
@@ -99,7 +99,7 @@ These are the few steps you can follow to increase your domain knowledge :
 
 Improving domain knowledge starts by researching topics that you have an interest in. It will help you to learn and combine the information in an understandable and accessible format. Suppose you are from the sales domain and preparing for a data science career switch. Before you start attending your first **data science course** class, you must be well aware of what's the actual scopes and uses of data science in the sales domain. Do extensive research on the same.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-4.jpg" style="width:100%" class="img" alt="An image titled, ' Top 5 DSA Projects for Beginners in 2023.'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-4.jpg" style="width:100%" class="img" alt="An image titled, ' Top 5 DSA Projects for Beginners in 2023.'"/>
 
 ### Consulting an expert
 

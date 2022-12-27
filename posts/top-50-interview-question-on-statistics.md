@@ -73,7 +73,7 @@ Ans: **Skewness** : It is the degree of distortion from the symmetrical bell cur
 
 There are two types of Skewness: Positive and Negative
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-1.jpg" alt="" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-1.jpg" alt="" style="width:100%" class="img"/>
 
 **Positive Skewness** means when the tail on the right side of the distribution is longer or fatter. The mean and median will be greater than the mode.
 
@@ -124,11 +124,11 @@ The range gives us a measurement of how spread out the entirety of our data set 
 
 Ans: The central tendency mean gives you the idea of an average of the data points( i.e center location of the distribution) And now you want to know how far are your data points from mean So, [here](https://web.archive.org/web/20220124040955/https://www.theidioms.com/) comes the concept of variance to calculate how far are your data points from mean (in simple terms, it is to calculate the variation of your data points from mean)
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-2.png" alt="" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-2.png" alt="" style="width:100%" class="img"/>
 
 Standard deviation is simply the square root of variance. And the standard deviation is also used to calculate the variation of your data points (And you may be asking, why do we use standard deviation when we have variance. Because in order to maintain the calculations in same units i.e suppose mean is in 𝑐𝑚/𝑚, then the variance is in 𝑐𝑚2/𝑚2, whereas standard deviation is in 𝑐𝑚/𝑚, so we use standard deviation most)
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-3.gif" alt="A smartphone surrounded by books indicates the concept of ebooks. The text reads, 'Best AI ebooks for You to Explore and Refine domain knowledge.'" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-3.gif" alt="A smartphone surrounded by books indicates the concept of ebooks. The text reads, 'Best AI ebooks for You to Explore and Refine domain knowledge.'" style="width:100%" class="img"/>
 
 ### 8. What is selection Bias? Types of Selection Bias?  
 
@@ -213,13 +213,13 @@ Common Tests in Statistics:
 3. Chi-Square Test
 4. MANOVA
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-4.jpg" alt="" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-4.jpg" alt="" style="width:100%" class="img"/>
 
 ### 12. How do you calculate the sample size required?  
 
 Ans: You can use the margin of error (ME) formula to determine the desired sample size.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-5.png" alt="" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-5.png" alt="" style="width:100%" class="img"/>
 
 - t/z = t/z score used to calculate the confidence interval
 - ME = the desired margin of error

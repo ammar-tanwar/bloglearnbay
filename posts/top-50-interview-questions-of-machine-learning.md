@@ -75,7 +75,7 @@ KNN Code Snippet:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview1.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview1.png"   class="img"  />
 
 
 
@@ -87,7 +87,7 @@ For example, if we only had two features like Height and Hair length of an indiv
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview2.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview2.png"   class="img"  />
 
 
 
@@ -95,7 +95,7 @@ Now, we will find some line that splits the data between the two differently cla
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview3.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview3.png"   class="img"  />
 
 
 
@@ -151,7 +151,7 @@ Long Answer: choosing the best hyperplane is to choose one in which the distance
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview4.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview4.png"   class="img"  />
 
 
 
@@ -236,7 +236,7 @@ SVM code snippet:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview5.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview5.png"   class="img"  />
 
 
 
@@ -303,7 +303,7 @@ Naive Bayes considers that the features are independent of each other. However, 
 Naïve Bayes Code Snippet:
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview6.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview6.png"   class="img"  />
 
 
 
@@ -338,7 +338,7 @@ Ans: The basic idea behind partitioning methods, such as k-means clustering, is 
 The Elbow method looks at the total WSS as a function of the number of clusters: One should choose a number of clusters so that adding another cluster doesn’t improve much better the total WSS.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview7.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview7.png"   class="img"  />
 
 
 
@@ -381,7 +381,7 @@ KNN code snippet:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview8.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview8.png"   class="img"  />
 
 
 
@@ -415,13 +415,13 @@ Parts of Dendrogram:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview9.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview9.png"   class="img"  />
 
 Hierarchical Clustering Code Snippet:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview10.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview10.png"   class="img"  />
 
 
 
@@ -439,7 +439,7 @@ Ans: Adaboost combines multiple weak learners into a single strong learner. The 
 
 Adaboost Code Snippet:
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview11.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview11.png"   class="img"  />
 
 
 
@@ -458,7 +458,7 @@ By combining weak learners after weak learners, our final model is able to accou
 Gradient Boosting Code Snippet:
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview12.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview12.png"   class="img"  />
 
 
 
@@ -474,7 +474,7 @@ XGBoost Code Snippet:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview13.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview13.png"   class="img"  />
 
 
 
@@ -585,7 +585,7 @@ PCA code snippet:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview14.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview14.png"   class="img"  />
 
 
 
@@ -627,7 +627,7 @@ Y = X x W (where X is an n * d dimension matrix representing the n samples and y
 LDA code snippet:
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview15.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview15.png"   class="img"  />
 
 
 

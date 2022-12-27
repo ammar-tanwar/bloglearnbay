@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-1.jpg" style="width:100%" class="img" alt="A man with a rocket launcher at his back is flying high, indicating IBM data science professional certificate can boost a career at 10x speed. An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-1.jpg" style="width:100%" class="img" alt="A man with a rocket launcher at his back is flying high, indicating IBM data science professional certificate can boost a career at 10x speed. An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">Identify the Ultimate Job-ready IBM Data Science Certification-The Golden Ticket To Your Dream Career.</span>
 
@@ -27,7 +27,7 @@ The present market trend shows the dream of about 11.5 million new data science 
 
 The career satisfaction rate of data scientists:
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-2.jpg" style="width:100%" class="img" alt="An image of how IBM's Data Science and AI certification might advance a career satisfaction."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-2.jpg" style="width:100%" class="img" alt="An image of how IBM's Data Science and AI certification might advance a career satisfaction."/>
 
 We all know industries are implementing <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">data science and AI</a> innovation to earn maximum profitable outcomes. Even non-technical business operation segments rely more on certified data analysts than experienced non-analytical specialists. Marketing, sales, human resource, etc., fall into such segmentations. As a result, at least basic **data analytics** skills are going to be the must-have criteria for all domains.
 
@@ -66,7 +66,7 @@ Actually, these are the key to landing your dream <a href="https://blog.learnbay
 
 ## Key reasons for Certified Data scientist Profile Rejections by Recruiters:
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-3.png" style="width:100%" class="img" alt="An illustration illustrating the crucial aspect that the majority of data scientist profiles are turned down by recruiters."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-3.png" style="width:100%" class="img" alt="An illustration illustrating the crucial aspect that the majority of data scientist profiles are turned down by recruiters."/>
 
 Most of the candidates get repeatedly rejected. In other words, applicants are unable to attract the attention of recruiters. This is because of incompatible resume content. The IBM professional data science courses under consideration will help you to optimize your resume and portfolio. Certainly, chances will be greater than top MNCs highlighting your resumes on their priority list.
 
@@ -112,7 +112,7 @@ But such certificates do not hold much value as compared to the specialized **IB
 
 ## Is this IBM certification Recognised?   
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-4.jpeg" style="width:100%" class="img" alt="A data scientist in a black suit is walking towards a highly developed city entrance. He holds a briefcase."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-4.jpeg" style="width:100%" class="img" alt="A data scientist in a black suit is walking towards a highly developed city entrance. He holds a briefcase."/>
 
 IBM is a global giant and a leader in its industry and is it worth it in reality? **IBM data science professional certification** includes overall theoretical work combined with applied learning techniques. This increases efficiency in crucial areas of **data science roles** in the present market. Almost 46 percent of candidates who took specialized courses with any background knowledge in any tech or non-tech industry or the data science field will be better off. And as already told, your industrial ability gets recognized. What can be more reliable than this to the recruiters?
 

@@ -22,7 +22,7 @@ tableData:
 
 <span style="color:blue; font-weight:bold; font-size:28px">Artificial intelligence is initiating a new era of delivery management</span>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7wa1.jpg" style="width:100%" class="img" alt="An AI-based robot holding a delivery package approaches a logistic van."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7wa1.jpg" style="width:100%" class="img" alt="An AI-based robot holding a delivery package approaches a logistic van."/>
 
 In a sense, artificial intelligence (AI) has developed to the point where it can essentially eliminate all aspects of human labor. Similar to how it has expanded into other industries, AI is now involved in supply chain and delivery management.
 
@@ -44,7 +44,7 @@ That's not all, though!
 
 AI can be considered an extension of your mind that will help you carry out daily tasks without taking over the system. To speed up the procedure, it can make use of **augmented reality, virtual assistants, and data analysis**. Additionally, AI has a strong memory; it can recall errors from the past and avoid them in the future. The most fantastic feature of AI is its ability to analyze data to determine customer emotions and foretell which products will be in high demand in the near future. It can also tell you about products that might not be successful. This process is called **demand forecasting**.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7wai2.jpg" style="width:100%" class="img" alt="Multiple AI-powered robots and vehicles are busy at work in an automated delivery environment."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7wai2.jpg" style="width:100%" class="img" alt="Multiple AI-powered robots and vehicles are busy at work in an automated delivery environment."/>
 
 ### 2. Data warehouse:-  
 
@@ -63,7 +63,7 @@ AI has been shown to be a valuable asset when it comes to streamlining paperwork
 ### 5. Risk detection:-   
 Using AI to detect risks and potential damages while shipping cargo is essential, as this can help you avoid operational delays. By absorbing a high volume of data and organizing it systematically, AI can help you make informed decisions that could give you an edge over your competitors. In addition, AI can assist in identifying and correcting human errors in order to reduce risk factors.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7wai3.jpg" style="width:100%" class="img" alt="An illustration indicates how AI-based chatbots help in the maintenance of overall communication for delivery management."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7wai3.jpg" style="width:100%" class="img" alt="An illustration indicates how AI-based chatbots help in the maintenance of overall communication for delivery management."/>
 
 ### 6. Chatbots:-
 

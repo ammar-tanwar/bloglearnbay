@@ -25,7 +25,7 @@ Domain-specialized AI- courses are there, but if you are not willing to spend mo
 
 These are the few books that are worth reading whenever you can. It is a great valuable resource if you have any future operations. 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-2.jpg" alt="The logo of cloud computing, surrounded by clouds." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-2.jpg" alt="The logo of cloud computing, surrounded by clouds." style="width:100%" class="img"/>
 
 #  <a href="https://www.amazon.in/Cloud-Computing-ISSN-Book-120-ebook/dp/B08T79CMRS" target="_blank">1. AI For Cloud Computing</a>
 
@@ -57,7 +57,7 @@ AICON (Artificial Intelligence for communication and network). It is the 2nd glo
 
 **Price:** Approx. 8000 INR (Kindle)
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-3.jpg" alt="Two concentric circles with the text 'Block chain' in he center." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-3.jpg" alt="Two concentric circles with the text 'Block chain' in he center." style="width:100%" class="img"/>
 
 # <a href="https://link.springer.com/book/10.1007/978-3-030-29761-9" target="_blank">3. Blockchain - Artificial Intelligence and Financial Services</a>
 
@@ -128,7 +128,7 @@ It showcases how oil and gas operations can be optimized by machine learning and
 
 **Price:** Approx. 9000 INR (Kindle)
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-4.jpg" alt="An illustration representing the the application of AI in marketing." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-4.jpg" alt="An illustration representing the the application of AI in marketing." style="width:100%" class="img"/>
 
 
 # <a href="https://www.amazon.in/Marketing-Canvas-Five-Stage-Implementing-Intelligence/dp/150361316X/ref=asc_df_150361316X/?tag=googleshopdes-21&linkCode=df0&hvadid=406231090213&hvpos=&hvnetw=g&hvrand=17557680569748338503&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062008&hvtargid=pla-1174827132426&psc=1&ext_vrnc=hi" target="_blank">7. The AI Marketing Canvas</a>

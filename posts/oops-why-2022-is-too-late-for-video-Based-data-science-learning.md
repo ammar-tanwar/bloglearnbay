@@ -21,7 +21,7 @@ tableData:
 ---
 # Oops! Why 2023 Is Too Late For Video-Based Data Science Learning
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-4.jpg" style="width:100%" class="img" alt="A banner image showing a data science professional using an online medium to learn about data science."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-4.jpg" style="width:100%" class="img" alt="A banner image showing a data science professional using an online medium to learn about data science."/>
 
 Online data science courses are still the best option, but the recorded video-based ones are the worst.
 
@@ -37,7 +37,7 @@ Mostly MOOCs ( Massive Open Online Courses) are the traditional way of teaching,
 
 Self-paced learning lets students take their own pace to learn data science rather than completing it in a given time. Aspirants can learn according to their own time or take as much time as needed. Students learning in this methodology do not have any time pressure or fixed learning schedule. It can suit candidates who have a simple learning intention. But if anyone is planning a data science career switch, such a course will certainly prove the biggest blunder for them. This is a very hard truth of the present job market.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-5.jpg" style="width:100%" class="img" alt="An illustration shows an instructor teaching data science  in a offline classroom."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-5.jpg" style="width:100%" class="img" alt="An illustration shows an instructor teaching data science  in a offline classroom."/>
 
 ###  Instructor led online CLasses
 
@@ -47,7 +47,7 @@ An instructor in a classroom scenario or online courses teaches data science in 
 
 ## Why pursue a Data Science course online (instructor-led)?
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-3.jpg" style="width:100%" class="img" alt="A woman seated in front of her laptop undergoes an online Data Science course."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-3.jpg" style="width:100%" class="img" alt="A woman seated in front of her laptop undergoes an online Data Science course."/>
 
 Video-based learning consumes a lot of time and is inappropriate for <a href="https://blog.learnbay.co/data-science-for-working-professionals" target="_blank">working professionals</a>. So online instructor led-learning is the most liked learning method by professionals as it is scheduled and keeps them always on track. Professionals do not have to leave their job to complete a data science course. They get to clear their queries during Q&A discussions.
 
@@ -73,7 +73,7 @@ This is one of the critical reasons for anyone to opt for an instructor-led meth
 
 It includes a career orientation program while opting for a professional instructor-led and job-ready data science course. Candidates in instructor-led classes get mega hiring drives, custom-fit training, dedicated job referrals, interview preparation, mock interviews, resume-building guidance, etc. These are never found in recorded video-based, self-paced learning because video-based learning does not provide a career orientation program and can't provide the ultimate benefit until there is adequate interaction between the mentor, career coaches, and student.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-2.jpg" style="width:100%" class="img" alt="An illustration shows a few data science experts getting prepared for a real-time project."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-2.jpg" style="width:100%" class="img" alt="An illustration shows a few data science experts getting prepared for a real-time project."/>
 
 ## Real-time Projects
 
@@ -81,7 +81,7 @@ Projects are essential for beginning a career in data science since employers wi
 
 Currently, recruiters are less concerned with your certifications and more interested in knowing what projects you have worked on. So, even if you finished the course and didn't have any good projects to show for it, all of your hard work in learning data science will be useless. As a result, an instructor-led data science online course will feature hands-on industrial projects. Learning through a project is extremely important and cannot be matched by self-paced courses. And projects are where most students either lag or miss out. Learning with the project is very important and cannot be matched with self-paced courses.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-3.jpg" style="width:100%" class="img" alt="An illustration of a piggy bank on the top of a stack of books, emphasizes the cost of learning data courses in science." /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-3.jpg" style="width:100%" class="img" alt="An illustration of a piggy bank on the top of a stack of books, emphasizes the cost of learning data courses in science." />
 
 ## But do Learning costs matter?
 

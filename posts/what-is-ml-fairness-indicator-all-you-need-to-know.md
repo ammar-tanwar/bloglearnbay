@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-11.jpg" alt="An banner image titled,' ML Fairness Indicator'." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-11.jpg" alt="An banner image titled,' ML Fairness Indicator'." style="width:100%" class="img"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Importance of ML Fairness Indicator System and Its Adaption by Google! </span>
 
@@ -27,7 +27,7 @@ Fairness indicator ensures people are treated uniformly - both in and out of the
 
 Making crucial decisions in delicate areas like security or finances may be done using <a href="https://blog.learnbay.co/regression-techniques-in-machine-learning" target="_blank">machine learning</a>. Still, if allowed to do so without constant human oversight, there is a possibility of algorithmic bias creeping into the equation. This can cause algorithms to unfairly discriminate against particular social groups, which has led many researchers and scientists working on machine learning to advocate for fairness in machine learning.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-12.jpg"  alt="A robot with a meter shows the level of fairness." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-12.jpg"  alt="A robot with a meter shows the level of fairness." style="width:100%" class="img"/>
 
 ## Why is the ML fairness indicator so important?
 
@@ -45,7 +45,7 @@ Google Research has found that, in most cases, business owners tend to be excite
 
 Most people don't know where or how to begin or are struggling with what works for their specific situation. Google Research would like to help clear up some common misconceptions people have about utilizing <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">artificial intelligence</a> and machine learning technologies. Researchers have put together a handy list of questions you should ask yourself before making any major decisions related directly to AI integration into your existing business processes.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-13.jpg" alt="The steps included in ML Fairness Indicator function detection process. Starting from the beginning, the consecutive steps include 'collect.' 'store,' 'Enrich,' 'Train/Apply,' 'Visualize.'" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-13.jpg" alt="The steps included in ML Fairness Indicator function detection process. Starting from the beginning, the consecutive steps include 'collect.' 'store,' 'Enrich,' 'Train/Apply,' 'Visualize.'" style="width:100%" class="img"/>
 
 ## How to use the fairness and comprehensibility of open-source packages  
 

@@ -22,7 +22,7 @@ tableData:
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-1.png" style="width:100%" class="img" alt="An image titled, '15 Tools Every Full-Stack Web Developer Should Master'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-1.png" style="width:100%" class="img" alt="An image titled, '15 Tools Every Full-Stack Web Developer Should Master'"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">Ace the must-know full-stack web developer tools of 2023</span>
 
@@ -42,7 +42,7 @@ The key thing that differentiates between a general web developer and a full-sta
 
 As a full-stack developer, you must be proficient in various front-end and back-end technologies and programming. So, let's take a look at these tools.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-2.png" style="width:100%" class="img" alt="A web developer learning bootstrap and angular."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-2.png" style="width:100%" class="img" alt="A web developer learning bootstrap and angular."/>
 
 ## Here are some full-stack web developer tools categorized for front-end and back-end development
 
@@ -88,7 +88,7 @@ Python is a potent programming language with many applications. Python is compat
 
 JavaScript is a programming language and just-in-time compiler. These Prototypes facilitate object orientation. It is applied to the creation of responsive, interactive web pages. In web development, chatbots are created using this language since it provides end-to-end solutions.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-3.png" alt="Two Web Developers are learning Django full stack web developer tool " style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-3.png" alt="Two Web Developers are learning Django full stack web developer tool " style="width:100%" class="img"/>
 
 ## Back-end Web Developer Tools 
 
@@ -120,7 +120,7 @@ Relational database management system PostgreSQL is free and open source. It can
 
 So, these are a few of the key tools used in full-stack web development, and they all assist in creating successful cutting-edge results. Using these skills, you can easily become a successful web developer.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-4.png" style="width:100%" class="img" alt="An Image titled 'Benefits of Full-stack Developer' shows a full-stack developer sitting in front of a laptop.  Multiple chat bubbles from the laptops read 'HTML,' 'HTTP,' 'CSS,' and '</>.'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-4.png" style="width:100%" class="img" alt="An Image titled 'Benefits of Full-stack Developer' shows a full-stack developer sitting in front of a laptop.  Multiple chat bubbles from the laptops read 'HTML,' 'HTTP,' 'CSS,' and '</>.'"/>
 
 ## Being a full-stack web developer has the following benefits   
 

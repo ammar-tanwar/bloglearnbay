@@ -26,7 +26,7 @@ The BFSI  industry is witnessing a major transformation in the Indian economy, f
 However, in 2020, this scenario changed due to an unprecedented event that shook the entire world, the BFSI sector was heavily hit like any other industry resulting in layoffs and halting of employment. 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job.png" alt="An image titled, '30,000 JOBS WERE LAID OFF IN INDIA DUE TO PANDEMIC SAYS, MONEY CONTROL.'"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job.png" alt="An image titled, '30,000 JOBS WERE LAID OFF IN INDIA DUE TO PANDEMIC SAYS, MONEY CONTROL.'"   class="img"  />
 
 
 Nevertheless, as the lockdown has been lifted and the world learned to live with this normalcy, the hiring trends in the BFSI sector are beginning to shine again. 
@@ -53,7 +53,7 @@ _But the risk of layoffs in the BFSI sector can be easily overcome by adapting t
 
 A lot of people who work for IT companies, BPO companies, or technical and professional service businesses use this word. It stands for “Banking, Financial Services, and Insurance.” They do data processing or test software applications or write software for this kind of business. This is because people have more money, the banking, financial services, and insurance (BFSI) industry in India are expected to develop dramatically. In the last 15 years, the BFSI sector has undergone a lot of changes, and it will be a big part of India’s economic development based on inclusive growth. 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job1.png" alt="An illustration shows four bankers standing, lifting their hands, and carrying coins, calculators, rupees, and an insight symbol." class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job1.png" alt="An illustration shows four bankers standing, lifting their hands, and carrying coins, calculators, rupees, and an insight symbol." class="img"  />
 
 
 Source: By the Author
@@ -76,7 +76,7 @@ People have strived to handle money effectively since the invention of money. Te
 Data science is a nebulous subset of computer science that has piqued the interest of many experts seeking new prospects. Finance is a manifestation of data at several levels in and of itself. Only that, this is financial data, which is critical for financial firms. History shows that data science was used before it became a separate field of computer science, as shown in the short history above. Decisions are being made based on data because there is so much information out there now. To make things even faster for banks and other financial institutions, they can now quickly look at a lot of customer data like their personal and security information a lot more quickly.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job2.png" alt="An image titled 'APPLICATION OF DATA SCIENCE IN FINANCE AND INSURANCE DOMAIN'  shows a human mannequin at the center." class="img"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job2.png" alt="An image titled 'APPLICATION OF DATA SCIENCE IN FINANCE AND INSURANCE DOMAIN'  shows a human mannequin at the center." class="img"/>
 
 
 
@@ -122,7 +122,7 @@ A lot of people in the world of finance are using Robo-advisors all the time. In
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job3.png" alt="An AI-powered robot for advising customers on different financial and other investents policies." class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job3.png" alt="An AI-powered robot for advising customers on different financial and other investents policies." class="img"  />
 
 
 
@@ -241,7 +241,7 @@ Even though digitization promises more security and cost savings, its real value
 Companies in the banking, finance, services, and insurance sectors in India in 2021:
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job4.png" alt="An chart shows the package offered by BFSI companies for data scientists such as:- " class="img"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job4.png" alt="An chart shows the package offered by BFSI companies for data scientists such as:- " class="img"/>
 Image by Author
 
 Source: Glassdoor
@@ -279,7 +279,7 @@ In this field, there are a lot of different skills that are needed to get a job.
 Those with one year or more of experience can expect to earn 4,62,321 per year. A seasoned expert may also receive a variety of incentives, such as a 7-30% share of revenue, based on the work level completed.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job5.png" alt="This bar graph represents the respective roles' minimum and maximum annual salary."   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job5.png" alt="This bar graph represents the respective roles' minimum and maximum annual salary."   class="img"  />
 
   Source: CollegeDunia
 

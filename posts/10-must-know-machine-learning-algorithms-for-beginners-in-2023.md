@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' 10 Must-Know Machine Learning Algorithms for Beginners in 2023' consists of an ML-powered humanoid robot."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' 10 Must-Know Machine Learning Algorithms for Beginners in 2023' consists of an ML-powered humanoid robot."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">  Know the 10 Most Useful Machine Learning Algorithms That Every Beginner Should Include in Their Learning List </span>
 
@@ -31,7 +31,7 @@ Here, we'll take a closer look at the 10 most useful machine learning algorithms
 
 ## The 10 Elementary But Most Useful Machine Learning Algorithms
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-2.jpg" style="width:100%" class="img" alt="A line graph of linear regression technique for sales prediction in machine learning. The horizontal axis is labeled 'X' and ranges from 0 to 15 in the interval of 5. The vertical axis is labeled 'Y' and ranges from 0 to 150000, in an interval of 50000. The graph contains multiple scatter points, and the concerned best fit straight line has a positive slope."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-2.jpg" style="width:100%" class="img" alt="A line graph of linear regression technique for sales prediction in machine learning. The horizontal axis is labeled 'X' and ranges from 0 to 15 in the interval of 5. The vertical axis is labeled 'Y' and ranges from 0 to 150000, in an interval of 50000. The graph contains multiple scatter points, and the concerned best fit straight line has a positive slope."/>
 
 ### 1. Linear regression:-
 
@@ -78,7 +78,7 @@ For example, a news article can be of various types, but if you want to learn ab
 
 ### 3. Decision tree    
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-3.jpg" style="width:100%" class="img" alt="A diagram of decision tree illustrating a weather forecasting technique using outlook, humidity, and wind."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-3.jpg" style="width:100%" class="img" alt="A diagram of decision tree illustrating a weather forecasting technique using outlook, humidity, and wind."/>
 
 A <a href="https://blog.learnbay.co/decision-tree" target="_blank">decision tree</a> ML algorithms is a type of predictive modeling that is used to categorize data and forecast future outcomes. This approach works by learning the characteristics of the data and answering the query in order to make better decisions. This algorithm can help with both categorical and continuous dependent variables. The decision tree's methods are listed below.
 
@@ -104,15 +104,15 @@ Logistic regression machine learning is a method used to predict discrete values
 
 **Here we have known fact that the linear regression is written as:-**
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-01.png" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-01.png" style="width:100%" class="img"/>
 
 **And, because Y in logistic regression can range between 0 and 1, we will separate and divide the above equation with (1-y):-into**
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-02.png" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-02.png" style="width:100%" class="img"/>
 
 **However, in order to obtain the final product, we must first define a range of - [infinity] to +[infinity] and then adjust the equation to obtain the final result.**
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-03.png" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-03.png" style="width:100%" class="img"/>
 
 **And the final equation of logistic regression is defined above.** 
 
@@ -144,7 +144,7 @@ The KNN algorithm aids in the forecasting and prediction of data sets. The KNN a
 
 ### 6. K-means   
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-4.jpg" style="width:100%" class="img" alt="Two scattered plots represent the use of K-means algorithms. The first is labeled 'before K-means' and shows three sets of random data. The second plot labeled 'after K-means' represents automatically organized data after applying the K-means algorithm."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-4.jpg" style="width:100%" class="img" alt="Two scattered plots represent the use of K-means algorithms. The first is labeled 'before K-means' and shows three sets of random data. The second plot labeled 'after K-means' represents automatically organized data after applying the K-means algorithm."/>
 
 A k-means clustering algorithm is an effective tool for data-organized classification. It is easy to use and organize data into a preset number of clusters, ensuring that each cluster contains only homogenous and distinct data points. This project is an innovative approach to solving a clustering problem.
 
@@ -176,7 +176,7 @@ A Naive Bayesian model that can outperform more complex models is straightforwar
 
 The Naive Bayesian model works on a simple formula, i.e.,
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-04.png" style="width:100%" class="img">
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-04.png" style="width:100%" class="img">
 
 **Where,** 
 
@@ -212,7 +212,7 @@ If you are purchasing a stock, you can easily forecast whether the stock price w
 
 ### 9. Dimensionality reduction algorithms  
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-5.jpg" style="width:100%" class="img" alt="An image displays three distinct structural elements in three graphs, each of which dimensions are reduced using dimensionality reduction algorithms."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-5.jpg" style="width:100%" class="img" alt="An image displays three distinct structural elements in three graphs, each of which dimensions are reduced using dimensionality reduction algorithms."/>
 
 A significant amount of data is being gathered across the network every day. Dimensionality reduction algorithms must be started to organize this data and effectively grasp it as a group.
 

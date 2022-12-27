@@ -122,13 +122,13 @@ In case simple linear regression applies to a business problem, then the identif
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear1.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear1.jpg"   class="img"  />
 
 Fig:1
 
 The above plot indicates an immediate linear connection between 2 sorts of factors (dependent and independent).
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear2.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear2.jpg"   class="img"  />
 
 
 
@@ -139,7 +139,7 @@ The above plot indicates an immediate but curvy linear connection between 2 sort
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear3.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear3.jpg"   class="img"  />
 
 
 Fig:3
@@ -148,7 +148,7 @@ The above plot indicates an immediate but inverted linear connection between 2 s
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear4.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear4.jpg"   class="img"  />
 
 
 Fig:4
@@ -157,7 +157,7 @@ The above plot indicates an inverted and curvy linear connection between 2 sorts
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear5.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear5.jpg"   class="img"  />
 
 Fig:5
 
@@ -165,7 +165,7 @@ The above plot indicates a direct and inverted linear connection between 2 sorts
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear6.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear6.jpg"   class="img"  />
 
 
 Fig 6:

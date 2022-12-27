@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-1.jpg" style="width:100%" class="img" alt="An image titled 'Amazing Usages of the AI in Entertainment Industry' with a visual representation of a dancing AI-based robot."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-1.jpg" style="width:100%" class="img" alt="An image titled 'Amazing Usages of the AI in Entertainment Industry' with a visual representation of a dancing AI-based robot."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Know How AI in the Entertainment Industry is Becoming an Inseparable Existence </span>
 
@@ -30,7 +30,7 @@ But the affectionate bonding of AI and entertainment has now gone beyond the tec
 
 But AR and VR are one of the small faces of hyper-personalization in the entertainment and media industry via artificial intelligence. In actuality, each level of this industry has started enjoying the amazing innovations of AI, which makes the AI and entertainment industries inseparable.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-2.jpg" style="width:100%" class="img" alt="A person using a VR headset for entertainment."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-2.jpg" style="width:100%" class="img" alt="A person using a VR headset for entertainment."/>
 
 _Global media and entertainment are witnessing and recovering from many changes and adaptations in the market. Content creation tools like high-resolution cameras and cellphones information creation software are widely available in the market._
 
@@ -42,7 +42,7 @@ Digital transformation and AI advancements have made entertainment businesses mo
 
 Media companies have to undergo a lot of challenges while developing high volumes of quality content. And AI has been integrated to complete this goal.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-3.jpg" style="width:100%" class="img" alt="A girl stands with a book in her hand, with a note symbol on the left side and a prime logo on the right."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-3.jpg" style="width:100%" class="img" alt="A girl stands with a book in her hand, with a note symbol on the left side and a prime logo on the right."/>
 
 ### 1. Content personalization
 
@@ -70,7 +70,7 @@ This model was successful because the app users, in most cases, pay a premium su
 
 Augmented reality (AR) and Virtual reality (VR) are just a few features until advanced artificial intelligenceimproves them. AR and VR offer immersive user experiences and move the entertainment industry to another realistic experience. AR is primarily found in sporting events, even in museums and presentations. This lets the system collect users' real-time information on objects or circumstances around them.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-4.jpg" style="width:100%" class="img" alt="An illustration of a person using a VR headset."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-4.jpg" style="width:100%" class="img" alt="An illustration of a person using a VR headset."/>
 
 **Virtual reality** allows users to enter an entirely different reality of their choice. VR will be more advanced, with **META** spending significant resources that have been spent on improving its features and functionalities that users can enjoy.
 
@@ -92,7 +92,7 @@ Netflix operates its system with a lot of software; ML tech is how Netflix devel
 
 In every industry, cybersecurity is a critical matter. The way the entertainment industry has risen with success, it is evident that cyber-attacks will increase as **vicious malware** and cases of **ransomware** become common. 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-5.jpg" style="width:100%" class="img" alt="An image titled, 'Zimperium AI' with a security symbol."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-5.jpg" style="width:100%" class="img" alt="An image titled, 'Zimperium AI' with a security symbol."/>
 
 **Google** has been developing AI analyzing  **mobile endpoint threats.**  Organizations can use this analysis to protect the growing number of personal mobile devices.
 
@@ -116,7 +116,7 @@ Processes are automated, and cybersecurity for data usage as the entertainment i
 - You can use AI tools for getting live Insights by user **data, social media behavior, and usage**
   patterns to help **predictive analytics**to target better and different segments.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-6.jpg" style="width:100%" class="img" alt="An illustration shows a  girl holding a secured box signifies the security of content management."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-6.jpg" style="width:100%" class="img" alt="An illustration shows a  girl holding a secured box signifies the security of content management."/>
 
 ### 3. Content security and management  
 

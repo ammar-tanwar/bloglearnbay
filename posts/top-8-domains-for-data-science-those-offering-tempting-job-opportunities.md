@@ -21,7 +21,7 @@ tableData:
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Come Out of The Misconception : Data Science is Not Only Built for IT. It's There to Enhance Every Domain. </span>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d0.jpg" style="width:100%" class="img" alt="A banner image represents the diversity of data science and the various data scientist job responsibilities."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d0.jpg" style="width:100%" class="img" alt="A banner image represents the diversity of data science and the various data scientist job responsibilities."/>
 
 Data is almost present everywhere, and it is crucial in every business today. The use of data across industries has grown abundantly by creating numerous data scientist job roles in almost every field.
 
@@ -29,7 +29,7 @@ The demand for data scientists has also been on high tide as data science will k
 
 But which domain holds the greatest opportunities for data scientists? Well, there is not a single domain or industry that we can identify as the most promising one for data science pros. Every sector is almost equally showing the data science job boom. But amongst them, by any chance you belong to the following domain, a **data science career transition** will be a jackpot.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d1.jpg" style="width:100%" class="img" alt="Two laptops, shopping trolley, loaded with shopping bags, , and hanged clothes represents the application of data science in various sectors."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d1.jpg" style="width:100%" class="img" alt="Two laptops, shopping trolley, loaded with shopping bags, , and hanged clothes represents the application of data science in various sectors."/>
 
 
 ## Top 8 Domains Creating Huge Data Science Jobs :-
@@ -65,7 +65,7 @@ Top Recruiters:
 
 - Reliance
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d2.jpg" style="width:100%" class="img" alt="A doctor with a stethoscope, accompanying with different types of analytical graphs and charts represents the application of data science in healthcare."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d2.jpg" style="width:100%" class="img" alt="A doctor with a stethoscope, accompanying with different types of analytical graphs and charts represents the application of data science in healthcare."/>
 
 ###  2. Healthcare  
 
@@ -93,7 +93,7 @@ Healthcare has a lot of sectors, and data scientists can combine large and unstr
 
 - GE Healthcare
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d3.jpg" style="width:100%" class="img" alt="Three site engineers standing beside a mobile tower are busy with a laptop. This represents the application of data science in telecommunication."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d3.jpg" style="width:100%" class="img" alt="Three site engineers standing beside a mobile tower are busy with a laptop. This represents the application of data science in telecommunication."/>
 
 ### 3. Telecommunication
 
@@ -171,7 +171,7 @@ The oil industry is not exempted when it comes to a huge risk industry. They mus
 
 - Gas Authority of India
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d4.jpg" style="width:100%" class="img" alt="A 3D design of an automotive vehicle represents the application of data science in the automotive domain."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d4.jpg" style="width:100%" class="img" alt="A 3D design of an automotive vehicle represents the application of data science in the automotive domain."/>
 
 ### 5. Automotive - IoT - and embedded
 Improved research, design, manufacturing, and marketing processes have also helped the automotive industry stay competitive. Even more importantly, advanced analytics has led to the development of self-driving car systems that include  **sensors such as camera and radar systems, GPS systems, inertial navigation systems, and more.** Unfortunately, a lack of data science has made it impossible to keep track of tire wear, mileage, fuel efficiency, or driving patterns in light of the increasing complexity of automobiles and their ability to collect more data. So, expect self-driving cars without requiring a driver to communicate, collaborate, or navigate soon!
@@ -200,7 +200,7 @@ Improved research, design, manufacturing, and marketing processes have also help
 
 - Hyundai
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d5.jpg" style="width:100%" class="img" alt="An illustration containing a table clock and stack of dollars represents the application of data science in the BFSI sector."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d5.jpg" style="width:100%" class="img" alt="An illustration containing a table clock and stack of dollars represents the application of data science in the BFSI sector."/>
 
 ### 6. BFSI
 

@@ -20,7 +20,7 @@ tableData:
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Fintech Industries are Crazily Seeking These Skills Within Pro Data Scientists </span>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-1.png" style="width:100%" class="img" alt="A banner image titled, 'Technical and soft skills essential for a data scientist in fintech'  shows an illustration of a data scientist using a laptop on the left.">
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-1.png" style="width:100%" class="img" alt="A banner image titled, 'Technical and soft skills essential for a data scientist in fintech'  shows an illustration of a data scientist using a laptop on the left."/>
 
 
 Data scientists are vital to the success of many fintech companies, but it's a relatively new and unproven field, which means that data scientists need to be on top of their game. As technology continues to evolve, data scientists need to keep up with the latest developments and change their skill sets accordingly. In the fintech industries, there is a list of specific skills required for data scientists.
@@ -28,7 +28,7 @@ Data scientists are vital to the success of many fintech companies, but it's a r
 The demand for data scientists has been on a constant incline in the last few years. The increasing number of data available to analyze, along with the explosion of user data in the fintech industry, has made fintech a hot career choice for many data scientists.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-2.jpg" style="width:100%" class="img" alt="A bar graph showing how data science may aid in boosting the trustworthiness of data analytics in fintech."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-2.jpg" style="width:100%" class="img" alt="A bar graph showing how data science may aid in boosting the trustworthiness of data analytics in fintech."/>
 
 ## Advantages of Data Science in Fintech:-
 
@@ -57,7 +57,7 @@ Financial modeling is primarily responsible for developing and analyzing financi
 
 - The financial model can basically help comprehend the firm based on the input and output and call out the expectations.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-3.png" style="width:100%" class="img" alt="An illustration titled, 'Machine Learning' shows an AI robot using coding techniques on a large screen."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-3.png" style="width:100%" class="img" alt="An illustration titled, 'Machine Learning' shows an AI robot using coding techniques on a large screen."/>
 
 ### 2. Machine Learning:-   
 
@@ -69,7 +69,7 @@ Data scientists must have a strong understanding of machine learning algorithms,
 
 - We can quickly design and create a financial system that can notify you of any possible problems using machine learning techniques. Furthermore, we can ensure correct decision-making based on previously saved historical data.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-4.png" style="width:100%" class="img" alt="An abstract image depicts the use of data visualization in various data science applications."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-4.png" style="width:100%" class="img" alt="An abstract image depicts the use of data visualization in various data science applications."/>
 
 ### 3. Data Visualization:-  
 
@@ -103,7 +103,7 @@ A problem-solving mindset is always valuable for various tasks that an organizat
 
 Quantitative analysis can undoubtedly aid in the application of statistical and computational approaches to understand data. This type of analysis uses a combination of numerical variables and statistics to describe and interpret the outcome.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-5.jpg" style="width:100%" class="img" alt="An illustration of two people communicating with each other using a string linked to a cup to demonstrate communication skills."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-5.jpg" style="width:100%" class="img" alt="An illustration of two people communicating with each other using a string linked to a cup to demonstrate communication skills."/>
 
 ### 3. Communication skills:-     
 

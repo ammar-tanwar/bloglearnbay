@@ -19,14 +19,14 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-1.jpg" alt="A visual representation of the weather forecast using a robotic arm and a weather forcasting display." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-1.jpg" alt="A visual representation of the weather forecast using a robotic arm and a weather forcasting display." style="width:100%" class="img"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">AI Advancement is Making Weather Forecasting More Precise Day by Day.
 </span>
 
 For a long time, weather prediction seemed impracticable. Yet, with advancements in technology and new innovations, this endeavor has become both feasible and bizarre. Our access to a varied range of information is advancing at a rapid pace as technology advances.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-2.jpg" alt="An image representing a target detection on the blue radar screen." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-2.jpg" alt="An image representing a target detection on the blue radar screen." style="width:100%" class="img"/>
 
 The most recent AI weather prediction has improved on traditional methods. All of this research has been published in journals, and it is projected that catastrophic weather can be predicted two to six weeks in advance.
 
@@ -38,7 +38,7 @@ Researchers from China, the United States, and India evaluated the distribution 
 
 Meteorologists forecast the weather using a range of traditional approaches.  **Satellite imagery**  is one of them. _Deep space satellites_, _weather balloons_, and _radar systems_ are used in this manner. However, satellites can't see the entire world, and their data isn't always reliable, especially since so many things can go wrong with each individual collection equipment.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-3.jpg" alt="A tablet screen displaying weather forecast." style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-3.jpg" alt="A tablet screen displaying weather forecast." style="width:100%" class="img"/>
 
 ### The current stage  
 
@@ -113,7 +113,7 @@ We've added a few images for the references to make it easier to comprehend and 
 | 9/1/2006 | snow | 15 | 21 | 0 |
 | 10/1/2006 | rain | 21 | 25 | 0 |
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-4.png" alt="Root Node with N:10; T:4 splits into to posibilities, such as Rain with N:6; T:3 and Snow with N:4; T:1" style="width:100%" class="img"/>  
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-4.png" alt="Root Node with N:10; T:4 splits into to posibilities, such as Rain with N:6; T:3 and Snow with N:4; T:1" style="width:100%" class="img"/>  
 
 | Node | GINI Computation Formula | GINI Index |
 | --- | --- | --- |

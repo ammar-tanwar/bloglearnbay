@@ -20,7 +20,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w1.jpg" style="width:100%" class="img" alt="A banner image portrays a woman standing in front of a computer, dreaming of a career in data science."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w1.jpg" style="width:100%" class="img" alt="A banner image portrays a woman standing in front of a computer, dreaming of a career in data science."/>
 
 <span style="color:blue; font-weight:bold; font-size:28px">A Career Break Now Can't Stop Women from Growing</span>
 
@@ -38,7 +38,7 @@ It's better to say, they have also transformed their careers toward a bigger wor
 
 The most advantageous thing is that no matter where a woman is in HR, sales, marketing, <a href="https://blog.learnbay.co/top-data-science-certifications-in-2022-exclusive-to-banking-professionals" target="_blank">banking</a> or accounting, they are all eligible to crack a lucrative career in data science, even after a long career break.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w2.jpg" style="width:100%" class="img" alt="An illustration shows a data science interview that faces the interviewer. A chat bubble from the interviewer writes, 'Congratulations.' The left side of the illustration shows a cursor pointing to a button labeled 'job.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w2.jpg" style="width:100%" class="img" alt="An illustration shows a data science interview that faces the interviewer. A chat bubble from the interviewer writes, 'Congratulations.' The left side of the illustration shows a cursor pointing to a button labeled 'job.'"/>
 
 A career break is nothing compared to a man when it comes to women. Women usually do not get recruited after a career break. The career gap is not because of their personal choice but because what happens later leaves them stranded. It can be because of marriage, maternity leave, or any other issue that can or cannot be addressed.
 
@@ -56,7 +56,7 @@ Data science and AI **are a boon to women who are going through a career break o
 
 Women can learn data science and AI in online courses during their career break or when they are recovering before they start to work again. Their degree or any experience would not go in vain. Even if they have completed their bachelor's or master's in commerce and have worked in accounting, HR, or sales, they can still learn during the career break by learning the same domain they previously worked in and making a stunning career in data science.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w3.jpg" style="width:100%" class="img" alt="An image of a mother sitting with her newborn infant in front of a laptop, takes advantage of an online data science course."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w3.jpg" style="width:100%" class="img" alt="An image of a mother sitting with her newborn infant in front of a laptop, takes advantage of an online data science course."/>
 
 ## **How will data science and artificial intelligence online courses help women get back to an adequate hike?**
 
@@ -72,7 +72,7 @@ Data Science and Artificial Intelligence courses are just the right solutions. T
 
 Let's say a lady named Seemika has completed a degree and opted for a career break for any given reason. Later, she chose a data science and AI course in the domain that she worked in before (ex: HR); you can choose a data science and AI course in the HR domain, so once you complete a course, you will gain a domain knowledge and skills that will enable you to get recruited into a good organization without compromising on designation or salary.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w4.jpg" style="width:100%" class="img" alt="An image representing the use of domain specialization can undoubtedly assist you in recognizing different career transitions."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w4.jpg" style="width:100%" class="img" alt="An image representing the use of domain specialization can undoubtedly assist you in recognizing different career transitions."/>
 
 ### Domain specialization - The magic key to a stunning comeback after a career break    
 

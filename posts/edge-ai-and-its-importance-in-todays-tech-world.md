@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-1.jpg" style="width:100%" class="img" alt="A banner image titled , ' Edge AI and Its Importance in Today's Tech World!'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-1.jpg" style="width:100%" class="img" alt="A banner image titled , ' Edge AI and Its Importance in Today's Tech World!'"/>
 
 <span style="color:blue; font-weight:bold; font-size:28px"> Edge AI, The Next-gen Advancement of Artificial Intelligence </span>
 
@@ -54,7 +54,7 @@ There has been a significant increase in the complexity of AI. The majority of c
 
 And this is only the beginning! In the future, edge AI will likely be used in even more domains, including:-
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-2.jpg" style="width:100%" class="img" alt="A smart surveillance camera fitted in a wall is powered with Edge AI."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-2.jpg" style="width:100%" class="img" alt="A smart surveillance camera fitted in a wall is powered with Edge AI."/>
 
 ### Smart Surveillance Camera:-   
 
@@ -82,7 +82,7 @@ Applications utilizing AI have the potential to be far more potent and versatile
 
 Edge technology provides users with real-time insights because it analyzes data locally instead of relying on a faraway cloud that might experience delays due to long-distance communications. This is beneficial for users who need quick responses to their inquiries.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-3.jpg" style="width:100%" class="img" alt="A security sign suggests the improved degree of privacy concern and security features associated with edge AI."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-3.jpg" style="width:100%" class="img" alt="A security sign suggests the improved degree of privacy concern and security features associated with edge AI."/>
 
 ### Enhanced privacy concern:-
 
@@ -110,7 +110,7 @@ Intelligent forecasting in the energy sector is essential to keeping the power g
 
 There are more and more AI-powered medical devices available, including ones that stream surgical video at extremely low latency to enable less invasive procedures and insights on demand. These tools are helping to revolutionize healthcare, making it more efficient and effective.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-4.jpg" style="width:100%" class="img" alt="A robotic element coming out of a laptop display represents AI-based virtual assistance. The laptop screen is surrounded by the symbols of tools, time, and contacts."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-4.jpg" style="width:100%" class="img" alt="A robotic element coming out of a laptop display represents AI-based virtual assistance. The laptop screen is surrounded by the symbols of tools, time, and contacts."/>
 
 ### Virtual Assistance:-  
 

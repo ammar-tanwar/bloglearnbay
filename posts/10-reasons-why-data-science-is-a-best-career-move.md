@@ -19,7 +19,7 @@ tableData:
 ---
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10-reasons-why-data-science-is-a-best-career-move-1.png" style="width:100%" class="img"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10-reasons-why-data-science-is-a-best-career-move-1.png" style="width:100%" class="img"/>
 
 ## Without wavering - 'Data Science is the new corporate currency'
 

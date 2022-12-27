@@ -24,7 +24,7 @@ tableData:
 
 # Operators in Python - Operation using Symbols
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg" style="width:100%" class="img" alt="A banner image titled, 'operator in python.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg" style="width:100%" class="img" alt="A banner image titled, 'operator in python.'"/>
 
 <i>A character that is used to represent an action in mathematics is an operator. In the same way, python operators are used in performing a particular task on values and variables. There is a specific operation for each symbol or operator.</i>
 
@@ -53,7 +53,7 @@ There are seven different types of operators in python. Let us take a look at th
 
 In python you have seven different arithmetic operators known as binary operators since it is performed on two operands. In simple words, it is a basic mathematical operation.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-2.jpeg" style="width:100%" class="img" alt="A Table lists the arithmetic operator function such as addition, subtraction, multiplication, divide, modules operator, exponents, and Floor division."/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-2.jpeg" style="width:100%" class="img" alt="A Table lists the arithmetic operator function such as addition, subtraction, multiplication, divide, modules operator, exponents, and Floor division."/>
 
 Examples of each Arithmetic operator
 #Addition <br>
@@ -111,9 +111,9 @@ print(x ** y)<br>
 
 Assigning values to a variable is called an assignment operator. The result of these operations can later be stored into a variable.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-3.jpeg" style="width:100%" class="img" alt="A table lists the function of two assignment operators, 'equals to' and 'positive/negetive.' The table consists three columns named, 'operator', 'Meaning', 'example.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-3.jpeg" style="width:100%" class="img" alt="A table lists the function of two assignment operators, 'equals to' and 'positive/negetive.' The table consists three columns named, 'operator', 'Meaning', 'example.'"/>
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-4.jpeg" style="width:100%" class="img" alt="A table lists function of ten assignment operators. The table consists three columns named, 'operator', 'Meaning', 'example.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-4.jpeg" style="width:100%" class="img" alt="A table lists function of ten assignment operators. The table consists three columns named, 'operator', 'Meaning', 'example.'"/>
 
 Examples for Assignment operators 
 
@@ -162,13 +162,13 @@ print(y)<br>
 
 Relational operator is also known as the comparison operator where we compare whether two values are the same or which is greater or lesser, etc... Depending on the compared values these operators will result in either True or False.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-5.jpeg" style="width:100%" class="img" alt="A table lists the function of comparison operators. The table consists three columns named, 'operator', 'Meaning', 'example.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-5.jpeg" style="width:100%" class="img" alt="A table lists the function of comparison operators. The table consists three columns named, 'operator', 'Meaning', 'example.'"/>
 
 ### **Logical operator**
 
 In python symbols or characters used in conditional statements is called Logical operators. It is either True or False. They are capable of performing AND, OR, and NOT operations. You can have a combination of more than a simple compound statement. In Logical Operator, False indicates 0, and True indicates any other number.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-6.jpeg" style="width:100%" class="img" alt="A table lists the logic operator function such as AND LOGIC, OR LOGIC, and NOT LOGIC"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-6.jpeg" style="width:100%" class="img" alt="A table lists the logic operator function such as AND LOGIC, OR LOGIC, and NOT LOGIC"/>
 
 - **AND Logic:** While using this operator, if the first expression is false, further expressions are not evaluated.
 - **OR Logic:** While using this operator, if the first expression is True, further expressions are not evaluated.
@@ -199,7 +199,7 @@ Bitwise operators are individual bits (0 and 1) of the operands. These 0 and 1 a
 
 **(Note)** : Only Integers work in the Bitwise operator.
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-7.jpeg" style="width:100%" class="img" alt="A table lists the bitwise operator function such as AND, OR, XOR, NOT, Zero fill left shift, Signed right shift. The table consists three columns named, 'operator', 'Meaning', 'example.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-7.jpeg" style="width:100%" class="img" alt="A table lists the bitwise operator function such as AND, OR, XOR, NOT, Zero fill left shift, Signed right shift. The table consists three columns named, 'operator', 'Meaning', 'example.'"/>
 
 Example<br>
 
@@ -237,7 +237,7 @@ In this we can check whether the elements are present in the sequence or not. It
 
 There are two membership operators listed below:
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-8.jpeg" style="width:100%" class="img" alt="A table lists  the function of the membership operator, such as in and not in. The table consists three columns named, 'operator', 'Meaning', 'example.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-8.jpeg" style="width:100%" class="img" alt="A table lists  the function of the membership operator, such as in and not in. The table consists three columns named, 'operator', 'Meaning', 'example.'"/>
 
 Example <br>
 
@@ -265,7 +265,7 @@ In this we can internally locate the memory location of the object and return an
 
 There are two types of identity operators:
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-9.jpeg" style="width:100%" class="img" alt="A table lists the function of identity operator such as is and is not. The table consists three columns named, 'operator', 'Meaning', 'example.'"/></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-9.jpeg" style="width:100%" class="img" alt="A table lists the function of identity operator such as is and is not. The table consists three columns named, 'operator', 'Meaning', 'example.'"/>
 
 Example <br>
 

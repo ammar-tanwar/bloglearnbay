@@ -37,7 +37,7 @@ Height = intercpet+slope*Weight (simple line equation)
 Here we can find the initialize the slope as 0.64 to find the intercept so for that just plug in the[ Least square](https://www.investopedia.com/terms/l/least-squares-method.asp#:~:text=The%20least%2Dsquares%20method%20is%20a%20statistical%20procedure%20to%20find,the%20behavior%20of%20dependent%20variables.) estimate for the slope 0.64 and intercept as 0.
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/grad.jpg"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/grad.jpg"   class="img"  />
 
 
 Height = intercpet+slope*Weight
@@ -62,7 +62,7 @@ This is the new value for y-axis If we want to plot the graph with value 5.34 on
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/grad1.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/grad1.png"   class="img"  />
 
 
 
@@ -72,7 +72,7 @@ It identifies the optimal values with big steps if the values are far from each 
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/grad2.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/grad2.png"   class="img"  />
 
 
 
@@ -137,7 +137,7 @@ There are following steps to solve the Gradient descent :
 
 
 
-<img src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/grad3.png"   class="img"  /></img>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/grad3.png"   class="img"  />
 
 
 
