@@ -13,7 +13,7 @@ h1: "Application of AI in Social Media Content Optimization"
 id: "application-of-ai-in-social-media-content-optimization"
 tableData:
   [
-         Optimizing Content Through Application of Data science and AI in Social media, How does Meta (formerly Facebook) make use of AI in social media?, Meta is improving its deep learning methodologies, What is Deep Text?, AI and social media enhancing Twitter, 1. Recommendation, 2. Remove hateful accounts, 3. Image cropping tool, Use of AI in social media platform Instagram, Suggesting searches from the Instagram algorithm, How does Instagram content work?, Working on the Instagram algorithm, The first three ranking factors of the Instagram algorithm in 2023 are:-, 1. Relationship between Creator and audience:-, 2. Interest:-, 3. Relevancy:-, The secondary Instagram algorithm includes, 1. Frequency of using the platform, 2. The number of users a person follows, 3. Session time, Conclusion
+         How does Meta (formerly Facebook) make use of AI in social media?, Meta is improving its deep learning methodologies, What is Deep Text?, AI and social media enhancing Twitter, 1. Recommendation, 2. Remove hateful accounts, 3. Image cropping tool, Use of AI in social media platform Instagram, Suggesting searches from the Instagram algorithm, How does Instagram content work?, Working on the Instagram algorithm, The first three ranking factors of the Instagram algorithm in 2023 are:-,1. Relationship between Creator and audience:-, 2. Interest:-, 3. Relevancy:-, The secondary Instagram algorithm includes, 1. Frequency of using the platform, 2. The number of users a person follows, 3. Session time, Conclusion
    ]
 ---
 
@@ -40,17 +40,17 @@ Instagram, today's most popular social networking app for sharing photos and vid
 
 ## Optimizing Content Through Application of Data science and AI in Social media
 
-### How does Meta (formerly Facebook) make use of AI in social media?  
+### How does Meta (formerly Facebook) make use of AI in social media?
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-2.jpg" style="width:100%" class="img" alt="An image shows the logo of Meta(formerly Facebook)."/>
 
-### Meta is improving its deep learning methodologies    
+### Meta is improving its deep learning methodologies   
 
 In contexts with deep learning, Meta (Facebook) employs a variety of techniques, including NLP and neural networks. META's NLP (Natural Language Processing) system's deep learning model uses neural networks to identify spam, inordinate promotional posts, and click baits via sorting and segmentation. Using such techniques to filter the contents and deliver a clean and optimized result to the user's news feed.
 
 Furthermore, Meta has recently launched a deep-text technology that uses neural networks to identify clickbait, promotional posts, and spam. This deep learning model will be a combination of NLP and machine learning. To sort through the posts and comments, Deep Text uses unsupervised learning technology.
 
-## What is Deep Text?     
+## What is Deep Text?   
 
 Deep Text is a more advanced deep learning concept that has the potential to replace traditional NLP and is capable of understanding text in a variety of languages. Conventional NLP appears to be significantly less effective than Deep Text due to scaling and linguistic issues.
 
@@ -67,10 +67,10 @@ Here we can deduce that DeepText eventually enhances Facebook experiences by com
 Celebrities and athletes use Facebook to draw large numbers of comments by selecting the most pertinent words in numerous languages, but maintaining comment quality is challenging. Deeptext also aids in the additional challenge of surfacing the most important or impressive comments.
 
 ## AI and social media enhancing Twitter  
-  
+
 Twitter is constantly experimenting with artificial intelligence in order to provide a great user experience on its social media platform. Here's a breakdown of how Twitter uses AI in its social media platform.
 
-### 1. Recommendation   
+### 1. Recommendation
 
 If we start from scratch, Twitter's AI algorithm manages all tweets. An AI algorithm aids tweet segmentation and lets users view suggested posts and tweets. In order to determine which tweet is the most pertinent and highly recommended to the audience, Twitter has implemented NLP and a Tweet ranking algorithm.
 
@@ -78,17 +78,17 @@ If we start from scratch, Twitter's AI algorithm manages all tweets. An AI algor
 
 AI algorithms aid in the identification and removal of accounts that may encourage extremist groups, terrorist activities, or tweets containing hate speech. This is critical in order to keep everybody's online community safe and positive.
 
-### 3. Image cropping tool  
+### 3. Image cropping tool
 
 Twitter's use of neural network architecture in its design has elevated its user experience to new heights. This enables the platform to display only the most intriguing part of an image for the thumbnail, increasing the chances of users clicking on the content
 
-## Use of AI in social media platform Instagram  
+## Use of AI in social media platform Instagram
 
 Instagram has been using AI for a long time, and thanks to AI and Big data algorithms, every user now has a personalized feed that is designed for specific interests. Below are the
 
 uses of AI in the Instagram platform:-
 
-## Suggesting searches from the Instagram algorithm   
+## Suggesting searches from the Instagram algorithm
 
 The Instagram algorithm is intended to rank content on the platform and provide users with easy access to the content they enjoy. To determine how to distribute and design content, the algorithm examines metadata (captions and image alt text), engagement metrics, and hashtags. This ensures that users can see the content they want while also introducing new and interesting content to them.
 
@@ -96,17 +96,17 @@ Instagram algorithm cross-refers information about the content (reels, stories, 
 
 "We want to make the most of your time, and we believe that using technology [the Instagram algorithm] to personalize your experience is the best way to do that," wrote <a href="https://about.instagram.com/blog/announcements/shedding-more-light-on-how-instagram-works" target="_blank">Instagram</a> **CEO Adam Mosseri in 2021**
 
-## How does Instagram content work?     
+## How does Instagram content work?  
 
 Understanding the algorithm by which Instagram operates is essential in order to maximize content-sharing techniques and generate traffic from the majority of posts.
 
 There are millions of photos, videos, and reels on Instagram's platforms, and the company's user base is steadily expanding. AI created a search function for an extensive database to help users find images relevant to their activity and user experiences. The mechanisms through which Instagram operates are mentioned below.
 
-## Working on the Instagram algorithm      
+## Working on the Instagram algorithm   
 
 Each time the user opens the app, The Instagram algorithm instantly evaluates all the content that is accessible and determines which content needs to be shown in a specific order.
 
-## The first three ranking factors of the Instagram algorithm in 2023 are:-  
+## The first three ranking factors of the Instagram algorithm in 2023 are:-
 
 ### 1. Relationship between Creator and audience:-
 
@@ -114,8 +114,7 @@ If you DM, follow, or comment on each other's posts? If certain users seem to in
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-3.jpg" style="width:100%" class="img" alt="An image shows the logo of Instagram."/>
 
-### 2. Interest:-   
-
+### 2. Interest:-
 
 If the user frequently engages with a certain kind of content? When a user likes a particular content item in a different style or format, the Instagram algorithm can detect this and display the same piece of content.
 
@@ -123,23 +122,23 @@ If the user frequently engages with a certain kind of content? When a user likes
 
 Instagram's algorithm determines how "Relevant" each piece of content seems to be, such as where it appears to fit into a trending topic and even how timeless it is (recent posts are considered more relevant than old posts).
 
-## The secondary Instagram algorithm includes
+## The secondary Instagram algorithm includes    
 
-### 1. Frequency of using the platform        
+### 1. Frequency of using the platform
 
 Instagram will show users the most popular content when the app is opened frequently. This means that businesses could be crowded with customers who are being influenced by what their friends and family are consuming.
 
-### 2. The number of users a person follows    
+### 2. The number of users a person follows  
 
 When a person follows more accounts, the feed becomes more crowded with content from competing accounts.
 
-### 3. Session time   
+### 3. Session time
 
 If an Instagram user spends significantly less time on the app, the user will see posts from friends and family with whom they interact on the Instagram platform. This simplifies the process for businesses to surface their feed.
 
 _There are numerous ways to use AI in social media to optimize content, but the aforementioned tips should be known by all social media users because they can be incorporated into social media platforms to improve user experience and viability._
 
-## Conclusion     
+## Conclusion  
 
 <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">Data science and AI</a> have been changing the way people interact with each other. They are optimizing content and personalizing feeds based on the preferences and dislikes of specific users. These social media apps have been updated with seamless and user-friendly features, allowing users to stay on the app and watch the content they want. Moreover, it has added business features so they can earn money through such apps.
 

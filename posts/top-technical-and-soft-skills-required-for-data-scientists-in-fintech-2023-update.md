@@ -116,6 +116,6 @@ A data scientist must be well-versed in the business field in order to assist an
 
 ## Conclusion  
 
-By leveraging data science and AI, BFSI systems have altered the entire landscape of banking payment processes. Paperless transactions and instant payment with fast updates of transactions in secured systems. By learning these technologies today, professionals working in the banking and finance sector can learn new <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">data science and AI</a> skills to work for the best designation in banking and finance.
+By leveraging data science and AI, BFSI systems have altered the entire landscape of banking payment processes. Paperless transactions and instant payment with fast updates of transactions in secured systems. By learning these technologies today, professionals working in the banking and financesector can learn new <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">data science and AI</a> skills to work for the best designation in banking and finance.
 
 You can follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/" target="_blank">Linkedin</a>, and <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a> to get instant updates about **data science** and AI happenings worldwide.
