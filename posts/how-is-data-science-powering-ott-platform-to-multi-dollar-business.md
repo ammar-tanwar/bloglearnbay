@@ -6,7 +6,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/popt-
 date: "December 26, 2022"
 tag: [ AI in Social media, AI and Social media ]
 category: "Data Science"
-author: "Manas" 
+author: "Manas Khochar" 
 position: "Editor"
 readTime: "15-18 mins"
 h1: "How Is Data Science Powering OTT Platform to Multi-Dollar Business"

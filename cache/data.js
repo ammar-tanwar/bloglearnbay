@@ -1,0 +1,1 @@
+export const posts = [{"id":"5-amazing-usages-of-ai-in-the-entertainment-industries","title":"5 Amazing Usages of AI in the Entertainment Industries"},{"id":"7-best-machine-learning-companies-to-work-for-in-bangalore-2023","title":"7 Best Machine Learning companies to work for in Bangalore 2023"}]

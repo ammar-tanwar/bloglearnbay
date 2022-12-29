@@ -6,13 +6,21 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prepare": "husky install",
+    "cache-posts":"node scripts/cache.js"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn cache-posts && git add cache/data.js"
+    }
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.47.0",
     "feed": "^4.2.2",
     "googleapis": "^107.0.0",
     "gray-matter": "^4.0.3",
+    "husky": "^8.0.2",
     "marked": "^4.0.17",
     "next": "12.2.2",
     "next-share": "^0.18.1",
