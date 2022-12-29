@@ -6,9 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "test":"test",
     "lint": "next lint",
     "prepare": "husky install",
-    "cache-posts":"node scripts/cache.js"
+    "cache-posts": "node scripts/cache.js"
   },
   "husky": {
     "hooks": {
@@ -20,7 +21,6 @@
     "feed": "^4.2.2",
     "googleapis": "^107.0.0",
     "gray-matter": "^4.0.3",
-    "husky": "^8.0.2",
     "marked": "^4.0.17",
     "next": "12.2.2",
     "next-share": "^0.18.1",
@@ -34,6 +34,7 @@
   },
   "devDependencies": {
     "eslint": "8.19.0",
-    "eslint-config-next": "12.2.2"
+    "eslint-config-next": "12.2.2",
+    "husky": "^8.0.2"
   }
 }
