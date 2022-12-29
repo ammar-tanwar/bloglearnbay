@@ -9,7 +9,7 @@ category: "Data Science"
 author: "Admin"
 position: "editor"
 readTime: "7-9 mins"
-h1: "You could be a pro in Data Science by Self Assisting,"
+h1: "You could be a pro in Data Science by Self Assisting"
 id: "you-could-be-a-pro-in-data-science-by-self-assisting-data-scientist"
 tableData:
   [

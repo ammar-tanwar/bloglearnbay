@@ -10,7 +10,7 @@ author: "Nivin Biswas"
 position: "Editor"
 readTime: "15-18 mins"
 h1: "The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI"
-id: "the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai"
+id: " "
 tableData:
   [
       What really is DALL-E 2?, The actual functioning of DALL-E 2:-, Why has DALL-E 2 gained popularity?, Is DALL-E 2 free to use?, What Makes DALL-E 2 So Disruptive?, Top three features of DALL-E 2:-, 1. Visualizing Three Dimensionality and Perspective:-, 2. Visualizing Structure Inside and Outside:-, 3. Speculating Contextual Information:-, Four amazing things you can do with DALL-E 2 applications:-, 1. Combining seemingly unrelated ideas:-, 2. Animal Illustration:-, 3. Visual reasoning with a zero-shot:-, 4. Geographic Location:-, Ethical concerns of DALL-E 2:-, Technical limitation:-, Final Thoughts:-

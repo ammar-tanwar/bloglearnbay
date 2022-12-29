@@ -9,7 +9,7 @@ category: "Machine Learning"
 author: "Admin"
 position: "editor"
 readTime: "9-12 mins"
-h1: "Advanced Data science Course Training in Bangalore"
+h1: "Random Forest Model : RFM"
 id: "random-forest-model-rfm"
 tableData:
   [

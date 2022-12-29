@@ -10,7 +10,7 @@ category: "Data Science"
 position: "Editor"
 readTime: ""
 h1: "How to Build a Rewarding Career As a Healthcare Data Scientist?"
-id: "media-hospitality-and-transportation-know-how-data-science-will-help-you-to-survive"
+id: "how-to-build-a-rewarding-career-as-a-healthcare-data-scientist"
 tableData:
   [
   Data Science in Healthcare– Know The Hidden Scopes,
