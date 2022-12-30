@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-1.jpg" style="width:100%" class="img" alt="A banner image titled as, 'DALL-E2- THE NEW HORIZON TEXT-TO-IMAGE TECHNOLGY'"/>
+
 
 <span style=" font-weight:bold; font-size:28px"> DALL-E 2- The New Horizon of Text-to-Image Technology </span>
 

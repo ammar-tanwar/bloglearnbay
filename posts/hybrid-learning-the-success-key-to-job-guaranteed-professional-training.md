@@ -23,7 +23,6 @@ tableData:
 
 How Can Hybrid Learning Help You Achieve the Full-fledged Benefits of an Online Professional Course?
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-1.jpeg" style="width:100%" class="img" alt="A professional studying online while enjoying the benefits of offline classes."/>
 
 
 Upgrading technical skills is the only key to sustainable professional growth. It has already been proven that self-learning is not a good choice in the fast-growing job market.

@@ -19,7 +19,7 @@ tableData:
   ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg" style="width:100%" class="img" alt="An image portrays a recruiter conducting an interview with two data science aspirants after completing a data science course."/>
+
 
 <span style=" font-weight:bold; font-size:28px">You Can Still Become A Data Scientist Without Any Tech Degree</span>
 

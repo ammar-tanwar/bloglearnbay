@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-1.jpg" style="width:100%" class="img" alt="A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."/>
+
 
 <span style=" font-weight:bold; font-size:28px">Explore the Deep Learning Algorithms Those Gonna Rock for the Next 5 Years</span>
 

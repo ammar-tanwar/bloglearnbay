@@ -18,8 +18,6 @@ tableData:
 ---
 <span style=" font-weight:bold; font-size:28px"> Find out the 2023 trends of data scientist salaries in India. While scopes are there why settle for less!! </span>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-1.jpg" alt="Two data scientists sitting on opposite corners of a seesaw, which is made of a gold dollar coin image and a platform. The accompanying title reads, 'Is Your Data Scientist Salary Competitive? Cross check with letest trends.'" style="width:100%" class="img"/>
-
 **Data Scientist** has been the most desired job title in the last few years. It has been termed the <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century" target="_blank">"Sexiest Job of the 21st century"</a> for every right reason. A Data Scientist has the power to derive hidden insights from any unstructured data.
 
 Data accessibility nowadays can help firms enjoy many benefits from it. As a result, corporations around the world, and even in India are quite apprehensive about raising **data scientists' salaries**. Companies are offering big figures to those with the skills of handling data analytics and data engineering responsibilities.

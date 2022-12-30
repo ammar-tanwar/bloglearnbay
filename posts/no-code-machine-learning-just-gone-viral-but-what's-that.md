@@ -22,7 +22,7 @@ tableData:
 
 # No Code Machine Learning Just Gone Viral!- But What's That?
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-1.jpeg" style="width:100%" class="img" alt="A banner shows two professionals working on coding while one is seated in front of a laptop and the other is using a different screen."/>
+
 
 ## Introduction to No code Machine Learning:-
 

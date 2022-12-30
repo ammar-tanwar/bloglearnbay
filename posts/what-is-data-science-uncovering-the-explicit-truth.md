@@ -20,7 +20,7 @@ tableData:
 
 # What is Data Science? | Uncovering The Explicit Truth
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science1.png" style="width:100%" class="img" alt="An image titled, ' What is data science?'"/>
+
 
 
 Data Science Become a Major Player in 2022: Know-How.

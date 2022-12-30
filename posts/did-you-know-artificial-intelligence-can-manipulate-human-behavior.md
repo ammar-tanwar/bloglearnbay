@@ -19,7 +19,7 @@ tableData:
 ---
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-1.jpg" style="width:100%" class="img" alt="A banner graphic showing an AI-powered robot and a human sitting together with their laptops at a round table. multiple setting logos around them indicates the robot can manipulate human behavior. The accompanying text reads, 'AI.'"/>
+
 
 <span style=" font-weight:bold; font-size:28px">Introduction to AI and Human Behavior</span>
 

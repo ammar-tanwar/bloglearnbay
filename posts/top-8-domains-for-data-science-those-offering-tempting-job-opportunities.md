@@ -21,7 +21,7 @@ tableData:
 
 <span style=" font-weight:bold; font-size:28px"> Come Out of The Misconception : Data Science is Not Only Built for IT. It's There to Enhance Every Domain. </span>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d0.jpg" style="width:100%" class="img" alt="A banner image represents the diversity of data science and the various data scientist job responsibilities."/>
+
 
 Data is almost present everywhere, and it is crucial in every business today. The use of data across industries has grown abundantly by creating numerous data scientist job roles in almost every field.
 

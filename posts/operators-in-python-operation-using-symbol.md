@@ -24,7 +24,7 @@ tableData:
 
 # Operators in Python - Operation using Symbols
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg" style="width:100%" class="img" alt="A banner image titled, 'operator in python.'"/>
+
 
 <i>A character that is used to represent an action in mathematics is an operator. In the same way, python operators are used in performing a particular task on values and variables. There is a specific operation for each symbol or operator.</i>
 

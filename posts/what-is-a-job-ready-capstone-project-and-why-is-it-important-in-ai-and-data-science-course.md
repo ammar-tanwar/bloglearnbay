@@ -33,7 +33,7 @@ tableData:
 
 # What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-1.jpg" style="width:100%" class="img" alt="An illustration shows, two data scientists are discussing and analyzing a  data science capstone Project."/>
+
 
 Capstone Project Is What You Need To Stand Out From Other Applicants During Recruitment
 

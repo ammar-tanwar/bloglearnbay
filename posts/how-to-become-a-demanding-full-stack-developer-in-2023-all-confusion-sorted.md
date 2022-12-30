@@ -22,7 +22,7 @@ tableData:
 
 # How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg" style="width:100%" class="img" alt="A banner image showcases the full-stack developer codes."/>
+
 
 ## <i>Become A Full-Stack Developer Wiz Within A Year</i>
 

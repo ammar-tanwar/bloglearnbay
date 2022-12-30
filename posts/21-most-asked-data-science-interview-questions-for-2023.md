@@ -17,7 +17,7 @@ tableData:
   ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-1.jpg" style="width:100%" class="img" alt="A Banner image of a professional teaching and student understanding 21 most common data science interview questions for 2023"/>
+
 
 <span style=" font-weight:bold; font-size:28px"> Know the Right Approach to Handle the Most Asked Data Science Interview Questions </span>
 

@@ -21,7 +21,7 @@ tableData:
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7-machine-1.jpg" style="width:100%" class="img" alt="A banner image shows stacks of high-raised office buildings of machine learning companies."/>
+
 
 <span style=" font-weight:bold; font-size:28px">Here are the companies, ready to pay any figure to an eligible machine learning engineer</span>
 

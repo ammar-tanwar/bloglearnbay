@@ -19,8 +19,7 @@ tableData:
 
 <span style=" font-weight:bold; font-size:28px">OctoML Can Make Your Machine Learning Model Deployment 5X Faster</span>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-1.jpg" alt="A banner image titled, 'OctoML- The Coolest Platform for Faster Machine Learning Model Deployment
-" style="width:100%" class="img"/>
+
 
 ## What is OctoML ?
 

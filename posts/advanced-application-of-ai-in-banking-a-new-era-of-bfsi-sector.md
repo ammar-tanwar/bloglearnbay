@@ -19,7 +19,7 @@ tableData:
 
 <span style=" font-weight:bold; font-size:28px">  Know How AI in Banking and Finance is Leading Us to Super Secure and Worry-free Banking Experiences! </span>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-1.jpg" alt="An illustration of a bank that contains a chat bubble represents the the application of AI in Banking. The accompanying text reads, 'A New Era of BFSI Sector.'" style="width:100%" class="img"/>
+
 
 Standing in long queues for a banking service or waiting a week to do a money transfer is now like an olden days story.
 

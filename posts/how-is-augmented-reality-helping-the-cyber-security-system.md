@@ -18,7 +18,7 @@ tableData:
    ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-1.jpg" alt="The banner image displays a human hand with numerous AR features in cybersecurity." style="width:100%" class="img"/>
+
 
 <span style=" font-weight:bold; font-size:28px">Augmented Reality Increasing Accountability Through Cyber Security</span>
 

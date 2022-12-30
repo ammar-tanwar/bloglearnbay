@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg" style="width:100%" class="img" alt="A banner illustration titled, 'Most Trending AI Applications in the Transportation Industry.' The illustration of transport vehicles and an AI-based automated robot."/>
+
 
 <span style=" font-weight:bold; font-size:28px"> Know How Innovation of AI in Transportation Is Easing Our Life?</span>
 

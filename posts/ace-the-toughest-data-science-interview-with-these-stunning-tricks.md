@@ -20,7 +20,7 @@ tableData:
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-1.jpg" style="width:100%" class="img" alt="A data science aspirant seated in front of a laptop analyzes numerous data science interview preparations."/>
+
 
 A Guide for **data science interview preparation.**
 

@@ -20,8 +20,6 @@ tableData:
 ---
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f1.jpg" style="width:100%" class="img" alt="A banner image shows a woman seated with a job offer as a full-stack software developer. The text reads, 'let's get started.'"/>
-
 
 <span style=" font-weight:bold; font-size:28px">Women can now easily grab an unbelievable hike even after a long career break… Just earn industry-level full-stack developer skills.</h2>
 

@@ -21,7 +21,7 @@ tableData:
 ---
 # Oops! Why 2023 Is Too Late For Video-Based Data Science Learning
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-4.jpg" style="width:100%" class="img" alt="A banner image showing a data science professional using an online medium to learn about data science."/>
+
 
 Online data science courses are still the best option, but the recorded video-based ones are the worst.
 

@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' Application of AI in Social Media Content Optimization' contains the logo of YouTube, Facebook, Twitter, and Instagram."/>
+
 
 <span style=" font-weight:bold; font-size:28px"> Know How Meta, Instagram & Twitter are Utilizing the Big Benefits of AI in Social Media</span>
 

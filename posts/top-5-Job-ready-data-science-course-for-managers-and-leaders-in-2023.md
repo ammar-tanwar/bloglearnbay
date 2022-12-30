@@ -24,7 +24,7 @@ tableData:
   ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-1.png" style="width:100%" class="img" alt="A Banner image consists of the text, 'Top 5' in the background."/>
+
 
 # Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023
 

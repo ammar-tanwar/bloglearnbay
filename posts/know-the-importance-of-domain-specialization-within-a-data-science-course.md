@@ -21,7 +21,6 @@ tableData:
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-1.jpg" style="width:100%" class="img" alt="An image titled, 'Know The Importance of Domain Specialization Within a Data Science Course.'"/>
 
 **Becoming a jack of all trades in data science is not the wisest strategy. Pursue a domain specialization if you want to make a secure data science career**
 

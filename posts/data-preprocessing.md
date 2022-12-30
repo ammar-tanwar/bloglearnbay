@@ -41,7 +41,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data.png" width="400px" class="img"  />
 
-2. StandardScaler
+1. StandardScaler
 
 * The StandardScaler assumes your data is normally distributed within each feature and will scale them such that the distribution is now centered around 0, with a standard deviation of 1.
 * Calculate – Subtract mean of column & div by the standard deviation

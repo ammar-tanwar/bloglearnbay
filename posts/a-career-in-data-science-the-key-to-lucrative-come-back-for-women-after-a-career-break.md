@@ -20,7 +20,7 @@ tableData:
 ---
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w1.jpg" style="width:100%" class="img" alt="A banner image portrays a woman standing in front of a computer, dreaming of a career in data science."/>
+
 
 <span style=" font-weight:bold; font-size:28px">A Career Break Now Can't Stop Women from Growing</span>
 

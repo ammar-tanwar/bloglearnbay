@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-1.jpg" style="width:100%" class="img" alt=" An increasing forecast of stocks is represented by a bar graph."/>
+
 
 <span style=" font-weight:bold; font-size:28px">The application of ML has changed the direction of stock market prediction. Know how? </span>
 

@@ -19,7 +19,7 @@ tableData:
 
 # Tuples - An Immutable Derived Datatype
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' Tuples in python' on the right. The left side contains a logo of Python."/>
+
 
 Some documents that have unique numbers (passport, driving license, voter id, and the pixels of an image) that cannot/should not be changed. Such elements are stored in a set that satisfies all the requirements known as a tuple.
 

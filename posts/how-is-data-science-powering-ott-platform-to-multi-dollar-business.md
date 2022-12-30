@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/popt-1.png" style="width:100%" class="img" alt="A young woman is seated in front of a laptop and is using data to power upan O-T-T-based platform."/>
+
 
 <span style=" font-weight:bold; font-size:28px"> Know How Multi-Dollar Businesses Use Data Science and Machine Learning </span>
 

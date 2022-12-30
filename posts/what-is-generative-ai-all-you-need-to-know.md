@@ -21,7 +21,7 @@ tableData:
 
 # Why Has Generative AI For Deepfake And Synthetic Data Been So Popular Till Now?
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-1.jpg" style="width:100%" class="img" alt="An illustration shows a person's face getting scanned face with the help of deep fake AI for synthetic data."/>
+
 
 **AI-generated deep fake** and **synthetic data** appears to be a very fascinating topic these days, with a developing trend. We've seen a lot of examples, and one of the most common examples of Deepfake and Synthetic data is Instagram or TikTok. Yes, these two crazily popular apps are powered by Deepfake.
 

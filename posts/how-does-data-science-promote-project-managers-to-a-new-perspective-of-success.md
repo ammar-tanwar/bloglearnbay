@@ -19,7 +19,7 @@ tableData:
   ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg" style="width: 100%;" alt="An Illustration titled, 'How Does Data Science Promote Project Managers to a New Perspective of Success' shows a man shaking hand with a robot. A second robot is busy with some analytics in front of a display."/>
+
 
 
 ## Old School Project Management expertise Is Now outdated? But Businesses Saved And Revived By Data Science orientation.

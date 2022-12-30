@@ -18,7 +18,7 @@ tableData:
     What Are The Latest Trends In Data Scientist Salary?,
   ]
 ---
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg" alt="An illustration shows a boy and an AI-based robot are playing video games while sitting together,. The background shows a desk and laptop setup, a bookshelf, and an AI-based dog."/>
+
 
 ## Technology Has No Break- Know The Data Science Latest Trends Leading Different Industries.
 

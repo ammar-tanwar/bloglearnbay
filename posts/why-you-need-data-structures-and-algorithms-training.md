@@ -20,7 +20,7 @@ tableData:
 
   ]
 ---
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/datastructure.png" style="width:100%" class="img"/>
+
 
 The best of actors practice their dialogues in front of the mirror; they do several rehearsals before they start shooting for a film. The best of cricketers spend hours in the net,practicing. Practice makes man perfect. It is true in case of job interviews too. The more your practice how to present yourself and your skills the better off you will be in the real interview.
 

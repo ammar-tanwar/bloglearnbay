@@ -19,7 +19,7 @@ tableData:
 ---
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-1.jpg" alt="A desktop monitor displays a pie chart and a bar graph, side-by-side. The accompanying text reads, 'Hyperautomation and Its Benefits to Businesses and IT Processes.'" style="width:100%" class="img"/>
+
 
 <span style=" font-weight:bold; font-size:28px">Learn How Hyperautomation Helps in Enhancing Business and IT Processes!</span>
 

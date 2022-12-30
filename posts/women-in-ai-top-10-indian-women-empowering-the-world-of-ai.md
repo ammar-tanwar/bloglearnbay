@@ -23,7 +23,7 @@ tableData:
 
 <span style="">Know The Women AI Leaders From India, Excelling In The Tech World.</span>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-1.png" style="width:100%" class="img" alt="A banner image titled, ' Women Empowering the World of AI.'"/>
+
 
 A decade ago, very few Indian women used to choose the tech field as their career. Even after owning 100 times better technical intelligence, so many Indian women lost themselves in the crowd. Their intelligence remained limited and unrevealed under the stacks of certificates. Here, always the barrier has been the fear of not getting adopted by the fast-track corporate culture.
 

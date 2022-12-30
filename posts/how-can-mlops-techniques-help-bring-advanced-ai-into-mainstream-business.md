@@ -17,10 +17,6 @@ tableData:
    ]
 ---
 
-
-
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hcmt-1.png" style="width:100%" class="img" alt="A two-part banner image shows an illustration of three  AI robots on the left and a photo of three MLOps developers on the right."/>
-
 <span style=" font-weight:bold; font-size:28px">  Why is AI difficult to deploy, and why are MLOps required? </span>
 
 Several businesses aren't implementing artificial intelligence (AI) because of various factors. The transition from creating and training settings to production environments is still one of the major problems. Few companies are now capable of making this transition swiftly and on a big scale, which is a necessary component if they want to benefit from employing AI.

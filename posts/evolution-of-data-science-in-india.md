@@ -19,7 +19,7 @@ tableData:
     
   ]
 ---
-When we talk about evolution of Data Science, we mean about the origin of Statistics, because the term “Data Science” is a_ tailored term_ to the original term “Statistics“.
+When we talk about evolution of Data Science, we mean about the origin of Statistics, because the term “Data Science” is a tailored term_ to the original term “Statistics“.
 
 Let’s observe the definition of Data Science, it is a vast field in where mountain sizes of data are jumbled by data scientists. They gather the data by different platforms and datasets, to analyze them, clean them, connect them and try to fetch sense out of them. All this process is to find a solution for the minor to major business problems of major companies.
 

@@ -21,7 +21,7 @@ tableData:
 
 # The Most Important Skills of Data Science To Master in 2023?
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-1.jpg" style="width:100%" class="img" alt="A human hand is busy on a laptop keyboard earning data science skills. A robotic hand pops up from the laptop screen."/>
+
 
 The Data Science Key Skills Are Not Found Easily In A Data Scientist
 

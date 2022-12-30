@@ -17,7 +17,7 @@ tableData:
   ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance1.png" alt="An illustration titled, 'DATA SCIENCE IN Healthcare, Pharma and Clinical research domain' shows a group of medical staff such as a doctor, Nurses, etc."/>
+
 
 Got your master's degree in genetic counseling, occupational therapy, health administration, or any other healthcare domain? Well, you might be very anxious to join a renowned organization with a six-figure salary package? But wait. It’s not that easy these days. I have found more than 70% of lucrative healthcare degree holders are still struggling to secure their position. Every single day they dreamt of losing their jobs.
 

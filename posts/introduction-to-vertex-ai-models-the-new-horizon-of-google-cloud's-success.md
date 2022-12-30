@@ -22,8 +22,6 @@ tableData:
 
 <span style="">What Is Vertex AI Model?</span>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg" style="width:100%" class="img" alt="An illustration shows a human figure wearing VR glasses and leveraging vertex AI-powered cloud ML."/>
-
 Google has officially announced that it has unified its AutoML and AI Platform **APIs** into one managed platform called **Vertex AI**. Vertex AI Workbench is a single platform where data scientists can execute all of their machine learning processes, from testing to deployment to model administration and monitoring. It combines AutoML and AI Platform into a unified API, client library, and user experience. **It's a fully managed, scalable, and enterprise-ready Jupyter-based compute infrastructure with security controls and user management features.** 
 
 It's crucial to comprehend the significance of machine learning before understanding more about Vertex AI. Many people may be wondering how <a href="https://blog.learnbay.co/future-of-education-in-hands-of-machine-learning" target="_blank">machine learning</a> and AI are related, and the answer is simple. **Machine learning** is a branch of artificial intelligence that allows a machine to learn from previous data without having to explicitly build it. The goal of AI is to develop a smart computer system capable of solving complex problems in the same manner that humans can. **Machine learning's** purpose is to enable machines to learn from data and produce accurate results.

@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' 7 Ways Artificial Intelligence Innovation Is Wiping Out Environmental Impurities!'"/>
+
 
 <span style=" font-weight:bold; font-size:28px"> Know the application of artificial intelligence in environmental health control</span>
 

@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' 10 Must-Know Machine Learning Algorithms for Beginners in 2023' consists of an ML-powered humanoid robot."/>
+
 
 <span style=" font-weight:bold; font-size:28px">  Know the 10 Most Useful Machine Learning Algorithms That Every Beginner Should Include in Their Learning List </span>
 

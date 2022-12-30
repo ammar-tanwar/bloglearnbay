@@ -19,7 +19,7 @@ tableData:
 ---
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-1.jpg" alt=" A 3rd generation of Amazon Alexa eco dot device." style="width:100%" class="img"/>
+
 
 <span style=" font-weight:bold; font-size:28px"> Conversational AI - The Magic Behind Seamless Voice Control Experience of Alexa</span>
 

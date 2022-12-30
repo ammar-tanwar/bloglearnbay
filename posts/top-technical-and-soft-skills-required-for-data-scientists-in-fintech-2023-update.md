@@ -20,7 +20,7 @@ tableData:
 
 <span style=" font-weight:bold; font-size:28px"> Fintech Industries are Crazily Seeking These Skills Within Pro Data Scientists </span>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-1.png" style="width:100%" class="img" alt="A banner image titled, 'Technical and soft skills essential for a data scientist in fintech'  shows an illustration of a data scientist using a laptop on the left."/>
+
 
 
 Data scientists are vital to the success of many fintech companies, but it's a relatively new and unproven field, which means that data scientists need to be on top of their game. As technology continues to evolve, data scientists need to keep up with the latest developments and change their skill sets accordingly. In the fintech industries, there is a list of specific skills required for data scientists.

@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-1.jpg" style="width:100%" class="img" alt="A banner image representing the use of IoT in various domains like automotive, electrical, etc.  This indicates the development of AIoT."/>
+
 
 <span style=" font-weight:bold; font-size:28px">IoT is Approaching the Next-gen Advancement Via AIoT</span>
 

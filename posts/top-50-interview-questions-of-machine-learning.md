@@ -1,10 +1,10 @@
 ---
 title: Top 50 Interview Questions of Machine Learning
-desc: "Create dummy variables out of a categorical variable and include them instead of the original categorical variable. Unlike regression, create k dummies instead of (k-1)..."
+desc: "Get prepared for your machine learning interview with our list of the top 50 most commonly asked interview questions. From linear regression to time series, these questions cover a wide range of topics and will help you showcase your knowledge and skills in the field of machine learning. Improve your chances of landing the job by reviewing these essential interview questions of machine learning."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview.jpg"
 date: "May 27, 2021"
-tag: [ Machine Learning ]
+tag: [ Interview questions of machine learning, Machine learning interview questions ]
 category: "Machine Learning"
 author: "Admin"
  

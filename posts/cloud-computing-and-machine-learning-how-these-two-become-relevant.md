@@ -21,7 +21,7 @@ tableData:
 
 <span style=" font-weight:bold; font-size:28px"> What is the Relationship between Cloud Computing and Machine Learning?<span>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-1.jpg" style="width:100%" class="img" alt="An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing."/>
+
 
 Cloud computation and machine learning are ruling the industry for a long period of time. Both of these technologies are critical to the growth of both small and large businesses. It serves as an organization's technology hub. Organizations can use cloud computing to process large amounts of data and get relevant results in real-time. This blog delves into the various aspects of cloud computing and machine learning about how they help various firms.
 
