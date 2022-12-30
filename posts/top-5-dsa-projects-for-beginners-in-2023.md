@@ -20,7 +20,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-1.jpg" style="width:100%" class="img" alt="An image titled, ' Top 5 DSA Projects for Beginners in 2023.'"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px"> New to DSA Field! Having Any of these DSA Projects in Your CV is Bound to Grab the Attention of Recruiters </span>
+<span style=" font-weight:bold; font-size:28px"> New to DSA Field! Having Any of these DSA Projects in Your CV is Bound to Grab the Attention of Recruiters </span>
 
 DSA skills are now in massive demand, and so are the relevant certification courses.
 

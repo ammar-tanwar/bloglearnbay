@@ -21,7 +21,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-1.jpg" alt="A desktop monitor displays a pie chart and a bar graph, side-by-side. The accompanying text reads, 'Hyperautomation and Its Benefits to Businesses and IT Processes.'" style="width:100%" class="img"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">Learn How Hyperautomation Helps in Enhancing Business and IT Processes!</span>
+<span style=" font-weight:bold; font-size:28px">Learn How Hyperautomation Helps in Enhancing Business and IT Processes!</span>
 
 The days of having to wait months long for reimbursements in offices are gone. You may have waited for even 3 to 4 months to get your insurance claim. Now everything is just a matter of a few days or hours and a few clicks. "Hyperautomation" is making everything faster and smarter.
 

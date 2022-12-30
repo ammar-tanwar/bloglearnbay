@@ -21,7 +21,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata-1.png" style="width:100%" class="img" alt="A banner image titled, ' TOP PROGRAMMING LANGUAGES OF DATA SCEINECE'."/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">Explore The Most Used Programming Languages In Data Science</span>
+<span style=" font-weight:bold; font-size:28px">Explore The Most Used Programming Languages In Data Science</span>
 
 Programming language is one of the pillars of data science advancement that comes just after the statistical requirement. You might question yourself as to which is the best data science course where you can learn all the present-day programming languages that are driving the world of AI and data science. But before that, you must be updated about the most used programming language.
 

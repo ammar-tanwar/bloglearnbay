@@ -20,7 +20,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-1.jpg" alt="The banner image displays a human hand with numerous AR features in cybersecurity." style="width:100%" class="img"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">Augmented Reality Increasing Accountability Through Cyber Security</span>
+<span style=" font-weight:bold; font-size:28px">Augmented Reality Increasing Accountability Through Cyber Security</span>
 
 **Augmented reality (AR)** is a concept that describes how a person's digital experience is enhanced in the actual world. For example, applications such as video games and outdoor navigation systems can be accessed through images of the actual environment when a user wears a head-mounted device with a small screen. **Augmented reality improves visibility by combining digital information with a virtual environment. It's transforming how businesses, organizations, and individuals work, and it could be the next great step in machine evolution.**
 

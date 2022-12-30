@@ -20,7 +20,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-1.jpg" style="width:100%" class="img" alt="An image titled 'Amazing Usages of the AI in Entertainment Industry' with a visual representation of a dancing AI-based robot."/>
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Know How AI in the Entertainment Industry is Becoming an Inseparable Existence </span>
+<span style=" font-weight:bold; font-size:28px"> Know How AI in the Entertainment Industry is Becoming an Inseparable Existence </span>
 
 Just a decade ago, AI used to exist within Sci-fi movies only. But now, every alternative city home consists of at least one AI device- a smart AC or just a smart light and even our smartphones are now equipped with AI cameras.
 

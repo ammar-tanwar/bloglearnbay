@@ -19,7 +19,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-11.jpg" alt="An banner image titled,' ML Fairness Indicator'." style="width:100%" class="img"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Importance of ML Fairness Indicator System and Its Adaption by Google! </span>
+<span style=" font-weight:bold; font-size:28px"> Importance of ML Fairness Indicator System and Its Adaption by Google! </span>
 
 Google has recently announced an ML fairness indicator, but before going further, we must get a brief on what the fairness indicator is.
 

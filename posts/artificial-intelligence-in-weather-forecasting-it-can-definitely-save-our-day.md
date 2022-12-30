@@ -21,7 +21,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-1.jpg" alt="A visual representation of the weather forecast using a robotic arm and a weather forcasting display." style="width:100%" class="img"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">AI Advancement is Making Weather Forecasting More Precise Day by Day.
+<span style=" font-weight:bold; font-size:28px">AI Advancement is Making Weather Forecasting More Precise Day by Day.
 </span>
 
 For a long time, weather prediction seemed impracticable. Yet, with advancements in technology and new innovations, this endeavor has become both feasible and bizarre. Our access to a varied range of information is advancing at a rapid pace as technology advances.

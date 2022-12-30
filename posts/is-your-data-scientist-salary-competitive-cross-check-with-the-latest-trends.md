@@ -16,7 +16,7 @@ tableData:
      Data Scientist career potential and Salary, So how much can a data scientist earn?, 1. Location (India-based), 2. Experience, 3. Company, 4. Skills, 5. Job Role, Data Engineers, Data Analyst, Education
    ]
 ---
-<span style="color:blue; font-weight:bold; font-size:28px"> Find out the 2023 trends of data scientist salaries in India. While scopes are there why settle for less!! </span>
+<span style=" font-weight:bold; font-size:28px"> Find out the 2023 trends of data scientist salaries in India. While scopes are there why settle for less!! </span>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-1.jpg" alt="Two data scientists sitting on opposite corners of a seesaw, which is made of a gold dollar coin image and a platform. The accompanying title reads, 'Is Your Data Scientist Salary Competitive? Cross check with letest trends.'" style="width:100%" class="img"/>
 

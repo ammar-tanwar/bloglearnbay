@@ -2,6 +2,7 @@
   margin-top: 30px;
   margin-left: 100px;
   margin-right: 100px;
+
 }
 .Back {
   background-color: #f4fcfe;
@@ -403,6 +404,8 @@
   display: flex;
   flex-direction: row-reverse;
 }
+
+
 
 
 

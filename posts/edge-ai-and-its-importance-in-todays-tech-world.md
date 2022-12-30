@@ -20,7 +20,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-1.jpg" style="width:100%" class="img" alt="A banner image titled , ' Edge AI and Its Importance in Today's Tech World!'"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Edge AI, The Next-gen Advancement of Artificial Intelligence </span>
+<span style=" font-weight:bold; font-size:28px"> Edge AI, The Next-gen Advancement of Artificial Intelligence </span>
 
 In today's technological environment, every industry utilizes cutting-edge artificial intelligence in some or the other way. In fact, there are no other options for them. Adopting the fast-growing AI innovation has become the only way to survive in the immensely competitive business world. As a result, these stories of edge AI-powered success are becoming more common, and the term " **edge** " AI is becoming more and more adaptable.
 

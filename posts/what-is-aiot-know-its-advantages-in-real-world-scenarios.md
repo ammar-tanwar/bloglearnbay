@@ -19,7 +19,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-1.jpg" style="width:100%" class="img" alt="A banner image representing the use of IoT in various domains like automotive, electrical, etc.  This indicates the development of AIoT."/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">IoT is Approaching the Next-gen Advancement Via AIoT</span>
+<span style=" font-weight:bold; font-size:28px">IoT is Approaching the Next-gen Advancement Via AIoT</span>
 
 **AI and IoT** appear to be effective technologies for their respective fields. Everyone is quite familiar with the term "IoT" (aka Internet of Things). But did you know this term is on the way to becoming obsolete tag? And a new term, ' **AIoT** ,' is going to be its successor.
 

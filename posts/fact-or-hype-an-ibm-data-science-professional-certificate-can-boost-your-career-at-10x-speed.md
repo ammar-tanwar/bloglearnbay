@@ -19,7 +19,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-1.jpg" style="width:100%" class="img" alt="A man with a rocket launcher at his back is flying high, indicating IBM data science professional certificate can boost a career at 10x speed. An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing."/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">Identify the Ultimate Job-ready IBM Data Science Certification-The Golden Ticket To Your Dream Career.</span>
+<span style=" font-weight:bold; font-size:28px">Identify the Ultimate Job-ready IBM Data Science Certification-The Golden Ticket To Your Dream Career.</span>
 
 The significance of AI and data science knowledge has been well-revealed now. Already 9 out of 10 professionals are pursuing different **data science certification courses**. But 2 out of these 9 are only getting a successful career. However, the different types of data science certifications are improving businesses. A series of unique <a href="https://learnbay.co/data-science-ai-masters-program" target="_blank"> data science professional certification</a> are successfully boosting working professional careers. This blog will shed light on such unique **IBM data science certification**.
 

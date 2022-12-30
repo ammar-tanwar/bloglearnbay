@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<span style="color:blue; font-weight:bold; font-size:28px">List of AI Facts That Every Data Science Aspirant Should Know</span>
+<span style=" font-weight:bold; font-size:28px">List of AI Facts That Every Data Science Aspirant Should Know</span>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-1.jpg" style="width:100%" class="img" alt="A banner images titled, ' Fascinating Facts of AI.'"/>
 

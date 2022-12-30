@@ -20,7 +20,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg" style="width:100%" class="img" alt="A banner illustration titled, 'Most Trending AI Applications in the Transportation Industry.' The illustration of transport vehicles and an AI-based automated robot."/>
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Know How Innovation of AI in Transportation Is Easing Our Life?</span>
+<span style=" font-weight:bold; font-size:28px"> Know How Innovation of AI in Transportation Is Easing Our Life?</span>
 
 Neither the design nor the price, AI solutions with high-end performance are the success differentiators between the brands. Competitors in the automobile market are always in a very tough situation when it comes to customer satisfaction and product quality. Here, the application of **AI in the transportation industry** can be an all-in-one solution.
 

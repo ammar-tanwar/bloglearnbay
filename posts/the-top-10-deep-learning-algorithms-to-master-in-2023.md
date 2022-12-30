@@ -19,7 +19,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-1.jpg" style="width:100%" class="img" alt="A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">Explore the Deep Learning Algorithms Those Gonna Rock for the Next 5 Years</span>
+<span style=" font-weight:bold; font-size:28px">Explore the Deep Learning Algorithms Those Gonna Rock for the Next 5 Years</span>
 
 Alexa,' 'Siri,' and 'Google Assistant' are well-known names now. In fact, due to the cost-effectiveness of Amazon Alexa devices, and android/basic-level apple smartphones, virtual assistance are now in massive hype. But did you know the actual success key behind these?? It is nothing but **deep learning algorithms**.
 

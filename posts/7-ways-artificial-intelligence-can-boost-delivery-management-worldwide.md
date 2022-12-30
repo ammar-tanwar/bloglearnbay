@@ -20,7 +20,7 @@ tableData:
 
 
 
-<span style="color:blue; font-weight:bold; font-size:28px">Artificial intelligence is initiating a new era of delivery management</span>
+<span style=" font-weight:bold; font-size:28px">Artificial intelligence is initiating a new era of delivery management</span>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7wa1.jpg" style="width:100%" class="img" alt="An AI-based robot holding a delivery package approaches a logistic van."/>
 

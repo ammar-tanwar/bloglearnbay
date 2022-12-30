@@ -21,7 +21,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-1.jpg" alt=" A 3rd generation of Amazon Alexa eco dot device." style="width:100%" class="img"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Conversational AI - The Magic Behind Seamless Voice Control Experience of Alexa</span>
+<span style=" font-weight:bold; font-size:28px"> Conversational AI - The Magic Behind Seamless Voice Control Experience of Alexa</span>
 
 Amazon Alexa has become a cute family member of every alternative Home. Everything can be controlled through Amazon Alexa, from switching on the light when you come back from the office to cleaning your Home via a robotic vacuum cleaner (while you are busy with some other work). But who made Alexa so bright!!!. Well, it's all about ' **Conversational AI**.' Conversion AI and Alexa are making a super-intelligent combination.
 

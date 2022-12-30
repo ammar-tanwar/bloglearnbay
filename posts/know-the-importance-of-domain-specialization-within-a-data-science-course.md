@@ -17,7 +17,7 @@ tableData:
    ]
 ---
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Why Should You Pick a Domain Specialization in Data Science Study? </span>
+<span style=" font-weight:bold; font-size:28px"> Why Should You Pick a Domain Specialization in Data Science Study? </span>
 
 
 

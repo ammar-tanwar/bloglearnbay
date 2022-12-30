@@ -20,7 +20,7 @@ tableData:
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-1.jpg" alt="A robot wearing a chef outfit and holding a pan, resembling a real robot chef. The accompanying Text reads, 'The Innovation of Robot Chef is Thrilling The World! The Power of AI'
 " style="width:100%" class="img"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">Robot Chefs Are the New Horizon of High-Demand Restaurants…No More Order Delays…</span>
+<span style=" font-weight:bold; font-size:28px">Robot Chefs Are the New Horizon of High-Demand Restaurants…No More Order Delays…</span>
 
 Have you ever considered having your food prepared by a robot chef? Many contend that this concept is impractical and unrelated to reality. But the recent invention has thrilled the world by creating an AI-bot chef, which mimics and cooks food like a top-rated human chef. In fact, such innovative robot chefs are available in India too.
 

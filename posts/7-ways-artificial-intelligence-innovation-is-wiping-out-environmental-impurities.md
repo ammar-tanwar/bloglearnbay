@@ -19,7 +19,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' 7 Ways Artificial Intelligence Innovation Is Wiping Out Environmental Impurities!'"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Know the application of artificial intelligence in environmental health control</span>
+<span style=" font-weight:bold; font-size:28px"> Know the application of artificial intelligence in environmental health control</span>
 
 People are becoming increasingly aware of the pollution problem in their backyards. Millions of people worldwide suffer from air pollution's effects, and climate change is only worsening the problem. Developing global solutions is the only viable response to these global concerns. And here also, like in other industries, <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">artificial intelligence</a> (AI) comes as a promising and reliable savior. Yes, the use of artificial intelligence in environmental control is gaining dazzling popularity.
 

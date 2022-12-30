@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Know The Advantages of AI Blockchain in Managing the Threatening Environmental Factors </span>
+<span style=" font-weight:bold; font-size:28px"> Know The Advantages of AI Blockchain in Managing the Threatening Environmental Factors </span>
 
 As we all know, blockchain is primarily used in cryptocurrencies like Ethereum and Bitcoin to the back end of the entire business, but environmental researchers are utilizing blockchain technology differently in novel ways that could ultimately save the planet as we know it.
 

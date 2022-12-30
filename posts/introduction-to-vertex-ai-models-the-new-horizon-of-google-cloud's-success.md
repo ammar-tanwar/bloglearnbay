@@ -20,7 +20,7 @@ tableData:
 ---
 # Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success
 
-<span style="color:blue;">What Is Vertex AI Model?</span>
+<span style="">What Is Vertex AI Model?</span>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg" style="width:100%" class="img" alt="An illustration shows a human figure wearing VR glasses and leveraging vertex AI-powered cloud ML."/>
 

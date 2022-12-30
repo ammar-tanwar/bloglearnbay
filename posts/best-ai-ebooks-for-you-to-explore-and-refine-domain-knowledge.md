@@ -16,7 +16,7 @@ tableData:
     1. AI For Cloud Computing, 2. Artificial Intelligence for Communications and Networks:-, 3. Blockchain - Artificial Intelligence and Financial Services, 4. Artificial Intelligence in Healthcare - 2nd edition, 5. AI-Powered Commerce, 6. AI - ML and DS for Oil and Gas Operations, 7. The AI Marketing Canvas, 8. AI and IoT For Smart City Applications, Conclusion  
    ]
 ---
-<span style="color:blue; font-weight:bold; font-size:28px">Without Domain Knowledge An AI-Career is Nothing But A Day Dream- Explore The AI ebooks That Can Enrich The Same</span>
+<span style=" font-weight:bold; font-size:28px">Without Domain Knowledge An AI-Career is Nothing But A Day Dream- Explore The AI ebooks That Can Enrich The Same</span>
 
 Raw data is available in every industry. However, data is a new resource for businesses to improve, so artificial intelligence and machine learning are integrated into every industry. Automation in business processes is the main goal of Industry 4.0.
  

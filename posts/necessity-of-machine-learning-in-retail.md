@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<span style="color:blue; font-weight:bold; font-size:28px">  These machine-learning use cases in retail are sure to grab your attention!</span>
+<span style=" font-weight:bold; font-size:28px">  These machine-learning use cases in retail are sure to grab your attention!</span>
 
 Nowadays, data proves to be a powerful pushing force in the industry. Big companies representing diverse trade spheres seek to use the practical value of the data. Thus, data has become of great importance for those willing to take profitable decisions concerning the business. Moreover, a thorough analysis of a vast amount of data allows for influencing or manipulating the customer's decisions. Multiple information flows, along with communication channels, are used for this purpose.
 

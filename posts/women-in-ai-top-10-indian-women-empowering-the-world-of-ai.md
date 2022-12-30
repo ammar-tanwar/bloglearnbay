@@ -21,7 +21,7 @@ tableData:
 
 # Women in AI - Top 10 Indian Women Empowering the World of AI
 
-<span style="color:blue;">Know The Women AI Leaders From India, Excelling In The Tech World.</span>
+<span style="">Know The Women AI Leaders From India, Excelling In The Tech World.</span>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-1.png" style="width:100%" class="img" alt="A banner image titled, ' Women Empowering the World of AI.'"/>
 

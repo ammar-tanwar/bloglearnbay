@@ -21,7 +21,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-1.jpg" style="width:100%" class="img" alt="A banner graphic showing an AI-powered robot and a human sitting together with their laptops at a round table. multiple setting logos around them indicates the robot can manipulate human behavior. The accompanying text reads, 'AI.'"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">Introduction to AI and Human Behavior</span>
+<span style=" font-weight:bold; font-size:28px">Introduction to AI and Human Behavior</span>
 
 **Artificial intelligence (AI)** is an area of computer science concerned with the research and development of intelligent devices, such as digital agents and computer programs. Artificial intelligence is a broad word that can be used to refer to a variety of systems. However, because there are so many diverse characteristics of human intelligence with so many various applications, it's difficult to assign a single label to **intelligent behavior**.
 

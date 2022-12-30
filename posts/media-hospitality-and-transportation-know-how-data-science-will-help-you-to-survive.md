@@ -21,7 +21,7 @@ tableData:
   ]
 ---
 
-<span style="color:blue; font-weight:bold; font-size:28px"> How Data Science has impacted these sectors to grow exponentially</span>
+<span style=" font-weight:bold; font-size:28px"> How Data Science has impacted these sectors to grow exponentially</span>
 
 "*Consumer data will be the biggest differentiator in the next two to three years. Whoever unlocks the reams of data and uses it strategically will win."* – Angela Ahrendts, Senior Vice President of Retail at Apple Inc.
 

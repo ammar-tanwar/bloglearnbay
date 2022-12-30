@@ -20,7 +20,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-1.jpg" style="width:100%" class="img" alt="A banner image titled, ' Application of AI in Social Media Content Optimization' contains the logo of YouTube, Facebook, Twitter, and Instagram."/>
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Know How Meta, Instagram & Twitter are Utilizing the Big Benefits of AI in Social Media</span>
+<span style=" font-weight:bold; font-size:28px"> Know How Meta, Instagram & Twitter are Utilizing the Big Benefits of AI in Social Media</span>
 
 _"AI has the potential to improve billions of lives, and the biggest risk may be failing to do so. By ensuring it is developed responsibly in a way that benefits everyone, we can inspire future generations to believe in the power of technology as much as I do," -_ Sundar Pichai, CEO of Google & Alphabet.
 

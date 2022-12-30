@@ -22,7 +22,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w1.jpg" style="width:100%" class="img" alt="A banner image portrays a woman standing in front of a computer, dreaming of a career in data science."/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">A Career Break Now Can't Stop Women from Growing</span>
+<span style=" font-weight:bold; font-size:28px">A Career Break Now Can't Stop Women from Growing</span>
 
 Women are usually considered not to be good at tech jobs; it was always considered that a man was ideal for a tech job until the advancement that took place back in the 90s. Today we have a lot of female engineering graduates, but still, the ratio of men and women in the tech field is not that satisfactory. Gender biases are still believed to exist today, mostly in the tech world, and males are still prioritized.
 

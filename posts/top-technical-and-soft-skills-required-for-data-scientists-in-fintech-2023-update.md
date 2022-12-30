@@ -18,7 +18,7 @@ tableData:
 ---
 
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Fintech Industries are Crazily Seeking These Skills Within Pro Data Scientists </span>
+<span style=" font-weight:bold; font-size:28px"> Fintech Industries are Crazily Seeking These Skills Within Pro Data Scientists </span>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-1.png" style="width:100%" class="img" alt="A banner image titled, 'Technical and soft skills essential for a data scientist in fintech'  shows an illustration of a data scientist using a laptop on the left."/>
 

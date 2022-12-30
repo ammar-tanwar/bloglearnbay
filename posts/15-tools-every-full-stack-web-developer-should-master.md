@@ -24,7 +24,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-1.png" style="width:100%" class="img" alt="An image titled, '15 Tools Every Full-Stack Web Developer Should Master'"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px">Ace the must-know full-stack web developer tools of 2023</span>
+<span style=" font-weight:bold; font-size:28px">Ace the must-know full-stack web developer tools of 2023</span>
 
 When it comes to full-stack web developer tools, then plenty of options lie. It's not at all possible to master all the tools for full-stack web development available in the market for a single full-stack web developer. So, when you plan for a full-stack developer career, then first know the list of full-stack web developer tools that are contemporary on demand.
 

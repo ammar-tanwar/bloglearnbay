@@ -167,10 +167,6 @@ export default function Post({ postData, posts }) {
                    <Socialshare postData={postData}/>
                 </div>
 
-                <div>
-                <LikeButtonComponent />
-                </div>
-
 
                   
                 <hr />

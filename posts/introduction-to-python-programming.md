@@ -27,7 +27,7 @@ tableData:
 
   ]
 ---
-<span style="color:blue; font-weight:bold; font-size:28px"> Come! Let's find out how Python can help you locate a job and why it is the programming language to focus on. </span>
+<span style=" font-weight:bold; font-size:28px"> Come! Let's find out how Python can help you locate a job and why it is the programming language to focus on. </span>
 
 So, you've chosen to study the Python Programming Language. But where should you start? Should I learn Python first or Java? Given that Python and Java rank first and third, respectively, among the most applied programming languages. Or you might be wondering if learning Python is still worth it. Don't worry because this blog answers every question you might have when starting with Python.
 

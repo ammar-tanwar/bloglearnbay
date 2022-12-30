@@ -15,6 +15,7 @@
 .blogdiv1{
   overflow-y: auto;
   height: 1000px;
+  text-align: justify;
 }
 
 .headerInfo h1 {
@@ -22,6 +23,7 @@
   margin: 0;
   margin-bottom: 15px;
   font-weight: 600;
+  color: #2372bc;
 }
 .headerInfo span {
   display: flex;
@@ -36,7 +38,7 @@
 .bodyInfo {
   display: grid;
   gap: 25px;
-  grid-template-columns: 33% 65%;
+  grid-template-columns: 31% 71%;
 }
 
 .leftInfo {

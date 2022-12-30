@@ -19,7 +19,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-1.jpg" style="width:100%" class="img" alt="A Banner image of a professional teaching and student understanding 21 most common data science interview questions for 2023"/>
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Know the Right Approach to Handle the Most Asked Data Science Interview Questions </span>
+<span style=" font-weight:bold; font-size:28px"> Know the Right Approach to Handle the Most Asked Data Science Interview Questions </span>
 
 Data science is a subject that works on raw data, and the analysis derives patterns that can be used to extract important insights. Usually, the candidates are never worried about completing the course but are more worried about the interview process and the questions asked during it. Professionals are always up for it, and with theoretical knowledge, you need great soft skills too.
 

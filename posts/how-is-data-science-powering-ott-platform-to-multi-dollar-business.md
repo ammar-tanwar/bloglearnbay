@@ -19,7 +19,7 @@ tableData:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/popt-1.png" style="width:100%" class="img" alt="A young woman is seated in front of a laptop and is using data to power upan O-T-T-based platform."/>
 
-<span style="color:blue; font-weight:bold; font-size:28px"> Know How Multi-Dollar Businesses Use Data Science and Machine Learning </span>
+<span style=" font-weight:bold; font-size:28px"> Know How Multi-Dollar Businesses Use Data Science and Machine Learning </span>
 
 How we interact with content has changed over the past few decades. This is because of the fast growth in OTT platforms, the adoption of media streaming services, and the steady rise of the high-speed net and smartphone users. You can now access content whenever and wherever you like.
 
