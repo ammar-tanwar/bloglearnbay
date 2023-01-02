@@ -13,7 +13,7 @@ h1: "AI and Cybersecurity:- A Match Made in Technology Heaven"
 id: "ai-and-cybersecurity-a-match-made-in-technology-heaven"
 tableData:
   [
-    So in which way AI in cybersecurity applications is getting advanced?, Identification of threats and anomalous:-, Detecting fraud and using identification analytics:-, Blocking of bots:-, Event Response:-, How is AI used in cybersecurity?, Now how does ML help boost cyber security?, Advantages of artificial intelligence in cybersecurity to enhance the outputs:-, AI and ML Get Smarter With Time:-, The Identification of Unknown Threats by AI and ML, Easy data management and storage:-, Accelerates awareness and reaction speed, Summing up:-   
+    So in which way AI in cybersecurity applications is getting advanced?, Identification of threats and anomalous:-, Detecting fraud and using identification analytics:-, Blocking of bots:-, Event Response:-, How is AI used in cybersecurity?, Now how does ML help boost cyber security?, Advantages of artificial intelligence in cybersecurity to enhance the outputs:-, AI and ML Get Smarter With Time:-, The Identification of Unknown Threats by AI and ML:-, Easy data management and storage:-, Accelerates awareness and reaction speed:-, Summing up:-   
    ]
 ---
 
@@ -72,13 +72,13 @@ AI in cybersecurity can aid in the patterns for establishing ML-based algorithms
 
 Although current AI cannot be yet able to match human capabilities, it can be easily possible to advance AI-based technology with continuous advancement and upgradation.
 
-## Now how does <a href="https://blog.learnbay.co/model-vs-algorithm-in-ml" target="_blank">ML</a> help boost cyber security?  
+## Now how does <a href="https://blog.learnbay.co/model-vs-algorithm-in-ml" target="_blank">ML Algorithm</a> help boost cyber security?  
 
 Although machine learning security solutions are increasingly comparable to artificial intelligence, they are still the most powerful cybersecurity AI capabilities currently available. We can predict whether an event will occur or not using such methodologies and data patterns.
 
 ML is different from true AI in some aspects. ML algorithms are purposed to focus on accuracy, which means it basically focuses on the particular data set. The ML algorithm does not provide reliable data interpretation because such tasks still require human involvement.
 
-Ml plays an important role in identifying patterns in data and creating predictions. This is due to the fact that machines can digest enormous volumes of data considerably faster than humans and do not become tired or irritated when performing repetitive activities.
+ML plays an important role in identifying patterns in data and creating predictions. This is due to the fact that machines can digest enormous volumes of data considerably faster than humans and do not become tired or irritated when performing repetitive activities.
 
 So, even though humans are still ultimately responsible for interpreting data analysis, machine learning can help by preparing the data in a more accessible format.
 
@@ -98,7 +98,7 @@ The continuous use of AI can improve quality and long-term stability, which help
 
 As a result, neural networks are able to identify and outperform potential threats. Using such technology aids in learning about potential threats and assisting them in avoiding them in the future.
 
-### The Identification of Unknown Threats by AI and ML   
+### The Identification of Unknown Threats by AI and ML:-  
 
 We are never aware of how to recognize a company's possible risks and threats. MNCs are especially vulnerable to cyber-attacks.
 
@@ -112,7 +112,7 @@ Various types of data are shared within a company; all these data are crucial an
 
 AI and ML have a great solution for detecting potential threats that might be masquerading as normal activity. They ensure in search any data set from a huge database. It can also find and locate any dangers concealed among the ocean of frantic traffic.
 
-### Accelerates awareness and reaction speed
+### Accelerates awareness and reaction speed:-
 
 Timing plays a crucial role when we need to go ahead with the process of threat detection. The sooner you can detect potential threats; the better results will be.
 
@@ -128,4 +128,4 @@ Cyber threats are a serious concern for businesses of all kinds. Hackers may car
 
 Professional cybersecurity workers must be vigilant and always learn new skills. They must always have access to cutting-edge tools in order to manage continuous emerging threats.
 
-To get updated on recent AI and ML-related topics, do follow us on <a href="https://www.facebook.com/learnbay/),[LinkedIn](https://www.linkedin.com/company/learnbay/" target="_blank">Facebook</a>, <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a> and <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>.
+To get updated on recent AI and ML-related topics, do follow us on <a href="https://www.facebook.com/learnbay/) target="_blank">Facebook</a>, <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a> and <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>.
