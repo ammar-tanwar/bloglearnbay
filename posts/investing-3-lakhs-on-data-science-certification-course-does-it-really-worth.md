@@ -1,6 +1,6 @@
 ---
 title: Investing 3 lakhs on Data science Certification Course? Is it really worth it
-desc: "Should a working professional invest 2-3 lakhs on Data science Certification Course The world of data science comes with endless possibilities. With the advancement of time the scope of data science career is getting extremely rewarding..."
+desc: "We all know that data science is a highly fulfilling career with enormous financial prospects. Therefore, enrolling in the best-fit data science course is essential for new graduates as well as working professionals planning for career transition."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/invest.jpeg"
 date: "April 13, 2022"

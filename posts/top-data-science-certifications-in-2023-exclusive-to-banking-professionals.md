@@ -22,7 +22,6 @@ tableData:
 
 
 
-
 Do you hold a finance or banking background? These 5 data science courses for banking professionals can make you eligible for a 400% hike.
 
 In the last two years (2020 end to 2022 mid), folks of people have switched their jobs. The most hiked figures you could find from the fintech companies like HSBC, JP Morgan, etc. But by chance, if you think that such a hiring source was exclusive to IT pros- then you are damn wrong. The positions like 'financial analyst,' 'credit risk analyst,' AI experts, ML engineer, and data scientist were actually the top positions. 

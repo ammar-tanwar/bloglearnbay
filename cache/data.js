@@ -105,4 +105,6 @@ export const posts = [{"id":"5-amazing-usages-of-ai-in-the-entertainment-industr
 {"id":"xgboost-classifier","title":"Everything About the XGBoost Classifier"},
 {"id":"you-could-be-a-pro-in-data-science-by-self-assisting-data-scientist","title":"You could be a pro in Data Science by Self Assisting"},
 {"id":"young-data-scientists","title":"Young Data Scientists"},
+{"id":"ai-and-cybersecurity-a-match-made-in-technology-heaven","title":"AI and Cybersecurity:- A Match Made in Technology Heaven"},
+
 ]
