@@ -146,7 +146,7 @@ export default function blog({ allPostsData }) {
                               rel="noreferrer"
                               className={styles.link}
                             >
-                              <span className={styles.tagSpan}>{category}</span>
+                              {/* <span className={styles.tagSpan}>{category}</span> */}
                             </a>
                             <a href={url} target="_blank" rel="noreferrer">
                               <h4>{title}</h4>

@@ -4,7 +4,7 @@
 }
 
 .Open {
-  margin: 50px 100px;
+  margin: 50px 64px;
   }
 
 .headerInfo {
@@ -38,7 +38,7 @@
 .bodyInfo {
   display: grid;
   gap: 25px;
-  grid-template-columns: 31% 71%;
+  grid-template-columns: 24% 76%;
 }
 
 .leftInfo {

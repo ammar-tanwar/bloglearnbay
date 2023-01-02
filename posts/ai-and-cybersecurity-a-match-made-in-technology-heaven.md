@@ -128,12 +128,4 @@ Cyber threats are a serious concern for businesses of all kinds. Hackers may car
 
 Professional cybersecurity workers must be vigilant and always learn new skills. They must always have access to cutting-edge tools in order to manage continuous emerging threats.
 
-To get updated on recent AI and ML-related topics, do follow us on <a href="https://www.facebook.com/learnbay/),[LinkedIn](https://www.linkedin.com/company/learnbay/" target="_blank">Facebook</a>, and <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>.
-
-**Images Link:-**
-
-<a href="https://www.freepik.com/free-photo/ai-cybersecurity-virus-protection-machine-learning_17850530.htm#query=cybersecurity&position=0&from_view=search" target="_blank">https://www.freepik.com/free-photo/ai-cybersecurity-virus-protection-machine-learning_17850530.htm#query=cybersecurity&position=0&from_view=search</a>
-
-<a href="https://www.freepik.com/free-vector/neon-cyber-security-concept-with-padlock-circuit_8134839.htm#query=cybersecurity&position=1&from_view=search" target="_blank">https://www.freepik.com/free-vector/neon-cyber-security-concept-with-padlock-circuit_8134839.htm#query=cybersecurity&position=1&from_view=search</a>
-
-<a href="https://www.freepik.com/free-vector/cyber-security-concept_7970729.htm#query=cybersecurity&position=2&from_view=search" target="_blank">https://www.freepik.com/free-vector/cyber-security-concept\_7970729.htm#query=cybersecurity&position=2&from\_view=search</a>
+To get updated on recent AI and ML-related topics, do follow us on <a href="https://www.facebook.com/learnbay/),[LinkedIn](https://www.linkedin.com/company/learnbay/" target="_blank">Facebook</a>, <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a> and <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>.
