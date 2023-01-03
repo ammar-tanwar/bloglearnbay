@@ -46,7 +46,7 @@ All of this has to be designed keeping in mind the two main types of MLops: pred
 
 MLOps is a digital practice that aids companies in resolving a number of problems associated with the creation, implementation, and administration of smart applications. It intervenes to support the monitoring, modifying, and retraining of AI models, particularly when there are substantial training data sets that are continuously expanding, as in the case of enterprise AI applications. As a result, ML drastically lowers the number of resources needed to create AI models.
 
-There are many ways in which maps can help enterprises to get more value from their AI initiatives. Some of the benefits of MLOps include:-
+There are many ways in which MLOps can help enterprises to get more value from their AI initiatives. Some of the benefits of MLOps include:-
 
 ### 1. Enhanced deployment:-   
 

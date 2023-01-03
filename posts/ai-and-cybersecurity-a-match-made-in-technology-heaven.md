@@ -3,8 +3,9 @@ title: AI and Cybersecurity - A Match Made in Technology Heaven
 desc: "In this blog post, you will learn about the potential of AI and cybersecurity in today's growing technological world, here you will see various types of benefits while implementing both AI and cybersecurity to fight against cyber attacks and threats."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/amm-1.png"
+cardImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/camm-1.png"
 date: "January 2, 2023"
-tag: [ AI and cybersecurity, AI in cybersecurity, AI and ML, artificial intelligence and machine learning, Artificial intelligence in cybersecurity, the benefits of artificial intelligence in cyber security, ai in cybersecurity examples, future of ai in cyber security, applications of ai in cybersecurity, artificial intelligence and cybersecurity opportunities and challenges, challenges and solution for artificial intelligence in cybersecurity ]
+tag: [ AI and cybersecurity, AI in cybersecurity, AI and ML, artificial intelligence and machine learning, Artificial intelligence in cybersecurity, the benefits of artificial intelligence in cyber security, ai in cybersecurity examples, future of ai in cyber security, applications of ai in cybersecurity, artificial intelligence and cybersecurity opportunities and challenges, challenges and solution for artificial intelligence in cybersecurity, how does the issue of cybersecurity relate to the internet of things? ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 
 position: "Editor"
@@ -52,7 +53,7 @@ Models can be developed using AI-based technologies to identify fraud-related pa
 ### Blocking of bots:-   
 
 
-Bots are a big problem on the internet- hackers can program them to take over accounts and create bogus accounts. However, by combining **AI and cybersecurity** technology, we can easily assist in utilizing both beneficial and dangerous bots to maintain the various internet issues.
+Bots are a big problem on the internet-hackers can program them to take over accounts and create bogus accounts. However, by combining **AI and cybersecurity** technology, we can easily assist in utilizing both beneficial and dangerous bots to maintain the various internet issues.
 
 ### Event Response:-
 

@@ -1,6 +1,6 @@
 ---
 title:  Application of AI in Social Media Content Optimization
-desc: "With continuous advancement, we have observed numerous applications of AI in social media. AI continuously alters society by enhancing client engagement and data security through in-depth predictive analysis. Here, you will learn more about how artificial intelligence enhances social media."
+desc: "With continuous advancement, we have observed numerous applications of AI in social media. AI continuously alters social media platforms outcomes by enhancing client engagement and data security through in-depth predictive analysis. Here, you will learn more about how artificial intelligence enhances social media."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-1.jpg"
 date: "December 19, 2022"

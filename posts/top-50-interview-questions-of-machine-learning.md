@@ -620,6 +620,6 @@ Ans: ROC curve (receiver operating characteristics): The ROC curve depicts a bin
 
 ## Summing Up:-
 
-These are a few typical queries regarding machine learning interviews. Learning the fundamentals, different types of machine learning techniques, mathematics and heuristics components, and hands-on modeling to construct algorithms actually prepares you for an MNC machine learning interview. Choose to enroll in the <a href="https://learnbay.co/advance-data-science-certification-courses" target="_blank"> Advanced AI and ML Certification</a> to understand these machine learning interview questions deeply.
+These are a few typical queries regarding machine learning interviews. Learning the fundamentals, different types of machine learning techniques, mathematics and heuristics components, and hands-on modeling to construct algorithms actually prepares you for an MNC machine learning interview. Choose to enroll in the <a href="https://learnbay.co/artificial-intelligence-certification-course" target="_blank"> Advanced AI and ML Certification</a> to understand these machine learning interview questions deeply.
 
 For more information check out our <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a> to stay updated on the latest!

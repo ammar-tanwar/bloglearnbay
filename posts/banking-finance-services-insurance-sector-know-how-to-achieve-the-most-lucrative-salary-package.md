@@ -1,6 +1,6 @@
 ---
 title: Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package
-desc: "The BFSI  industry is witnessing a major transformation in the Indian economy, fueled by new FinTech competition, shifting business models, compliance demands, and innovative technologies."
+desc: "The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job.png"
 date: "April 7, 2022"

@@ -4,7 +4,7 @@ desc: "Data scientists are in high demand in the financial industry. According t
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-1.png"
 date: "December 21, 2022"
-tag: [ Skills required for data scientist, The skills required to master data science is, fintech industries  ]
+tag: [ Skills required for data scientist, The skills required to master data science is, fintech industries, data scientist skills, data scientist skillset, important skills for data scientists, data scientist skill set, top skills for data scientists, data scientist technical skills, data scientist skill list, what skills are needed to be a data scientist, essential skills for data scientist, data scientist skills checklist, data scientist hard skills  ]
 category: "Data Science"
 author: "Nivin Biswas" 
 position: "Editor"
@@ -19,9 +19,6 @@ tableData:
 
 
 <span style=" font-weight:bold; font-size:28px"> Fintech Industries are Crazily Seeking These Skills Within Pro Data Scientists </span>
-
-
-
 
 Data scientists are vital to the success of many fintech companies, but it's a relatively new and unproven field, which means that data scientists need to be on top of their game. As technology continues to evolve, data scientists need to keep up with the latest developments and change their skill sets accordingly. In the fintech industries, there is a list of specific skills required for data scientists.
 

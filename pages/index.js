@@ -133,7 +133,7 @@ export default function blog({ allPostsData }) {
                             <Image
                               src={headerImg}
                               width="300"
-                              height="267"
+                              height="180"
                               alt={categoryPosts.id}
                               layout="intrinsic"
                               className={styles.categoryPostImg}
@@ -200,8 +200,8 @@ export default function blog({ allPostsData }) {
                           <div className={styles.leftCategoryPost}>
                             <Image
                               src={headerImg}
-                              width="300"
-                              height="267"
+                              width="400"
+                              height="190"
                               alt={categoryPosts.id}
                               layout="intrinsic"
                               className={styles.categoryPostImg}

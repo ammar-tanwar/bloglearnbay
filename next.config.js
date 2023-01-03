@@ -26,6 +26,10 @@ module.exports = {
         source: '/top-data-science-certifications-in-2022-exclusive-to-banking-professionals',
         destination: '/top-data-science-certifications-in-2023-exclusive-to-banking-professionals',
         permanent: true,
+
+        source: '/necessity-of-machine-learning-in-retail',
+        destination: '/the-necessity-of-machine-learning-in-retail',
+        permanent: true,
       },
     ]
   },
