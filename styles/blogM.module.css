@@ -33,7 +33,7 @@
   gap: 62px;
 }
 .blog {
-  height: 450px;
+  height: 270px;
 
   background: linear-gradient(
     0deg,
@@ -58,7 +58,7 @@
 }
 .blog h4 {
   color: white;
-  font-size: 1.5rem;
+  font-size: 21px;
   font-weight: bold;
   line-height: 28px;
 }
