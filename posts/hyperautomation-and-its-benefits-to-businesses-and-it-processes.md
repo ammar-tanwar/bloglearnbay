@@ -3,7 +3,7 @@ title:  Hyperautomation and Its Benefits to Businesses and IT Processes
 desc: "Hyperautomation is the hot new thing in business and IT processes. In this article, we'll explore what hyperautomation is, its benefits, and how businesses and IT departments can make use of it."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-1.jpg"
-date: "November 16, 2022"
+date: "Nov 16, 2022"
 tag: [ Hyperautomation, Hyper automation, Hyperautomation meaning,  ML, RPA, hyperautomation vs automation, why is hyperautomation important, hyperautomation examples, hyperautomation use cases, hyperautomation technology, hyperautomation meaning, hyperautomation vs rpa, benefits of hyperautomation, difference between automation and hyperautomation, define hyperautomation, rpa hyperautomation ]
 category: "Hot Topics"
 author: "Nivin Biswas" 

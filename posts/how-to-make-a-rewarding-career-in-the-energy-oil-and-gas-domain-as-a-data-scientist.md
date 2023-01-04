@@ -3,7 +3,7 @@ title: How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Da
 desc: "The oil and gas sectors have been the most lucrative arena for most chemical engineers, petroleum engineers, mechanical engineers, and even geologists (petroleum)..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward.png"
-date: "april 6, 2022"
+date: "Apr 6, 2022"
 tag: [ Hot Topics ]
 category: "Hot Topics"
 author: "Admin"

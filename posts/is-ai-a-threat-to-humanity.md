@@ -1,6 +1,6 @@
 ---
 title: Is AI a threat to humanity?
-desc: "The alarms rang in July 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out I have exposure to the very cutting-edge AI, and I think people should be really concerned about it..."
+desc: "The alarms rang in Jul 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out I have exposure to the very cutting-edge AI, and I think people should be really concerned about it..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isai.png"
 date: "August 18, 2019" 
@@ -24,7 +24,7 @@ tableData:
 
 # Is AI a threat to humanity?
 
-The alarms rang in July 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out "I have exposure to the very cutting-edge AI, and I think people should be really concerned about it." He further said, "I keep sounding the alarm bell, but until people see robots going down the street killing people, they don't know how to react, because it seems so ethereal."
+The alarms rang in Jul 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out "I have exposure to the very cutting-edge AI, and I think people should be really concerned about it." He further said, "I keep sounding the alarm bell, but until people see robots going down the street killing people, they don't know how to react, because it seems so ethereal."
 
 Though Sci-Fi movies like Terminator and Transformers have already taken us through time travel and shown us a glimpse of the future, the facts remain uncertain. Presently innovations and technology are fostering mankind. AI, Machine Learning has a long way to go before we determine the end of humanity. Although we are definitely preparing for an end to the human race with all the climate change and bee extinction, technology is not the one that is leading our way.
 

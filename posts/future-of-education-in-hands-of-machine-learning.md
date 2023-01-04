@@ -3,7 +3,7 @@ title: Future of Education in hands of Machine Learning
 desc: "The field of machine learning technology is constantly developing and progressing. Additionally, this kind of learning allows computers to learn from data without using programs or human interference. This blog will brief you on comprehending how machine learning is revolutionizing the educational sector."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/machine.jpg"
-date: "June 10, 2022"
+date: "Jun 10, 2022"
 tag: [ future of machine learning in india, future of machine learning, machine learning in education sector, machine learning in education examples, machine learning in education industry, use of machine learning in education, artificial intelligence and machine learning in education, benefits of machine learning in education, machine learning in edtech ]
 category: "Machine Learning"
 author: "Admin"

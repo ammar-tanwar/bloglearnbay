@@ -3,7 +3,7 @@ title: You could be a pro in Data Science by Self Assisting
 desc: "Get good at stats, math and Machine Learning. Take online data course. Learn to code. Computer science, development and a language..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/book.jpg"
-date: "September 11, 2020"
+date: "Sep 11, 2020"
 tag: [ Data Science ]
 category: "Data Science"
 author: "Admin"

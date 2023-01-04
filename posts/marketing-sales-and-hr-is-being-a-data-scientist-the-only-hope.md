@@ -3,7 +3,7 @@ title: Marketing, Sales, and HR Is being a data scientist the only hope?
 desc: "Sales, marketing, and HR have been among the most profitable industries in the 21st century. But there have been some hidden downfalls that you may not be aware of..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market.png"
-date: "April 07, 2022"
+date: "Apr 07, 2022"
 tag: [ Hot Topics ]
 category: "Hot Topics"
 author: "Admin"

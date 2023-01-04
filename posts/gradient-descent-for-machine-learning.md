@@ -3,7 +3,7 @@ title: Gradient Descent for Machine Learning
 desc: "It is an optimization algorithm to find the values of parameters(coefficient) of a function(f) that minimizes the cost function. It is used when parameters can not be calculated by Linear algebra..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog1.webp"
-date: "March 6, 2022"
+date: "Mar 6, 2022"
 tag: [ Data Science ]
 category: "Data Science"
 author: "Admin"

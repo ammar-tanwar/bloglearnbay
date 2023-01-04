@@ -3,7 +3,7 @@ title: Data Science Jobs - The Busting Ways To Secure Attractive Packages In Hea
 desc: "Got your master's degree in genetic counseling, occupational therapy, health administration, or any other healthcare domain?..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance1.png"
-date: "April 6, 2022"
+date: "Apr 6, 2022"
 tag: [ Hot Topics ]
 author: "Admin"
 category: "Hot Topics"

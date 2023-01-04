@@ -3,7 +3,7 @@ title: Introduction to Python Programming
 desc: "Python is a general-purpose, interpreted, and dynamic programming language that belongs to high-level programming language divisions. Python is commonly used for application development because it supports object-oriented programming approach..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/soft.jpg"
-date: "April 27, 2022"
+date: "Apr 27, 2022"
 tag: [ Features of Python, python programming language, what is python why should you learn python, what we need to learn python, advantages of python, python features and advantages, applications of python ]
 category: "Data Science"
 author: "Admin"

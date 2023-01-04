@@ -3,7 +3,7 @@ title: The Most Trending Applications of AI in Transportation Industry
 desc: "Understand the significance of AI in the transportation sector to improve service quality with customer satisfaction. This blog highlights the benefits of AI in the transportation industry in easing our life."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg"
-date: "December 9, 2022"
+date: "Dec 9, 2022"
 tag: [ AI in transportation, AI in automotive industry, Artificial intelligence in transportation, AI in Aviation, AI in automobile, examples of ai in transportation, ai in transportation in india, benefits of ai in transportation, future of ai in transportation, ai in public transportation, ai in transportation and logistics, benefits of ai in transportation, application of ai in automotive industry, applications of artificial intelligence in transport an overview, future of ai in aviation, advantages of ai in aviation, application of ai in aviation, use of ai in automobile industry, benefits of ai in automotive industry, future of ai in automotive industry ]
 category: "Artificial Intelligence"
 author: "Milan" 

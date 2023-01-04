@@ -3,7 +3,7 @@ title: How Can AI Blockchain Help With Modern-day Climate Change?
 desc: "In this blog, we will learn about blockchain's benefits in environmental and climate change to build unique approaches that will surely contribute to preserving the environment."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hcab-1.png"
-date: "December 28, 2022"
+date: "Dec 28, 2022"
 tag: [ Blockchain, Environmental factors, Climate change, blockchain environmental sustainability, blockchain carbon footprint, environmental blockchain, blockchain and environmental impact, blockchain solutions for sustainable energy and climate, blockchain for carbon tracking, tackling climate change with blockchain, blockchain can help us beat climate change, how does blockchain affect the environment, blockchain technology climate change ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 

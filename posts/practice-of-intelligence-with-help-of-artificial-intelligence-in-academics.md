@@ -3,7 +3,7 @@ title: Practice of Intelligence with help of Artificial Intelligence in Academic
 desc: "AI can help global teaching become a successful venture for teachers to teach students anywhere in the world with the same level of proficiency as a classroom live session."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/robot.jpg"
-date: "April 7, 2022"
+date: "Apr 7, 2022"
 tag: [ artificial intelligence in education, role of artificial intelligence in education, artificial intelligence in education in india ]
 author: "Admin"
 category: "Artificial Intelligence"

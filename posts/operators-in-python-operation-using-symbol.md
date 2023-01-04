@@ -3,7 +3,7 @@ title: Operators in Python - Operation using Symbol
 desc: "Python has a set of built-in operators that can be used on different data types. These operators are represented by symbols that you can use in your Python code. In this article, we will learn about the different operators in Python and how to use them."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg"
-date: "September 14, 2022"
+date: "Sep 14, 2022"
 tag: [ Operator in python, Arithmetic operator, logical operator, bitwise operator, bitwise operator in python, assignment operator in python, floor division operator in python, membership operator in python, logical operators in python, types of operators in python, operator in python with example, operators in python, operator meaning in python, set operations in python with examples ]
 author: "Vineeth Kumar"
 category: "Python"

@@ -3,7 +3,7 @@ title: Banking, Finance, Services & Insurance Sector Know How to Achieve The Mos
 desc: "The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job.png"
-date: "April 7, 2022"
+date: "Apr 7, 2022"
 tag: [ Hot Topics ]
 category: "Hot Topics"
 author: "Admin"
@@ -49,7 +49,7 @@ Financial Services are under high competition now. Even entrepreneurs are target
 
 ## Banking:-  
 
-Indian Banks are also facing lot of stress due to several types of debt. In July 2021, SBI indicated highly increased pressure from holding debt (due to the COVID-19 outbreak). In 2019-20, the Indian government opted for ten public sector bank amalgamation to lower the number to 4. This was to reduce the debt risk and better financial operation. But, the situation is going so that it might be possible for private banks to face a similar amalgamation, which may lead to severe layoffs.
+Indian Banks are also facing lot of stress due to several types of debt. In Jul 2021, SBI indicated highly increased pressure from holding debt (due to the COVID-19 outbreak). In 2019-20, the Indian government opted for ten public sector bank amalgamation to lower the number to 4. This was to reduce the debt risk and better financial operation. But, the situation is going so that it might be possible for private banks to face a similar amalgamation, which may lead to severe layoffs.
 
 ## Solution:-   
 

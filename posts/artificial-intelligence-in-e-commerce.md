@@ -3,7 +3,7 @@ title: Artificial Intelligence in E-commerce
 desc: "The internet has opened the door for revolutionizing various sectors. E-commerce sector is one of them. E-commerce sectors have unlocked new opportunities and scope for retailers. Retailers also have never seen such a growth in their sales..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar.jpg"
-date: "April 15, 2021"
+date: "Apr 15, 2021"
 tag: [ Artificial Intelligence ]
 category: "Artificial Intelligence"
 author: "Admin"
