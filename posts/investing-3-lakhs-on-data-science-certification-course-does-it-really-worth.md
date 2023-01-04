@@ -28,7 +28,7 @@ Nothing is wrong in investing in data science career transformation. Instead, it
 
 ## Certification is the key to a successful career switch to data science:- Myths Vs Facts. 
 
-Many certifications <a href="https://www.learnbay.co/data-science-ai-masters-program" target="_blank">and master's degree programs in data science</a> advertisements come through professional network sites, social media sites, and roadside hoardings. The massiveness of data science course promotions makes everyone believe that certification is necessary to shift your domain into data science.
+Many certifications and <a href="https://www.learnbay.co/data-science-ai-masters-program" target="_blank">master's degree programs in data science</a> advertisements come through professional network sites, social media sites, and roadside hoardings. The massiveness of data science course promotions makes everyone believe that certification is necessary to shift your domain into data science.
 
 But the fact is this is nothing but a myth. Yes, as a working professional, certification can never be the entry gate of your data science career. Instead, at this level, 'hands-on experience' becomes the key to your data science career.
 
@@ -59,7 +59,7 @@ It would help to be cautious while choosing such a course.
 
 Check out the course that offers in-depth learning options for programming languages, analytical tools like python, R, java, SAS, and SPSS, mathematical and statistical modules like NumPy, pandas, Matplotlib, and algorithms on demand.
 
-As you are at the intermediate level of your career, dive deep into programming and algorithm. Unfortunately, the <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">introductory data science courses</a> remain limited to entry-level projects and data analysis. So as a professional, choose a course that includes the k-means algorithm, word frequency algorithm for NLP sentiment analysis, ARIMA model associated with Machine Learning, Tensorflow, and CNN related to deep learning.
+As you are at the intermediate level of your career, dive deep into programming and algorithm. Unfortunately, the introductory <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">data science courses</a> remain limited to entry-level projects and data analysis. So as a professional, choose a course that includes the k-means algorithm, word frequency algorithm for NLP sentiment analysis, ARIMA model associated with Machine Learning, Tensorflow, and CNN related to deep learning.
 
 ### Timing and class type:-    
 
@@ -91,7 +91,7 @@ Here comes the final answer. Up to 80k INR investment is fair enough to crack a 
 
 You don't need to master every subdomain of data science; in fact, it's impossible. Instead, you need to learn and up-skill yourself in the data science subdomain of your interest or offer huge possibilities concerning your present experience, and yes, again, the priority is real-time industry projects.
 
-Fulfilling the above criteria doesn't require 2 to 3 lacs INR investments. Instead, plenty of excellent and reliable online and offline courses can make you highly competent in the data science and AI job market by investing 40k to 90K INR.
+Fulfilling the above criteria doesn't require 2 to 3 lacs INR investments. Instead, plenty of excellent and reliable online and offline courses can make you a highly competent professional in the data science and AI job market by investing 80k to 1.5 lacs INR.
 
 ## Final Note:-   
 

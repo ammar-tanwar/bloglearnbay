@@ -109,4 +109,4 @@ These long-term objectives keep the agent from stagnating on shorter-term object
 
 Supervised learning is when a model is guided in learning from a labelled dataset. On the other hand, unsupervised learning is when the computer receives instruction based on unlabeled data with no direction. While reinforcement learning occurs when a system or perhaps an agent engages with its environment, takes actions, and learns via a trial-and-error process.
 
-A detailed <a href="https://blog.learnbay.co/what-is-supervised-and-unsupervised-learning-in-machine-learning" target="_blank">AI and ML program</a> will help you understand these techniques in-depth through experienced mentors.
+A detailed <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">AI and ML program</a> will help you understand these techniques in-depth through experienced mentors.
