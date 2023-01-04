@@ -67,7 +67,7 @@ So, where to target to get highly paid data analyst positions?
 
 The real Apache team, MLflow, and Delta Lake created Databricks. While established in 2013, it was the world's leading lakehouse cloud platform. It offers unified and open data and artificial intelligence, combining the best of data warehouses and data lakes.
 
-This is one of the best data analytics startups. It offers unified analytical solutions for enterprises. Business, data engineering, and <a href="https://blog.learnbay.co/what-is-data-science-uncovering-the-explicit-truth" target="_blank">data science</a> teams can collaborate and create data products on the platform.
+This is one of the best data analytics startups. It offers unified analytical solutions for enterprises. Businesses, data engineering, and <a href="https://blog.learnbay.co/what-is-data-science-uncovering-the-explicit-truth" target="_blank">data science</a> teams can collaborate and create data products on the platform.
 
 Databricks, headquartered in San Francisco, has offices around the world. They provide global partners such as Amazon, Microsoft, Tableau, CapGemini, and Booz Allen Hamilton.
 
