@@ -4,7 +4,7 @@ desc: "The BFSI industry in India has seen a significant transformation, which h
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job.png"
 date: "Apr 7, 2022"
-tag: [ Hot Topics ]
+tag: [ The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability. ]
 category: "Hot Topics"
 author: "Admin"
 position: "Editor"
@@ -214,7 +214,7 @@ There are no exceptions to this rule when financial companies use algorithms. Th
 NSDC did a study and found that India is one of the few countries with a strong foundation for high productivity and global integration in recent years. It's important to note that two main things are at play during the digital transformation of the BFSI: Digitization and the digitalization of things, and they are both critical. Learn about and test new technologies and business processes that could do your BFSI service better with these new tools, like:
 
 ### * Partnerships between payment banks and fintech firms.
-### * [Artificial Intelligence](https://blog.learnbay.co/artificial-intelligence-in-e-commerce/) and Cognitive Analytics
+### * <a href="https://blog.learnbay.co/artificial-intelligence-in-e-commerce/" target="_blank">Artificial Intelligence</a> and Cognitive Analytics
 ### * Blockchain.
 ### * Automation of Robotic Processes.
 ### * Cybersecurity is an important topic.
@@ -224,10 +224,6 @@ Even though digitization promises more security and cost savings, its value come
 ## Companies in the banking finance services and insurance sectors in India in 2021:-      
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job4.png" alt="An chart shows the package offered by BFSI companies for data scientists such as:- " class="img"/>
-
-Image by Author
-
-Source: Glassdoor
 
 ### Bajaj Finance Ltd:-   
 

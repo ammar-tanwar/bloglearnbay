@@ -4,7 +4,7 @@ desc: "In this blog post, you will learn about the potential of AI and cybersecu
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/amm-1.png"
 date: "Jan 2, 2023"
-tag: [ AI and cybersecurity, AI in cybersecurity, AI and ML, artificial intelligence and machine learning, Artificial intelligence in cybersecurity, the benefits of artificial intelligence in cyber security, ai in cybersecurity examples, future of ai in cyber security, applications of ai in cybersecurity, artificial intelligence and cybersecurity opportunities and challenges, challenges and solution for artificial intelligence in cybersecurity, how does the issue of cybersecurity relate to the internet of things? ]
+tag: [ AI and cybersecurity, Artificial intelligence in cybersecurity, AI and ML, artificial intelligence and machine learning, future of ai in cyber security]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 
 position: "Editor"

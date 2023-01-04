@@ -31,7 +31,7 @@ This becomes really effective for working professionals and all the non-tech bac
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdas-2.png" style="width:100%" class="img" alt="An executive-level data analyst works with charts and graphs using a keyboard and large displays. "/>
 
-**1.  Growth opportunities:-**
+**1.  Growth opportunities:**
 
 In startups, we frequently have a smaller team and a flexible structure, allowing data analysts to take on more responsibilities.
 
@@ -43,7 +43,7 @@ In a startup, we can easily have a flexible work structure with a diverse range 
 
 **3. Exposure to new technologies:** 
 
-Working in any startup can undoubtedly aid in keeping up with the latest technology, helping in exploringnew technologies.
+Working in any startup can undoubtedly aid in keeping up with the latest technology, helping in exploring new technologies.
 
 **4. Collaborative work environment:**
 
@@ -60,7 +60,7 @@ So, where to target to get highly paid data analyst positions?
 
 ## 10 Rising Data Analytics Startups in 2023   
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdas-3.png" style="width:100%" class="img" alt="An image lists the logo of different rising data analytics startups such as data risk, logz.io, Fractal Analytics, Fivetran, BioCatch, Solidus Labs, Coin Metrics, Unsupervised, UserTesting, Uptake Technologies."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdas-3.png" style="width:100%" class="img" alt="An image lists the logo of different rising data analytics startups such as databricks, logz.io, Fractal Analytics, Fivetran, BioCatch, Solidus Labs, Coin Metrics, Unsupervised, UserTesting, Uptake Technologies."/>
 
 ### 1. Databricks   
 
@@ -73,7 +73,7 @@ Databricks, headquartered in San Francisco, has offices around the world. They p
 
 In general, the starting salary for a data analyst position in Databricks can range from around INR 4-6 lakh per annum.
 
-Additionally, a fresher with a master's degree can expect to make between INR 6 and 10 lakhslacks annually.
+Additionally, a fresher with a master's degree can expect to make between INR 6 and 10 lakhs annually.
 
 ### 2. Fractal Analytics
 
