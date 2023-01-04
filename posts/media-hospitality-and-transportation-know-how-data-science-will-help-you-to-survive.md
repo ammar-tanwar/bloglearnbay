@@ -1,6 +1,6 @@
 ---
 title: Media Hospitality and Transportation Know How Data Science Will Help you to Survive
-desc: "The media and hospitality industries keep changing constantly and to survive, it is essential to be able to adapt to these changes. Data science can help you to do this by providing you with the ability to understand and predict customer behavior."
+desc: "Data science in the transportation and hospitality industry has been helping a  lot of people to survive and thrive. In this blog, you will learn how data science can be implemented to showcase better customer services, optimize operations and make more efficient businesses in such sectors."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Aspose.Words.acacd365-8ed5-41a8-bf23-68b36bf352f4.001.png"
 date: "Apr 6, 2022"
