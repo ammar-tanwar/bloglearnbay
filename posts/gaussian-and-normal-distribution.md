@@ -3,7 +3,7 @@ title: Normal and Gaussian Distribution
 desc: "Gaussian distribution is a bell-shaped curve, it follows the normal distribution with the equal number of measurements right side and left side of the value..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gaussian.png"
-date: "March 29, 2022"
+date: "Mar 29, 2022"
 tag: [ Data Science, Machine Learning ]
 author: "Admin"
 category: "Machine Learning"

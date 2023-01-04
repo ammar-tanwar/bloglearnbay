@@ -3,7 +3,7 @@ title: Top Technical and Soft Skills Required for Data Scientists in Fintech(202
 desc: "Data scientists are in high demand in the financial industry. According to a prominent recruiter, the need for data scientists with fintech experience is at an all-time high. With a growing interest in big data and machine learning, Fintech is one of the most profitable data science sectors. This blog will examine the industry's top technical and soft skills required for data scientists."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-1.png"
-date: "December 21, 2022"
+date: "Dec 21, 2022"
 tag: [ Skills required for data scientist, The skills required to master data science is, fintech industries, data scientist skills, data scientist skillset, important skills for data scientists, data scientist skill set, top skills for data scientists, data scientist technical skills, data scientist skill list, what skills are needed to be a data scientist, essential skills for data scientist, data scientist skills checklist, data scientist hard skills  ]
 category: "Data Science"
 author: "Nivin Biswas" 

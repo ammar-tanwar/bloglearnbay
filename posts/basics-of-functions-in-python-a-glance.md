@@ -3,7 +3,7 @@ title: Basics of Functions In Python - A Glance
 desc: "Transforming the data in an effective way and then utilizing them in an optimized manner while programming is known as Functions in python. In this article let me take you through different functions used in python along with some of the examples."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic-python-1.jpeg"
-date: "September 9, 2022"
+date: "Sep 9, 2022"
 tag: [ Functions in python, types of function, lambda functions, functions in python example, types of functions in python, user defined functions in python, python functions list, main function in python, built in functions in python, define function in python, calling a function in python, user-defined functions in python, lambda functions python, python list of lambda functions, what is lambda function in python with example ]
 category: "Python"
 author: "Vineeth Kumar" 

@@ -3,7 +3,7 @@ title:  Advanced Application of AI in Banking | A New Era of BFSI Sector
 desc: "In this blog, we'll explore how AI is being used to revolutionize the banking industry, making it more efficient and effective. We'll also know how AI in Banking and Finance is Leading Us to Super Secure and Worry-free Banking Experiences!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-1.jpg"
-date: "November 23, 2022"
+date: "Nov 23, 2022"
 tag: [ Artificial intelligence in Banking, AI in banking, artificial intelligence in banking India, future of artificial intelligence in banking, benefits of ai in banking, artificial intelligence in banking sector, artificial intelligence in banking sector in india, examples of artificial intelligence in banking, impact of artificial intelligence in banking sector, use of artificial intelligence in banking, role of artificial intelligence in banking sector ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 

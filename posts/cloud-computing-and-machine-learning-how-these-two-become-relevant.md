@@ -3,7 +3,7 @@ title:  Cloud Computing and Machine Learning - How These Two Become Relevant
 desc: "Cloud computation and machine learning are ruling the industry for a long period of time. Both of these technologies are critical to the growth of both small and large businesses. It serves as an organization's technology hub. Organizations can use cloud computing to process large amounts of data and get relevant results in real-time."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-1.jpg"
-date: "October 25, 2022"
+date: "Oct 25, 2022"
 tag: [ Cloud computing, machine learning Machine learning, Artificial intelligence, machine learning introduction, types of machine learning, machine learning examples, supervised vs unsupervised learning, machine learning definition, cloud computing meaning, cloud computing basics, what is cloud computing with example, types of cloud computing ]
 category: "Cloud Computing"
 author: "Nivin Biswas" 

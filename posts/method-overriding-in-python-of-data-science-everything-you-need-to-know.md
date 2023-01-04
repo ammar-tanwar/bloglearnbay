@@ -3,7 +3,7 @@ title: Method Overriding in Python of Data Science Everything You Need to Know
 desc: "Method Overriding in Python, Python is nothing but a high-level language in the programming era. It is a general-purpose language that is a must-learn for computer programming enthusiasts..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/over.jpg"
-date: "December 17, 2021"
+date: "Dec 17, 2021"
 tag: [ Python ]
 category: "Python"
 author: "Admin"

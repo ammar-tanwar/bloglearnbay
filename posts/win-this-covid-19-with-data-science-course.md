@@ -4,7 +4,7 @@ desc: "COVID-19 is an inevitable unfortunate situation, each one of us have got 
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/covid.png"
 category: "Data Science"
-date: "April 24, 2021"
+date: "Apr 24, 2021"
 tag: [ Data Science ]
 author: "Admin"
 position: "Editor"

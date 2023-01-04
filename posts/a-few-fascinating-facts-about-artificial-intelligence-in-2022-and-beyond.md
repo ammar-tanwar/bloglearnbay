@@ -3,7 +3,7 @@ title:  A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond
 desc: "Learn about the fascinating world of artificial intelligence with these AI facts. From chatbots to voice search, find out how AI is impacting our lives and what the future holds for this incredible technology."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-1.jpg"
-date: "October 21, 2022"
+date: "Oct 21, 2022"
 tag: [ 10 cool facts on artificial intelligence, 10 points on artificial intelligence, artificial intelligence facts and statistics, artificial intelligence facts 2022, positive facts about ai, artificial intelligence facts 2023, Artificial intelligence, artificial intelligence facts, AI, NLP, Chatbot, Voice search ]
 category: "Artificial Intelligence"
 author: "Milan" 

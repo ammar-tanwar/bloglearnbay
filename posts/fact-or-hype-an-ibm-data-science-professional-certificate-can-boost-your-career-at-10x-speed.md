@@ -3,7 +3,7 @@ title:  Fact or Hype - An IBM Data Science Professional Certificate Can Boost Yo
 desc: "A series of unique data science professional certifications are successfully boosting working professional's careers. This blog will shed light on such unique IBM data science certification."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-1.jpg"
-date: "November 25, 2022"
+date: "Nov 25, 2022"
 tag: [ ibm data science professional certificate, IBM data science certification, IBM data science professional certificate review, data science certifications, ibm data science professional certificate cost, ibm data science professional certificate worth it, ibm data science professional certificate salary, ibm data science professional certificate jobs, ibm data science professional certificate cost in india, best data science certification online, is ibm data science professional certificate worth it, best data science certifications, best data science certifications 2022, best data science certifications 2023, top 15 data science certifications, top 10 data science certifications ]
 category: "Data Science"
 author: "Milan" 

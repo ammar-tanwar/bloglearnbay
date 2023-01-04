@@ -3,7 +3,7 @@ title: Top 5 DSA Projects for Beginners in 2023!
 desc: "This article will look at some of the top data structure and algorithm projects that may help you establish a remarkable portfolio and stand out from the crowd. All of these DSA projects are ideal for those new to the DSA field. All of the DSA projects will assist you in showcasing your skills and landing your desired career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-1.jpg"
-date: "December 12, 2022"
+date: "Dec 12, 2022"
 tag: [ DSA projects, data structure and algorithm projects, Data structure projects, data structures in real life projects, best dsa projects, dsa based projects, dsa certified projects, mini projects on data structures and algorithms, mini project data structure using linked list, data structures projects for beginners, dsa projects for beginners, data structure project with source code, data structure mini project ideas, data structures and algorithms projects ideas, projects to learn data structures and algorithms, best projects for data structures and algorithms, example of data structures and algorithms ]
 category: "Hot Topics"
 author: "Nivin Biswas" 

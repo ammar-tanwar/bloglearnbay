@@ -3,7 +3,7 @@ title: Investing 3 lakhs on Data science Certification Course? Is it really wort
 desc: "We all know that data science is a highly fulfilling career with enormous financial prospects. Therefore, enrolling in the best-fit data science course is essential for new graduates as well as working professionals planning for career transition."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/invest.jpeg"
-date: "April 13, 2022"
+date: "Apr 13, 2022"
 tag: [ ibm data science professional certificate, data science certification course fees, ibm data science professional certificate cost in india, best data science certification course online ]
 category: "Data Science"
 author: "Admin"

@@ -3,7 +3,7 @@ title: Customer Experience Enhancement In Banks
 desc: "Customer Experience Enhancement now have access to accounts and can transact across mobile, social, and other self-serve channels..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cus.jpg"
-date: "July 11, 2021"
+date: "Jul 11, 2021"
 tag: [ Data Science ]
 author: "Admin"
 category: "Data Science"

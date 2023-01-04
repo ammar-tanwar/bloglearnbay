@@ -3,7 +3,7 @@ title: Reliable sources to understand about Data Science
 desc: "Data science is the leading concept currently throughout the world, it has successfully managed to bring different nations under one umbrella..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/source.jpg"
-date: "February, 2022"
+date: "Feb, 2022"
 tag: [ Data Science ]
 category: "Data Science"
 author: "Admin"

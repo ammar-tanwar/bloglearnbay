@@ -3,7 +3,7 @@ title:  Application of AI in Social Media Content Optimization
 desc: "With continuous advancement, we have observed numerous applications of AI in social media. AI continuously alters social media platforms outcomes by enhancing client engagement and data security through in-depth predictive analysis. Here, you will learn more about how artificial intelligence enhances social media."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-1.jpg"
-date: "December 19, 2022"
+date: "Dec 19, 2022"
 tag: [ AI and Social media, benefits of ai in social media, future of ai in social media, advantages of ai in social media, impact of artificial intelligence on social media, how ai works in social media, how ai is used in social media ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 

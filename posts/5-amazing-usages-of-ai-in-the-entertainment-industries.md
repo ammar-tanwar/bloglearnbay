@@ -3,7 +3,7 @@ title:  5 Amazing Usages of AI in the Entertainment Industries
 desc: "Artificial intelligence and the entertainment industry have moved beyond the realm of science fiction and are now a reality. Through analytics, content optimization, and forecasts, AI in entertainment has gradually started influencing the entertainment sector. Get a brief overview of the awe-inspiring advancements in AI in the field of artificial intelligence here."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-1.jpg"
-date: "December 16, 2022"
+date: "Dec 16, 2022"
 tag: [ AI in entertainment, AI in entertainment industry, artificial intelligence and entertainment industry, AI and entertainment industry, AR, VR, future of ai in entertainment, explain the role of ai in entertainment, advantages of ai in entertainment, application of ai in entertainment, uses of ai in entertainment, benefits of ai in entertainment, artificial intelligence in the broadcasting industry, ai in media and entertainment industry, examples of artificial intelligence in entertainment ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 

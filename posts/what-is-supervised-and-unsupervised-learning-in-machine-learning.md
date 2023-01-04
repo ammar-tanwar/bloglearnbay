@@ -3,7 +3,7 @@ title: What is Supervised, Unsupervised Learning, and Reinforcement Learning in 
 desc: "The Supervised Unsupervised And Reinforcement Learning algorithm is widely used in the industries to predict the business outcome, and forecasting the result on the basis of historical data"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/super.png"
-date: "April 7, 2022"
+date: "Apr 7, 2022"
 category: "Hot Topics"
 tag: [ supervised unsupervised and reinforcement learning examples, difference between supervised unsupervised and reinforcement learning ]
 author: "Admin"
