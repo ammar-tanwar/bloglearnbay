@@ -33,7 +33,7 @@ export default function CategoryBlog({ categoryPosts }) {
                 className={styles.blog}
                 key={id}
                 style={{
-                  background: `linear-gradient(0deg, rgba(0,0,0,0.8) 34%, rgba(255,255,255,0) 83%), url(${headerImg}) no-repeat center center `,
+                  background: `linear-gradient(0deg, rgba(0,0,0,0.8) 34%, rgba(255,255,255,0) 200%), url(${headerImg}) no-repeat center center `,
                   backgroundSize: "cover",
                 }}
               >

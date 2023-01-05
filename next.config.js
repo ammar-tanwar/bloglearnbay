@@ -34,6 +34,56 @@ module.exports = {
         destination: '/the-necessity-of-machine-learning-in-retail',
         permanent: true,
       },
+
+      {
+        source: '/oops-why-2022-is-too-late-for-video-Based-data-science-learning',
+        destination: '/oops-why-2023-is-too-late-for-video-based-data-science-learning',
+        permanent: true,
+      },
+
+      {
+        source: '/a-few-fascinating-facts-of-artificial-intelligence-in-2022-and-beyond',
+        destination: '/a-few-fascinating-facts-about-artificial-intelligence-in-2023-and-beyond',
+        permanent: true,
+      },
+
+      {
+        source: '/a-few-fascinating-facts-about-artificial-intelligence-in-2022-and-beyond',
+        destination: '/a-few-fascinating-facts-about-artificial-intelligence-in-2023-and-beyond',
+        permanent: true,
+      },
+
+      {
+        source: '/why-has-generative-ai-for-deepfake-and-synthetic-data-been-so-popular-till-now',
+        destination: '/what-is-generative-ai-all-you-need-to-know',
+        permanent: true,
+      },
+
+      {
+        source: '/category/uncategorized',
+        destination: '/blogs',
+        permanent: true,
+      },
+
+      {
+        source: '/[id]',
+        destination: '/category/hot-topic',
+        permanent: true,
+      },
+
+      {
+        source: '/category/ai',
+        destination: '/category/artificial-intelligence',
+        permanent: true,
+      },
+
+      {
+        source: '/category/hot-topic',
+        destination: '/category/hot-topics',
+        permanent: true,
+      },
+
+
     ]
   },
 }

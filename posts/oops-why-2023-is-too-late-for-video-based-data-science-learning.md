@@ -21,8 +21,6 @@ tableData:
 ---
 # Oops! Why 2023 Is Too Late For Video-Based Data Science Learning
 
-
-
 Online data science courses are still the best option, but the recorded video-based ones are the worst.
 
 Are you searching for a **data science course online?** Well, the subtitle might make you a bit confused. I am saying that online data science courses are still the best option while mentioning video-curated learning as an obsolete entity.
