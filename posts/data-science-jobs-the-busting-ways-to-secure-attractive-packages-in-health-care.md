@@ -24,13 +24,14 @@ Got your master's degree in genetic counseling, occupational therapy, health adm
 
 *What's the reason? They all are well qualified and experienced enough.* 
 
-Well, this industry has had a new 'must-have' skill requirement for the last few years. It's **Data Science and AI**. 
+Well, this industry has had a new 'must-have' skill requirement for the last few years. It's <a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">Data Science and AI</a>. 
 
 Yes, data science and AI have changed the direction of the job market. There are many vacancies and candidates roaming around to fill those positions. Still, there needs to be more hiring. Some people work almost 24X7 with a package of 3 LPA-4 LPA, even after getting a master's degree. 
 
 However, there is a contrasting side as well. A few enjoy 10 to 12 LPA, with an average of 3 to 4 years of experience in the same domain.
 
-This blog will help you find the root path to secure your data science jobs in the healthcare sector. 
+This blog will help you find the root path to secure your data science jobs in the health
+care sector. 
 
 First, let me answer the questions coming to the mind of most readers right now.
 
@@ -80,7 +81,7 @@ According to one study (source: daily mail UK), the amount of data produced by a
 
 The medical industry produces large datasets of helpful information about patient demographics, treatment plans, health check results, insurance, and more. The data collected by Internet of Things (IoT) devices has attracted the attention of data scientists.
 
-All these techniques and methods make it essential to have data science in the <a href="https://blog.learnbay.co/how-to-build-a-rewarding-career-as-a-healthcare-data-scientist" target="_blank">healthcare</a>industry.
+All these techniques and methods make it essential to have data science in the <a href="https://blog.learnbay.co/how-to-build-a-rewarding-career-as-a-healthcare-data-scientist" target="_blank">healthcare industry</a>.
 
 ### Can data scientists work in healthcare?    
   
@@ -206,7 +207,7 @@ All healthcare data science projects focus on developing suitable applications t
 
 ## Conclusion        
 
-Now that we have reached the end of the blog, I hope you have been educated on the importance of domain expertise in the healthcare sector. Another thing to make clear is this potential in the coming future and even the present. Pharma and the medical industry will never be outdated as long as humans exist. Therefore, in-depth knowledge of data science and its usage in healthcare is needed to change this sector. The healthcare/medical domain provided in Learnbay's <a href="https://learnbay.co/data-science-ai-for-managers" target="_blank">Data Science and AI</a> Courses will aid you in understanding projects and use cases.
+Now that we have reached the end of the blog, I hope you have been educated on the importance of domain expertise in the healthcare sector. Another thing to make clear is this potential in the coming future and even the present. Pharma and the medical industry will never be outdated as long as humans exist. Therefore, in-depth knowledge of data science and its usage in healthcare is needed to change this sector. The healthcare/medical domain provided in Learnbay's <a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">Data Science and AI</a> Courses will aid you in understanding projects and use cases.
 
 ## Bibliography   
 

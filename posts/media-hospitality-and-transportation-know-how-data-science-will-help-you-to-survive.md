@@ -212,13 +212,14 @@ Data scientists' salary in India, with less than one year of experience or more 
 ## Conclusion  
 The role of data science in media, transportation, and hospitality is vast. These industries have a great future with data science. That includes even natural disasters like Pandemics or even a tsunami. With the reasons mentioned above and tips, you will get a good chance of employment in the domains.
 
-To know more about domain specializations, <a href="https://www.learnbay.co/" target="_blank">click here</a> and make sure to follow all our socials:
+To know more about domain specializations, visit <a href="https://www.learnbay.co/" target="_blank"> Learnbay</a> and make sure to follow all our socials:
 
-Twitter: <a href="https://twitter.com/Learnbay" target="_blank">https://twitter.com/Learnbay<a>
+Twitter: <a href="https://twitter.com/Learnbay" target="_blank"> https://twitter.com/Learnbay<a>
 
-Facebook:<a href="https://www.facebook.com/learnbay/" target="_blank">https://www.facebook.com/learnbay/</a>
+Facebook: <a href="https://www.facebook.com/learnbay/" target="_blank"> https://www.facebook.com/learnbay/
+</a>
 
-LinkedIn: <a href="https://www.linkedin.com/company/learnbay/>" target="_blank">https://www.linkedin.com/company/learnbay/></a>
+LinkedIn: <a href="https://www.linkedin.com/company/learnbay/>" target="_blank">https://www.linkedin.com/company/learnbay/</a>
 
 ## Bibliography
 - <a href="https://www.kaggle.com/" target="_blank">https://www.kaggle.com/</a>

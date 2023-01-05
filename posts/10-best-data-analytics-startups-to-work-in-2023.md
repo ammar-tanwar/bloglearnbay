@@ -149,4 +149,4 @@ For industrial organizations, Uptake Technologies provides data modeling and opt
 
 So if you want to switch to the endless possibilities of a data-driven world data analytics is the best option for you.
 
-Additionally, you can follow up on these best data analytics startups' official career pages. In case you still have not stepped into the world of data analytics, it's high time to upskill yourself. Join a top-notch <a href="https://learnbay.co/data-analytics-certification-course" target="_blank">data analytics program</a> and make sure you won't miss the upcoming data analytics employment growth.
+Additionally, you can follow up on these best data analytics startups' official career pages. In case you still have not stepped into the world of data analytics, it's high time to upskill yourself. Join a top-notch <a href="https://www.learnbay.co/data-analytics-certification-course" target="_blank">data analytics program</a> and make sure you won't miss the upcoming data analytics employment growth.
