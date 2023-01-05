@@ -83,6 +83,12 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/xgboost-classifier',
+        destination: '/everything-about-the-xgboost-classifier.md',
+        permanent: true,
+      },
+
 
     ]
   },

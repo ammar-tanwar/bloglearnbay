@@ -4,7 +4,7 @@ desc: "The BFSI industry in India has seen a significant transformation, which h
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job.png"
 date: "Apr 7, 2022"
-tag: [ Hot Topics ]
+tag: [ Banking, Finance, Services & Insurance Sector, BFSI, BFSI Salary ]
 category: "Hot Topics"
 author: "Admin"
 position: "Editor"
