@@ -21,8 +21,6 @@ Advantages Of Method Overriding,
 Overriding The Methods Available In Base Class,
 Difference Between Method Overloading And Method Overriding In Python,
 Conclusion,
-
-
   ]
 ---
 
@@ -39,21 +37,19 @@ Python is also called as an object-oriented programming language i.e. OOP where 
 In Python, method overriding occurs when two methods with the same name accomplish distinct duties. Method overriding is nothing but a specific feature of object-oriented programming languages. It allows a subclass or child class to give the programme with certain attributes or a specific data implementation procedure that is already defined in the parent or superclass.
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/over.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/over.jpg" class="img" alt="An image of a human hand programming in Python utilizing method overriding."/>
 
 
 Method overriding allows a child class to modify functions defined by its ancestral classes. When the same returns, parameters, or names are entered in the subclass as in the parent class, the subclass’s implementation method overrides the parent class’s method. Method overriding is the term for this. In other words, the child class gets access to the parent class method’s properties and functions while also extending its own functions to the method.
 
 Its execution is determined by the data used to call the method, rather than the reference data provided by the parent class. When a method in a subclass has the same name, parameters or signature, and return type (or sub-type) as a method in its super-class, the subclass method is said to override the super-class method. When a parent class object is used to call a program’s implementation method, the parent class’s version of the method is called.
 
-If a method is invoked with an object from a parent class, the parent class’s version will be used. But if the method is invoked with an object from a subclass, the child class’s version will be used. If, on the other hand, a subclass object is used to invoke the method, the function will be executed according to the subclass’s features. Check out our[ data science courses at Learnbay](https://datascience-learnbay.medium.com/complete-guide-on-data-science-bootcamp-bf9e21caf00b) if you’re a newbie looking to learn more about the field. Which version of an overridden method is performed is determined by the type of the object being referenced to (not the type of the reference variable).
+If a method is invoked with an object from a parent class, the parent class’s version will be used. But if the method is invoked with an object from a subclass, the child class’s version will be used. If, on the other hand, a subclass object is used to invoke the method, the function will be executed according to the subclass’s features. Check out our <a href="https://datascience-learnbay.medium.com/complete-guide-on-data-science-bootcamp-bf9e21caf00b" target="_blank">data science courses at Learnbay</a> if you’re a newbie looking to learn more about the field. Which version of an overridden method is performed is determined by the type of the object being referenced to (not the type of the reference variable).
 
 
 ## Multiple And Multilevel Inheritances In Method Overriding
 
 Multiple Inheritance:
-
-
 
 * A subclass inherits features and traits from multiple parent classes or bases under this type of inheritance.
 * Multiple inheritances refer to when a class is derived from multiple base classes.
@@ -88,7 +84,7 @@ Any object-oriented programming language has the ability to allow a subclass or 
 * It’s used to alter existing methods’ behaviour and implementation.
 * For method overriding, a minimum of two classes is always required.
 
-Check Out Our Course :[ Artificial Intelligence Certification Course](https://www.learnbay.co/artificial-intelligence-certification-course)
+Check Out Our Course : <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">Artificial Intelligence Certification Course</a>
 
 
 ## Advantages Of Method Overriding
@@ -159,8 +155,8 @@ Inheritance is always required in method overriding, as it is between parent cla
 
 ## Conclusion
 
-One of the most important elements of the Python language is method overriding. Method overriding allows a child class to provide a customised implementation of a method that one of its parent classes already provides. The attribute is often used in[ data science](https://datascience-learnbay.medium.com/why-one-should-take-up-the-data-science-course-a789ef6f3a17) programming because it enables compact and efficient data processing.
+One of the most important elements of the Python language is method overriding. Method overriding allows a child class to provide a customised implementation of a method that one of its parent classes already provides. The attribute is often used in <a href="https://datascience-learnbay.medium.com/why-one-should-take-up-the-data-science-course-a789ef6f3a17" target="_blank">data science</a> programming because it enables compact and efficient data processing.
 
 A child class can provide a customised implementation of a method that is already supplied by one of its parent classes using the overriding method. Method overriding also facilitates code compilation and rechecking. If the method name is the same in the parent and child classes, the method will be overridden in the child class. Understanding the fundamental concepts of classes and inheritance is required to use this functionality.
 
-We recommend taking the Data Science course if you want to understand more about method overriding in Python. The key benefit of this feature is that it allows a class to declare its own model for an inherited function without affecting the parent class’s code. This course is available in Bangalore through[ Learnbay](https://www.learnbay.co/data-science-course-training-in-bangalore). Deep Learning, Natural Language Processing, Business Analytics, and Data Engineering are all disciplines that students with a thorough understanding of Python ideas can handle.
+We recommend taking the Data Science course if you want to understand more about method overriding in Python. The key benefit of this feature is that it allows a class to declare its own model for an inherited function without affecting the parent class’s code. This course is available in Bangalore through <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">Learnbay</a>. Deep Learning, Natural Language Processing, Business Analytics, and Data Engineering are all disciplines that students with a thorough understanding of Python ideas can handle.

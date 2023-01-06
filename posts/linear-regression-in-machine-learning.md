@@ -14,7 +14,7 @@ id: "linear-regression-in-machine-learning"
 tableData:
   [
    What is Regression?,
-    What are overfitting and underfitting?,
+   What are overfitting and underfitting?,
 
   ]
 ---

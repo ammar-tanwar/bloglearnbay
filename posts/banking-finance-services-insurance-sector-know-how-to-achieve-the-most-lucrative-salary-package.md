@@ -39,7 +39,7 @@ But what can be the best option for you?
 
 In today's world, Data science plays a significant role in the BFSI sector. They help in analyzing data to improve the overall customer experience.
 
-<a href="top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2023" target="_blank">Data science and AI</a> can be the finest option to land a high-paying job in the BFSI sector.
+<a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">Data science and AI</a> can be the finest option to land a high-paying job in the BFSI sector.
 
 Throughout this blog, you'll get an idea of how data science influences the financial industry and how it can help secure your career. Let us discuss Data Science in BFSI (banking, finance, services, and insurance).
 
@@ -65,8 +65,6 @@ Many people who work for IT companies, BPO companies, or technical and professio
 In the last 15 years, the BFSI sector has undergone many changes, and it will be a big part of India's economic development based on inclusive growth.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job1.png" alt="An illustration shows four bankers standing, lifting their hands, and carrying coins, calculators, rupees, and an insight symbol." class="img"  />
-
-Source: By the Author
 
 ### Possibilities and Challenges:-   
 

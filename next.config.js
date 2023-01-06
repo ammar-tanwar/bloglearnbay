@@ -85,7 +85,7 @@ module.exports = {
 
       {
         source: '/xgboost-classifier',
-        destination: '/everything-about-the-xgboost-classifier.md',
+        destination: '/everything-about-the-xgboost-classifier',
         permanent: true,
       },
 

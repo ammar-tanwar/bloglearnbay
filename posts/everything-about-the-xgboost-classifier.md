@@ -96,19 +96,19 @@ Unlike unextreme Gradient Boost, which typically uses regular off-the-shelf, Reg
 
 Computing the Residuals' Quality or Similarity scores.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xg2.png"   class="img" alt="An flow chart list the following data. 
-The chart starts from 'Dosage less than 15'. This splits into  two branches: 'negative 10.5' and 'Dosage less than 30'. The later splites into two sub branches- '6.5, 7.5' and 'negative 8.'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xg2.png"   class="img" alt="An equation reads, similarity score is equal to sum of residuals, Squared devided by Number of residuals plus lambda."/>
 
 Here λ is a regularization parameter.
 
 So we split the observations into two groups based on whether or not the Dosage\<15.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xg3.png"   class="img" alt="A flow chart with similarity of 4 residuals with various observation score.
-The chart starts from 'negetive 10.5, 6.5. 7.5, negative 7.5.' This splits into two sub branches: 'negative 10.5' with similarity score 110.25 and '6.5, 7.5, and negatie 7.5' with similarity score 14.08."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xg3.png"   class="img" alt="An flow chart list the following data. 
+The chart starts from 'Dosage less than 15'. This splits into  two branches: 'negative 10.5' and 'Dosage less than 30'. The later splites into two sub branches- '6.5, 7.5' and 'negative 8.'"/>
 
 The observation on the left is the only one with a Dosage\<15. All of the other residuals go to the leaf on the right.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xg4.png"   class="img" alt="An equation reads, similarity score equals to open parenthesis negative 10.5 plus 6.5 plus 7.5 plus negative 7.5 close parenthesis to power of 2 divided vy 4 plus 0 (in red)."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xg4.png"   class="img" alt="A flow chart with similarity of 4 residuals with various observation score.
+The chart starts from 'negetive 10.5, 6.5. 7.5, negative 7.5.' This splits into two sub branches: 'negative 10.5' with similarity score 110.25 and '6.5, 7.5, and negatie 7.5' with similarity score 14.08."/>
 
 When we calculate the similarity score for the observations –10.5,-7.5,6.5,7.5 while putting λ =0
 
