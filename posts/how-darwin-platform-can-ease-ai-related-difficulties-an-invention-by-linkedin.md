@@ -5,7 +5,7 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/438160-hdap-1.png"
 date: "Jan 6, 2023"
 tag: [ Darwin Platform, Linkedin DARWIN Platform, AI, data visualization, continued support, user interface, exploratory data analysis Data science ]
-category: "Data Science"
+category: "Artificial Intelligence"
 author: "Nivin Biswas" 
 position: "Editor"
 readTime: "8-9 mins"
