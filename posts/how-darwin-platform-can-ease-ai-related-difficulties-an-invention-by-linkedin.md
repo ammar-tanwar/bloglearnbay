@@ -4,7 +4,7 @@ desc: "Here in this blog, learn about Darwin's various use cases and implication
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/438160-hdap-1.png"
 date: "Jan 6, 2023"
-tag: [ Darwin Platform, Linkedin DARWIN Platform, AI, data visualization, continued support, user interface, exploratory data analysis Data science ]
+tag: [ Darwin Platform, Linkedin DARWIN Platform, AI, data visualization, continued support, user interface, exploratory data analysis, Data science, darwin ai linkedin, darwin software ]
 category: "Artificial Intelligence"
 author: "Nivin Biswas" 
 position: "Editor"
@@ -36,7 +36,7 @@ You can easily prepare profitable data sets as well as **insightful data visuali
 
 But in the new machine Learning era, it's critical to strike a balance between data science workbooks and software libraries. And here comes the efficacy of the **Linkedin DARWIN platform**.
 
-A successful digital transformation necessitates the use of automation and artificial intelligence. You assign jobs to your robots, who learn and develop. Previously, separate items were designed to meet distinct demands. Accordingly, The most difficult task is finding the right set of data.
+A successful digital transformation necessitates the use of automation and artificial intelligence. You assign jobs to your robots, who learn and develop. Previously, separate items were designed to meet distinct demands. Accordingly, the most difficult task is finding the right set of data.
 
 ## How does Darwin neutralize such difficulties?
 
@@ -54,7 +54,7 @@ AI is a career-changing aspect of the workplace. It can change businesses. AI ha
 
 Any company that does not understand the role of AI in today's business and marketing is under red alert.
 
-For companies that are on a quick plan of AI implementation but not ready with the AI- infrastructure, the Linkedin DARWIN platform can be the game changer. This tool will make building an ML pipeline and a data catalog simple and uniform. DARWIN enables the shift from isolated tools installed on your desktop to an AI-driven workspace.
+For companies that are on a quick plan of AI implementation but not ready with the AI-infrastructure, the Linkedin DARWIN platform can be the game changer. This tool will make building an ML pipeline and a data catalog simple and uniform. DARWIN enables the shift from isolated tools installed on your desktop to an AI-driven workspace.
 
 Using this platform, users can build machine learning pipelines, metric authoring, and data catalogs in one place. The idea was to move users away from standalone programs, which can be inconvenient when they need to be installed on many machines and handle additional software. **The Darwin DS and AI workbench tools are more collaborative and less restrictive.**
 

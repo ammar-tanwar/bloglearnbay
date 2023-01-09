@@ -95,6 +95,12 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/you-could-be-a-pro-in-data-science-by-self-assisting-data-scientist',
+        destination: '/you-could-be-a-pro-in-data-science-by-self-assisting',
+        permanent: true,
+      },
+
     ]
   },
 }

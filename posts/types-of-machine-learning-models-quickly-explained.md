@@ -100,7 +100,7 @@ V. Deep Learning <br>
 
 ### 1. Classification model:-    
 
-Generally, classification tools are a type of machine learning tool that aid in prediction. Based on a limited number of possibilities, it can be applied to different types of object classes or object types. The standard output is always a subset of a category that is based on an output parameter. For instance, it can categorize and forecast whether a message is a spam or not.
+Generally, classification tools are a type of machine learning tool that aid in prediction. Based on a limited number of possibilities, it can be applied to different types of object classes or object types. The standard output is always a subset of a category that is based on an output parameter. For instance, it can categorize and forecast whether a message is spam or not.
 
 ### 2. Regression model:-
 
