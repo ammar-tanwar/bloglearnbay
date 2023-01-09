@@ -10,10 +10,10 @@ author: "Nivin Biswas"
 position: "Editor"
 readTime: "8-9 mins"
 h1: "Types of Machine Learning Models - Quickly Explained"
-id: "types-of-machine-learning-odels-quickly-explained"
+id: "types-of-machine-learning-models-quickly-explained"
 tableData:
   [
-     What is a machine learning model?, 1. Supervised machine learning:-, 2. Unsupervised machine learning:-, Use cases:-, Unsupervised machine learning aids in customer segmentation techniques for establishing businesses and markets., It supports biological DNA clustering.,  3. Reinforcement learning (RL):-, If we take any inferences from this machine learning. we can divide models further into five subcategories. These five categories are as stated in the preceding section.  , 1. Classification model:-,  2. Regression model:-, 3. Clustering:- , 4. Dimensionality reduction:-, 5. Deep Learning:-, Summing up:-  
+     What is a machine learning model?, 1. Supervised machine learning:-, 2. Unsupervised machine learning:-,   3. Reinforcement learning (RL):-, These five categories are as stated in the preceding section., 1. Classification model:-,  2. Regression model:-, 3. Clustering:- , 4. Dimensionality reduction:-, 5. Deep Learning:-, Summing up:-  
    ]
 ---
 
@@ -28,11 +28,11 @@ Machine learning has improved every computer system architecture in numerous way
 
 ## What is a machine learning model?
 
-Before delving into different machine learning models, we should first define a machine learning model. As a result, the machine learning model in development can quickly discover patterns and make decisions based on the data set. It also aids in analyzing and identifying the mix of words and auditory sentences for natural language processing <a href="https://www.blog.learnbay.co/nlp-and-deep-learning-for-data-scientists" target="_blank">NLP</a>).
+Before delving into different machine learning models, we should first define a machine learning model. As a result, the machine learning model in development can quickly discover patterns and make decisions based on the data set. It also aids in analyzing and identifying the mix of words and auditory sentences for natural language processing (<a href="https://blog.learnbay.co/nlp-and-deep-learning-for-data-scientists" target="_blank">NLP</a>).
 
 **Machine learning employs algorithms, which can aid in sorting through large amounts of data to get a simple conclusion.**
 
-To work with machine learning technology, you do not need to be concerned with creating codes; instead, you may utilize <a href="https://www.blog.learnbay.co/no-code-machine-learning-just-gone-viral-but-what's-that" target="_blank">no code machine learning</a> technology to proceed with the working process of machine learning models.
+To work with machine learning technology, you do not need to be concerned with creating codes; instead, you may utilize <a href="https://blog.learnbay.co/no-code-machine-learning-just-gone-viral-but-what's-that" target="_blank">no code machine learning</a> technology to proceed with the working process of machine learning models.
 
 In any computing term, the machine learning model is divided into 3 types:-
 
@@ -64,9 +64,9 @@ Unsupervised machine learning tries to divide the data set into several classes 
 
 Unsupervised machine learning is a method in which we mainly focus on finding patterns with large data sets and smaller subsets with similar patterns. Using features detected in the data, unsupervised learning creates a mapping function that categorizes the data.
 
-### Use cases:-  
+**Use cases:-**
 
-### Unsupervised machine learning aids in customer segmentation techniques for establishing businesses and markets.
+**Unsupervised machine learning aids in customer segmentation techniques for establishing businesses and markets.**
 
 ### It supports biological DNA clustering.   
 
@@ -86,14 +86,17 @@ In other words, rather than reporting faults after each example, it receives a r
 - We can apply the RL algorithm to self-driving cars.
 - Robots could also employ RL to carry out tiresome and repetitive activities.
 
-## If we take any inferences from this machine learning. we can divide models further into five subcategories. These five categories are as stated in the preceding section.  
+
+**If we take any inferences from this machine learning. we can divide models further into five subcategories.**
+
+## These five categories are as stated in the preceding section.
    
 
-1. Classification Models
-2. Regression Models
-3. Clustering
-4. Dimensionality Reduction
-5. Deep Learning
+I. Classification Models <br>
+II. Regression Models <br>
+III. Clustering <br>
+IV. Dimensionality Reduction <br>
+V. Deep Learning <br>
 
 ### 1. Classification model:-    
 
@@ -137,6 +140,6 @@ Deep learning algorithm has evolved significantly in recent years due to the usa
 
 ## Summing up:-  
 
-In this blog, we have discussed various types of machine learning models. While machine learning models are extremely powerful, it is critical to recognize that they are not without defects. They are still in their infancy and lack human-like decision-making abilities. Keeping this in mind, you should constantly strive to work with machines rather than against them. To learn more about machine learning algorithms and models, follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>, and <a href="https://www.linkedin.com/company/learnbay/" target="_blank">Linkedin</a>.
+In this blog, we have discussed various types of machine learning models. While machine learning models are extremely powerful, it is critical to recognize that they are not without defects. They are still in their infancy and lack human-like decision-making abilities. Keeping this in mind, you should constantly strive to work with machines rather than against them. To learn more about <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">machine learning</a> algorithms and models, follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>, and <a href="https://www.linkedin.com/company/learnbay/" target="_blank">Linkedin</a>.
 
 Thank you for reading!
