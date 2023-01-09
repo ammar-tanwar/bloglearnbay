@@ -89,6 +89,11 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/types-of-machine-learning-odels-quickly-explained',
+        destination: '/types-of-machine-learning-models-quickly-explained',
+        permanent: true,
+      },
 
     ]
   },
