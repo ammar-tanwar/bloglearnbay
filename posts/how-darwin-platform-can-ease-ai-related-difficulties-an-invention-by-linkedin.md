@@ -36,7 +36,7 @@ You can easily prepare profitable data sets as well as **insightful data visuali
 
 But in the new machine Learning era, it's critical to strike a balance between data science workbooks and software libraries. And here comes the efficacy of the **Linkedin DARWIN platform**.
 
-A successful digital transformation necessitates the use of automation and artificial intelligence. You assign jobs to our robots, who learn and develop. Previously, separate items were designed to meet distinct demands. Accordingly, The most difficult task is finding the right set of data.
+A successful digital transformation necessitates the use of automation and artificial intelligence. You assign jobs to your robots, who learn and develop. Previously, separate items were designed to meet distinct demands. Accordingly, The most difficult task is finding the right set of data.
 
 ## How does Darwin neutralize such difficulties?
 
