@@ -101,6 +101,12 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/why-you-need-data-science',
+        destination: '/data-science-is-important-why-we-need-it',
+        permanent: true,
+      },
+
     ]
   },
 }

@@ -122,13 +122,13 @@ In case simple linear regression applies to a business problem, then the identif
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear1.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear1.jpg"   class="img" alt="A graph with an X-axis Independent and Y-axis dependent shows a linear connection between 2 factors."/>
 
 Fig:1
 
 The above plot indicates an immediate linear connection between 2 sorts of factors (dependent and independent).
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear2.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear2.jpg"   class="img" alt="A graph with an X-axis Independent and Y-axis dependent shows a curvy linear connection between 2 sorts of factors."/>
 
 
 
@@ -139,7 +139,7 @@ The above plot indicates an immediate but curvy linear connection between 2 sort
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear3.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear3.jpg"   class="img" alt="A graph with an X-axis independent and a Y-axis dependent displays an immediate but inverted linear connection between two types of components."/>
 
 
 Fig:3
@@ -148,7 +148,7 @@ The above plot indicates an immediate but inverted linear connection between 2 s
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear4.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear4.jpg"   class="img" alt="A graph with an independent X-axis and a dependent Y-axis depicts an inverted and curved linear link between two types of factors."/>
 
 
 Fig:4
@@ -157,7 +157,7 @@ The above plot indicates an inverted and curvy linear connection between 2 sorts
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear5.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear5.jpg"   class="img" alt="A graph with an independent X-axis and a dependent Y-axis displays a direct and inverted linear link between two types of factors but with a great extent of scattering."/>
 
 Fig:5
 
@@ -165,7 +165,7 @@ The above plot indicates a direct and inverted linear connection between 2 sorts
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear6.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear6.jpg"   class="img" alt="A graph with an independent X-axis and a dependent Y-axis depicts the elements' non-linear connection"/>
 
 
 Fig 6:

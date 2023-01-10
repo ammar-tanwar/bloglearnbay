@@ -1,6 +1,6 @@
 ---
 title: Normal and Gaussian Distribution
-desc: "Gaussian distribution is a bell-shaped curve, it follows the normal distribution with the equal number of measurements right side and left side of the value..."
+desc: "This blog deals with the overall guide on Normal distribution in statistics. Here you will learn the basics of the normal distribution to its applications in statistical analysis by estimating probability distribution and probability."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gaussian.png"
 date: "Mar 29, 2022"

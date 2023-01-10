@@ -66,9 +66,9 @@ Unsupervised machine learning is a method in which we mainly focus on finding pa
 
 **Use cases:-**
 
-**Unsupervised machine learning aids in customer segmentation techniques for establishing businesses and markets.**
+- Unsupervised machine learning aids in customer segmentation techniques for establishing businesses and markets.
 
-### It supports biological DNA clustering.   
+- It supports biological DNA clustering.   
 
 - We may create a recommendation system using unsupervised learning.
 

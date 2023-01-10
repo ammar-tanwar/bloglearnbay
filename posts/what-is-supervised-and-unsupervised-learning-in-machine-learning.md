@@ -1,6 +1,6 @@
 ---
 title: What is Supervised, Unsupervised Learning, and Reinforcement Learning in Machine Learning
-desc: "The Supervised Unsupervised And Reinforcement Learning algorithm is widely used in the industries to predict the business outcome, and forecasting the result on the basis of historical data"
+desc: "Machine learning algorithms have impacted different types of sectors based on their uses and implications; here in this blog, you will get an overview of all machine learning algorithms, such as Supervised, unsupervised, and reinforcement learning, and their importance in relevant fields."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/super.png"
 date: "Apr 7, 2022"

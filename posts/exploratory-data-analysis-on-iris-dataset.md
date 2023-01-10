@@ -15,7 +15,7 @@ tableData:
   [
  What is EDA?,
  
-  
+ 
   ]
 ---
 
@@ -35,7 +35,7 @@ import pandas as pd
 
 import matplotlib.pyplot as plt Loading the Iris data iris_data= pd.read_csv("Iris.csv") 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris.jpg"   class="img" alt="A datasheet shows various types of Fisher's iris data divided into 5 columns: sepal length, sepal width, petal length, petal width, and species."/>
 
 
 (150,5)
@@ -67,14 +67,14 @@ plt.grid()
 
 plt.show() [ ]
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris1.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris1.png"   class="img"  alt="A vector graph show the x-axis ranging from 1 to 7 and the y-axis from -0.04 to 0.04, where there is a rise in Setosa(blue), Versicolor(orange) and Virginica(green)."/>
 
  2D scatter plot: iris.plot(kind="scatter",x="sepal_length"
  ,y="sepal_width")
 
 plt.show()[ ]
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris2.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris2.png"   class="img" alt="A scattered plot represents the X axis as the sepal length, which ranges form 4.5 to 8.0, and the Y axis as the Sepal width ranges form 2.0 to 4.5, with different scattered points."/>
 
  2D scatter plot with the seaborn library : import seaborn as sns
 
@@ -89,7 +89,7 @@ sns.FacetGrid(iris,hue="species",size=4) \
 
 plt.show() 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris3.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris3.png"   class="img" alt="A scattered plot represents the X axis as the sepal_length, which ranges from 5 to 8, and the Y axis as the Sepal_width ranges from 2.0 to 4.5, with different coloured dots such as blue for setosa, orange for Versicolor and green for Virginica."/>
 
 
 
@@ -161,7 +161,9 @@ plt.plot(bin_edges[1:], cdf)
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris4.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris4.png"   class="img" alt="A vector graph ranges from 1.1 to 1.9 on the x-axis and 0.0 to 1.0 on the Y-axis,  where we have two curved lines, coloured orange for CDF and blue for PDF.
+The graph also contains two green vector lines and two red vector lines. The first green vector line ranges from the X-axis- 1.350 to Y- axis 0.2, and the second green vector line ranges from X-axis- 1.6 to Y-axis 0.82. 
+Similarly, the first red vector line ranges from X-axis 1.5 to Y-axis 0.25, and the second red vector line ranges from X-axis 1.6 to Y-axis 0.25."/>
 
 
 

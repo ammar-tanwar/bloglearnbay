@@ -10,7 +10,7 @@ category: "Data Science"
 position: "Editor"
 readTime: "4-5 mins"
 h1: "Everything About Data Preprocessing"
-id: "data-preprocessing"
+id: "everything-about-data-preprocessing"
 tableData:
   [
   Data Preprocessing,
@@ -18,8 +18,6 @@ tableData:
     
   ]
 ---
-
-
 
 
 ## Data Preprocessing
@@ -39,7 +37,13 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 * Learning algorithms understand the only number, converting text image to number is required.
 * Preprocessing refers to transformation before feeding to Machine Learning.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data.png" width="400px" class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data.png" width="400px" class="img" alt="An image of a preprocessing procedure that includes the sequental steps as follows: -
+Data collection & Assembly
+Data processing 
+Data Exploration & Visualization
+Model Building
+Model Evaluation
+"/>
 
 1. StandardScaler
 
@@ -49,7 +53,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data1.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data1.png"   class="img" alt="A MinMaxScaler formula  lowercase x subscript lowercase i  that  Subtract min of column with lower case (x) & divides by the difference between max lowercase(x) & min lowercase(X)."/>
 
 3. MinMaxScaler
 
@@ -60,7 +64,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data2.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data2.png"   class="img" alt="A formula for Robust Scaler where  lowercase x subscript lowercase i subtract the 1st-quartile & divide them by the difference between Q3rd-quartile lowercase(x) & 1st-quartile lowercase (X)."/>
 
 
 4. Robust Scaler
@@ -72,7 +76,7 @@ Introduction to Data Preprocessing:- Before modeling the data we need to clean t
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data3.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data3.png"   class="img" alt="A normalizer formula that divides each parameter value by magnitude where lowercase x subscript lowercase i divides with the squre root of lowercase x subscript lowercase i with exponential 2 + lowercase y subscript lowercase i with exponential 2 + lowercase z subscript lowercase i with exponential 2."/>
 
 
 

@@ -14,10 +14,9 @@ id: "random-forest-model-rfm"
 tableData:
   [
    Random Forest Model Introduction,
-Random Forest Model Algorithm Working,
-What is the Out of Bag score in Random Forests?,
+   Random Forest Model Algorithm Working,
+   What is the Out of Bag score in Random Forests?,
 
-  
   ]
 ---
 
@@ -38,7 +37,7 @@ We can understand the working of the Random Forest algorithm with the help of fo
 * Step 1 − First, start with the selection of random samples from a given dataset. Do sampling without replacement.
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm1.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm1.png"   class="img" alt="A process chart suggests a training set and a test set to find a prediction from a feature of the data set. The training set ranges from training sample1 to training sample n, which goes through voting and prediction stages."/>
 
 
 Sampling without replacement stats that the training data split into several small samples and then the result we get is a combination of all the data set. If we have 1000 features in a data set the splitting will happen with 10 features each in a small training data and all split training data contains equal no of features. The result is based on which training data has the highest value.
@@ -281,7 +280,7 @@ plt.legend(loc="lower right")
 plt.show()
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm2.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm2.png"   class="img" alt="A lined graph with an x-axis as a false positive rate ranges from 0.0 to 1.0,  in the equal intervals of 0.2 and Y axis as true positive rate ranges from 0.0 to 1.0, in the equal intervals of 0.2. The graph shows a hypothetical curve with AUC =0.87."/>
 
 
 
@@ -342,7 +341,7 @@ plot_confusion_matrix(predictions, normalize=False)
 plt.show()
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm3.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm3.png"   class="img" alt="A confusion matrix graph shows a scale ranging from 2500 to 17500. The matrix graphs shows four coordinates.  From the top left, in a clock-wise direction the coordinates are as follows: Success (True lable), success (predicted lable); default (true lable), default (predicted lable); Default (true lable), Default 9predicted label); Defaut 9true lable), success (predicted level).  The above four halves valued as 19133, 794, 1582, and 1097."/>
 
 
 

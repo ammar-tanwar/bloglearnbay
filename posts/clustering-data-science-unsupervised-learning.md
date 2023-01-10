@@ -20,7 +20,7 @@ tableData:
 
 Clustering & Types Of Clustering is the process of finding similar groups in data, called a cluster. It groups data instances that are similar to each other in one cluster and data instances that are very different(far away) from each other into different clusters. A cluster is, therefore, a collection of objects which are “similar” between them and are “dissimilar” to the objects belonging to other clusters.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering.jpeg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering.jpeg"   class="img" alt="A scattered plots shows data clustering by using three best fit lines to partition data into red, green, and blue dots as data groupings."/>
 
 
 The method of identifying similar groups of data in a dataset is called clustering. It is one of the most popular techniques in data science. Entities in each group and is comparatively more similar to entities of that group than those of the other groups. In this article, I will be taking you through the types of clustering, different clustering algorithms and a comparison between two of the most commonly used clustering methods.

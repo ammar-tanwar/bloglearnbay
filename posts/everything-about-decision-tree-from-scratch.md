@@ -10,7 +10,7 @@ category: "Machine Learning"
 position: "Editor"
 readTime: "8-10 mins"
 h1: "Everything About Decision Tree From Scratch"
-id: "decision-tree"
+id: "everything-about-decision-tree-from-scratch"
 tableData:
   [
  Decision tree,
@@ -53,7 +53,7 @@ Decision tree:
 3. The decision made can be easily explained.
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt.png"   class="img" alt="A graphical representation of a decision tree for play tennis depending on possible solutions and weather conditions."/>
 
 
 There are the following steps to get a decision with the decision tree
@@ -64,7 +64,8 @@ There are the following steps to get a decision with the decision tree
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt1.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt1.png"   class="img" alt="An Energy versus lowercase P graph shows the parabolic curve of the entropy formula, that reads  Entropy equals negative lowercase p log lowercase p base 2  minus lowercase q log lowercase q base 2.  Each of the Energy and p axes ranges from 0 to 1 in the equal intervals of 0.1. 
+The formua below the graph reads, Entropy equals negative 0.5 log 0.5 base 2 minus 0.5 log 0.5 base 2 equals 1. "/>
 
 
 2.Information Gain:
@@ -189,7 +190,7 @@ Other gains
 Conclusion – Outlook is winner & thus becomes root of the tree
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt2.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt2.png"   class="img" alt="A tree diagram of outlook which overcast various weather conditions like Sunny, Overcast, and Rain."/>
 
 
 
@@ -240,7 +241,7 @@ Conclusion : Humidity is the best choice on sunny branch:
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt3.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt3.png"   class="img" alt="A tree diagram of outlook which overcast various weather conditions like Sunny, Overcast, and Rain. Here the left part outlook tree shows the sunny weather with humidity that is further divided into high/normal and yes/ No."/>
 
 
 
@@ -330,7 +331,7 @@ Final tree:
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt4.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dt4.png"   class="img" alt="A tree diagram of outlook which overcast various weather conditions like Sunny, Overcast, and Rain. Here the left part outlook tree shows the sunny weather with humidity further divided into high/normal and yes/ No. And the right part of the outlook tree shows rainy weather with the wind, further divided into strong/ weak and yes/No."/>
 
 
 

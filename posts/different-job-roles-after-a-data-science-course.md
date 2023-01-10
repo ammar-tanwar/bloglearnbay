@@ -1,6 +1,6 @@
 ---
 title: Different Job Roles After A Data Science Course
-desc: "Data science has existed since the 1990s. However, its significance was only realised when firms were unable to make decisions based on massive amounts of data. Most firms out there collect and analyze a large amount of particular data in their everyday operations in this age of technology and today we will discuss different job roles after the data science course..."
+desc: "The amount of data that needs to be processed by humans has essentially been decreased and reduced by the use of data science. In today's technological environment, data scientists play a variety of functions that are fundamentally distinct from one another. If you're interested in a career in data science, check out our course to get started with different job roles in the data science industry."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/roles1.jpg"
 date: "Apr 7, 2022"
