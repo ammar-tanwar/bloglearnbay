@@ -1,6 +1,6 @@
 ---
 title: Gradient Descent for Machine Learning
-desc: "It is an optimization algorithm to find the values of parameters(coefficient) of a function(f) that minimizes the cost function. It is used when parameters can not be calculated by Linear algebra..."
+desc: "Gradient descent in machine learning can be essentially used as one of the most powerful techniques for algorithm optimization. In this blog post, you will get an overview of how Gradient descent works and what are its efficiency while implementing a machine learning algorithm."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog1.webp"
 date: "Mar 6, 2022"

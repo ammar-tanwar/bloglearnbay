@@ -195,7 +195,7 @@ In the linear classifier model, we assumed that training examples plotted in spa
 In the real world, our dataset is generally dispersed up to some extent. To solve this problem separation of data into different classes based on a straight linear hyperplane can’t be considered a good choice. For this Vapnik suggested creating Non-Linear Classifiers by applying the kernel trick to maximum-margin hyperplanes. In Non-Linear SVM Classification, data points plotted in a higher-dimensional space.
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vector1.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vector1.png"   class="img" alt="An image shows two scattered plots; the first one shows a linear separable, and the second graph shows a non-linear separable. In the first graph, the blue and green dots are separated by a straight line with positive slop, and in the second graph, the blue and green dots are separated by a circle."/>
 
 
 [Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM.

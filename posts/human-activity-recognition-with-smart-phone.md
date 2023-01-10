@@ -30,7 +30,7 @@ tableData:
 
 In this case study, we design a model by which a smartphone can detect its owner’s activity precisely. Human activity recognition with a smartphone is a very famous ML project. It is a wellness approach for a human.  Human activity is a very exciting project for AI.
 
-Most of the smartphones have two smart sensors accelerometer and gyroscope, which is an IoT sensor. With the help of the[ IoT](https://en.wikipedia.org/wiki/Internet_of_things) devices captures the activity of a human. The data of human activity collected through the IoT sensor. The two smartphone sensors are accelerometer and gyroscope. Accelerometer collects the data of mobile movement such as move landscape and portrait when playing mobile games and gyroscope measure the rotational movement.
+Most of the smartphones have two smart sensors accelerometer and gyroscope, which is an IoT sensor. With the help of the <a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank">IoT</a> devices captures the activity of a human. The data of human activity collected through the IoT sensor. The two smartphone sensors are accelerometer and gyroscope. Accelerometer collects the data of mobile movement such as move landscape and portrait when playing mobile games and gyroscope measure the rotational movement.
 
 An example that a smartphone has an android app that reads the accelerometers and gyroscope which can predict the human activity that he/she walking normally, walking upstairs, walking downstairs, laying down, sitting all these are the human activities.  Some of the accelerometer and gyroscope measures heart rate, calories burned, etc. by reading all the human activities these tells how much work have done in a day by the human this is also the area of the internet of things(IoT).
 
@@ -195,7 +195,7 @@ plt.show()
 
  
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human1.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human1.png"   class="img" alt="Two scattered plots show the use multi-layer perceptron with supervised neural network."/>
 
 
 fig = plt.figure(figsize=(32,24))
@@ -212,12 +212,12 @@ plt.show()
 
  
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human2.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human2.png"   class="img" alt="Two scattered plots show the use multi-layer perceptron with supervised neural network."/>
 
 
 
 Click here to watch the video:
 
-[Learnbay](https://www.learnbay.co/data-science-course-training-in-bangalore) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+<a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">Learnbay</a> provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.
