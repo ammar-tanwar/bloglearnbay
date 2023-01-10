@@ -107,6 +107,18 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/data-preprocessing',
+        destination: '/data-science-is-important-why-we-need-it',
+        permanent: true,
+      },
+
+      {
+        source: '/decision-tree',
+        destination: '/data-science-is-important-why-we-need-it',
+        permanent: true,
+      },
+
     ]
   },
 }

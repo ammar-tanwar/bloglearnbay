@@ -27,7 +27,7 @@ tableData:
 
 Data science is an umbrella term which covers many areas of technology from Programming tools, statistics,Mathematics, Machine Learning, and computer science. Hence, learning data science needs certain plans and decisions to start a career as a data analyst/scientist. Before deciding on training institute, one should consider certain important aspects like real time projects, instructor , reviews , training mode ,placement and job assistance etc.College Freshers and working professionals have different requirements.So, based on your years of experience you should select the right course.
 
-We at Learnbay provides data science training in Bangalore with real time project, Industry certificates and job assistance.We have launched our data science classroom subscription [data science training in Bangalore](https://www.learnbay.co/data-science-course-training-in-bangalore) especially designed for working professionals so that you can learn data science modules at your own pace in live classroom.
+We at Learnbay provides data science training in Bangalore with real time project, Industry certificates and job assistance.We have launched our data science classroom subscription <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">data science training in Bangalore</a> especially designed for working professionals so that you can learn data science modules at your own pace in live classroom.
 
 **How Flexi Classroom Subscription Helps?**
 

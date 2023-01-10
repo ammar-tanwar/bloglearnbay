@@ -47,7 +47,6 @@ Linear Regression Selection Criteria:
 When will we use Linear Regression?
 
 
-
 * Evaluating trends & sales estimates.
 * Analyzing the impact of price changes.
 * Assessment of risk in financial services and insurance domain.
@@ -56,7 +55,7 @@ When will we use Linear Regression?
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reg1.png"   class="img" alt="A scattered plot with an x-axis ranging from 2016, 2017, 2018, and 2019 and a y-axis ranging from $100, $200, $300, $400, and $500, with some. The data points  suggests the growth of stock prices."/>
 
 
-for example, a group of creative Tech enthusiasts started a company in[ Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley). This start-up — called Banana — is so innovative that it has been growing constantly since 2016. You, the wealthy investor, would like to know whether to put your money on Banana’s success in the next year or not. Let’s assume that you don’t want to risk a lot of money, especially since the stakes are high in Silicon Valley. So you decide to buy a few shares, instead of investing in a big portion of the company.
+for example, a group of creative Tech enthusiasts started a company in <a href="https://en.wikipedia.org/wiki/Silicon_Valley" target="_blank" rel="nofollow">Silicon Valley</a>. This start-up — called Banana — is so innovative that it has been growing constantly since 2016. You, the wealthy investor, would like to know whether to put your money on Banana’s success in the next year or not. Let’s assume that you don’t want to risk a lot of money, especially since the stakes are high in Silicon Valley. So you decide to buy a few shares, instead of investing in a big portion of the company.
 
 Well, you can definitely see the trend. Banana is growing like crazy, kicking up their stock price from 100 dollars to 500 in just three years. You only care about how the price is going to be like in the year 2021 because you want to give your investment some time to blossom along with the company. Optimistically speaking, it looks like you will be growing your money in the upcoming years. The trend is likely not to go through a sudden, drastic change. This leads to you hypothesizing that the stock price will fall somewhere above the $500 indicator.
 
@@ -112,7 +111,7 @@ Output:
 
 >>> print(x)
 
-[[ 5]
+[[5]
 
  [15]
 
@@ -150,7 +149,7 @@ predicted response:
 
 [ 8.33333333 13.73333333 19.13333333 24.53333333 29.93333333 35.33333333]
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+<a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.
 

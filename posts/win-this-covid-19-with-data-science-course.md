@@ -17,7 +17,7 @@ tableData:
   Job opportunities?,
   How will Data Science help you?,
   How to study Data Science?,
-  CONCLUSION,
+  Conclusion,
   ]
 ---
 ## Win the COVID-19
@@ -44,14 +44,14 @@ I have said enough about the present popularity of Data science, let me tell the
 
 So as each day rolls by, the number of internet users keep increasing resulting in proportional increase in everyday data. So Data scientists will have more than enough amount of data everyday to work with, their business will only keeps increasing.
 
-Due to the “_corona effect_” many industries have already faced loss, many more companies yet to face in near future but the statistics have reported that only the[ IT field will have opportunity to quickly recover from the pandemic effect](https://www.deccanherald.com/business/business-news/how-the-indian-it-industry-can-survive-the-covid-19-crisis-821877.html). It is evident because the fuel for IT is the virtual data, which keeps on increasing at any day, so the field has least chances to face downfall.
+Due to the “_corona effect_” many industries have already faced loss, many more companies yet to face in near future but the statistics have reported that only the <a href="https://www.deccanherald.com/business/business-news/how-the-indian-it-industry-can-survive-the-covid-19-crisis-821877.html" target="_blank" rel="nofollow">IT field will have opportunity to quickly recover from the pandemic effect</a>. It is evident because the fuel for IT is the virtual data, which keeps on increasing at any day, so the field has least chances to face downfall.
 
 
 ## How to study Data Science?
 
-One of the best way to study Data Science(especially now) is through a good Data Science course. But firstly I want you to be aware of the fact that not every Data Science course will help you to get ready for the most desired field of the decade, so it is important to choose the course that indeed makes you a Data Scientist.[ Learnbay](https://www.learnbay.co/data-science-course/)<span style="text-decoration:underline;"> </span>is a Bangalore based Data Science course providing institute, that has been helping students to realize their dream of becoming Data Scientist in a very less price. Students will be certified by IBM and will be benefited by other more helpful features, do check that out. There are so many Data Science courses in the market but unfortunately only some are managing to make their students as a real Data Scientist, so it is necessary to choose the right course.
+One of the best way to study Data Science(especially now) is through a good Data Science course. But firstly I want you to be aware of the fact that not every Data Science course will help you to get ready for the most desired field of the decade, so it is important to choose the course that indeed makes you a Data Scientist. <a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> <span style="text-decoration:underline;"> </span>is a Bangalore based Data Science course providing institute, that has been helping students to realize their dream of becoming Data Scientist in a very less price. Students will be certified by IBM and will be benefited by other more helpful features, do check that out. There are so many Data Science courses in the market but unfortunately only some are managing to make their students as a real Data Scientist, so it is necessary to choose the right course.
 
 
-## CONCLUSION
+## Conclusion
 
 Even though Corona has created discomfort environment, it has atleast given the opportunity to rebuild our lifestyle, this is the best opportunity to prepare for accomplishing great things. Include Data Science in the list of your practices, it will worth every ounce of your efforts.

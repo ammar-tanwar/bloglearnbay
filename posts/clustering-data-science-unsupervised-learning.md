@@ -59,7 +59,7 @@ k-means clustering is a method of vector quantization, originally from signal pr
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering1.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering1.jpg"   class="img" alt="Four graphs show an example of the K means clustering technique, with the two data sets (red and yellow dots) separated by a linear line."/>
 
 K means is an iterative clustering algorithm that aims to find local maxima in each iteration. This algorithm works in these 5 steps :
 
@@ -124,7 +124,7 @@ The results of hierarchical clustering can be shown using the[ dendrogram](https
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering2.jpeg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering2.jpeg"   class="img" alt="A graph shows hierarchical clustering using the dendrogram algorithm, where the Y-axis ranges from 0 to 5."/>
 
 
 
@@ -188,7 +188,7 @@ plt.show()
  ```
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering3.png"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering3.png"   class="img" alt="A scatter plot graph with an X-axis ranging from 10 to 80 on equal intervals of 10 and a Y-axis ranging from 0 to 80 on equal intervals of 20 uses the dendrogram for the hierarchal clustering of data sets."/>
 
 
 
@@ -214,7 +214,7 @@ show_leaf_counts=True)
 
 plt.show()
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering4.png" class="img" class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/clustering4.png" class="img" class="img" alt="A graph ranges form 9 to 5 on the x-axis and 0 to 40 on the y-axis and shows a hierarchal clustering using the dendrogram algorithm."/>
 
 <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">Learnbay</a> provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 

@@ -29,7 +29,7 @@ Final lines,
   ]
 ---
 
-Deep learning and[ natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) (NLP and Deep Learning)are as busy as they’ve always been. The most in-demand technologies are deep learning and natural language processing (NLP). Advances in natural language processing and deep learning (NLP and Deep Learning) are produced nearly every day. Despite the fact that quarantine regulations in many nations have hampered numerous businesses, the[ Machine Learning](https://datascience-learnbay.medium.com/things-you-need-to-do-before-taking-machine-learning-or-data-science-coursehere-are-a-few-things-c302b1fce32a?source=user_profile---------8-------------------------------) industry continues to advance.
+Deep learning and <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">natural language processing</a> (NLP and Deep Learning)are as busy as they’ve always been. The most in-demand technologies are deep learning and natural language processing (NLP). Advances in natural language processing and deep learning (NLP and Deep Learning) are produced nearly every day. Despite the fact that quarantine regulations in many nations have hampered numerous businesses, the <a href="https://datascience-learnbay.medium.com/things-you-need-to-do-before-taking-machine-learning-or-data-science-coursehere-are-a-few-things-c302b1fce32a?source=user_profile---------8-------------------------------" target="__blank" rel="nofollow">Machine Learning</a> industry continues to advance.
 
 Aside from the fact that the Covid-19 has caused problems for a number of organizations, new-age tech skills such as Machine Learning (ML), Artificial Intelligence (AI), and Natural Language Processing (NLP and Deep Learning) is in high demand. For budding Data Scientists, here are some must-read publications. In this article, we at Learnbay try to go over some of the most crucial and current breakthroughs.
 
@@ -66,8 +66,8 @@ This official blog discusses how the corporation moved away from open source in 
 
 
 
-* [Artificial intelligence](https://datascience-learnbay.medium.com/data-scientist-vs-artificial-intelligence-engineer-which-is-a-better-career-choice-2aa261fb3707?source=user_profile---------18-------------------------------) advancements have substantially enhanced facial recognition software during the last decade.
-* This was a significant step forward for the organisation, as well as a strong message to the[ data science](https://www.learnbay.co/data-science-course/data-science-course-in-bangalore/) community at large.
+* <a href="https://datascience-learnbay.medium.com/data-scientist-vs-artificial-intelligence-engineer-which-is-a-better-career-choice-2aa261fb3707?source=user_profile---------18-------------------------------" target="_blank" rel="nofollow">Artificial intelligence</a> advancements have substantially enhanced facial recognition software during the last decade.
+* This was a significant step forward for the organisation, as well as a strong message to the <a href="https://www.learnbay.co/data-science-course/data-science-course-in-bangalore/" target="_blank" rel="nofollow">data science</a> community at large.
 * Face recognition technology will no longer be developed or researched by IBM, according to the company.
 * IBM’s decision to prioritise ethics and safety may have influenced other large IT firms (including Microsoft) to follow suit.
 * They feel that now is the right time to start a national conversation about whether and how domestic law enforcement organisations should use facial recognition methodologies.
@@ -89,7 +89,7 @@ It offers a coherent perspective as well as a full presentation of the key conce
 
 # Language Models Are Unsupervised Multitask Learners
 
-Question answering, machine translation, reading comprehension, and summarization are all examples of natural language processing (NLP) problems that are often ideally tackled using supervised learning on task-specific[ data models](https://datascience-learnbay.medium.com/top-5-data-collection-methods-process-a9e4099a7f15?source=user_profile---------1-------------------------------) as well.
+Question answering, machine translation, reading comprehension, and summarization are all examples of natural language processing (NLP) problems that are often ideally tackled using supervised learning on task-specific <a href="https://datascience-learnbay.medium.com/top-5-data-collection-methods-process-a9e4099a7f15?source=user_profile---------1-------------------------------" target="_blank" rel="nofollow">data models</a> as well.
 
 
 
@@ -108,13 +108,12 @@ The researchers discussed natural language processing and how discriminatively t
 * The approach’s effectiveness was technically proved on a numeric of natural language processing criteria, as according to the specific researchers.
 * These target tasks do not have to be in the same domain as the unlabeled corpus in our configuration.
 
-They suggested a broad task-agnostic model that beat discriminatively trained models that use architectures specifically generated for each specific task in around 9 of the 12 tasks that studied, greatly outperforming the state-of-the-art. Their[ goal](https://datascience-learnbay.medium.com/what-is-the-future-of-data-science-f0313580bae1?source=user_profile---------3-------------------------------)<span style="text-decoration:underline;"> </span>is to learn a universal representation that can be used for a variety of tasks with minimum change.
+They suggested a broad task-agnostic model that beat discriminatively trained models that use architectures specifically generated for each specific task in around 9 of the 12 tasks that studied, greatly outperforming the state-of-the-art. Their <a href="https://datascience-learnbay.medium.com/what-is-the-future-of-data-science-f0313580bae1?source=user_profile---------3-------------------------------" target="_blank" rel="nofollow">goal</a><span style="text-decoration:underline;"> </span>is to learn a universal representation that can be used for a variety of tasks with minimum change.
 
 
 ## Deep Learning Generalization
 
 Many difficult research areas, like image recognition and natural language processing, have seen considerable success using deep learning.
-
 
 
 * Deep learning has had a substantial impact on the conceptual foundations of Machine Learning and artificial intelligence and has achieved significant practical success.

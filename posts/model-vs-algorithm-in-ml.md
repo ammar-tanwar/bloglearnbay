@@ -53,7 +53,7 @@ There are several characteristics of Machine Learning algorithms:
 
 
 
-1. [Machine Learning algorithms](https://en.wikipedia.org/wiki/Machine_learning) can be represented by the use of mathematics and pseudo code.
+1. <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="nofollow">Machine Learning algorithms</a> can be represented by the use of mathematics and pseudo code.
 2. The effectiveness of Machine Learning algorithms can be measured and represented.
 3. With any of the popular programming languages, Machine Learning algorithms can be implemented.
 
@@ -113,6 +113,6 @@ This article may help you yo understand about the algorithm and model (Model Vs 
 
 And a model is a computation or a formula that formed as an output of an algorithm that takes some input, so you can say that you are building a model using a given algorithm.
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited[ data science courses](https://www.learnbay.co/data-science-course/) in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
+<a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> provides industry accredited <a href="https://www.learnbay.co/data-science-course/" target="_blank">data science courses</a> in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

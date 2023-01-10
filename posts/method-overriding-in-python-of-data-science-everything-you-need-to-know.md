@@ -44,7 +44,7 @@ Method overriding allows a child class to modify functions defined by its ancest
 
 Its execution is determined by the data used to call the method, rather than the reference data provided by the parent class. When a method in a subclass has the same name, parameters or signature, and return type (or sub-type) as a method in its super-class, the subclass method is said to override the super-class method. When a parent class object is used to call a program’s implementation method, the parent class’s version of the method is called.
 
-If a method is invoked with an object from a parent class, the parent class’s version will be used. But if the method is invoked with an object from a subclass, the child class’s version will be used. If, on the other hand, a subclass object is used to invoke the method, the function will be executed according to the subclass’s features. Check out our <a href="https://datascience-learnbay.medium.com/complete-guide-on-data-science-bootcamp-bf9e21caf00b" target="_blank">data science courses at Learnbay</a> if you’re a newbie looking to learn more about the field. Which version of an overridden method is performed is determined by the type of the object being referenced to (not the type of the reference variable).
+If a method is invoked with an object from a parent class, the parent class’s version will be used. But if the method is invoked with an object from a subclass, the child class’s version will be used. If, on the other hand, a subclass object is used to invoke the method, the function will be executed according to the subclass’s features. Check out our <a href="https://datascience-learnbay.medium.com/complete-guide-on-data-science-bootcamp-bf9e21caf00b" target="_blank" rel="nofollow">data science courses at Learnbay</a> if you’re a newbie looking to learn more about the field. Which version of an overridden method is performed is determined by the type of the object being referenced to (not the type of the reference variable).
 
 
 ## Multiple And Multilevel Inheritances In Method Overriding
@@ -155,7 +155,7 @@ Inheritance is always required in method overriding, as it is between parent cla
 
 ## Conclusion
 
-One of the most important elements of the Python language is method overriding. Method overriding allows a child class to provide a customised implementation of a method that one of its parent classes already provides. The attribute is often used in <a href="https://datascience-learnbay.medium.com/why-one-should-take-up-the-data-science-course-a789ef6f3a17" target="_blank">data science</a> programming because it enables compact and efficient data processing.
+One of the most important elements of the Python language is method overriding. Method overriding allows a child class to provide a customised implementation of a method that one of its parent classes already provides. The attribute is often used in <a href="https://datascience-learnbay.medium.com/why-one-should-take-up-the-data-science-course-a789ef6f3a17" target="_blank" rel="nofollow">data science</a> programming because it enables compact and efficient data processing.
 
 A child class can provide a customised implementation of a method that is already supplied by one of its parent classes using the overriding method. Method overriding also facilitates code compilation and rechecking. If the method name is the same in the parent and child classes, the method will be overridden in the child class. Understanding the fundamental concepts of classes and inheritance is required to use this functionality.
 

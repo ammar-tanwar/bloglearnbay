@@ -13,12 +13,12 @@ h1: "Know The Best Strategy To Find The Right Data Science Job in Delhi?"
 id: "know-the-best-strategy-to-find-the-right-data-science-job-in-delhi"
 tableData:
   [
-   Know The Best Strategy To Find The Right Data Science Job in Delhi?,
-   Is data science a good career in India?,
-What is the data science salary in India?,
-Is data science in demand in Delhi?,
-Which companies keep hiring a data scientist around the year in Delhi?,
-To find the right data science job in Delhi?,
+    Know The Best Strategy To Find The Right Data Science Job in Delhi?,
+    Is data science a good career in India?,
+    What is the data science salary in India?,
+    Is data science in demand in Delhi?,
+    Which companies keep hiring a data scientist around the year in Delhi?,
+    To find the right data science job in Delhi?,
   ]
 ---
 
@@ -29,12 +29,12 @@ Data science careers are buzzing everywhere, and so the data science courses. It
 
 We always keep our concerned eyes on the 1st world countries job market and keep regretting the lack of opportunities in our own country. In some cases, this becomes a very hard truth that our country lacks job opportunities and growth, but if it comes to data science, then India is also proudly participating in the data science advancement race.
 
-According to[ the Analytics Insight](https://www.analyticsinsight.net/analytics-insight-predicts-137630-new-jobs-in-data-science-in-india-by-2025/) survey, by the mid of 2025, India will experience a huge data science job boom. It’s expected that the number of data science and associated job vacancies at that time in India will be around 1,37,630. The Indian job market has already experienced massive demand for a data scientist in the first phase of 2021. Even after the pandemic effect, 50,000 data science, AI, and ML job vacancies have been filled from 2020 Jan to May 2021. So, there is no confusion that the data science discipline is holding a promising option as a future proof career in India.
+According to <a href="https://www.analyticsinsight.net/analytics-insight-predicts-137630-new-jobs-in-data-science-in-india-by-2025/" target="_blank" rel="nofollow">the Analytics Insight</a> survey, by the mid of 2025, India will experience a huge data science job boom. It’s expected that the number of data science and associated job vacancies at that time in India will be around 1,37,630. The Indian job market has already experienced massive demand for a data scientist in the first phase of 2021. Even after the pandemic effect, 50,000 data science, AI, and ML job vacancies have been filled from 2020 Jan to May 2021. So, there is no confusion that the data science discipline is holding a promising option as a future proof career in India.
 
 
 ## What is the data science salary in India?
 
-According to the data available in[ Glassdoor](https://www.glassdoor.co.in/Salaries/data-scientist-salary-SRCH_KO0,14.htm) (as of Jun 15, 2021), the average data scientist salary in India have already reached the figure of 10,00,000 INR/ year with a lower limit of 4,00,000 INR/ year (freshers) and a higher limit of 20,98,000 INR/ year (for senior-level). In the case of the other subdomains of data science, such as Machine Learning engineers, AI experts, deep learning experts, India’s companies offer more lucrative packages.
+According to the data available in <a href="https://www.glassdoor.co.in/Salaries/data-scientist-salary-SRCH_KO0,14.htm" target="" rel="nofollow">Glassdoor</a> (as of Jun 15, 2021), the average data scientist salary in India have already reached the figure of 10,00,000 INR/ year with a lower limit of 4,00,000 INR/ year (freshers) and a higher limit of 20,98,000 INR/ year (for senior-level). In the case of the other subdomains of data science, such as Machine Learning engineers, AI experts, deep learning experts, India’s companies offer more lucrative packages.
 
 And not only the MNCs but SMEs are also stepping forward to invest in sky-high salary packages for data science professionals.
 
@@ -43,9 +43,9 @@ And not only the MNCs but SMEs are also stepping forward to invest in sky-high s
 
 Now let’s enter into our core topic. What is the position of data science skill demand in Delhi?
 
-According to the[ Linkedin job search](https://www.linkedin.com/jobs/search/?geoId=106187582&keywords=data%20sicence&location=Delhi%2C%20India), including all sub-domain like ML, AI, data analytics, etc., around 2000, data science jobs are now available in Delhi. At the same time,[ Naukri](https://www.naukri.com/data-analytics-jobs-in-delhi-ncr)<span style="text-decoration:underline;"> </span>has listed an additional 4800 data science job approx.
+According to the <a href="https://www.linkedin.com/jobs/search/?geoId=106187582&keywords=data%20sicence&location=Delhi%2C%20India" target="" rel="nofollow">Linkedin job search</a>, including all sub-domain like ML, AI, data analytics, etc., around 2000, data science jobs are now available in Delhi. At the same time,[ Naukri](https://www.naukri.com/data-analytics-jobs-in-delhi-ncr)<span style="text-decoration:underline;"> </span>has listed an additional 4800 data science job approx.
 
-If you search for the salary insight of data science in Delhi, then you will land on a result that indicates the average yearly salary of 10,10,000 INR. While for senior roles, the figure easily reaches 16,31,000 INR. (Source:[ Glassdoor Salary insight](https://www.glassdoor.co.in/Salaries/new-delhi-data-scientist-salary-SRCH_IL.0,9_IM1083_KO10,24.htm)).
+If you search for the salary insight of data science in Delhi, then you will land on a result that indicates the average yearly salary of 10,10,000 INR. While for senior roles, the figure easily reaches 16,31,000 INR. (Source:<a href="https://www.glassdoor.co.in/Salaries/new-delhi-data-scientist-salary-SRCH_IL.0,9_IM1083_KO10,24.htm" target="_blank" rel="nofollow">Glassdoor Salary insight</a>).
 
 
 ## Which companies keep hiring a data scientist around the year in Delhi?
