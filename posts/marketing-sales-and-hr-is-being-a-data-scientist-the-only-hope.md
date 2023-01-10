@@ -37,7 +37,7 @@ Obviously no.
 
 There’s no need to be concerned as the saying goes, there’s always a solution for every problem. 
 
-Starting your career in[ Data Science and AI](https://www.learnbay.co/data-science-certification-courses/)<span style="text-decoration:underline;"> </span>might be your one-stop solution to begin your career for breaking into the marketing and sales industry. 
+Starting your career in <a href="https://www.learnbay.co/data-science-certification-courses/" target="_blank">Data Science and AI</a><span style="text-decoration:underline;"> </span>might be your one-stop solution to begin your career for breaking into the marketing and sales industry. 
 
 Data science is the newest craze, and it’s swept the marketing world as well.
 
@@ -45,7 +45,7 @@ This blog will help you in taking the necessary steps toward launching a career 
 
 First, let’s have a look at a few cases. _One prime example is how Coca-Cola lost its market to Pepsi._ It was one of the biggest sales disasters of all time. Coke even tried changing its formula but still couldn’t up to its game. This shows the tough and competitive nature of the industry that can cause people to change their opinion about the industry on the whole and not good opinions at that. 
 
-But if you think that the competition was only between two separate companies, I suppose you might be wrong. Competition can exist within the same company as well. _For example, Ford came out with[ Ford EDSEL](https://quasa.io/media/6-well-known-marketing-disasters-in-history-lessons-to-learn205657), a new car performing great in the market_. So what was the problem? _It came during the economic recession. _The new car was much more expensive than ford’s previous models in the mercury line without offering anything new or revolutionary; therefore, it started to die down. 
+But if you think that the competition was only between two separate companies, I suppose you might be wrong. Competition can exist within the same company as well. _For example, Ford came out with <a href="https://quasa.io/media/6-well-known-marketing-disasters-in-history-lessons-to-learn205657" target="_blank" rel="nofollow">Ford EDSEL</a>, a new car performing great in the market_. So what was the problem? _It came during the economic recession. _The new car was much more expensive than ford’s previous models in the mercury line without offering anything new or revolutionary; therefore, it started to die down. 
 
 
 
@@ -53,7 +53,7 @@ But if you think that the competition was only between two separate companies, I
 
 Especially after the pandemic, faulty marketing strategies caused a lot of small businesses and even bigger chains to close down because they did no good to their business. This resulted in the unemployment of many people, and some left their jobs without having a fallback plan. So what is the solution to survive in this industry? _Data Science! Applying DS techniques to sales and marketing can be a game-changer. _
 
-Becoming a data scientist is never a bad idea. It is very in the now and is considered to be the sexiest job of the 21st century by the[ Harvard Business School](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century). DS is a very lucrative subject no matter in which domain you apply it to.[ Data Science Courses](https://www.learnbay.co/data-science-course/data-science-ai-for-managers/) fare well in the market owing to their importance in the coming times where every single thing will be driven by data.
+Becoming a data scientist is never a bad idea. It is very in the now and is considered to be the sexiest job of the 21st century by the <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century" target="_blank" rel="nofollow">Harvard Business School</a>. DS is a very lucrative subject no matter in which domain you apply it to. <a href="https://www.learnbay.co/data-science-course/data-science-ai-for-managers/" target="_blank" rel="nofollow">Data Science Courses</a> fare well in the market owing to their importance in the coming times where every single thing will be driven by data.
 
 _Still not convinced? Let’s see why DS is necessary for the sales and marketing sector._
 
@@ -62,7 +62,7 @@ _Still not convinced? Let’s see why DS is necessary for the sales and marketin
 
 Data science is the key to transforming multi-source data into actionable insights that improve the fundamental content. By gaining more data-backed insight, companies can transform their business strategies to maximize their market value.
 
-[McKinsey](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/by-the-numbers-what-drives-sales-growth-outperformance) reports that 72 percent of fastest-growing B2Bs say their analytics help them plan sales, compared to half of those who are slowest growing. Their analytics are highly effective, they claim. Data science can be used in many aspects so that repetition is not a problem in the sales sector.
+<a href="https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/by-the-numbers-what-drives-sales-growth-outperformance" target="_blank" rel="nofollow">McKinsey</a> reports that 72 percent of fastest-growing B2Bs say their analytics help them plan sales, compared to half of those who are slowest growing. Their analytics are highly effective, they claim. Data science can be used in many aspects so that repetition is not a problem in the sales sector.
 
 1. Analysis of customer sentiment
 
@@ -226,7 +226,7 @@ Bengaluru - INR 9,84,488/P.A" class="img"/>
 
 ## Where can Learnbay Help you?
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides some of the best Data Science courses in Bangalore. It especially provides[ Data science and AI courses for working professionals](https://blog.learnbay.co/data-science-for-working-professionals). It also provides you with various domain electives, sales, marketing, and HR being one of them. Let us see about this elective in a bit more detail.
+<a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> provides some of the best Data Science courses in Bangalore. It especially provides <a href="https://blog.learnbay.co/data-science-for-working-professionals" target="_blank">Data science and AI courses for working professionals</a>. It also provides you with various domain electives, sales, marketing, and HR being one of them. Let us see about this elective in a bit more detail.
 
 
 ### Learnbay’s teaching approach
@@ -249,8 +249,9 @@ Big-Bazar like companies employs this Machine Learning model in order to identif
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market7.png"   class="img"  />
-[Sales and Marketing Forecasting Dataset from Kaggle](https://www.kaggle.com/harrimansaragih dummy-advertising-and-sales-data)
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market7.png"   class="img"/>
+
+<a href="https://www.kaggle.com/harrimansaragih dummy-advertising-and-sales-data" target="_blank" rel="nofollow">Sales and Marketing Forecasting Dataset from Kaggle</a>
 
 
 
@@ -263,7 +264,7 @@ All businesses face challenges in hiring the right talent. The challenge is made
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market8.png"   class="img"  />
 
 
-[Resume Screening criterion Dataset from Kaggle](https://www.kaggle.com/gauravduttakiit/resume-screening-using-machine-learning)
+<a href="https://www.kaggle.com/gauravduttakiit/resume-screening-using-machine-learning" target="_blank" rel="nofollow">Resume Screening criterion Dataset from Kaggle</a>
 
 
 
@@ -275,9 +276,9 @@ Keyword generation can be defined as the task of automatically identifying a set
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market9.png"   class="img"  />
 
 
-[Kaggle dataset for keyword generation or extraction](https://www.kaggle.com/akhatova/extract-keywords)
+<a href="https://www.kaggle.com/akhatova/extract-keywords" target="_blank" rel="nofollow">Kaggle dataset for keyword generation or extraction</a>
 
-Conclusion:
+## Conclusion:-
 
 Throughout this blog, you have seen Data has become the cornerstone of all industries including HR, Sales, and Marketing. Data science techniques help sales leaders to manage their businesses efficiently, focus on viable plans, create leads, improve customer experience. This adoption of big data analytics is differentiating winners from the rest across sectors, resulting in an increase in the demand for skilled data professionals. Thus, You can undoubtedly build a rewarding career in this industry to secure a high-paying job. 
 
@@ -285,18 +286,21 @@ Hope you found this blog informative enough.
 
 To know more about Learnbay courses, Do check out our site. Make sure to follow our social for more amazing content:
 
-Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
+Twitter:<a href="https://twitter.com/Learnbay" target="_blank">https://twitter.com/Learnbay</a>
 
-Facebook:[ https://www.facebook.com/learnbay/](https://www.facebook.com/learnbay/)
+Facebook:<a href="https://www.facebook.com/learnbay/" target="_blank">https://www.facebook.com/learnbay</a>
 
-LinkedIn:[ https://www.linkedin.com/company/learnbay/](https://www.linkedin.com/company/learnbay/)
+LinkedIn:<a href="https://www.linkedin.com/company/learnbay/" target="_blank">https://www.linkedin.com/company/learnbay/</a>
 
 
 ## Bibliography
 
 
 
-* [https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201](https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201)
-* [https://www.kaggle.com/general/205647](https://www.kaggle.com/general/205647)
-* [https://silo.tips/download/controlling-project-churn-a-case-for-reality-based-project-management](https://silo.tips/download/controlling-project-churn-a-case-for-reality-based-project-management)
-* [https://www.mygreatlearning.com/blog/data-scientist-salary-in-india/](https://www.mygreatlearning.com/blog/data-scientist-salary-in-india/)
+* <a href="https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201" target="_blank" rel="nofollow">https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201</a>
+  
+* <a href="https://www.kaggle.com/general/205647" target="_blank" rel="nofollow">https://www.kaggle.com/general/205647</a>
+  
+* <a href="https://silo.tips/download/controlling-project-churn-a-case-for-reality-based-project-management" target="_blank" rel="nofollow">https://silo.tips/download/controlling-project-churn-a-case-for-reality-based-project-management</a>
+  
+* <a href="https://www.mygreatlearning.com/blog/data-scientist-salary-in-india/" target="_blank" rel="nofollow">https://www.mygreatlearning.com/blog/data-scientist-salary-in-india/</a>

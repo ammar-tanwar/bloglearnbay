@@ -47,7 +47,7 @@ This article talks about the challenges faced by the Media, Hospitality, and Tra
 
 ### Media     
 
-The media industry has been known to be one of the most lucrative industries. Due to the Pandemic surge, many movie productions were stopped therefore incurring a lot of loss for the whole crew. The struggling actors especially had a hard time, as discussed in this <a href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bigstory-with-pandemic-hitting-the-film-industry-hard-how-are-struggling-actors-and-debutantes-coping-up-with-the-sudden-break-in-their-yet-to-be-launched-careers/articleshow/82221597.cms" target="_blank">Times of India</a> issue. The competitive algorithm of social media platforms has hit the media industry quite hard.
+The media industry has been known to be one of the most lucrative industries. Due to the Pandemic surge, many movie productions were stopped therefore incurring a lot of loss for the whole crew. The struggling actors especially had a hard time, as discussed in this <a href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bigstory-with-pandemic-hitting-the-film-industry-hard-how-are-struggling-actors-and-debutantes-coping-up-with-the-sudden-break-in-their-yet-to-be-launched-careers/articleshow/82221597.cms" target="_blank" rel="nofollow">Times of India</a> issue. The competitive algorithm of social media platforms has hit the media industry quite hard.
 
 ### Hospitality  
 
@@ -60,7 +60,7 @@ Image created by Author
 ### Transportation   
 
 
-The Transportation Industry is not indifferent to losses. The pressure on the organization during this coronavirus pandemic is from the relocation of citizens to the core transport with the essential workforce to keep cargo and important workers on the move. The side effect of this shift is the sudden change in the revenue sources of transportation companies, many of which are experiencing unexpected financial constraints. Organizations must plan to ensure that the transport network is ready to return to normal. An article by <a href="https://www2.deloitte.com/us/en/pages/about-deloitte/articles/covid-19/covid-19-impact-on-transportation-sector.html" target="_blank">Deloitte</a> has outlined all the shortcomings of the transport industry.
+The Transportation Industry is not indifferent to losses. The pressure on the organization during this coronavirus pandemic is from the relocation of citizens to the core transport with the essential workforce to keep cargo and important workers on the move. The side effect of this shift is the sudden change in the revenue sources of transportation companies, many of which are experiencing unexpected financial constraints. Organizations must plan to ensure that the transport network is ready to return to normal. An article by <a href="https://www2.deloitte.com/us/en/pages/about-deloitte/articles/covid-19/covid-19-impact-on-transportation-sector.html" target="_blank" rel="nofollow">Deloitte</a> has outlined all the shortcomings of the transport industry.
 
 **So what can be done?** 
 
@@ -195,9 +195,6 @@ The average Data Scientist's salary in the hospitality industry is Rs 14.9 Lakhs
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Aspose.Words.acacd365-8ed5-41a8-bf23-68b36bf352f4.005.png" style="width:100%" class="img" alt="A table that represents the following sections: pickup cluster, request count, minutes, hour, day, and month.">
 
-Image by Author
-
-Source: Glassdoor Salary Insights
 
 ### Transportation   
 
@@ -221,6 +218,6 @@ Twitter: <a href="https://twitter.com/Learnbay" target="_blank"> https://twitter
 
 
 ## Bibliography
-- <a href="https://www.kaggle.com/" target="_blank">https://www.kaggle.com/</a>
-- <a href="https://www.ambitionbox.com/profile/data-scientist-salary/transportation-industry?page=2#:~:text=Data%20Scientist%20salary%20in%20India%20ranges%20between%20%E2%82%B9%207.0%20Lakhs,salaries%20received%20from%20Data%20Scientists" target="_blank">https://www.ambitionbox.com/profile/data-scientist-salary/<a>
-- <a href="https://www.indeed.com/q-Film-Industry-Data-Science-jobs.html" target="_blank">https://www.indeed.com/q-Film-Industry-Data-Science-jobs.html</a>
+- <a href="https://www.kaggle.com/" target="_blank" rel="nofollow">https://www.kaggle.com/</a>
+- <a href="https://www.ambitionbox.com/profile/data-scientist-salary/transportation-industry?page=2#:~:text=Data%20Scientist%20salary%20in%20India%20ranges%20between%20%E2%82%B9%207.0%20Lakhs,salaries%20received%20from%20Data%20Scientists" target="_blank" rel="nofollow">https://www.ambitionbox.com/profile/data-scientist-salary/<a>
+- <a href="https://www.indeed.com/q-Film-Industry-Data-Science-jobs.html" target="_blank" rel="nofollow">https://www.indeed.com/q-Film-Industry-Data-Science-jobs.html</a>

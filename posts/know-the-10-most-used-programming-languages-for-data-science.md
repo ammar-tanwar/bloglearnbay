@@ -124,6 +124,6 @@ Koltin has a lot going for it, not the least of which is the fact that Google ad
 
 These are the **top 10 programming languages in data science 2022**. Hackathons and Webinars are a great way to test problem-solving skills. It is one of the easiest ways to learn any programming language for data scientists. It is mostly popular among developers, and it is a great way to learn a new programming language and improve their skills.
 
-We at <a href="https://www.learnbay.co/data-science-course/)" target="_blank">Learnbay</a> provide data science courses with special programming classes for beginners. We even conduct free hackathons and webinars.
+We at <a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> provide data science courses with special programming classes for beginners. We even conduct free hackathons and webinars.
 
 To get instant updates about data science and AI happenings around the world, you can follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.

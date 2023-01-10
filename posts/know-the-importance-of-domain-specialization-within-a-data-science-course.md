@@ -19,9 +19,6 @@ tableData:
 
 <span style=" font-weight:bold; font-size:28px"> Why Should You Pick a Domain Specialization in Data Science Study? </span>
 
-
-
-
 **Becoming a jack of all trades in data science is not the wisest strategy. Pursue a domain specialization if you want to make a secure data science career**
 
 Any knowledge is like a big ocean, you must swim across to stand on top. Every domain is essential in the market, and it is not easy to get domain knowledge. Domain knowledge makes you an expert in a particular domain.

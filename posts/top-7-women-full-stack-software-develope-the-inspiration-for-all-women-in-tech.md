@@ -35,7 +35,7 @@ In fact, we can say a full-stack developer's training is like a career booster f
 
 <br><br>
 
-### **1. Elizabeth Hendrickson** 
+### 1. Elizabeth Hendrickson
 <br>   
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-2.jpg" style="width:100%" class="img" alt="A portrait of Elizabeth Hendrickson."/>
@@ -48,7 +48,7 @@ She shares essential skills that one has to gain in order to be a master explore
 
 <br><br>
 
-### **2. Mala Gupta**   
+### 2. Mala Gupta   
 <br> 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-3.jpg" style="width:100%" class="img" alt="A portrait of Mala Gupta."/>
@@ -61,19 +61,19 @@ Mala Gupta is a speaker at JBCN (industry conference) in Spain, C# corner, Eclip
 
 Here is the list of publications by Mala Gupta that full-stack software developers books you would like to read :
 
-- <a href="https://www.amazon.com/gp/product/1617293253/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0" target="_blank">OCA Java S.E. 8 programmer/certification guide.</a>
+- <a href="https://www.amazon.com/gp/product/1617293253/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0" target="_blank" rel="nofollow">OCA Java S.E. 8 programmer/certification guide.</a>
 
-- <a href="https://www.amazon.com/gp/product/B07DT9Z5QK/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1" target="_blank">Java 11 and 12 - New features (amber project and latest language and platform development in Java.</a>
+- <a href="https://www.amazon.com/gp/product/B07DT9Z5QK/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1" target="_blank" rel="nofollow">Java 11 and 12 - New features (amber project and latest language and platform development in Java.</a>
 
-- <a href="https://www.amazon.com/gp/product/1617291048/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2" target="_blank">OCA Java S.E. 7 programmer/certification guide: prepare for the 1ZO-803 exam.</a>
+- <a href="https://www.amazon.com/gp/product/1617291048/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2" target="_blank" rel="nofollow">OCA Java S.E. 7 programmer/certification guide: prepare for the 1ZO-803 exam.</a>
 
-- <a href="https://www.amazon.com/gp/product/161729148X/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i3" target="_blank">OCP Java S.E. 7 programmer Ⅱ certification guide: Prepare for the 1ZO-804 exam.</a>
+- <a href="https://www.amazon.com/gp/product/161729148X/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i3" target="_blank" rel="nofollow">OCP Java S.E. 7 programmer Ⅱ certification guide: Prepare for the 1ZO-804 exam.</a>
 
-- <a href="https://www.amazon.com/gp/product/B010DPW7RA/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i4" target="_blank">OCA Java S.E. 7 certificate Guide.</a>
+- <a href="https://www.amazon.com/gp/product/B010DPW7RA/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i4" target="_blank" rel="nofollow">OCA Java S.E. 7 certificate Guide.</a>
 
 <br><br>
 
-### **3. Dani Roxberry** 
+### 3. Dani Roxberry 
 <br> 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-4.jpg" style="width:100%" class="img" alt="A portrait of Dani Roxberry."/>
@@ -92,7 +92,7 @@ Dani Roxberry is a battle-tested software architect with over 15 years of experi
 
 <br><br>
 
-### **4. Teresa Shih**
+### 4. Teresa Shih
 
 <br>
 
@@ -100,11 +100,11 @@ Dani Roxberry is a battle-tested software architect with over 15 years of experi
 
 Teresa Shih was often shy and afraid to ask or answer questions in class among the other boys in the class, as we all know that women are usually not renowned in the full-stack software developer role. She continued to be a full-stack software developer, however. She loves coding and problem-solving and likes to learn while working.
 H
-At present, she is the engineering product manager at <a href="https://hackernest.com/" target="_blank">HackerNest.</a> She is handling the Engineering product manager role at HackerNest. Even after being shy and getting neglected by others in the class, she is now leading HackerNest towards unbelievable software development-related success.
+At present, she is the engineering product manager at <a href="https://hackernest.com/" target="_blank" rel="nofollow">HackerNest.</a> She is handling the Engineering product manager role at HackerNest. Even after being shy and getting neglected by others in the class, she is now leading HackerNest towards unbelievable software development-related success.
 
 <br><br>
 
-### **5. Alicia Sykes**
+### 5. Alicia Sykes
 <br>
 
 
@@ -122,7 +122,7 @@ Alicia Sykes is an experienced full-stack web and native mobile developer who is
 
 <br><br>
 
-### **6. Judit Pacasi**
+### 6. Judit Pacasi
 <br>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-7.jpg" style="width:100%" class="img" alt="A portrait of Judit Pacasi."/>
@@ -137,7 +137,7 @@ classic arcade games, and a restaurant review app. Judit even holds multiple cer
 
 <br><br>
 
-### **7. Lyndsey Padget**   
+### 7. Lyndsey Padget
 <br>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-8.jpg" style="width:100%" class="img" alt="A portrait of Lyndsey Padget."/>
@@ -152,7 +152,7 @@ Lyndsey speaks at tech conferences and teaches soft skills like healthy terms, i
 
 <br><br>
 
-## **Conclusion** 
+## Conclusion
 <br> 
 
 You would have read a lot about the tech industry and even know the gender gap in the tech industry. We listed out The 7 women full-stack software developers so other young women do not think that they cannot succeed in the tech industry as full-stack software developers.

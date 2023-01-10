@@ -29,7 +29,7 @@ IBM was the first to invent the speech recognition machine in 1962. Back then, o
 
 With this timeline, in 2011, Apple's Siri was invented. Later on, in 2012, Google introduced voice assistance. After several years, Amazon introduced Alexa. All of these are voice control services that respond like a human. However, the most sold voice-controlled device is Alexa due to its budget-friendliness, which has been integrated with Amazon Echo (smart speakers) and shows (intelligent speakers with display).
 
-Amazon has been working with _**neural networks,** the most advanced state of conversational AI, to make Alexa sound like a human. Rohit Prasad, the senior vice president of Alexa at Amazon, said that adding <a href="https://www.amazon.science/blog/alexa-the-science-must-go-on" target="_blank">neural networks</a> helped AmazonAlexa grow in many ways.
+Amazon has been working with _**neural networks,** the most advanced state of conversational AI, to make Alexa sound like a human. Rohit Prasad, the senior vice president of Alexa at Amazon, said that adding <a href="https://www.amazon.science/blog/alexa-the-science-must-go-on" target="_blank" rel="nofollow">neural networks</a> helped AmazonAlexa grow in many ways.
 
 Before, Alexa's algorithm was used to break down language into word parts or vocal sounds and then tried to string them together as seamlessly as possible. But it sounded chippy and robotic. So, Amazon Alexa works on neural networks which generate the whole text (<a href="https://blog.learnbay.co/text-stemming-in-nlp" target="_blank">text stemming in NLP</a>) in real-time, which sounds more like a human.
 
