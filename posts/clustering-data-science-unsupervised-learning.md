@@ -120,7 +120,7 @@ plt.scatter(centroids[:, 0], centroids[:, 1], c='red', s=50) Hierarchical Cluste
 
 Hierarchical clustering, as the name suggests is an algorithm that builds the hierarchy of clusters. This algorithm starts with all the data points assigned to a cluster of their own. Then two nearest clusters are merged into the same cluster. In the end, this algorithm terminates when there is only a single cluster left.
 
-The results of hierarchical clustering can be shown using the[ dendrogram](https://www.nonlinear.com/support/progenesis/comet/faq/v2.0/dendrogram.aspx#:~:text=The%20dendrogram%20is%20a%20visual,referred%20to%20as%20a%20node.). The dendrogram can be interpreted as:
+The results of hierarchical clustering can be shown using the <a href="https://www.nonlinear.com/support/progenesis/comet/faq/v2.0/dendrogram.aspx#:~:text=The%20dendrogram%20is%20a%20visual,referred%20to%20as%20a%20node." target="_blank" rel="nofollow">dendrogram</a>. The dendrogram can be interpreted as:
 
 
 

@@ -46,7 +46,7 @@ But you will not believe <a href="https://blog.learnbay.co/what-is-data-science-
 
 ## So, how can women achieve a professional comeback after a career break without sacrificing their prior position and package?
 
-In 2020, <a href="https://www.burtchworks.com/wp-content/uploads/2020/08/Burtch-Works-Study_DS-PAP-2020.pdf" target="_blank">Burtch-works</a> studies showed that the number of women in data science roles is on a steady but slow rise. In 2018, 15% of data scientists were female. In 2019, the figure rose to 17% and then to 18%. The study also revealed that the highest percentage of women working in data science is at the entry-level and managerial levels. In fact, in India, a range of <a href="https://blog.learnbay.co/women-in-ai-top-10-indian-women-empowering-the-world-of-ai" target="_blank">women in AI</a> and data science are at the leadership level.
+In 2020, <a href="https://www.burtchworks.com/wp-content/uploads/2020/08/Burtch-Works-Study_DS-PAP-2020.pdf" target="_blank" rel="nofollow">Burtch-works</a> studies showed that the number of women in data science roles is on a steady but slow rise. In 2018, 15% of data scientists were female. In 2019, the figure rose to 17% and then to 18%. The study also revealed that the highest percentage of women working in data science is at the entry-level and managerial levels. In fact, in India, a range of <a href="https://blog.learnbay.co/women-in-ai-top-10-indian-women-empowering-the-world-of-ai" target="_blank">women in AI</a> and data science are at the leadership level.
 
 The education system has also been revolutionized and paved the way for online training of professional courses. Over the years, many organizations have started to offer online data science and AI training. But those were mainly self-paced. A few courses were available with proper instructor support, but those were offline.
 
@@ -58,7 +58,7 @@ Women can learn data science and AI in online courses during their career break 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w3.jpg" style="width:100%" class="img" alt="An image of a mother sitting with her newborn infant in front of a laptop, takes advantage of an online data science course."/>
 
-## **How will data science and artificial intelligence online courses help women get back to an adequate hike?**
+## How will data science and artificial intelligence online courses help women get back to an adequate hike?
 
 ### Just upgrade yourself -    
 
@@ -80,27 +80,27 @@ Artificial intelligence and <a href="https://www.learnbay.co/data-science-ai-for
 
 **The domain where you can make a stunning career in data science after a career break is:** 
 
-- <a href="https://drive.google.com/file/d/1fs6RdIVrJoKCgHbUpCsgouyiA9jbeWO5/view" target="_blank">Sales, Marketing, and HR</a>
+- <a href="https://drive.google.com/file/d/1fs6RdIVrJoKCgHbUpCsgouyiA9jbeWO5/view" target="_blank" rel="nofollow">Sales, Marketing, and HR</a>
 
-- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/Healthcare%2C+Pharma+and+Clinical+Research++Domain+Elective+.pdf" target="_blank">Healthcare</a>
+- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/Healthcare%2C+Pharma+and+Clinical+Research++Domain+Elective+.pdf" target="_blank" rel="nofollow">Healthcare</a>
 
-- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/BFSI++Domain+Elective+.pdf" target="_blank">BFSI</a>
+- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/BFSI++Domain+Elective+.pdf" target="_blank" rel="nofollow">BFSI</a>
 
-- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/manufacturing+mechanical+%26+telecom+Domain+Elective.pdf" target="_blank">Manufacturing, Automotive, and Telecom</a>
+- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/manufacturing+mechanical+%26+telecom+Domain+Elective.pdf" target="_blank" rel="nofollow">Manufacturing, Automotive, and Telecom</a>
 
-- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/retail+ecommerce+and+supply+chain++Domain+Elective.pdf" target="_blank">Retail, E-commerce, and Supply Chain</a>
+- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/retail+ecommerce+and+supply+chain++Domain+Elective.pdf" target="_blank" rel="nofollow">Retail, E-commerce, and Supply Chain</a>
 
-- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/Energy%2C+Oil+%26+Gas++Domain+Elective+.pdf" target="_blank">Oil, Gas, and Energy</a>
+- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/Energy%2C+Oil+%26+Gas++Domain+Elective+.pdf" target="_blank" rel="nofollow">Oil, Gas, and Energy</a>
 
-- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/media+hospitality+and+transportation++Domain+Elective+.pdf" target="_blank">Media, Hospitality, and Transportation</a>
+- <a href="https://brochureslearnbay.s3.ap-south-1.amazonaws.com/media+hospitality+and+transportation++Domain+Elective+.pdf" target="_blank" rel="nofollow">Media, Hospitality, and Transportation</a>
 
 Below are a few top organizations that have a specific site dedicated just to providing career restart opportunities for women.
 
-1. <a href="https://www.ibm.com/employment/techreentry/" target="_blank">IBM - Tech Re-entry Program</a>
-2. <a href="https://www.tatasecondcareer.com/#/" target="_blank ">Tata Group - Second Careers - Inspiring Responsibilities</a>
-3. <a href="https://www.accenture.com/in-en/careers/local/career-reboot" target="_blank ">Accenture - Career Reboot</a>
+1. <a href="https://www.ibm.com/employment/techreentry/" target="_blank" rel="nofollow">IBM - Tech Re-entry Program</a>
+2. <a href="https://www.tatasecondcareer.com/#/" target="_blank" rel="nofollow">Tata Group - Second Careers - Inspiring Responsibilities</a>
+3. <a href="https://www.accenture.com/in-en/careers/local/career-reboot" target="_blank" rel="nofollow">Accenture - Career Reboot</a>
 4. <a href="https://www.hul.co.in/careers/recruitment-disclaimer/" target="_blank ">Hindustan Unilever - Career By Choice</a>
-5. <a href="https://www.goldmansachs.com/worldwide/india/careers/india-returnship.html" target="_blank ">Goldman Sachs India Returnship Program</a>
+5. <a href="https://www.goldmansachs.com/worldwide/india/careers/india-returnship.html" target="_blank" rel="nofollow">Goldman Sachs India Returnship Program</a>
 
 
 Women returning after a career break needs to be addressed. We need more alternatives where we can help them or work towards women's empowerment, which we often forget. They always said that AI and data science would not be the future of technology, but today we can witness the power of AI and data science and how it has helped humans in many ways. A career in data science can be one of the best ways for women to start working again after a career break.

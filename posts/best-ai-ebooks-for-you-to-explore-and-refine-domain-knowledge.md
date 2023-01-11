@@ -145,7 +145,7 @@ The first few chapters offer marketing leaders about _ **what AI is and how diff
 **Price:** Approx. 1500 INR (Kindle)
 
 
-# <a href="https://www.amazon.com/dp/9811674973?tag=uuid10-20" target="_blank">8. AI and IoT For Smart City Applications</a>
+# <a href="https://www.amazon.com/dp/9811674973?tag=uuid10-20" target="_blank" rel="nofollow">8. AI and IoT For Smart City Applications</a>
 
 This book on AI talks about the research of the ecosystem for developing smart cities by AI and IoT. The technical research in this book has topics related to
 

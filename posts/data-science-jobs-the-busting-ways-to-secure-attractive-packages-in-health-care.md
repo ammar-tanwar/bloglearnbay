@@ -211,9 +211,9 @@ Now that we have reached the end of the blog, I hope you have been educated on t
 
 ## Bibliography   
 
-<a href="https://analyticsindiamag.com/what-does-it-take-to-become-a-healthcare-data-scientist/" target="_blank">https://analyticsindiamag.com/what-does-it-take-to-become-a-healthcare-data-scientist/</a> <br/>
+<a href="https://analyticsindiamag.com/what-does-it-take-to-become-a-healthcare-data-scientist/" target="_blank" rel="nofollow">https://analyticsindiamag.com/what-does-it-take-to-become-a-healthcare-data-scientist/</a> <br/>
 
-<a href="https://www.springboard.com/library/data-science/healthcare-industry-jobs/" target="_blank">https://www.springboard.com/library/data-science/healthcare-industry-jobs/</a> <br/>
+<a href="https://www.springboard.com/library/data-science/healthcare-industry-jobs/" target="_blank" rel="nofollow">https://www.springboard.com/library/data-science/healthcare-industry-jobs/</a> <br/>
 
-<a href="https://www.hsph.harvard.edu/health-data-science/" target="_blank">https://www.hsph.harvard.edu/health-data-science/
+<a href="https://www.hsph.harvard.edu/health-data-science/" target="_blank" rel="nofollow">https://www.hsph.harvard.edu/health-data-science/
 </a>

@@ -22,7 +22,7 @@ tableData:
 
 ## Data Preprocessing
 
-Introduction to Data Preprocessing:- Before modeling the data we need to clean the information to get a training sample for the modeling. Data preprocessing is a <a href="https://www.ibm.com/cloud/learn/data-mining" target="_blank">data mining</a>
+Introduction to Data Preprocessing:- Before modeling the data we need to clean the information to get a training sample for the modeling. Data preprocessing is a <a href="https://www.ibm.com/cloud/learn/data-mining" target="_blank" rel="nofollow">data mining</a>
  technique that involves transforming the raw data into an understandable format. It provides the technique for cleaning the data from the real world which is often incomplete, inconsistent, lacking accuracy and more likely to contain many errors. Preprocessing provides clean information before it gets to the modeling phase.
 
 

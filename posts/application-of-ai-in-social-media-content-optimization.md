@@ -34,7 +34,7 @@ Today applications of <a href="https://blog.learnbay.co/what-is-data-science-unc
 
 AI has the potential to transform every function in the industry and has scaled these industries to grow immensely in the social media sphere too.As a result, AI and social media are becoming strongly intertwined.
 
-According to <a href="https://backlinko.com/instagram-users" target="_blank">Backlinko</a>, the number of monthly users on Instagram will reach the 1.37 billion mark in 2022. The user activity created an abundance of data. AI-powered analytics is the most reliable tool for scrutinizing all the data generated on this platform.
+According to <a href="https://backlinko.com/instagram-users" target="_blank" rel="nofollow">Backlinko</a>, the number of monthly users on Instagram will reach the 1.37 billion mark in 2022. The user activity created an abundance of data. AI-powered analytics is the most reliable tool for scrutinizing all the data generated on this platform.
 
 Instagram, today's most popular social networking app for sharing photos and videos, was launched in 2010. Users interact with each post by showing care and affection with a heart button instead of a like, comments, and hashtag. These activities generate enormous amounts of data.
 
@@ -94,7 +94,7 @@ The Instagram algorithm is intended to rank content on the platform and provide 
 
 Instagram algorithm cross-refers information about the content (reels, stories, posts) from the user's data (likes and behavior on the Instagram platform), showing the right content that the specified user likes.
 
-"We want to make the most of your time, and we believe that using technology [the Instagram algorithm] to personalize your experience is the best way to do that," wrote <a href="https://about.instagram.com/blog/announcements/shedding-more-light-on-how-instagram-works" target="_blank">Instagram</a> **CEO Adam Mosseri in 2021**
+"We want to make the most of your time, and we believe that using technology [the Instagram algorithm] to personalize your experience is the best way to do that," wrote <a href="https://about.instagram.com/blog/announcements/shedding-more-light-on-how-instagram-works" target="_blank" rel="nofollow">Instagram</a> **CEO Adam Mosseri in 2021**
 
 ## How does Instagram content work?     
 

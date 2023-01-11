@@ -37,7 +37,7 @@ The advancement of Artificial intelligence in environmental science is essential
 
 ## How can AI help in decreasing the pollution rate?    
 
-Artificial intelligence is widely praised for its capacity to improve qualitative measurement and data collection. Additionally, AI is capable of precisely detecting patterns in data sets to aid in analysis. But that's not all that AI is good for. For monitoring air pollution, for example, AI and <a href="https://www.youtube.com/watch?v=PMctm7-ed-s" target="_blank"> Automotive IoT</a> can offer real-time solutions. Apparently, using artificial intelligence technology, it is possible to swiftly and precisely identify the causes of air pollution. Environmental protection defense operations might move more quickly and efficiently with the aid of AI.
+Artificial intelligence is widely praised for its capacity to improve qualitative measurement and data collection. Additionally, AI is capable of precisely detecting patterns in data sets to aid in analysis. But that's not all that AI is good for. For monitoring air pollution, for example, AI and <a href="https://www.youtube.com/watch?v=PMctm7-ed-s" target="_blank" rel="nofollow"> Automotive IoT</a> can offer real-time solutions. Apparently, using artificial intelligence technology, it is possible to swiftly and precisely identify the causes of air pollution. Environmental protection defense operations might move more quickly and efficiently with the aid of AI.
 
 For instance, AI can help develop environmentally beneficial transportation routes and detect drops in energy emissions and CO2 emissions. AI can also track deforestation and forecast catastrophic weather.
 
@@ -45,7 +45,7 @@ Here are a handful of "game-changing" AI applications that can help solve some o
 
 ### 1. Auto and battery-connected vehicles:- 
 
-The advent of AI-guided <a href="https://youtu.be/YU6l-p2ekRk" target="_blank">autonomous cars</a> will revolutionize how people get around cities in the coming years and decades. Autonomous ride-sharing services will be able to significantly reduce greenhouse gas emissions for urban transportation by optimizing routes and traffic, using eco-driving algorithms, and platooning cars in traffic. To achieve these substantial advantages, electric AV fleets will be essential. So, when it comes to the applications of artificial intelligence in environmental optimization, the advancement of autonomous and battery-powered cars has become a significant innovation.
+The advent of AI-guided <a href="https://youtu.be/YU6l-p2ekRk" target="_blank" rel="nofollow">autonomous cars</a> will revolutionize how people get around cities in the coming years and decades. Autonomous ride-sharing services will be able to significantly reduce greenhouse gas emissions for urban transportation by optimizing routes and traffic, using eco-driving algorithms, and platooning cars in traffic. To achieve these substantial advantages, electric AV fleets will be essential. So, when it comes to the applications of artificial intelligence in environmental optimization, the advancement of autonomous and battery-powered cars has become a significant innovation.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-3.jpg" style="width:100%" class="img" alt="An AI-based drone flying over an agricultural field."/>
 

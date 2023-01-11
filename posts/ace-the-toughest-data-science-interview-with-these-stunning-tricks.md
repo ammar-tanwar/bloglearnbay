@@ -20,8 +20,6 @@ tableData:
 
 
 
-
-
 A Guide for **data science interview preparation.**
 
 Today, **Data Science Interview preparation** is one of the biggest deals for everyone. Almost everyone finds an interview difficult, but a data science interview can be much more difficult than the rest and sometimes even tricky. Every interview is a learning process, whether you pass it or not. A data science interview is challenging as it consists of a few tricky questions. Data science holds many roles and responsibilities, and the questions might differ little according to the data science job role. I.e. If you have applied for a data scientist position, you know that the recruiter can ask for coding and algorithm elements. They are the basic questions for which candidates must be prepared during the data science interview. But the core questions differ for various other <a href="https://blog.learnbay.co/different-job-roles-after-a-data-science-course/" target="_blank">data science job roles.</a>
@@ -171,4 +169,4 @@ I wouldn't recommend studying for a short-term interview because you need to unw
 ## Conclusion   
 
 Data Science is one of the toughest interviews, but that does not mean you cannot crack it. It just requires dedication and skills with knowledge, and you can do it. Just read this blog pre-prepare yourself to **ace the data science interview.** Our courses at Learnbay help candidates in resume building and portfolio creation. We assure job referrals and offer a course in
-<a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank">data science with a job guarantee</a> or you can claim your fees back. But remember, certificates and projects are necessary, but it is even more necessary to communicate what you know freely.
+<a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank" rel="nofollow">data science with a job guarantee</a> or you can claim your fees back. But remember, certificates and projects are necessary, but it is even more necessary to communicate what you know freely.

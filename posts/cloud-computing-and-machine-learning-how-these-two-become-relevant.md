@@ -28,7 +28,7 @@ Cloud computation and machine learning are ruling the industry for a long period
 
 ## What is machine learning?
 
-<a href="https://blog.learnbay.co/what-is-supervised-and-unsupervised-learning-in-machine-learning" target="_blank">Machine learning</a> is a subset of data science and artificial intelligence that describes a machine's ability to replicate intelligent human behavior. Artificial intelligence (AI) can help in advancing the same complex task that humans do in a lesser amount of time. According to professionals and academics in the industry, machine learning can be utilized to assist financial institutions in making better decisions, hence improving their bottom line. Here are the basic <a href="https://youtu.be/SzH18SEFEkA" target="_blank">types of artificial intelligence and machine learning</a> :-
+<a href="https://blog.learnbay.co/what-is-supervised-and-unsupervised-learning-in-machine-learning" target="_blank">Machine learning</a> is a subset of data science and artificial intelligence that describes a machine's ability to replicate intelligent human behavior. Artificial intelligence (AI) can help in advancing the same complex task that humans do in a lesser amount of time. According to professionals and academics in the industry, machine learning can be utilized to assist financial institutions in making better decisions, hence improving their bottom line. Here are the basic <a href="https://youtu.be/SzH18SEFEkA" target="_blank" rel="nofollow">types of artificial intelligence and machine learning</a> :-
 
 ### 1. Supervised Learning:-    
 
@@ -106,7 +106,7 @@ The process of maximizing the value of data for the business is known as busines
 
 ### 3. IoT (Internet of things):-
 
-The Internet of Things (<a href="https://youtu.be/8DUDgqR-6jI" target="_blank">IoT</a>) is a platform that provides cloud services, such as data storage and processing, over the Internet. Cloud-based machine learning models have recently gained popularity. It begins by requesting input data from the client, then performs machine learning algorithms using the Internet's massive processing capacity, and concludes with the outcome output.
+The Internet of Things (<a href="https://youtu.be/8DUDgqR-6jI" target="_blank" rel="nofollow">IoT</a>) is a platform that provides cloud services, such as data storage and processing, over the Internet. Cloud-based machine learning models have recently gained popularity. It begins by requesting input data from the client, then performs machine learning algorithms using the Internet's massive processing capacity, and concludes with the outcome output.
 
 **So there were a few cloud-based machine learning applications that are quite trustworthy and useful in any organizational discipline.**
 
