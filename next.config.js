@@ -109,13 +109,13 @@ module.exports = {
 
       {
         source: '/data-preprocessing',
-        destination: '/data-science-is-important-why-we-need-it',
+        destination: '/everything-about-data-preprocessing',
         permanent: true,
       },
 
       {
         source: '/decision-tree',
-        destination: '/data-science-is-important-why-we-need-it',
+        destination: '/everything-about-decision-tree-from-scratch',
         permanent: true,
       },
 
