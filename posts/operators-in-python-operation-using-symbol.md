@@ -38,7 +38,7 @@ When you write 'x+y', the operator '+' is used on two operands, 'x' and 'y'.
 
 <b>In this article, you will understand different concepts and types of operators used in python.</b>
 
-## **What are the types of operators?**   
+## What are the types of operators?  
 There are seven different types of operators in python. Let us take a look at them individually:
 
 - Arithmetic operator
@@ -49,7 +49,7 @@ There are seven different types of operators in python. Let us take a look at th
 - Membership operator
 - Identity operator
 
-### **Arithmetic operator**
+### Arithmetic operator
 
 In python you have seven different arithmetic operators known as binary operators since it is performed on two operands. In simple words, it is a basic mathematical operation.
 
@@ -107,7 +107,7 @@ print(x ** y)<br>
 
 
 
-### **Assignment operator**
+### Assignment operator
 
 Assigning values to a variable is called an assignment operator. The result of these operations can later be stored into a variable.
 
@@ -158,13 +158,13 @@ print(y)<br>
 
 
 
-### **Comparison Operator**
+### Comparison Operator
 
 Relational operator is also known as the comparison operator where we compare whether two values are the same or which is greater or lesser, etc... Depending on the compared values these operators will result in either True or False.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-5.jpeg" style="width:100%" class="img" alt="A table lists the function of comparison operators. The table consists three columns named, 'operator', 'Meaning', 'example.'"/>
 
-### **Logical operator**
+### Logical operator
 
 In python symbols or characters used in conditional statements is called Logical operators. It is either True or False. They are capable of performing AND, OR, and NOT operations. You can have a combination of more than a simple compound statement. In Logical Operator, False indicates 0, and True indicates any other number.
 
@@ -193,7 +193,7 @@ False<br>
 True<br>
 False <br>
 
-### **Bitwise Operator**
+### Bitwise Operator
 
 Bitwise operators are individual bits (0 and 1) of the operands. These 0 and 1 are referred to as bits or binary digits that represent the values. It is used when integers are transformed into a binary number system. The integers are converted to binary numbers and the operations are executed bit by bit. You can convert decimal numbers to binary numbers and vice-versa.
 
@@ -231,7 +231,7 @@ Example<br>
 2<br>
 40 <br>
 
-### **Membership Operator**
+### Membership Operator
 
 In this we can check whether the elements are present in the sequence or not. It tests membership in strings, lists, tuples, or dictionaries.
 
@@ -259,7 +259,7 @@ else:<br>
  x isnotin the given list<br>
  y isin the given list <br>
 
-### **Identity Operator**
+### Identity Operator
 
 In this we can internally locate the memory location of the object and return an integer number known as the **identity number**. For checking the memory location of an object we can use the id() function.
 
@@ -280,7 +280,7 @@ Example <br>
 True<br>
 True <br>
 
-## **Takeaway**   
+## Takeaway  
 
 
 Let us summarize, an operator is nothing but a particular task that is performed using special symbols by substituting operands. You've also gone through the various types of operators and examples. It is the basic concept that you work on a day-to-day life while working in python.

@@ -25,7 +25,7 @@ Did you know you could create images by simply giving commands to a phone or lap
 
 ## What really is DALL-E 2?
 
-  <a href="https://en.wikipedia.org/wiki/OpenAI" target="_blank">OpenAI</a> designed the DALL-E 2 (depicted as DALL·E) transformer models to generate digital images from text descriptions. Its name is a combination of Salvador Dali and Wall-E.
+  <a href="https://en.wikipedia.org/wiki/OpenAI" target="_blank" rel="nofollow">OpenAI</a> designed the DALL-E 2 (depicted as DALL·E) transformer models to generate digital images from text descriptions. Its name is a combination of Salvador Dali and Wall-E.
 
 In a blog post published in Jan 2021, OpenAI introduced DALL-E, which uses a GPT-3 variant that has been modified to generate images with ease. In Apr 2022, OpenAI unveiled DALL-E 2, a replacement that "can mix concepts, traits, and styles" to produce more realistic graphics at higher resolutions.
 

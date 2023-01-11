@@ -33,7 +33,7 @@ Support vector machine(SVM) is a supervised learning algorithm that is used to c
 
 SVM studies the labeled data & then classify any new input data depending on what it learned into the training phase.
 
-It can be used for both classification and regression problems. As SVC supports vector classification SVR stands for support vector regression. One of the main features of SVM is [kernel function](https://www.geeksforgeeks.org/major-kernel-functions-in-support-vector-machine-svm/#:~:text=Kernel%20Function%20is%20a%20method,window%20to%20manipulate%20the%20data.), it can be used for nonlinear data by using the kernel trick.  The working of the kernel trick is to transform the data into another dimension so that we can draw a hyperplane that classifies the data.
+It can be used for both classification and regression problems. As SVC supports vector classification SVR stands for support vector regression. One of the main features of SVM is  <a href="https://www.geeksforgeeks.org/major-kernel-functions-in-support-vector-machine-svm/#:~:text=Kernel%20Function%20is%20a%20method,window%20to%20manipulate%20the%20data." target="_blank" rel="nofollow">kernel function</a>, it can be used for nonlinear data by using the kernel trick.  The working of the kernel trick is to transform the data into another dimension so that we can draw a hyperplane that classifies the data.
 
 How SVM work??
 
@@ -198,4 +198,4 @@ In the real world, our dataset is generally dispersed up to some extent. To solv
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vector1.png"   class="img" alt="An image shows two scattered plots; the first one shows a linear separable, and the second graph shows a non-linear separable. In the first graph, the blue and green dots are separated by a straight line with positive slop, and in the second graph, the blue and green dots are separated by a circle."/>
 
 
-[Learnbay](https://www.learnbay.co/data-science-course/) provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM.
+<a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM.

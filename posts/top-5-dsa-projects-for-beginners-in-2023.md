@@ -18,8 +18,6 @@ tableData:
 ---
 
 
-
-
 <span style=" font-weight:bold; font-size:28px"> New to DSA Field! Having Any of these DSA Projects in Your CV is Bound to Grab the Attention of Recruiters </span>
 
 DSA skills are now in massive demand, and so are the relevant certification courses.

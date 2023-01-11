@@ -19,11 +19,11 @@ tableData:
 
 
 
-<span style=" font-weight:bold; font-size:28px">The application of ML has changed the direction of stock market prediction. Know how? </span>
+<span style="font-weight:bold; font-size:28px">The application of ML has changed the direction of stock market prediction. Know how? </span>
 
 Every individual always seems to find it tough to predict stocks. Machines, on the other hand, are assisting us in making it more accessible. The algorithms are improving their ability to forecast the market's future. The algorithms will be discussed in depth in this blog.
 
-Many people have attempted to predict stock market (aka <a href="https://youtu.be/S4xEakhtl10" target="_blank">share price</a> )movements. Many algorithms have been developed to anticipate the price of stocks. However, predicting their activities is a daunting task. Many people try to predict stock market changes, but very few succeed in being pros. Furthermore, only professionals can survive in the stock market. However, such prediction has gone relatively easy and precise now via the promising application of ML.
+Many people have attempted to predict stock market (aka <a href="https://youtu.be/S4xEakhtl10" target="_blank" rel="nofollow">share price</a> )movements. Many algorithms have been developed to anticipate the price of stocks. However, predicting their activities is a daunting task. Many people try to predict stock market changes, but very few succeed in being pros. Furthermore, only professionals can survive in the stock market. However, such prediction has gone relatively easy and precise now via the promising application of ML.
 
 These days, AI appears to be superficial. <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">Advanced-Data Science and AI</a> refer to a machine's ability to execute jobs that aren't usually linked with the type of analysis that people are used to. For example, machine learning is a technique for developing predictive models that can anticipate the likelihood of critical or uncertain events.
 
@@ -39,7 +39,7 @@ There are a few approaches to anticipating stock prices using machine learning. 
 
 ## What role does reinforcement learning play in stock forecasting?   
 
-<a href="https://blog.learnbay.co/what-is-supervised-and-unsupervised-learning-in-machine-learning" target="_blank">Reinforcement learning</a> can predict stock prices since it adheres to the concepts of using less historical data and operating in an agent-based system to forecast higher returns based on the current environment. It makes use of <a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank">Q learning</a>. The Q-learning algorithm uses model-free reinforcement learning to assess the significance of a given action in a given situation. Since it doesn't require a model of the environment, it can deal with stochastic transition and reward concerns without adjustments (hence the term "model-free").
+<a href="https://blog.learnbay.co/what-is-supervised-and-unsupervised-learning-in-machine-learning" target="_blank">Reinforcement learning</a> can predict stock prices since it adheres to the concepts of using less historical data and operating in an agent-based system to forecast higher returns based on the current environment. It makes use of <a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank" rel="nofollow">Q learning</a>. The Q-learning algorithm uses model-free reinforcement learning to assess the significance of a given action in a given situation. Since it doesn't require a model of the environment, it can deal with stochastic transition and reward concerns without adjustments (hence the term "model-free").
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-3.jpg" style="width:100%" class="img" alt="An illustration of deep neural network that resembles a human brain shape. The accompanying text reads, 'deep learning.'"/>
 

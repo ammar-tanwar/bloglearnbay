@@ -54,13 +54,13 @@ Below are the companies that keep hiring data science professionals of different
 
 
 
-* [Boeing](http://www.boeing.com/)– (Aviation industry)
-* Accenture (Professional services)
-* [Genpact](http://www.genpact.com/) ( IT services)
-* [NICE Actimize](https://www.niceactimize.com/) (IT services mainly for monetary crime detection)
-* [Sony India](https://www.sony.co.in/) (IT service)
-* [Urban Company](https://www.urbancompany.com/delhi-ncr) (IoT, IT services)
-* [Agoda](https://careersatagoda.com/)<span style="text-decoration:underline;"> </span>(Travel and Tourism)
+* <a href="http://www.boeing.com/" target="_blank" rel="nofollow">Boeing</a> – (Aviation industry)
+* <a href="https://www.accenture.com/in-en" target="_blank" rel="nofollow">Accenture</a>
+* <a href="http://www.genpact.com/" target="_blank" rel="nofollow">Genpact</a> ( IT services)
+* <a href="https://www.niceactimize.com/" target="_blank" rel="nofollow">NICE Actimize</a> (IT services mainly for monetary crime detection)
+* <a href="https://www.sony.co.in/" target="_blank" rel="nofollow">Sony India</a> (IT service)
+* <a href="https://www.urbancompany.com/delhi-ncr" rel="nofollow">Urban Company</a> (IoT, IT services)
+* <a href="https://careersatagoda.com/" target="_blank" rel="nofollow">Agoda</a><span style="text-decoration:underline;"> </span>(Travel and Tourism)
 
 These are the top companies of Delhi location that offer lucrative salaries and career opportunity growth and keep recruiting a data scientist (not in bulk) 365 days a year. Apart from these, there are plenty of other options for data scientists and ML engineers in Delhi.
 
@@ -123,8 +123,8 @@ But keep in mind to grab the right job, you need to be very cautious from the in
 
 ## So, what’s next?
 
-If you need personalised career guidance for a data science career switch, you can contact[ Learbay](https://www.learnbay.co/data-science-course/). We are providing data science IBM certified AI, ML, BI analyst and other data science courses in Delhi.
+If you need personalised career guidance for a data science career switch, you can contact <a href="https://www.learnbay.co/data-science-course/" target="_blank">Learbay</a>. We are providing data science IBM certified AI, ML, BI analyst and other data science courses in Delhi.
 
 Each of our course modules is designed according to the work experience and domain experience of the candidates. Instead of providing generalised data science training, we have different courses for candidates with different degrees of working experience. Not only that, all of our courses include a live industrial capstone project that will be done directly from any product based MNCs in Delhi.
 
-To know more, get the latest update about our courses, blogs, and data science tricks and tips, follow us on:[ LinkedIn](https://www.linkedin.com/company/learnbay/),[ Twitter]( https://twitter.com/Learnbay),[ Facebook](https://www.facebook.com/learnbay/),[ Youtube](https://bit.ly/Learnbay_YouTube),[ Instagram](https://instagram.com/learnbayofficial),[ Medium](https://medium.com/learnbay-blogs).
+To know more, get the latest update about our courses, blogs, and data science tricks and tips, follow us on: <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>, <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://bit.ly/Learnbay_YouTube" target="_blank">Youtube</a>, <a href="https://instagram.com/learnbayofficial" target="_blank">Instagram</a>, <a href="https://medium.com/learnbay-blogs" target="_blank">Medium</a>.

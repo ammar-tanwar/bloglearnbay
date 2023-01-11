@@ -122,7 +122,7 @@ Ans: An SVM classifies data by locating the hyperplane that optimizes the separa
 
 ### 12. What do you mean by kernels?  
 
-Ans: <a href="https://en.wikipedia.org/wiki/Kernel_method" target="_blank">Kernels</a> are a group of mathematical operations that SVM algorithms rely on. The kernel's function changes the received input info into a suitable form. Various sorts of kernel functions are employed by several SVM algorithms. There are four different kernel types in SVM.
+Ans: <a href="https://en.wikipedia.org/wiki/Kernel_method" target="_blank" rel="nofollow">>Kernels</a> are a group of mathematical operations that SVM algorithms rely on. The kernel's function changes the received input info into a suitable form. Various sorts of kernel functions are employed by several SVM algorithms. There are four different kernel types in SVM.
 
 - Polynomial kernel
 - Linear Kernel

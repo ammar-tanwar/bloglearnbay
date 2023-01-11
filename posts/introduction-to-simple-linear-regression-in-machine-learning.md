@@ -33,7 +33,7 @@ Where to learn SLR?,
 
 No matter what ML course you have chosen, the first learning goal of data science statistics modules will be the LR (linear regression), better to say, Simple Linear Regression in Machine Learning . In addition, we call this type of widely useful ML algorithm with an abbreviation of SLR.
 
-In this blog, we’ll evaluate the foundational approach of Simple Linear Regression in Machine Learning in[ ML modelling](https://blog.learnbay.co/model-vs-algorithm-in-ml).
+In this blog, we’ll evaluate the foundational approach of Simple Linear Regression in Machine Learning in <a href="https://blog.learnbay.co/model-vs-algorithm-in-ml" target="_blank">ML modelling</a>.
 
 
 ## What is SLR in Machine Learning?
@@ -58,7 +58,7 @@ If we sit to lists out the real-life instances of SLR in ML, then the list will 
 SLR can be the ultimate solution to lots of complex problems to a moderate business problem. Just keep one thing in mind, don’t forget to approach the linearity condition correctly.
 
 
-## What is the[ linearity condition](https://en.wikipedia.org/wiki/Linearity#:~:text=Linearity%20is%20the%20property%20of,is%20closely%20related%20to%20proportionality.&text=The%20word%20linear%20comes%20from,to%20or%20resembling%20a%20line%22.)<span style="text-decoration:underline;"> </span>in SLR?
+## What is the [linearity condition](https://en.wikipedia.org/wiki/Linearity#:~:text=Linearity%20is%20the%20property%20of,is%20closely%20related%20to%20proportionality.&text=The%20word%20linear%20comes%20from,to%20or%20resembling%20a%20line%22.)<span style="text-decoration:underline;"> </span>in SLR?
 
 SLR tries to solve the noticeable changes in the value of the subordinate factor (dependent)
 
@@ -94,7 +94,7 @@ To make an SLR work to find out the solution to your identified problem, you nee
 
 Step#1: Visualise the inter-connections between the identified factors through graphical outcomes. The standard type of graph used in SLR is a scatter plot.
 
-Step#2: Utilise the[OLS](https://en.wikipedia.org/wiki/Ordinary_least_squares#:~:text=In%20statistics%2C%20ordinary%20least%20squares,in%20a%20linear%20regression%20model.) technique to calculate the regression parameters and defining the proper execution of the relationship between the variables.
+Step#2: Utilise the <a href="https://en.wikipedia.org/wiki/Ordinary_least_squares#:~:text=In%20statistics%2C%20ordinary%20least%20squares,in%20a%20linear%20regression%20model." target="_blank" rel="nofollow">OLS</a> technique to calculate the regression parameters and defining the proper execution of the relationship between the variables.
 
 Step#3:Calculate error that is standard of regression estimation.
 
@@ -234,6 +234,6 @@ y_test
 
 ## Where to learn SLR?
 
-If you want to learn more about the application of SLR in ML, you can join[ IBM certified Learnbay Data science and AI certification courses](https://www.learnbay.co/data-science-course/data-science-and-ai/). The data science course syllabus of Learnbay offers balanced learning scopes on both statistics and programming- the two key pillars of data science career growth. Our AI and ML courses are available for both fresh graduates and working professionals. All of our courses are entitled to real-time industrial projects and live online classes. Our course is available in all the prime cities across India, such as Mumbai, Kolkata, Bengaluru, Hyderabad, Delhi, Lucknow, and Patna.
+If you want to learn more about the application of SLR in ML, you can join <a href="https://www.learnbay.co/data-science-course/data-science-and-ai/" target="_blank">IBM certified Learnbay Data science and AI certification courses</a>. The data science course syllabus of Learnbay offers balanced learning scopes on both statistics and programming- the two key pillars of data science career growth. Our AI and ML courses are available for both fresh graduates and working professionals. All of our courses are entitled to real-time industrial projects and live online classes. Our course is available in all the prime cities across India, such as Mumbai, Kolkata, Bengaluru, Hyderabad, Delhi, Lucknow, and Patna.
 
-To learn more about Learnaby Data science, AI, and ML courses, and book a telephonic counseling session,[ click](https://calendly.com/learnbay-ai/telephonic-discussion-learnbay?month=2020-11) here.
+To learn more about Learnaby Data science, AI, and ML courses, and book a telephonic counseling session, <a href="https://calendly.com/learnbay-ai/telephonic-discussion-learnbay?month=2020-11" target="_blank" rel="nofollow">click</a> here.
