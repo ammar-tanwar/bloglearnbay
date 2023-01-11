@@ -22,7 +22,7 @@ tableData:
 
 ## Artificial Intelligence:- Introduction
 
-Artificial Intelligence is no longer just contained in science fiction films. Instead, it is increasingly becoming a significant part of our everyday lives. We already use tools like <a href="https://www.apple.com/in/siri/" target="_blank">Siri</a> and <a href="https://developer.amazon.com/en-US/alexa" target="_blank">Amazon's Alexa</a> and are just beginning to see the possibilities of AI in education. And we should expect to see more. According to Global Market Insights Inc., the Artificial Intelligence education market might be worth $20 billion by 2027.
+Artificial Intelligence is no longer just contained in science fiction films. Instead, it is increasingly becoming a significant part of our everyday lives. We already use tools like <a href="https://www.apple.com/in/siri/" target="_blank" rel="nofollow">Siri</a> and <a href="https://developer.amazon.com/en-US/alexa" target="_blank" rel="nofollow">Amazon's Alexa</a> and are just beginning to see the possibilities of AI in education. And we should expect to see more. According to Global Market Insights Inc., the Artificial Intelligence education market might be worth $20 billion by 2027.
 
 ## With the expected growth of AI in education here is a glimpse into some of the roles it will play in Academics.   
 

@@ -111,7 +111,7 @@ In addition to this, AIoT devices aid in altering human behavior by measuring pa
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-5.jpg" style="width:100%" class="img" alt="A smart home equipped with AIoT-powered devices and appliances."/>
 
-<a href="https://www.youtube.com/watch?v=8DUDgqR-6jI" target="_blank">Smart homes</a> are a significant concept associated with the consumer market. Devices such as home security systems, thermostats, lighting, and cameras are included in these homes. All of these devices use Bluetooth and WiFi, which is a critical technology that allows these smart homes to share data and store it in a database for an ecosystem. However, incorporating **AIoT** into such technologies increases their efficacy and makes it easier for AI to use monitoring cameras, lights, and other technologies without human intervention.
+<a href="https://www.youtube.com/watch?v=8DUDgqR-6jI" target="_blank" rel="nofollow">Smart homes</a> are a significant concept associated with the consumer market. Devices such as home security systems, thermostats, lighting, and cameras are included in these homes. All of these devices use Bluetooth and WiFi, which is a critical technology that allows these smart homes to share data and store it in a database for an ecosystem. However, incorporating **AIoT** into such technologies increases their efficacy and makes it easier for AI to use monitoring cameras, lights, and other technologies without human intervention.
 
 ### 4. Creating intelligent cities:-    
 

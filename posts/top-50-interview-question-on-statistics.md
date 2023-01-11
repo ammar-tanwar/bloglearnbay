@@ -44,7 +44,7 @@ Ans: Some of the Common sampling ways are as follows:
 
 **Systematic random sample** : Members of the population are put in some order. A starting point is selected at random, and every nth member is selected to be in the sample.
 
-**Example** A principal takes an alphabetized <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/list/" target="_blank">list</a> of student names and picks a random starting point. Every 20th student is selected to take a survey.
+**Example** A principal takes an alphabetized <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/list/" target="_blank" rel="nofollow">list</a> of student names and picks a random starting point. Every 20th student is selected to take a survey.
 
 ### 2. What is the confidence interval? What is its significance?  
 Ans: A confidence interval, in statistics, refers to the probability that a population parameter will fall between two set values for a certain proportion of times. Confidence intervals measure the degree of uncertainty or certainty in a sampling method. A confidence interval can take any number of probabilities, with the most common being a 95% or 99% confidence level.
@@ -95,7 +95,7 @@ If the peak of the distribution was left of the average value, portraying a posi
 
 If the peak of the distributed data was right of the average value, that would mean a negative skew. This would mean that the houses were being sold for more than the average value.
 
-**Kurtosis** : Kurtosis is all <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/about/" target="_blank">about</a> the tails of the distribution — not the peakedness or flatness. It is used to describe the extreme values in one versus the other tail. It is actually the measure of outliers present in the distribution.
+**Kurtosis** : Kurtosis is all <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/about/" target="_blank" rel="nofollow">about</a> the tails of the distribution — not the peakedness or flatness. It is used to describe the extreme values in one versus the other tail. It is actually the measure of outliers present in the distribution.
 
 **High kurtosis** in a data set is an indicator that data has heavy tails or outliers. If there is a high kurtosis, then, we need to investigate why do we have so many outliers. It indicates a lot of things, maybe wrong data entry or other things. Investigate!
 
@@ -388,7 +388,7 @@ Where:
 
 If you have a larger sample (over 30), the t-distribution and z-distribution look pretty much the same.
 
- **To know more about Data Science, Artificial Intelligence, Machine Learning, and Deep Learning programs** <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/" target="_blank">visit</a>  **our** <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/" target="_blank">website</a> <a href="https://web.archive.org/web/20220124040955/http://www.learnbay.co/" target="_blank">www.learnbay.co</a>
+ **To know more about Data Science, Artificial Intelligence, Machine Learning, and Deep Learning programs** <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/" target="_blank" rel="nofollow">visit</a>  **our** <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/" target="_blank" rel="nofollow">website</a> <a href="https://web.archive.org/web/20220124040955/http://www.learnbay.co/" target="_blank">www.learnbay.co</a>
 
 **Follow us on:** 
 
@@ -400,10 +400,10 @@ If you have a larger sample (over 30), the t-distribution and z-distribution loo
 
  **Watch our Live Session Recordings to precisely understand statistics, probability, calculus, linear algebra, and other math concepts used in data science.** 
 
-<a href="https://web.archive.org/web/20220124040955/https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA?view_as=subscriber" target="_blank">Youtube</a>
+<a href="https://web.archive.org/web/20220124040955/https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA?view_as=subscriber" target="_blank" rel="nofollow">Youtube</a>
 
-**To get updates on Data Science and AI Seminars/Webinars – Follow our** <a href="https://web.archive.org/web/20220124040955/https://www.meetup.com/Bangalore-Data-Science-Meetup-Learnbay/" target="_blank">Meetup</a> **group.** 
+**To get updates on Data Science and AI Seminars/Webinars – Follow our** <a href="https://web.archive.org/web/20220124040955/https://www.meetup.com/Bangalore-Data-Science-Meetup-Learnbay/" target="_blank" rel="nofollow">Meetup</a> **group.** 
 
-<a href="https://web.archive.org/web/20220124040955/https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> provides industry accredited <a href="https://web.archive.org/web/20220124040955/https://www.learnbay.co/data-science-course/" target="_blank">data science courses</a> in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of the present and future.
+<a href="https://web.archive.org/web/20220124040955/https://www.learnbay.co/data-science-course/" target="_blank" rel="nofollow">Learnbay</a> provides industry accredited <a href="https://web.archive.org/web/20220124040955/https://www.learnbay.co/data-science-course/" target="_blank" rel="nofollow">data science courses</a> in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of the present and future.
 
 Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.

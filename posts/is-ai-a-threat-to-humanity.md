@@ -54,4 +54,4 @@ So, rather than asking questions like if AI is a threat to humanity, there are m
 
 Data Science, Machine Learning and AI have become an integral part of our existence, but it would never be the cause of our extinction. It is silly to accuse a robot or a machine that is human trained at the grass-root level. So, our combat is not human versus robots. Our real combat is intelligence vs intelligence. Misaligned human intelligence needs no metal bound structure to bring destruction. Machines will never control humans, as intelligence enables control and the ball is in our court till we imbibe catastrophic goals into the system. As humans, we know better, of course, with conscious.
 
-Learnbay's data science certification is best [data science training in bangalore](https://www.learnbay.co/data-science-course-training-in-bangalore) for professionals.
+Learnbay's data science certification is best <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">data science training in bangalore</a> for professionals.

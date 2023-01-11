@@ -20,9 +20,6 @@ tableData:
 
 # What is Data Science? | Uncovering The Explicit Truth
 
-
-
-
 Data Science Become a Major Player in 2022: Know-How.
 
 Technology keeps revolutionizing as it gets better and better every day. Many unique and customized models are developed according to the business needs as well as operations. The old business model is outdated, and customers have changed how they buy products or interact with the organization during the sales process. **This has created a new study on re-calibrating business processes for better customer service at a low price.** 
@@ -152,7 +149,7 @@ E-commerce giants can **predict profits, losses, and purchases and even influenc
 
 There are a lot of high-value data industries that just cannot let go of it. They are real data and can be used to implement new strategies by leveraging these data. Companies today can easily collect these data from their customers, sales, operations, and marketing. So the information gained by CRM, ERP, and marketing does not directly lead to improving revenue or gaining profit.
 
-In a study by <a href="https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/by-the-numbers-what-drives-sales-growth-outperformance" target="_blank">McKinsey,</a>
+In a study by <a href="https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/by-the-numbers-what-drives-sales-growth-outperformance" target="_blank" rel="nofollow">McKinsey,</a>
 , 72% of the rapid-growing B2B organizations stated that analytics helped them to drive sales compared to 50% of the other slow-growing companies. The reputation of the sales sector has become too dependent on live data tracking. Here comes the need for data science, and that can be deployed in many ways in sales as follows. Or we can say <a href="https://blog.learnbay.co/marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope" target="_blank">data science in sales and marketing</a> means,
 
 - Maximization of customer lifetime value (CLV)
