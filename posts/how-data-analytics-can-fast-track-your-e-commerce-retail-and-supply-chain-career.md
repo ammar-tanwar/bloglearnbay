@@ -34,7 +34,7 @@ Some employees working in the e-commerce and retail industries are quite dissati
 
 In this article, we will look at the impact of  <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">Data Science and Artificial Intelligence</a> in the retail and e-commerce industry, the challenges that come while implementing it, career scopes, and how you can get started as a data science professional in the same. 
 
-_People are still changing how they shop in early 2021, according to a survey from EY, which has been polling customers since the epidemic started. That’s about 80% of the people <a href="http://dl.lib.uom.lk/handle/123/16866" target="_blank">Digital Library</a>. 60 percent of people no longer go to stores in person, and 43 percent are shopping more online for things they would have bought in stores before the pandemic. In Covid-19, many people don’t care where they are as long as they can connect to the web. _People spent about $10 billion on e-commerce investments, acquisitions, and partnerships from May to Jul 2020 (by Kathy Gramling). This is about how much money they spent._ A lot of money was spent on logistics to make last-mile options like ghost kitchens and shadow storefronts possible. There was also a lot of money spent on AI and blockchain to make more things. Let us discuss data science in e-commerce, retail, and supply chain domain.
+_People are still changing how they shop in early 2021, according to a survey from EY, which has been polling customers since the epidemic started. That’s about 80% of the people <a href="http://dl.lib.uom.lk/handle/123/16866" target="_blank" rel="nofollow">Digital Library</a>. 60 percent of people no longer go to stores in person, and 43 percent are shopping more online for things they would have bought in stores before the pandemic. In Covid-19, many people don’t care where they are as long as they can connect to the web. _People spent about $10 billion on e-commerce investments, acquisitions, and partnerships from May to Jul 2020 (by Kathy Gramling). This is about how much money they spent._ A lot of money was spent on logistics to make last-mile options like ghost kitchens and shadow storefronts possible. There was also a lot of money spent on AI and blockchain to make more things. Let us discuss data science in e-commerce, retail, and supply chain domain.
 
 _But do you know even after such massive demand so many retail and e-comm employees are losing their jobs?_
 
@@ -52,7 +52,7 @@ On the other hand, there is also an intelligent community of professionals to re
 
 
 
-The final mile is crucial to <a href="https://en.wikipedia.org/wiki/E-commerce" target="_blank">e-commerce</a> success: _21% said they would not forgive stores and brands if service was delayed because of Covid-19._ It’s getting harder and harder for businesses to get last-mile delivery capacity because more people are shopping online. After Black Friday in 2020, many of us had to wait weeks for things to show up on our doorsteps. Delivery is now an important part of the whole experience. As a fulfillment center, the shop is used a lot. _According to the Index, 37% of US customers plan to purchase online and pick up in-store more often in the future (online library)._ While using a shop as a fulfillment center may be a good idea, it needs systems and business divisions to work together to make the promise come true. Retailers’ ability to create a consistent experience must expand as services grow.
+The final mile is crucial to <a href="https://en.wikipedia.org/wiki/E-commerce" target="_blank" rel="nofollow">e-commerce</a> success: _21% said they would not forgive stores and brands if service was delayed because of Covid-19._ It’s getting harder and harder for businesses to get last-mile delivery capacity because more people are shopping online. After Black Friday in 2020, many of us had to wait weeks for things to show up on our doorsteps. Delivery is now an important part of the whole experience. As a fulfillment center, the shop is used a lot. _According to the Index, 37% of US customers plan to purchase online and pick up in-store more often in the future (online library)._ While using a shop as a fulfillment center may be a good idea, it needs systems and business divisions to work together to make the promise come true. Retailers’ ability to create a consistent experience must expand as services grow.
 
 Retailers need to be ready to build better, deeper relationships with their customers, both online and in-person, no matter how people act.
 
@@ -138,7 +138,7 @@ This means that more and more businesses see the benefits of using data science 
 
 ### What do Supply Chain Data Scientists get paid?
 
-People who work in <a href="https://www.payscale.com/research/US/Job=Data_Scientist/Salary/749e089b/Supply-Chain" target="_blank">Supply Chain data science</a>make on average 14.3 lakhs a year, according to the 56 profiles. They make between 5.0 lakhs and 28.2 lakhs per year. Those in the top 10% earn more than £18.4 lakhs a year.
+People who work in <a href="https://www.payscale.com/research/US/Job=Data_Scientist/Salary/749e089b/Supply-Chain" target="_blank" rel="nofollow">Supply Chain data science</a>make on average 14.3 lakhs a year, according to the 56 profiles. They make between 5.0 lakhs and 28.2 lakhs per year. Those in the top 10% earn more than £18.4 lakhs a year.
 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce4.png"   class="img"  />
@@ -146,7 +146,7 @@ People who work in <a href="https://www.payscale.com/research/US/Job=Data_Scient
 
 Why are Data Scientists getting paid at a higher level? 
 
- Image Source: <a href="https://www.supplychain247.com/article/why_supply_chain_data_scientists_get_paid_so_much" target="_blank">Supply Chain 24/7</a>
+ Image Source: <a href="https://www.supplychain247.com/article/why_supply_chain_data_scientists_get_paid_so_much" target="_blank" rel="nofollow">Supply Chain 24/7</a>
 
 
 ## Packages and Companies:
@@ -210,7 +210,7 @@ So, let’s have a look at what Learnbay’s Supply Chain domain has to offer.
 * There are many examples of the RSCA process. Sentiment Analysis is one of them. Google Analytics is another. Natural Language Processing, Recommendation Systems, Deep Learning Concepts, and Text Analysis are also examples. Operations Research is used in supply chain management in a separate class.
 * The Supply Chain Operation Reference (SCOR) framework also has models and metrics like ROE, ROA, APT, INVT, and PPET. These models and metrics are part of the framework, as well.
 * Simulators and time series forecasting are also important in supply chain management, and the people who come to the meeting will like that.
-* The purpose of this <a href="https://drive.google.com/file/d/1aLEC-8GRyOBFMsvlT_Z-o9_WagAbo20G/view" target="_blank">E-Commerce, Retail, and Supply Chain curriculum </a> is to introduce participants to the fundamentals, components, business models, and other aspects of running an electronic commerce firm.
+* The purpose of this <a href="https://drive.google.com/file/d/1aLEC-8GRyOBFMsvlT_Z-o9_WagAbo20G/view" target="_blank" rel="nofollow">E-Commerce, Retail, and Supply Chain curriculum </a> is to introduce participants to the fundamentals, components, business models, and other aspects of running an electronic commerce firm.
 * You will have a better grasp of the issue than anybody else in your firm if you have domain expertise. 
 * Learn the finest practices in your respective professions and become well-versed in them. Be mindful of potential problems that you and your firm may face in the future. Most importantly, a well-known Domain Specialist increases the market value of a firm.
 
@@ -258,12 +258,12 @@ Image Source: <a href="https://www.kaggle.com/shashwatwork/ecommerce-data" targe
 Now that we’re done with the article on data science in e-commerce, retail, and supply chain domain, I hope it has helped you understand how important it is to know your field. Another point we wanted to emphasize was the possibility of this in the future, as well as in the present. Take a look at the<a href="https://www.learnbay.co/data-science-certification-courses/" target="_blank">Data Science & AI Certification| Domain Specialization For Professionals course</a> to learn more about the Data Science course or visit Learnbay’s <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.<span style="text-decoration:underline;"> </span>accounts for updates. 
 
 
-##### Bibliography
+## Bibliography
 
-[https://spyro-soft.com/blog/the-future-of-e-commerce](https://spyro-soft.com/blog/the-future-of-e-commerce)
+<a href="https://spyro-soft.com/blog/the-future-of-e-commerce" target="_blank" rel="nofollow">https://spyro-soft.com/blog/the-future-of-e-commerce</a>
 
-[https://www.mygreatlearning.com/blog/applications-of-data-science-in-e-commerce-industry/](https://www.mygreatlearning.com/blog/applications-of-data-science-in-e-commerce-industry/)
+<a href="https://www.mygreatlearning.com/blog/applications-of-data-science-in-e-commerce-industry/" target="_blank" rel="nofollow">https://www.mygreatlearning.com/blog/applications-of-data-science-in-e-commerce-industry/</a>
 
-[https://www.northeastern.edu/graduate/blog/data-science-supply-chain-management/](https://www.northeastern.edu/graduate/blog/data-science-supply-chain-management/)
+<a href="https://www.northeastern.edu/graduate/blog/data-science-supply-chain-management/" target="_blank" rel="nofollow">https://www.northeastern.edu/graduate/blog/data-science-supply-chain-management/</a>
 
-[https://analyticsindiamag.com/8-companies-offering-the-highest-salaries-to-data-scientists-in-india/](https://analyticsindiamag.com/8-companies-offering-the-highest-salaries-to-data-scientists-in-india/)
+<a href="https://analyticsindiamag.com/8-companies-offering-the-highest-salaries-to-data-scientists-in-india/" target="_blank" rel="nofollow">https://analyticsindiamag.com/8-companies-offering-the-highest-salaries-to-data-scientists-in-india/</a>

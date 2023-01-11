@@ -27,7 +27,7 @@ tableData:
 
 Machine Learning connects software engineers and data science. It works together to find a specific solution to a problem. It helps in creating new business opportunities. India has opened up many jobs for **Artificial Intelligence and Machine Learning engineers** with a deep, diversified market. Every location has different customer behavior. Global companies are improving customer relationships through machine learning operations in India. Organizations have accepted the core value of **Artificial Intelligence and machine learning engineering**. They are hiring AI and ML experts faster than institutes can teach them.
 
-<a href="https://www.indeed.com/lead/top-10-ai-jobs-salaries-cities" target="_blank">Indeed</a>
+<a href="https://www.indeed.com/lead/top-10-ai-jobs-salaries-cities" target="_blank" rel="nofollow">Indeed</a>
 stated that job postings for **Machine Learning and Artificial Intelligence engineer** increased by 30%. But candidates using AI and ML for job search went down by 15%. AI and ML have revolutionized the digital ecosystem in the past two decades. Machine learning originates from a computer algorithm. It develops a program that can access data and learn by itself. Many organizations are recruiting professionals. Who can fit in with **Artificial Intelligence and Machine Learning engineering jobs?** Even fresher can receive the best job as machine learning engineers. We have a list of the **best machine learning companies to work for in Bangalore in 2022.**
 
 ## Here are the 7 best companies for a machine learning engineer to work for in Bangalore

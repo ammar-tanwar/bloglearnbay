@@ -25,7 +25,7 @@ Conclusion,
 
 ## Data Science in Healthcare– Know The Hidden Scopes
 
-[Data science in Healthcare](https://drive.google.com/file/d/1mJg0ZGImTFbTtkTCeLfytMxAeMhhOUUC/view)<span style="text-decoration:underline;"> </span>isn’t something new. It is the most common industry where data science and analytics are applied. The global pandemic has dramatically raised the demand and importance of healthcare data scientists. Over the years, we have seen how[ data science](https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/)<span style="text-decoration:underline;"> </span>professionals have pulled together to work on Covid-19 Healthcare data and build AI/ML models to track the outbreak. This data was used for contact tracing, screening, and vaccine development. 
+<a href="https://drive.google.com/file/d/1mJg0ZGImTFbTtkTCeLfytMxAeMhhOUUC/view" target="_blank" rel="nofollow"> Data science in Healthcare </a> <span style="text-decoration:underline;"> </span>isn’t something new. It is the most common industry where data science and analytics are applied. The global pandemic has dramatically raised the demand and importance of healthcare data scientists. Over the years, we have seen how <a href="https://www.learnbay.co/data-science-course/different-jobs-opportunities-of-data-science/" target="_blank">data science</a> <span style="text-decoration:underline;"> </span>professionals have pulled together to work on Covid-19 Healthcare data and build AI/ML models to track the outbreak. This data was used for contact tracing, screening, and vaccine development. 
 
 Thus, data science has the potential to improve the entire healthcare system.
 
@@ -43,14 +43,14 @@ This blog will help you familiarize yourself with everything you need to know as
 
 * What role does data play in the healthcare sector? 
 The healthcare industry contributes a substantial amount of data to the global data pool 
-_[Data science and AI](https://www.learnbay.co/data-science-course/data-science-certification-courses/)_ have the potential to transform how care is delivered.  
+<a href="https://www.learnbay.co/data-science-course/data-science-certification-courses/" target="_blank">Data science and AI</a> have the potential to transform how care is delivered.  
 Today Medical Science has advanced rapidly, increasing life expectancy around the world. However, as longevity increases, the healthcare system faces a growing demand for their services, rising expenses, and a workforce struggling to meet the requirements of their patients. 
 * 5 Major Applications of Data Science in Healthcare 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health1.png"   class="img"  />
 
 
- 
+
 Data Science has already begun to address all of these issues in order to achieve the desired result. As Data Science is now benefiting society, its applications undoubtedly will be more valuable than ever. It will propel the healthcare business forward. Doctors will have a lot of assistance, while patients will have a more personalized experience and treatments.  Let’s look at some of the essential applications in healthcare:
 * Predictive analysis: The predictive analysis model generates predictions about a patient’s status. It analyzes various correlations between symptoms, behaviors, and diseases and generates relevant predictions. It also enables healthcare to build predictive models using data science which in turn makes it possible to identify potential risks before they arrive.
 * Medical image analysis: Medical imaging is the most common application of the data science healthcare industry. Techniques like X-ray, MRI, and CT scan reveal the inner parts of the human body. With the advent of deep learning, it is now possible to identify the defects in the human body and help doctors in developing successful treatment options.
@@ -92,7 +92,7 @@ It is important to build a strong foundation of skills before moving forward bas
 
 
 * Mathematics and statistical skills
-* Programming languages,[ Python](https://www.learnbay.co/data-science-course/introduction-to-python-programming/) and R
+* Programming languages, <a href="https://www.learnbay.co/data-science-course/introduction-to-python-programming/" target="_blank">Python</a> and R
 * Database management languages like SQL and SAS
 * Machine Learning and deep learning concepts
 * Data visualization
@@ -105,7 +105,7 @@ While these skills may help data scientists in analyzing the huge amount of data
 
 * Healthcare data scientist and data analyst salaries: What to expect?
 
-Today, Healthcare organizations are investing heavily in[ data science and analytics](https://www.learnbay.co/data-science-course/differentiating-data-scientist-and-data-analyst/) since it helps them in reducing administrative costs, minimizing fraudulent payments, delivering more accurate treatments and diagnostics, and overall decision making. 
+Today, Healthcare organizations are investing heavily in <a href="https://www.learnbay.co/data-science-course/differentiating-data-scientist-and-data-analyst/" target="_blank">data science and analytics</a> since it helps them in reducing administrative costs, minimizing fraudulent payments, delivering more accurate treatments and diagnostics, and overall decision making. 
 
 Like any other industry, the salary of a healthcare data scientist is typically determined by qualification, skill set, experience, location, and organization.
 
@@ -120,7 +120,7 @@ Some of the popular life science companies are as follows:
 
 Healthcare data analyst Salary:
 
-According to[ Glassdoor](https://www.glassdoor.co.in/Salaries/healthcare-data-analyst-salary-SRCH_KO0,23.htm#:~:text=The%20national%20average%20salary%20for,by%20Healthcare%20Data%20Analyst%20employees.), In India, the average income for a Healthcare Data Analyst is Rs. 7,61,298.
+According to <a href="https://www.glassdoor.co.in/Salaries/healthcare-data-analyst-salary-SRCH_KO0,23.htm#:~:text=The%20national%20average%20salary%20for,by%20Healthcare%20Data%20Analyst%20employees." target="_blank" rel="nofollow">Glassdoor</a>, In India, the average income for a Healthcare Data Analyst is Rs. 7,61,298.
 
 
 
@@ -138,37 +138,40 @@ Here are some project ideas you can work on to level-up your portfolio:
 
 
  
-[ Image segmentation dataset by Kaggle](https://www.kaggle.com/competitions/siim-acr-pneumothorax-segmentation/data)
-2. Ultrasound nerve segmentation: It is very crucial to accurately identify the neural structure in ultrasound images before inserting the patient’s pain catheter. In this project, you’ll learn how cutting-edge deep learning techniques are utilized to develop an end-to-end system where a person just feeds on an ultrasound image of the region to a deep learning model where it segments the nerve seen in the image.
+<a href="https://www.kaggle.com/competitions/siim-acr-pneumothorax-segmentation/data" target="_blank" rel="nofollow">Image segmentation dataset by Kaggle</a>
+
+1. Ultrasound nerve segmentation: It is very crucial to accurately identify the neural structure in ultrasound images before inserting the patient’s pain catheter. In this project, you’ll learn how cutting-edge deep learning techniques are utilized to develop an end-to-end system where a person just feeds on an ultrasound image of the region to a deep learning model where it segments the nerve seen in the image.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health4.jpg"   class="img"  />
 
  
-[ Ultrasound Nerve Segmentation dataset from Kaggle](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=train_masks.csv)
-3. Heart failure prediction: Heart failure is a common consequence of cardiovascular diseases (CVDs) resulting in an increase in mortality rate. In this project, you’ll build a Machine Learning model that predicts mortality by heart failure. Throughout this project, you’ll learn multiple ML algorithms including Random Forest and K-NN, data wrangling, and filtering techniques.
+<a href="https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=train_masks.csv" target="_blank" rel="nofollow">Ultrasound Nerve Segmentation dataset from Kaggle</a>
+
+1. Heart failure prediction: Heart failure is a common consequence of cardiovascular diseases (CVDs) resulting in an increase in mortality rate. In this project, you’ll build a Machine Learning model that predicts mortality by heart failure. Throughout this project, you’ll learn multiple ML algorithms including Random Forest and K-NN, data wrangling, and filtering techniques.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health5.jpg"   class="img"  />
 
  
-[ Heart failure prediction dataset from Kaggle](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
-4. Depression, anxiety, and stress prediction: Depression and stress Detection is the challenge of identifying signs of depression in individuals. This sign may be identified in several behavioral changes in a person. These symptoms can be predicted by developing a model with AI and ML algorithms such as CNN,[ support vector machine](https://www.learnbay.co/data-science-course/support-vector-machines/), KNN classifier, and linear regression.
+<a href="https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data" target="_blank" rel="nofollow">Heart failure prediction dataset from Kaggle</a>
+1. Depression, anxiety, and stress prediction: Depression and stress Detection is the challenge of identifying signs of depression in individuals. This sign may be identified in several behavioral changes in a person. These symptoms can be predicted by developing a model with AI and ML algorithms such as CNN, <a href="https://www.learnbay.co/data-science-course/support-vector-machines/" target="_blank">support vector machine</a>, KNN classifier, and linear regression.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health6.jpg"   class="img"  />
 
  
-[ Depression analysis dataset by Kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset)
-5. Breast cancer prediction: Breast cancer affects approximately 12% of women worldwide and is on the verge to rise even more. This project helps doctors to predict whether a patient has breast cancer or not. You’ll be required to create an ML model to classify malignant and benign tumors by utilizing the supervised Machine Learning classifier technique.
+<a href="https://www.kaggle.com/datasets/arashnic/the-depression-dataset" target="_blank" rel="nofollow">Depression analysis dataset by Kaggle</a>
+
+1. Breast cancer prediction: Breast cancer affects approximately 12% of women worldwide and is on the verge to rise even more. This project helps doctors to predict whether a patient has breast cancer or not. You’ll be required to create an ML model to classify malignant and benign tumors by utilizing the supervised Machine Learning classifier technique.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health7.jpg"   class="img"  />
 
  
-[ Breast cancer prediction dataset by Kaggle](https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction)
+<a href="https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction" target="_blank" rel="nofollow">Breast cancer prediction dataset by Kaggle</a>
 
 The first crucial step in becoming a healthcare data scientist is earning a Bootcamp certification or a master’s degree that gives you the expertise and skills to succeed. 
 
 Most people consider self-study or enrolling in a Bootcamp. 
 
-_Learnbay_ is a well-known institute for learning data science concepts. They offer affordable, flexible, and beginner-friendly[ Data science and AI courses](https://www.learnbay.co/data-science-course/data-science-certification-courses/)_ in Bangalore_ and globally as well. You’ll gain knowledge of advanced DS and AI tools and concepts that are effectively used in the Healthcare domain. Their case studies and industry projects in healthcare will help you stand out from the competition.
+_Learnbay_ is a well-known institute for learning data science concepts. They offer affordable, flexible, and beginner-friendly <a href="https://www.learnbay.co/data-science-course/data-science-certification-courses/" target="_blank">Data science and AI courses</a> in Bangalore_ and globally as well. You’ll gain knowledge of advanced DS and AI tools and concepts that are effectively used in the Healthcare domain. Their case studies and industry projects in healthcare will help you stand out from the competition.
 
 
 ## Conclusion
@@ -179,12 +182,12 @@ Also, Keep in mind that the pharma and healthcare industry will never be redunda
 
 Wake up and begin your journey in data science and AI from Learnbay institute! 
 
-For more such content, do check out our site:[ Learnbay](https://www.learnbay.co/data-science-course/)
+For more such content, do check out our site: <a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a>
 
 You can subscribe to our social media channels to get regular Data science and AI updates. 
 
-Twitter:[  https://twitter.com/Learnbay]( https://twitter.com/Learnbay)
+Twitter: <a href="https://twitter.com/Learnbay" target="_blank">https://twitter.com/Learnbay</a>
 
-Facebook:[ https://www.facebook.com/learnbay/](https://www.facebook.com/learnbay/)
+Facebook: <a href="https://www.facebook.com/learnbay/" target="_blank">https://www.facebook.com/learnbay/</a>
 
-LinkedIn:[ https://www.linkedin.com/company/learnbay/](https://www.linkedin.com/company/learnbay/)
+LinkedIn:<a href="https://www.linkedin.com/company/learnbay/" target="_blank">https://www.linkedin.com/company/learnbay/</a>

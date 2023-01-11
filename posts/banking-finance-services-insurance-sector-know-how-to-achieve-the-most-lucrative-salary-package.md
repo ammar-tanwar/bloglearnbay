@@ -29,7 +29,7 @@ However, in 2020, this scenario changed due to an unprecedented event that shook
 
 Nevertheless, as the lockdown has been lifted and the world learned to live with this normalcy, the hiring trends in the BFSI sector are beginning to shine again.
 
-A <a href="https://economictimes.indiatimes.com/jobs/banking-financial-services-need-1-6-million-skilled-workers-by-2022/articleshow/49168237.cms" target="_blank">report</a> by the **National skill development corporation (NSDC)** reveals that banking and financial services need 1.6 million skilled workforces in India by 2022.
+A <a href="https://economictimes.indiatimes.com/jobs/banking-financial-services-need-1-6-million-skilled-workers-by-2022/articleshow/49168237.cms" target="_blank" rel="nofollow">report</a> by the **National skill development corporation (NSDC)** reveals that banking and financial services need 1.6 million skilled workforces in India by 2022.
 
 Therefore, this can be the right time for you to get back on track and secure your career.
 
@@ -45,7 +45,7 @@ Throughout this blog, you'll get an idea of how data science influences the fina
 
 ## Finance:-   
 
-Financial Services are under high competition now. Even entrepreneurs are targeting this industry. According to the Goldman Sachs insight, more than 4.7 trillion dollars in revenue might be directed to startups from traditional financial MNCs (Source: <a href="https://global.hitachi-solutions.com/blog/top-10-challenges-banking-financial-organizations-can-overcome" target="_blank">Global Hitachi</a>). The massive changes in regulatory compliance (such as the Dodd-Frank Act and ALLL of the US ) make it harder for the banking business to maintain profit. However, this is not the end. The applications of Robo-advisory and algorithmic trading are making the competition harder day by day.
+Financial Services are under high competition now. Even entrepreneurs are targeting this industry. According to the Goldman Sachs insight, more than 4.7 trillion dollars in revenue might be directed to startups from traditional financial MNCs (Source: <a href="https://global.hitachi-solutions.com/blog/top-10-challenges-banking-financial-organizations-can-overcome" target="_blank" rel="nofollow">Global Hitachi</a>). The massive changes in regulatory compliance (such as the Dodd-Frank Act and ALLL of the US ) make it harder for the banking business to maintain profit. However, this is not the end. The applications of Robo-advisory and algorithmic trading are making the competition harder day by day.
 
 ## Banking:-  
 
@@ -270,15 +270,16 @@ Source: CollegeDunia
 Professionals with more than one years of expertise in the BFSI area are required in the workplace. The BFSI sector has immense potential for newcomers and working professionals will benefit through this education. Therefore, a thorough study is essential to achieve your dream of a data science career in BFSI industries.
 
 Non-BFSI professionals who want to learn about the most up-to-date technology, data science, artificial intelligence, data analysis, and business analyst methodologies that drive strategic development can learn through Learnbay's <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA/featured" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/?original_referer=http%3A%2F%2Flocalhost%3A3001%2F" target="_blank">Linkedin</a>, <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
-### **Bibliography:**
+
+### Bibliography:-
 
 
-<a href="https://360digitmg.com/applications-of-data-science-in-finance-and-insurance" target="_blank">https://360digitmg.com/applications-of-data-science-in-finance-and-insurance</a>
+<a href="https://360digitmg.com/applications-of-data-science-in-finance-and-insurance" target="_blank" rel="nofollow">https://360digitmg.com/applications-of-data-science-in-finance-and-insurance</a>
 
-<a href="https://activewizards.com/blog/" target="_blank">https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/</a>
+<a href="https://activewizards.com/blog/" target="_blank" rel="nofollow">https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/</a>
 
-<a href="https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp" target="_blank">https://www.investopedia.com/ask/answers/</a>
+<a href="https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp" target="_blank" rel="nofollow">https://www.investopedia.com/ask/answers/</a>
 
-<a href="https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies" target="_blank">https://financialservices.gov.in/</a>
+<a href="https://financialservices.gov.in/insurance-divisions/List-of-Insurance-Companies" target="_blank" rel="nofollow">https://financialservices.gov.in/</a>
 
-<a href="https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary" target="_blank">https://www.payscale.com/research/IN/</a>
+<a href="https://www.payscale.com/research/IN/Industry=Insurance_and_Financial_Services/Salary" target="_blank" rel="nofollow">https://www.payscale.com/research/IN/</a>

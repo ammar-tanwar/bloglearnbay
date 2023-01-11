@@ -42,15 +42,15 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 - AI is expected to contribute 15.7$ trillion to the global economy by 2023.
 - The GDP of China is estimated to see a hike of 26% with the integration of AI.
 - Companies that have combined their workforce and processes with AI will increase their cash flow by 120% by 2030.
-- Artificial intelligence will create 8.9 million <a href="https://blog.learnbay.co/different-jobs-opportunities-of-data-science" target="_blank">job opportunities</a> in the US by 2025.
+- Artificial intelligence will create 8.9 million <a href="https://blog.learnbay.co/different-jobs-opportunities-of-data-science" target="_blank" rel="nofollow">job opportunities</a> in the US by 2025.
 - 40% of business proprietors say that the cost of technology and AI expertise is the main drawback of the limitation of AI.
-- AI-enhanced voice assistants will be utilized by <a href="https://www.statista.com/statistics/973815/worldwide-digital-voice-assistant-in-use/" target="_blank">8 billion</a> users by 2023.
+- AI-enhanced voice assistants will be utilized by <a href="https://www.statista.com/statistics/973815/worldwide-digital-voice-assistant-in-use/" target="_blank" rel="nofollow">8 billion</a> users by 2023.
 - 66,000 is the highest number of Alexa's inventory skills accessible in the US.
 - The global GDP has to thank AI for an estimated growth of 15.7$ trillion by 2030.
 - The investment in AI has multiplied by 6x since 2000.
 - Around 77% of today's devices feature one or the other form of AI.
 
-**Source:** <a href="https://www.bloomberg.com/news/articles/2017-06-28/ai-seen-adding-15-7-trillion-as-game-changer-for-global-economy?leadSource=uverify%20wall" target="_blank">Bloomberg</a>
+**Source:** <a href="https://www.bloomberg.com/news/articles/2017-06-28/ai-seen-adding-15-7-trillion-as-game-changer-for-global-economy?leadSource=uverify%20wall" target="_blank" rel="nofollow">Bloomberg</a>
 
 ## AI Stats by Industry
 
@@ -60,7 +60,7 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 - The complete expense of AI in the retail sector will be valued at 7.3$ billion by the end of 2022.
 - As per the ACFE (Association of Certified Fraud Examiners), 13% of organizations have added artificial intelligence and <a href="https://blog.learnbay.co/necessity-of-machine-learning-in-retail" target="_blank">machine learning</a> in their work to detect and avoid fraud in retail transactions.
 
-**Source** <a href="https://www.forbes.com/sites/louiscolumbus/2019/08/01/ai-is-predicting-the-future-of-online-fraud-detection/" target="_blank">Forbes</a>
+**Source** <a href="https://www.forbes.com/sites/louiscolumbus/2019/08/01/ai-is-predicting-the-future-of-online-fraud-detection/" target="_blank" rel="nofollow">Forbes</a>
 
 ### 2. AI and sales   
 
@@ -73,20 +73,20 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 ### 3. AI and Marketing  
 
 - 40% of SMBs do not have AI technology for digital transformation.
-- 28% of the top-performing organizations have leveraged AI for their[ <a href="https://www.youtube.com/watch?v=gALvhMrTFRw&list=PLl1gyDCKkiQTYB_qge-1zuhDUD9FCg3kN&index=2" target="_blank">marketing</a>.
+- 28% of the top-performing organizations have leveraged AI for their[ <a href="https://www.youtube.com/watch?v=gALvhMrTFRw&list=PLl1gyDCKkiQTYB_qge-1zuhDUD9FCg3kN&index=2" target="_blank" rel="nofollow">marketing</a>.
 - 64% of the big companies have integrated AI for automating a specified marketing task or activity.
 - 29% of huge organizations have AI and bots to drive marketing campaigns and increase customer experience.
 - 64% of marketers believe that B2B AI has added value to their sales and marketing strategy.
 - 12% of SMEs and SMBs have implied AI in their marketing strategy for better customer satisfaction.
 - 40% of the marketing and sales leaders believe that Virtual reality(VR) will be one big tool to increase customer experience.
 
-**Sources:** <a href="https://financesonline.com/artificial-intelligence-statistics/" target="_blank">Financesonline</a>
+**Sources:** <a href="https://financesonline.com/artificial-intelligence-statistics/" target="_blank" rel="nofollow">Financesonline</a>
 
 ### 4. AI and customer service   
 - 73% of global businesses have yet to adopt AI for customer service.
 - AI operates 15% of today's international customer service.
 
-**Sources:** <a href="https://www.oberlo.in/blog/artificial-intelligence-statistics" target="_blank">oberlo.in</a>
+**Sources:** <a href="https://www.oberlo.in/blog/artificial-intelligence-statistics" target="_blank" rel="nofollow">oberlo.in</a>
 
 
 ## AI Stats by Application 
@@ -104,7 +104,7 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 - 25% of the respondents use Alexa.
 - 19% of the respondents use Cortana as a digital assistant.
 
-**Sources:** <a href="https://voicebot.ai/2019/04/28/microsoft-releases-voice-assistant-usage-report-finds-apple-siri-and-google-assistant-tied-at-36-and-41-of-respondents-have-privacy-concerns/" target="_blank">Voicebot.ai</a>
+**Sources:** <a href="https://voicebot.ai/2019/04/28/microsoft-releases-voice-assistant-usage-report-finds-apple-siri-and-google-assistant-tied-at-36-and-41-of-respondents-have-privacy-concerns/" target="_blank" rel="nofollow">Voicebot.ai</a>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-3.jpg" style="width:100%" class="img" alt="A bar graph shows the data for questions answered correctly by selected digital assistants,   Google Assistant, Siri, and Alexa.
 The horizontal axis represents the types of input voice data e.g local, commerce, navigation, information, and command. The vertical axis represents the percentage of accuracy. 
@@ -140,7 +140,7 @@ Alexa: approx 65%"/>
 - 38% of consumers like to use chatbots.
 - The global chatbot market will rise from 10.5 billion by 2026 with a CAGR of 23.5%.
 
-**Sources:** <a href="https://www.marketsandmarkets.com/PressReleases/smart-advisor.asp" target="_blank">MarketsandMarkets</a>
+**Sources:** <a href="https://www.marketsandmarkets.com/PressReleases/smart-advisor.asp" target="_blank" rel="nofollow">MarketsandMarkets</a>
 
 ### 3. NLP (Natural language processing)
 
@@ -149,7 +149,7 @@ Alexa: approx 65%"/>
 - Today NLP is one of the three in-demand skills needed in the tech market.
 - The AI smart speaker with a voice assistant developed on NLP will be worth 19$ billion by 2027.
 
-**Sources:** <a href="https://www.benzinga.com/pressreleases/22/08/n28571425/global-conversational-artificial-intelligence-ai-and-voice-cloning-market-report-2022-2027-leading" target="_blank">beniznga</a>
+**Sources:** <a href="https://www.benzinga.com/pressreleases/22/08/n28571425/global-conversational-artificial-intelligence-ai-and-voice-cloning-market-report-2022-2027-leading" target="_blank" rel="nofollow">beniznga</a>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-4.png" style="width:100%" class="img" alt="A bar graph of estimated revenue earned by natural language processing around the world.  The horizontal axis represents years, the vertical axis reresents the revenue in dollar. The data is as follows:
 2017 - less than 5 billion dollar
@@ -172,7 +172,7 @@ Alexa: approx 65%"/>
 - 30% of the drivers say cruise control makes driving safe on the road.
 - Volkswagen invested 2.6$ billion in self-driving car developer Argo.
 
-**Source:** <a href="https://www.globenewswire.com/en/news-release/2021/08/06/2276438/0/en/At-22-7-CAGR-Global-Autonomous-Cars-Market-Share-Revenue-Expected-to-Reach-USD-64-88-Billion-by-2026-FnF-Research.html" target="_blank">globalnewswire</a>
+**Source:** <a href="https://www.globenewswire.com/en/news-release/2021/08/06/2276438/0/en/At-22-7-CAGR-Global-Autonomous-Cars-Market-Share-Revenue-Expected-to-Reach-USD-64-88-Billion-by-2026-FnF-Research.html" target="_blank" rel="nofollow">globalnewswire</a>
 
 ## Artificial intelligence and Employment Stats
 
@@ -187,7 +187,7 @@ Alexa: approx 65%"/>
 - 61% of enterprises and organizations may employ a CAIO - Chief AI officer.
 - Forrester forecasts 8.9 million cognitive jobs in the US before 2025. Cognitive jobs like motoring robot professionals, data scientists, and content curators.
 
-**Sources:** <a href="https://www.businessinsider.com/is-your-jobs-safe-from-the-rise-of-robots-2017-6" target="_blank">Business insider</a>
+**Sources:** <a href="https://www.businessinsider.com/is-your-jobs-safe-from-the-rise-of-robots-2017-6" target="_blank" rel="nofollow">Business insider</a>
 
 ## Future Stats Of AI
 

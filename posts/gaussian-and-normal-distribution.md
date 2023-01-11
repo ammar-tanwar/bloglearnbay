@@ -13,9 +13,8 @@ h1: "Normal and Gaussian Distribution"
 id: "gaussian-and-normal-distribution"
 tableData:
   [
- Gaussian Distribution,
- 
-    
+    Introduction, Definition, Normal distribution Properties, Standard Deviation in Normal Distribution, Skewness, Kurtosis, Normal Distribution Usage in Finance, Limitations of Normal Distribution in Finance,  Where to learn more 
+
   ]
 ---
 
@@ -35,11 +34,11 @@ You all know the basic meaning of mean, median, and mode. The mean is an average
 
 In the Normal Distribution, mean, median, and mode values are all the same. If the values generate skewness, then it is not normally distributed. The normal Distribution is very important in statistics because it fits many occurrences, such as heights, blood pressure, measurement errors, and numerical values.
 
-### Definition
+### Definition   
 
 The density function of probability for a constant random variable inside a system defines the Normal Distribution. Assuming that f(x) is the probability density function and X is a random variable, it provides a function integrated across the domain or interval (x to x + dx). The frequency of random variable X is given by taking values within x and x+dx into account.
 
-## Normal distribution Properties
+## Normal distribution Properties  
 
 ### Standard Deviation in Normal Distribution
 
@@ -83,7 +82,7 @@ plt.show()
 
 The above code shows the Gaussian Distribution with a 99% of confidence interval, a standard deviation of 3, and a mean of 0.
 
-### Skewness
+### Skewness   
 
 Skewness means the degree upto which the symmetric Distribution is maintained. When the left side tail is longer than the right side tail, the data set's Distribution has a negative skewness(less than zero). And if the right side tail is longer, the skewness is positive.
 
@@ -95,7 +94,7 @@ Kurtosis measures the width of the Distribution's tail end concerning its tails.
 
 Normal Distribution shows a 3.0 kurtosis level.
 
-## Normal Distribution Usage in Finance
+## Normal Distribution Usage in Finance  
 
 Traders can use standard deviations to suggest suitable trades. This trading is often done in extremely short periods because bigger periods make picking entry and exit spots considerably more difficult.
 
@@ -105,12 +104,12 @@ In the same way, many statistical theories run under the premise of following a 
 
 Price fluctuations of over three standard deviations outside the mean had already occurred more frequently than predicted under a normal distribution. Whether an asset has followed a normal distribution for long, there is no guarantee that previous performance informs future possibilities.
 
-### Limitations of Normal Distribution in Finance
+### Limitations of Normal Distribution in Finance  
 
 Normal Distribution has some constraints when it comes to <a href="https://blog.learnbay.co/banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package" target="_blank">financing</a>, as its implementations in finance are restricted, like the expected stock market returns, which are not supported by normal Distribution. Prices generally adhere to a more right-skewed log-normal distribution having wider tails. As a result, depending excessively on a bell curve for forecasting these occurrences might provide incorrect results.
 
 It's hard for most analysts to solve this problem as the statistical distribution to be used is often unknown.
 
-## Where to learn more
+## Where to learn more   
 
 That concludes the explanation of the Normal Distribution; perhaps, you felt that the Distribution was useful. You will learn much more about Normal Distribution in statistics from a revered curriculum. Read our <a href="https://blog.learnbay.co/" target="_blank">blogs</a> and visit <a href="https://www.learnbay.co/" target="_blank">Learnbay</a> to learn more about the topic.

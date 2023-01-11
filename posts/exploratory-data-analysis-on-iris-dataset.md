@@ -161,12 +161,14 @@ plt.plot(bin_edges[1:], cdf)
 
 
 
+
+
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iris4.png"   class="img" alt="A vector graph ranges from 1.1 to 1.9 on the x-axis and 0.0 to 1.0 on the Y-axis,  where we have two curved lines, coloured orange for CDF and blue for PDF.
 The graph also contains two green vector lines and two red vector lines. The first green vector line ranges from the X-axis- 1.350 to Y- axis 0.2, and the second green vector line ranges from X-axis- 1.6 to Y-axis 0.82. 
 Similarly, the first red vector line ranges from X-axis 1.5 to Y-axis 0.25, and the second red vector line ranges from X-axis 1.6 to Y-axis 0.25."/>
 
 
-
+```
 Mean, Median, and Std-Dev:
 
 print("Means:")
@@ -195,6 +197,8 @@ Std-dev:
 0.546347874526844
 
 0.4651881339845203
+
+```
 
 <a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">Learnbay</a> provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
 

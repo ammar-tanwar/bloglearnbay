@@ -45,15 +45,15 @@ As a full-stack developer, you must be proficient in various front-end and back-
 
 ### Client-Side/Front-End Web Developer Tools
 
-### 1. <a href="https://angularjs.org/" target="_blank">Angular.js</a>  
+### 1. <a href="https://angularjs.org/" target="_blank" rel="nofollow">Angular.js</a>  
 
 Angular.js is a framework created by Google that starts with HTML. It is employed to control a dynamic view. It improves HTML in value utilization.
 
-### 2. <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>    
+### 2. <a href="https://getbootstrap.com/" target="_blank" rel="nofollow">Bootstrap</a>    
 
 An HTML and CSS framework compatible with JavaScript is called Bootstrap. It was designed by Twitter to decrease the amount of code required for web development.
 
-### 3. <a href="https://get.foundation/" target="_blank">Foundation</a> 
+### 3. <a href="https://get.foundation/" target="_blank" rel="nofollow">Foundation</a> 
 
 The CSS (Cascading Style Framework) family is termed as Foundation. On this basis, it is simpler to construct responsive web UI and websites. Additionally to support JavaScript and HTML templates, it is flexible and adaptable.
 
@@ -61,27 +61,27 @@ When it comes to the trending full-stack web developer tools for the front-end n
 
 ## Programming Languages for Front-end Web Development 
 
-### 1. <a href="https://www.php.net/" target="_blank">PHP</a> 
+### 1. <a href="https://www.php.net/" target="_blank" rel="nofollow">PHP</a> 
 
 Web development is suited to the coding language PHP or Hypertext Preprocessor. HTML allows for its integration. The software is open source and available for all coding purposes.
 
-### 2. <a href="https://html.com/html5/" target="_blank">HTML5</a>  
+### 2. <a href="https://html.com/html5/" target="_blank" rel="nofollow">HTML5</a>  
 
 HTML standard's fifth major revision is HTML5. The website uses it as its primary markup language. The markup language defines the behavior of web pages. It can now be used to create cross-platform applications and supports Markup and API for complicated web applications.
 
-### 3. <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS3</a>   
+### 3. <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="nofollow">CSS3</a>   
 
 CSS3 is a language for creating stylesheets. When creating a web page using markup languages, it is utilized to define presentational elements. CSS3 is divided into several functional and independent components. Each component adds new capabilities and broadens already established functions.
 
-### 4. <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a> 
+### 4. <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="nofollow">SQL</a> 
 
 SQL is basically a standard query language. It was made with two key goals in mind. In terms of processing data streams in the relational data stream management system, it is used to edit data that is stored in relational database management systems. It provides permissions on the tables, allowing you to manage, edit, view, or delete the data from the database; as a result, it becomes extremely secure and due to the convenience of use, data is easily updated, deleted, and inserted in the database.
 
-### 5. <a href="https://www.python.org/" target="_blank">Python</a>  
+### 5. <a href="https://www.python.org/" target="_blank" rel="nofollow">Python</a>  
 
-Python is a potent programming language with many applications. Python is compatible with many various programming models, including object-oriented programming. The Python Software Foundation, a nonprofit organization, is in charge of managing Python resources. All the resources of Python are applied in web development. The <a href="https://blog.learnbay.co/basics-of-functions-in-python-a-glance" target="_blank">basics of python</a> will not be enough to become a successful full-stack developer but this much knowledge is enough to make you eligible for mastering python for web development.
+Python is a potent programming language with many applications. Python is compatible with many various programming models, including object-oriented programming. The Python Software Foundation, a nonprofit organization, is in charge of managing Python resources. All the resources of Python are applied in web development. The <a href="https://blog.learnbay.co/basics-of-functions-in-python-a-glance" target="_blank" rel="nofollow">basics of python</a> will not be enough to become a successful full-stack developer but this much knowledge is enough to make you eligible for mastering python for web development.
 
-### 6. <a href="https://www.javascript.com/" target="_blank">JavaScript</a> 
+### 6. <a href="https://www.javascript.com/" target="_blank" rel="nofollow">JavaScript</a> 
 
 JavaScript is a programming language and just-in-time compiler. These Prototypes facilitate object orientation. It is applied to the creation of responsive, interactive web pages. In web development, chatbots are created using this language since it provides end-to-end solutions.
 
@@ -89,15 +89,15 @@ JavaScript is a programming language and just-in-time compiler. These Prototypes
 
 ## Back-end Web Developer Tools 
 
-### 1. <a href="https://www.djangoproject.com/" target="_blank">Django</a> 
+### 1. <a href="https://www.djangoproject.com/" target="_blank" rel="nofollow">Django</a> 
 
 A web framework created in Python is called Django. The amount of code required to construct an application in Django is greatly reduced, proving it to be very fast and reliable. Although this is not much on the focus but this full-stack web developer tool can do a lot of unbelievable magic.
 
-### 2. <a href="https://nodejs.org/" target="_blank">NodeJS</a> 
+### 2. <a href="https://nodejs.org/" target="_blank" rel="nofollow">NodeJS</a> 
 
 NodeJS is a run-time environment for JavaScript. It is applied to server-side processes to build dynamic web pages. Its architecture is based on events. The Node.js Foundation is in charge of its upkeep. It only uses one language to program client-side and server-side, following the Javascript paradigm.
 
-### 3. <a href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a>    
+### 3. <a href="https://rubyonrails.org/" target="_blank" rel="nofollow">Ruby on Rails</a>    
 
 A server-side program that is free and open-source is called Ruby on Rails. The MVC framework Rails offers standard choices for a web service and a database. Many additional frameworks in other languages have been impacted by it.
 
@@ -107,11 +107,11 @@ A server-side program that is free and open-source is called Ruby on Rails. The 
 
 RDBMSs, including MySQL, are conventional databases that employ SQL in their operations. Additionally, it is a well-known and widely utilized database.
 
-### 2. <a href="https://www.mongodb.com/" target="_blank">MongoDB</a> 
+### 2. <a href="https://www.mongodb.com/" target="_blank" rel="nofollow">MongoDB</a> 
 
 A NoSQL database called MongoDB is created for modern programmers. SQL is not required in MongoDB because it is a document-based data algorithm. There is a cloud-based variant accessible from MongoDB with high-security standards upheld.
 
-### 3. <a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a> 
+### 3. <a href="https://www.postgresql.org/" target="_blank" rel="nofollow">PostgreSQL</a> 
 
 Relational database management system PostgreSQL is free and open source. It can manage online services and data warehouses with several concurrent users. This tool is also getting gradual popularity as a reliable full-stack web developer tool.
 

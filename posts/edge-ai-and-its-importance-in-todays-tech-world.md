@@ -62,7 +62,7 @@ And this is only the beginning! In the future, edge AI will likely be used in ev
 
 ### Autonomous Cars:-    
 
-- Future <a href="https://www.youtube.com/watch?v=YU6l-p2ekRk" target="_blank">autonomous vehicles</a> will be able to easily recognize road signs, other vehicles, and roadways by interpreting data and images in real-time, providing great relief and security to their users.
+- Future <a href="https://www.youtube.com/watch?v=YU6l-p2ekRk" target="_blank" rel="nofollow">autonomous vehicles</a> will be able to easily recognize road signs, other vehicles, and roadways by interpreting data and images in real-time, providing great relief and security to their users.
 
 - Additionally, the autonomous vehicle can quickly respond to audiovisual stimuli or instantly recognize changes in the environment using images and video analysis. For example, they could be used in phones to recognize when a user is getting driven so that the phone can automatically enter hands-free mode.
 

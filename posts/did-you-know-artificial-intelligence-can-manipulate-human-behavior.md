@@ -31,7 +31,7 @@ Businesses and consumers look to be going in opposite ways in the past. While co
 
 In this blog, we'll look at how Artificial Intelligence (AI) may detect defects in human behavior and utilize them to make decisions.
 
-<a href="https://youtu.be/haaNnBmyRiM)" target="_blank">Artificial intelligence (AI)</a> has a lot of potential, but it also has a nasty side. This is why so much AI research is being done to ensure that the technology being developed is being used for the proper goals. AI can learn to discover vulnerabilities in human routines and behaviors and exploit them to affect human decision-making, according to a recent study. This is a fascinating breakthrough, and it exemplifies how artificial intelligence can be utilized for good.
+<a href="https://youtu.be/haaNnBmyRiM)" target="_blank" rel="nofollow">Artificial intelligence (AI)</a> has a lot of potential, but it also has a nasty side. This is why so much AI research is being done to ensure that the technology being developed is being used for the proper goals. AI can learn to discover vulnerabilities in human routines and behaviors and exploit them to affect human decision-making, according to a recent study. This is a fascinating breakthrough, and it exemplifies how artificial intelligence can be utilized for good.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-2.jpg" style="width:100%" class="img" alt="A robotic arm and a human arm approach a human brain  from two opposite sides. This anticipates the optimization of workflows through AI."/>
 
@@ -59,7 +59,7 @@ Now the debate is whether or not an intelligent computer can be deemed aware. As
 
 Certainly, we are all aware that AI is infiltrating every aspect of life, from our phones and laptops to our employment. **But, how can we introduce AI for a good purpose?** 
 
-The <a href="https://www.csiro.au/en/" target="_blank">CSIRO</a> ran a series of tests in which people were asked to play games versus a computer. We'll look at three of their experiments in this blog to see how they turned out.
+The <a href="https://www.csiro.au/en/" target="_blank" rel="nofollow">CSIRO</a> ran a series of tests in which people were asked to play games versus a computer. We'll look at three of their experiments in this blog to see how they turned out.
 
 The first experiment consisted primarily of red and blue-colored ball games, in which the AI learned the participant's patterns of choices and ran them, resulting in an accuracy of over 70%.
 

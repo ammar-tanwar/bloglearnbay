@@ -76,7 +76,7 @@ Small enterprises and businesses usually recruit a **Full-stack developer** to h
 
 ## Do Full Stack Developers have a Future?      
 
-By 2024 there will be 8,53,000 full-stack developer job vacancies <a href="https://www.bls.gov/opub/mlr/2015/article/occupational-employment-projections-to-2024.htm" target="_blank">United States Bureau of Labor Statistics</a>. This job is multi-dimensional, and the job role will get you a lot of opportunities as firms always want to save their cost resources. Organizations tend to recruit developers who know all the layers of applications and take complete project leadership.
+By 2024 there will be 8,53,000 full-stack developer job vacancies <a href="https://www.bls.gov/opub/mlr/2015/article/occupational-employment-projections-to-2024.htm" target="_blank" rel="nofollow">United States Bureau of Labor Statistics</a>. This job is multi-dimensional, and the job role will get you a lot of opportunities as firms always want to save their cost resources. Organizations tend to recruit developers who know all the layers of applications and take complete project leadership.
 
 Moreover, **full-stack developers** are very high-paid professionals.
 
@@ -148,7 +148,7 @@ The tech stack includes the  **frontend, backend, and database management** tech
 
 - **N [Node.js] -** Javascript runtime environment on a server side.
 
-### **1.** Frontend stack**
+### 1. Frontend stack
 
 It deals with the interface and website that the user gets to see or interact with. The Developer has to innovate and create graphics while designing this. **UI/UX** is a very challenging and crucial task. The primary technology required for frontend development is **HTML5, Javascript, CSS3, jQuery, ReactJs, Angular, etc.**
 

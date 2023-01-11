@@ -35,7 +35,7 @@ All the insights given on further are provided directly by Data Scientists in va
 
 ## Getting into the field of Data Science
 
-When asked about how to easily get into the field, a data scientist told that there are many ways to do that by coming up with any one of important processes of the field. All that is required is right knowledge upon whatsoever process you choose and must be swift in pacing up with the levels of the processes. There are[ Data science courses](http://learnbay.co/)<span style="text-decoration:underline;"> </span>available in various colleges and also in education centers that will not only help you have the knowledge on the fundamentals of the field but also support you in finding a deserving company.
+When asked about how to easily get into the field, a data scientist told that there are many ways to do that by coming up with any one of important processes of the field. All that is required is right knowledge upon whatsoever process you choose and must be swift in pacing up with the levels of the processes. There are <a href="http://learnbay.co/" target="_blank">Data science courses</a> <span style="text-decoration:underline;"> </span>available in various colleges and also in education centers that will not only help you have the knowledge on the fundamentals of the field but also support you in finding a deserving company.
 
 ## Being an intern in Data Science
 
