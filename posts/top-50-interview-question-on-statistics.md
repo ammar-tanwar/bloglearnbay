@@ -1,5 +1,5 @@
 ---
-title:  Top 50 interview question on Statistics
+title:  Top 25 interview question on Statistics
 desc: "Every member and set of members have an equal chance of being included in the sample. Technology, random number generators, or some other sort of change process is needed to get a simple random sample."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-1.jpg"
@@ -9,8 +9,8 @@ category: "Hot Topics"
 author: "Milan" 
 position: "Editor"
 readTime: "10-15 mins"
-h1: "Top 50 interview question on Statistics"
-id: "top-50-interview-question-on-statistics"
+h1: "Top 25 interview question on Statistics"
+id: "top-25-interview-question-on-statistics"
 tableData:
   [
     Interview question on Statistics, 1. What are the different types of Sampling?, 2. What is the confidence interval? What is its significance?, 3. What are the effects of the width of the confidence interval?, 4. What is the level of significance (Alpha)?, 5. What are Skewness and Kurtosis? What does it signify?, 6. What are Range and IQR? What does it signify?, 7. What is the difference between Variance and Standard Deviation?, 8. What is selection Bias? Types of Selection Bias?, 9. What are the ways of handling missing Data?, 10. What are the different types of the probability distribution? Explain with example?, 11. What are the statistical Tests? List Them., 12. How do you calculate the sample size required?, 13. What are the different Biases associated when we sample?, 14. How to convert normal distribution to standard normal distribution?, 15. How to find the mean length of all fishes in a river?, 16. What do you mean by the degree of freedom?, 17. What do you think if DF is more than 30?, 18. When to use t distribution and when to use z distribution?,  19. What are H0 and H1? What is H0 and H1 for the two-tail test?, 20. What is the Degree of Freedom?, 21. How to calculate p-Value?, 22. What is ANOVA?, 23. What is ANCOVA?, 24. What is the difference between ANOVA and ANCOVA?, 25. What are t and z scores? Give Details.
@@ -388,7 +388,7 @@ Where:
 
 If you have a larger sample (over 30), the t-distribution and z-distribution look pretty much the same.
 
- **To know more about Data Science, Artificial Intelligence, Machine Learning, and Deep Learning programs** <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/" target="_blank" rel="nofollow">visit</a>  **our** <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/" target="_blank" rel="nofollow">website</a> <a href="https://web.archive.org/web/20220124040955/http://www.learnbay.co/" target="_blank">www.learnbay.co</a>
+ **To know more about Data Science, Artificial Intelligence, Machine Learning, and Deep Learning programs** visit **our** website <a href="https://www.learnbay.co/" target="_blank" >www.learnbay.co</a>
 
 **Follow us on:** 
 

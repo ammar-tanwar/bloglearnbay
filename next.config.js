@@ -119,6 +119,12 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/top-50-interview-question-on-statistics',
+        destination: '/top-25-interview-question-on-statistics',
+        permanent: true,
+      },
+
     ]
   },
 }

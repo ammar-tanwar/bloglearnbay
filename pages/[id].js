@@ -72,10 +72,12 @@ export default function Post({ postData, posts }) {
           }}/>
     {/* Schema Generator End */}
         </Head>
+
+
         <div className={styles.DivImg}>
           <img
             src={postData.img}
-            alt="Learnbay"
+            // alt={postData.alt}
             width="100%"
             height="450px"
           ></img>
