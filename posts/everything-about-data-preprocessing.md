@@ -42,7 +42,8 @@ Data collection & Assembly
 Data processing 
 Data Exploration & Visualization
 Model Building
-Model Evaluation"/>
+Model Evaluation
+"/>
 
 1. StandardScaler
 
@@ -52,7 +53,7 @@ Model Evaluation"/>
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data1.png"   class="img" alt="A standard scaler formula reads lowercase x subscript lowercase i end subscript minus mean of lowercase x divided by standard deviation of lowercase x."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data1.png"   class="img" alt="A standard scaler formula reads lowercase x subscript lowercase i end subscript minus mean of lowercase x divided by standard deviation of lowercase x. "/>
 
 1. MinMaxScaler
 
@@ -63,7 +64,8 @@ Model Evaluation"/>
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data2.png"   class="img" alt="A MinMaxScaler formula  lowercase x subscript lowercase i  that  Subtract min of column with lower case (x) & divides by the difference between max lowercase(x) & min lowercase(X)."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data2.png"   class="img" alt="A MinMaxScaler formula  lowercase x subscript lowercase i  that  Subtract min of column with lower case (x) & divides by the difference between max lowercase(x) & min lowercase(X).
+"/>
 
 
 1. Robust Scaler
@@ -75,7 +77,8 @@ Model Evaluation"/>
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data3.png"   class="img" alt="A formula for Robust Scaler where  lowercase x subscript lowercase i subtract the 1st-quartile & divide them by the difference between Q3rd-quartile lowercase(x) & 1st-quartile lowercase (X)."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data3.png"   class="img" alt="A formula for Robust Scaler where  lowercase x subscript lowercase i subtract the 1st-quartile & divide them by the difference between Q3rd-quartile lowercase(x) & 1st-quartile lowercase (X).
+"/>
 
 
 
@@ -88,10 +91,11 @@ Model Evaluation"/>
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data4.png"   class="img" alt="A normalizer formula that divides each parameter value by magnitude where lowercase x subscript lowercase i divides with the squre root of lowercase x subscript lowercase i with exponential 2 + lowercase y subscript lowercase i with exponential 2 + lowercase z subscript lowercase i with exponential 2." />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data4.png"   class="img" alt="A formula for Robust Scaler where  lowercase x subscript lowercase i subtract the 1st-quartile & divide them by the difference between Q3rd-quartile lowercase(x) & 1st-quartile lowercase (X).
+"/>
 
 
-6. Binarization
+1. Binarization
 
 
 
@@ -168,8 +172,6 @@ Model Evaluation"/>
 * Limitation – Hashed value to word mapping is not possible
 
 15. Image Processing using skimage
-
-
 
 * skimage doesn’t come with anaconda. install with ‘pip install skimage’
 * Images should be converted from 0-255 scale to 0-1 scale.

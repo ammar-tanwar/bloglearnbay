@@ -78,13 +78,20 @@ After importing TensorFlow into Python, you can begin programming using the foll
 
 ### Output/Explanation:-
 
-1. In this section, we will first implement the code by importing the TensorFlow library.
-2. In the second phase, we built two nodes in machine learning models, Node1 and Node2, which are in the form of tf.int32.
-3. In the third stage, the code creates a new value by combining both nodes as distributed training, resulting in a new node named Node 3, also in the form of tf.int32.
-4. The code then constructs a session object by utilizing the TensorFlow library's Python 3 compatibility layer (v1).
-5. Then, we'll use the session object to perform operations on nodes.
-6. Finally, after creating a session object with executing methods, we can use it to print the output of Node 3 by launching an object session.
-7. Eventually, the code starts a TensorFlow session object and prints the results in Node 3.
+  1. In this section, we will first implement the code by importing the TensorFlow library.
+   
+  2. In the second phase, we built two nodes in machine learning models, Node1 and Node2, which are in the form of tf.int32.
+   
+  3. In the third stage, the code creates a new value by combining both nodes as distributed training, resulting in a new node named Node 3, also in the form of tf.int32.
+
+  4. The code then constructs a session object by utilizing the TensorFlow library's Python 3 compatibility layer (v1).
+  5. Then, we'll use the session object to perform operations on nodes.
+
+
+  6. Finally, after creating a session object with executing methods, we can use it to print the output of Node 3 by launching an object session.
+
+
+  7. Eventually, the code starts a TensorFlow session object and prints the results in Node 3.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tplfm-3.jpg" style="width:100%" class="img" alt="An illustration shows a python professional seated in front of a big laptop display is working on a laptop. The text on the big display reads, 'scikit learn' accompanied by it's logo."/>
 
@@ -113,13 +120,13 @@ df = pd.DataFrame(iris.data, columns = iris.feature_names)
 
 ### Output/Explanation:-
  
-1. The initial step is to import datasets from the existing SKlearn data set module.
+  1. The initial step is to import datasets from the existing SKlearn data set module.
 
-2. The dataset must then be loaded using iris = load iris in the second step ().
+  2. The dataset must then be loaded using iris = load iris in the second step ().
 
-3. After uploading an iris data set, a data frame is named PD.DataFrame(iris. data, columns = iris. feature names) is constructed.
+  3. After uploading an iris data set, a data frame is named PD.DataFrame(iris. data, columns = iris. feature names) is constructed.
 
-4. The code then learns and tests the data set by calling load iris() on a pandas data frame object.
+  4. The code then learns and tests the data set by calling load iris() on a pandas data frame object.
 
 Following such a step, we can easily insert any Scikit learn data set, in the machine learning algorithm.
 
@@ -136,6 +143,8 @@ The PyTorch tensor is a multi-dimensional array comparable to NumPy arrays. The 
 Basically, PyTorch Tensor has two characteristics:
 
 - The quantity of dimensions is known as rank.
+
+
 - Dimension of an array or matrix called shape.
 
 ### Here is the basic programming and description that will undoubtedly aid your understanding:-   
@@ -186,14 +195,28 @@ pt2=torch.tensor([[4, 5, 6, 7],
 
 ### Explanation:-
 
-1. The code in this section begins by importing the PyTorch library.
-2. In the second stage, we create a Tensor with only 4 elements and 5 rows.
-3. The tensor's shape is now (4,5).
-4. The following line generates a tensor with 8 elements and 9 rows.
-5. The tensor's shape has changed (8,9).
-6. The final line represents the third tensor once more, with 12 elements and 13 rows.
-7. This tensor's shape has now changed (12,13).
-8. The code will print the following: Tensor pt1: 4 5 6 7 Class of pt1: 3 Class of pt2: 2.
+  1. The code in this section begins by importing the PyTorch library.
+
+
+  2. In the second stage, we create a Tensor with only 4 elements and 5 rows.
+
+
+  3. The tensor's shape is now (4,5).
+
+
+  4. The following line generates a tensor with 8 elements and 9 rows.
+
+
+  5. The tensor's shape has changed (8,9).
+
+
+  6. The final line represents the third tensor once more, with 12 elements and 13 rows.
+
+
+  7. This tensor's shape has now changed (12,13).
+
+
+  8. The code will print the following: Tensor pt1: 4 5 6 7 Class of pt1: 3 Class of pt2: 2.
 
 ## To summarise:-     
 
