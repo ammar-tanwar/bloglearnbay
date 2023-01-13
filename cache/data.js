@@ -88,7 +88,7 @@ export const posts = [{"id":"5-amazing-usages-of-ai-in-the-entertainment-industr
 {"id":"top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2023","title":"Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023"},
 {"id":"top-7-women-full-stack-software-develope-the-inspiration-for-all-women-in-tech","title":"Top 7 Women Full Stack-Software Developer | The Inspiration for all women in Tech"},
 {"id":"top-8-domains-for-data-science-those-offering-tempting-job-opportunities","title":"Top 8 Domains For Data Science Those Offering Tempting Job Opportunities"},
-{"id":"top-50-interview-question-on-statistics","title":"Top 50 interview question on Statistics"},
+{"id":"top-25-interview-question-on-statistics","title":"Top 25 interview question on Statistics"},
 {"id":"top-50-interview-questions-of-machine-learning","title":"Top 50 interview questions of Machine Learning"},
 {"id":"top-data-science-certifications-in-2023-exclusive-to-banking-professionals","title":"Top Data Science Certifications In 2023 - Exclusive To Banking Professionals"},
 {"id":"tuples-an-immutable-derived-datatype","title":"Tuples - An Immutable Derived Datatype"},
