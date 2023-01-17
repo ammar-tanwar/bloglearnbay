@@ -8,6 +8,8 @@ import { sortByDate } from "../utils";
 import { IoTimeOutline } from "react-icons/io5";
 import generateRssFeed from "../lib/generateRss";
 import generateCategoryRssFeed from "../lib/geneRateCategoryRss";
+import Link from 'next/link';
+
 
 import Search from '../components/search'
 import utilStyles from '../styles/utils.module.css'
@@ -57,6 +59,7 @@ export default function blog({ allPostsData }) {
           .map(({ id, date, title, author, readTime, headerImg }) => {
             const url = `/${id}`;
             return (
+              <div><Link href={url}>
               <div
                 className={styles.blog}
                 key={id}
@@ -87,6 +90,8 @@ export default function blog({ allPostsData }) {
                   </span>
                 </div>
               </div>
+              </Link>
+              </div>
             );
           })}
       </section>
@@ -98,6 +103,8 @@ export default function blog({ allPostsData }) {
         let makeUrl = post.toLowerCase().replace(/\s+/g, "-");
         let url = `/category/${makeUrl}`;
         return (
+          
+          
           <section className={styles.categoryPosts} key={i}>
             <span>
               <p className={styles.tagNameH}>
@@ -128,6 +135,7 @@ export default function blog({ allPostsData }) {
                         .toLowerCase()
                         .replace(/\s+/g, "-")}`;
                       return (
+                        <Link href={url}>
                         <div className={styles.categoryPost} key={id}>
                           <div className={styles.leftCategoryPost}>
                             <Image
@@ -172,6 +180,7 @@ export default function blog({ allPostsData }) {
                             </div>
                           </div>
                         </div>
+                        </Link>
                       );
                     }
                   )}
@@ -196,6 +205,7 @@ export default function blog({ allPostsData }) {
                         .toLowerCase()
                         .replace(/\s+/g, "-")}`;
                       return (
+                        <Link href={url}>
                         <div className={styles.categoryPost} key={id}>
                           <div className={styles.leftCategoryPost}>
                             <Image
@@ -240,6 +250,7 @@ export default function blog({ allPostsData }) {
                             </div>
                           </div>
                         </div>
+                        </Link>
                       );
                     }
                   )}

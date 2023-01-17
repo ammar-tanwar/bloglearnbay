@@ -40,12 +40,28 @@ module.exports = {
         destination: '/oops-why-2023-is-too-late-for-video-based-data-science-learning',
         permanent: true,
       },
+      {
+        source: '/oops-why-2023-is-too-late-for-video-Based-data-science-learning',
+        destination: '/oops-why-2023-is-too-late-for-video-based-data-science-learning',
+        permanent: true,
+      },
+
+
+      {
+        source: '/oops-why-2022-is-too-late-for-video-based-data-science-learning',
+        destination: '/oops-why-2023-is-too-late-for-video-based-data-science-learning',
+        permanent: true,
+      },
+
+
 
       {
         source: '/a-few-fascinating-facts-of-artificial-intelligence-in-2022-and-beyond',
         destination: '/a-few-fascinating-facts-about-artificial-intelligence-in-2023-and-beyond',
         permanent: true,
       },
+
+      
 
       {
         source: '/a-few-fascinating-facts-about-artificial-intelligence-in-2022-and-beyond',
@@ -122,6 +138,11 @@ module.exports = {
       {
         source: '/top-50-interview-question-on-statistics',
         destination: '/top-25-interview-question-on-statistics',
+        permanent: true,
+      },
+      {
+        source: '/successful-data-scientist-without-a-tech-degree-yes-i-is-possible',
+        destination: '/successful-data-scientist-without-a-tech-degree-yes-it-is-possible',
         permanent: true,
       },
 

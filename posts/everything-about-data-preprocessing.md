@@ -53,7 +53,7 @@ Model Evaluation
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data1.png"   class="img" alt="A standard scaler formula reads lowercase x subscript lowercase i end subscript minus mean of lowercase x divided by standard deviation of lowercase x. "/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data1.png"   class="img" alt="A standard scaler formula reads lowercase x subscript lowercase i end subscript minus mean of lowercase x divided by standard deviation of lowercase x."/>
 
 1. MinMaxScaler
 
@@ -64,8 +64,7 @@ Model Evaluation
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data2.png"   class="img" alt="A MinMaxScaler formula  lowercase x subscript lowercase i  that  Subtract min of column with lower case (x) & divides by the difference between max lowercase(x) & min lowercase(X).
-"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data2.png"   class="img" alt="A MinMaxScaler formula  lowercase x subscript lowercase i  that  Subtract min of column with lower case (x) & divides by the difference between max lowercase(x) & min lowercase(X)."/>
 
 
 1. Robust Scaler
@@ -77,8 +76,7 @@ Model Evaluation
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data3.png"   class="img" alt="A formula for Robust Scaler where  lowercase x subscript lowercase i subtract the 1st-quartile & divide them by the difference between Q3rd-quartile lowercase(x) & 1st-quartile lowercase (X).
-"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data3.png"   class="img" alt="A formula for Robust Scaler where  lowercase x subscript lowercase i subtract the 1st-quartile & divide them by the difference between Q3rd-quartile lowercase(x) & 1st-quartile lowercase (X)."/>
 
 
 
@@ -91,8 +89,7 @@ Model Evaluation
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data4.png"   class="img" alt="A formula for Robust Scaler where  lowercase x subscript lowercase i subtract the 1st-quartile & divide them by the difference between Q3rd-quartile lowercase(x) & 1st-quartile lowercase (X).
-"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data4.png"   class="img" alt="A normalizer formula that divides each parameter value by magnitude where lowercase x subscript lowercase i divides with the squre root of lowercase x subscript lowercase i with exponential 2 + lowercase y subscript lowercase i with exponential 2 + lowercase z subscript lowercase i with exponential 2."/>
 
 
 1. Binarization

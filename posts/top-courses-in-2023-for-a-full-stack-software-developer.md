@@ -123,7 +123,7 @@ Below are a few clear-cut reasons why you should choose a full stack development
 
 ### I. The demand is high   
 
-The demand for proficient developers has risen in the last few years. The projected revenue of software enterprises was estimated at $237 billion in 2022, according to a <a href="https://kinsta.com/software-engineering-statistics/#:~:text=There%20were%2024.3%20million%20active,are%20younger%20than%2035%20years." target="_blank">software engineering statistics</a> report by Kinsta.
+The demand for proficient developers has risen in the last few years. The projected revenue of software enterprises was estimated at $237 billion in 2022, according to a <a href="https://kinsta.com/software-engineering-statistics/#:~:text=There%20were%2024.3%20million%20active,are%20younger%20than%2035%20years." target="_blank" rel="nofollow">software engineering statistics</a> report by Kinsta.
 
 Tech companies prefer hiring professionals for their invaluable full stack developer skills. With the rise in startups, the demand is only going to increase. But yes, keep in mind that the job market competition is also getting tougher with the increasing demand. You can look at the blog '<a href="https://blog.learnbay.co/how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted" target="_blank">How to Become a Demanding Full stack Developer in 2023</a>.'
 

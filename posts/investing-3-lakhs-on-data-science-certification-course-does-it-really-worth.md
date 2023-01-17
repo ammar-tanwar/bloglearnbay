@@ -83,9 +83,9 @@ Being a dynamic field, data science needs more personalized assistance. As there
 
 As mentioned earlier, certificates become only a decorative entity for a working professional's CV. So don't run after certification courses; instead, you can choose any non-certification program that benefits your next job application in the field of data science.
 
-If you are already working in a core technical domain and own an impressive amount of python, R, java, etc., then you can choose a specific course like <a href="https://www.tensorflow.org/" target="_blank">Tensorflow</a>. This Machine Learning algorithm will fill the gap between your current and targeted data science jobs.
+If you are already working in a core technical domain and own an impressive amount of python, R, java, etc., then you can choose a specific course like <a href="https://www.tensorflow.org/" target="_blank" rel="nofollow">Tensorflow</a>. This Machine Learning algorithm will fill the gap between your current and targeted data science jobs.
 
-## **How much money should you invest in a data science course?**
+## How much money should you invest in a data science course?
 
 Here comes the final answer. Up to 80k INR investment is fair enough to crack a promising career transformation. Yes, it's true because the primary goal of doing a data science course is to upgrade your current experience to such a stage that will let you enter into the world of data science with a good hike.
 
