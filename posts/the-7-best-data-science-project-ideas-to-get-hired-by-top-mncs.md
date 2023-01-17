@@ -4,7 +4,7 @@ desc: "Are you a data science professional looking for the best projects to step
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-1.jpg"
 date: "Jan 16, 2023"
-tag: [ Data science project ideas, data science projects for beginner, best data science projects for resume, real-world data science projects, examples of data scientist projects ]
+tag: [ Data science project ideas, data science projects for beginner, best data science projects for resume, real-world data science projects, examples of data scientist projects, deployement tools for data science projects ]
 category: "Data Science"
 author: "Nivin Biswas"
 position: "Editor"
@@ -22,7 +22,7 @@ tableData:
 
 A weighty data scientist position with a sky-kissing salary is the dream of all data science aspirants. With the increasing demand for data scientists across the world, nowadays, most professionals are getting updated with <a href="https://blog.learnbay.co/the-most-important-skills-of-data-science-to-master-in-2023" target="_blank">data science skills</a>.
 
-But do you know that very few percent of people are landing their dream job? And the most interesting fact is that most of them hold renowned universities or institutional certifications/ degrees. The only thing they lack is a recruiter's attention-grabbing **data science project** portfolio.
+But do you know that very few percent of people are landing their dream job? And the most interesting fact is that most of them hold renowned universities or institutional certifications/degrees. The only thing they lack is a recruiter's attention-grabbing **data science project** portfolio.
 
 Yes, this is the only thing that obstructs the success of a range of highly capable data science aspirants.
 
@@ -39,9 +39,9 @@ Accordingly, this project can aid in calculating the potential impact of climati
 
  **Effective data science tools for this project**  - Data visualization via Microsoft Power BI, Tableau QlikView, etc
 
-(This tool helps to get the time zone of various regions within a certain period).
+(This tool helps to get the time zone of various regions within a certain period.)
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-3.jpg" style="width:100%" class="img" alt="An photo shows a man becoming drowsy while driving. The foreground of the image shows flashing warning signal."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-3.jpg" style="width:100%" class="img" alt="A photo shows a man becoming drowsy while driving. The foreground of the image shows flashing warning signal."/>
 
 
 ### 2. A data science project on the monitoring of Drowsiness in Drivers:-  
@@ -54,7 +54,7 @@ You will just require a system or webcam that can accurately capture the driver'
 
 (With the help of these tools, you can apply data automation, model monitoring, model retraining, and performance monitoring.)
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-4.jpg" style="width:100%" class="img" alt="A photo showsthe face of a girl detected using data science showing an exact gender and age."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-4.jpg" style="width:100%" class="img" alt="A photo shows the face of a girl detected using data science showing an exact gender and age."/>
 
 
 ### 3. Data science project on gender and age detection:-   
@@ -72,7 +72,7 @@ Gender and age detection is fundamentally a computer vision project, and you wil
 
 ### 4. Handwritten digit recognition with 98% efficiency using a neural network:-   
 
-Here in this data science task, you will be ideal for those who have a better handle on deep learning technologies. For this project, you will have access to the MNIST database of handwritten digits. This project is a comprehensive bundle for learning data science and gaining a better understanding of data science technologies.
+This data science project will be ideal for those with a better hold on deep learning technologies. For this project, you will have access to the MNIST database of handwritten digits. This project is a comprehensive bundle for learning data science and gaining a better understanding of data science technologies.
 
 This project is primarily designed to compile and interpret handwritten characters so that they can be processed with a high degree of accuracy. By the end of this project, you will have a better understanding of the valuable abilities of data processing and various library implementations.
 
@@ -91,7 +91,7 @@ In this project, you can quickly discern a person's emotion and how intense the 
 
 (This tool is mostly used to create an (A-sentiment lexicon) that is generally based on semantic interpretation as either positive or negative.)
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-5.jpg" style="width:100%" class="img" alt="A photo shows a  driver holding a steering wheel, with an alert sign flashing from the dashboard display."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-5.jpg" style="width:100%" class="img" alt="A photo suggests forest fire forecasting with a background forest fire."/>
 
 ### 6. Traffic sign recognition for self-driving cars:-       
 
@@ -103,9 +103,9 @@ There are numerous data science projects, which a person can choose based on the
 
 **Tools to be used** :- CNNs (Convolutional Neural Networks)
 
-(This tool is used for image recognition that involves the processing of pixel data).
+(This tool is used for image recognition that involves the processing of pixel data.)
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-6.jpg" style="width:100%" class="img" alt="A photo suggests forest fire forecasting with a background forest fire."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-6.jpg" style="width:100%" class="img" alt="A photo shows a  driver holding a steering wheel, with an alert sign flashing from the dashboard display."/>
 
 ### 7. A Data science project on forest fire forecasting:-   
 
@@ -115,13 +115,13 @@ To forecast forest fires, we can use meteorological data. If we understand the s
 
 **Effective models to be used in this project**:- K-means clustering
 
-(This tool can be easily used for sentiment analysis and prediction of data sets)
+(This tool can be easily used for sentiment analysis and prediction of data sets.)
 
 ## Why does a data science project seem to be so important?   
 
 To understand the significance of <a href="https://blog.learnbay.co/what-is-a-job-ready-capstone-project-and-why-is-it-important-in-ai-and-data-science-course" target="_blank">data science capstone projects</a> for the initialization of a successful career in the field of data science, first, you have to understand the significance of data science in various industrial scenarios.
 
-**Note** : Get a broader idea about the significance of data science in different businesses, you can read the blog <a href="https://blog.learnbay.co/what-is-data-science-uncovering-the-explicit-truth" target="_blank">What is data science? | Uncovering The Explicit Truth</a>.
+**Note:** Get a broader idea about the significance of data science in different businesses, you can read the blog <a href="https://blog.learnbay.co/what-is-data-science-uncovering-the-explicit-truth" target="_blank">What is data science? | Uncovering The Explicit Truth</a>.
 
 You might think I was about to talk about the most trending **data science project for beginners**, but why am I talking about its importance!!
 
