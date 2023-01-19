@@ -65,7 +65,7 @@ Gender and age detection is fundamentally a computer vision project, and you wil
 
 **The goal of this research is to develop a model that can analyze** just one person's face in order to determine that person's age and gender. The classification method will essentially let you determine whether a person is a man or a woman and estimate their change in age. This condition will accurately forecast a person's age between 0 to 100 years.
 
- **Effective tools in this project** :- Application of CNNs, OpenCV, and python library
+ **Effective tools in this project** :- Application of CNNs, OpenCV, and python library.
 
 (This tool helps in various deep learning algorithms and image recognition systems.)
 
