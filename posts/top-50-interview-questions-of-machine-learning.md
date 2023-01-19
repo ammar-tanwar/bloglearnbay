@@ -98,7 +98,7 @@ The examples demonstrate the inverse connection between variance and k. Consider
 
 **KNN Code Snippet:**
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-1.png" class="img" alt="A KNN code Snippet based on a weather prediction model."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-1.PNG" class="img" alt="A KNN code Snippet based on a weather prediction model."/> <br>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-2.png" class="img" alt="A graph of Height versus Hair length.  The horizontal axis, labelled height(cms) ranges from 140 to 200 and a vertical axis, labelled hair length cms) ranges from 0 to 100.  This graphs divides the provided dataset into two groups."/>
 
@@ -132,9 +132,9 @@ The line dividing the dataset into two distinctly categorized groups is known as
 ### 13. What is meant by Kernel Trick?   
 
 **Ans**: <br> 
-**Short Answer:** It enables us to interact in the initial feature space without having to compute data coordinates in a greater space.
+**Short Answer:** <br> It enables us to interact in the initial feature space without having to compute data coordinates in a greater space.
 
-**Long Answer:**
+**Long Answer:** <br>
 
 1. SVMs find the n-1 higher dimensional space to separate a dataset having n features (n-dimensional).
 2. Non-linearly distinct sets of data are not suitable for SVMs.
@@ -154,9 +154,9 @@ The line dividing the dataset into two distinctly categorized groups is known as
 ### 14. Why is SVM called a Large Margin Classifier?
 
 **Ans**:<br>
- **Short Answer:** It positions the decision border so that the separation between the two clusters is maximized.
+ **Short Answer:** <br> It positions the decision border so that the separation between the two clusters is maximized.
 
-**Long Answer:** The hyperplane where the gap from the data sets is maximum should be chosen, which the geometric margin formalizes. This is how it's characterized:
+**Long Answer:**  <br> The hyperplane where the gap from the data sets is maximum should be chosen, which the geometric margin formalizes. This is how it's characterized:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-4.png" class="img" alt="A formula for data sets with geometric margin formalization."/>
 
@@ -188,7 +188,7 @@ _n is the number of features, while m denotes the number of training samples._
 ### 17. What does the C and Gamma parameter in SVM signify?      
 
 **Ans**:<br>
-**Short Answer:**
+**Short Answer:** <br>
 
 The high energy boundaries determining how well an SVM model operates are gamma and cost. An ML model must carefully balance its bias and variance.
 
@@ -198,7 +198,7 @@ Choose a model with the least bias and variance. As a result, you must select th
 
 Using approaches such as Grid search, optimal C values and Gamma may be identified.
 
-**Long Answer:**
+**Long Answer:** <br>
 
 By how much the training examples should be stopped from being incorrectly classified by the SVM operator can be referred to by the C parameter. If the optimizer correctly classifies each of the training points for high C values, it may choose a smaller-margin hyperplane. A rather small C value will cause the optimizer to seek a larger gap between the hyperplane and the points, even though the hyperplane misclassifies numerous points. Misclassified cases should be expected for very small values of C, even if your training data can be separated linearly.
 
@@ -231,7 +231,8 @@ When Gamma is very tiny, the model is too limited and cannot describe the data's
 
 **SVM code snippet:**
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-5.png" class="img" alt="A SVM code snippet based on the the cancer prediction model."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-5.PNG" class="img" alt="A SVM code snippet based on the the cancer prediction model."/>
+
 
 ### 19. What is the Reinforcement Learning technique?   
 
@@ -330,7 +331,7 @@ The Elbow technique calculates total WSS as a function of cluster count: One sho
 
 Notice the elbow at k =3.
 
-**The ideal number of clusters is as follows:**
+**The ideal number of clusters are as follows:**
 
 - Calculate the clustering algorithm (K-means clustering, for example) for various K values. Let's say, changing K's value from 10 to 100 clusters.
 - Calculate the addition of squares in the cluster, WSS, for each value of K.
@@ -359,7 +360,7 @@ Notice the elbow at k =3.
 
 **K-means code snippet:**
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-8.png" class="img" alt="A K - Means clustering snippet that is used for various types of clustering data sets."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-8.PNG" class="img" alt="A K - Means clustering snippet that is used for various types of clustering data sets."/>
 
 ### 30. What does Hierarchical Clustering mean?   
 **Ans**: A type of unsupervised learning approach used to combine unlabeled data points with comparable features is hierarchical clustering. There are two categories for hierarchical clustering techniques.
@@ -391,7 +392,7 @@ Once the large cluster is created, the dendrogram's duty begins. Depending on th
 
 Hierarchical Clustering Code Snippet:
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-10.png" class="img" alt="A Hierarchical Clustering Code Snippet based on customer retention data."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-10.PNG" class="img" alt="A Hierarchical Clustering Code Snippet based on customer retention data."/>
 
 ### 33. What is Boosting?      
 
@@ -407,7 +408,7 @@ Hierarchical Clustering Code Snippet:
 
 **Adaboost Code Snippet:**
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-11.png" class="img" alt="Adaboost Code Snippet model for diabetes prediction data set."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-11.PNG" class="img" alt="Adaboost Code Snippet model for diabetes prediction data set."/>
 
 ### 35. What is Gradient Boosting Method (GBM)?   
 
@@ -432,7 +433,7 @@ By consistently adding weak learners, we can account for a large portion of the 
 
 **XGBoost Code Snippet:**
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-12.png" class="img" alt="An XGB Boost model with training and test data that can be used for diabetes prediction."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-12.jpeg" class="img" alt="An XGB Boost model with training and test data that can be used for diabetes prediction."/>
 
 ### 37. What are the basic enhancements to Gradient Boosting?   
 
@@ -476,7 +477,7 @@ Despite the fact that we employ these strategies to handle Machine Learning chal
 ### 40. How does PCA work? When to apply it?   
 
 **Ans**:<br>
-**Short Answer:** Principal Component Analysis (PCA) is a non-parametric, unstructured quantitative tool that is largely employed in ML to reduce dimensionality.
+**Short Answer:** <br> Principal Component Analysis (PCA) is a non-parametric, unstructured quantitative tool that is largely employed in ML to reduce dimensionality.
 
 A high-dimensional dataset has a significant amount of features. In the Machine Learning area, the fundamental issue associated with large dimensionality is model overfitting, which lowers the capacity to generalize beyond the instances in the training set.
 
@@ -532,7 +533,7 @@ After obtaining the eigenvectors, one may create a new position inside the curre
 
 **PCA code snippet:**
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-13.png" class="img" alt="A PCA code snippet for iris model, that is separated into Setosa, Versicolor, Virginica."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-13.PNG" class="img" alt="A PCA code snippet for iris model, that is separated into Setosa, Versicolor, Virginica."/>
 
 ### 42. How does LDA work? When to use it?
 
@@ -545,14 +546,19 @@ LDA assists you in determining the 'boundaries' of class clusters. It places you
 **Dimensionality:**  Consider that you wish to divide a collection of information points into 2 dimensions into 2 categories. LDA reduces the dimensionality of your settings like so:
 K(Groups) = 2. 2-1 = 1.
 
-**But why so?**  Because "at most K-1-dimensional affine subspace contains the K centroids." 
+**But why so?**
+
+Because "at most K-1-dimensional affine subspace contains the K centroids." 
 
 **What is the affine subspace?**
 
 The phrase "I'm going to generalize the affine qualities of Euclidean space" is expressed in a geometric notion or architecture.
 
-**Now, what are those affine properties of Euclidean space?** In three-dimensional space, a location could be represented by three coordinates.
-A location with two values in a two-dimensional sphere and a position with one value in a one-dimensional space ought to be capable to be represented. This two-dimensional problem's dimensionality was reduced via LDA to only one dimension. We may now begin the important task of responding to the information. We have two groups, as well as a line may connect any two places in either dimension.
+**Now, what are those affine properties of Euclidean space?** 
+
+In three-dimensional space, a location could be represented by three coordinates.
+A location with two values in a two-dimensional sphere and a position with one value in a one-dimensional space ought to be capable to be represented. This two-dimensional problem's dimensionality was reduced via LDA to only one dimension. We may now begin the important task of responding to the information. We have two groups, as well as a line may connect any two places in either dimension.<br>
+
 Thus, a number of such data points are given to us, each with a 2D representation (x,y). These values will be divided into categories 1 or 2 using LDA.
 
 ### 43. Explain LDA steps?      
@@ -566,11 +572,11 @@ Thus, a number of such data points are given to us, each with a 2D representatio
 
 Multiplication of the matrix can be used to condense this.
 
-Y = X x W, where X represents the n samples as n * d dimension matrices and W represents the modified n * k dimensional samples inside the current subspace.
+Y = X * W, where X represents the n samples as n * d dimension matrices and W represents the modified n * k dimensional samples inside the current subspace.
 
 **LDA code snippet:**
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-14.png" class="img" alt="An LDA code snippet was used for the prediction of the Iris dataset using a random forest classifier."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-14.PNG" class="img" alt="An LDA code snippet was used for the prediction of the Iris dataset using a random forest classifier.">
 
 ### 44. What is GDA?   
 
@@ -631,4 +637,4 @@ A relatively tiny chi-square test score shows that the observed data fit the pre
 
 These are a few typical queries regarding machine learning interviews. Learning the fundamentals, different types of machine learning techniques, mathematics and heuristics components, and hands-on modeling to construct algorithms actually prepares you for an MNC machine learning interview. Choose to enroll in the <a href="https://learnbay.co/artificial-intelligence-certification-course" target="_blank"> Advanced AI and ML Certification</a> to understand these machine learning interview questions deeply.
 
-For more information check out our <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a> to stay updated on the latest!
+For more information check out our <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a> and <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a> to stay updated on the latest!

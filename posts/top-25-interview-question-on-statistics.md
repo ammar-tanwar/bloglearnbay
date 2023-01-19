@@ -388,7 +388,7 @@ Where:
 
 If you have a larger sample (over 30), the t-distribution and z-distribution look pretty much the same.
 
- **To know more about Data Science, Artificial Intelligence, Machine Learning, and Deep Learning programs** visit **our** website <a href="https://www.learnbay.co/" target="_blank" >learnbay</a>
+ **To know more about Data Science, Artificial Intelligence, Machine Learning, and Deep Learning programs** visit **our** website <a href="https://www.learnbay.co/" target="_blank" >Learnbay</a>
 
 **Follow us on:** 
 
