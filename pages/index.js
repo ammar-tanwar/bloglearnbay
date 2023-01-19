@@ -59,7 +59,7 @@ export default function blog({ allPostsData }) {
           .map(({ id, date, title, author, readTime, headerImg }) => {
             const url = `/${id}`;
             return (
-              // <div><Link href={url}>
+            <div key={id}><Link href={url}>
               <div
                 className={styles.blog}
                 key={id}
@@ -90,8 +90,8 @@ export default function blog({ allPostsData }) {
                   </span>
                 </div>
               </div>
-              // </Link>
-              // </div>
+            </Link>
+            </div>
             );
           })}
       </section>
@@ -135,7 +135,7 @@ export default function blog({ allPostsData }) {
                         .toLowerCase()
                         .replace(/\s+/g, "-")}`;
                       return (
-                        // <Link href={url}>
+                        <Link href={url} key={id}>
                         <div className={styles.categoryPost} key={id}>
                           <div className={styles.leftCategoryPost}>
                             <Image
@@ -180,7 +180,7 @@ export default function blog({ allPostsData }) {
                             </div>
                           </div>
                         </div>
-                        // </Link>
+                       </Link>
                       );
                     }
                   )}
@@ -205,7 +205,7 @@ export default function blog({ allPostsData }) {
                         .toLowerCase()
                         .replace(/\s+/g, "-")}`;
                       return (
-                        // <Link href={url}>
+                         <Link href={url} key={id}>
                         <div className={styles.categoryPost} key={id}>
                           <div className={styles.leftCategoryPost}>
                             <Image
@@ -250,7 +250,7 @@ export default function blog({ allPostsData }) {
                             </div>
                           </div>
                         </div>
-                        // </Link>
+                         </Link>
                       );
                     }
                   )}
