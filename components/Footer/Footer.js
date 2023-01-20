@@ -92,7 +92,7 @@ const Footer = ({FsdNumber}) => {
             <p className={styles.FooterInnerli}>Advanced DS and AI Program</p>
           </Link>
           {/* <Link href="/full-stack-web-development-program"><p className={styles.FooterInnerli}>Full Stack Web Development Program</p></Link> */}
-          <Link href="/full-stack-software-development-program">
+          <Link href="https://www.learnbay.co/full-stack-software-development-program">
             <p className={styles.FooterInnerli}>
               Full Stack Software Development Program
             </p>
