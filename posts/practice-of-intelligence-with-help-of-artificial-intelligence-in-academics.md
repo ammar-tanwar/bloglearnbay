@@ -1,5 +1,5 @@
 ---
-title: Practice of Intelligence with help of Artificial Intelligence in Academics
+title: The Practice of Intelligence with help of Artificial Intelligence in Academics
 desc: "AI can help global teaching become a successful venture for teachers to teach students anywhere in the world with the same level of proficiency as a classroom live session."
 
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/robot.jpg"
@@ -9,7 +9,7 @@ author: "Admin"
 category: "Artificial Intelligence"
 position: "Editor"
 readTime: "10-12 mins"
-h1: "Practice of Intelligence with help of Artificial Intelligence in Academics"
+h1: "The Practice of Intelligence with help of Artificial Intelligence in Academics"
 id: "practice-of-intelligence-with-help-of-artificial-intelligence-in-academics"
 tableData:
   [
@@ -60,7 +60,7 @@ Apart from the above features, AI also provides personalized tutoring for studen
 
 ### 5. Meet a Variety of Student Needs (Special education):-   
 
-In addition to acting as a personalized learning companion, AI can also help students with special needs by adapting materials to lead them to success. For instance, studies are already showing positive results for AI teaching ASD students social skills.
+In addition to acting as a personalized learning companion, AI can also help students with special needs by adapting materials to lead them to success. For instance, studies are already showing positive results for AI teaching ASD(Autism Spectrum Disorder) students social skills.
 
 ### 6. Allow Teachers to Act as Learning Motivators:-   
 
@@ -68,7 +68,7 @@ As AI takes on more of a teaching role by providing students with basic informat
 
 ### 7. Identify Weaknesses in the Classroom:-   
 
-AI also works on identifying classroom weaknesses. For instance, AI tools can identify when groups of students miss specific questions letting the teacher know when material needs to be retaught. In this way, AI also holds teachers accountable and employs best teaching practices.
+AI also works on identifying the weakness of students in the classroom. For instance, AI tools can recognize when groups of students miss specific questions letting the teacher know when material needs to be retaught. In this way, AI also holds teachers accountable and employs best teaching practices.
 
 ## What lies beyond?   
 
@@ -89,3 +89,5 @@ Professionals in the core academic field might be worried about this. But the ma
 ## How to make your teaching career future-proof? 
 
 Just to keep your teaching or academic future secure, you must update yourself with <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">data science and AI</a> skills. It might be possible you are not from any tech or stem background. But to have the basic AI-tools-related knowledge, you need not be an IT pro. Learning a <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">data science foundational course</a> can also help effectively.
+
+Best of luck...

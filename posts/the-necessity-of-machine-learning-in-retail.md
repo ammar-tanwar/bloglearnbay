@@ -4,7 +4,7 @@ desc: "Machine learning in retail is mostly used in studying customer behaviors.
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/retail.jpg"
 date: "Apr 18, 2022"
-tag: [ retail machine learning projects, what is machine learning in retail, how can machine learning technologies help investors, deep learning retail use cases, machine learning in retail industry, how can machine learning technologies help investors, ecommerce machine learning use cases, use cases in machine learning ]
+tag: [ retail machine learning projects, how can machine learning technologies help investors, deep learning retail use cases, machine learning in retail industry, ecommerce machine learning use cases, use cases in machine learning ]
 category: "Machine Learning"
 author: "Admin"
 position: "editor"
@@ -67,7 +67,7 @@ Apotek Hjärtat is the most significant private medical supply chain in Sweden, 
 
 Inventory, as it is, concerns stocking goods for their future use. Inventory management, in turn, refers to storing goods to use them in times of crisis. The retailers aim to provide a suitable product at the right time, in a proper condition, and at an appropriate place. In this regard, the stock and the supply chains are deeply analyzed.
 
-Powerful <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">machine Learning algorithms</a> and data analysis platforms detect patterns and correlations among the elements and supply chains; the algorithm constantly adjusts and develops parameters and values and defines the optimal stock and inventory strategies.
+Powerful <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">Machine Learning Algorithms</a> and data analysis platforms detect patterns and correlations among the elements and supply chains; the algorithm constantly adjusts and develops parameters and values and defines the optimal stock and inventory strategies.
 
 The analysts spot the patterns of high demand and develop strategies for emerging sales trends, optimize delivery and manage the stock by implementing the data received.
 

@@ -4,7 +4,7 @@ desc: "This post will examine the ten machine-learning techniques that have prov
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-1.jpg"
 date: "Dec 5, 2022"
-tag: [ Machine learning algorithms, logistic regression machine learning, ML algorithm, support vector machine, machine learning algorithms list, unsupervised machine learning algorithms, types of machine learning algorithms, machine learning algorithms summary, latest machine learning algorithms, machine learning algorithms for prediction, machine learning algorithms for beginners, supervised machine learning algorithms, different machine learning algorithms, popular machine learning algorithms, logistic regression machine learning example, machine learning algorithms list, machine learning algorithms examples, support vector machine algorithm, support vector machine in machine learning, support vector machine example, linear support vector machine ]
+tag: [ types of machine learning algorithms, machine learning algorithms for prediction, machine learning algorithms for beginners, machine learning algorithms examples ]
 category: "Machine Learning"
 author: "Nivin Biswas" 
 position: "Editor"

@@ -477,7 +477,7 @@ Despite the fact that we employ these strategies to handle Machine Learning chal
 ### 40. How does PCA work? When to apply it?   
 
 **Ans**:<br>
-**Short Answer:** <br> Principal Component Analysis (PCA) is a non-parametric, unstructured quantitative tool that is largely employed in ML to reduce dimensionality.
+Principal Component Analysis (PCA) is a non-parametric, unstructured quantitative tool that is largely employed in ML to reduce dimensionality.
 
 A high-dimensional dataset has a significant amount of features. In the Machine Learning area, the fundamental issue associated with large dimensionality is model overfitting, which lowers the capacity to generalize beyond the instances in the training set.
 

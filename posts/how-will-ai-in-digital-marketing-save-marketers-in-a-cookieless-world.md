@@ -22,7 +22,7 @@ tableData:
 
 It's no secret that the use of cookies on the internet has started becoming obsolete. At the same time, we all know that cookies are the oxygen for marketing and advertising domain.
 
-However, from the perspective of advanced <a href="https://blog.learnbay.co/ai-and-cybersecurity-a-match-made-in-technology-heaven" target="_blank">cyber security</a> measures, cookies are the real demon. So, anyway, our world has to get rid of cookies.
+However, from the perspective of advanced <a href="https://blog.learnbay.co/ai-and-cybersecurity-a-match-made-in-technology-heaven" target="_blank">cybersecurity</a> measures, cookies are the real demon. So, anyway, our world has to get rid of cookies.
 
 But as a marketer, it can be a big loss for you.
 
@@ -100,7 +100,7 @@ Contextual advertising matches the ads to the content rather than the user.
 
 ## Using AI in Digital Marketing   
 
-In the case of marketing, AI is the new replacement for cookies. As everyone knows, <a href="https://blog.learnbay.co/data-preprocessing" target="_blank">data preprocessing</a> powered by AI can <a href="https://blog.learnbay.co/data-preprocessing" target="_blank">take place</a> in any format. It can analyze user behavior and find patterns. Then personalize the ads according to the target user's current interests.
+In the case of marketing, AI is the new replacement for cookies. As everyone knows, <a href="https://blog.learnbay.co/data-preprocessing" target="_blank">data preprocessing</a> powered by AI can take place in any format. It can analyze user behavior and find patterns. Then personalize the ads according to the target user's current interests.
 
 AI can run an effective campaign without collecting PII **(Personally Identifiable Information).** This avoids privacy issues.
 
