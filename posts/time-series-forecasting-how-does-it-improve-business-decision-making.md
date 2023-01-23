@@ -16,8 +16,9 @@ tableData:
        What is the time-series method of forecasting?, The basic concept of time-series analysis:-, What exactly is time-series data?, These four elements are:-, How does the forecasting method work? , The following are some of the peculiarities - traits or qualities of forecasting:-, Procedure for prediction:-, I. Data analysis:-, II. Collection of data:-, III. Trend analysis:-, IV. Result comparison:-, V. Prediction-based Precautions:-, Importance of forecasting:-, Here is an example of a time-series modeling that will surely help you to get a better understanding:-, Summing up:-
    ]
 ---
+<span style=" font-weight:bold; font-size:28px">Time Series Forecasting- The Way to Achieve Seamless Experience for Your Business Growth </span>
 
-<span style=" font-weight:bold; font-size:28px"> Have you ever booked cabs using different ride-hailing apps like Ola and Uber during pick-hours? </span>
+Have you ever booked cabs using different ride-hailing apps like Ola and Uber during pick-hours?
 
 If so, you must know the pain of '_Sorry, no nearby ride found_,' '_ride canceled by the driver_,' and other similar messages shown by the app. Such occurrences lead to gradual customer churn. However, such a problem now can be taken under control with the proper implementation of _**time-series forecasting**_.
 
@@ -43,7 +44,7 @@ Making smart selections necessitates knowing how to examine and comprehend this 
 
 Several methods are used depending on the **time series data** size, but the fundamental concept is the same:
 
-**"forecast future data using existing data."**
+<div align="center" style="font-weight:bold; font-size:20px;">"forecast future data using existing data."</div>
 
 Time series data is not always a precise forecasting method, and the likelihood of forecasts might vary a lot. Especially when dealing with a variable that swings regularly. It's virtually a sloppy procedure.
 
@@ -105,7 +106,7 @@ Here are several methods by which forecasting is accomplished.
 
 ## I. Data analysis:-  
 
-Forecasting is crucial for the corporate sector. Without proper **data analysis** , it would be challenging for a company to have any direction as it becomes harder to specify objectives and strategies.
+Forecasting is crucial for the corporate sector. Without proper **data analysis**, it would be challenging for a company to have any direction as it becomes harder to specify objectives and strategies.
 
 Businesses could only make decisions by depending on analyzed past, present data, and future insights. It is a difficult task, as it requires a lot of time and expertise to integrate into a financial firm or industry- mainly when it comes to the matter of present (live) data.
 
@@ -166,22 +167,22 @@ The following points are relevant to the merits of Forecasting:-
 
 # Here is an example of a time-series modeling that will surely help you to get a better understanding:-
 
-```
- Moresimple_prediction = combined_data_train. groupby(['Dept']), as_index=False). agg({'weekly_Sales':
- ['mean','count']})
- Print (moresimple_prediction.shape)
- Moresimple_prediction. columns = {"_". join(X) for X in moresimple_prediction.column.ravel ()]
- Print (Moresimple_prediction. columns['weekly_Sales_count]. describe ())
- Moresimple_prediction = moresimple_prediction-drop(['weekly_Sales_count'], axis =1)
- Moresimple_prediction.columns = ['Dept', 'Sales_prediction]
- Moresimple_prediction['prediction_typre'] = 2
- Moresimple_prediction['prediction_type] = 2
- Moresimple_prediction. head()
- ```
+
+ Moresimple_prediction = combined_data_train. groupby(['Dept']), as_index=False). agg({'weekly_Sales':<br>
+ ['mean','count']}) <br>
+ Print (moresimple_prediction.shape)  <br>
+ Moresimple_prediction. columns = {"_". join(X) for X in moresimple_prediction.column.ravel ()]  <br>
+ Print (Moresimple_prediction. columns['weekly_Sales_count]. describe ())  <br>
+ Moresimple_prediction = moresimple_prediction-drop(['weekly_Sales_count'], axis =1)  <br>
+ Moresimple_prediction.columns = ['Dept', 'Sales_prediction]  <br>
+ Moresimple_prediction['prediction_typre'] = 2  <br>
+ Moresimple_prediction['prediction_type] = 2  <br>
+ Moresimple_prediction. head()  <br>
+
 
 **Output:-**
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tsf-4.PNG" style="width:100%" class="img" alt="An chart shows an output-generated model for sales prediction where it is divided into three sub categories, Dept, Sales_Predcition, Prediction_type."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tsf-4.PNG" style="width:70%" class="img" alt="An chart shows an output-generated model for sales prediction where it is divided into three sub categories, Dept, Sales_Predcition, Prediction_type.">
 
 **Explanation:**
 
@@ -191,4 +192,4 @@ The above example shows the type of analysis concerning the departments. Utilizi
 
 You can use time series forecasting to assist you in making tactical and strategic decisions. Using the ideas from this article, you may use time series forecasting to learn more about how various variables change over time and predictions.
 
-If you want to build an effective time-series model for solving business problems you are currently facing, you can enroll in an industry-ready <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">artificial intelligence course</a>. In case of amateur learning about time-series advancement, you can follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/" target="_blank">Linkedin</a>, and <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
+If you want to build an effective time-series model for solving current business problems, you can enroll in an industry-ready <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">artificial intelligence course</a>. In case of amateur learning about time-series advancement, you can follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/company/learnbay/" target="_blank">Linkedin</a>, and <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>.
