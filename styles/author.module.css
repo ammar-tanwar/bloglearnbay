@@ -1,0 +1,149 @@
+
+.mdiv{
+
+    display: flex;
+    gap: 4rem;
+    padding:65px 100px 0px 177px;
+    background: #f2f9ff;
+    background-image:url(https://i.ibb.co/FwKg17v/author-banner-2.png);
+
+}
+.mdiv > * {
+    flex: 1 1 0;
+  }
+
+.adesc{
+    font-style: italic;
+    font-size: 18px;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 25px;
+  
+    
+}
+
+.adesc p{
+
+    position: relative;
+    bottom: 3rem;
+    color: #575555;
+    font-size: 16px;
+    line-height: 148%;
+    text-align: justify;
+
+}
+
+.mcircle{
+    margin-left:-50px;
+}
+
+.circle {
+    border-radius: 50%;
+    
+}
+.m1div{
+    margin-left: -28rem;
+
+    position: relative;
+    bottom: 2rem;
+    margin-bottom: -4rem;
+
+}
+
+.m2div h1{
+    /* margin-bottom: -20px; */
+}
+
+.Social {
+    /* display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    width: 200px; */
+  }
+
+.bIcons {
+    font-size: 24px;
+    position: relative;
+    left: 14rem;
+    bottom: 3.2rem;
+    display: inline;
+    display: initial;
+    color: #0a5ec5;
+    cursor: pointer;
+  }
+
+
+
+
+  @media (max-width: 500px){
+
+    .mdiv{
+
+        display: flex;
+        background: #f2f9ff;
+        background-image:url(https://i.ibb.co/7zDq6cq/mobile-banner-1.png);
+    
+    }
+    .mdiv > * {
+        flex: 1 1 0;
+      }
+    
+    .adesc{
+        font-style: italic;
+        font-size: 18px;
+        font-style: italic;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .adesc p{
+        color: #ffffff;
+        margin-bottom: 14rem;
+        text-align: justify;
+    }
+    
+    .mcircle{
+
+
+        position: relative;
+        bottom: 3rem;
+        left: 1.5rem;
+       
+    }
+    
+    .circle {
+        border-radius: 50%; 
+    }
+    
+    .m1div{
+        /* margin-left: -28rem; */
+        position: relative;
+        top: 11rem;
+        left: 1rem;
+    
+        
+    }
+    .m1div h1{
+        text-align: center;
+    }
+
+    
+      .bIcons {
+        font-size: 24px;
+        position: relative;
+        left: 14rem;
+        bottom: 3.2rem;
+        display: inline;
+        display: initial;
+        color: #ffffff;
+        cursor: pointer;
+      }
+
+      .social{
+        position: relative;
+        bottom: 4rem;
+        right: 5rem;
+      }
+    
+
+  }
+

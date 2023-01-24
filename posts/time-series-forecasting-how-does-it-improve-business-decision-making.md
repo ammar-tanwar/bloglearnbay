@@ -16,7 +16,7 @@ tableData:
        What is the time-series method of forecasting?, The basic concept of time-series analysis:-, What exactly is time-series data?, These four elements are:-, How does the forecasting method work? , The following are some of the peculiarities - traits or qualities of forecasting:-, Procedure for prediction:-, I. Data analysis:-, II. Collection of data:-, III. Trend analysis:-, IV. Result comparison:-, V. Prediction-based Precautions:-, Importance of forecasting:-, Here is an example of a time-series modeling that will surely help you to get a better understanding:-, Summing up:-
    ]
 ---
-<span style=" font-weight:bold; font-size:28px">Time Series Forecasting- The Way to Achieve Seamless Experience for Your Business Growth </span>
+<span style=" font-weight:bold; font-size:28px">Time Series Forecasting- The Way to Achieve Seamless Experience for Your Business Growth</span>
 
 Have you ever booked cabs using different ride-hailing apps like Ola and Uber during pick-hours?
 
@@ -36,7 +36,7 @@ For example, in the case of the ride-hailing app, it will look for the data like
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tsf-2.jpg" style="width:100%" class="img" alt="An illustration of time series analysis shows a person standing in front of a table and using a desktop. There is a wall clock behind him."/>
 
-# The basic concept of time-series analysis:- 
+## The basic concept of time-series analysis:- 
 
 ## What exactly is time-series data?     
 
@@ -106,7 +106,7 @@ Here are several methods by which forecasting is accomplished.
 
 ## I. Data analysis:-  
 
-Forecasting is crucial for the corporate sector. Without proper **data analysis**, it would be challenging for a company to have any direction as it becomes harder to specify objectives and strategies.
+Forecasting is crucial for the corporate sector. Without proper **data analysis,** it would be challenging for a company to have any direction as it becomes harder to specify objectives and strategies.
 
 Businesses could only make decisions by depending on analyzed past, present data, and future insights. It is a difficult task, as it requires a lot of time and expertise to integrate into a financial firm or industry- mainly when it comes to the matter of present (live) data.
 
@@ -114,7 +114,7 @@ Businesses could only make decisions by depending on analyzed past, present data
 
 Data collection is a lengthy procedure with time taking complexity. Many folks are concerned about it because they are unsure where to begin.
 
-Today, however, we have several tools that assist us in data collection, making it easier. It is crucial to clearly understand the 'Data you are collecting' and 'the purpose for which the data will be used. That is why we must concentrate on which data is significant and which is not.
+Today, however, we have several tools that assist us in data collection, making it easier. It is crucial to clearly understand the 'Data you are collecting' and 'the purpose for which the data will be used'. That is why we must concentrate on which data is significant and which is not.
 
 ## III. Trend analysis:-  
 
@@ -131,7 +131,7 @@ The forecasting process can be improved and developed continuously based on prio
 
 Furthermore, a forecast can be enhanced by approaching it from a different angle, using a different method, and using a different tool.
 
-Therefore, there is a need for comments following the forecast creation. The comments' main objective is to enhance and perfect the prognosis for the future.
+Therefore, there is a need for comments following the forecast creation. The comments main objective is to enhance and perfect the prognosis for the future.
 
 There are various types of time-series models. The following image shows the list of the most widely used types.
 
