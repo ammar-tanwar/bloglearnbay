@@ -5,8 +5,7 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wisu-1.png"
 date: "Apr 7, 2022"
 category: "Machine Learning"
-tag: [ reinforcement learning in machine learning (Primary)
- Supervised machine learning, unsupervised machine learning, unsupervised learning algorithms, supervised learning model, support vector machine, build a machine learning model, machine learning algorithm, machine learning techniques, Hierarchical clustering ]
+tag: [ supervised unsupervised and reinforcement learning examples, difference between supervised unsupervised and reinforcement learning]
 author: "Admin"
 position: "Editor"
 readTime: "7-8 mins"
@@ -27,7 +26,7 @@ Machine learning (ML) models use algorithms and learn from datasets to understan
 
 There are different Machine learning models (Supervised, Unsupervised, and Reinforcement Learning) that are suitable for different kinds of datasets.
 
-For example, supervised, unsupervised, and **reinforcement learning in machine learning**** algorithms** are widely used in industries to predict business outcomes. It helps professionals to forecast results based on historical data.
+For example, supervised, unsupervised, and **reinforcement learning in machine learning** **algorithms** are widely used in industries to predict business outcomes. It helps professionals to forecast results based on historical data.
 
 **Let's understand it with an elaborate example.**
 
@@ -43,7 +42,7 @@ The **supervised learning model** teaches the machine to predict the result for 
 
 ## Types of Supervised machine learning  
 
-### 1. Linear regression & Logistic regression  
+### a. Linear regression & Logistic regression  
 
 Linear and logistic regression are used when we have continuous data. <a href="https://blog.learnbay.co/linear-regression-in-machine-learning" target="_blank">Linear regression</a> defines the relationship between the variables where we have independent and dependent variables.
 
@@ -56,7 +55,7 @@ Linear regression is also categorized into different types. Those are <a href="h
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wisu-2.png" style="width:100%" class="img" alt="A random forest tree with various root nodes."/>
 
-#### 2. Decision tree - Random forest & k-Nearest neighbors   
+#### b. Decision tree - Random forest & k-Nearest neighbors   
 
 Classification algorithms help to classify categorical values. It is used for categorical, discrete, or values belonging to a particular class. Decision tree, <a href="https://blog.learnbay.co/random-forest-model-rfm" target="_blank">Random forest</a>, and KNN are all used for the categorical dataset.
 
@@ -64,7 +63,7 @@ Popular or major classification applications include bank credit scoring, medica
 
 Also, handwriting recognition uses classification to recognize letters and numbers. Not only that, it further checks whether an email is genuine or spam. It also detects whether a tumor is benign or cancerous.
 
-### 3. Support vector machine   
+### c. Support vector machine   
 
 The **support vector machine** is used for both classification and regression problems. It uses the regression method to create a hyperplane to classify the category of the data point. Sentiment analysis of a subject is determined with the help of <a href="https://blog.learnbay.co/support-vector-machines" target="_blank">support vector machines</a> whether the statement is positive or negative.
 
@@ -87,9 +86,7 @@ Hierarchical clustering is an algorithm that builds a hierarchy of clusters. It 
 
 ### 2. K-means clustering & K-NN (k nearest neighbors)   
 
-K-means and KNN are also clustering methods to classify the dataset. K-means is an iterative method of clustering. It is used to find the highest value for every iteration.
-
-We can select the number of clusters. It would help if you defined the k cluster for making an excellent predictive model.
+K-means and KNN are also clustering methods to classify the dataset. K-means is an iterative method of clustering. It is used to find the highest value for every iteration. We can select the number of clusters. It would help if you defined the k cluster for making an excellent predictive model.
 
 K-nearest neighbor is the simplest of all Machine Learning classifiers. It differs from other **Machine Learning techniques** because it doesn't produce a model. Instead, it is a simple algorithm that stores all available cases and classifies new instances based on a similarity measure.
 

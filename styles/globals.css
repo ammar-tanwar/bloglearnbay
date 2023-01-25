@@ -38,6 +38,9 @@ h4 {
   font-weight: 600;
   text-align: left;
 }
+h1{
+  font-size: 30px;
+}
 
 button {
   padding: 15px 20px;

@@ -60,7 +60,7 @@ Apart from the above features, AI also provides personalized tutoring for studen
 
 ### 5. Meet a Variety of Student Needs (Special education):-   
 
-In addition to acting as a personalized learning companion, AI can also help students with special needs by adapting materials to lead them to success. For instance, studies are already showing positive results for AI teaching ASD(Autism Spectrum Disorder) students social skills.
+In addition to acting as a personalized learning companion, AI can also help students with special needs by adapting materials to lead them to success. For instance, studies are already showing positive results for AI teaching ASD (Autism Spectrum Disorder) students social skills.
 
 ### 6. Allow Teachers to Act as Learning Motivators:-   
 
