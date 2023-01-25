@@ -25,8 +25,8 @@ export default function Post({ postData, posts }) {
             name="keywords"
             content={postData.tag}
           />
-           <link rel="canonical" href={'https://blog.learnbay.co/'+postData.id}/>
-           <meta
+          <link rel="canonical" href={'https://blog.learnbay.co/' + postData.id} />
+          <meta
             name="author"
             content={postData.author}
           />
@@ -39,54 +39,54 @@ export default function Post({ postData, posts }) {
 
 
           <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
-{/* Schema genertor start */}
-<script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: `{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.learnbay.co/${postData.id}"
-  },
-  "headline": "${postData.title}",
-  "description": "${postData.desc}",
-  "image": "${postData.img}",   
-  "author": {
-    "@type": "Person",
-    "name": "${postData.author}",
-    "url": "https://blog.learnbay.co/"
-  },  
-  "publisher": {
-    "@type": "Organization",
-    "name": "Learnbay",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://blog.learnbay.co/_next/image?url=https%3A%2F%2Flearnbay-wb.s3.ap-south-1.amazonaws.com%2Fmain-blog%2FLearnbay-Logo.webp&w=256&q=100"
-    }
-  },
-  "datePublished": "${postData.date}"
-}
-} `,
-          }}/>
-    {/* Schema Generator End */}
+          {/* Schema genertor start */}
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: `{
+                  "@context": "https://schema.org",
+                  "@type": "Article",
+                  "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://blog.learnbay.co/${postData.id}"
+                  },
+                  "headline": "${postData.title}",
+                  "description": "${postData.desc}",
+                  "image": "${postData.img}",   
+                  "author": {
+                  "@type": "Person",
+                  "name": "${postData.author}",
+                  "url": "https://blog.learnbay.co/"
+                  },  
+                  "publisher": {
+                  "@type": "Organization",
+                  "name": "Learnbay",
+                  "logo": {
+                  "@type": "ImageObject",
+                   "url": "https://blog.learnbay.co/_next/image?url=https%3A%2F%2Flearnbay-wb.s3.ap-south-1.amazonaws.com%2Fmain-blog%2FLearnbay-Logo.webp&w=256&q=100"
+                  }
+                 },
+               "datePublished": "${postData.date}"
+                }
+              } `,
+            }} />
+          {/* Schema Generator End */}
         </Head>
 
 
         <div className={styles.DivImg}>
           <img
             src={postData.img}
-            // alt={postData.alt}
+            alt="Learnbay"
             width="100%"
             height="450px"
           ></img>
         </div>
       </section>
-      <main> 
 
+      <main>
         <div className={styles.Open}>
-        <Socialshare postData={postData}/>
+          <Socialshare postData={postData} />
           <div className={styles.headerInfo}>
             <h1>{postData.mainH1}</h1>
             <span>
@@ -157,20 +157,20 @@ export default function Post({ postData, posts }) {
                   <div className={styles.lSide}>
                     <p>Tags</p>{" "}
                     {postData.tag.map((tag, i) => {
-                      return <span key={i}>#{tag}</span>  
-                      ;
+                      return <span key={i}>#{tag}</span>
+                        ;
                     })}
 
-                    
+
 
                   </div>
                 </div>
                 <div>
-                   <Socialshare postData={postData}/>
+                  <Socialshare postData={postData} />
                 </div>
 
 
-                  
+
                 <hr />
               </div>
             </div>
