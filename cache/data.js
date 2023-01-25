@@ -120,15 +120,10 @@ export const posts = [{"id":"5-amazing-usages-of-ai-in-the-entertainment-industr
 {"id":"the-necessity-of-machine-learning-in-retail","title":"The Necessity of Machine Learning in Retail"},
 {"id":"the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai","title":"The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI"},
 {"id":"time-series-forecasting-how-does-it-improve-business-decision-making","title":"Time Series Forecasting! How Does It Improve Business Decision-Making?"},
-{"id":"Top 3 Python Libraries for Machine Learning!","title":"top-3-python-libraries-for-machine-learning"},
-{"id":"Top 30 Highest Paying Jobs to Target in 2023","title":"top-30-highest-paying-jobs-to-target-in-2023"},
-{"id":"Top Courses in 2023 for a Full-Stack Software Developer","title":"top-courses-in-2023-for-a-full-stack-software-developer"},
-{"id":"","title":""},
-{"id":"","title":""},
-{"id":"","title":""},
-{"id":"","title":""},
-{"id":"","title":""},
-
-
+{"id":"top-3-python-libraries-for-machine-learning","title":"Top 3 Python Libraries for Machine Learning!"},
+{"id":"top-30-highest-paying-jobs-to-target-in-2023","title":"Top 30 Highest Paying Jobs to Target in 2023"},
+{"id":"top-courses-in-2023-for-a-full-stack-software-developer  ","title":"Top Courses in 2023 for a Full-Stack Software Developer"},
+{"id":"time-series-forecasting-how-does-it-improve-business-decision-making","title":"Time Series Forecasting! How Does It Improve Business Decision-Making?"},
+{"id":"7-must-know-web-development-languages-of-2023","title":"7 Must-Know Web Development Languages of 2023"},
 
 ]

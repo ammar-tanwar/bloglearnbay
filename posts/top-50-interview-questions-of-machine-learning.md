@@ -296,7 +296,7 @@ According to Naive Bayes, the characteristics are independent of one another. In
 
 **Naïve Bayes Code Snippet:**
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-6.png" class="img" alt="A Naïve Bayes code snippet based on wine quality prediction."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-5-m-6.PNG" class="img" alt="A Naïve Bayes code snippet based on wine quality prediction." style="width:80%"/>
 
 ### 25. Explain K-means Clustering and the steps for achieving K-means Clustering.  
 
