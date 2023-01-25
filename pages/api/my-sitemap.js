@@ -93,7 +93,8 @@ export default async (req, res) => {
     { url: "https://blog.learnbay.co/learnbay-data-science-training-in-bangalore", changefreq: "daily", priority: 0.3 },
     { url: "https://blog.learnbay.co/how-does-data-science-promote-project-managers-to-a-new-perspective-of-success", changefreq: "daily", priority: 0.3 },
     { url: "https://blog.learnbay.co/no-code-machine-learning-just-gone-viral-but-what's-that", changefreq: "daily", priority: 0.3 },
-
+    { url: "https://blog.learnbay.co/time-series-forecasting-how-does-it-improve-business-decision-making", changefreq: "daily", priority: 0.3 },
+    { url: "https://blog.learnbay.co/7-must-know-web-development-languages-of-2023", changefreq: "daily", priority: 0.3 },
   ];
 
   // Create a stream to write to

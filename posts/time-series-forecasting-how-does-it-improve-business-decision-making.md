@@ -36,7 +36,7 @@ For example, in the case of the ride-hailing app, it will look for the data like
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tsf-2.jpg" style="width:100%" class="img" alt="An illustration of time series analysis shows a person standing in front of a table and using a desktop. There is a wall clock behind him."/>
 
-## The basic concept of time-series analysis:- 
+# The basic concept of time-series analysis:- 
 
 ## What exactly is time-series data?     
 
@@ -168,16 +168,19 @@ The following points are relevant to the merits of Forecasting:-
 # Here is an example of a time-series modeling that will surely help you to get a better understanding:-
 
 
- Moresimple_prediction = combined_data_train. groupby(['Dept']), as_index=False). agg({'weekly_Sales':<br>
- ['mean','count']}) <br>
- Print (moresimple_prediction.shape)  <br>
- Moresimple_prediction. columns = {"_". join(X) for X in moresimple_prediction.column.ravel ()]  <br>
- Print (Moresimple_prediction. columns['weekly_Sales_count]. describe ())  <br>
- Moresimple_prediction = moresimple_prediction-drop(['weekly_Sales_count'], axis =1)  <br>
- Moresimple_prediction.columns = ['Dept', 'Sales_prediction]  <br>
- Moresimple_prediction['prediction_typre'] = 2  <br>
- Moresimple_prediction['prediction_type] = 2  <br>
- Moresimple_prediction. head()  <br>
+ Moresimple_prediction = combined_data_train.<br>
+groupby(['Dept']), as_index=False). agg({'weekly_Sales': <br>
+['mean','count']}) <br>
+Print (moresimple_prediction. shape) <br>
+Moresimple_prediction. columns = {"_". join(X) for X in moresimple_prediction. column.ravel ()] <br>
+Print (Moresimple_prediction. columns['weekly_Sales_count]. describe ()) <br>
+Moresimple_prediction = <br>
+moresimple_prediction-drop(['weekly_Sales_count'], axis =1) <br>
+Moresimple_prediction.columns = ['Dept', 'Sales_prediction] <br>
+Moresimple_prediction['prediction_typre'] = 2 <br>
+Moresimple_prediction['prediction_type] = 2 <br>
+Moresimple_prediction. head() <br>
+
 
 
 **Output:-**
