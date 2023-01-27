@@ -6,7 +6,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mkwd-
 date: "Jan 25, 2023"
 tag: [ web development languages, best language for web development, full stack programmer, best language for front end web development, best language for web development backend]
 category: "Full Stack"
-author: "Admin"
+author: "Abhishek Gupta"
 position: "Editor"
 readTime: "8-9 mins"
 h1: "7 Must-Know Web Development Languages of 2023"
