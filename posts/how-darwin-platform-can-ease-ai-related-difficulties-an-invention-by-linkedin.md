@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/43816
 date: "Jan 6, 2023"
 tag: [ Darwin Platform, Linkedin DARWIN Platform, AI, data visualization, continued support, user interface, exploratory data analysis, Data science, darwin ai linkedin, darwin software ]
 category: "Artificial Intelligence"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "8-9 mins"
 h1: "How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin"

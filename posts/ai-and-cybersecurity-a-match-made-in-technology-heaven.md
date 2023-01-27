@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/amm-1
 date: "Jan 2, 2023"
 tag: [ AI and cybersecurity, Artificial intelligence in cybersecurity, AI and ML, artificial intelligence and machine learning, future of ai in cyber security]
 category: "Artificial Intelligence"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
 position: "Editor"
 readTime: "15-18 mins"
 h1: "AI and Cybersecurity:- A Match Made in Technology Heaven"

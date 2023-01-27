@@ -55,7 +55,7 @@ export default function CategoryBlog({ categoryPosts }) {
       <div className={authorstyle.mdiv}>
         <div className={authorstyle.mcircle}>
               <Image
-                src={categoryPosts[0].headerImg}
+                src={categoryPosts[0].authorimg}
                 priority={true}
                 width={170}
                 height={170}
@@ -72,7 +72,7 @@ export default function CategoryBlog({ categoryPosts }) {
             <h1>{categoryPosts[0].author}</h1>
         </div>
         <div className={authorstyle.social}>
-             <Link href="https://www.linkedin.com/company/learnbay/">
+             <Link href={categoryPosts[0].authorlinkedin}>
                     <FaLinkedinIn className={authorstyle.bIcons} />
               </Link>
         </div>
@@ -83,8 +83,7 @@ export default function CategoryBlog({ categoryPosts }) {
           </div> */}
 
           <div className={authorstyle.adesc}>
-            <p> "  Here in this blog, learn about Darwin's various use cases and implications for any business perspective. This AI-based Darwin platform allows to ease of various type of AI-related difficulties and help to get more output from various AI device. "
-            " Here in this blog, learn about Darwin's various use cases and implications for any business perspective. This AI-based Darwin platform allows to ease of various type of AI-related difficulties and help to get more output from various AI device. "" {categoryPosts[0].desc} "</p>
+            <p> " {categoryPosts[0].authordesc} "</p>
 
           </div>
          

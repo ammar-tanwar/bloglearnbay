@@ -6,6 +6,9 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/opera
 date: "Sep 14, 2022"
 tag: [ Operator in python, Arithmetic operator, logical operator, bitwise operator, bitwise operator in python, assignment operator in python, floor division operator in python, membership operator in python, logical operators in python, types of operators in python, operator in python with example, operators in python, operator meaning in python, set operations in python with examples ]
 author: "Vineeth Kumar"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "
+authorlinkedin: "#"
 category: "Python"
 position: "Editor"
 readTime: "10-12 mins"

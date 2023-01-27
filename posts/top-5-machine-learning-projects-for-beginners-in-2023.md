@@ -7,13 +7,16 @@ date: "Jan 27, 2023"
 tag: [ unique machine learning projects, machine learning projects in python, machine learning and deep learning. ]
 category: "Machine Learning"
 author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "8-9 mins"
 h1: "Top 5 Machine Learning Projects for Beginners in 2023"
 id: "top-5-machine-learning-projects-for-beginners-in-2023"
 tableData:
   [
-       What is Machine learning?, 1. Machine learning project for human activity identification utilizing data sets from smartphones:-, 2. Machine Learning Project for Coupon Purchase Prediction, 3. Machine learning project /algorithm for analysis churn prediction:-, Tools/algorithms:-, 4. Using an ML model to transform a real-life image into an animated cartoon:-, 5. Music recommendation system using machine learning algorithms:-, Summing up:- 
+       What is Machine learning?, 1. Machine learning project for human activity identification utilizing data sets from smartphones:-, 2. Machine Learning Project for Coupon Purchase Prediction, 3. Machine learning project /algorithm for analysis churn prediction:-, 4. Using an ML model to transform a real-life image into an animated cartoon:-, 5. Music recommendation system using machine learning algorithms:-, Summing up:- 
    ]
 
 ---
@@ -87,7 +90,7 @@ As the evaluation progresses, we will gain a thorough understanding of charting,
 
 TensorFlow, Scikit learn, Pytorch
 
-## 3. Machine learning project /algorithm for analysis churn prediction:-  
+## 3. Machine learning project/algorithm for analysis churn prediction:-  
 
 Adding a new customer is critical for any business looking to increase overall income and establish new long-term relationships. However, acquiring a new customer is more expensive than retaining an existing one.
 

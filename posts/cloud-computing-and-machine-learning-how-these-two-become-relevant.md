@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-1.
 date: "Oct 25, 2022"
 tag: [ Cloud computing, machine learning Machine learning, Artificial intelligence, machine learning introduction, types of machine learning, machine learning examples, supervised vs unsupervised learning, machine learning definition, cloud computing meaning, cloud computing basics, what is cloud computing with example, types of cloud computing ]
 category: "Cloud Computing"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "10-13 mins"
 h1: "Cloud Computing and Machine Learning - How These Two Become Relevant"

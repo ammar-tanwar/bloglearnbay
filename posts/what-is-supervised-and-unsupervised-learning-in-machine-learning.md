@@ -13,7 +13,7 @@ h1: "What is Supervised, Unsupervised Learning, and Reinforcement Learning in Ma
 id: "what-is-supervised-and-unsupervised-learning-in-machine-learning"
 tableData:
   [
-   Supervised Machine Learning:-, Types of Supervised machine learning, 1. Linear regression & Logistic regression, 2. Decision tree - Random forest & k-Nearest neighbors, 3. Support vector machine, Unsupervised Learning Algorithms, Types of unsupervised learning, 1. Hierarchical clustering, 2. K-means clustering & K-NN (k nearest neighbors), 3. Principal Component Analysis, 4. Singular Value Decomposition, 5. Independent Component Analysis, Reinforcement Learning, Main points in Reinforcement learning, How does it work?, In Conclusion:-
+   Supervised Machine Learning:-, Types of Supervised machine learning, a. Linear regression & Logistic regression, b. Decision tree - Random forest & k-Nearest neighbors, c. Support vector machine, Unsupervised Learning Algorithms, Types of unsupervised learning, a. Hierarchical clustering, b. K-means clustering & K-NN (k nearest neighbors), c. Principal Component Analysis, d. Singular Value Decomposition, e. Independent Component Analysis, Reinforcement Learning, Main points in Reinforcement learning, How does it work?, In Conclusion:-
   ]
 ---
 
@@ -79,12 +79,12 @@ _For example_, We have a bucket of fruits and need to separate them accordingly.
 
 ## Types of unsupervised learning   
 
-### 1. Hierarchical clustering
+### a. Hierarchical clustering
 
 Hierarchical clustering is an algorithm that builds a hierarchy of clusters. It begins with all the data assigned to a cluster of their own. Here, two close clusters are going to be in the same cluster. This algorithm ends when there is only one cluster left.
 
 
-### 2. K-means clustering & K-NN (k nearest neighbors)   
+### b. K-means clustering & K-NN (k nearest neighbors)   
 
 K-means and KNN are also clustering methods to classify the dataset. K-means is an iterative method of clustering. It is used to find the highest value for every iteration. We can select the number of clusters. It would help if you defined the k cluster for making an excellent predictive model.
 
@@ -93,17 +93,17 @@ K-nearest neighbor is the simplest of all Machine Learning classifiers. It diffe
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wisu-3.png" style="width:100%" class="img" alt="A line graph of Principal Component Analysis."/>
 
-### 3. Principal Component Analysis    
+### c. Principal Component Analysis    
 
 <a href="https://builtin.com/data-science/step-step-explanation-principal-component-analysis" target="_blank" rel="nofollow">PCA (Principal component analysis)</a> is a dimensionality reduction algorithm. For example, you have a dataset with 200 features/columns. You need to reduce the number of features for the model to only an important feature. It maintains the complexity of the dataset.
 
 
-### 4. Singular Value Decomposition   
+### d. Singular Value Decomposition   
 
 A matrix's Singular Value Decomposition (SVD) in linear algebra is factoring that matrix across three matrices. It possesses several intriguing algebraic characteristics and provides essential geometrical and theoretical insights into linear transformations. It has several critical uses in data science as well. One of them is to help data scientists in getting the 'best fit' hyperplane, which segregates or categorizes the dataset under consideration.
 
 
-### 5. Independent Component Analysis   
+### e. Independent Component Analysis   
 
 In various uses involving medical signals, biological testing, & audio signals, ICA (Independent Component Analysis) has been utilized to recover source signals. When ICA may eliminate or keep a single source, it is referred to as a dimensionality reduction algorithm.
 

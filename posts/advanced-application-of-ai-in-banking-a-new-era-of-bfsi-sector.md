@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-1
 date: "Nov 23, 2022"
 tag: [ Artificial intelligence in Banking, AI in banking, artificial intelligence in banking India, future of artificial intelligence in banking, benefits of ai in banking, artificial intelligence in banking sector, artificial intelligence in banking sector in india, examples of artificial intelligence in banking, impact of artificial intelligence in banking sector, use of artificial intelligence in banking, role of artificial intelligence in banking sector ]
 category: "Artificial Intelligence"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "10-15 mins"
 h1: "Advanced Application of AI in Banking | A New Era of BFSI Sector"
