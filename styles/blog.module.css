@@ -2,7 +2,9 @@
 .DivImg {
   margin-top: 70px;
 }
-
+.bImg{
+  height: 450px;
+}
 .Open {
   margin: 50px 64px;
   }
@@ -236,6 +238,9 @@
 @media (max-width: 481px) {
   .DivImg {
     margin-top: 70px;
+  }
+  .bImg{
+    height: 180px;
   }
   
   .Open {

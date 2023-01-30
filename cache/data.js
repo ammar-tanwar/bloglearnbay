@@ -125,5 +125,9 @@ export const posts = [{"id":"5-amazing-usages-of-ai-in-the-entertainment-industr
 {"id":"top-courses-in-2023-for-a-full-stack-software-developer  ","title":"Top Courses in 2023 for a Full-Stack Software Developer"},
 {"id":"time-series-forecasting-how-does-it-improve-business-decision-making","title":"Time Series Forecasting! How Does It Improve Business Decision-Making?"},
 {"id":"7-must-know-web-development-languages-of-2023","title":"7 Must-Know Web Development Languages of 2023"},
+{"id":"top-5-machine-learning-projects-for-beginners-in-2023","title":"Top 5 Machine Learning Projects for Beginners in 2023"},
+{"id":"what-are-the-differences-between-deep-learning-and-neural-networks","title":"What Are The Differences Between Deep Learning and Neural Networks?"},
+
+
 
 ]

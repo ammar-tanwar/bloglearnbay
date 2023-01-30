@@ -36,15 +36,15 @@ It is very evident that neural networks and deep learning are subsets of AI and 
 
 In this section, you will be able to easily use the technology based on your particular needs and usage. And the concepts followed in this section will surely derive a functional difference between these two technologies, which would help you better understand the fundamentals-
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dlnn-2.jpg" style="width:100%" class="img" alt="A deep learning architecture shows different data sets, with one input layer, one output layer, and two hidden layers."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dlnn-2.jpg" style="width:100%" class="img" alt="A neural network architecture depicts various data sets with one input layer, one hidden layer, and one output layer."/>
 
 ## 1. Neural Networks in Machine Learning:-
 
 Neural networks in machine learning are designed to recognize different patterns in data and are inspired by various aspects of how the human brain functions. It is composed of integrated devices that receive input, process it, and then transmit it to other neurons in networks.
 
-Neural networks in machine learning are commonly referred to as **"artificial neurons**", in which computers with several integrated nodes form layers. All of these neurons are linked to a specific network, and each neuron has an input and output layer. A neuron process takes an input and processes it through the join network layer till it reaches the inputs. The initial input could be anything, such as an image or voice, and it is processed to provide some output.
+Neural networks in machine learning are commonly referred to as **"artificial neurons"**, in which computers with several integrated nodes form layers. All of these neurons are linked to a specific network, and each neuron has an input and output layer. A neuron process takes an input and processes it through the join network layer till it reaches the inputs. The initial input could be anything, such as an image or voice, and it is processed to provide some output.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dlnn-3.jpg" style="width:100%" class="img" alt="An illustration shows the screen of a mobile phone displaying Add to cart option, with various coupon codes like 50% off, 10% off, and 35% off."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dlnn-3.jpg" style="width:100%" class="img" alt="A deep learning architecture shows different data sets, with one input layer, one output layer, and two hidden layers."/>
 
 ## 2. Deep learning in ML:-  
 
@@ -69,6 +69,7 @@ table {
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
+  font-size:18px;
   padding: 8px;
 }
 </style>  
@@ -106,6 +107,7 @@ td, th {
 • PSU <br>
 • RAM <br>
 • Processors <br>
+
 </td>
     <td>Neural network architecture is structured into 4 types:-
 
@@ -123,7 +125,7 @@ td, th {
   </tr>
   <tr>
     <td>5. Performance rate</td>
-    <td>In deep learning algorithms, we can easily raise the high-performance rate</td>
+    <td>In deep learning algorithms, we can easily raise the high-performance rate.</td>
     <td>As compared to deep learning,  the neural network has a very low-performance rate.</td>
   </tr>
   <tr>
