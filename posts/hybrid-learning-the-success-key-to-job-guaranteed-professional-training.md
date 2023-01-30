@@ -8,6 +8,9 @@ tag: [ "Artificial Intelligence, Machine learning, Data Science, Hybrid Learning
 hybrid learning activities, hybrid learning benefits, hybrid learning meaning, hybrid learning solutions, what does hybrid learning mean, benefits of hybrid learning, five elements of hybrid learning, online and hybrid learning, hybrid flexible learning, hybrid distance learning, hybrid online learning" ]
 category: "Data Science"
 author: "Milan" 
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "9-10 mins"
 h1: "Hybrid Learning- The Success Key To Job-Guaranteed Professional Training"

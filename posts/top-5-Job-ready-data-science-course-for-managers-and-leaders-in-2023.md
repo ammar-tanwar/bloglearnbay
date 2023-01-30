@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-
 date: "August 24, 2022"
 tag: [ Data science, Data Science managers, Data Science manager salary, data science managers course, Data science managers roles and responsibilities, data science certification for managers, data science course for managers and leaders, data science management jobs, data science for business managers, data science for leaders, data science manager salary near bengaluru karnataka, data science manager salary india, data science manager salary bangalore, data science manager job description, data science manager jobs,  data science manager skills ]
 category: "Data Science"
-author: "Milan" 
+author: "Milan"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
 position: "Editor"
 readTime: "9-10 mins"
 h1: "Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023"

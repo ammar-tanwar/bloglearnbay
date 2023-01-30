@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata
 date: "Oct 06, 2022"
 tag: [ most used programing language for data science, programming languages for data science, best programming language for data science, which are the three most used languages for data science, which is the most important language for data science, future programming languages for data science, which of the following data science tool is written in java language, programming for data science, which is the most important language for data science ]
 category: "Data Science"
-author: "Milan" 
+author: "Milan"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
 position: "Editor"
 readTime: "9-10 mins"
 h1: "Know The 10 Most Used Programming Languages For Data Science"
