@@ -80,6 +80,7 @@ export default function Post({ postData, posts }) {
             alt="Learnbay"
             width="100%"
             height="450px"
+            className={styles.bImg}
           ></img>
         </div>
       </section>
