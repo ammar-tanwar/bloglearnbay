@@ -7,7 +7,9 @@ date: "May 27, 2021"
 tag: [ Interview questions of machine learning, Machine learning interview questions ]
 category: "Machine Learning"
 author: "Admin"
- 
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "33-42 mins"
 h1: "Top 50 interview questions of Machine Learning"

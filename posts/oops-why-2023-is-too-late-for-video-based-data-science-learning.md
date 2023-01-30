@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video
 date: "August 17, 2022"
 tag: [ how to learn data science from scratch, data science learning path, data science course for beginners, data science courses, video based learning benefits, video based learning, video-based learning examples, video-based learning, , video lectures on data science ]
 category: "Data Science"
-author: "Milan" 
+author: "Milan"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "9-10 mins"
 h1: "Oops! Why 2023 Is Too Late For Video-Based Data Science Learning"

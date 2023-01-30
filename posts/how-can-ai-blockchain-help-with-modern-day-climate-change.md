@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hcab-
 date: "Dec 28, 2022"
 tag: [ Blockchain, Environmental factors, Climate change, blockchain environmental sustainability, blockchain carbon footprint, environmental blockchain, blockchain and environmental impact, blockchain solutions for sustainable energy and climate, blockchain for carbon tracking, tackling climate change with blockchain, blockchain can help us beat climate change, how does blockchain affect the environment, blockchain technology climate change ]
 category: "Artificial Intelligence"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "15-18 mins"
 h1: "How Can AI Blockchain Help With Modern-day Climate Change?"

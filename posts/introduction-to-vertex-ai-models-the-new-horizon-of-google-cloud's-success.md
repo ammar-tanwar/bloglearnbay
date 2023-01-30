@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/googl
 date: "Sep 16, 2022"
 tag: [ vertex ai, vertex AI models, machine learning, cloud ml ]
 category: "Machine Learning"
-author: "Nivin" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "9-10 mins"
 h1: "Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success"

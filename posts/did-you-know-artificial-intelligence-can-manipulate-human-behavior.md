@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-1
 date: "Oct 12, 2022"
 tag: [ human behavior manipulation definition, ai predicting human behavior, artificial intelligence and human behaviour, dark side of ai, ai manipulate human behavior, role of artificial intelligence in human life, is artificial intelligence a threat to humans ]
 category: "Artificial Intelligence"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "9-10 mins"
 h1: "Did You Know Artificial Intelligence Can Manipulate Human Behavior?"

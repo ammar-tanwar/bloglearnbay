@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-
 date: "Jan 18, 2023"
 tag: [ Highest paying jobs, best paying jobs, highest paying career, machine learning, AI, Data science, full-stack developer, data structure and algorithm, system design ]
 category: "Hot Topics"
-author: "Trisha M"
+author: "Trisha Manna"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trisha-manna.webp"
+authordesc: "Trisha holds 7+ years of expertise in emerging technology-related writing. AI, ML, web, and software development have always been on her extreme interest list. A passion for lifelong "
+authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: "8-9 mins"
 h1: "Top 30 Highest Paying Jobs to Target in 2023"

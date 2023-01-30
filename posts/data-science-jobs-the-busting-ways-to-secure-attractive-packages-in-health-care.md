@@ -6,6 +6,9 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finan
 date: "Apr 6, 2022"
 tag: [ healthcare data scientist salary in india, healthcare data scientist job description, what does a data scientist do in healthcare ]
 author: "Admin"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 category: "Hot Topics"
 position: "Editor"
 readTime: "10-12 mins"

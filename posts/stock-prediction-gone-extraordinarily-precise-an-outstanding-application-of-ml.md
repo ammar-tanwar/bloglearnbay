@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-1.
 date: "Oct 27, 2022"
 tag: [ Machine learning, Application of ML, Stock market, Reinforcement learning, machine learning application examples, stock market prediction, stock market prediction using machine learning, ml for trading, application of stock market prediction ]
 category: "Machine Learning"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "10-13 mins"
 h1: "Stock Prediction Gone Extraordinarily Precise - An Outstanding Application of ML"

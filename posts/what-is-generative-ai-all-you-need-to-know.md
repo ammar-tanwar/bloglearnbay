@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai
 date: "Sep 20, 2022"
 tag: [ synthetic data ai, synthetic data generation tools, synthetic data meaning, synthetic data for deep learning, deepfake meaning, deepfake examples, deepfake technology, deepfake definition, generative ai examples, generative ai course, generative ai applications, generative ai applications, how does generative ai work, generative artificial intelligence (ai) ]
 category: "Artificial Intelligence"
-author: "Nivin" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
 position: "Editor"
 readTime: "9-10 mins"
 h1: "What Is Generative AI? All You Need To Know!"

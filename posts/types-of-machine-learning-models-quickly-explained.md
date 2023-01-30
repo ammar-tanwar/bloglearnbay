@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/toml-
 date: "Jan 9, 2023"
 tag: [ machine learning model, machine learning, deep learning, machine learning models for prediction, machine learning models explained, machine learning model use cases ]
 category: "Machine Learning"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "8-9 mins"
 h1: "Types of Machine Learning Models - Quickly Explained"

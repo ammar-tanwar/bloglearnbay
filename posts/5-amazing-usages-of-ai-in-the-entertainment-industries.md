@@ -7,7 +7,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-1
 date: "Dec 16, 2022"
 tag: [ AI in entertainment, AI in entertainment industry, artificial intelligence and entertainment industry, AI and entertainment industry, AR, VR, future of ai in entertainment, explain the role of ai in entertainment, advantages of ai in entertainment, application of ai in entertainment, uses of ai in entertainment, benefits of ai in entertainment, artificial intelligence in the broadcasting industry, ai in media and entertainment industry, examples of artificial intelligence in entertainment ]
 category: "Artificial Intelligence"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "15-18 mins"
 h1: "5 Amazing Usages of AI in the Entertainment Industries"

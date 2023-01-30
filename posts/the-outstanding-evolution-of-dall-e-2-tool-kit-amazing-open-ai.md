@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-1.
 date: "Dec 2, 2022"
 tag: [ DALL E 2, Open AI, GPT-3, how to use dall e 2, how to use dall-e 2, dall e 2, dall e 2 examples, openai dall e 2, dall-e, dall e 2 ai, dall e ai, dalle 2, openai dall e 2, dalle, dall e mini, dall-e 2, how to use dall e, ai image generator, dall e website, dalle mini, dall e image generator, dall e ai image generator, ai text generator gpt-3, what is gpt-3, openai gpt-3 ]
 category: "Artificial Intelligence"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "15-18 mins"
 h1: "The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI"

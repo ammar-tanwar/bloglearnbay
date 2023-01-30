@@ -6,7 +6,10 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-1
 date: "Dec 7, 2022"
 tag: [ deep learning algorithms in machine learning, deep learning algorithms list, deep learning algorithms examples, artificial neural network, neural network machine learning, neural network deep learning, neural network example, neural network algorithm, types of neural network, deep learning models, deep learning example, types of deep learning, neural network algorithm, deep learning techniques, deep learning algorithm, example of deep learning ]
 category: "Machine Learning"
-author: "Nivin Biswas" 
+author: "Nivin Biswas"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "15-18 mins"
 h1: "The Top 10 Deep Learning Algorithms to Master in 2023"
