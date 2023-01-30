@@ -128,7 +128,7 @@ export default function Post({ postData, posts }) {
                   </div>
                   <h5>Related Posts</h5>
                   <div className={styles.relatePost}>
-                    {posts.map((post, i) => {
+                    {posts.slice(0,5).map((post, i) => {
                       return (
                         <div className={styles.rPost} key={i}>
                           <a href={post.id}>
