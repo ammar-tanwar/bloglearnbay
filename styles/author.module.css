@@ -1,6 +1,6 @@
 .mdiv {
-  display: flex;
-  gap: 4rem;
+  display: grid;
+  grid-template-columns: 30% 70%;
   padding: 65px 100px 50px 177px;
   background: #f2f9ff;
   background-image: url(https://i.ibb.co/FwKg17v/author-banner-2.png);
@@ -28,7 +28,7 @@
 }
 
 .mcircle {
-  margin-left: -50px;
+  /* margin-left: -50px; */
 }
 
 .circle {
@@ -36,11 +36,11 @@
   border: solid 3px #534f4f;
 }
 .m1div {
-  margin-left: -28rem;
+  /* margin-left: -28rem; */
 
-  position: relative;
+  /* position: relative;
   bottom: 2rem;
-  margin-bottom: -4rem;
+  margin-bottom: -4rem; */
 }
 
 .m2div h1 {
@@ -72,7 +72,6 @@
   .mdiv {
     display: flex;
     background: #f2f9ff;
-    /* background-image:url(https://i.ibb.co/7zDq6cq/mobile-banner-1.png); */
   }
   .mdiv > * {
     flex: 1 1 0;
@@ -101,7 +100,7 @@
   }
 
   .m1div {
-    /* margin-left: -28rem; */
+    margin-left: -28rem;
     position: relative;
     top: 11rem;
     left: 1rem;
