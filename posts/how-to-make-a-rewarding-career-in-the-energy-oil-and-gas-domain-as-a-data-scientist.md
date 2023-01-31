@@ -2,7 +2,7 @@
 title:  How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?
 desc: "Data science jobs in energy, oil, and gas have predicted a huge job surge with continuous advancement. Here's how to make a rewarding career in this domain, with the best projects and training to help you stand out from the crowd."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward2.png"
 date: "Apr 6, 2022"
 tag: [ data science use cases in oil and gas, data science jobs in oil and gas, data management in oil and gas industry ]
 category: "Data Science"
@@ -82,7 +82,7 @@ Machine learning processes have changed the way every industry operates. It has 
 
 Now that we have established the profitability factor of **Data Science in the oil and gas industry,** let's shift your attention to the next topic- The importance of data science in these sectors.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward2.png" alt="An illustration of an oil and gas tanker with the caption DATA SCIENCE IN oil, Gas, and Energy Domain." style="width:100%" class="img"/>
+<!-- <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward2.png" alt="An illustration of an oil and gas tanker with the caption DATA SCIENCE IN oil, Gas, and Energy Domain." style="width:100%" class="img"/> -->
 
 ## Advantages of Data Science in the Energy Oil and Gas Industry   
 
