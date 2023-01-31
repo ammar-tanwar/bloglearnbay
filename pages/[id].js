@@ -93,7 +93,7 @@ export default function Post({ postData, posts }) {
           <div className={styles.headerInfo}>
             <h1>{postData.mainH1}</h1>
             <span>
-              By <strong className={styles.aname}><a href={aurl} target="_blank">{postData.author}</a></strong> <BsDot className="bIcon" />
+              By <strong className={styles.aname}><a href={aurl} target="_blank" rel="noreferrer">{postData.author}</a></strong> <BsDot className="bIcon" />
               Published in <strong>{postData.category}</strong>{" "}
               <BsDot className="bIcon" />
               <strong className={styles.time}>{postData.time}</strong>
