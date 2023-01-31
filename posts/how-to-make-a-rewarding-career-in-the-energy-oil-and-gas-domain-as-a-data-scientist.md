@@ -34,7 +34,7 @@ This blog will discuss the use of data science in the energy, oil, and gas indus
 
 ## Key to a Rewarding Career with Data Science in the Oil and Gas Industry?
 
-The oil and gas industry lives and breathes on operational data. As the industry has also been going digital recently, data science will play a massive part in the growth of many businesses in these sectors. And with **data science in the oil and gas industry** , you will not only retain your position in the industry but also have a chance at good pay as a Data science specialist.
+The oil and gas industry lives and breathes on operational data. As the industry has also been going digital recently, data science will play a massive part in the growth of many businesses in these sectors. And with **data science in the oil and gas industry**, you will not only retain your position in the industry but also have a chance at good pay as a Data science specialist.
 
 According to PetroLMI, which provides industry labor market information, the unemployment rate peaked at 16.1% in 2020, 26% below 2014 levels, especially for oil and gas workers. People working in this industry quit alone due to the lack of growth. Even those with more experience are outside the green zone.
 
@@ -92,21 +92,21 @@ Data Science has multiple advantages no matter where you want to use it. Such is
 
 Here are some high-level examples of how data science can help the oil and gas industry.
 
-### 1.Cost-effective:- 
+### 1. Cost-effective:- 
 
 In the oil industry, data analytics can handle large sets of data with accurate efficiency. Generally, oil companies daily deal with extremely large data sets generated at a high rate. This can become quite an expensive process for these companies as dealing with a large amount of data volume can incur high costs. Using big data, companies can not only cut costs but also deal with data in real-time.
 
-### 2.Decision-making:-    
+### 2. Decision-making:-    
 
 The rocks across different locations are structurally not identical. Therefore, the data stored for these geographical structures differs and is unstructured. Time and effort are spent storing unstructured data across any database system.
 
-Using **data science in the oil and gas industry** , scientists can easily store and retrieve different types of multi-face data. This helps in lowering risk and making accurate decisions based on structured data.
+Using **data science in the oil and gas industry**, scientists can easily store and retrieve different types of multi-face data. This helps in lowering risk and making accurate decisions based on structured data.
 
-### 3.Accurate drilling:-   
+### 3. Accurate drilling:-   
 
 Data visualization, seismic analysis, and modern software devices are being used by oil and gas data analytics to manage seismic data. These advanced analytical tools optimize drilling sites, calculate when and how to drill strategically, and handle truck and rail operations. This also helps them in saving millions in the whole operation.
 
-### 4.Performance analysis:-  
+### 4. Performance analysis:-  
 
 Big data helps measure the performance of the machines. For example, we can collect information about the parts, wear and tear, and damage by fitting the machines with sensors for an early warning sign.
 
@@ -138,7 +138,7 @@ And finally, National Iranian Oil Co (NIOC) offers INR 1,750,000 per annum.
 
 Let's see how much **Data Science in the oil and gas industry** can offer you based on different factors.
 
--
+
 ### Based on Experience   
 
 
@@ -157,7 +157,7 @@ In Pune, you will get a salary of Rs.725,146 per annum
 In Kolkata, you will get paid Rs. 402,978 per annum
 " style="width:100%" class="img"/>
 
--
+
 ### Based on Skills    
  
 The salary you get depends heavily on the skills you have earned in a field. Let's look at how much you can make.
