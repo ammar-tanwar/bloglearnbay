@@ -16,7 +16,7 @@ h1: "How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data
 id: "how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist"
 tableData:
   [
-    Key to a Rewarding Career with Data Science in the Oil and Gas Industry?, How can data science help you upskill yourself?, 1. Domain Knowledge, 2. Programming Language,  3. Statistics, 4. Machine Learning and Deep Learning, Advantages of Data Science in the Energy Oil and Gas Industry, 1.Cost-effective:-, 2.Decision-making:-, 3.Accurate drilling:-, 4.Performance analysis:-, What companies are hiring Energy oil and gas data scientists?, How much do data scientists earn?, Based on Experience, Based on Location (India), Based on Skills, The future of data science in the energy oil and gas industry
+    Key to a Rewarding Career with Data Science in the Oil and Gas Industry?, How can data science help you upskill yourself?, 1. Domain Knowledge, 2. Programming Language,  3. Statistics, 4. Machine Learning and Deep Learning, Advantages of Data Science in the Energy Oil and Gas Industry, 1. Cost-effective:-, 2. Decision-making:-, 3. Accurate drilling:-, 4. Performance analysis:-, What companies are hiring Energy oil and gas data scientists?, How much do data scientists earn?, • Based on Experience, • Based on Location (India), • Based on Skills, The future of data science in the energy oil and gas industry
   ]
 ---
 
@@ -76,7 +76,7 @@ Statistics is another essential skill for data scientists used in almost every s
 
 - Correlation: Positive and Negative Correlation.
 
-#### 4. Machine Learning and Deep Learning   
+### 4. Machine Learning and Deep Learning   
 
 Machine learning processes have changed the way every industry operates. It has also modified the methods employed in the oil and gas industry. <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">Machine learning</a> and <a href="https://blog.learnbay.co/the-top-10-deep-learning-algorithms-to-master-in-2023" target="_blank">deep learning</a> prove to be essential parts of everyday tasks in the petroleum sector. Reducing costs, improving site detection, and avoiding risks and failures are just some of the uses of machine learning in the oil and gas industry.
 
@@ -118,12 +118,17 @@ Data science is also very lucrative in terms of <a href="https://blog.learnbay.c
 
 **Some oil and gas companies looking for data scientists are:**
 
-- Saudi Aramco
-- National Iranian Oil Co
-- Schlumberger, Cambridge
-- BP
-- Total
-- Praxair
+  - Saudi Aramco
+  
+  - National Iranian Oil Co
+  
+  - Schlumberger, Cambridge
+  
+  - BP
+  
+  - Total
+  
+  - Praxair
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward4.jpg" alt="A bar graph of salary scales of different companies hiring for Energy, oil, and gas data scientists such as,
 Schlumberger, Cambridge will offer INR 1,468,040 per annum
@@ -139,12 +144,12 @@ And finally, National Iranian Oil Co (NIOC) offers INR 1,750,000 per annum.
 Let's see how much **Data Science in the oil and gas industry** can offer you based on different factors.
 
 
-### Based on Experience   
+### • Based on Experience   
 
 
 The average income of entry-level data scientists is Rs 5,11,468 per year, while professionals with 5 to 9 years of experience earn an annual income of 12 to 14 lakhs INR. This number can reach a healthy crore for people with more than ten years of experience.
 
-### Based on Location (India)
+### • Based on Location (India)
 
 The essential factor affecting your salary as a scientist can vary from place to place based on the demand in the region. So let's see how much you'll get paid in a particular place.
 
@@ -158,14 +163,19 @@ In Kolkata, you will get paid Rs. 402,978 per annum
 " style="width:100%" class="img"/>
 
 
-### Based on Skills    
- 
+### • Based on Skills   
+
 The salary you get depends heavily on the skills you have earned in a field. Let's look at how much you can make.
 
-- Data scientists with Python knowledge can expect around 10.2 Lakh rupees yearly.
+
+- Data scientists with Python knowledge can expect around 10.2 Lakh rupees yearly..
+
 - Knowledge of data science and big data in the oil and gas industry can increase their income by 26%.
+
 - SAS users are paid 9.1 to 10.8 Lakhs per year, while SPSS Professionals are paid 7.3 Lakhs per year.
+
 - Machine Learning engineers' salaries in India start at around Rs 3 to 5 Lakhs and can rise to Rs 16 Lakhs as the industry progresses.
+
 - Professionals with artificial intelligence knowledge can expect Rs 5 to 6 lakhs.
 
 ## The future of data science in the energy oil and gas industry     
