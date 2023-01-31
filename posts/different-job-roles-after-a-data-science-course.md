@@ -5,10 +5,10 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/roles1.jpg"
 date: "Apr 7, 2022"
 tag: [ Hot Topics ]
-author: "Admin"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+author: "Learnbay"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
-authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
+authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 category: "Hot Topics"
 position: "Editor"
 readTime: "20-25 mins"

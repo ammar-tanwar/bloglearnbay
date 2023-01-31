@@ -69,13 +69,13 @@ table {
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
-  font-size:18px;
+  font-size: 17px;
   padding: 8px;
 }
 </style>  
 <table>
   <tr>
-    <th>S.No.</th>
+    <th>S.No &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
     <th>DEEP LEARNING</th>
     <th>NEURAL NETWORK</th>
   </tr>
@@ -124,7 +124,7 @@ td, th {
 </td>
   </tr>
   <tr>
-    <td>5. Performance rate</td>
+    <td>5. Performance rate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>In deep learning algorithms, we can easily raise the high-performance rate.</td>
     <td>As compared to deep learning,  the neural network has a very low-performance rate.</td>
   </tr>
