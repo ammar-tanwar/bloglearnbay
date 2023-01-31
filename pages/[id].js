@@ -11,6 +11,8 @@ import LikeButtonComponent from '../components/LikeButtonComponent/LikeButtonCom
 
 export default function Post({ postData, posts }) {
   // console.log(postData);
+  let makeUrl =  postData.author.toLowerCase().replace(/\s+/g, "-");
+  let aurl = `/author/${makeUrl}`
   return (
     <>
       <section className={styles.MainS}>
@@ -91,7 +93,7 @@ export default function Post({ postData, posts }) {
           <div className={styles.headerInfo}>
             <h1>{postData.mainH1}</h1>
             <span>
-              By <strong>{postData.author}</strong> <BsDot className="bIcon" />
+              By <strong className={styles.aname}><a href={aurl} target="_blank">{postData.author}</a></strong> <BsDot className="bIcon" />
               Published in <strong>{postData.category}</strong>{" "}
               <BsDot className="bIcon" />
               <strong className={styles.time}>{postData.time}</strong>

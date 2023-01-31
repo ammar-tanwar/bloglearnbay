@@ -20,6 +20,7 @@ export default function blog({ allPostsData }) {
     return post.category;
   });
   let categoryPostTag = Array.from(new Set(singleCategoryPost));
+
   return (
     <>
       <Head>
