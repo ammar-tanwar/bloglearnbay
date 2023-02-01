@@ -5,6 +5,7 @@
   background: #f2f9ff;
   background-image: url(https://i.ibb.co/FwKg17v/author-banner-2.png);
   background-size: cover;
+  box-shadow: 0 8px 31px -16px #2372bc;
 }
 .mdiv > * {
   flex: 1 1 0;

@@ -87,34 +87,44 @@ td, th {
   <tr>
     <td>2. Types</td>
     <td>There are three basic types of deep learning architecture:
+    
+<span style="font-size:16px"> • Recursive Neural Networks (RNNs) </span>
 
-• Recursive Neural Networks (RNNs) <br>
-• Unsupervised Networks with Pre-Training <br>
-• Neural Networks with Convolutions <br>
+<span style="font-size:16px"> • Unsupervised Networks with Pre-Training </span>
+
+<span style="font-size:16px"> • Neural Networks with Convolutions  </span>
 </td>
     <td>There are three basic types of neural networks in machine learning architecture:
 
-• Forward feed <br>
-• Recurring neural network (RNN) <br>
-• Symmetrical linked neural network <br>
+ <span style="font-size:16px"> • Forward feed </span>
+
+<span style="font-size:16px"> • Recurring neural network (RNN) </span>
+
+<span style="font-size:16px"> • Symmetrical linked neural network </span>
 </td>
   </tr>
   <tr>
     <td>3. Architecture</td>
     <td>Deep learning architecture is structured into 4 types:-
 
-• Motherboards  <br>
-• PSU <br>
-• RAM <br>
-• Processors <br>
+<span style="font-size:16px"> • Motherboards  </span>
+
+<span style="font-size:16px"> • PSU </span>
+
+<span style="font-size:16px"> • RAM </span>
+
+<span style="font-size:16px"> • Processors </span>
 
 </td>
     <td>Neural network architecture is structured into 4 types:-
 
-• Neurons <br>
-• Connection and weights <br>
-• Propagation function <br>
-• Learning rate <br>
+<span style="font-size:16px"> • Neurons </span>
+
+<span style="font-size:16px"> • Connection and weights </span>
+
+<span style="font-size:16px"> • Propagation function </span>
+
+<span style="font-size:16px"> • Learning rate </span>
 </td>
   </tr>
   <tr>
