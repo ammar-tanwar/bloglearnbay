@@ -16,7 +16,7 @@ h1: "OpenAI GPT-3 Revolution- The Thrill of Next-Gen AI Innovation"
 id: "openai-gpt-3-revolution-the-thrill-of-next-gen-ai-innovation"
 tableData:
   [
-      Why is GPT -3 so special?, OpenAI GPT-3 work model:-, Use cases of GTP-3:-, Some of the GTP-3 integrated applications that helped in attaining great results and productivity:-, But the ultimate twist comes here....
+      Why is GPT -3 so special?, OpenAI GPT-3 work model:-, Use cases of GTP-3:-, GPT-3 integrated application for great results and productivity:-, But the ultimate twist comes here....
 
    ]
 
@@ -31,7 +31,7 @@ Yes, OpenAI GPT-3 is bringing this stunning revolution to the world of AI innova
 
 Let's have a look at the basics of this OpenAI GPT-3 technology.
 
-Neural networks appear to deliver some excellent outcomes in machine learning. One such example is the Generative Pre-trained Transformer _(GPT)-3, developed by OpenAI GPT-3 and capable of generating complex to simple texts through <a href="https://blog.learnbay.co/what-is-supervised-and-unsupervised-learning-in-machine-learning" target="_blank">unsupervised learning</a>.
+Neural networks appear to deliver some excellent outcomes in machine learning. One such example is the Generative Pre-trained Transformer (GPT)-3, developed by OpenAI GPT-3 and capable of generating complex to simple texts through <a href="https://blog.learnbay.co/what-is-supervised-and-unsupervised-learning-in-machine-learning" target="_blank">unsupervised learning</a>.
 
 The "pre" training model requires a small set of documents as input and generates many "post" examples depending on the variables used in the function. However, typically, this model can generate comprehensible text with relevant information.
 
@@ -41,7 +41,7 @@ This technology is new, and many attempts seem to improve its performance. But w
 
 As of the present, GPT-3 is the largest neural network ever created. In the end, GPT-3 is superior to any other model in producing texts that are convincing enough to appear as if it was written by a human.
 
-**Here are a few questions that an individual must be curious about knowing regarding OpenAI GPT-3:-**
+**Here are a few questions that an individual must be curious to know about OpenAI GPT-3:-**
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-2.jpg" style="width:100%" class="img" alt='The photo shows a human hand using a smartphone. A callout from the phone shows a robotic face. Illuminative radiation comes out from the phone screen with a text that reads "GPT."The phone is surrounded by Messenger logos.'/>
 
@@ -57,7 +57,7 @@ Although GPT-3's predictions are unmatched, the language model lacks structure a
 
 ### 3. Why is OpenAI GPT-3 not public? And if it is used, can it be tuned?
 
-The general release adds restrictions that only permit the use of GPT-3 in a few countries worldwide and constraints that prevent it from being used to harm individuals. Because of this, as of May 2016, some nations—including Cuba, Iran, and Russia—cannot access any GPT-3 modules at this time.
+The general release adds restrictions that only permit the use of GPT-3 in a few countries worldwide and constraints that prevent it from being used to harm individuals. Because of this, as of May 2016, some nations including Cuba, Iran, and Russia cannot access any GPT-3 modules at this time.
 
 OpenAI API fine-tuning API for GPT-3 has recently gained some attention due to its ability to improve performance in computer vision tasks making it especially helpful in the context of navigation projects that may not have large datasets to train on.
 
@@ -65,12 +65,12 @@ OpenAI API fine-tuning API for GPT-3 has recently gained some attention due to i
 
 An illustration of a language model is GPT-3, a statistical software that instructs a machine on how to communicate with people in a certain environment, such as the real world. Initially, it was created as neural network software.
 
-Alternatively, GPT-3 is an AI algorithmsystem intended for use in the machine translation industry. It was influenced by an earlier design with the same name but a different methodology.
+Alternatively, GPT-3 is an AI algorithm system intended for use in the machine translation industry. It was influenced by an earlier design with the same name but a different methodology.
 
 Chat GPT-3 is unusual because it can generate original text based on semantic context instead of pre-defined pieces of generated phrases, which sets it apart from preceding models.
 
-Although it may not seem like enough, these advancements could eventually lead to the creation of fully autonomous AI technologies and systems that might be able to apply their writing skills in fields of machine translation, such as copywriting and essay writing.
-What Pre-Training Technique is used in GPT-3?
+Although it may not seem like enough, these advancements could eventually lead to the creation of fully autonomous AI technologies and systems that might be able to apply their writing skills in fields of machine translation, such as copywriting and essay writing. <br>
+**What Pre-Training Technique is used in GPT-3?**
 
 Pre-training the chat GPT-3 artificial intelligence (AI)-powered speech recognition system was developed by a group of University of Berkeley researchers. In Pre-Training chat GPT-3, Speech-to-Text uses deep generative recurrent networks (GRUs) to produce long sequences of the original text in response to recorded audio prompts, in contrast to existing systems that spit out either numerical scores or yes/no judgments.
 
@@ -104,9 +104,9 @@ GPT-3 is appropriate in a wide range of essential situations. It includes everyt
 
 -  Converting legal language to ordinary English using chat GPT-3
 
-**Note** : _OpenAI is also capable of producing AI artwork via DALL-E2. You can read the blog_ <a href="https://blog.learnbay.co/the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai" target="_blank">The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI</a>
+**Note** :_OpenAI is also capable of producing AI artwork via DALL-E2. You can read the blog_ _<a href="https://blog.learnbay.co/the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai" target="_blank">The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI</a>_
 
-## Some of the GTP-3 integrated applications that helped in attaining great results and productivity:-
+## GPT-3 integrated application for great results and productivity:-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-4.jpg" style="width:100%" class="img" alt='A two-part illustration shows a robot reading a book on the left and a girl sitting in a chair using a laptop on the right.'/>
 

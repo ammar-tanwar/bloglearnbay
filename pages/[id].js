@@ -4,6 +4,7 @@ import Link from "next/link";
 import { getAllPostIds, getPostData, getSortedPostsData } from "../lib/posts";
 import Head from "next/head";
 import styles from "../styles/blog.module.css";
+import { sortByDate } from "../utils";
 import { BsDot } from "react-icons/bs";
 import { IoTimeOutline } from "react-icons/io5";
 import Socialshare from "../components/Socialshare/Socialshare";
@@ -13,6 +14,9 @@ export default function Post({ postData, posts }) {
   // console.log(postData);
   let makeUrl =  postData.author.toLowerCase().replace(/\s+/g, "-");
   let aurl = `/author/${makeUrl}`
+
+  let catUrl = postData.category.toLowerCase().replace(/\s+/g, "-");
+  let curl = `/category/${catUrl}`
   return (
     <>
       <section className={styles.MainS}>
@@ -94,7 +98,7 @@ export default function Post({ postData, posts }) {
             <h1>{postData.mainH1}</h1>
             <span>
               By <strong className={styles.aname}><a href={aurl} target="_blank" rel="noreferrer">{postData.author}</a></strong> <BsDot className="bIcon" />
-              Published in <strong>{postData.category}</strong>{" "}
+              Published in <strong className={styles.aname}><a href={curl} target="_blank" rel="noreferrer">{postData.category}</a></strong>{" "}
               <BsDot className="bIcon" />
               <strong className={styles.time}>{postData.time}</strong>
             </span>
@@ -131,7 +135,7 @@ export default function Post({ postData, posts }) {
                   </div>
                   <h5>Related Posts</h5>
                   <div className={styles.relatePost}>
-                    {posts.slice(0,5).map((post, i) => {
+                    {posts.slice(1,6).map((post, i) => {
                       return (
                         <div className={styles.rPost} key={i}>
                           <a href={post.id}>
@@ -196,7 +200,7 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       postData,
-      posts,
+      posts: posts.sort(sortByDate),
     },
   };
 }
