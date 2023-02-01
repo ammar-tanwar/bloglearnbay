@@ -88,7 +88,7 @@ Now that we have established the profitability factor of **Data Science in the o
 
 Data Science has multiple advantages no matter where you want to use it. Such is the malleability of this field. It offers numerous advantages in any field where it is applied.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward3.png" alt="A photo of an energy, oil, and gas factory site." style="width:100%" class="img"/>
+<!-- <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward3.png" alt="A photo of an energy, oil, and gas factory site." style="width:100%" class="img"/> -->
 
 Here are some high-level examples of how data science can help the oil and gas industry.
 
