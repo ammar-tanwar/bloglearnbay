@@ -16,7 +16,7 @@ h1: "OpenAI GPT-3 Revolution- The Thrill of Next-Gen AI Innovation"
 id: "openai-gpt-3-revolution-the-thrill-of-next-gen-ai-innovation"
 tableData:
   [
-      Why is GPT -3 so special?, OpenAI GPT-3 work model:-, Use cases of GTP-3:-, GPT-3 integrated application for great results and productivity:-, But the ultimate twist comes here....
+      Why is GPT-3 so special?, OpenAI GPT-3 work model:-, Use cases of GTP-3:-, GPT-3 integrated application for great results and productivity:-, But the ultimate twist comes here....
 
    ]
 
@@ -35,7 +35,7 @@ Neural networks appear to deliver some excellent outcomes in machine learning. O
 
 The "pre" training model requires a small set of documents as input and generates many "post" examples depending on the variables used in the function. However, typically, this model can generate comprehensible text with relevant information.
 
-## Why is GPT -3 so special?
+## Why is GPT-3 so special?
 
 This technology is new, and many attempts seem to improve its performance. But with time, it has taken an enormous step forward with the best conversational outcomes and customer satisfaction reviews ever!
 
@@ -70,6 +70,7 @@ Alternatively, GPT-3 is an AI algorithm system intended for use in the machine t
 Chat GPT-3 is unusual because it can generate original text based on semantic context instead of pre-defined pieces of generated phrases, which sets it apart from preceding models.
 
 Although it may not seem like enough, these advancements could eventually lead to the creation of fully autonomous AI technologies and systems that might be able to apply their writing skills in fields of machine translation, such as copywriting and essay writing. <br>
+
 **What Pre-Training Technique is used in GPT-3?**
 
 Pre-training the chat GPT-3 artificial intelligence (AI)-powered speech recognition system was developed by a group of University of Berkeley researchers. In Pre-Training chat GPT-3, Speech-to-Text uses deep generative recurrent networks (GRUs) to produce long sequences of the original text in response to recorded audio prompts, in contrast to existing systems that spit out either numerical scores or yes/no judgments.
@@ -104,7 +105,7 @@ GPT-3 is appropriate in a wide range of essential situations. It includes everyt
 
 -  Converting legal language to ordinary English using chat GPT-3
 
-**Note** :_OpenAI is also capable of producing AI artwork via DALL-E2. You can read the blog_ _<a href="https://blog.learnbay.co/the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai" target="_blank">The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI</a>_
+**Note**: _OpenAI is also capable of producing AI artwork via DALL-E2. You can read the blog_ _<a href="https://blog.learnbay.co/the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai" target="_blank">The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI</a>_
 
 ## GPT-3 integrated application for great results and productivity:-
 

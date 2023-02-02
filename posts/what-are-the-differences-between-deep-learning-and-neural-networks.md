@@ -4,7 +4,7 @@ desc: "Deep learning and neural networks in machine learning have always provide
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dlnn-1.jpg"
 date: "Jan 30, 2023"
-tag: [ Neural Networks in machine learning, machine learning architecture, deep learning, ]
+tag: [ Neural Networks in machine learning, machine learning architecture, deep learning vs neural network, ]
 category: "Machine Learning"
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
