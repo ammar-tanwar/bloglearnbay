@@ -30,7 +30,7 @@ Before we get into that, there is no need to panic. There's always a way out, ev
 
 This blog will discuss the use of data science in the energy, oil, and gas industries in detail. How it works, how will it help, and what are its advantages? We'll talk about each topic.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward1.png" alt="A graphical representation of the unemployment rate between 2014 to 2020 in oil and gas industry" style="width:100%" class="img"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward1.png" alt="A graphical representation of the unemployment rate between 2014 to 2020 in oil and gas industry." style="width:100%" class="img"/>
 
 ## Key to a Rewarding Career with Data Science in the Oil and Gas Industry?
 
@@ -139,6 +139,10 @@ The total is INR 1,080,000 per annum
 And finally, National Iranian Oil Co (NIOC) offers INR 1,750,000 per annum.
 " style="width:100%" class="img" />
 
+Image by Author <br/>
+Source: Linkedin
+<br/><br/>
+
 ## How much do data scientists earn?  
 
 Let's see how much **Data Science in the oil and gas industry** can offer you based on different factors.
@@ -159,8 +163,11 @@ Chennai will pay you Rs.794,403 per annum
 In Bangalore, you will make Rs.984,488 per annum
 In Hyderabad, you can get Rs.795,023 per annum
 In Pune, you will get a salary of Rs.725,146 per annum
-In Kolkata, you will get paid Rs. 402,978 per annum
-" style="width:100%" class="img"/>
+In Kolkata, you will get paid Rs. 402,978 per annum.s" style="width:100%" class="img"/>
+
+Image by Author <br/>
+Source- Glassdoor
+<br/><br/>
 
 
 ### • Based on Skills   
@@ -168,7 +175,7 @@ In Kolkata, you will get paid Rs. 402,978 per annum
 The salary you get depends heavily on the skills you have earned in a field. Let's look at how much you can make.
 
 
-- Data scientists with Python knowledge can expect around 10.2 Lakh rupees yearly..
+- Data scientists with Python knowledge can expect around 10.2 Lakh rupees yearly.
 
 - Knowledge of data science and big data in the oil and gas industry can increase their income by 26%.
 
