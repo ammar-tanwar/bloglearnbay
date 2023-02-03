@@ -63,7 +63,7 @@ These layers of artificial neural networks are known as hidden layers. The metho
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 90%;
 }
 
 td, th {
