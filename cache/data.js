@@ -129,5 +129,5 @@ export const posts = [{"id":"5-amazing-usages-of-ai-in-the-entertainment-industr
 {"id":"what-are-the-differences-between-deep-learning-and-neural-networks","title":"What Are The Differences Between Deep Learning and Neural Networks?"},
 {"id":"openai-gpt-3-revolution-the-thrill-of-next-gen-ai-innovation","title":"OpenAI GPT-3 Revolution- The Thrill of Next-Gen AI Innovation"},
 {"id":"how-does-intelligence-augmentation-differ-from-artificial-intelligence","title":"How Does Intelligence Augmentation Differ from Artificial Intelligence?"},
-
+{"id":"8-most-trending-python-libraries-for-natural-language-processing-nlp-2023-update","title":"8 Most Trending Python Libraries for Natural Language Processing (NLP) [2023 Update]"},
 ]
