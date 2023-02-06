@@ -150,9 +150,7 @@ Augmented AI also reduces the numerous chances of medical errors that occur when
 
 ### BFSI sector:-   
 
-**Intelligence Augmentation** can help various <a href="https://blog.learnbay.co/advanced-application-of-ai-in-banking-a-new-era-of-bfsi-sector" target="_blank">BFSI sectors</a> manage and regulate their finances while avoiding common blunders. By utilizing this technology, financial advisors may now quickly customize services that are well-versed in their customers' data needs and risks. This eliminates manual errors, allowing businesses to operate smoothly and efficiently. <br>
-
-The most powerful use of **intelligence augmentation** are:-
+**Intelligence Augmentation** can help various <a href="https://blog.learnbay.co/advanced-application-of-ai-in-banking-a-new-era-of-bfsi-sector" target="_blank">BFSI sectors</a> manage and regulate their finances while avoiding common blunders. By utilizing this technology, financial advisors may now quickly customize services that are well-versed in their customers' data needs and risks. This eliminates manual errors, allowing businesses to operate smoothly and efficiently. The most powerful use of **intelligence augmentation** are:-
 
 -  Enriching the client's experiences
 
