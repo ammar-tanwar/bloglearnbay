@@ -5,10 +5,10 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nagd-1.jpg"
 date: "Mar 29, 2022"
 tag: [ importance of normal distribution in statistics, application of normal distribution in finance ]
-author: "Learnbay"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
-authordesc: ""
-authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
+author: "Manas Kochar" 
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
+authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
+authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 category: "Machine Learning"
 position: "Editor"
 readTime: "3-4 mins"
@@ -46,7 +46,7 @@ Assuming that f(x) is the probability density function and X is a random variabl
 
 The Gaussian and normal distribution are the same in statistics theory. The normal distribution curve is made with the help of the probability density function with the random values. F(x) is the PDF function, and x is the value of Gaussian which is used to represent the real values of random variables having unknown distribution.
 
-There is a property of Gaussian distribution, known as **the Empirical formula** , which shows the confidence interval the value comes under.
+There is a property of Gaussian distribution, known as **the Empirical formula**, which shows the confidence interval the value comes under.
 
 For example, the **normal distribution in statistics** contains a mean value of 0 and a standard deviation of 1.
 
@@ -128,7 +128,7 @@ The normal distribution has some constraints when it comes to financing, as its 
 
 So far, we've learned about the following:
 
-- The **normal distribution in statistics** and the probability bell curve.
+- The **normal distribution in statistics** and the probability bell curve
  
 - The mean and standard deviation in a normal distribution
   

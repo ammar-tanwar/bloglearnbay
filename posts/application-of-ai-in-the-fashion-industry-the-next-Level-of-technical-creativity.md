@@ -77,7 +77,7 @@ Here, artificial intelligence algorithms examine your filtering habits and the t
 
 ### 5. AI for Visual Search Using Cameras to Find Products:-  
 
-E-commerce stores are increasingly applying AI and computer vision technologies to offer products to customers that are similar to what they are looking for. The name of this technology is _ **visual search.** _ You can take a picture of something using your camera and use that picture to look up a similar or identical item online.
+E-commerce stores are increasingly applying AI and computer vision technologies to offer products to customers that are similar to what they are looking for. The name of this technology is _**visual search.** _ You can take a picture of something using your camera and use that picture to look up a similar or identical item online.
 
 ## How does AI work in marketing campaigns?   
 

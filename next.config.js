@@ -38,16 +38,6 @@ module.exports = {
         permanent: true,
       },
 
-      {
-        source: '/oops-why-2022-is-too-late-for-video-Based-data-science-learning',
-        destination: '/oops-why-2023-is-too-late-for-video-based-data-science-learning',
-        permanent: true,
-      },
-      {
-        source: '/oops-why-2023-is-too-late-for-video-Based-data-science-learning',
-        destination: '/oops-why-2023-is-too-late-for-video-based-data-science-learning',
-        permanent: true,
-      },
 
 
       {

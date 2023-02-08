@@ -63,7 +63,7 @@ Considering how the sub-learners are created, we can classify ensemble methods i
 
 1. When learners are developed sequentially (_**AdaBoost vs XGBoost**_): It relies on the interdependence of basic learners. Each learner impacts the next and may determine a regular behavior pattern. Here, AdaBoost becomes a well-known example of such a sequential ensemble method.
    
-2. When learners are developed parallelly (_**XGBoost vs Random Forest**_): The base learners are constructed individually to study and utilize the impacts of their independence and decreaase the error by combining the findings. <a href="https://blog.learnbay.co/random-forest-model-rfm" target="_blank">Random forest</a> is one example of this method in action.
+2. When learners are developed parallelly (_**XGBoost vs Random Forest**_): The base learners are constructed individually to study and utilize the impacts of their independence and decrease the error by combining the findings. <a href="https://blog.learnbay.co/random-forest-model-rfm" target="_blank">Random forest</a> is one example of this method in action.
 
 ## Unique features of the XGBoost Classifier   
 
@@ -122,7 +122,8 @@ The chart starts with 'Dosage less than 15'. This splits into two branches: 'neg
 
 The observation on the left is the only one with a Dosage\<15. All of the other residuals go to the leaf on the right.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/XGBoost4.png" width={800} height={500} class="img" alt=""/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/XGBoost4.png" width={800} height={500} class="img" alt="A flow chart with similarity of 4 residuals with various observation scores.
+The chart starts from 'negative 10.5, 6.5. 7.5, negative 7.5.' This splits into two sub-branches: 'negative 10.5' with a similarity score of 110.25 and '6.5, 7.5, and negative 7.5' with a similarity score of 14.08."/>
 
 When we calculate the similarity score for the observations -10.5, -7.5, 6.5, 7.5, while putting λ = 0.
 
