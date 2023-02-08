@@ -91,7 +91,7 @@ spaCy, which stands for Speech to Parse and Compile, is an open-source Python li
 
 Gensim is a Python-recognized library that can be used for NLP tasks. This library primarily makes use of the unique features of vector modeling and top modeling toolkit to maintain similar interpretations between data. It was developed in 2008 by Tomas Mikolov and a team of researchers. The Gensim algorithm is built on a neural network based on a text generator.
 
-However, it is now used for a wide range of Natural language processing with Python, including document indexing. To process input larger than RAM, Gensim relies on algorithms.
+However, it is now used for a wide range of **natural language processing with Python**, including document indexing. To process input larger than RAM, Gensim relies on algorithms.
 
 In Gensim, Latent Dirichlet Allocation (LDA) and Latent Semantic Analysis (LSA) have efficient multiple core deployments. Other popular use cases for this Python NLP library include finding text similarities and converting words and documents to vectors.
 
