@@ -4,13 +4,12 @@ import styles from "../styles/blogM.module.css";
 import Head from "next/head";
 import Image from "next/image";
 import { BsDot } from "react-icons/bs";
-import { sortByDate } from "../utils";
+import { sortByDate, slugify,ImageUrl } from "../utils";
 import { IoTimeOutline } from "react-icons/io5";
 import generateRssFeed from "../lib/generateRss";
 import generateCategoryRssFeed from "../lib/geneRateCategoryRss";
 import Link from 'next/link';
-
-
+import Sidebar from "../components/Sidebar"
 import Search from '../components/search'
 import utilStyles from '../styles/utils.module.css'
 
@@ -48,7 +47,8 @@ export default function blog({ allPostsData }) {
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
       <p>Latest Blogs</p>  
-        <Search />
+        {/* <Search /> */}
+        <Sidebar/>
         <a href={`/blogs`} className={styles.blogButton}>
                   <button>View All Blogs</button>
         </a>

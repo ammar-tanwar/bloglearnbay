@@ -138,6 +138,11 @@ module.exports = {
         destination: '/successful-data-scientist-without-a-tech-degree-yes-it-is-possible',
         permanent: true,
       },
+      {
+        source: '/media-hospitality-and-transportation-know-how-data-science-will-help-you-to-survive',
+        destination: '/data-science-in-media-hospitality-and-transportation',
+        permanent: true,
+      },
 
     ]
   },
