@@ -6,7 +6,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-
 date: "August 26, 2022" 
 tag: [ Data Science Course, Data Scientist Job, Data Science, data science course in bangalore, data science course fees, data science course online, data science course in india, data science course duration, best data science course, best data science course in india, data scientist jobs bangalore ]
 category: "Data Science"
-author: "Milan"
+author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"

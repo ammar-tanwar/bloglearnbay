@@ -176,7 +176,7 @@
       "date": "Sep 28, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "a-few-fascinating-facts-about-artificial-intelligence-in-2023-and-beyond",
@@ -191,7 +191,7 @@
       "date": "Oct 21, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "ace-the-toughest-data-science-interview-with-these-stunning-tricks",
@@ -206,7 +206,7 @@
       "date": "Sep 5, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "advanced-application-of-ai-in-banking-a-new-era-of-bfsi-sector",
@@ -221,7 +221,7 @@
       "date": "Nov 23, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "ai-and-cybersecurity-a-match-made-in-technology-heaven",
@@ -236,7 +236,7 @@
       "date": "Jan 2, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "application-of-ai-in-social-media-content-optimization",
@@ -247,11 +247,11 @@
       "categories": "Artificial Intelligence",
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-1.jpg",
-      "readTime":"15-18 mins",
+      "readTime": "15-18 mins",
       "date": "Dec 19, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "artificial-intelligence-in-weather-forecasting-it-can-definitely-save-our-day",
@@ -296,7 +296,7 @@
       "date": "Apr 7, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "basics-of-functions-in-python-a-glance",
@@ -386,7 +386,7 @@
       "date": "Jan 7, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "data-science-for-working-professionals",
@@ -401,7 +401,7 @@
       "date": "Jul 08, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "data-science-is-important-why-we-need-it",
@@ -431,7 +431,7 @@
       "date": "Apr 6, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "did-you-know-artificial-intelligence-can-manipulate-human-behavior",
@@ -446,7 +446,7 @@
       "date": "Oct 12, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "different-job-roles-after-a-data-science-course",
@@ -461,7 +461,7 @@
       "date": "Apr 7, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "different-jobs-opportunities-of-data-science",
@@ -476,7 +476,7 @@
       "date": "Nov 7, 2020",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "differentiating-data-scientist-and-data-analyst",
@@ -488,22 +488,7 @@
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/diff1.jpg",
       "readTime": "5-6 mins",
-      "date":  "August 14, 2022",
-      "draft": false
-    }
-  }, 
-
-  {
-    "slug": "edge-ai-and-its-importance-in-todays-tech-world",
-    "frontmatter": {
-      "title": "Edge AI and Its Importance in Today's Tech World!",
-      "slug": "edge-ai-and-its-importance-in-todays-tech-world",
-      "description": "Edge AI is one of the most effective artificial intelligence (AI) programs currently available in the majority of physical devices worldwide. We can quickly access cloud computing while bringing it closer to the user's location with the help of Edge AI technology.",
-      "categories": "Artificial Intelligence",
-      "author": "Nivin Biswas",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-1.jpg",
-      "readTime": "15-18 mins",
-      "date":  "Nov 30, 2022",
+      "date": "August 14, 2022",
       "draft": false
     }
   },
@@ -518,25 +503,25 @@
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-1.jpg",
       "readTime": "15-18 mins",
-      "date":  "Nov 30, 2022",
+      "date": "Nov 30, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "everything-about-data-preprocessing",
     "frontmatter": {
       "title": "Everything About Data Preprocessing",
       "slug": "everything-about-data-preprocessing",
-      "description":"Introduction to Data Preprocessing:- Before modeling the data we need to clean the information to get a training sample for the modeling. Data preprocessing is a data mining technique that involves transforming the raw data into an understandable format",
+      "description": "Introduction to Data Preprocessing:- Before modeling the data we need to clean the information to get a training sample for the modeling. Data preprocessing is a data mining technique that involves transforming the raw data into an understandable format",
       "categories": "Data Science",
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/databack.jpg",
       "readTime": "4-5 mins",
-      "date":  "Nov 25, 2021",
+      "date": "Nov 25, 2021",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "everything-about-decision-tree-from-scratch",
@@ -548,10 +533,10 @@
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tree.png",
       "readTime": "4-5 mins",
-      "date":  "Nov 1, 2021",
+      "date": "Nov 1, 2021",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "everything-about-the-xgboost-classifier",
@@ -560,10 +545,10 @@
       "slug": "everything-about-the-xgboost-classifier",
       "description": "In this blog, learn about the XGBoost classifier and how it works with various applications to increase its efficiency. It will help you to get a brief on machine learning algorithms and improve the predictive modeling structure.",
       "categories": "Machine Learning",
-      "author":  "Vineeth Kumar",
+      "author": "Vineeth Kumar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xgb-1.jpg",
       "readTime": "5-6 mins",
-      "date":  "Feb 04, 2022",
+      "date": "Feb 04, 2022",
       "draft": false
     }
   },
@@ -575,13 +560,13 @@
       "slug": "evolution-of-data-science-in-india",
       "description": "When we talk about evolution of Data Science, we mean about the origin of Statistics, because the term “Data Science” is a tailored term to the original term “Statistics“...",
       "categories": "Data Science",
-      "author":  "Learnbay",
+      "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/evolution.jpg",
       "readTime": "6-7 mins",
-      "date":  "Feb 7, 2020",
+      "date": "Feb 7, 2020",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "exploratory-data-analysis-on-iris-dataset",
@@ -590,13 +575,13 @@
       "slug": "exploratory-data-analysis-on-iris-dataset",
       "description": "Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, spot anomalies, to test hypotheses and to check assumptions with the help of summary statistics and graphical representations...",
       "categories": "Data Science",
-      "author":  "Learnbay",
+      "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/exp.png",
       "readTime": "5-6 mins",
-      "date":  "Jan 3, 2021",
+      "date": "Jan 3, 2021",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "fact-or-hype-an-ibm-data-science-professional-certificate-can-boost-your-career-at-10x-speed",
@@ -605,59 +590,58 @@
       "slug": "fact-or-hype-an-ibm-data-science-professional-certificate-can-boost-your-career-at-10x-speed",
       "description": "A series of unique data science professional certifications are successfully boosting working professional's careers. This blog will shed light on such unique IBM data science certification.",
       "categories": "Data Science",
-      "author":  "Milan Jain",
+      "author": "Milan Jain",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-1.jpg",
       "readTime": "15-18 mins",
-      "date":  "Nov 25, 2022",
+      "date": "Nov 25, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "full-stack-software-developer-course-the-guarantee-of-a-lucrative-career-restart-for-women-after-a-break",
     "frontmatter": {
-      "title":"Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break",
+      "title": "Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break",
       "slug": "full-stack-software-developer-course-the-guarantee-of-a-lucrative-career-restart-for-women-after-a-break",
       "description": "Looking for a way to jumpstart your career after taking a break? Our full stack software developer course is designed specifically for women who want to make a successful career restart.",
       "categories": "Full Stack",
-      "author":  "Milan Jain",
+      "author": "Milan Jain",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f1.jpg",
       "readTime": "9-10 mins",
-      "date":  "Sep 30, 2022",
+      "date": "Sep 30, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "future-of-education-in-hands-of-machine-learning",
     "frontmatter": {
-      "title":"Future of Education in hands of Machine Learning",
+      "title": "Future of Education in hands of Machine Learning",
       "slug": "future-of-education-in-hands-of-machine-learning",
       "description": "The field of machine learning technology is constantly developing and progressing. Additionally, this kind of learning allows computers to learn from data without using programs or human interference. This blog will brief you on comprehending how machine learning is revolutionizing the educational sector.",
       "categories": "Machine Learning",
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/machine.jpg",
       "readTime": "3-4 mins",
-      "date":  "Jun 10, 2022",
+      "date": "Jun 10, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "gaussian-and-normal-distribution",
     "frontmatter": {
-      "title":"Normal and Gaussian Distribution",
+      "title": "Normal and Gaussian Distribution",
       "slug": "gaussian-and-normal-distribution",
       "description": "This blog deals with the overall guide on Normal distribution in statistics. Here you will learn the basics of the normal distribution to its applications in statistical analysis by estimating probability distribution and probability.",
       "categories": "Machine Learning",
       "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nagd-1.jpg",
       "readTime": "3-4 mins",
-      "date":  "Mar 29, 2022",
+      "date": "Mar 29, 2022",
       "draft": false
     }
-  }, 
-
+  },
 
   {
     "slug": "gradient-descent-for-machine-learning",
@@ -669,192 +653,175 @@
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog1.webp",
       "readTime": "5-7 mins",
-      "date":  "Mar 6, 2022",
+      "date": "Mar 6, 2022",
       "draft": false
     }
-  }, 
-
+  },
 
   {
     "slug": "how-can-ai-blockchain-help-with-modern-day-climate-change",
     "frontmatter": {
-      "title":  "How Can AI Blockchain Help With Modern-day Climate Change?",
+      "title": "How Can AI Blockchain Help With Modern-day Climate Change?",
       "slug": "how-can-ai-blockchain-help-with-modern-day-climate-change",
       "description": "In this blog, we will learn about blockchain's benefits in environmental and climate change to build unique approaches that will surely contribute to preserving the environment.",
       "categories": "Artificial Intelligence",
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hcab-1.png",
       "readTime": "5-7 mins",
-      "date":  "Dec 28, 2022",
+      "date": "Dec 28, 2022",
       "draft": false
     }
-  }, 
-
+  },
 
   {
     "slug": "how-can-mlops-techniques-help-bring-advanced-ai-into-mainstream-business",
     "frontmatter": {
-      "title":  "How Can MLOps Techniques Help Bring Advanced AI Into Mainstream Business?",
+      "title": "How Can MLOps Techniques Help Bring Advanced AI Into Mainstream Business?",
       "slug": "how-can-mlops-techniques-help-bring-advanced-ai-into-mainstream-business",
       "description": "The combination of ML with Devops remains cutting edge while launching a machine learning operation. In this blog, we'll build an MLOps process that combines machine learning (ML) with DevOps to accelerate and automate Intelligent App deployment.",
       "categories": "Machine Learning",
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hcmt-1.png",
       "readTime": "15-18 mins",
-      "date":  "Dec 23, 2022",
+      "date": "Dec 23, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "how-darwin-platform-can-ease-ai-related-difficulties-an-invention-by-linkedin",
     "frontmatter": {
-      "title":  "How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin",
+      "title": "How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin",
       "slug": "how-darwin-platform-can-ease-ai-related-difficulties-an-invention-by-linkedin",
-      "description":  "Here in this blog, learn about Darwin's various use cases and implications for any business perspective. This AI-based Darwin platform allows to ease of various type of AI-related difficulties and help to get more output from various AI device.",
+      "description": "Here in this blog, learn about Darwin's various use cases and implications for any business perspective. This AI-based Darwin platform allows to ease of various type of AI-related difficulties and help to get more output from various AI device.",
       "categories": "Artificial Intelligence",
       "author": "Nivin Biswas",
-      "image":"https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/438160-hdap-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/438160-hdap-1.png",
       "readTime": "8-9 mins",
-      "date":  "Jan 6, 2023",
+      "date": "Jan 6, 2023",
       "draft": false
     }
-  }, 
-
-  {
-    "slug": "how-darwin-platform-can-ease-ai-related-difficulties-an-invention-by-linkedin",
-    "frontmatter": {
-      "title":  "How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin",
-      "slug": "how-darwin-platform-can-ease-ai-related-difficulties-an-invention-by-linkedin",
-      "description":  "Here in this blog, learn about Darwin's various use cases and implications for any business perspective. This AI-based Darwin platform allows to ease of various type of AI-related difficulties and help to get more output from various AI device.",
-      "categories": "Artificial Intelligence",
-      "author": "Nivin Biswas",
-      "image":"https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/438160-hdap-1.png",
-      "readTime": "8-9 mins",
-      "date":  "Jan 6, 2023",
-      "draft": false
-    }
-  }, 
+  },
 
   {
     "slug": "how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career",
     "frontmatter": {
-      "title":  "How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?",
+      "title": "How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?",
       "slug": "how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career",
-      "description":  "The field of data analytics has grown in popularity as it has proven to be extremely effective in the fields of retail and E-Commerce. Because of the growing volume of data in numerous areas, data analysts are always in great demand.",
+      "description": "The field of data analytics has grown in popularity as it has proven to be extremely effective in the fields of retail and E-Commerce. Because of the growing volume of data in numerous areas, data analysts are always in great demand.",
       "categories": "Technology",
       "author": "Learnbay",
-      "image":"https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png",
       "readTime": "17-21 mins",
-      "date":  "May 7, 2022",
+      "date": "May 7, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "how-does-data-science-promote-project-managers-to-a-new-perspective-of-success",
     "frontmatter": {
-      "title":  "How Does Data Science Promote Project Managers to a New Perspective of Success",
+      "title": "How Does Data Science Promote Project Managers to a New Perspective of Success",
       "slug": "how-does-data-science-promote-project-managers-to-a-new-perspective-of-success",
-      "description":  "As a project manager, understanding how data science can be used to improve your projects is essential to success. In this article, we will explore how data science can promote project managers to a new perspective of success.",
+      "description": "As a project manager, understanding how data science can be used to improve your projects is essential to success. In this article, we will explore how data science can promote project managers to a new perspective of success.",
       "categories": "Data Science",
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg",
       "readTime": "8-12 mins",
-      "date":  "may 30, 2022",
+      "date": "may 30, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "how-does-intelligence-augmentation-differ-from-artificial-intelligence",
     "frontmatter": {
-      "title":  "How Does Intelligence Augmentation Differ from Artificial Intelligence?",
+      "title": "How Does Intelligence Augmentation Differ from Artificial Intelligence?",
       "slug": "how-does-intelligence-augmentation-differ-from-artificial-intelligence",
-      "description":  "In the blog, we will learn the major difference between intelligence augmentation and artificial intelligence. Here we will also look at various approaches to the deployment, functioning, and use cases of intelligence augmentation in a real-world scenario.",
+      "description": "In the blog, we will learn the major difference between intelligence augmentation and artificial intelligence. Here we will also look at various approaches to the deployment, functioning, and use cases of intelligence augmentation in a real-world scenario.",
       "categories": "Machine Learning",
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdia-1.png",
       "readTime": "9-10 mins",
-      "date":  "Feb 03, 2023",
+      "date": "Feb 03, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "how-is-augmented-reality-helping-the-cyber-security-system",
     "frontmatter": {
-      "title":  "How is Augmented Reality Helping the Cyber Security System?",
+      "title": "How is Augmented Reality Helping the Cyber Security System?",
       "slug": "how-is-augmented-reality-helping-the-cyber-security-system",
-      "description":  "Learn how Augmented Reality is helping the cyber security system by providing a new level of security for businesses and organizations.  AR can be used to detect and respond to potential threats in real time, making it a valuable tool for keeping businesses and individuals safe. Read more to find out how augmented reality is changing the landscape of cyber security.",
+      "description": "Learn how Augmented Reality is helping the cyber security system by providing a new level of security for businesses and organizations.  AR can be used to detect and respond to potential threats in real time, making it a valuable tool for keeping businesses and individuals safe. Read more to find out how augmented reality is changing the landscape of cyber security.",
       "categories": "Artificial Intelligence",
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-1.jpg",
       "readTime": "10-15 mins",
-      "date":  "Nov 14, 2022",
+      "date": "Nov 14, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "how-is-data-science-powering-ott-platform-to-multi-dollar-business",
     "frontmatter": {
-      "title":  "How Is Data Science Powering OTT Platform to Multi-Dollar Business",
+      "title": "How Is Data Science Powering OTT Platform to Multi-Dollar Business",
       "slug": "how-is-data-science-powering-ott-platform-to-multi-dollar-business",
-      "description":  "OTT platforms are generally a type of audio and video services that are delivered over the internet. In this article, we'll show you how to use data science to build an OTT platform that can be used to grow your business in a number of ways.",
+      "description": "OTT platforms are generally a type of audio and video services that are delivered over the internet. In this article, we'll show you how to use data science to build an OTT platform that can be used to grow your business in a number of ways.",
       "categories": "Data Science",
       "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/popt-1.png",
       "readTime": "15-18 mins",
-      "date":  "Dec 26, 2022",
+      "date": "Dec 26, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted",
     "frontmatter": {
       "title": "How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted",
       "slug": "how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted",
-      "description":  "In this blog post we will tell you everything you need to know to get started on your career as a full-stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full-stack developer.",
+      "description": "In this blog post we will tell you everything you need to know to get started on your career as a full-stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full-stack developer.",
       "categories": "Full Stack",
       "author": "Milan Jain",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg",
       "readTime": "15-18 mins",
-      "date":  "Sep 12, 2022",
+      "date": "Sep 12, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "how-to-build-a-rewarding-career-as-a-healthcare-data-scientist",
     "frontmatter": {
       "title": "How to Build a Rewarding Career As a Healthcare Data Scientist?",
       "slug": "how-to-build-a-rewarding-career-as-a-healthcare-data-scientist",
-      "description":  "Data science in Healthcare isn’t something new. It is the most common industry where data science and analytics are applied...",
+      "description": "Data science in Healthcare isn’t something new. It is the most common industry where data science and analytics are applied...",
       "categories": "Data Science",
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health.png",
       "readTime": "10-22 mins",
-      "date":  "May 16, 2022",
+      "date": "May 16, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist",
     "frontmatter": {
       "title": "How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?",
       "slug": "how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist",
-      "description":  "Data science jobs in energy, oil, and gas have predicted a huge job surge with continuous advancement. Here's how to make a rewarding career in this domain, with the best projects and training to help you stand out from the crowd.",
+      "description": "Data science jobs in energy, oil, and gas have predicted a huge job surge with continuous advancement. Here's how to make a rewarding career in this domain, with the best projects and training to help you stand out from the crowd.",
       "categories": "Data Science",
       "author": "Krishna Kumar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward2.png",
       "readTime": "14-17 mins",
-      "date":  "Apr 6, 2022",
+      "date": "Apr 6, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "how-will-ai-in-digital-marketing-save-marketers-in-a-cookieless-world",
@@ -866,10 +833,10 @@
       "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hwad-1.png",
       "readTime": "8-9 mins",
-      "date":  "Jan 20, 2023",
+      "date": "Jan 20, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "human-activity-recognition-with-smart-phone",
@@ -881,10 +848,10 @@
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human.jpg",
       "readTime": "8-10 mins",
-      "date":  "Dec 19, 2021",
+      "date": "Dec 19, 2021",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "hybrid-learning-the-success-key-to-job-guaranteed-professional-training",
@@ -896,10 +863,10 @@
       "author": "Milan Jain",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-1.jpeg",
       "readTime": "9-10 mins",
-      "date":  "August 31, 2022",
+      "date": "August 31, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "hyperautomation-and-its-benefits-to-businesses-and-it-processes",
@@ -911,10 +878,10 @@
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-1.jpg",
       "readTime": "10-15 mins",
-      "date":  "Nov 16, 2022",
+      "date": "Nov 16, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "introduction-to-data-types-what-does-it-mean-in-python-programming",
@@ -926,10 +893,10 @@
       "author": "Vineeth Kumar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-1.jpg",
       "readTime": "9-10 mins",
-      "date":  "August 22, 2022",
+      "date": "August 22, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "introduction-to-python-programming",
@@ -941,10 +908,10 @@
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/soft.jpg",
       "readTime": "7-8 mins",
-      "date":  "Apr 27, 2022",
+      "date": "Apr 27, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "introduction-to-simple-linear-regression-in-machine-learning",
@@ -956,10 +923,10 @@
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear.jpg",
       "readTime": "9-12 mins",
-      "date":  "Sep 07, 2021",
+      "date": "Sep 07, 2021",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
@@ -971,7 +938,7 @@
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg",
       "readTime": "9-10 mins",
-      "date":  "Sep 16, 2022",
+      "date": "Sep 16, 2022",
       "draft": false
     }
   },
@@ -986,7 +953,7 @@
       "author": "Learnbay",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/invest.jpeg",
       "readTime": "7-9 mins",
-      "date":  "Apr 13, 2022",
+      "date": "Apr 13, 2022",
       "draft": false
     }
   },
@@ -996,27 +963,27 @@
     "frontmatter": {
       "title": "Is AI a threat to humanity?",
       "slug": "is-ai-a-threat-to-humanity",
-      "description":  "The alarms rang in Jul 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out I have exposure to the very cutting-edge AI, and I think people should be really concerned about it...",
+      "description": "The alarms rang in Jul 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out I have exposure to the very cutting-edge AI, and I think people should be really concerned about it...",
       "categories": "Data Science",
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isai.png",
       "readTime": "9-10 mins",
-      "date":  "August 18, 2019",
+      "date": "August 18, 2019",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends",
     "frontmatter": {
       "title": "Is Your Data Scientist Salary Competitive? Cross-Check With The Latest Trends",
       "slug": "is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends",
-      "description":  "Wondering if your data scientist salary in India is competitive? Check out the latest salary trends to see where you stand. With the average salary for data scientists in India on the rise, you can be sure that you're getting paid what you're worth.",
+      "description": "Wondering if your data scientist salary in India is competitive? Check out the latest salary trends to see where you stand. With the average salary for data scientists in India on the rise, you can be sure that you're getting paid what you're worth.",
       "categories": "Data Science",
       "author": "Milan Jain",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-1.jpg",
       "readTime": "10-15 mins",
-      "date":  "Nov 21, 2022",
+      "date": "Nov 21, 2022",
       "draft": false
     }
   },
@@ -1031,10 +998,10 @@
       "author": "Milan Jain",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-1.jpg",
       "readTime": "10-15 mins",
-      "date":  "Nov 18, 2022",
+      "date": "Nov 18, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "know-the-10-most-used-programming-languages-for-data-science",
@@ -1046,21 +1013,904 @@
       "author": "Milan Jain",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pdata-1.png",
       "readTime": "9-10 mins",
-      "date":  "Oct 06, 2022",
+      "date": "Oct 06, 2022",
       "draft": false
     }
-  }
+  },
+
+  {
+    "slug": "know-the-best-strategy-to-find-the-right-data-science-job-in-delhi",
+    "frontmatter": {
+      "title": "Know The Best Strategy To Find The Right Data Science Job in Delhi?",
+      "slug": "know-the-best-strategy-to-find-the-right-data-science-job-in-delhi",
+      "description": "Data science careers are buzzing everywhere, and so the data science courses. It’s true that data science salaries are too lucrative and offer sample scopes of career growth...",
+      "categories": "Data Science",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/delhi.jpg",
+      "readTime": "11-12 mins",
+      "date": "August 30, 2020",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "know-the-importance-of-domain-specialization-within-a-data-science-course",
+    "frontmatter": {
+      "title": "Know The Importance of Domain Specialization Within a Data Science Course",
+      "slug": "know-the-importance-of-domain-specialization-within-a-data-science-course",
+      "description": "Data Science is an increasingly popular field, and understanding the importance of Domain Specialization within a Data Science Course can help make your study more productive and successful. Learn why Domain Knowledge is essential, and how it can help you maximize your data science skills in this blog.",
+      "categories": "Data Science",
+      "author": "Milan Jain",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-1.jpg",
+      "readTime": "15-18 mins",
+      "date": "Dec 14, 2022",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "know-the-top-10-data-science-trends-2023",
+    "frontmatter": {
+      "title": "Know The Top 10 Data Science Trends (2023)",
+      "slug": "know-the-top-10-data-science-trends-2023",
+      "description": "From Blockchain to Data Regulation, we have covered the top 10 data science trends for 2023 that will shape the future of data science. Read our blog post to stay ahead of the competition.",
+      "categories": "Data Science",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg",
+      "readTime": "10-13 mins",
+      "date": "May 25, 2022",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "learnbay-data-science-training-in-bangalore",
+    "frontmatter": {
+      "title": "Learnbay | Data Science Training in Bangalore",
+      "slug": "learnbay-data-science-training-in-bangalore",
+      "description": "Data science is an umbrella term which covers many areas of technology from Programming tools, statistics,Mathematics, Machine Learning, and computer science...",
+      "categories": "Data Science",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-data-science-1.png",
+      "readTime": "7-8 mins",
+      "date": "May 28, 2019",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "linear-regression-in-machine-learning",
+    "frontmatter": {
+      "title": "Linear Regression in Machine Learning",
+      "slug": "linear-regression-in-machine-learning",
+      "description": "In statistical modeling, regression analysis is a statistical process for estimating the relationships among variables. It includes many techniques for modeling and analyzing several variables when the focus is on the...",
+      "categories": "Machine Learning",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reg.jpg",
+      "readTime": "6-8 mins",
+      "date": "Dec 30, 2020",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope",
+    "frontmatter": {
+      "title": "Marketing, Sales, and HR Is being a data scientist the only hope?",
+      "slug": "marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope",
+      "description": "Data has become the cornerstone of all industries, and data management strategies have significantly benefited businesses in managing leads for marketing campaigns. After becoming an expert in this field, data scientists can have a fulfilling career. Here is this blog. Using data science, you can learn about many HR, sales, and marketing advanced applications, which accelerate the business revenue like a rocket. ",
+      "categories": "Hot Topics",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market.png",
+      "readTime": "15-19 mins",
+      "date": "Apr 07, 2022",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "method-overriding-in-python-of-data-science-everything-you-need-to-know",
+    "frontmatter": {
+      "title": "Method Overriding in Python of Data Science Everything You Need to Know",
+      "slug": "method-overriding-in-python-of-data-science-everything-you-need-to-know",
+      "description": "Data has become the cornerstone of all industries, and data management strategies have significantly benefited businesses in managing leads for marketing campaigns. After becoming an expert in this field, data scientists can have a fulfilling career. Here is this blog. Using data science, you can learn about many HR, sales, and marketing advanced applications, which accelerate the business revenue like a rocket. ",
+      "categories": "Python",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/over.jpg",
+      "readTime": "10-12 mins",
+      "date": "Dec 17, 2021",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "model-vs-algorithm-in-ml",
+    "frontmatter": {
+      "title": "Model vs Algorithm in ML",
+      "slug": "model-vs-algorithm-in-ml",
+      "description": "Machine Learning works with “models” and “algorithms”, and both play an important role in Machine Learning where the algorithm tells about the process and model is built by following those rules...",
+      "categories": "Artificial Intelligence ",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/model.png",
+      "readTime": "5-6 mins",
+      "date": "Apr 29, 2021",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "nlp-and-deep-learning-for-data-scientists",
+    "frontmatter": {
+      "title": "NLP and Deep Learning for Data Scientists",
+      "slug": "nlp-and-deep-learning-for-data-scientists",
+      "description": "Deep learning and natural language processing (NLP and Deep Learning) are as busy as they’ve always been...",
+      "categories": "Data Science",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nlp.jpg",
+      "readTime": "12-16 mins",
+      "date": "Dec 17, 2020",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "no-code-machine-learning-just-gone-viral-but-what's-that",
+    "frontmatter": {
+      "title": "No Code Machine Learning Just Gone Viral!- But What's That?",
+      "slug": "no-code-machine-learning-just-gone-viral-but-what's-that",
+      "description": "Machine Learning with no code is a subset of Machine Learning. No code Machine Learning uses a development platform with a code-free drag and drop interface, which is basically grounded on ML and AI-based models.",
+      "categories": "Machine Learning",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-1.jpeg",
+      "readTime": "9-10 mins",
+      "date": "Sep 2, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "octoml-the-coolest-platform-for-faster-machine-learning-model-deployment",
+    "frontmatter": {
+      "title": "OctoML- The Coolest Platform for Faster Machine Learning Model Deployment",
+      "slug": "octoml-the-coolest-platform-for-faster-machine-learning-model-deployment",
+      "description": "Artificial intelligence is playing an increasingly important role in weather forecasting. Data mining techniques are helping us to predict the weather more accurately, and this can definitely save us from bad weather.",
+      "categories": "Machine Learning",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-1.jpg",
+      "readTime": "10-15 mins",
+      "date": "Nov 09, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "oops-why-2023-is-too-late-for-video-Based-data-science-learning",
+    "frontmatter": {
+      "title": "Oops! Why 2023 Is Too Late For Video-Based Data Science Learning",
+      "slug": "oops-why-2023-is-too-late-for-video-Based-data-science-learning",
+      "description": "Data science is a rapidly growing field with many opportunities. However, many people are still unaware of the basics of data science learning.",
+      "categories": "Data Science",
+      "author": "Milan Jain",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-4.jpg",
+      "readTime": "9-10 mins",
+      "date": "August 17, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "openai-gpt-3-revolution-the-thrill-of-next-gen-ai-innovation",
+    "frontmatter": {
+      "title": "OpenAI GPT-3 Revolution- The Thrill of Next-Gen AI Innovation",
+      "slug": "openai-gpt-3-revolution-the-thrill-of-next-gen-ai-innovation",
+      "description": "The field of Artificial intelligence is continuously evolving, and the OpenAI GPT-3 is revolutionizing the way we think and use AI. In this blog post, we will explore all the potential implications of GPT-3 and how it helps increase results and productivity.",
+      "categories": "Machine Learning",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-1.jpg",
+      "readTime": "8-9 mins",
+      "date": "Feb 01, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "operators-in-python-operation-using-symbol",
+    "frontmatter": {
+      "title": "Operators in Python - Operation using Symbol",
+      "slug": "operators-in-python-operation-using-symbol",
+      "description": "Python has a set of built-in operators that can be used on different data types. These operators are represented by symbols that you can use in your Python code. In this article, we will learn about the different operators in Python and how to use them.",
+      "categories": "Python",
+      "author": "Vineeth Kumar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg",
+      "readTime": "10-12 mins",
+      "date": "Sep 14, 2022",
+      "draft": false
+    }
+  }, 
+
+
+  {
+    "slug": "practice-of-intelligence-with-help-of-artificial-intelligence-in-academics",
+    "frontmatter": {
+      "title": "The Practice of Intelligence with help of Artificial Intelligence in Academics",
+      "slug": "practice-of-intelligence-with-help-of-artificial-intelligence-in-academics",
+      "description": "AI can help global teaching become a successful venture for teachers to teach students anywhere in the world with the same level of proficiency as a classroom live session.",
+      "categories": "Artificial Intelligence",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/robot.jpg",
+      "readTime": "10-12 mins",
+      "date": "Apr 7, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "random-forest-model-rfm",
+    "frontmatter": {
+      "title": "Random Forest Model : RFM",
+      "slug": "random-forest-model-rfm",
+      "description": "Random Forest Model is also a classification model with the combination of the decision tree. The random forest model algorithm is a supervised classification algorithm...",
+      "categories": "Machine Learning",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm.jpg",
+      "readTime": "9-12 mins",
+      "date": "Dec 20, 2020",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "regression-techniques-in-machine-learning",
+    "frontmatter": {
+      "title": "Regression techniques in Machine Learning",
+      "slug": "regression-techniques-in-machine-learning",
+      "description": "In machine learning, Regression is the most important topic that needed to be learned. There are different types of Regression techniques in Machine Learning which we will know in this article.",
+      "categories": "Machine Learning",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech.jpg",
+      "readTime": "7-8 mins",
+      "date": "May 29, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "reliable-sources-to-understand-about-data-science",
+    "frontmatter": {
+      "title": "Reliable sources to understand about Data Science",
+      "slug": "reliable-sources-to-understand-about-data-science",
+      "description": "Data science is the leading concept currently throughout the world, it has successfully managed to bring different nations under one umbrella...",
+      "categories": "Data Science",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/source.jpg",
+      "readTime": "15-19 mins",
+      "date": "Feb, 2022",
+      "draft": false
+    }
+  }, 
+
+
+  {
+    "slug": "stock-prediction-gone-extraordinarily-precise-an-outstanding-application-of-ml",
+    "frontmatter": {
+      "title": "Stock Prediction Gone Extraordinarily Precise - An Outstanding Application of ML",
+      "slug": "stock-prediction-gone-extraordinarily-precise-an-outstanding-application-of-ml",
+      "description":  "Every individual always seems to find it tough to predict stocks. Machines, on the other hand, are assisting us in making it more accessible. The algorithms are improving their ability to forecast the market's future. The algorithms will be discussed in depth in this blog.",
+      "categories": "Machine Learning",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-1.jpg",
+      "readTime": "10-13 mins",
+      "date": "Oct 27, 2022",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "successful-data-scientist-without-a-tech-degree-yes-it-is-possible",
+    "frontmatter": {
+      "title": "Successful Data Scientist Without A Tech Degree! Yes, It Is Possible",
+      "slug": "successful-data-scientist-without-a-tech-degree-yes-it-is-possible",
+      "description":  "Every individual always seems to find it tough to predict stocks. Machines, on the other hand, are assisting us in making it more accessible. The algorithms are improving their ability to forecast the market's future. The algorithms will be discussed in depth in this blog.",
+      "categories": "Machine Learning",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg",
+      "readTime": "10-13 mins",
+      "date": "Oct 27, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "support-vector-machines",
+    "frontmatter": {
+      "title": "Support Vector Machine",
+      "slug": "support-vector-machines",
+      "description":  "Support vector machines (SVMs) are a particularly powerful and flexible class of supervised algorithms for both classification and regression...",
+      "categories": "Machine Learning",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vector.png",
+      "readTime": "9-12 mins",
+      "date": "Nov 25, 2020",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "text-stemming-in-nlp",
+    "frontmatter": {
+      "title": "Text Stemming In NLP",
+      "slug": "text-stemming-in-nlp",
+      "description":  "Tons of data are generated every day as we speak, we text, we tweet, from voice to text on every social application and to get the insights of these text data we need technology as Text Stemming In NLP.",
+      "categories": "Data Science",
+      "author": "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/stem.jpg",
+      "readTime": "4-5 mins",
+      "date": "Jul 5, 2022",
+      "draft": false
+    }
+  }, 
+
+
+  {
+    "slug": "the-7-best-data-science-project-ideas-to-get-hired-by-top-mncs",
+    "frontmatter": {
+      "title": "The 7 Best Data Science Project Ideas to Get Hired by Top MNCs",
+      "slug": "the-7-best-data-science-project-ideas-to-get-hired-by-top-mncs",
+      "description": "Are you a data science professional looking for the best projects to step up your job opportunities? Here is the list of top Data Science projects that can help you to showcase your skills and land you a dream job.",
+      "categories": "Data Science",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-1.jpg",
+      "readTime": "8-9 mins",
+      "date": "Jan 16, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "the-innovation-of-robot-chef-is-thrilling-the-world-the-power-of-ai",
+    "frontmatter": {
+      "title": "The Innovation of Robot Chef is Thrilling The World! | The Power of AI",
+      "slug": "the-innovation-of-robot-chef-is-thrilling-the-world-the-power-of-ai",
+      "description": "Have you ever considered having your food prepared by a robot chef? Many contend that this concept is impractical and unrelated to reality. But the recent invention has thrilled the world by creating an AI-bot chef, which mimics and cooks food like a top-rated human chef. In fact, such innovative robot chefs are available in India too.",
+      "categories": "Artificial Intelligence",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-1.jpg",
+      "readTime": "10-15 mins",
+      "date": "Nov 04, 2022",
+      "draft": false
+    }
+  }, 
+
+
+  {
+    "slug": "the-most-important-skills-of-data-science-to-master-in-2023",
+    "frontmatter": {
+      "title": "The Most Important Skills of Data Science To Master in 2023?",
+      "slug": "the-most-important-skills-of-data-science-to-master-in-2023",
+      "description": "As data becomes increasingly important in our world, it's more important than ever to master the skills of data science. But what skills are most important? In this article, we'll explore the most important skills of data science.",
+      "categories": "Data Science",
+      "author":  "Milan Jain",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-1.jpg",
+      "readTime": "9-10 mins",
+      "date": "August 30, 2022",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "the-most-trending-applications-of-ai-in-transportation-industry",
+    "frontmatter": {
+      "title": "The Most Trending Applications of AI in Transportation Industry",
+      "slug": "the-most-trending-applications-of-ai-in-transportation-industry",
+      "description": "Understand the significance of AI in the transportation sector to improve service quality with customer satisfaction. This blog highlights the benefits of AI in the transportation industry in easing our life.",
+      "categories": "Artificial Intelligence",
+      "author":  "Milan Jain",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg",
+      "readTime": "15-18 mins",
+      "date": "Dec 9, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "the-necessity-of-machine-learning-in-retail",
+    "frontmatter": {
+      "title": "The Necessity of Machine Learning in Retail",
+      "slug": "the-necessity-of-machine-learning-in-retail",
+      "description":"Machine learning in retail is mostly used in studying customer behaviors. It’s a critical factor in retail. In this blog, you will get a brief overview of numerous machine learning use cases that can readily assist in analyzing customer behavior and creating predictions without human intervention.",
+      "categories": "Machine Learning",
+      "author":   "Learnbay",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/retail.jpg",
+      "readTime": "11-14 mins",
+      "date": "Apr 18, 2022",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai",
+    "frontmatter": {
+      "title":  "The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI",
+      "slug": "the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai",
+      "description":"Did you know you could create images by simply giving commands to a phone or laptop's microphone? If not, this is the blog post for you. DALL-E 2 are deep learning models developed by OpenAI that can generate digital images from text descriptions.",
+      "categories": "Artificial Intelligence",
+      "author":   "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-1.jpg",
+      "readTime": "15-18 mins",
+      "date": "Dec 2, 2022",
+      "draft": false
+    }
+  }, 
+
+
+  {
+    "slug": "the-top-10-deep-learning-algorithms-to-master-in-2023",
+    "frontmatter": {
+      "title":  "The Top 10 Deep Learning Algorithms to Master in 2023",
+      "slug": "the-top-10-deep-learning-algorithms-to-master-in-2023",
+      "description": "The article discusses deep learning algorithms and some of the most effective machine learning tools. These algorithms are highly capable of making predictions, finding data patterns, and decision-making techniques. Read on to gain knowledge of deep learning algorithms with optimal methods and advantages.",
+      "categories": "Artificial Intelligence",
+      "author":   "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-1.jpg",
+      "readTime": "15-18 mins",
+      "date": "Dec 7, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "time-series-forecasting-how-does-it-improve-business-decision-making",
+    "frontmatter": {
+      "title":  "Time Series Forecasting! How Does It Improve Business Decision-Making?",
+      "slug": "time-series-forecasting-how-does-it-improve-business-decision-making",
+      "description": "Times series forecasting helps in making better decisions and predicting upcoming trends. There is numerous use of time series forecasting resembling today's marketing and business demands. Here in this blog, you will be briefed on how time series forecasting can help in making and improving the decision-making abilities.",
+      "categories": "Hot Topics",
+      "author":   "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tsf-1.jpg",
+      "readTime": "8-9 mins",
+      "date": "Jan 23, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-3-python-libraries-for-machine-learning",
+    "frontmatter": {
+      "title":  "Top 3 Python Libraries for Machine Learning!",
+      "slug": "top-3-python-libraries-for-machine-learning",
+      "description": "Python has become an essential tool for machine learning algorithms. In this blog post, you will be briefed with the top 3 python libraries for machine learning, which can help you ease the workload in different types of machine learning-based projects.",
+      "categories": "Hot Topics",
+      "author":   "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tplfm-1.jpg",
+      "readTime": "8-9 mins",
+      "date": "Jan 11, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-5-dsa-projects-for-beginners-in-2023",
+    "frontmatter": {
+      "title":  "Top 5 DSA Projects for Beginners in 2023!",
+      "slug": "top-5-dsa-projects-for-beginners-in-2023",
+      "description": "This article will look at some of the top data structure and algorithm projects that may help you establish a remarkable portfolio and stand out from the crowd. All of these DSA projects are ideal for those new to the DSA field. All of the DSA projects will assist you in showcasing your skills and landing your desired career.",
+      "categories": "Hot Topics",
+      "author":   "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-1.jpg",
+      "readTime": "15-18 mins",
+      "date": "Dec 12, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2023",
+    "frontmatter": {
+      "title":   "Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023",
+      "slug": "top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2023",
+      "description": "Whether you're a manager or leader looking to transition into a data science career, these are the top 5 job-ready data science courses for managers and leaders in 2023.",
+      "categories": "Hot Topics",
+      "author":   "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-1.png",
+      "readTime": "9-10 mins",
+      "date": "August 24, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-5-machine-learning-projects-for-beginners-in-2023",
+    "frontmatter": {
+      "title": "Top 5 Machine Learning Projects for Beginners in 2023",
+      "slug": "top-5-machine-learning-projects-for-beginners-in-2023",
+      "description": " In this blog post, check out the top 5 machine learning projects for beginners in 2023. Here, you can learn about various machine-learning algorithms; these projects will help you get started with machine learning and understand the real-world machine learning problems in a better way.",
+      "categories": "Machine Learning",
+      "author":   "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tmlp-1.jpg",
+      "readTime": "8-9 mins",
+      "date": "Jan 27, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-7-women-full-stack-software-develope-the-inspiration-for-all-women-in-tech",
+    "frontmatter": {
+      "title": "Top 7 Women Full Stack-Software Developer | The Inspiration for all women in Tech",
+      "slug": "top-7-women-full-stack-software-develope-the-inspiration-for-all-women-in-tech",
+      "description": "In this article, we will read about seven highly recognized female full-stack developers, their education and career paths, and their advice for aspiring software developers.",
+      "categories": "Full Stack",
+      "author":   "Milan Jain",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-1.jpg",
+      "readTime": "9-10 mins",
+      "date": "Oct 04, 2022",
+      "draft": false
+    }
+  }, 
+
+
+  {
+    "slug": "top-8-domains-for-data-science-those-offering-tempting-job-opportunities",
+    "frontmatter": {
+      "title": "Top 8 Domains For Data Science Those Offering Tempting Job Opportunities",
+      "slug": "top-8-domains-for-data-science-those-offering-tempting-job-opportunities",
+      "description":  "Check out our list of the top 8 domains for data science that are offering tempting job opportunities. We will tell you about the skills you need to succeed in each domain and the types of jobs that are available.",
+      "categories": "Data Science",
+      "author":   "Milan Jain",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d0.jpg",
+      "readTime": "15-18 mins",
+      "date": "Oct 19, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-25-interview-question-on-statistics",
+    "frontmatter": {
+      "title": "Top 25 interview question on Statistics",
+      "slug": "top-25-interview-question-on-statistics",
+      "description":  "Every member and set of members have an equal chance of being included in the sample. Technology, random number generators, or some other sort of change process is needed to get a simple random sample.",
+      "categories": "Hot Topics",
+      "author":   "Milan Jain",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-1.jpg",
+      "readTime": "10-15 mins",
+      "date": "Jan 24, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-30-highest-paying-jobs-to-target-in-2023",
+    "frontmatter": {
+      "title": "Top 30 Highest Paying Jobs to Target in 2023",
+      "slug": "top-30-highest-paying-jobs-to-target-in-2023",
+      "description":  "This blog post is for you if you are looking for a career change or a high-paying job. Here you will learn about the 30 Highest paying jobs in the technical field that will reach a peak in the upcoming few years.",
+      "categories": "Hot Topics",
+      "author":   "Trisha Manna",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-1.jpg",
+      "readTime": "8-9 mins",
+      "date": "Jan 18, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-50-interview-questions-of-machine-learning",
+    "frontmatter": {
+      "title": "Top 50 interview questions of Machine Learning",
+      "slug": "top-50-interview-questions-of-machine-learning",
+      "description":  "Get prepared for your machine learning interview with our list of the top 50 most commonly asked interview questions. From linear regression to time series, these questions cover a wide range of topics and will help you showcase your knowledge and skills in the field of machine learning. Improve your chances of landing the job by reviewing these essential interview questions of machine learning.",
+      "categories": "Machine Learning",
+      "author":   "Learnbay",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview.jpg",
+      "readTime": "33-42 mins",
+      "date": "May 27, 2021",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-courses-in-2023-for-a-full-stack-software-developer",
+    "frontmatter": {
+      "title":  "Top Courses in 2023 for a Full-Stack Software Developer",
+      "slug": "top-courses-in-2023-for-a-full-stack-software-developer",
+      "description":  "If you're looking for the best full-stack software development course, this blog post is for you. Here is a list of some of the best courses, ranging from beginner to advanced, that can help you easily choose a career as a full-stack software developer.",
+      "categories": "Full Stack",
+      "author":   "Manas Kochar" ,
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tcfs-1.jpg",
+      "readTime": "8-9 mins",
+      "date": "Jan 13, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "top-data-science-certifications-in-2023-exclusive-to-banking-professionals",
+    "frontmatter": {
+      "title":  "Top Data Science Certifications In 2023 - Exclusive To Banking Professionals",
+      "slug": "top-data-science-certifications-in-2023-exclusive-to-banking-professionals",
+      "description":  "If you are a finance or banking professional looking for a data science course that can increase your salary by 400%, then check out our list of the best data science certification programs and financial analytics training courses that will undoubtedly help you land a job at a top fintech company and advance your career opportunities.",
+      "categories": "Data Science",
+      "author":   "Milan Jain",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tcfs-1.jpg",
+      "readTime": "7-8 mins",
+      "date": "Jun 09, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-technical-and-soft-skills-required-for-data-scientists-in-fintech-2023-update",
+    "frontmatter": {
+      "title":  "Top Technical and Soft Skills Required for Data Scientists in Fintech(2023 Update)",
+      "slug": "top-technical-and-soft-skills-required-for-data-scientists-in-fintech-2023-update",
+      "description":   "Data scientists are in high demand in the financial industry. According to a prominent recruiter, the need for data scientists with fintech experience is at an all-time high. With a growing interest in big data and machine learning, Fintech is one of the most profitable data science sectors. This blog will examine the industry's top technical and soft skills required for data scientists.",
+      "categories": "Data Science",
+      "author":   "Nivin Biswas",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-1.png",
+      "readTime": "15-18 mins",
+      "date": "Dec 21, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "tuples-an-immutable-derived-datatype",
+    "frontmatter": {
+      "title":  "Tuples - An Immutable Derived Datatype",
+      "slug": "tuples-an-immutable-derived-datatype",
+      "description":   "In this blog post, we'll learn more about the tuple primitives in Python.  we can describe a tuple in Python as a general grouping of objects encased in a round bracket and separated by commas. In the general coding of Python, we can use tuples in multiple operations.",
+      "categories": "Python",
+      "author":   "Vineeth Kumar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-1.jpg",
+      "readTime": "15-18 mins",
+      "date": "August 18, 2022" ,
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "types-of-machine-learning-models-quickly-explained",
+    "frontmatter": {
+      "title": "Types of Machine Learning Models - Quickly Explained",
+      "slug": "types-of-machine-learning-models-quickly-explained",
+      "description":   "There are various types of machine learning models, and each model has its unique characteristics and features. Here in this blog, you will be briefed on various types of machine learning models that you need to know, which will help you to easily comprehend their work patterns and use cases.",
+      "categories": "Machine Learning",
+      "author":   "Nivin Biswas",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/toml-1.jpg",
+      "readTime": "8-9 mins",
+      "date": "Jan 9, 2023" ,
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "what-are-the-differences-between-deep-learning-and-neural-networks",
+    "frontmatter": {
+      "title": "What Are The Differences Between Deep Learning and Neural Networks?",
+      "slug": "what-are-the-differences-between-deep-learning-and-neural-networks",
+      "description":    "Deep learning and neural networks in machine learning have always provided a better approach when implementing any ML-related tasks or projects. In this blog, you will be briefed on the key differences between deep learning and neural networks, which will assist you in determining which approach is best for your needs.",
+      "categories": "Machine Learning",
+      "author":   "Nivin Biswas",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dlnn-1.jpg",
+      "readTime": "8-9 mins",
+      "date": "Jan 30, 2023" ,
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "what-is-a-job-ready-capstone-project-and-why-is-it-important-in-ai-and-data-science-course",
+    "frontmatter": {
+      "title": "What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?",
+      "slug": "what-is-a-job-ready-capstone-project-and-why-is-it-important-in-ai-and-data-science-course",
+      "description": "A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology.",
+      "categories": "Data Science",
+      "author":   "Milan Jain",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-1.jpg",
+      "readTime": "9-10 mins",
+      "date": "August 29, 2022" ,
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "what-is-aiot-know-its-advantages-in-real-world-scenarios",
+    "frontmatter": {
+      "title": "What is AIoT? Know Its Advantages in Real-world Scenarios",
+      "slug": "what-is-aiot-know-its-advantages-in-real-world-scenarios",
+      "description": "AIoT, or artificial intelligence of things, is an approach to the development of intelligent systems that use data from sensors and other sources. AIoT is a combination of Artificial intelligence and IoT. In a word, it's the 'next-gen IoT.'",
+      "categories": "Artificial Intelligence",
+      "author":   "Nivin Biswas",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-1.jpg",
+      "readTime": "15-18 mins",
+      "date": "Nov 28, 2022",
+      "draft": false
+    }
+  }, 
+  
+  
+  {
+    "slug": "what-is-data-science-uncovering-the-explicit-truth",
+    "frontmatter": {
+      "title": "What is Data Science ? | Uncovering The Explicit Truth",
+      "slug": "what-is-data-science-uncovering-the-explicit-truth",
+      "description": "Data science is the field of study combining programming, domain expertise, skills, and knowledge of mathematics and statistics to derive meaningful insights from data.",
+      "categories": "Data Science",
+      "author":   "Milan Jain",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science1.png",
+      "readTime": "9-10 mins",
+      "date": "August 26, 2022" ,
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "what-is-generative-ai-all-you-need-to-know",
+    "frontmatter": {
+      "title": "What Is Generative AI? All You Need To Know!",
+      "slug": "what-is-generative-ai-all-you-need-to-know",
+      "description": "Generative AI is a type of Artificial Intelligence that is used to generate new data from scratch. This could be anything from new images to new text or even new 3D models.",
+      "categories": "Artificial Intelligence",
+      "author":    "Nivin Biswas",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-1.jpg",
+      "readTime": "9-10 mins",
+      "date": "Sep 20, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug":  "what-is-ml-fairness-indicator-all-you-need-to-know",
+    "frontmatter": {
+      "title": "What is ML Fairness Indicator?- All You Need to Know",
+      "slug": "what-is-generative-ai-all-you-need-to-know",
+      "description": "Google's new ML fairness indicator is designed to help developers assess the fairness of their machine learning models. In this article, we'll explain what the ML fairness indicator is and how it works.",
+      "categories": "Machine Learning",
+      "author": "Nivin Biswas",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-11.jpg",
+      "readTime": "10-13 mins",
+      "date": "Nov 2, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug":  "what-is-supervised-and-unsupervised-learning-in-machine-learning",
+    "frontmatter": {
+      "title":  "What is Supervised, Unsupervised Learning, and Reinforcement Learning in Machine Learning",
+      "slug": "what-is-supervised-and-unsupervised-learning-in-machine-learning",
+      "description": "Machine learning algorithms have impacted different types of sectors based on their uses and implications; here in this blog, you will get an overview of all machine learning algorithms, such as Supervised, unsupervised, and reinforcement learning, and their importance in relevant fields.",
+      "categories": "Machine Learning",
+      "author":  "Learnbay",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wisu-1.png",
+      "readTime": "7-8 mins",
+      "date": "Apr 7, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug":  "why-you-need-data-structures-and-algorithms-training",
+    "frontmatter": {
+      "title":  "Why You Need Data Structures And Algorithms training",
+      "slug": "why-you-need-data-structures-and-algorithms-training",
+      "description": "The best of actors practice their dialogues in front of the mirror; they do several rehearsals before they start shooting for a film. The best of cricketers spend hours in the net, practicing...",
+      "categories": "Data Science",
+      "author":  "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/datastructure.png",
+      "readTime": "9-10 mins",
+      "date": "May 8, 2017",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug":  "win-this-covid-19-with-data-science-course",
+    "frontmatter": {
+      "title":  "Win the COVID-19",
+      "slug": "win-this-covid-19-with-data-science-course",
+      "description": "COVID-19 is an inevitable unfortunate situation, each one of us have got to fight it being at home, I just hope this all ends soon...",
+      "categories": "Data Science",
+      "author":  "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/covid.png",
+      "readTime": "5-7 mins",
+      "date": "Apr 24, 2021",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":   "women-in-ai-top-10-indian-women-empowering-the-world-of-ai",
+    "frontmatter": {
+      "title":  "Women in AI - Top 10 Indian Women Empowering the World of AI",
+      "slug":  "women-in-ai-top-10-indian-women-empowering-the-world-of-ai",
+      "description": "Indian women are making a mark in the field of artificial intelligence. Here is a list of the top 10 Indian women who are empowering the world of AI. We salute these women for their work and achievements.",
+      "categories": "Artificial Intelligence",
+      "author":  "Milan Jain",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-1.png",
+      "readTime": "9-10 mins",
+      "date": "Sep 26, 2022",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":   "you-could-be-a-pro-in-data-science-by-self-assisting",
+    "frontmatter": {
+      "title":  "You could be a pro in Data Science by Self Assisting",
+      "slug":  "you-could-be-a-pro-in-data-science-by-self-assisting",
+      "description": "Get good at stats, math and machine learning. Take online data course. Learn to code. Computer science, development and a language...",
+      "categories": "Data Science",
+      "author":  "Learnbay",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ucbp.png",
+      "readTime": "8-9 mins",
+      "date": "Sep 11, 2022",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "young-data-scientists",
+    "frontmatter": {
+      "title":  "Young Data Scientists",
+      "slug": "young-data-scientists",
+      "description":  "Data Science is like a wildlife jungle, looks amazing and interesting at first sight but just as one tries to enter into it the vastness of Data Science will be visible, which is so vast that it will scare the one to drop the passion of Data Science...",
+      "categories": "Data Science",
+      "author":  "Learnbay",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/young.jpg",
+      "readTime": "7-9 mins",
+      "date": "Dec 17, 2021",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "how-to-use-pythons-pywhatkit-module-for-sending-message-generating-codes",
+    "frontmatter": {
+      "title":  "How to Use Python's Pywhatkit Module for Sending Message-Generating Codes?",
+      "slug": "how-to-use-pythons-pywhatkit-module-for-sending-message-generating-codes",
+      "description":"We have seen various implications of the python programming language. And Python's Pywhatkit module seems to prove a powerful tool for sending message-generating codes. In this blog, you will learn how to configure and run the Pywhatkit module for sending an auto-generated message.",
+      "categories": "Python",
+      "author":  "Nivin Biswas",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/htup-1.jpg",
+      "readTime": "9-10 mins",
+      "date": "Feb 10, 2023",
+      "draft": false
+    }
+  }, 
+  
+  {
+    "slug":  "application-of-ai-in-the-fashion-industry-the-next-Level-of-technical-creativity",
+    "frontmatter": {
+      "title":  "Application of AI in the Fashion Industry:- The Next-Level of Technical Creativity",
+      "slug":  "application-of-ai-in-the-fashion-industry-the-next-Level-of-technical-creativity",
+      "description":"The application of AI in the fashion industry has enhanced the next level of technical creativity. In this blog, you will be briefed on the various applications of AI in the fashion industry that will technically advance and customize the innovative technique for fashion designers.",
+      "categories": "Artificial Intelligence",
+      "author":  "Nivin Biswas",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aoai-1.jpg",
+      "readTime": "9-10 mins",
+      "date": "Feb 08, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug":  "data-science-in-media-hospitality-and-transportation",
+    "frontmatter": {
+      "title":  "Data Science in Media, Hospitality, and Transportation",
+      "slug":  "data-science-in-media-hospitality-and-transportation",
+      "description": "Data science in the transportation and hospitality industry has been helping a  lot of people to survive and thrive. In this blog, you will learn how data science can be implemented to showcase better customer services, optimize operations and make more efficient businesses in such sectors.",
+      "categories": "Data Science",
+      "author":  "Nisha Kumari",
+      "image":    "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsmh-1.jpg",
+      "readTime": "10-13 mins",
+      "date": "Apr 6, 2022",
+      "draft": false
+    }
+  } 
 
 
 
-
-
-
-
-
-
-
-
-
-
+  
 ]
