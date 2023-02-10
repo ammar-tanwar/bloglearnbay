@@ -2,14 +2,14 @@
 title: Data Science in Media, Hospitality, and Transportation
 desc: "Data science in the transportation and hospitality industry has been helping a  lot of people to survive and thrive. In this blog, you will learn how data science can be implemented to showcase better customer services, optimize operations and make more efficient businesses in such sectors."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsmh-1.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsmh-1.jpg"
 date: "Apr 6, 2022"
 tag: [ data science in travel and transportation, data science in hospitality industry ]
 category: "Data Science"
 author: "Nisha Kumari"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
-authordesc: ""
-authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nisha-kumari.webp"
+authordesc: "Nisha Kumari, the co-founder, and MD has over 8+ years of experience in data management and is accountable for managing all business operations and providing effective direction to the board."
+authorlinkedin: "https://www.linkedin.com/in/nisha-kumari-94a733243/"
 position: "editor"
 readTime: "10-13 mins"
 h1: "Data Science in Media, Hospitality, and Transportation"
