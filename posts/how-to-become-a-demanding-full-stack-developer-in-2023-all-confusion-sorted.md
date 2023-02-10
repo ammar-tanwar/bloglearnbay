@@ -5,7 +5,7 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg"
 date: "Sep 12, 2022"
 tag: [ Full stack, full stack developer, full stack developer course, how to become a full stack developer, how to become a full stack developer with no experience, full stack developer salary, full stack developer course, how to become a full stack developer roadmap, how to become a full stack developer for free, how to become a full stack developer in 2022, how to become a full stack developer in 2023, how to become a full stack developer in india, how to become a full-stack developer roadmap, how to become a full stack developer in python, how long does it take to become a full stack developer, how hard is it to become a full stack developer, how to start to become a full stack developer ]
-author: "Milan"
+author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"

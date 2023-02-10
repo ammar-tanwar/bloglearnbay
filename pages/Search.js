@@ -1,0 +1,52 @@
+import Head from 'next/head'
+import Post from '../components/Post'
+// import Banner from "../components/Banner";
+import search from "../search.json";
+import { useRouter } from 'next/router'
+// import { NextSeo } from 'next-seo';
+import {sortByDate, ImageUrl } from '../utils'
+import styles from "../styles/blogM.module.css";
+
+export default function Search() {
+    const { query } = useRouter()
+    const TempPosts = []
+
+    search.map(
+        (post) => {
+            if (post.frontmatter.draft === false) {
+                if (post.frontmatter.title.toLowerCase().includes(query.q) || post.frontmatter.slug.toLowerCase().includes(query.q) || post.frontmatter.description.toLowerCase().includes(query.q) || post.frontmatter.author.toLowerCase().includes(query.q)) {
+                    TempPosts.push(post)
+                } else {
+                    TempPosts.push(null)
+                }
+            }
+        }
+    )
+
+    //   remove null in posts 
+    const posts = TempPosts.filter(
+        path => {
+            return path && path
+        }
+    )
+
+    return (
+        <>
+        <br/><br/><br/>
+        <section className={styles.blogWrap} > 
+            {
+                posts.length > 0 ?
+                    posts.map((post, index) => (
+                        <Post key={index} post={post} />
+                    )) : <div>
+                        <h2>
+                            {query.q ? `No post find base on ${query.q} ` : 'loadding.. '}
+                        </h2>
+                    </div>
+            }
+        </section>
+        </>
+    )
+}
+
+

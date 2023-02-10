@@ -16,7 +16,7 @@ h1: "Application of AI in the Fashion Industry:- The Next-Level of Technical Cre
 id: "application-of-ai-in-the-fashion-industry-the-next-Level-of-technical-creativity"
 tableData:
   [
-     What impact has AI had on the fashion industry?, Let's explore the few use cases and applications listed:-, 1. AI in fashion designing:-, 2. AI Fashion Stylist Accessorizing Clothing:-, 3. AI in Smart Mirrors:-, 4. AI In Fashion eCommerce:-, 5. AI for Visual Search Using Cameras to Find Products:-, How does AI work in marketing campaigns?, 1. Virtualized advertising campaigns and fashion shows:-, 2. Better customization and virtual fitting rooms lowering refunds and improving customer satisfaction:-, 3. Increasing the demand for used goods:-, 4. AI sales forecasting prevents warehousing, Conclusion:-
+     What impact has AI had on the fashion industry?, Let's explore the few use cases and applications listed:-, 1. AI in fashion designing:-, 2. AI Fashion Stylist Accessorizing Clothing:-, 3. AI in Smart Mirrors:-, 4. AI In Fashion eCommerce:-, 5. AI for Visual Search Using Cameras to Find Products:-, How does AI work in marketing campaigns?, 1. Virtualized advertising campaigns and fashion shows:-, 2. Better customization and virtual fitting rooms lowering refunds and improving customer satisfaction:-, 3. Increasing the demand for used goods:-, 4. AI sales forecasting prevents warehousing:-, Conclusion:-
    ]
 
 ---
@@ -107,7 +107,7 @@ Among Gen-Xers drawn to the circular economy notion of prolonging a product's li
 
 The second-hand market is anticipated to experience substantial growth over the next several years. In large part due to the capabilities of AI, in 2018, it was valued at $24 billion, and by 2023, it is anticipated to be worth $51 billion. Users of websites that sell used clothing stand to gain a lot from AI, including better customer experiences thanks to more accurate pricing, better-personalized user experiences, and better styling services.
 
-### 4. AI sales forecasting prevents warehousing   
+### 4. AI sales forecasting prevents warehousing:- 
 
 Reducing stockpiling is one of the industry's most well-known and widely adopted practices. As clothing trends evolve daily, stockpiling generates a significant amount of trash. The use of sophisticated data analytics and <a href="https://blog.learnbay.co/no-code-machine-learning-just-gone-viral-but-what's-that" target="_blank">machine learning</a> sales forecasting to more accurately estimate sales, fashion trends, and consumer behavior and lower the number of unsold goods each season is one of the most obvious use cases for artificial intelligence in this area.
 

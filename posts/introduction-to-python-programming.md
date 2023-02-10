@@ -5,7 +5,7 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/soft.jpg"
 date: "Apr 27, 2022"
 tag: [ Features of Python, python programming language, what is python why should you learn python, what we need to learn python, advantages of python, python features and advantages, applications of python ]
-category: "Data Science"
+category: "Python"
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

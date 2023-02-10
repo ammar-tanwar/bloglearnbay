@@ -6,7 +6,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-
 date: "Sep 28, 2022"
 tag: [ A career in data science, Career break, Data science and AI, building a career in data science, how to pursue a career in data science, data science career growth, career in data science salary, data scientist career path and salary ]
 category: "Hot Topics"
-author: "Milan"
+author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
