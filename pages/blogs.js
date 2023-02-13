@@ -3,6 +3,7 @@ import { getSortedPostsData } from "../lib/posts";
 import styles from "../styles/blogM.module.css";
 import Head from "next/head";
 import Image from "next/image";
+import Sidebar from "../components/Sidebar"
 import { BsDot } from "react-icons/bs";
 import { sortByDate } from "../utils";
 import { IoTimeOutline } from "react-icons/io5";
@@ -42,7 +43,8 @@ export default function blog({ allPostsData }) {
         {/* <Search />  */}
         <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         {/* <h2 className={utilStyles.headingLg}>Search</h2> */}
-        <Search />
+        {/* <Search /> */}
+        <Sidebar/>
       </section>
         </div>
 

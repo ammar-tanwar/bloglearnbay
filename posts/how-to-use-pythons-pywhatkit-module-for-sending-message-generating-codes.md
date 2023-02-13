@@ -48,7 +48,7 @@ Pywhatkit is a package for Python that enables you to send individual or group c
    
 2. Additionally, you only need to follow a couple of the instructions if you don't have a Chrome browser.
    
-3. A stable Chrome driver from (<a href="https://chromedriver.chromium.org/" target="_blank" >https://chromedriver.chromium.org/</a>) must be installed.
+3. A stable Chrome driver from (<a href="https://chromedriver.chromium.org/" target="_blank" rel="nofollow">https://chromedriver.chromium.org/</a>) must be installed.
    
 4. After extracting and installing, just search for the file application called Chrome Drive in Windows. It ought to appear as **C:/Users/.../chromedriver.exe.**
    
@@ -146,4 +146,4 @@ _Explanation:-_
 
 ## Summing up:-    
 
-We have seen how the python pywhatkit module appears to be an extremely useful tool for sending WhatsApp messages. Apart from that, there are numerous other uses of pywhatkit, such as video sorting, web searches, and so on. With the future trends, python libraries will undoubtedly make tremendous achievements. Check out our <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank">Data Science and AI Master Program</a> if you want to learn more about Python and other programming languages, please follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>, and <a href="https://www.linkedin.com/company/learnbay/" target="_blank">Linkedin</a>.
+We have seen how the python pywhatkit module appears to be an extremely useful tool for sending WhatsApp messages. Apart from that, there are numerous other uses of pywhatkit, such as video sorting, web searches, and so on. With the future trends, python libraries will undoubtedly make tremendous achievements. Check out our <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course" target="_blank">Data Science and AI Master Program</a> if you want to learn more about Python and other programming languages, please follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>, and <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a>.

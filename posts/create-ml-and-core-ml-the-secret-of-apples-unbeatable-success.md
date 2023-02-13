@@ -17,7 +17,7 @@ h1: "Create ML and Core ML- The Secret of Apple's Unbeatable Success"
 id: "create-ml-and-core-ml-the-secret-of-apples-unbeatable-success"
 tableData:
   [
-      Create ML and Core ML:-, Machine Learning Algorithms on 'Create ML':-, Machine Learning on 'Core ML':-, How does Apple implement machine learning in its products?, Top 5 ML Innovations of Apple, 1. Machine Learning in voice assistance:-, 2. Image sorting and emojis:-, 3. ML in clicking images:-, 4. ML in Apple Pencil:-, 5. ML in Apple watches:-, Final thoughts:-
+      Create ML and Core ML:-, Machine Learning Algorithms in 'Create ML':-  , Machine Learning on 'Core ML':-, How does Apple implement machine learning in its products?, Top 5 ML Innovations of Apple, 1. Machine Learning in voice assistance:-, 2. Image sorting and emojis:-, 3. ML in clicking images:-, 4. ML in Apple Pencil:-, 5. ML in Apple watches:-, Final thoughts:-
    ]
 
 ---
@@ -27,11 +27,11 @@ tableData:
 
 Apple is the most hyped tech brand in the globe. The user experience is so seamless that users even review their product as if they '_bought an emotion, not a product_.' But did you know what tactics Apple uses behind its strategy of creating such market hype?
 
-Their strategy is quite simple but extremely unique. They are utilizing machine learning (ML) in the most creative way to achieve the maximum possible advancement in their technical innovation.
+Their strategy is quite simple but extremely unique. They are utilizing Machine Learning (ML) in the most creative way to achieve the maximum possible advancement in their technical innovation.
 
 To enable intelligent features and innovative app experience, Apple created on-device machine learning capabilities that train, deploy and target trained models in real-time.
 
-It has mastered the technique of how to turn any iOS app into a reliable platform for machine learning by using the **Core/C** **_reate ML_** tools and interfaces- Two well-known supervised machine learning components by Apple.
+It has mastered the technique of how to turn any iOS app into a reliable platform for machine learning by using the **Core/Create ML_** tools and interfaces- Two well-known supervised machine learning components by Apple.
 
 ## Create ML and Core ML:-
 
@@ -39,7 +39,7 @@ Both are quite relevant and utilize (labeled data sets) supervised learning algo
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cmcm-2.png" style="width:100%" class="img" alt="A logo of Apple's create ML."/>
 
-### Machine Learning Algorithms on Create ML:-  
+### Machine Learning Algorithms in 'Create ML':-  
 
 **Create ML** uses the infrastructure seen in Apple apps like Photos and Siri. This implies that your image classification and natural language processing models are more compact, quick, and simple to train.
 

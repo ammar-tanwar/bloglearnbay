@@ -4,8 +4,9 @@ import Post from '../components/Post'
 import search from "../search.json";
 import { useRouter } from 'next/router'
 // import { NextSeo } from 'next-seo';
-import {sortByDate, ImageUrl } from '../utils'
+import { sortByDate, ImageUrl } from '../utils'
 import styles from "../styles/blogM.module.css";
+import Sidebar from "../components/Sidebar"
 
 export default function Search() {
     const { query } = useRouter()
@@ -30,21 +31,33 @@ export default function Search() {
         }
     )
 
+    // console.log("AAAA", posts)
+
     return (
         <>
-        <br/><br/><br/>
-        <section className={styles.blogWrap} > 
-            {
-                posts.length > 0 ?
-                    posts.map((post, index) => (
-                        <Post key={index} post={post} />
-                    )) : <div>
-                        <h2>
-                            {query.q ? `No post find base on ${query.q} ` : 'loadding.. '}
-                        </h2>
-                    </div>
-            }
-        </section>
+            <br /><br /><br />
+
+            <section className={styles.blogHead}>
+                <p>Results for :  {`${query.q} `} </p>
+                <Sidebar />
+
+            </section>
+            <section className={styles.blogWrap} >
+                {
+
+
+                    posts.length > 0 ?
+                        posts.map((post, index) => (
+                            <Post key={index} post={post} />
+                        )) : <div>
+                            <h2>
+                                {query.q ? `No post find base on ${query.q} ` : 'loadding.. '}
+                            </h2>
+                        </div>
+
+                }
+
+            </section>
         </>
     )
 }

@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import {sortByDate, slugify } from '../utils'
+
 // import { getSortedPostsData } from "../lib/posts";
 import styles from "../styles/blogM.module.css";
 import Image from "next/image";
@@ -8,10 +9,14 @@ import Head from "next/head";
 import { IoTimeOutline } from "react-icons/io5";
 
 
+
 export default function Post({ post }) {
 
+
+    
     const date = new Date(post.frontmatter?.date)
     return (
+      <>
       
          <section>
               <div
@@ -45,6 +50,8 @@ export default function Post({ post }) {
               </div>
           
       </section>
+
+      </>
         
     )
 }
