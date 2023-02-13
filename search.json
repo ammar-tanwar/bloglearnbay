@@ -1595,7 +1595,7 @@
       "slug": "top-50-interview-questions-of-machine-learning",
       "description": "Get prepared for your machine learning interview with our list of the top 50 most commonly asked interview questions. From linear regression to time series, these questions cover a wide range of topics and will help you showcase your knowledge and skills in the field of machine learning. Improve your chances of landing the job by reviewing these essential interview questions of machine learning.",
       "categories": "Machine Learning",
-      "author": "Learnbay",
+      "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview.jpg",
       "readTime": "33-42 mins",
       "date": "May 27, 2021",
@@ -1899,6 +1899,21 @@
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsmh-1.jpg",
       "readTime": "10-13 mins",
       "date": "Apr 6, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "create-ml-and-core-ml-the-secret-of-apples-unbeatable-success",
+    "frontmatter": {
+      "title": "Create ML and Core ML- The Secret of Apple's Unbeatable Success",
+      "slug": "create-ml-and-core-ml-the-secret-of-apples-unbeatable-success",
+      "description": "Machine learning is a highly versatile platform. This blog will brief us about the two Machine learning algorithms, create ML and core ML, which are used by Apple to develop its own IOS tools and platforms.",
+      "categories": "Machine Learning",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cmcm-1.png",
+      "readTime": "9-10 mins",
+      "date": "Feb 13, 2023",
       "draft": false
     }
   }
