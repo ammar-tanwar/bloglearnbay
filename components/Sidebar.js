@@ -41,7 +41,7 @@ export default function Sidebar() {
       placeholder="Enter search term..."
     />
     <Link href={{ pathname: '/Search', query: { q: search?.toLowerCase() } }} > 
-      <a className={styles.searchicon} ><img src="https://i.ibb.co/FXsnyyq/search.png" alt="" /></a>
+      <a className={styles.searchicon} ><img src="https://i.ibb.co/FXsnyyq/search.png" alt=""/></a>
     </Link>
   </div>
   )
