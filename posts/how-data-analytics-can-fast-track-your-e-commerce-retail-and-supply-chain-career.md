@@ -3,6 +3,7 @@ title: How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Cha
 desc: "The field of data analytics has grown in popularity as it has proven to be extremely effective in the fields of retail and E-Commerce. Because of the growing volume of data in numerous areas, data analysts are always in great demand."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png"
+headerAlt: "An image titled, '2,00,000 JOBS WERE LAID OFF IN RETAIL SECTOR DUE TO THE 2020 PANDEMIC SAYS,MONEY CONTROL'. The image also shows a downward trend and a shopping kart logo."
 date: "May 7, 2022"
 tag: [ Data Analytics in E-Commerce Retail, e commerce data analysis project, importance of data analytics in e commerce, data analysis and interpretation of e commerce ]
 author: "Learnbay"

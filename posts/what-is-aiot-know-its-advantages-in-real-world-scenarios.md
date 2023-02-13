@@ -3,6 +3,7 @@ title:  What is AIoT? Know Its Advantages in Real-world Scenarios
 desc: "AIoT, or artificial intelligence of things, is an approach to the development of intelligent systems that use data from sensors and other sources. AIoT is a combination of Artificial intelligence and IoT. In a word, it's the 'next-gen IoT.'"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-1.jpg"
+headerAlt: "A banner image representing the use of IoT in various domains like automotive, electrical, etc.  This indicates the development of AIoT."
 date: "Nov 28, 2022"
 tag: [ Artificial intelligence of things, AIoT, Artificial intelligence and IoT, internet of things, artificial intelligence of things aiot, discuss some future products and application of aiot, aiot devices, artificial intelligence of things (aiot) technologies and applications, artificial intelligence of things for weather forecasting and climatic behavioral analysis, artificial intelligence of things examples, aiot full form, relationship between artificial intelligence and iot ]
 category: "Artificial Intelligence"

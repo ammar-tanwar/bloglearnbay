@@ -3,6 +3,7 @@ title:  Best AI eBooks For You To Explore And Refine Domain Knowledge
 desc: "Looking for the best AI eBooks? Check out our collection of top AI eBooks for you to explore and refine your domain knowledge. From books on machine learning and artificial intelligence to data science and big data, we've got you covered. So what are you waiting for? Start reading today!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-1.jpg"
+headerAlt: "A smartphone surrounded by books indicates the concept of ebooks. The text reads, 'Best AI ebooks for You to Explore and Refine domain knowledge.'"
 date: "Nov 11, 2022"
 tag: [ AI books, book on AI, Domain knowledge, ai books amazon, ai books for beginners, ai books 2022 ]
 category: "Artificial Intelligence"

@@ -3,6 +3,7 @@ title: The  Most Important Skills of Data Science To Master in 2023?
 desc: "As data becomes increasingly important in our world, it's more important than ever to master the skills of data science. But what skills are most important? In this article, we'll explore the most important skills of data science."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-1.jpg"
+headerAlt: "A human hand is busy on a laptop keyboard earning data science skills. A robotic hand pops up from the laptop screen."
 date: "August 30, 2022"
 tag: [ data science skill required, data scientist skill requirement, skills required for data scientist, Skills required to master data science, Data science key skills, data science soft skills, skills needed for data scientist and data analyst, data scientist skills and responsibilities, which of the following is required skills for a data scientist, data scientist skills and tools, the skill required to master data science is, data scientist skill set, top skills for data scientists, data scientist technical skills, data scientist skill list, what skills are needed to be a data scientist, essential skills for data scientist, data scientist skills checklist, data scientist hard skills ]
 category: "Data Science"

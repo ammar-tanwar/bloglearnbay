@@ -3,6 +3,7 @@ title: OpenAI GPT-3 Revolution- The Thrill of Next-Gen AI Innovation
 desc: "The field of Artificial intelligence is continuously evolving, and the OpenAI GPT-3 is revolutionizing the way we think and use AI. In this blog post, we will explore all the potential implications of GPT-3 and how it helps increase results and productivity."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-1.jpg"
+headerAlt: "A banner image titled 'OpenAI GPT-3 Revolution', The Thrill of Next-Generation AI Innovation' shows an robot looking at a large screen."
 date: "Feb 01, 2023"
 tag: [ OpenAI GPT-3, chat GPT-3 ]
 category: "Machine Learning"

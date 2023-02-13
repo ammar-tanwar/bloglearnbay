@@ -3,6 +3,7 @@ title: A Career in Data Science - The Key To Lucrative Come-back for Women After
 desc: "Women make up a significant portion of the workforce, but they often take a break from their careers to raise children or other reasons. Data science is a growing field that offers a lucrative career path for women who want to return to work after a career break."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w1.jpg"
+headerAlt: "A banner image portrays a woman standing in front of a computer, dreaming of a career in data science."
 date: "Sep 28, 2022"
 tag: [ A career in data science, Career break, Data science and AI, building a career in data science, how to pursue a career in data science, data science career growth, career in data science salary, data scientist career path and salary ]
 category: "Hot Topics"

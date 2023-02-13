@@ -3,6 +3,7 @@ title: Oops! Why 2023 Is Too Late For Video-Based Data Science Learning
 desc: "Data science is a rapidly growing field with many opportunities. However, many people are still unaware of the basics of data science learning."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-4.jpg"
+headerAlt: "A banner image showing a data science professional using an online medium to learn about data science."
 date: "August 17, 2022"
 tag: [ how to learn data science from scratch, data science learning path, data science course for beginners, data science courses, video based learning benefits, video based learning, video-based learning examples, video-based learning, , video lectures on data science ]
 category: "Data Science"

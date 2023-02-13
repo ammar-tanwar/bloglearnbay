@@ -3,6 +3,7 @@ title: How to Use Python's Pywhatkit Module for Sending Message-Generating Codes
 desc: "We have seen various implications of the python programming language. And Python's Pywhatkit module seems to prove a powerful tool for sending message-generating codes. In this blog, you will learn how to configure and run the Pywhatkit module for sending an auto-generated message."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/htup-1.jpg"
+headerAlt: "An image titled, 'How to Use Python's Pywhatkit Module for sending Messages-Generating codes?' shows a Python-based AI bot and a person looking at the WhatsApp logo."
 date: "Feb 10, 2023"
 tag: [ pywhatkit whatsapp, pywhatkit module in python, automate whatsapp messages python, send whatsapp message using python pywhatkit, how to install pywhatkit in python ]
 category: "Python"

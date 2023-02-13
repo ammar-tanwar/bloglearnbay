@@ -3,6 +3,7 @@ title: Women in AI - Top 10 Indian Women Empowering the World of AI
 desc: "Indian women are making a mark in the field of artificial intelligence. Here is a list of the top 10 Indian women who are empowering the world of AI. We salute these women for their work and achievements."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-1.png"
+headerAlt: "A banner image titled, ' Women Empowering the World of AI' shows a collage of five women AI leaders' portraits."
 date: "Sep 26, 2022"
 tag: [ Women Leader In AI, women leaders in data and AI, Women leading In AI, women leaders AI ]
 category: "Artificial Intelligence"

@@ -3,6 +3,7 @@ title: How Is Data Science Powering OTT Platform to Multi-Dollar Business
 desc: "OTT platforms are generally a type of audio and video services that are delivered over the internet. In this article, we'll show you how to use data science to build an OTT platform that can be used to grow your business in a number of ways."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/popt-1.png"
+headerAlt: "A banner image titled, ' Application of AI in Social Media Content Optimization' contains the logo of YouTube, Facebook, Twitter, and Instagram."
 date: "Dec 26, 2022"
 tag: [ AI in Social media, AI and Social media ]
 category: "Data Science"

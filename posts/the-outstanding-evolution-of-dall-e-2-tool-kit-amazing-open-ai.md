@@ -3,6 +3,7 @@ title: The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI
 desc: "Did you know you could create images by simply giving commands to a phone or laptop's microphone? If not, this is the blog post for you. DALL-E 2 are deep learning models developed by OpenAI that can generate digital images from text descriptions."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-1.jpg"
+headerAlt: "A banner image titled as, 'DALL-E2- THE NEW HORIZON TEXT-TO-IMAGE TECHNOLGY'"
 date: "Dec 2, 2022"
 tag: [ DALL E 2, Open AI, GPT-3, how to use dall e 2, how to use dall-e 2, dall e 2, dall e 2 examples, openai dall e 2, dall-e, dall e 2 ai, dall e ai, dalle 2, openai dall e 2, dalle, dall e mini, dall-e 2, how to use dall e, ai image generator, dall e website, dalle mini, dall e image generator, dall e ai image generator, ai text generator gpt-3, what is gpt-3, openai gpt-3 ]
 category: "Artificial Intelligence"

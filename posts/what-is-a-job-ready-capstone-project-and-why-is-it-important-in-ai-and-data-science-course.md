@@ -3,6 +3,7 @@ title: What Is A Job-Ready Capstone Project, And Why Is It Important In AI And D
 desc: "A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-1.jpg"
+headerAlt: "An illustration shows, two data scientists are discussing and analyzing a  data science capstone Project."
 date: "August 29, 2022" 
 tag: [ capstone project, capstone, capstone certification, data science, Artificial Intelligence, AI, data analytics capstone project examples, data science capstone project ideas, capstone project ]
 category: "Data Science"

@@ -3,6 +3,7 @@ title: Top Courses in 2023 for a Full-Stack Software Developer
 desc: "If you're looking for the best full-stack software development course, this blog post is for you. Here is a list of some of the best courses, ranging from beginner to advanced, that can help you easily choose a career as a full-stack software developer."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tcfs-1.jpg"
+headerAlt: "An illustration shows two full-stack software professionals are using multiple screens. There are several laptops and displays in the between showing HTML, CSS, jS, PHP, etc"
 date: "Jan 13, 2023"
 tag: [ full stack developer program, full stack software development course, full stack engineers, full stack developer skills ]
 category: "Full Stack"

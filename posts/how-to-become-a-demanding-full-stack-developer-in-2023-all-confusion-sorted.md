@@ -3,6 +3,7 @@ title: How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sor
 desc: "In this blog post we will tell you everything you need to know to get started on your career as a full-stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full-stack developer."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg"
+headerAlt: "A banner image showcases the full-stack developer codes."
 date: "Sep 12, 2022"
 tag: [ Full stack, full stack developer, full stack developer course, how to become a full stack developer, how to become a full stack developer with no experience, full stack developer salary, full stack developer course, how to become a full stack developer roadmap, how to become a full stack developer for free, how to become a full stack developer in 2022, how to become a full stack developer in 2023, how to become a full stack developer in india, how to become a full-stack developer roadmap, how to become a full stack developer in python, how long does it take to become a full stack developer, how hard is it to become a full stack developer, how to start to become a full stack developer ]
 author: "Milan Jain"

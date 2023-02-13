@@ -3,6 +3,7 @@ title: Create ML and Core ML- The Secret of Apple's Unbeatable Success
 desc: "Machine learning is a highly versatile platform. This blog will brief us about the two Machine learning algorithms, create ML and core ML, which are used by Apple to develop its own IOS tools and platforms."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cmcm-1.png"
+headerAlt: "A banner image titled 'Create ML & Core ML'. It also displays the logos of both machine learning model frameworks."
 date: "Feb 13, 2023"
 tag: [ create ml apple, ios machine learning, apple coreml, apple machine learning models ]
 category: "Machine Learning"

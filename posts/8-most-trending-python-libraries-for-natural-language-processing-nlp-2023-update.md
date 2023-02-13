@@ -3,6 +3,7 @@ title: 8 Most Trending Python Libraries for Natural Language Processing (NLP) [2
 desc: "Python is one of the most trending and versatile programming languages. Here in this blog post, we will see some of the trending Python libraries for natural language processing that would help you with classification, summarization, named entity recognition(NER), and machine translation."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mtpl-1.png"
+headerAlt: "A banner image titled '8 Python Libraries for Natural Language Processing'. It also displays the logo of the python programming language."
 date: "Feb 06, 2023"
 tag: [ Python libraries for natural language proceesing, List of python libraries, best nlp libraries for python, python libraries list and uses ]
 category: "Python"

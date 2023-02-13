@@ -3,6 +3,7 @@ title: Top 3 Python Libraries for Machine Learning!
 desc: "Python has become an essential tool for machine learning algorithms. In this blog post, you will be briefed with the top 3 python libraries for machine learning, which can help you ease the workload in different types of machine learning-based projects."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tplfm-1.jpg"
+headerAlt: "A banner image titled 'Python Libraries for Machine Learning' shows a robot powered by artificial intelligence is standing by a laptop and pointing to the  laptop display. The display shows a Python logo."
 date: "Jan 11, 2023"
 tag: [ TensorFlow, Scikit-learn, Pytorch, best python libraries for machine learning, most used python libraries for machine learning, what is tensorflow used for, scikit learn is used for ]
 category: "Machine Learning"

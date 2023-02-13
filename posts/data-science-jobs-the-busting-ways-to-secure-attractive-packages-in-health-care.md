@@ -3,6 +3,7 @@ title: Data Science Jobs - The Busting Ways To Secure Attractive Packages In Hea
 desc: "Data science jobs have been diversified in both technical and non-technical sectors. Here in this blog, you will get to know the data science jobs in the healthcare sector with the various opportunities and trends on how they will help you secure attractive packages in the coming era."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance1.png"
+headerAlt: "An illustration titled, 'DATA SCIENCE IN Healthcare, Pharma and Clinical research domain' shows a group of medical staff such as a doctor, Nurses, etc."
 date: "Apr 6, 2022"
 tag: [ healthcare data scientist salary in india, healthcare data scientist job description, what does a data scientist do in healthcare ]
 author: "Learnbay"

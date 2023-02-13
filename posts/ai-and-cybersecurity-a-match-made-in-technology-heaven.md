@@ -3,6 +3,7 @@ title: AI and Cybersecurity - A Match Made in Technology Heaven
 desc: "In this blog post, you will learn about the potential of AI and cybersecurity in today's growing technological world, here you will see various types of benefits while implementing both AI and cybersecurity to fight against cyber attacks and threats."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/amm-1.png"
+headerAlt: "A banner image is divided into two halves. The first half shows the application of AI and cybersecurity on a laptop, and the second half shows an AI professional standing in the front leading a team."
 date: "Jan 2, 2023"
 tag: [ AI and cybersecurity, Artificial intelligence in cybersecurity, AI and ML, artificial intelligence and machine learning, future of ai in cyber security]
 category: "Artificial Intelligence"

@@ -3,6 +3,7 @@ title: The 7 Best Data Science Project Ideas to Get Hired by Top MNCs
 desc: "Are you a data science professional looking for the best projects to step up your job opportunities? Here is the list of top Data Science projects that can help you to showcase your skills and land you a dream job."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-1.jpg"
+headerAlt: "A banner image titled, 'The 7 Best Data Science Project Ideas to Get Hired by Top MNCs' shows a laptop running various analytics and data science applications."
 date: "Jan 16, 2023"
 tag: [ Data science project ideas, data science projects for beginner, best data science projects for resume, real-world data science projects, examples of data scientist projects, deployement tools for data science projects ]
 category: "Data Science"

@@ -3,6 +3,7 @@ title: Evolution of Data Science in India
 desc: "When we talk about evolution of Data Science, we mean about the origin of Statistics, because the term “Data Science” is a tailored term to the original term “Statistics“..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/evolution.jpg"
+headerAlt: ""
 date: "Feb 7, 2020"
 tag: [ Data Science ]
 author: "Learnbay"

@@ -1,15 +1,32 @@
-import { useState} from "react";
+import React, { useState,useEffect } from "react";
 import Link from 'next/link'
 import Search from "../search.json";
 import { slugify } from "../utils";
 import styles from './search.module.css';
+
+
+
+
 export default function Sidebar() {
-  const [search, setSearch]= useState()
+  const [search, setSearch] = useState()
   function findSerach(value) {
-   
+
     setSearch(value.target.value)
   }
- 
+
+  useEffect(() => {
+    // 
+    var input = document.getElementById("myInput");
+    input.addEventListener("keypress", function (event) {
+    if (event.key === "Enter") {
+      event.preventDefault();
+      document.getElementById("myBtn").click();
+    }
+  });
+  });
+  
+  
+
   return (
     // <div className="col-lg-4">
 
@@ -27,22 +44,21 @@ export default function Sidebar() {
     // </div>
 
     <div
-    className={styles.container}
-  >
-    <input
-      className={styles.search}
-      // onChange={onChange}
-      // onFocus={onFocus}
-      // placeholder='Search posts...'
-      // type='text'
-      // value={query}
-      onChange={findSerach} 
-      type="text"
-      placeholder="Enter search term..."
-    />
-    <Link href={{ pathname: '/Search', query: { q: search?.toLowerCase() } }} > 
-      <a className={styles.searchicon} ><img src="https://i.ibb.co/FXsnyyq/search.png" alt=""/></a>
-    </Link>
-  </div>
+      className={styles.container}
+    >
+      <input
+        className={styles.search}
+        id="myInput"
+        onChange={findSerach}
+        type="text"
+        placeholder="Enter search term..."
+      />
+      <Link href={{ pathname: '/Search', query: { q: search?.toLowerCase() } }} >
+        <a className={styles.searchicon} id="myBtn"><img src="https://i.ibb.co/FXsnyyq/search.png" alt="" /></a>
+      </Link>
+      
+     
+      
+    </div>
   )
 }

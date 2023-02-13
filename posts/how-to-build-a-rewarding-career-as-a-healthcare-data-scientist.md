@@ -3,6 +3,7 @@ title: How to Build a Rewarding Career As a Healthcare Data Scientist?
 desc: "Data science in Healthcare isn’t something new. It is the most common industry where data science and analytics are applied..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health.png"
+headerAlt: ""
 date: "May 16, 2022"
 tag: [ Data Science, Machine Learning ]
 author: "Learnbay"

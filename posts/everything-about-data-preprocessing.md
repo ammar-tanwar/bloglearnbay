@@ -3,6 +3,7 @@ title: Everything About Data Preprocessing
 desc: "Introduction to Data Preprocessing:- Before modeling the data we need to clean the information to get a training sample for the modeling. Data preprocessing is a data mining technique that involves transforming the raw data into an understandable format"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/databack.jpg"
+headerAlt: ""
 date: "Nov 25, 2021"
 tag: [ Data Science]
 author: "Learnbay"
