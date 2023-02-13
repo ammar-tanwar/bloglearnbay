@@ -4,6 +4,7 @@ desc: "Get good at stats, math and machine learning. Take online data course.
 Learn to code. Computer science, development and a language..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ucbp.png"
+headerAlt: ""
 date: "Sep 11, 2022"
 tag: [ Data Science ]
 category: "Data Science"

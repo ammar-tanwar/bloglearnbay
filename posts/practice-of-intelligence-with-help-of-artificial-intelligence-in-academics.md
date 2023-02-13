@@ -3,6 +3,7 @@ title: The Practice of Intelligence with help of Artificial Intelligence in Acad
 desc: "AI can help global teaching become a successful venture for teachers to teach students anywhere in the world with the same level of proficiency as a classroom live session."
 
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/robot.jpg"
+headerAlt: "An image titled, 'Artificial Intelligence teaches the Intelligence' shows an AI-based robot standing with a check in front of a green board."
 date: "Apr 7, 2022"
 tag: [ role of artificial intelligence in education, artificial intelligence in education in india ]
 author: "Learnbay"

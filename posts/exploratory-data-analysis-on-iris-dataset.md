@@ -3,6 +3,7 @@ title: Exploratory Data Analysis on Iris dataset
 desc: "Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, spot anomalies, to test hypotheses and to check assumptions with the help of summary statistics and graphical representations..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/exp.png"
+headerAlt: ""
 date: "Jan 3, 2021"
 tag: [ Data Science ]
 author: "Learnbay"

@@ -3,6 +3,7 @@ title: 7 Ways Artificial Intelligence Can Boost Delivery Management Worldwide!
 desc: "AI can help with route planning, order management, and more. With the help of Artificial Intelligence, you can optimize your delivery management system to get products to your customers as quickly and efficiently as possible."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7wa1.jpg"
+headerAlt: "An AI-based robot holding a delivery package approaches a logistic van."
 date: "Oct 10, 2022"
 tag: [ Artificial intelligence, AI, Delivery, logistics, ai in delivery, artificial intelligence delivery, Artificial Intelligence in Delivery Management ]
 category: "Artificial Intelligence"

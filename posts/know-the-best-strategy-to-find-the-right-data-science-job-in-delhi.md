@@ -3,6 +3,7 @@ title: Know The Best Strategy To Find The Right Data Science Job in Delhi?
 desc: "Data science careers are buzzing everywhere, and so the data science courses. It’s true that data science salaries are too lucrative and offer sample scopes of career growth..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/delhi.jpg"
+headerAlt: ""
 date: "August 30, 2020"
 tag: [ Data Science ]
 category: "Data Science"

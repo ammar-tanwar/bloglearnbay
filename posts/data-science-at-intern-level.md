@@ -3,6 +3,7 @@ title: Data Science at Intern Level
 desc: "As Data Science holds the grand title of sexiest job of the decade the idea of pursuing it becomes still more uneasy, more to that there is the viral notion of “Data Science is the toughest to build career in”..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/intern.jpg"
+headerAlt: "A banner image titled 'Data Science at the Intern Level' shows a data science enthusiast standing and using a laptop."
 date: "Jan 7, 2022"
 tag: [ Data Science ]
 author: "Learnbay"

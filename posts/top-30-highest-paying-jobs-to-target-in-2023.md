@@ -3,6 +3,7 @@ title: Top 30 Highest Paying Jobs to Target in 2023
 desc: "This blog post is for you if you are looking for a career change or a high-paying job. Here you will learn about the 30 Highest paying jobs in the technical field that will reach a peak in the upcoming few years."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-1.jpg"
+headerAlt: "A banner image titled, 'Top 30 Highest Paying Jobs to Target in 2023' shows a woman in formal attire pointing toward the above title."
 date: "Jan 18, 2023"
 tag: [ Highest paying jobs, best paying jobs, highest paying career, machine learning, AI, Data science, full-stack developer, data structure and algorithm, system design ]
 category: "Hot Topics"

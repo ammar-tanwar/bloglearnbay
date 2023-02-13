@@ -3,6 +3,7 @@ title: How Will AI in Digital Marketing Save Marketers in a Cookieless World?
 desc: "We have seen the evolution of digital marketing at a rapid pace, and with the involvement of AI in Digital Marketing, we can effortlessly enhance the use of digital marketing in various marketing and advertising fields. Here in this blog, you will get a brief on how AI in digital marketing can save marketers in a cookieless world."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hwad-1.png"
+headerAlt: "An illustration titled Marketers in a Cookieless World shows a screen with a cookie logo, keyboard etc."
 date: "Jan 20, 2023"
 tag: [ cookieless digital marketing, Contextual Advertising, Contextual Targeting, cookieless advertising, future of ai in digital marketing, benefits of ai in digital marketing, artificial intelligence marketing chatbots ]
 category: "Artificial Intelligence"

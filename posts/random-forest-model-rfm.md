@@ -3,6 +3,7 @@ title: Random forest model(RFM)
 desc: "Random Forest Model is also a classification model with the combination of the decision tree. The random forest model algorithm is a supervised classification algorithm..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm.jpg"
+headerAlt: ""
 date: "Dec 20, 2020"
 tag: [ Machine Learning ]
 category: "Machine Learning"

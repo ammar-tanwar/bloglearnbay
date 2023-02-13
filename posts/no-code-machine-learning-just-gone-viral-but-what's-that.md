@@ -3,6 +3,7 @@ title: No Code Machine Learning Just Gone Viral!- But What's That?
 desc: "Machine Learning with no code is a subset of Machine Learning. No code Machine Learning uses a development platform with a code-free drag and drop interface, which is basically grounded on ML and AI-based models."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-1.jpeg"
+headerAlt: "A banner shows two professionals working on coding while one is seated in front of a laptop and the other is using a different screen."
 date: "Sep 2, 2022"
 tag: [ Machine Learning, No Code ML, No Code ML platforms ]
 category: "Machine Learning"

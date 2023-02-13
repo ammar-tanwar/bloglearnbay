@@ -3,6 +3,7 @@ title: Data Science is Important - Why We Need it?
 desc: "Yes you read that right, you need Data Science and so does everyone! Irrespective of the domain you work in, your educational background or if you are a tech-head or a non-tech person, you will still be in need of Data Science..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance.png"
+headerAlt: ""
 date: "Dec, 2021"
 tag: [ Data Science ]
 category: "Data Science"

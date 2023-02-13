@@ -3,6 +3,7 @@ title: How Does Intelligence Augmentation Differ from Artificial Intelligence?
 desc: "In the blog, we will learn the major difference between intelligence augmentation and artificial intelligence. Here we will also look at various approaches to the deployment, functioning, and use cases of intelligence augmentation in a real-world scenario."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdia-1.png"
+headerAlt: "A banner image titled 'Intelligence Augmentation & Artificial Intelligence' shows two robots named IA and AI standing in front of each other."
 date: "Feb 03, 2023"
 tag: [ artificial intelligence vs augmented intelligence, what is augmented intelligence, augmented AI ]
 category: "Machine Learning"

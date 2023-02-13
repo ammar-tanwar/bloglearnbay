@@ -44,7 +44,7 @@ export default function Post({ postData, posts }) {
           <meta name="robots" content="follow, index" />
 
 
-          <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
+          <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png"/>
           {/* Schema genertor start */}
           <script
             type="application/ld+json"
@@ -83,7 +83,7 @@ export default function Post({ postData, posts }) {
         <div className={styles.DivImg}>
           <img
             src={postData.img}
-            alt="Learnbay"
+            alt={postData.alt}
             width="100%"
             height="450px"
             className={styles.bImg}

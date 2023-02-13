@@ -3,6 +3,7 @@ title:  What is ML Fairness Indicator?- All You Need to Know
 desc: "Google's new ML fairness indicator is designed to help developers assess the fairness of their machine learning models. In this article, we'll explain what the ML fairness indicator is and how it works."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-11.jpg"
+headerAlt: "An banner image titled, 'ML Fairness Indicator'."
 date: "Nov 2, 2022"
 tag: [ Google, Machine Learning, ML fairness indicator, Fairness  ]
 category: "Machine Learning"

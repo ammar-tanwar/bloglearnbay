@@ -4,6 +4,7 @@ desc: "Artificial intelligence and the entertainment industry have moved beyond 
 # alt:  "Hello"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-1.jpg"
+headerAlt: "An image titled 'Amazing Usages of the AI in Entertainment Industry' with a visual representation of a dancing AI-based robot."
 date: "Dec 16, 2022"
 tag: [ AI in entertainment, AI in entertainment industry, artificial intelligence and entertainment industry, AI and entertainment industry, AR, VR, future of ai in entertainment, explain the role of ai in entertainment, advantages of ai in entertainment, application of ai in entertainment, uses of ai in entertainment, benefits of ai in entertainment, artificial intelligence in the broadcasting industry, ai in media and entertainment industry, examples of artificial intelligence in entertainment ]
 category: "Artificial Intelligence"

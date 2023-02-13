@@ -3,6 +3,7 @@ title: Ace The Toughest Data Science Interview With These Stunning Tricks
 desc: "Are you looking for data science interview tips? This article will give you some of the best tips for data science interview preparation. From preparing ahead of time to knowing what to expect, we've got you covered."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-1.jpg"
+headerAlt: "A data science aspirant seated in front of a laptop analyzes numerous data science interview preparations."
 date: "Sep 5, 2022"
 tag: [ ace the data science interview, data science interview preparation, prepare for data science interview, data science interview preparation course, data science interview preparation platform, data science interview questions for freshers, data science interview preparation (30 days of interview preparation), how to prepare for a data scientist interview, how to prepare for data science interview ]
 category: "Data Science"

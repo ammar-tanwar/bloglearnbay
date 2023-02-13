@@ -3,6 +3,7 @@ title:  The Innovation of Robot Chef is Thrilling The World! | The Power of AI
 desc: "Have you ever considered having your food prepared by a robot chef? Many contend that this concept is impractical and unrelated to reality. But the recent invention has thrilled the world by creating an AI-bot chef, which mimics and cooks food like a top-rated human chef. In fact, such innovative robot chefs are available in India too."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-1.jpg"
+headerAlt: "A robot wearing a chef outfit and holding a pan, resembling a real robot chef. The accompanying Text reads, 'The Innovation of Robot Chef is Thrilling The World! The Power of AI'"
 date: "Nov 04, 2022"
 tag: [ robotic chefs, food robot chefs, robot chef price  ]
 category: "Artificial Intelligence"

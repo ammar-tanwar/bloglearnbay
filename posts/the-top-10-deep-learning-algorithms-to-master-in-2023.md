@@ -3,6 +3,7 @@ title: The Top 10 Deep Learning Algorithms to Master in 2023
 desc: "The article discusses deep learning algorithms and some of the most effective machine learning tools. These algorithms are highly capable of making predictions, finding data patterns, and decision-making techniques. Read on to gain knowledge of deep learning algorithms with optimal methods and advantages."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-1.jpg"
+headerAlt: "A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."
 date: "Dec 7, 2022"
 tag: [ deep learning algorithms in machine learning, deep learning algorithms list, deep learning algorithms examples, artificial neural network, neural network machine learning, neural network deep learning, neural network example, neural network algorithm, types of neural network, deep learning models, deep learning example, types of deep learning, neural network algorithm, deep learning techniques, deep learning algorithm, example of deep learning ]
 category: "Machine Learning"

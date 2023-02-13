@@ -3,6 +3,7 @@ title: Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023
 desc: "Whether you're a manager or leader looking to transition into a data science career, these are the top 5 job-ready data science courses for managers and leaders in 2023."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-1.png"
+headerAlt: "A Banner image consists of the text, 'Top 5' in the background."
 date: "August 24, 2022"
 tag: [ Data science, Data Science managers, Data Science manager salary, data science managers course, Data science managers roles and responsibilities, data science certification for managers, data science course for managers and leaders, data science management jobs, data science for business managers, data science for leaders, data science manager salary near bengaluru karnataka, data science manager salary india, data science manager salary bangalore, data science manager job description, data science manager jobs,  data science manager skills ]
 category: "Data Science"

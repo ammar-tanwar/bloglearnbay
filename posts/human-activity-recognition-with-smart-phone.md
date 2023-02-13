@@ -3,6 +3,7 @@ title: Human Activity Recognition With Smart Phone
 desc: "In this case study, we design a model by which a smartphone can detect its owner’s activity precisely. Human activity recognition with a smartphone is a very famous ML project..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human.jpg"
+headerAlt: "A banner image is titled 'Human activity recognition with smart phone.' The background image shows a gathering of people using smartphone."
 date: "Dec 19, 2021"
 tag: [ Data Science, Machine Learning ]
 category: "Data Science"

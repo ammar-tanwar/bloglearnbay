@@ -3,6 +3,7 @@ title:  How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a D
 desc: "Data science jobs in energy, oil, and gas have predicted a huge job surge with continuous advancement. Here's how to make a rewarding career in this domain, with the best projects and training to help you stand out from the crowd."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward2.png"
+headerAlt: "A graphical representation of the unemployment rate between 2014 to 2020 in oil and gas industry."
 date: "Apr 6, 2022"
 tag: [ data science use cases in oil and gas, data science jobs in oil and gas, data management in oil and gas industry ]
 category: "Data Science"

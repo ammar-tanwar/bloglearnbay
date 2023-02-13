@@ -3,6 +3,7 @@ title: Normal and Gaussian Distribution
 desc: "This blog deals with the overall guide on Normal distribution in statistics. Here you will learn the basics of the normal distribution to its applications in statistical analysis by estimating probability distribution and probability."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nagd-1.jpg"
+headerAlt: "A graph represents the normal distribution curve."
 date: "Mar 29, 2022"
 tag: [ importance of normal distribution in statistics, application of normal distribution in finance ]
 author: "Manas Kochar" 

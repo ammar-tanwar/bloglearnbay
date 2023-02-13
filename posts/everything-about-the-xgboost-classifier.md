@@ -3,6 +3,13 @@ title: Everything About the XGBoost Classifier
 desc: "In this blog, learn about the XGBoost classifier and how it works with various applications to increase its efficiency. It will help you to get a brief on machine learning algorithms and improve the predictive modeling structure."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xgb-1.jpg"
+headerAlt: "An XGBoost classifier shows its functionalities such as: - 
+Parallelized tree building
+Tree pruning using dept first approach
+Cache awareness and out of core
+Regulation for avoiding overfitting
+Efficient handling of missing data
+In-built cross-validation capability"
 date: "Feb 04, 2022"
 tag: [ xgboost similarity score, xgboost quantile ]
 category: "Machine Learning"

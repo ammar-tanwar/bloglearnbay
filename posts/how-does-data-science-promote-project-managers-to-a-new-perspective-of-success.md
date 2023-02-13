@@ -3,6 +3,7 @@ title: How Does Data Science Promote Project Managers to a New Perspective of Su
 desc: "As a project manager, understanding how data science can be used to improve your projects is essential to success. In this article, we will explore how data science can promote project managers to a new perspective of success."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manager.jpg"
+headerAlt: "An Illustration titled, 'How Does Data Science Promote Project Managers to a New Perspective of Success' shows a man shaking hand with a robot. A second robot is busy with some analytics in front of a display."
 date: "may 30, 2022"
 tag: [ what is data science in project management, why is data analysis a key part of any project?, project management analytics, data science project management methodologies, managing data projects, data science project management certification ]
 category: "Data Science"

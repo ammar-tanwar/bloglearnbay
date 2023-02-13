@@ -3,6 +3,7 @@ title: Introduction To Data Types - What Does It Mean In Python Programming?
 desc: "Programming is a combination of different data elements, such as integers, values, and strings called data types. Data types are classes, and variables are instances (objects) for these classes, as everything is an object in python programming."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-1.jpg"
+headerAlt: "A banner image titled, 'An introduction to Data types in statistics'."
 date: "August 22, 2022" 
 tag: [ Data types, Tuple in python, String datatype in python, datatypes in python, data types in python, data types in programming, what is a tuple in python, what is a tuple, tuple methods in python,  how to create a tuple in python, properties of tuple in python, tuple in python example, tuple in python operations, string in python, string data type in python, size of string data type in python, Numeric data type, List data Types, Set data types, Dictionary data type, how many data types in python, data types in python with examples ]
 category: "Data Science"
