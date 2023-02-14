@@ -38,7 +38,7 @@ export default function Search() {
             <br /><br /><br />
 
             <section className={styles.blogHead}>
-                <p>Results for :  {`${query.q} `} </p>
+                <p>Results for:  '{`${query.q}`}.' </p>
                 <Sidebar />
 
             </section>
@@ -51,7 +51,7 @@ export default function Search() {
                             <Post key={index} post={post} />
                         )) : <div>
                             <h2>
-                                {query.q ? `No post find base on ${query.q} ` : 'loadding.. '}
+                                {query.q ? `No result found.` : 'loadding.. '}
                             </h2>
                         </div>
 

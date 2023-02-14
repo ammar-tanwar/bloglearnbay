@@ -3,7 +3,7 @@ title: Data Science in Media, Hospitality, and Transportation
 desc: "Data science in the transportation and hospitality industry has been helping a  lot of people to survive and thrive. In this blog, you will learn how data science can be implemented to showcase better customer services, optimize operations and make more efficient businesses in such sectors."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsmh-1.jpg"
-headerAlt: "An illustration titled Media, Hospitality, and Transportation on the left and represents various data science applications utilized in Media, Hospitality, and Transportation on the right."
+headerAlt: "A banner image titled, 'Data science in Media, Hospitality, and Transportation' shows an illustration of a smartphones, a display and a wifi routing point."
 date: "Apr 6, 2022"
 tag: [ data science in travel and transportation, data science in hospitality industry ]
 category: "Data Science"
@@ -147,7 +147,7 @@ Through personalization, the industry can improve customer service. This will he
 For example, United Airlines attendants have access to a tool that gives them information about customers, such as last flight details, dietary requirements, and their connection schedule.
 
 
-- #### Identifying MVCs (most valuable customers):-
+- #### Identifying MVCs (Most Valuable Customers):-
 
 
 As some customers travel more than others, companies need to be aware of significant players to avoid customer churn. There is already a wealth of data about MVCs from loyalty programs that the travel industry has a hold on.
@@ -198,7 +198,7 @@ INDIAN RAILWAY CATERING & TOURISM OFFERS INR 31.8 LPA FOR 2-4 YRS"/>
 
 The average data scientist's salary in the hospitality business is Rs 14.9 Lakhs per annum in India. 
 
-Oyo Rooms offers about Rs 14.9 Lakhs per annum for a data scientist with more than ten years of experience. The Taj Coromandel  Rs 27.1 Lakhs per annum for data science specialists with 1-5 years of experience.
+Oyo Rooms offers about Rs 14.9 Lakhs per annum for a data scientist with more than ten years of experience. The Taj Coromandel offers Rs 27.1 Lakhs per annum for data science specialists with 1-5 years of experience.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsmh-4.png" style="width:100%" class="img" alt="A table that represents the following sections: pickup cluster, request count, minutes, hour, day, and month."/>
 
