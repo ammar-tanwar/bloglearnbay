@@ -15,14 +15,10 @@ export default function Post({ post }) {
 
     
     const date = new Date(post.frontmatter?.date)
-    let makeUrl =  author.toLowerCase().replace(/\s+/g, "-");
-    let aurl = `/author/${makeUrl}`;
     return (
       <>
       
          <section>
-
-         <Link href={url} key={id}>
               <div
                 className={styles.blog}
                 style={{
@@ -30,9 +26,9 @@ export default function Post({ post }) {
                   backgroundSize: "cover",
                 }}
               >
+                <a href={`/${post.slug}`}>
                   <h4>{post.frontmatter.title}</h4>
-
-                <Link href={aurl}>
+                </a>
                 <div className={styles.profileWrap}>
                   <Image
                     src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/avatar-02.webp"
@@ -51,9 +47,7 @@ export default function Post({ post }) {
                     </p>
                   </span>
                 </div>
-                </Link>
               </div>
-              </Link>
           
       </section>
 
