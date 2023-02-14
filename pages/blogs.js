@@ -4,6 +4,7 @@ import styles from "../styles/blogM.module.css";
 import Head from "next/head";
 import Image from "next/image";
 import Sidebar from "../components/Sidebar"
+import Link from 'next/link';
 import { BsDot } from "react-icons/bs";
 import { sortByDate } from "../utils";
 import { IoTimeOutline } from "react-icons/io5";
@@ -20,6 +21,10 @@ export default function blog({ allPostsData }) {
     return post.category;
   });
   let categoryPostTag = Array.from(new Set(singleCategoryPost));
+
+  // let makeUrl =  allPostsData.author.toLowerCase().replace(/\s+/g, "-");
+  // let aurl = `/author/${makeUrl}`
+  
             
   return (
     <>
@@ -55,7 +60,11 @@ export default function blog({ allPostsData }) {
           .slice(0, 1000)
           .map(({ id, date, title, author, readTime, headerImg }) => {
             const url = `/${id}`;
+            let makeUrl =  author.toLowerCase().replace(/\s+/g, "-");
+            let aurl = `/author/${makeUrl}`;
             return (
+
+              <Link href={url} key={id}>
               <div
                 className={styles.blog}
                 key={id}
@@ -64,9 +73,11 @@ export default function blog({ allPostsData }) {
                   backgroundSize: "cover",
                 }}
               >
-                <a href={url}>
+               
+
                   <h4>{title}</h4>
-                </a>
+           
+           <Link href={aurl}>
                 <div className={styles.profileWrap}>
                   <Image
                     src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/avatar-02.webp"
@@ -85,7 +96,9 @@ export default function blog({ allPostsData }) {
                     </p>
                   </span>
                 </div>
+                </Link>
               </div>
+              </Link>
             );
           })}
       </section>

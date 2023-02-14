@@ -68,7 +68,7 @@ This is evident in today's market, where customers can find services at any time
 
 - #### Personalized Marketing:-
   
-The ability to market a service or a product to a particular entity makes the advertisement much more effective. To develop a targeted <a herf="https://blog.learnbay.co/marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope" target="_blank">marketing</a> strategy, data science helps perform advanced analytical operations on the data gained through viewer interaction.
+The ability to market a service or a product to a particular entity makes the advertisement much more effective. To develop a targeted <a href="https://blog.learnbay.co/marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope" target="_blank">marketing</a> strategy, data science helps perform advanced analytical operations on the data gained through viewer interaction.
 
 
 
@@ -86,7 +86,7 @@ Companies can leverage this data more effectively through real-time customer dat
 
 Social media has become a one-stop shop for many consumers. They can easily get notified of the latest news and trends; therefore, utilizing proper social media marketing practices is essential today.
 
-Using **data science in the entertainment** industry, especially the <a herf="https://blog.learnbay.co/application-of-ai-in-social-media-content-optimization" target="_blank">application of AI in social media</a>, companies can now view general tendencies, user preferences, experiences, interests, and histories in one click. It can help them create an accurate customer profile and journey map.
+Using **data science in the entertainment** industry, especially the <a href="https://blog.learnbay.co/application-of-ai-in-social-media-content-optimization" target="_blank">application of AI in social media</a>, companies can now view general tendencies, user preferences, experiences, interests, and histories in one click. It can help them create an accurate customer profile and journey map.
 
 
 ## Data Science in Hospitality Industry:-  

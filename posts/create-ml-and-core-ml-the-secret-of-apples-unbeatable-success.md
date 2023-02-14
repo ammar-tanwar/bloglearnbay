@@ -31,7 +31,7 @@ Their strategy is quite simple but extremely unique. They are utilizing Machine 
 
 To enable intelligent features and innovative app experience, Apple created on-device machine learning capabilities that train, deploy and target trained models in real-time.
 
-It has mastered the technique of how to turn any iOS app into a reliable platform for machine learning by using the **Core/Create ML_** tools and interfaces- Two well-known supervised machine learning components by Apple.
+It has mastered the technique of how to turn any iOS app into a reliable platform for machine learning by using the **Core/Create ML** tools and interfaces- Two well-known supervised machine learning components by Apple.
 
 ## Create ML and Core ML:-
 
