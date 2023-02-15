@@ -33,7 +33,7 @@
     "frontmatter": {
       "title": "7 Must-Know Web Development Languages of 2023",
       "slug": "7-must-know-web-development-languages-of-2023",
-      "description": "As technology advances, we have seen tremendous growth in full-stack web development languages.So, here is the list of seven must-know web development languages that will be in demand in 2023. All of this full-stack language proficiency will undoubtedly help you become a master in full-stack development.",
+      "description": "As technology advances, we have seen tremendous growth in full stack web development languages.So, here is the list of seven must-know web development languages that will be in demand in 2023. All of this full stack language proficiency will undoubtedly help you become a master in full stack development.",
       "categories": "Full Stack",
       "author": "Abhishek Gupta",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mkwd-1.jpg",
@@ -136,9 +136,9 @@
   {
     "slug": "15-tools-every-full-stack-web-developer-should-master",
     "frontmatter": {
-      "title": "15 Tools Every Full-Stack Web Developer Should Master",
+      "title": "15 Tools Every Full Stack Web Developer Should Master",
       "slug": "15-tools-every-full-stack-web-developer-should-master",
-      "description": "Check out this list of 15 essential tools that every full-stack web developer should master. Categorized for front-end and back-end developer tools, these tools will help you build better web applications faster.",
+      "description": "Check out this list of 15 essential tools that every full stack web developer should master. Categorized for front-end and back-end developer tools, these tools will help you build better web applications faster.",
       "categories": "Full Stack",
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-1.png",
@@ -781,9 +781,9 @@
   {
     "slug": "how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted",
     "frontmatter": {
-      "title": "How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted",
+      "title": "How To Become a Demanding Full Stack Developer in 2023? All Confusion Sorted",
       "slug": "how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted",
-      "description": "In this blog post we will tell you everything you need to know to get started on your career as a full-stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full-stack developer.",
+      "description": "In this blog post we will tell you everything you need to know to get started on your career as a full stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full stack developer.",
       "categories": "Full Stack",
       "author": "Milan Jain",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg",
@@ -1533,7 +1533,7 @@
     "frontmatter": {
       "title": "Top 7 Women Full Stack-Software Developer | The Inspiration for all women in Tech",
       "slug": "top-7-women-full-stack-software-develope-the-inspiration-for-all-women-in-tech",
-      "description": "In this article, we will read about seven highly recognized female full-stack developers, their education and career paths, and their advice for aspiring software developers.",
+      "description": "In this article, we will read about seven highly recognized female full stack developers, their education and career paths, and their advice for aspiring software developers.",
       "categories": "Full Stack",
       "author": "Milan Jain",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-1.jpg",
@@ -1606,9 +1606,9 @@
   {
     "slug": "top-courses-in-2023-for-a-full-stack-software-developer",
     "frontmatter": {
-      "title": "Top Courses in 2023 for a Full-Stack Software Developer",
+      "title": "Top Courses in 2023 for a Full Stack Software Developer",
       "slug": "top-courses-in-2023-for-a-full-stack-software-developer",
-      "description": "If you're looking for the best full-stack software development course, this blog post is for you. Here is a list of some of the best courses, ranging from beginner to advanced, that can help you easily choose a career as a full-stack software developer.",
+      "description": "If you're looking for the best full stack software development course, this blog post is for you. Here is a list of some of the best courses, ranging from beginner to advanced, that can help you easily choose a career as a full stack software developer.",
       "categories": "Full Stack",
       "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tcfs-1.jpg",
@@ -1914,6 +1914,36 @@
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cmcm-1.png",
       "readTime": "9-10 mins",
       "date": "Feb 13, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted",
+    "frontmatter": {
+      "title": "How To Become a Demanding Full Stack Developer in 2023? All Confusion Sorted",
+      "slug": "how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted",
+      "description": "In this blog post we will tell you everything you need to know to get started on your career as a full stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full stack developer.",
+      "categories": "Full Stack",
+      "author": "Milan Jain",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg",
+      "readTime": "15-18 mins",
+      "date": "Sep 12, 2022",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-courses-in-2023-for-a-full-stack-software-developer",
+    "frontmatter": {
+      "title": "Top Courses in 2023 for a Full Stack Software Developer",
+      "slug": "top-courses-in-2023-for-a-full-stack-software-developer",
+      "description": "If you're looking for the best full stack software development course, this blog post is for you. Here is a list of some of the best courses, ranging from beginner to advanced, that can help you easily choose a career as a full stack software developer.",
+      "categories": "Full Stack",
+      "author": "Manas Kochar" ,
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tcfs-1.jpg",
+      "readTime": "8-9 mins",
+      "date": "Jan 13, 2023",
       "draft": false
     }
   }
