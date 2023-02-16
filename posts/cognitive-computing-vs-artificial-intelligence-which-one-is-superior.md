@@ -1,5 +1,5 @@
 ---
-title: Cognitive Computing vs. Artificial Intelligence:- Which One Is Superior?
+title: Cognitive Computing vs. Artificial Intelligence | Which One Is Superior?
 desc: "People mostly get confused with Cognitive computing and artificial intelligence . In fact, there is another term, ‘cognitive AI.’ Know the difference between these and evaluate which is more in demand."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ccai-1.jpg"
@@ -13,7 +13,7 @@ authordesc: "A tech blogger and researcher in artificial intelligence, data scie
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "9-10 mins"
-h1: "Cognitive Computing vs. Artificial Intelligence:- Which One Is Superior?"
+h1: "Cognitive Computing vs. Artificial Intelligence | Which One Is Superior?"
 id: "cognitive-computing-vs-artificial-intelligence-which-one-is-superior"
 tableData:
   [
@@ -50,7 +50,7 @@ Human intelligence is rooted and grounded in detecting the environment, learning
 
 Decision-makers can benefit from cognitive computing systems by getting data-driven insights from them. These systems are capable of processing massive amounts of data and intricate iterative analysis, continuously revising their conclusions as new data becomes available.
 
-Cognitive computing systems employ self-learning algorithms based on AI methods, including _data mining, image recognition, voice recognition_, and _Natural Language Processing_ (<a href="https://blog.learnbay.co/nlp-and-deep-learning-for-data-scientists" target="">NLP</a>), to solve complex problems. Cognitive computing systems use self-learning algorithms to learn from the user and provide a more individualized experience.
+Cognitive computing systems employ self-learning algorithms based on AI methods, including _data mining, image recognition, voice recognition_, and _Natural Language Processing_ (<a href="https://blog.learnbay.co/nlp-and-deep-learning-for-data-scientists" target="_blank">NLP</a>), to solve complex problems. Cognitive computing systems use self-learning algorithms to learn from the user and provide a more individualized experience.
 
 **In short, cognitive computing means:**
 
@@ -99,12 +99,12 @@ td, th {
     <th>Artificial Intelligence (AI)</th>
   </tr>
   <tr>
-    <td> Deep learning rules are used in robotics and sentiment analysis by cognitive AI..</td>
+    <td> Deep learning rules are used in robotics and sentiment analysis by cognitive AI.</td>
     <td>Furthermore, AI has become more involved in the application of ML, neural networks, and Natural Language Processing (NLP).</td>
   </tr>
   <tr>
     <td>It aids users in making better decisions by replicating human thought processes.</td>
-    <td>Big data analysis is aided by AI, which also uncovers hidden data and makes complex problem solutions simple to implement..</td>
+    <td>Big data analysis is aided by AI, which also uncovers hidden data and makes complex problem solutions simple to implement.</td>
 
   </tr>
   <tr>
