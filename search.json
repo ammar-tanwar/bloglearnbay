@@ -1946,5 +1946,20 @@
       "date": "Jan 13, 2023",
       "draft": false
     }
+  }, 
+
+  {
+    "slug": "cognitive-computing-vs-artificial-intelligence-which-one-is-superior",
+    "frontmatter": {
+      "title": "Cognitive Computing vs. Artificial Intelligence | Which One Is Superior?",
+      "slug": "cognitive-computing-vs-artificial-intelligence-which-one-is-superior",
+      "description": "People mostly get confused with Cognitive computing and artificial intelligence . In fact, there is another term, ‘cognitive AI.’ Know the difference between these and evaluate which is more in demand.",
+      "categories": "Artificial Intelligence",
+      "author":  "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ccai-1.jpg",
+      "readTime": "9-10 mins",
+      "date": "Feb 15, 2023",
+      "draft": false
+    }
   }
 ]
