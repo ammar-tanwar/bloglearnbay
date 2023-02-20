@@ -48,7 +48,7 @@ Let us look at the benefits of **data science in the Transportation**, Media, an
 # How Data Science in Transportation, Media, and Hospitality has helped Businesses Boom:-
 
 
-This article talks about **data science in, Media, Hospitality, and transportation** domains and how data science has helped these sectors overcome hardships.
+This article talks about **data science in Media, Hospitality, and transportation** domains and how data science has helped these sectors overcome hardships.
 
 
 
