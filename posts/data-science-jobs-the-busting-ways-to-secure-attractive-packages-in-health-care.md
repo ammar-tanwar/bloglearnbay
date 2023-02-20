@@ -2,222 +2,407 @@
 title: Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?
 desc: "Data science jobs have been diversified in both technical and non-technical sectors. Here in this blog, you will get to know the data science jobs in the healthcare sector with the various opportunities and trends on how they will help you secure attractive packages in the coming era."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance1.png"
-headerAlt: "An illustration titled, 'DATA SCIENCE IN Healthcare, Pharma and Clinical research domain' shows a group of medical staff such as a doctor, Nurses, etc."
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dhjt-1.png"
+headerAlt: "A banner image titled, 'Data Science In Healthcare, Pharma, and Clinical Research Domain,' shows a doctor's hand holding a heart-shape object. The object shows ECG graph."
 date: "Apr 6, 2022"
-tag: [ healthcare data scientist salary in india, healthcare data scientist job description, what does a data scientist do in healthcare ]
-author: "Learnbay"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
-authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
-authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
-category: "Hot Topics"
+tag: [ role of data analytics in healthcare, how to become a healthcare data scientist, healthcare data scientist course,  application of data science in healthcare, healthcare data scientist salary in india ]
+author: "Krishna Kumar"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/krishna-kumar.webp"
+authordesc: "Krishna Kumar is the founder and CEO of Learnbay.  With 10+ years of experience in software engineering development followed by data science and AI expertise, he has managed to transform the careers of many tech professionals in data science and the full-stack field through his ed-tech platform."
+authorlinkedin: "https://www.linkedin.com/in/krishna-kumar-learnbay/"
+category: "Data Science"
 position: "Editor"
 readTime: "10-12 mins"
 h1: "Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?"
 id: "data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care"
 tableData:
   [
-   Do data science jobs in the healthcare sector come with attractive packages?, What Drives a Data Scientist's salary?, Why is data science important in healthcare?, Can data scientists work in healthcare?, Applications of Data Science in Healthcare, Medical Image Analysis:-, Predictive Analytics in Healthcare, Genomics, Role of a Data Scientist in the Healthcare domain, Other common roles played by healthcare data scientists are:-, How much do healthcare data scientists make?, Companies and Packages, Based on area, What skills does it take to become a Healthcare Data Scientist?, Conclusion, Bibliography
+   Are data science jobs in demand across the healthcare industry?, What is the role of data analytics in the healthcare sector?, What drives a Data Scientist's Salary?, How much is a Data Scientist healthcare package?, Based on Companies, Based on Location, Applications of Data Science in Healthcare,  1. Medical Image Analysis1., Algorithms used in medical image analysis,  2. Predictive Analytics,  Algorithms used in predictive analysis, 3. Genomics, Algorithms used in Genomics, What skills does it take to become a Healthcare Data Scientist?, What the future holds for healthcare data scientists? 
   ]
 ---
 
-<span style=" font-weight:bold; font-size:28px"> Know the Importance of Data Science in the Medical Industry </span>
+<span style=" font-weight:bold; font-size:28px"> Know the Importance of Data Science in the Medical Industry</span>
 
+Got your master's degree in genetic counseling, occupational therapy, health administration, or any other healthcare domain? 
 
-Got your master's degree in genetic counseling, occupational therapy, health administration, or any other healthcare domain? Are you anxious to join a renowned organization with a six-figure salary package? But wait. It's not that easy these days. More than 70% of lucrative healthcare degree holders still need to secure their position. 
+Are you dreaming to join a renowned organization with a six-figure salary package?
+
+But wait. It takes a lot of work these days. More than 70% of lucrative healthcare degree holders still need to secure their position. 
 
 *What's the reason? They all are well qualified and experienced enough.* 
 
-Well, this industry has had a new 'must-have' skill requirement for the last few years. It's <a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">Data Science and AI</a>. 
+Some people work almost 24X7 with a package of 3 to 4 LPA, even after getting a master's degree. However, there is a contrasting side to it as well. A few enjoy 10 to 12 LPA, with an average of 3 to 4 years of experience in the same domain.
 
-Yes, data science and AI have changed the direction of the job market. There are many vacancies and candidates roaming around to fill those positions. Still, there needs to be more hiring. Some people work almost 24X7 with a package of 3 LPA-4 LPA, even after getting a master's degree. 
+This industry has had a new 'must-have' skill requirement for the last few years. It's **Data Science and AI**. At present, **data science jobs** are the hottest deal within the healthcare industry.
 
-However, there is a contrasting side as well. A few enjoy 10 to 12 LPA, with an average of 3 to 4 years of experience in the same domain.
+Data science and AI have changed the healthcare sector's job market direction. 
 
-This blog will help you find the root path to secure your data science jobs in the health
-care sector. 
+This blog will help you find the root path to secure your **jobs** in the healthcare sector. 
 
-First, let me answer the questions coming to the mind of most readers right now.
+First, let's answer the questions that are coming to the mind of most readers right now.
 
-## Do data science jobs in the healthcare sector come with attractive packages?
+## Are data science jobs in demand across the healthcare industry?
 
-Nowadays, while we think about the healthcare system, we visualize highly tech-upgraded and AI-powered patient care services, including SMART clinical apparatus and advanced medical research. But for the last few years, the healthcare industry has been in the topmost position on cyber criminals' hit list. 
+Nowadays, when we think about the healthcare system, we visualize highly upgraded tech and AI-powered patient care services. Take as an example the SMART clinical apparatus used for advanced medical research. However, for the last few years, the healthcare industry has been in the topmost position on cyber criminals' hit list. 
 
-According to the Accenture Survey in 2017, about 26% of US patients became victims of such birches in the first quarter. 
+During the COVID-19 pandemic in India, lots of COVID patients' personal data got leaked from several governments and NABL healthcare portals. These included information such as residential addresses, contact numbers, Aadhar numbers, etc. Such incidents caused the suspension of many frontlines and associated employees. 
 
-During the 1st wave of the COVID-19 pandemic in India, lots of COVID-positive patients' sensitive personal data, like residential addresses, contact numbers, Aadhar numbers, etc., got leaked from several governments and NABL healthcare portals. Such incidents caused the suspension of many frontlines and associated employees. 
+**Wrong handling of data and the need for more data management expertise was the key reason behind it.**
 
-*Wrong handling of data and the lack of data management expertise was the key reason behind it.*
+- Employees from a non-data science background in healthcare are at risk of job loss. This is because many drug companies compete for better regional sales worldwide. And in such cases, sharp data analytical skills become mandatory. 
 
-Employees from a non-data science background in healthcare are at risk of job loss. This is because so many pharmaceutical companies are now tying up for better regional sales worldwide. 
+- Candidates with core data science skills and analytical knowledge are in quite a safer position. The Pharma industry needs them as they need more such talent. 
 
-Recently, US-based pharma company Eli Lilly fired 120 Indian office employees because of the transfer of anti-diabetic medicine selling rights to Cipla (Source: The Economic Times). 
 
-This is very common in business, but candidates with core data science skills and analytical knowledge are in quite a safer position. The Pharma industry needs them as they suffer from a massive lack of such talent. 
 
-Healthcare data science jobs are a must because when you look at it, healthcare is one domain where data science has been used predominantly and for a very long time. The clinical industry can only run by applying some data science concepts. So there is no doubt that you will have a great scope in the healthcare industry as a data scientist. 
+**Data science healthcare jobs** are one of the beneficial careers to target in modern-day scenarios. When you look at it, healthcare is one domain where data science has mainly been used for a very long time. The clinical industry can run efficiently by applying some data science concepts. So there is no doubt that you will have a **great scope in the healthcare industry** as a data scientist. 
 
-But does it provide just as excellent a salary as working in a product-based MNC? Let's look at what your data science salary will depend upon to find the answer.
 
-### What Drives a Data Scientist's salary?     
+## What is the role of data analytics in the healthcare sector?  
 
-We all know and hear that specialists in this field make a lot of money, but we must be aware that it varies from domain to domain. A <a href="https://blog.learnbay.co/is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends" target="_blank">data scientist’s salary</a> depends on these factors.
 
-- Need for data science in the industry. 
-- The type of role that you will be playing. 
-- The field-relevant skills. 
-- Your skill set as a data scientist. 
-- Years of experience you have as a Specialist.
+According to a study from daily mail UK, the amount of data produced per day by all human bodies is two terabytes. This data includes brain activity, stress levels, heart rate, sugar content, blood pressure, and more. 
 
-Now that this is in check let us know more about the correlation between data science and healthcare.
+- There are now more advanced technologies for processing such large amounts of data, one of which is <a href="https://blog.learnbay.co/what-is-aiot-know-its-advantages-in-real-world-scenarios" target="_blank">AIoT</a>. It helps monitor the patient's health based on the recorded data, remotely. 
+  
+- With the help of data science in medicine, it has become possible to detect the symptoms of a disease very early. Doctors can remotely monitor the patient's condition with various innovative tools and technologies. 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance2.png" alt="An Image represents the use of different data science applications in the healthcare industries" style="width:100%"/>
-
-## Why is data science important in healthcare?     
-
-According to one study (source: daily mail UK), the amount of data produced by all human bodies is two terabytes per day. This data includes brain activity, stress levels, heart rate, sugar content, and more. 
-
-- There are now more advanced technologies for processing such large amounts of data, one of which is data science. It helps monitor the patient's health based on the recorded data. 
-
-- With the help of data science in medicine, it has become possible to detect the symptoms of a disease very early. With various innovative tools and technologies, doctors can remotely monitor the patient's condition. 
-
-*Any industry that generates large amounts of data needs data science.* 
+**Nowadays, any industry generating large amounts of data needs data science.** 
 
 The medical industry produces large datasets of helpful information about patient demographics, treatment plans, health check results, insurance, and more. The data collected by Internet of Things (IoT) devices has attracted the attention of data scientists.
 
-All these techniques and methods make it essential to have data science in the <a href="https://blog.learnbay.co/how-to-build-a-rewarding-career-as-a-healthcare-data-scientist" target="_blank">healthcare industry</a>.
 
-### Can data scientists work in healthcare?    
+
+All these techniques and methods make it **essential** to have a <a href="https://blog.learnbay.co/how-to-build-a-rewarding-career-as-a-healthcare-data-scientist" target="_blank">career as a healthcare data scientist</a>.
+
+But do **data science jobs** in healthcare provide just as excellent a salary as working in a product-based MNC? 
+
+
+
+To find the answer, let's look at what your data science salary will depend upon.
+
+
+## What drives a Data Scientist's Salary?   
+
+We all know and hear that specialists in this field make a lot of money. But we must be aware that it varies from domain to domain. The <a href="https://blog.learnbay.co/is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends" target="_blank">data scientist's salary</a> may depend on these factors.
+
+
+
+- The need for data science in the industry. 
   
-So far, we have established that data scientists play a significant role in the healthcare industry, so the answer to this question is *'Absolutely!'*. 
-
-**As a medical data scientist, these will be your responsibilities.**
-
-The role of the data scientist is to implement all the technologies of data science and incorporate them into health software. Data scientists extract valuable insights from the data to create predictive models. Overall, the tasks of data scientists in health care are:
-
-- Data collection from patients.
-- Analysis of hospital needs to perform data analysis using a variety of tools.
-- Implement algorithms in your data to gain insights.
-- The development team creates a predictive model.
-
-## Applications of Data Science in Healthcare
-
-The uses of data science in healthcare are close to infinity. But let us see some of the most critical applications. 
-
-### Medical Image Analysis:-
-
-Data science identifies scanned images to find defects in the human body and helps doctors develop effective treatment strategies. These medical imaging tests include x-rays, ultrasonography, MRI (Magnetic Resonance Imaging), and CT scans. Proper analysis of images from these tests helps doctors gain valuable knowledge to treat them better.
-
-**Algorithms used in medical image analysis**
-
-- **Anomaly Detection Algorithm:** This helps identify conditions such as fractures and dislocations.
-
-- **Image Processing Algorithms:** Image processing algorithms are useful for image analysis, improvement, and noise reduction.
-
-- **Descriptive Image Recognition Algorithm:** Visualises and extracts data from images. The data is then used to interpret and form larger images (for example, merge images from brain scans and name them accordingly.)
-
-### Predictive Analytics in Healthcare      
-
-A predictive analytics model based on data science makes predictions about a patient's condition. It also helps develop strategies for the appropriate treatment for the patient. Therefore, predictive analytics is a beneficial technique and plays a vital role in the medical industry.
-
-**Algorithms used in predictive analysis**
-
-- **Classification Model:** For categorizing patient data according to requirements and needs.
-
-- **Clustering Model:** The clustering model sorts the data into separate nested intelligent groups based on similar attributes. Clustering is a valuable technique in the medical sector for detecting patterns and organization in labeled and unlabeled information.
-
-- **Forecast Model:** As one of the most widely used predictive analytics models, forecasting models involve predicting metric values ​​and estimating new data numbers based on insights from historical data.
+- The type of role that you will be playing. 
+  
+- The field-relevant skills. 
+  
+- Your skill set as a data scientist. 
+  
+- Years of experience you have as a specialist.
 
 
-### Genomics   
-
-In the past, genomics research was a tedious and time-consuming task before the advent of robust data analysis techniques. This is because millions of pairs of DNA cells exist in the human body. But now, data science applications in healthcare and genomics make that task easier. With the help of various data science and big data tools, we can analyze human genes with less effort and time. In addition, with these tools, researchers can easily find the drug that best responds to a particular genetic problem or a particular type of gene.
-
-**Algorithms used in Genomics**
-
-- **V Framework:** The V framework categorizes volume, velocity, and variety of data. Genomics is used to analyze the current data concerning other applications in data sciences. 
-
-- **4M Framework:** Data science mining in the natural sciences is closely related to mathematical modeling. A concise way to understand this relationship is the 4M frameworks developed by Lauffenburger. This concept describes the overall process of systems biology, closely related to genomics in quantity measurement large-scale mining. Model the extracted observations and manipulate or test this model to ensure accuracy.
-
-So these are some of the applications of data science in the clinical industry. There are many more, but these are some of the prime examples. Let's see what you will do as a specialist in this domain.
+### How much is a Data Scientist healthcare package?  
 
 
-## Role of a Data Scientist in the Healthcare domain    
 
-- Most data scientists have technical skills such as probability and statistics, data visualization, machine learning, AI knowledge, and programming languages ​​such as R, Python, and SQL. While these skills can help you analyze through sources, healthcare data scientists must, first and foremost, be strong problem-solvers who understand their organization's goals.
-
-- Another common requirement for Healthcare Data Science jobs is a good understanding of quantitative data analysis. Due to the large amount of data generated by hospitals and authorities, data scientists must organize, manage, and analyze different datasets without being overwhelmed. When a large amount of information is mixed, healthcare data scientists are expected to connect points and identify solutions and suggestions to help businesses achieve their goals.
+This is the number one question everyone has regarding domain-specific **data science jobs**. However, it would be best if you do not worry, as organizations offer big bucks to specialists. 
 
 
-### Other common roles played by healthcare data scientists are:-   
 
-- Convert data into digestible nibbles that non-technical members of the organization can understand.  
-- Understand hospital functions and systems and use data results to support decision-making. 
-- Database management includes data collection, storage, acquisition, security, etc. 
-- To create reports and dashboards to give administrators access to results.
-- Be agile enough to jump over different dashboards to types of records, from operational to clinical to financial.
+On average, a data science specialist working in the medical field earns about Rs. 50 lakhs annually in India.
 
-## How much do healthcare data scientists make?    
 
-This is the number one question everyone has regarding doing domain-specific roles in data science. However, it would be best if you do not worry, as the domain discussed in this blog offers big bucks to specialists. 
+#### Based on Companies    
 
-On average, a data science specialist working in the medical field earns about Rs.50 lakhs annually in India. 
 
-### Companies and Packages   
+Some of the popular healthcare companies and how much they offer in their **data science jobs**.
 
-Some of the popular healthcare companies and how much they offer.
+- GE Healthcare offers Rs. 18.6 lakhs per annum.
+  
+- SCIO Health Analytics provides Rs. 7.10 to 8.64 lakhs per annum.
+  
+- Novartis Healthcare offers Rs. 21.7 lakhs per annum. 
+  
+- Dr. Reddy provides Rs. 12.8 lakhs per annum.
 
-- GE Healthcare offers Rs.18.6 lakhs per annum.
-- SCIO Health Analytics provides Rs.7.10 lakhs to 8.64 lakhs per annum.
-- Novartis Healthcare offers Rs.21.7 lakhs per annum. 
-- Dr. Reddy provides Rs.12,89,859 per annum.
-
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance4.png" alt="A chart lists the salary scales of  data scientist jobs in different cities such as, 
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsjt-2.png" style="width:100%" class="img" alt="A chart lists the salary scales of  data scientist jobs in different cities such as, 
 New Delhi: INR 20,000/month for SAS programmers
 Chennai: INR 70,000/month for pharmaceutical Data Analysts
 Bangalore: INR 12,89,859/P.A Data Analyst
-New Delhi: INR 18,70,000/P>A for Data Analysts"/>/>
+New Delhi: INR 18,70,000/P.A for Data Analysts"/>
 
-### Based on area  
+#### Based on Location  
+
+Packages on the basis of the location where you will apply for **data science jobs**.
+
+
 
 - Analysts in the New Delhi region make Rs.18,70,000 a year.  
-- Data analysts in Bangalore make Rs.12,89,859 a year.	
-- Pharmaceutical data analysts in the Chennai region earn Rs. 70,000 a month.
-- SAS programmers in the New Delhi region are reported to have made Rs.20,000 a month.
+- Data analysts in Bangalore make Rs. 12,89,859 a year.	
+- Medicinal data analysts in the Chennai region earn Rs. 70,000 a month.
+- SAS programmers in the New Delhi region are reported to have made Rs. 20,000 a month.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance5.png"/>
 
-## What skills does it take to become a Healthcare Data Scientist?    
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 90%;
+}
 
-Each domain has specific requirements to check to become a specialist in that field. Does that mean that you need to know bioinformatics to become a data scientist in the medical industry? Well, continue reading to find out.
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 17px;
+  padding: 8px;
+}
+</style>  
+<table>
+  <tr>
+    <th>Country &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>Alcoholic</th>
+    <th>Animal Protein</th>
+    <th>Animal Fats</th>
+    <th>Aquatic Protein</th>
+    <th>Cereals</th>
+    <th>Eggs</th>
+  </tr>
+  <tr>
+    <td>Afghanistan</td>
+    <td>0</td>
+    <td>21.6397</td>
+    <td>6.2224</td>
+    <td>0</td>
+    <td>8.0353</td>
+    <td>0.6859</td>
+  </tr>
+  <tr>
+    <td>Albania</td>
+    <td>0</td>
+    <td>32.0002</td>
+    <td>3.4172</td>
+    <td>0</td>
+    <td>2.6734</td>
+    <td>1.6440</td>
 
-Health data science is a relatively young discipline with epidemiology, statistics, mathematics, computer science, and computer science. Innovative skills are needed to unleash knowledge from complex health data and address some of the world's biggest health problems today.  
+  </tr>
+  <tr>
+    <td>Algeria</td>
+    <td>0</td>
+    <td>14.4175</td>
+    <td>0.8972</td>
+    <td>0</td>
+    <td>4.2035</td>
+    <td>1.2171</td>
+  </tr>
 
-- Healthcare data scientists manage and process vast and confusing health data records from various sources, putting them together in an evaluable format. They provide knowledge about analyzing data using a statistical machine-learning approach and extracting valuable insights from it.   
+  <tr>
+    <td>Angola</td>
+    <td>0</td>
+    <td>15.3041</td>
+    <td>1.313</td>
+    <td>0</td>
+    <td>6.5545</td>
+    <td>0.1539</td>
+  </tr>
 
-- Quantitative methods, applied regression, statistical analysis, statistical inference calculations, machine learning, statistical advice and collaboration, and epidemiological methodologies. 
+  <tr>
+    <td>Antigua and Barbuda</td>
+    <td>0</td>
+    <td>27.7033</td>
+    <td>4.6686</td>
+    <td>0</td>
+    <td>3.2153</td>
+    <td>0.3872</td>
+  </tr>
 
-- The primary programming languages ​​used in most health-related data science courses include a combination of Python, R, and, in some cases, SAS. 
+  <tr>
+    <td>Argentina</td>
+    <td>0</td>
+    <td>30.3572</td>
+    <td>3.3876</td>
+    <td>0</td>
+    <td>1.3316</td>
+    <td>1.5706</td>
+  </tr>
 
-- Requires a solid computational or math background. 
+  <tr>
+    <td>Armenia</td>
+    <td>0</td>
+    <td>29.6642</td>
+    <td>6.2619</td>
+    <td>0</td>
+    <td>2.5060</td>
+    <td>1.6196</td>
+  </tr>
 
-- A solid quantitative background provides emerging health data scientists with healthcare and medical research areas. These roles are ideal for students with bachelor's degrees in mathematics, statistics, or related disciplines. 
+  <tr>
+    <td>Australia</td>
+    <td>0</td>
+    <td>24.1099</td>
+    <td>4.683</td>
+    <td>0</td>
+    <td>0.9988</td>
+    <td>0.7817</td>
+  </tr>
 
-- Up-and-coming healthcare data scientists need a deep understanding of statistics, linear algebra, and calculus.
+  <tr>
+    <td>Austria</td>
+    <td>0</td>
+    <td>27.0268</td>
+    <td>12.0517</td>
+    <td>0</td>
+    <td>1.2297</td>
+    <td>1.2147</td>
+  </tr>
 
-One of the other skills needed is communicating results with different healthcare professionals. Health data scientists communicate with other data scientists about how to use the data and insights, discuss with clinicians to understand the illness they are studying, communicate with laboratory scientists, and most importantly, patients. It would help if you shared clearly and transparently with the general public. 
+  <tr>
+    <td>Azerbaijan</td>
+    <td>0</td>
+    <td>32.1198</td>
+    <td>7.7987</td>
+    <td>0</td>
+    <td>5.4481</td>
+    <td>2.0197</td>
+  </tr>
 
-All healthcare data science projects focus on developing suitable applications that can work with patients or the general public in the healthcare sector and the commercial arena.
+  <tr>
+    <td>Bahamas</td>
+    <td>0</td>
+    <td>30.2259</td>
+    <td>4.56</td>
+    <td>0</td>
+    <td>3.6327</td>
+    <td>1.2829</td>
+  </tr>
 
-## Conclusion        
+  <tr>
+    <td>Bangladesh</td>
+    <td>0</td>
+    <td>9.8365</td>
+    <td>1.2369</td>
+    <td>0</td>
+    <td>6.9946</td>
+    <td>1.2664</td>
+  </tr>
 
-Now that we have reached the end of the blog, I hope you have been educated on the importance of domain expertise in the healthcare sector. Another thing to make clear is this potential in the coming future and even the present. Pharma and the medical industry will never be outdated as long as humans exist. Therefore, in-depth knowledge of data science and its usage in healthcare is needed to change this sector. The healthcare/medical domain provided in Learnbay's <a href="https://www.learnbay.co/data-science-ai-for-managers" target="_blank">Data Science and AI</a> Courses will aid you in understanding projects and use cases.
+  <tr>
+    <td>Barbados</td>
+    <td>0</td>
+    <td>25.8451</td>
+    <td>3.9733</td>
+    <td>0</td>
+    <td>2.1187</td>
+    <td>1.213</td>
+  </tr>
 
-## Bibliography   
+  <tr>
+    <td>Belarus</td>
+    <td>0</td>
+    <td>23.8181</td>
+    <td>7.8662</td>
+    <td>0</td>
+    <td>4.8075</td>
+    <td>1.5772</td>
+  </tr>
 
-<a href="https://analyticsindiamag.com/what-does-it-take-to-become-a-healthcare-data-scientist/" target="_blank" rel="nofollow">https://analyticsindiamag.com/what-does-it-take-to-become-a-healthcare-data-scientist/</a> <br/>
 
-<a href="https://www.springboard.com/library/data-science/healthcare-industry-jobs/" target="_blank" rel="nofollow">https://www.springboard.com/library/data-science/healthcare-industry-jobs/</a> <br/>
+</table> <br/><br/>
 
-<a href="https://www.hsph.harvard.edu/health-data-science/" target="_blank" rel="nofollow">https://www.hsph.harvard.edu/health-data-science/
-</a>
+
+## Applications of Data Science in Healthcare   
+
+
+
+The uses of data science in healthcare are immense. Let us look at some of the most critical applications. 
+
+
+### 1. Medical Image Analysis1.    
+
+
+Doctors find the defects in the human body using medical imaging tests like x-rays, ultrasonography, MRI (Magnetic Resonance Imaging), and CT scans. Doctors can now find micro-sized deformities in scanned images with deep learning technologies.
+
+
+
+Other image refining methods include [support vector machines](https://blog.learnbay.co/support-vector-machines), edge detection, big data platforms (Hadoop), and more that help doctors develop effective treatment strategies. 
+
+
+#### Algorithms used in medical image analysis   
+
+
+- **Anomaly Detection Algorithm:** This helps identify conditions such as fractures and dislocations.
+
+
+
+- **Image Processing Algorithms:** Image processing algorithms are useful for image analysis, improvement, and noise reduction.
+
+
+
+- **Descriptive Image Recognition Algorithm:** This visualizes and extracts data from images. The data is then used to interpret and form larger images (for example, merging images from brain scans and naming them accordingly.)
+
+
+ ### 2. Predictive Analytics    
+
+
+A predictive analytics model based on data science can predict a patient's health. It can help develop strategies for the appropriate treatment for the patient, playing a vital role in the medical industry.
+
+A predictive model can learn from previous data and provide meaningful outcomes by finding patterns in the data. Through this data-driven analysis, doctors can find solutions to prevent common diseases in the general public. 
+
+
+#### Algorithms used in predictive analysis  
+
+- **Classification Model:** It categorizes patient data according to requirements and needs.
+
+- **Clustering Model:** The clustering model sorts the data into separate nested intelligent groups based on similar attributes. Clustering is a valuable technique in the medical sector for detecting patterns and organization in labeled and unlabeled information.
+
+- **Forecast Model:** As one of the most widely used predictive analytics models, forecasting models involve predicting metric values ​​and estimating new data numbers. These numbers are based on insights from historical data.
+
+### 3. Genomics  
+
+In the past, genomics research was a tedious and time-consuming task before the advent of robust data analysis techniques. Now, data science applications in healthcare and genomics have made that task convenient. 
+
+With the help of various data science and big data tools, healthcare data scientists can analyze human genes to obtain insights with less effort and time. Big data tools such as MapReduce, SQL, Bioconductor, etc., can speed up genetic sequencing analysis.
+
+In addition, researchers can easily find the drug that best responds to a particular genetic problem or a particular type of gene.
+
+#### Algorithms used in Genomics   
+
+- **V Framework:** The V framework categorizes volume, velocity, and variety of data. Genomics is used to analyze the current data concerning other applications in data sciences. 
+
+- **4M Framework:** This concept describes the overall process of systems biology, closely related to genomics in quantity measurement large-scale mining.
+
+## What skills does it take to become a Healthcare Data Scientist?   
+
+
+Healthcare data scientists manage and process vast and confusing health data records from various sources, putting them together in an evaluable format. Innovative skills are needed to unleash knowledge from complex health data and address some of the world's biggest health problems today.  
+
+- They require knowledge about analyzing data using statistical machine-learning algorithms and extracting valuable insights from it.   
+  
+- They also require a solid computational or math background. 
+
+- A solid quantitative background provides emerging health data scientists entry into healthcare and medical research areas. These roles are ideal for students with bachelor's degrees in mathematics, statistics, or related disciplines. 
+
+- The primary programming languages ​​required in most health-related data science fields include Python, R, and, in some cases, SAS. 
+
+- Upcoming healthcare data scientists need a deep understanding of statistics, linear algebra, quantitative methods, and calculus.
+
+Of the other skills needed is communicating results with different healthcare professionals. Health data scientists communicate with other data scientists about
+
+
+- How to use the data and insights?
+  
+- Discuss with clinicians to understand the illness they are studying.
+  
+- Communicate with laboratory scientists and, most importantly, patients. 
+
+It would help if you shared clearly and transparently with the general public. 
+
+
+## What the future holds for healthcare data scientists?  
+
+
+Due to technological advancements and the digitization of most sectors, there is also a strong need for improvements in the healthcare industry. For reducing treatment costs, providing better health results, and handling the rapid population expansion, data science will prove to be a greater tool.
+
+Pharma and the medical industry will always be relevant as long as humans exist. Various **data science jobs** in the medical industry also opened up due to the advancements. To fully utilize this opportunity, you will need an in-depth knowledge of data science and its usage in healthcare. Through real-time applications, you can easily secure an attractive package in the medical field.
+
+Learnbay's <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">Data Science and AI Program</a> will aid you in understanding valuable projects and use cases in the healthcare/medical domain.
+
+

@@ -424,9 +424,9 @@
       "title": "Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?",
       "slug": "data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care",
       "description": "Data science jobs have been diversified in both technical and non-technical sectors. Here in this blog, you will get to know the data science jobs in the healthcare sector with the various opportunities and trends on how they will help you secure attractive packages in the coming era.",
-      "categories": "Hot Topics",
-      "author": "Learnbay",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/finance1.png",
+      "categories": "Data Science",
+      "author": "Krishna Kumar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dhjt-1.png",
       "readTime": "10-12 mins",
       "date": "Apr 6, 2022",
       "draft": false
@@ -1974,6 +1974,21 @@
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eten-1.jpg",
       "readTime": "10-12 mins",
       "date": "Feb 17, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "handwriting-recognition-an-excellent-ai-innovation-in-ocr-technology",
+    "frontmatter": {
+      "title": "Handwriting Recognition | An Excellent AI Innovation in OCR Technology",
+      "slug": "handwriting-recognition-an-excellent-ai-innovation-in-ocr-technology",
+      "description": "Learn about the OCR technology's handwriting text recognition method and its in-depth working techniques. Additionally, become familiar with the many HTR use cases and implications in various organizational fields.",
+      "categories": "Artificial Intelligence",
+      "author":  "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hrae-1.jpg",
+      "readTime": "10-12 mins",
+      "date": "Feb 20, 2023",
       "draft": false
     }
   }
