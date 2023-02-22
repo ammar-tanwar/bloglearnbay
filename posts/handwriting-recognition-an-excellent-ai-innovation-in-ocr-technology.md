@@ -116,19 +116,19 @@ The data presented in offline methods consists of snapshots of handwritten text.
 
 A handwriting algorithm contains steps to identify the texts from the given data input. These apply to <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">machine learning algorithms</a>, techniques, models, and recognition system strategies. They are
 
-#### 1. Pre-processing:-   
+### 1. Pre-processing:-   
 
 Image pre-processing is essential in text recognition since it helps make the other process easier. Operations such as _noise removal, segmenting images, cleaning, cropping,_ etc., are a part of image pre-processing. This process removes any unnecessary noise from the image and helps identify the objects in the image that may be useful.
 
-#### 2. Segmentation:-
+### 2. Segmentation:-
 
 It is a complex process where the algorithm segments images into smaller sub-images containing individual characters.
 
-#### 3. Feature extraction:-
+### 3. Feature extraction:-
 
 The properties identifying the data present in the image are measured in this step. It helps identify relevant features and extract those not dependent on one another. The image is detailed using a feature extraction algorithm to provide accurate character identification.
 
-#### 4. Classification and recognition:- 
+### 4. Classification and recognition:- 
 
 In this final step, we use neural networks or other classifiers to decide on the input data provided.
 
