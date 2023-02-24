@@ -129,4 +129,4 @@ ReVerb is an excellent NLP program that can easily recognize and extract binary 
 
 We hope you enjoyed the blog post about open-source natural language processing tools for developers. The presentation of the tools we covered should help you search for a natural language processing solution that can help you with your business.
 
-If you have questions about any of the tools or the content you have read, don't hesitate to visit our <a href="https://www.learnbay.co/" target="_blank" rel="dofollow">website</a> and do check out our<a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank" rel="nofollow"> Advanced Data Science and AI Program with Domain Specialization</a>.
+If you have questions about any of the tools or the content you have read, don't hesitate to visit our <a href="https://www.learnbay.co/" target="_blank">website</a> and do check out our <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank"> Advanced Data Science and AI Program with Domain Specialization</a>.
