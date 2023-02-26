@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "test": "next test",
     "lint": "next lint",
     "prepare": "husky install",
     "cache-posts": "node scripts/cache.js"

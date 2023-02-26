@@ -500,8 +500,7 @@ const Footer = ({FsdNumber}) => {
       <div className={styles.FooterBottom}>
         <div className={styles.FooterBottomInner}>
           <p className={styles.FooterInnerB}> 
-            Copyright © 2020 Learnbay by <Link href="https://www.learnbay.co/">www.learnbay.co.</Link> All
-            Rights Reserved.
+          Copyright © 2022 Learnbay by Learnvista Pvt. Ltd. All Rights Reserved.
           </p>
         </div>
       </div>
