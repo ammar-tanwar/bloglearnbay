@@ -18,7 +18,7 @@ id: "time-series-forecasting-methods-trends-of-2023"
 tableData:
   [
 
-    What exactly is Time Series Forecasting?, Quantity of Data, Quality of Data, Trends, Unexpected events and outcomes, Types of Time Series Forecasting, Univariate:-, Multivariate:-, What is Time Series Decomposition?, Additive Decomposition:-, Multiplicative  Decomposition:-, Use cases of Time Series Forecasting:-, What next?
+    What exactly is Time Series Forecasting?, Quantity of Data, Quality of Data, Seasonality, Trends, Unexpected events and outcomes, Types of Time Series Forecasting, Univariate:-, Multivariate:-, What is Time Series Decomposition?, Additive Decomposition:-, Multiplicative  Decomposition:-, Use cases of Time Series Forecasting:-, What next?
   ]
 ---
 
@@ -97,31 +97,31 @@ A decomposition is a type of model that enables the division of components into 
 
 **Here are the four components of the decompositionn model:-**
 
-_**Tt:-**  _The trend component that examines the long-term development of time series forecasts._
+**Tt:-**  _The trend component that examines the long-term development of time series forecasts._
 
-_ **Ct:-**  _The repeated yet irregular fluctuations are reflected in the cyclical compositions at time t._
+**Ct:-**  _The repeated yet irregular fluctuations are reflected in the cyclical compositions at time t._
 
-_ **St:-** _The term "seasonality" is used to describe the seasonal composition in time t._
+**St:-** _The term "seasonality" is used to describe the seasonal composition in time t._
 
-_ **It:-** _It has been reclassified as the abnormal noise and influence at that particular time (t)._
+**It:-** _It has been reclassified as the abnormal noise and influence at that particular time (t)._
 
 In time series **decomposition** model, **classic**  **decomposition** is one of the most effective approaches. We divide them into two types of classical decomposition- **Decomposition** based on rate changes and **Decomposition** based on predictability. **This decomposition rate is further classified into additive or multiplicative.**
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsm-4.png" style="width:100%" class="img" alt="A graph with X and Y axis shows additive decomposition with numerous analytical variations."/>
 
-### Additive Decomposition:-   
+## Additive Decomposition:-   
 
 Additive decomposition is one of the greatest approaches to time series data. We may infer that it can be extended in an additional component. The equation is written as follows:
 
-**Tt + Ct + St + It = yt**
+<b>Tt + Ct + St + It = yt</b>
 
 **Here 'yt' is represented as time series data.**
 
-### Multiplicative Decomposition:-
+## Multiplicative Decomposition:-
 
 Multiplicative decomposition is a model that employs multiplication instead of an addition to integrate the components of time series data. We can apply the multiplicative formula as follows:-
 
-**Tt \* Ct \* St \* It = yt**
+<b>Tt \* Ct \* St \* It = yt</b>
 
 Now, many of you will wonder when to use an additive or multiplicative decomposition model, so the answer is very simple; it totally depends on the variety of time series models.
 
@@ -131,7 +131,7 @@ And if the seasonal component is constant over time, we can easily utilize addit
 
 ## Use cases of Time Series Forecasting:-  
 
--  **Time series forecasting** helps in understanding the essential collection of data needed to interpret changes in the financial market.
+- <b>Time series forecasting</b> helps in understanding the essential collection of data needed to interpret changes in the financial market.
 
 - By evaluating financial data, experts may predict critical forecasts for financial applications such as risk development, effective pricing and trade, asset design, and so on.
 
@@ -151,4 +151,4 @@ And if the seasonal component is constant over time, we can easily utilize addit
 
 We can conclude that time series forecasting is an essential tool that helps in predicting future outcomes. It has numerous implications in areas like marketing, energy, aviation, etc. This is an important method for researching finance and economics.
 
-So it's too critical to have time series forecasting knowledge to stay ahead of the hard job market competition. But thinking of where to Learn? There are plenty of online and offline courses available. However, the most cost-efficient way is to pursue an <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">advanced data science and AI course</a>. In Short, a time series analysis course is not a good choice as the knowledge will be very limited to survive in the real-world requirements. Instead, choose a course that offers live classes, plenty of practical sessions, valuable capstone projects, and post-course job assistance.
+So it's too critical to have time series forecasting knowledge to stay ahead of the hard job market competition. But thinking of where to learn? There are plenty of online and offline courses available. However, the most cost-efficient way is to pursue an <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">advanced data science and AI course</a>. In short, a time series analysis course is not a good choice as the knowledge will be very limited to survive in the real-world requirements. Instead, choose a course that offers live classes, plenty of practical sessions, valuable capstone projects, and post-course job assistance.

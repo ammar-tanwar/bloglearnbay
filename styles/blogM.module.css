@@ -326,6 +326,21 @@
   display: inline;
 }
 
+
+
+.blogButton{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.loadMore{
+  font-weight: 600;
+  padding-left: 643px;
+  padding-bottom: 38px;
+  padding-top: 23px;
+}
+
+
 @media (max-width: 600px) {
   .searchmain {
     top: 22px;
@@ -405,12 +420,23 @@
     bottom: 72px;
     right: 37px;
   }
+
+  .loadMore{
+    font-weight: 600;
+    padding-left: 120px;
+    padding-bottom: 38px;
+    padding-top: 23px;
+  }
+  
+
+
 }
 
-.blogButton{
-  display: flex;
-  flex-direction: row-reverse;
-}
+
+
+
+
+
 
 
 
@@ -439,3 +465,4 @@
   bottom: 72px;
   right: 37px;
 } */
+

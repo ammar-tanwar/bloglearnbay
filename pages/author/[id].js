@@ -19,6 +19,12 @@ import {
 
 
 export default function CategoryBlog({ categoryPosts }) {
+
+  const [visible, setVisible] = useState(9);
+  
+  const showMoreItems = () => {
+    setVisible((prevValue) => prevValue + 9);
+  };
   const [state, setstate] = useState();
 
   // useEffect(() => {
@@ -93,8 +99,8 @@ export default function CategoryBlog({ categoryPosts }) {
       </div>
 
       <section className={styles.blogWrap}>
-        {categoryPosts.map(
-          ({ id, date, title, author, readTime, headerImg }) => {
+        {categoryPosts.slice(0, visible).map(
+          ({ id, date, title, author, readTime, headerImg, categoryPosts }) => {
             const url = `/${id}`;
             return (
               <div
@@ -131,6 +137,11 @@ export default function CategoryBlog({ categoryPosts }) {
           }
         )}
       </section>
+
+      <div className={styles.loadMore}>
+                
+                <button onClick={showMoreItems}>Load More...</button>
+     </div>
     </>
   );
 }
