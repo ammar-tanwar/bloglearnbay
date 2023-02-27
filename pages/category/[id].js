@@ -9,8 +9,15 @@ import Image from "next/image";
 import { BsDot } from "react-icons/bs";
 import { IoTimeOutline } from "react-icons/io5";
 import { sortByDate } from "../../utils";
+import { useState } from "react";
 
 export default function CategoryBlog({ categoryPosts }) {
+
+  const [visible, setVisible] = useState(9);
+  
+  const showMoreItems = () => {
+    setVisible((prevValue) => prevValue + 9);
+  };
   return (
     <>
       <Head>
@@ -25,8 +32,8 @@ export default function CategoryBlog({ categoryPosts }) {
       </section> */}
       <br></br><br></br><br></br>
       <section className={styles.blogWrap}>
-        {categoryPosts.map(
-          ({ id, date, title, author, readTime, headerImg }) => {
+        {categoryPosts.slice(0, visible).map(
+          ({ id, date, title, author, readTime, headerImg, categoryPosts }) => {
             const url = `/${id}`;
             return (
               <div
@@ -63,6 +70,13 @@ export default function CategoryBlog({ categoryPosts }) {
           }
         )}
       </section>
+
+      <div className={styles.loadMore}>
+                
+                <button onClick={showMoreItems}>Load More...</button>
+     </div>
+
+
     </>
   );
 }
