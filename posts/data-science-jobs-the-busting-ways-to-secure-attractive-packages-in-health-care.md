@@ -17,7 +17,7 @@ h1: "Data Science Jobs - The Busting Ways To Secure Attractive Packages In Healt
 id: "data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care"
 tableData:
   [
-   Are data science jobs in demand across the healthcare industry?, What is the role of data analytics in the healthcare sector?, What drives a Data Scientist's Salary?, How much is a Data Scientist healthcare package?, Based on Companies, Based on Location, Applications of Data Science in Healthcare,  1. Medical Image Analysis1., Algorithms used in medical image analysis,  2. Predictive Analytics,  Algorithms used in predictive analysis, 3. Genomics, Algorithms used in Genomics, What skills does it take to become a Healthcare Data Scientist?, What the future holds for healthcare data scientists? 
+   Are data science jobs in demand across the healthcare industry?, What is the role of data analytics in the healthcare sector?, What drives a Data Scientist's Salary?, How much is a Data Scientist healthcare package?, Based on Companies, Based on Location, Applications of Data Science in Healthcare,  1. Medical Image Analysis, Algorithms used in medical image analysis,  2. Predictive Analytics,  Algorithms used in predictive analysis, 3. Genomics, Algorithms used in Genomics, What skills does it take to become a Healthcare Data Scientist?, What the future holds for healthcare data scientists? 
   ]
 ---
 
@@ -315,14 +315,14 @@ td, th {
 The uses of data science in healthcare are immense. Let us look at some of the most critical applications. 
 
 
-### 1. Medical Image Analysis1.    
+### 1. Medical Image Analysis 
 
 
 Doctors find the defects in the human body using medical imaging tests like x-rays, ultrasonography, MRI (Magnetic Resonance Imaging), and CT scans. Doctors can now find micro-sized deformities in scanned images with deep learning technologies.
 
 
 
-Other image refining methods include [support vector machines](https://blog.learnbay.co/support-vector-machines), edge detection, big data platforms (Hadoop), and more that help doctors develop effective treatment strategies. 
+Other image refining methods include <a href="https://blog.learnbay.co/support-vector-machines" target="_blank">support vector machines</a>, edge detection, big data platforms (Hadoop), and more that help doctors develop effective treatment strategies. 
 
 
 #### Algorithms used in medical image analysis   
@@ -336,7 +336,7 @@ Other image refining methods include [support vector machines](https://blog.lear
 
 
 
-- **Descriptive Image Recognition Algorithm:** This visualizes and extracts data from images. The data is then used to interpret and form larger images (for example, merging images from brain scans and naming them accordingly.)
+- **Descriptive Image Recognition Algorithm:** This visualizes and extracts data from images. The data is then used to interpret and form larger images (for example, merging images from brain scans and naming them accordingly).
 
 
  ### 2. Predictive Analytics    
