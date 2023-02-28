@@ -81,13 +81,22 @@ export default function Post({ postData, posts }) {
 
 
         <div className={styles.DivImg}>
-          <img
+          {/* <img
             src={postData.img}
             alt={postData.alt}
             width="100%"
             height="450px"
             className={styles.bImg}
-          ></img>
+          ></img> */}
+
+          <Image
+           src={postData.img}
+           alt={postData.alt}
+           className={styles.bImg}
+           layout="responsive"
+           width="100%"
+           height="35px"          
+          />
         </div>
       </section>
 

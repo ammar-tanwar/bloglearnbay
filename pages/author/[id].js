@@ -62,6 +62,7 @@ export default function CategoryBlog({ categoryPosts }) {
         <div className={authorstyle.mcircle}>
               <Image
                 src={categoryPosts[0].authorimg}
+                alt=""
                 priority={true}
                 width={170}
                 height={170}
@@ -89,7 +90,7 @@ export default function CategoryBlog({ categoryPosts }) {
           </div> */}
 
           <div className={authorstyle.adesc}>
-            <p> " {categoryPosts[0].authordesc} "</p>
+            <p> &quot;{categoryPosts[0].authordesc}&quot;</p>
 
           </div>
          
