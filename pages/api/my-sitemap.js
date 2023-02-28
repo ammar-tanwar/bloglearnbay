@@ -1,7 +1,7 @@
 const { SitemapStream, streamToPromise } = require("sitemap");
 const { Readable } = require("stream");
 
-export default async (req, res) => {
+ async (req, res) => {
   // An array with your links
   const links = [
     { url: "https://blog.learnbay.co/", changefreq: "daily", priority: 0.3 },
@@ -97,6 +97,8 @@ export default async (req, res) => {
     { url: "https://blog.learnbay.co/7-must-know-web-development-languages-of-2023", changefreq: "daily", priority: 0.3 },
   ];
 
+
+
   // Create a stream to write to
   const stream = new SitemapStream({ hostname: `https://${req.headers.host}` });
 
@@ -109,3 +111,5 @@ export default async (req, res) => {
   ).then((data) => data.toString());
   res.end(xmlString);
 };
+
+export default async;

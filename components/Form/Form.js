@@ -28,9 +28,16 @@ const Form = ({ popup, setTrigger, downloadBrochure }) => {
     dateTime: "",
     url: router.asPath,
   });
+  
   useEffect(() => {
     setQuery({ ...query, phone: value,dateTime: startDate  });
   }, [value]);
+
+  
+    // setQuery({ ...query, phone: value,dateTime: startDate  });
+
+
+ 
 
   // Update inputs value
   const handleParam = () => (e) => {

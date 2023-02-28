@@ -19,6 +19,7 @@ const ThankYou = () => {
         <div>
           <Image
             src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/thank-header.png"
+            alt=""
             width="522"
             height="380"
             layout="intrinsic"

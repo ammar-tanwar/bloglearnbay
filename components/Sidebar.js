@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Search from "../search.json";
 import { slugify } from "../utils";
 import styles from './search.module.css';
+import Image from "next/image";
 
 
 
@@ -54,11 +55,8 @@ export default function Sidebar() {
         placeholder="Enter search term..."
       />
       <Link href={{ pathname: '/Search', query: { q: search?.toLowerCase() } }} >
-        <a className={styles.searchicon} id="myBtn"><img src="https://i.ibb.co/FXsnyyq/search.png" alt="" /></a>
-      </Link>
-      
-     
-      
+        <a className={styles.searchicon} id="myBtn"><Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/search.png" alt="" height={20} width={20} /></a>
+      </Link>    
     </div>
   )
 }

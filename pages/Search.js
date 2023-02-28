@@ -38,7 +38,7 @@ export default function Search() {
             <br /><br /><br />
 
             <section className={styles.blogHead}>
-                <p>Results for:  '{`${query.q}`}.' </p>
+                <p>Results for:  &apos;{`${query.q}`}.&apos; </p>
                 <Sidebar />
 
             </section>

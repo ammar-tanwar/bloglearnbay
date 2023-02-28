@@ -17,7 +17,7 @@ import { useEffect, useState } from "react";
 
 
 
-export default function blog({ allPostsData }) {
+export default function Blog({ allPostsData }) {
 
     const [visible, setVisible] = useState(9);
   
