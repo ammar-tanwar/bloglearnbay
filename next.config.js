@@ -144,6 +144,12 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/reliable-resources-for-data-science',
+        destination: '/reliable-sources-to-understand-about-data-science',
+        permanent: true,
+      },
+
     ]
   },
 }

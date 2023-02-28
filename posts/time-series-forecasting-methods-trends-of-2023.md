@@ -95,7 +95,7 @@ It has a diverse set of data for customer departmental and geographical sets wit
 
 A decomposition is a type of model that enables the division of components into various patterns. This is helpful when designing a display with different patterns. The time series data is easily split up into different parts, each of which has an underlying pattern. By using the **decompositional** model, we can easily manage the above data sets.
 
-**Here are the four components of the decompositionn model:-**
+**Here are the four components of the decomposition model:-**
 
 **Tt:-**  _The trend component that examines the long-term development of time series forecasts._
 
