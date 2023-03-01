@@ -17,7 +17,7 @@ h1: "Reliable Resources for Data Science"
 id: "reliable-resources-for-data-science"
 tableData:
   [
-    Know The Best Platforms to Learn Data Science Online, Some Useful Resources for Data Science:-, YouTube Videos:-, 1. Springboard, 2. Joma Tech, 3. Learnbay, 4. Edureka, 5. 365 Data science, 6. Krish Naik, Books:-, 1. Python for Data Analysis, 2. Hands-On Machine Learning with Scikit-Learn and TensorFlow, 3. Machine Learning with Python Cookbook, General Thoughts, Closing Thoughts
+     Some Useful Resources for Data Science:-, YouTube Videos:-, 1. Springboard, 2. Joma Tech, 3. Learnbay, 4. Edureka, 5. 365 Data science, 6. Krish Naik, Books:-, 1. Python for Data Analysis, 2. Hands-On Machine Learning with Scikit-Learn and TensorFlow, 3. Machine Learning with Python Cookbook, General Thoughts, Closing Thoughts
   ]
 ---
 
@@ -75,7 +75,7 @@ Joma not only talks about data science but also suggests various courses on star
 
 He has amassed over 2 million subscribers on his YouTube channel.
 
-#### <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank" rel="nofollow">3. Learnbay</a>
+#### <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">3. Learnbay</a>
 
 Learnbay's YouTube channel provides helpful and relevant videos for career transition, benefiting non-tech students and working professionals.
 
@@ -123,11 +123,11 @@ The book teaches machine learning, <a href="https://blog.learnbay.co/what-are-th
 
 Before starting with the book, a good understanding of calculus (linear algebra, vector functions, and gradients) may be required. This is probably a great book for beginners to get acquainted with most machine-learning coding demands.
 
-#### <a href="https://www.amazon.in/Machine-Learning-Python-Cookbook-Chris/dp/1491989386" target="_blank">3. Machine Learning with Python Cookbook</a>   
+#### <a href="https://www.amazon.in/Machine-Learning-Python-Cookbook-Chris/dp/1491989386" target="_blank" rel="nofollow">3. Machine Learning with Python Cookbook</a>   
 
 Another book focused on machine learning, deep learning, and data science. The book uses Python to teach the topics in detail. It has some well-explained examples to show the practical applications of the concepts in real-world situations.
 
-It starts with common topics for learners, such as KNN, <a hef="https://blog.learnbay.co/linear-regression-in-machine-learning" target="_blank">linear regression</a>, etc. It then dives into deep learning concepts such as neural networks.
+It starts with common topics for learners, such as KNN, <a href="https://blog.learnbay.co/linear-regression-in-machine-learning" target="_blank">linear regression</a>, etc. It then dives into deep learning concepts such as neural networks.
 
 ## General Thoughts   
 
@@ -135,11 +135,11 @@ As all these <b>resources for data science</b> are generally very helpful, choos
 
 **A step-by-step process to learn data science with ease would be**
 
-<b>1. Select a topic of interest:</b> You should study data science in your chosen field. Different fields offer different perspectives, so you must consider which area you want to explore in your understanding of data science. Getting a <a href="https://blog.learnbay.co/know-the-importance-of-domain-specialization-within-a-data-science-course" target="_blank">domain specialization</a> as an automotive or <a href="https://blog.learnbay.co/how-to-build-a-rewarding-career-as-a-healthcare-data-scientist" target="_blank">healthcare data scientist</a> can be a boon for your career if you have an active interest in the domain.
+1. <b>Select a topic of interest:</b> You should study data science in your chosen field. Different fields offer different perspectives, so you must consider which area you want to explore in your understanding of data science. Getting a <a href="https://blog.learnbay.co/know-the-importance-of-domain-specialization-within-a-data-science-course" target="_blank">domain specialization</a> as an automotive or <a href="https://blog.learnbay.co/how-to-build-a-rewarding-career-as-a-healthcare-data-scientist" target="_blank">healthcare data scientist</a> can be a boon for your career if you have an active interest in the domain.
 
-<b>2. Network with a few professionals in your field:</b> Researchers, professors, etc., are great learning tools for any subject as they provide a plethora of information on the topic. The **data science resources mentioned above offer** insights from data scientists with immense knowledge and experience. You can get answers to questions such as "how to get started in data science," etc.
+2. <b>Network with a few professionals in your field:</b> Researchers, professors, etc., are great learning tools for any subject as they provide a plethora of information on the topic. The **data science resources mentioned above offer** insights from data scientists with immense knowledge and experience. You can get answers to questions such as "how to get started in data science," etc.
 
-<b>3. Gain an understanding of the basics:</b> The mathematics behind the equation, models being deployed, and methods used in a particular situation would help you understand the problem in depth. What challenges are these models attempting to solve? Getting a clear understanding of the basics is a must for data scientists.
+3. <b>Gain an understanding of the basics:</b> The mathematics behind the equation, models being deployed, and methods used in a particular situation would help you understand the problem in depth. What challenges are these models attempting to solve? Getting a clear understanding of the basics is a must for data scientists.
 
 ## Closing Thoughts   
 

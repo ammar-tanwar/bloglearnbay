@@ -31,13 +31,13 @@ Practitioners find it convenient to analyze and examine data when the process do
 
 We are now getting surrounded by different kinds of automation and AI devices. Alexa, Google devices at home, as well as automated chatbot services everywhere are the biggest examples of the same.
 
-Every smart device we use in daily life is continually becoming smarter. However, all of this is because of the stunning advancement of several **machine learning tools** and techniques.
+Every smart device we use in daily life is continually becoming smarter. However, all of this is because of the stunning advancement of several ,<b>machine learning tools</b> and techniques.
 
 But as its applications spread into automating most of our daily tasks, ML experts need to regularly update themselves on the latest tools and technologies in machine learning.
 
-If you also belong to the emerging field of machine learning, mastering the trending **machine learning tools** can help you build better models to train new algorithms. You can bring efficiency to your models by applying proper **ML tools** in the right places.
+If you also belong to the emerging field of machine learning, mastering the trending <b>machine learning tools</b> can help you build better models to train new algorithms. You can bring efficiency to your models by applying proper <b>ML tools</b> in the right places.
 
-This is a complicated task, which is why knowledge of different **machine-learning techniques** is essential. You need to know which tools and software are evolving, modified, or changed. This will help you choose the right set of **tools for machine learning**.
+This is a complicated task, which is why knowledge of different <b>machine-learning techniques</b> is essential. You need to know which tools and software are evolving, modified, or changed. This will help you choose the right set of <b>tools for machine learning</b>.
 
 Selecting the best tool for a task is tough. However, the below-mentioned set of tools will help you a lot.
 
@@ -47,13 +47,13 @@ Developed by the Google Brain Team, this open-source library helps train machine
 
 TensorFlow runs on both CPU and GPU. A wide range of applications users use TensorFlow, a few of which are
 
-- NLP (Natural Language Processing) in **virtual assistance** systems
+- NLP (Natural Language Processing) in <b>virtual assistance</b> systems
   
 - Image classification
   
 - Computer vision
   
-- Reinforcement learning.
+- Reinforcement learning
 
 ### Features:-  
 
@@ -69,7 +69,7 @@ TensorFlow runs on both CPU and GPU. A wide range of applications users use Tens
 
 ## 2. Amazon Machine Learning (AML)   
 
-This is one of the **best machine-learning tools** provided by Amazon on its platform. AML is cloud-based and offers reliable machine-learning software. Its primary usage is making ML models and predictions. It provides a simplified tool for developers to utilize machine learning with ease.
+This is one of the <b>best machine-learning tools</b> provided by Amazon on its platform. AML is cloud-based and offers reliable machine-learning software. Its primary usage is making ML models and predictions. It provides a simplified tool for developers to utilize machine learning with ease.
 
 ### Features:-
 
@@ -81,7 +81,7 @@ This is one of the **best machine-learning tools** provided by Amazon on its pla
   
 - It offers visualization tools and wizards.
   
-- AML supports multi-class classification, binary classification, and **linear regression** models.
+- AML supports multi-class classification, binary classification, and <b>linear regression</b> models.
   
 - It includes core ML concepts such as batch predictions, real-time predictions, evaluations, and data sources.
   
@@ -91,7 +91,7 @@ This is one of the **best machine-learning tools** provided by Amazon on its pla
 
 ## 3. Shogun    
 
-This tool is programmed in C++ and supports other languages such as Python, R, Scala, and Ruby, among others. Shogun attempts to solve problems such as classification and regression by employing the **random forest** algorithm for kernel-based algorithms like K-means clustering, <a href="https://blog.learnbay.co/support-vector-machines" target="_blank">support vector machine</a> (SVM), etc.
+This tool is programmed in C++ and supports other languages such as Python, R, Scala, and Ruby, among others. Shogun attempts to solve problems such as classification and regression by employing the <b>random forest</b> algorithm for kernel-based algorithms like K-means clustering, <a href="https://blog.learnbay.co/support-vector-machines" target="_blank">support vector machine</a> (SVM), etc.
 
 Its main applications are <a href="https://blog.learnbay.co/clustering-data-science-unsupervised-learning" target="_blank">clustering</a>, online learning, dimensionality reduction, classification, regression, and SVM. The ability to process large datasets is the main feature of Shogun.
 
@@ -105,7 +105,7 @@ Its main applications are <a href="https://blog.learnbay.co/clustering-data-scie
 
 ## 4. IBM Watson    
 
-IBM Watson is one of the essential **machine learning tools** that help users solve business problems. Data shaping services and tools like Spark also help build and run machine learning models. In addition, open-source tools such as Spark, RStudio, and Python are brought together in an integrated environment.
+IBM Watson is one of the essential <b>machine learning tools</b> that help users solve business problems. Data shaping services and tools like Spark also help build and run machine learning models. In addition, open-source tools such as Spark, RStudio, and Python are brought together in an integrated environment.
 
 ### Features:-   
 
@@ -121,7 +121,7 @@ IBM Watson is one of the essential **machine learning tools** that help users so
 
 ## 5. Google Colab  
 
-Sometimes known as Collaboratory, it is among the most efficient **machine learning tools** in the market. Colab helps users use Keras, OpenCV, TensorFlow libraries, etc., to build ML models. You store everything in Google Drive and access it whenever since it is based on cloud service.
+Sometimes known as Collaboratory, it is among the most efficient <b>machine learning tools</b> in the market. Colab helps users use Keras, OpenCV, TensorFlow libraries, etc., to build ML models. You store everything in Google Drive and access it whenever since it is based on cloud service.
 
 ### Features:-     
 
@@ -145,7 +145,7 @@ It is completely Python-based and uses a library based on Torch. Various technol
 
 - NLP (RNN, LSTM, sentiment analysis)
   
-- Computer vision (object detection and <b>image recognition</b> )
+- Computer vision (object detection and <b>image recognition</b>)
   
 - Reinforcement learning.
 
