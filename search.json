@@ -1274,15 +1274,15 @@
   },
 
   {
-    "slug": "reliable-sources-to-understand-about-data-science",
+    "slug": "reliable-resources-for-data-science",
     "frontmatter": {
-      "title": "Reliable sources to understand about Data Science",
-      "slug": "reliable-sources-to-understand-about-data-science",
-      "description": "Data science is the leading concept currently throughout the world, it has successfully managed to bring different nations under one umbrella...",
+      "title": "Reliable Resources for Data Science",
+      "slug": "reliable-resources-for-data-science",
+      "description": "Data science is one of the most diversified fields with different in-depth concepts. Here in this blog, you will be briefed on the best sources to learn data science in a very simple and concise manner. It is the most reliable source for you to stay up to date with the latest development in data science.",
       "categories": "Data Science",
-      "author": "Learnbay",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/source.jpg",
-      "readTime": "15-19 mins",
+      "author": "Nisha Kumari",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfds-1.jpg",
+      "readTime": "10-12 mins",
       "date": "Feb, 2022",
       "draft": false
     }
@@ -2004,6 +2004,21 @@
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsm-1.png",
       "readTime": "10-12 mins",
       "date": "Feb 27, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug": "top-8-machine-learning-tools-you-should-know-in-2023",
+    "frontmatter": {
+      "title": "Top 8 Machine Learning Tools You Should Know in 2023",
+      "slug": "top-8-machine-learning-tools-you-should-know-in-2023",
+      "description": "Every tech industry incorporates machine learning tools and algorithms into their regular operations. This blog will provide you with information about the top eight machine learning tools and their key features, which are crucial for any ML enthusiast.",
+      "categories": "Machine Learning",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mlt-1.png",
+      "readTime": "10-12 mins",
+      "date": "Mar 01, 2023",
       "draft": false
     }
   }
