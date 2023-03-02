@@ -150,6 +150,18 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/how-to-get-the-best-data-science-internship-in-2023',
+        destination: '/data-science-at-intern-level',
+        permanent: true,
+      },
+
+      {
+        source: '/what-is-ml-fairness-indicator-all-you-need-to-Know',
+        destination: '/what-is-ml-fairness-indicator-all-you-need-to-know',
+        permanent: true,
+      },
+
     ]
   },
 }
