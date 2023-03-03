@@ -2021,5 +2021,20 @@
       "date": "Mar 01, 2023",
       "draft": false
     }
+  }, 
+
+  {
+    "slug": "ai-hardware-what-is-it-and-how-does-it-help",
+    "frontmatter": {
+      "title": "AI Hardware | What Is It and How Does It Help?",
+      "slug": "ai-hardware-what-is-it-and-how-does-it-help",
+      "description": "The development of AI hardware has essentially enhanced the effectiveness and proficiency of various hardware components. This blog will explain in detail what AI hardware is and how it can be advantageous in today's IT industry.",
+      "categories": "Artificial Intelligence",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ahw-1.png",
+      "readTime": "10-12 mins",
+      "date": "Mar 03, 2023",
+      "draft": false
+    }
   }
 ]
