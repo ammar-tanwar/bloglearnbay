@@ -3,6 +3,7 @@ title: AI Hardware | What Is It and How Does It Help?
 desc: "The development of AI hardware has essentially enhanced the effectiveness and proficiency of various hardware components. This blog will explain in detail what AI hardware is and how it can be advantageous in today's IT industry."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ahw-1.png"
+# headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/B.jpg"
 headerAlt: "A banner image titled, 'AI Hardware | What is it and How does it Help?' shows an AI enabled electronic chip board."
 date: "Mar 03, 2023"
 tag: [ what is ai optimized hardware, what is ai hardware ]
@@ -36,14 +37,14 @@ Due to the extensive parallelism in an average GPU, it can perform various tasks
 As one major part of the AI technology stack, <b>AI hardware</b> is a determining factor in communicating and setting up computations. Let’s learn more about this exciting development of artificial intelligence-optimized hardware.
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ahw-2.jpg" style="width:100%" class="img" alt="An illustration shows two integrated chips on a board, one of which is a traditional CPU and the other is an AI-enabled CPU"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ahw-2.jpg" style="width:100%" class="img" alt="An illustration shows two integrated chips on a board, one of which is a traditional CPU and the other is an AI-enabled CPU."/>
 
 
 ## What exactly is AI Hardware?
 
 <a href="https://blog.learnbay.co/a-few-fascinating-facts-about-artificial-intelligence-in-2023-and-beyond" target="_blank">Artificial intelligence</a> systems have been prevalent in the market for a long time. But the traditional CPUs limitations did not allow their applications and usability in many cases.
 
-As an alternative to this, AI-optimized hardware came to be in use. New processors such as Graphics processing units (GPUs) and Google's TPUs give AI or machine learning algorithms the boost to faster and more efficient computing.
+As an alternative to this, AI-optimized hardware came to be in use. New processors such as Graphics Processing Units (GPUs) and Google's TPUs give AI or machine learning algorithms the boost to faster and more efficient computing.
 
 The computational capacity of <b>AI hardware</b> is enough to handle frequent tasks. For example, tricky machine learning algorithms can be handled easily using artificial intelligence hardware instead of a CPU. In addition, AI hardware provides enhanced processing capabilities and can work with huge data sets.
 
@@ -77,7 +78,7 @@ Since its development in 2009, there has been steady growth in distributed deep 
 
 ### The two most used processors in AI hardware are:-  
 
-### 1. GPU
+1.<b> GPU </b>
 
 Graphics Processing Unit is a special chip for rapid processing, specifically designed for computer graphics and image processing. The NVIDIA Jetson device series provides advanced AI power. It can achieve this efficiently by saving power.
 
@@ -91,9 +92,7 @@ Intel joined the market by announcing the XE GPUs ("Xe") with multiple graphics 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ahw-3.png" style="width:100%" class="img" alt="An integrated chip in a circuit board indicates a Tensor Processing Unit (TPU)."/> 
 <br><br>
 
-#### 2. TPU
-
-
+2.<b> TPU</b>
 
 Tensor Processing Unit (TPU) is a customized <b>AI hardware</b>. It can execute every necessary computation and implement <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">machine learning algorithms</a>. It typically operates on predictive models like Artificial Neural Networks (ANN).
 
@@ -140,5 +139,5 @@ Using AI chips for inference helps remove any network lag or instability problem
 
 However, AI chips are only at the initial stage of their development. With more <b>AI hardware</b> and expert systems advancements, we are moving towards powerful chips to handle more complex tasks and reduce potential threats.
 
-If you are curious about such developing technologies and want to learn more, check out the <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">artificial intelligence certification course</a>. Here you will get expert guidance to master the most demanding Artificial intelligence hardware usage skills. 
+If you are curious about such developing technologies and want to learn more, check out the <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">artificial intelligence certification course</a>. Here you will get expert guidance to master the most demanding Artificial Intelligence hardware usage skills. 
 

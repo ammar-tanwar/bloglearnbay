@@ -2036,5 +2036,20 @@
       "date": "Mar 03, 2023",
       "draft": false
     }
+  }, 
+
+  {
+    "slug": "ai-lawyers-is-legal-system-approaching-a-new-era",
+    "frontmatter": {
+      "title": "AI Lawyers| Is Legal System Approaching a New Era?",
+      "slug": "ai-lawyers-is-legal-system-approaching-a-new-era",
+      "description": "AI has a diversified field in many types of tech and no tech sectors; here, AI lawyers are the next big thing in the legal business and soon getting ready for courtroom assistance. Here in this blog, you will be briefed with different implications and uses cases of robot lawyers.",
+      "categories": "Artificial Intelligence",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/alis-1.png",
+      "readTime": "10-12 mins",
+      "date": "Mar 06, 2023",
+      "draft": false
+    }
   }
 ]
