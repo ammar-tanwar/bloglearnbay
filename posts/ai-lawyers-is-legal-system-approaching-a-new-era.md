@@ -1,9 +1,8 @@
 ---
-title: AI Lawyers| Is Legal System Approaching a New Era?
+title: AI Lawyers | Is Legal System Approaching a New Era?
 desc: "AI has a diversified field in many types of tech and no tech sectors; here, AI lawyers are the next big thing in the legal business and soon getting ready for courtroom assistance. Here in this blog, you will be briefed with different implications and uses cases of robot lawyers."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/alis-1.png"
-# headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/B.jpg"
 headerAlt: "A banner image titled, 'AI Lawyers: Is Legal system approaching a New Era' shows a robotic hand holding a  balance (or scale) of justice."
 date: "Mar 06, 2023"
 tag: [ legal artificial intelligence, artificial intelligence in legal profession in india, ai in legal industry, ai in law and legal practice ]
@@ -128,7 +127,7 @@ There was a time when AI-generated lawyers were an afterthought. But **AI lawyer
 
 If you didn't know the case with the AI-powered robot lawyer, here's a brief.
 
-DoNotPay, a NewYork-based startup, developed an AI lawyer to fight cases in courtrooms. But yes, the robot lawyer will not be present in physical courts but will mainly assist the defendant through Bluetooth microphones on the spot.
+DoNotPay, a NewYork-based startup, developed an AI lawyer to fight cases in courtrooms. But yes, the robot lawyer will not be present in physical courts but will mainly assist the defendant through bluetooth microphones on the spot.
 
 
 ### How does it work?    
