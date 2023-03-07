@@ -70,7 +70,7 @@ In times of crisis, learning a valuable skill set and switching to a data scienc
 
 Because data science is not at all only for techies, there lie so many other positions that nontech women can also enter. The only thing they need is an industry-standard <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">data science course</a>. _Women can also utilize their career break (due to reasons like maternity or any other family reason) to learn data science. This can help them in getting a stunning comeback_.
 
-**Reason 2: Ample and faster gworth opportunaties**
+**Reason 2: Ample and faster growth opportunities**
 
 The second reason for selecting (DS) is that it has a lot of career opportunities with prolonged growth in the future. Additionally, pursuing a career as a data scientist provides the highest salary growth as compared to other professions. The increase in competition continuously boosts the <a href="https://www.ambitionbox.com/profile/data-scientist-salary" target="_blank" rel="nofollow">salary growth of data science professionals</a> and senior data scientists.
 
