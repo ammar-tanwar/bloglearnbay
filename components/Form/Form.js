@@ -10,7 +10,7 @@ import addDays from "date-fns/addDays";
 import subDays from "date-fns/subDays";
 import getDay from "date-fns/getDay";
 
-const Form = ({ popup, setTrigger, downloadBrochure }) => {
+const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
   const router = useRouter();
   let today = new Date();
   let time =
@@ -24,20 +24,22 @@ const Form = ({ popup, setTrigger, downloadBrochure }) => {
     email: "",
     phone: "",
     workExperience: "",
+    jobDescription: "",
+    platform: "",
     Brief: "",
     dateTime: "",
     url: router.asPath,
   });
-  
+
   useEffect(() => {
-    setQuery({ ...query, phone: value,dateTime: startDate  });
+    setQuery({ ...query, phone: value, dateTime: startDate });
   }, [value]);
 
-  
-    // setQuery({ ...query, phone: value,dateTime: startDate  });
+
+  // setQuery({ ...query, phone: value,dateTime: startDate  });
 
 
- 
+
 
   // Update inputs value
   const handleParam = () => (e) => {
@@ -128,17 +130,17 @@ const Form = ({ popup, setTrigger, downloadBrochure }) => {
             style={
               popup
                 ? {
-                    height: "50px",
-                    borderRadius: "8px",
-                    border: "1px solid grey",
-                    padding: "10px",
-                  }
+                  height: "50px",
+                  borderRadius: "8px",
+                  border: "1px solid grey",
+                  padding: "10px",
+                }
                 : {
-                    border: "0",
-                    height: "50px",
-                    borderRadius: "3px",
-                    borderBottom: "1px solid grey",
-                  }
+                  border: "0",
+                  height: "50px",
+                  borderRadius: "3px",
+                  borderBottom: "1px solid grey",
+                }
             }
             name="phone"
             rules={{ required: true }}
@@ -150,6 +152,43 @@ const Form = ({ popup, setTrigger, downloadBrochure }) => {
             required
           />
         </div>
+
+        <>
+                {" "}
+                {jobDesc ? (
+                  <>
+                    <div className={styles.formWrapper}>
+                      <input
+                        type="text"
+                        name="jobDescription"
+                        placeholder="Job Title or Domain"
+                        className={
+                          popup ? styles.EmailInputs : styles.EmailInput
+                        }
+                        value={query.jobDescription}
+                        onChange={handleParam()}
+                      />
+                    </div>
+                  </>
+                ) : (
+                  <>
+                    {" "}
+                    <div className={styles.formWrapper}>
+                      <input
+                        type="text"
+                        name="jobDescription"
+                        placeholder="Job Title or Domain"
+                        className={
+                          popup ? styles.EmailInputs : styles.EmailInput
+                        }
+                        value={query.jobDescription}
+                        onChange={handleParam()}
+                        required
+                      />
+                    </div>
+                  </>
+                )}
+              </>
         <div className={popup ? styles.formWrappers : styles.formWrapper}>
           <select
             name="workExperience"
@@ -164,7 +203,9 @@ const Form = ({ popup, setTrigger, downloadBrochure }) => {
             <option value="12+ year">12+ years</option>
           </select>
         </div>
-        {popup ? (
+
+        {/* date time field */}
+        {/* {popup ? (
           <div className={popup ? styles.formWrappers : styles.formWrapper}>
             <input
               type="hidden"
@@ -175,9 +216,9 @@ const Form = ({ popup, setTrigger, downloadBrochure }) => {
           </div>
         ) : (
           ""
-        )}
+        )} */}
 
-<div className={popup ? styles.formWrappers : styles.formWrapper}>
+        {/* <div className={popup ? styles.formWrappers : styles.formWrapper}>
             <div className={styles.inner}>
               <DatePicker
                 selected={startDate}
@@ -203,7 +244,37 @@ const Form = ({ popup, setTrigger, downloadBrochure }) => {
                 maxTime={setHours(setMinutes(new Date(), 0), 22)}
               />
             </div>
-          </div>
+          </div> */}
+
+         
+          {radio ? (
+            <div className={popup ? styles.formWrappers : styles.formWrapper}>
+              <input
+                id="Data Science Program"
+                value="Data Science Courses"
+                name="platform"
+                required
+                type="radio"
+                onChange={handleParam()}
+              />
+              Data Science Courses&nbsp;
+              <br />
+              <input
+                id="Full Stack Program"
+                value="Full Stack Software Dev Courses"
+                name="platform"
+                required
+                type="radio"
+                onChange={handleParam()}
+              />
+              Full Stack Software Dev <br />
+              &nbsp;&nbsp;&nbsp;&nbsp;(DSA & System Design) Courses
+            </div>
+          ) : (
+            ""
+          )}
+          
+
         <p className={styles.FormText} style={{ fontSize: "10px" }}>
           By submitting the form, you agree to our Terms and Conditions and our
           Privacy Policy.
@@ -217,4 +288,3 @@ const Form = ({ popup, setTrigger, downloadBrochure }) => {
 };
 
 export default Form;
- 

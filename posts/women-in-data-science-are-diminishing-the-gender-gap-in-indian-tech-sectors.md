@@ -44,7 +44,7 @@ As mentioned, the global voice of Standford's Women in Data Science (WiDS) confe
 
 This is evident in our post-pandemic world, where millions of women lost their jobs or received pay cuts. Add to that the additional responsibilities they felt in their homes.
 
-In fact, such pressurized add-on responsibilities led to a performance lack in most women. And the final result was layoffs or pay cuts. This happens irrespective of the field- tech or nontech.
+In fact, such pressurized add-on responsibilities led to a performance lack in most women. And the final result was layoffs or pay cuts. This happens irrespective of the field-tech or nontech.
 
 But still, in such a critical phase, so many women redefined their careers. And the medium has been (DS) and artificial intelligence.
 
@@ -58,7 +58,7 @@ Related reading: <a href="https://blog.learnbay.co/women-in-ai-top-10-indian-wom
 
 Data science offers lucrative job potential. Undoubtedly, the pay comes as a factor attracting the most candidates. Still, (DS) is an industry that is thought to be difficult. But this is not true.
 
-### There are two reasons why women should consider data science as a career:-  
+## There are two reasons why women should consider data science as a career:-  
 
 **Reason 1: Best available opportunities for highly paid career transition**
 
@@ -118,7 +118,7 @@ Women in the data science field have basically narrowed down the technical gap, 
 
 Especially during and post the lockdown period, so many female professionals have upskilled themselves, and now they are happy enjoying a lucrative career in data science.
 
-## What are the methods to enhance Data science for Lucaratvie's career?  
+## What are the methods to enhance Data science for Lucrative career?
 
 The key factor in this field is practice and persistence to find meaningful information. A data science and AI course followed by a perfect internship program is the utmost prominent need; it will provide you with the necessary tools and knowledge as a data scientist.
 
@@ -126,6 +126,6 @@ No matter your educational background, even if you don't have computer science k
 
 But yes, most candidates make the biggest mistakes in pursuing a generic course. To have a successful career transition, you need to choose a domain (as per your work experience) specialized course only.
 
-Your best option is a <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">data science and AI program</a> that provides experienced mentors, domain electives, and flexible study. You can learn and practice through data science professionals and MAANG experts who can provide valuable knowledge on an industry-based capstone project.
+Your best option is a <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">Data Science and AI program</a> that provides experienced mentors, domain electives, and flexible study. You can learn and practice through data science professionals and MAANG experts who can provide valuable knowledge on an industry-based capstone project.
 
 What are you waiting for? Enrol in a program and start learning.
