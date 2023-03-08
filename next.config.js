@@ -162,6 +162,12 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/why-data-science-actually-matters-in-2023',
+        destination: '/data-science-is-important-why-we-need-it',
+        permanent: true,
+      },
+
     ]
   },
 }

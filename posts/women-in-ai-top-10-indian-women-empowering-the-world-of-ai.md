@@ -39,7 +39,7 @@ Women leading data and AI in India today are empowering the top giant firms like
 
 ## **From where it started? The Idea of Women Leaders In AI**  
 
-Accenture has always worked on gender equality and aims to achieve <a href="https://newsroom.accenture.com/news/accenture-sets-goal-to-achieve-gender-balanced-workforce-by-2025.htm" target="_blank">a gender balance workforce by 2025.</a> The Accenture Vaahini has given many opportunities to upskill and re-skill at Accenture's **AI.**
+Accenture has always worked on gender equality and aims to achieve <a href="https://newsroom.accenture.com/news/accenture-sets-goal-to-achieve-gender-balanced-workforce-by-2025.htm" target="_blank" rel="nofollow">a gender balance workforce by 2025.</a> The Accenture Vaahini has given many opportunities to upskill and re-skill at Accenture's **AI.**
 
 The panelists said that the edtech online platforms offer virtual courses and certification, changing the world and women to be a leader in <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">data science and AI</a>.
 

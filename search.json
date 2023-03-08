@@ -2066,5 +2066,20 @@
       "date": "Mar 07, 2023",
       "draft": false
     }
+  }, 
+
+  {
+    "slug": "why-data-science-actually-matters-in-2023",
+    "frontmatter": {
+      "title": "Why Data Science Actually Matters in 2023?",
+      "slug": "why-data-science-actually-matters-in-2023",
+      "description": "Data science is a diversified field, but many individuals still wonder why data science is important. This blog will provide an overview of numerous aspects and applications of data science, which shows its future implications.",
+      "categories": "Data Science",
+      "author": "Krishna Kumar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdsa-1.jpg",
+      "readTime": "10-12 mins",
+      "date": "Dec, 2021",
+      "draft": false
+    }
   }
 ]

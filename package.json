@@ -22,6 +22,7 @@
     "feed": "^4.2.2",
     "googleapis": "^107.0.0",
     "gray-matter": "^4.0.3",
+    "js-cookie": "^3.0.1",
     "marked": "^4.0.17",
     "next": "12.2.2",
     "next-share": "^0.18.1",
