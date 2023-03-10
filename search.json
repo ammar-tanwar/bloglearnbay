@@ -2081,5 +2081,20 @@
       "date": "Dec, 2021",
       "draft": false
     }
+  }, 
+
+  {
+    "slug": "top-8-ai-predictions-whats-next-for-ai-in-2023",
+    "frontmatter": {
+      "title": "Top 8 AI Predictions | What's Next for AI in 2023?",
+      "slug": "top-8-ai-predictions-whats-next-for-ai-in-2023",
+      "description": "We have already seen several AI innovations that have fascinated the tech industry. In this blog, you will be briefed on several AI predictions and their future implications on upcoming technology trends.",
+      "categories": "Artificial Intelligence",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp",
+      "readTime": "10-12 mins",
+      "date": "Mar 10, 2023",
+      "draft": false
+    }
   }
 ]

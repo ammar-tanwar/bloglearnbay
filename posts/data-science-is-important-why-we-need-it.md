@@ -33,7 +33,7 @@ tableData:
     Data science applications in 2023,
     1. Fraud detection:-,
     2. Image recognition:-,
-    3.Business:-,
+    3. Business:-,
     4. Healthcare:-,
     5. Recommendation systems:-,
     Data science is the future.,
