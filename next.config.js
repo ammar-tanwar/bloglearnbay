@@ -157,16 +157,16 @@ module.exports = {
       },
 
       {
-        source: '/what-is-ml-fairness-indicator-all-you-need-to-Know',
-        destination: '/what-is-ml-fairness-indicator-all-you-need-to-know',
-        permanent: true,
-      },
-
-      {
         source: '/why-data-science-actually-matters-in-2023',
         destination: '/data-science-is-important-why-we-need-it',
         permanent: true,
       },
+
+      //  {
+      //   source: '/what-is-ml-fairness-indicator-all-you-need-to-Know',
+      //   destination: '/what-is-ml-fairness-indicator-all-you-need-to-know',
+      //   permanent: true,
+      // }
 
     ]
   },
