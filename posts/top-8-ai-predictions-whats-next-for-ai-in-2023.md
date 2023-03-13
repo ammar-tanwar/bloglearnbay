@@ -7,10 +7,10 @@ headerAlt: "A banner image titled, 'Top 8 AI Predictions: What's Next for AI in 
 date: "Mar 10, 2023"
 tag: [ future predictions for artificial intelligence, next big thing in ai, future of ai in 2023 ]
 category: "Artificial Intelligence"
-author: "Manas Kochar" 
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
-authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
-authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
+author: "Abhishek Gupta"
+authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/abhishek-gupta.webp"
+authordesc: "Abhishek Gupta is the co-founder and CBO of Learnbay. He holds 7+ years of experience in business development, with a strong background as an instructor in management training and technology. Additionally holding expertise in data science, machine learning, data structure, and system designing. "
+authorlinkedin: "https://www.linkedin.com/in/abhishek-gupta-716552115/"
 position: "Editor"
 readTime: "10-12 mins"
 h1: "Top 8 AI Predictions | What's Next for AI in 2023?"
@@ -18,7 +18,7 @@ id: "top-8-ai-predictions-whats-next-for-ai-in-2023"
 tableData:
   [
 
-   1. We will see some ethical concerns regarding the increase in artificial intelligence implementation., 2. We can also see increased regulation., 3. The release of Open AI GPT-4., What to expect from GPT-4?, 4. We may face a shortage of training data., 5. More AI investments are to be seen.,  6. AI/ML engineers will see a rise in demand,  7. We will finally get driverless cars., 8. The Google search engine may present a major change., Summing Up:-
+   1. We will see some ethical concerns regarding the increase in artificial intelligence implementation., 2. We can also see increased regulation., 3. The release of Open AI GPT-4., What to expect from GPT-4?, 4. We may face a shortage of training data., 5. More AI investments are to be seen.,  6. AI/ML engineers will see a rise in demand.,  7. We will finally get driverless cars., 8. The Google search engine may present a major change., Summing Up:-
   ]
 ---
 
@@ -80,7 +80,7 @@ Look forward to seeing more investments in artificial intelligence by these sect
 
 <a href="https://blog.learnbay.co/what-is-generative-ai-all-you-need-to-know" target="_blank">Generative AI</a> (e.g., GPT-4) is set to become a reality sometime in 2023. With software capable of producing meaningful results, they might be used in customer service, new business models, and healthcare discoveries. However, we may expect to see its applications in only experimental use cases by enterprises until the concerns are resolved.
 
-## 6. AI/ML engineers will see a rise in demand   
+## 6. AI/ML engineers will see a rise in demand.
 
 This is among the best **AI predictions** to come out this year. Many enterprises look to scale artificial intelligence across their business models. This helps them reduce the time and effort required. Therefore, AI/ML engineers' roles will become essential to these enterprises in meeting their requirements.
 
@@ -89,7 +89,7 @@ The industry needs more professionals who can handle the scaling of AI projects 
 It presents many opportunities to grab and hold onto as the competition steadily grows.
 
 ## 7. We will finally get driverless cars.  
-After much hype around **autonomous vehicles** , we can finally drive in one. It is not fake news, as the <a href="https://getcruise.com/" target="_blank" rel="nofollow">Cruise app</a> allows its passengers to get from one point to another just by downloading their app and requesting a driverless car.
+After much hype around **autonomous vehicles**, we can finally drive in one. It is not fake news, as the <a href="https://getcruise.com/" target="_blank" rel="nofollow">Cruise app</a> allows its passengers to get from one point to another just by downloading their app and requesting a driverless car.
 
 This is a US-based company, so it only operates in San Francisco. This year, it is also looking to expand to other areas, such as Austin, Phoenix, Miami, and Las Vegas. If this goes according to plan, we will see development in autonomous vehicles in India.
 
@@ -108,6 +108,6 @@ Its rival 'Bing' is also planning to incorporate multimodal LLM through OpenAI, 
 
 **Artificial intelligence in 2023** seems full of opportunities. There is concern about how artificial intelligence-led systems develop after the regulatory laws are imposed. The mentioned **AI predictions** can benefit you for a long time. All you have to do to benefit from the increased demand for artificial intelligence is stay updated with the developments.
 
-As I've mentioned, **investing in AI** will improve opportunities for AI/ML engineers this year. Among the mentioned **artificial intelligence predictions** , this should excite you the most. As future **artificial intelligence engineers** , you only need to get proper knowledge of these technologies.
+As I've mentioned, **investing in AI** will improve opportunities for AI/ML engineers this year. Among the mentioned **artificial intelligence predictions**, this should excite you the most. As future **artificial intelligence engineers**, you only need to get proper knowledge of these technologies.
 
 With the right education, you can become an artificial intelligence engineer quickly. Various online courses provide expert knowledge in different sectors. You may join the <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">Data Science and AI Program</a> and benefit from expert guidance immediately. Learnbay's domain-specific artificial intelligence study will make you a specialist in your field.
