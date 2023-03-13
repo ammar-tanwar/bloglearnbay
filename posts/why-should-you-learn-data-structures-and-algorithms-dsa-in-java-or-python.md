@@ -1,6 +1,6 @@
 ---
 title: Why Should You Learn Data Structures and Algorithms (DSA) in Java or Python?
-desc: "Data Structure and Algorithm (DSA) in Java or Python offer a variety of significant features. In this blog, you will be briefed on how Java and Python prove to be the most convenient programming languages for data structure and algorithms with the support of proper industry-level training."
+desc: "Data Structures and Algorithms (DSA) in Java or Python offer a variety of significant features. In this blog, you will be briefed on how Java and Python prove to be the most convenient programming languages for data structure and algorithms with the support of proper industry-level training."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wsyl-1.jpg"
 headerAlt: "A banner image titled 'Why Should You Study Data Structures and Algorithms in Java or Python?' shows a laptop with a magnifying lens recommending several programming languages."
@@ -77,7 +77,7 @@ Take a look at them below.
 
 ### • Java is the most in-demand/used language   
 
-Java offers faster execution speed which means compilation time is less in Java as compared to **data structures and algorithms in Python**. You define the variable's data type during the initialization process in Java. Hence, we need to physically integrate and run the code in (JVM) Java Virtual Machine.
+Java offers faster execution speed which means compilation time is less in Java as compared to **data structures and algorithms in Python**. You define the variable's data type during the initialization process in Java. Hence, we need to physically integrate and run the code in JVM (Java Virtual Machine).
 
 In Python, you only need to write and initialize the variable name. The .py file automatically compiles and interprets the code at runtime. The only difference between JVM and PVM (Python Virtual Machine) is that JVM needs manual execution while PVM can automatically execute.
 
