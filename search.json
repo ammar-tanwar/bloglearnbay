@@ -2091,9 +2091,24 @@
       "description": "We have already seen several AI innovations that have fascinated the tech industry. In this blog, you will be briefed on several AI predictions and their future implications on upcoming technology trends.",
       "categories": "Artificial Intelligence",
       "author": "Manas Kochar",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tipw-1.jpg",
       "readTime": "10-12 mins",
       "date": "Mar 10, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "why-should-you-learn-data-structures-and-algorithms-dsa-in-java-or-python",
+    "frontmatter": {
+      "title": "Why Should You Learn Data Structures and Algorithms (DSA) in Java or Python?",
+      "slug": "why-should-you-learn-data-structures-and-algorithms-dsa-in-java-or-python",
+      "description": "Data Structure and Algorithm (DSA) in Java or Python offer a variety of significant features. In this blog, you will be briefed on how Java and Python prove to be the most convenient programming languages for data structure and algorithms with the support of proper industry-level training.",
+      "categories": "Python",
+      "author": "Amit Tikkiwal",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wsyl-1.jpg",
+      "readTime": "10-12 mins",
+      "date": "Mar 13, 2023",
       "draft": false
     }
   }
