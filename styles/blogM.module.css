@@ -66,12 +66,20 @@
 .blog h4:hover {
   color: #2d9cd7;
 }
+
+.blog h5:hover{
+  color: #2d9cd7;
+}
+.categoryPosts h4:hover{
+  color: #2d9cd7;
+}
+
 .profileWrap {
   display: flex;
   margin-top: 20px;
   margin-bottom: 40px;
   margin-left: -20px;
-  z-index: 999;
+  z-index: auto;
 }
 .profileWrap span {
   display: flex;
@@ -328,10 +336,10 @@
 
 
 
-.blogButton{
+/* .blogButton{
   display: flex;
   flex-direction: row-reverse;
-}
+} */
 
 .loadMore{
   font-weight: 600;

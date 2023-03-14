@@ -49,9 +49,9 @@ export default function blog({ allPostsData }) {
           <p>Latest Blogs</p>
           {/* <Search /> */}
           <Sidebar />
-          <a href={`/blogs`} className={styles.blogButton}>
+          {/* <a href={`/blogs`} className={styles.blogButton}>
             <button>View All Blogs</button>
-          </a>
+          </a> */}
         </section>
       </section>
       <section className={styles.blogWrap}>
@@ -114,6 +114,8 @@ export default function blog({ allPostsData }) {
         );
         let makeUrl = post.toLowerCase().replace(/\s+/g, "-");
         let url = `/category/${makeUrl}`;
+        // let amakeUrl = author.toLowerCase().replace(/\s+/g, "-");
+        // let aurl = `/author/${makeUrl}`;
         return (
 
 
@@ -146,6 +148,10 @@ export default function blog({ allPostsData }) {
                       let tUrl = `/category/${category
                         .toLowerCase()
                         .replace(/\s+/g, "-")}`;
+
+                        // console.log("@@@@", categoryPosts)
+                       let amakeUrl = author.toLowerCase().replace(/\s+/g, "-");
+                      let aurl = `/author/${amakeUrl}`;
                       return (
                         <Link href={url} key={id}>
                           <div className={styles.categoryPost} key={id}>
@@ -172,6 +178,8 @@ export default function blog({ allPostsData }) {
                                 <h4>{title}</h4>
                               </a>
                               <p>{desc}</p>
+
+                              <Link href={aurl}>
                               <div className={styles.profileWrap}>
                                 <Image
                                   src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/avatar-02.webp"
@@ -190,6 +198,7 @@ export default function blog({ allPostsData }) {
                                   </p>
                                 </span>
                               </div>
+                              </Link>
                             </div>
                           </div>
                         </Link>
@@ -216,6 +225,9 @@ export default function blog({ allPostsData }) {
                       let tUrl = `/category/${category
                         .toLowerCase()
                         .replace(/\s+/g, "-")}`;
+
+                        let amakeUrl = author.toLowerCase().replace(/\s+/g, "-");
+                        let aurl = `/author/${amakeUrl}`;
                       return (
                         <Link href={url} key={id}>
                           <div className={styles.categoryPost} key={id}>
@@ -242,6 +254,8 @@ export default function blog({ allPostsData }) {
                                 <h4>{title}</h4>
                               </a>
                               <p>{desc}</p>
+
+                              <Link href={aurl}>
                               <div className={styles.profileWrap}>
                                 <Image
                                   src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/avatar-02.webp"
@@ -260,6 +274,7 @@ export default function blog({ allPostsData }) {
                                   </p>
                                 </span>
                               </div>
+                              </Link>
                             </div>
                           </div>
                         </Link>
