@@ -2114,10 +2114,10 @@
   },
 
   {
-    "slug": "fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-meth",
+    "slug": "fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-method",
     "frontmatter": {
-      "title": "Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Meth",
-      "slug": "fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-meth",
+      "title": "Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Method",
+      "slug": "fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-method",
       "description": "Bagging and boosting in machine learning are the two most popular techniques. This blog will brief you on the various advantages and disadvantages of bagging and boosting. And how it can be used to improve the performance of any machine learning model.",
       "categories": "Machine Learning",
       "author": "Manas Kochar",
