@@ -162,6 +162,13 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-meth',
+        destination: '/fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-method',
+        permanent: true,
+      },
+
+
       // {
       //   source: '/what-is-ml-fairness-indicator-all-you-need-to-Know',
       //   destination: '/what-is-ml-fairness-indicator-all-you-need-to-know',

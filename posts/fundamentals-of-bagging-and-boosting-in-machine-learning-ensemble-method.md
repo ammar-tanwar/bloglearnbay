@@ -1,5 +1,5 @@
 ---
-title: Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Meth
+title: Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Method
 desc: "Bagging and boosting in machine learning are the two most popular techniques. This blog will brief you on the various advantages and disadvantages of bagging and boosting. And how it can be used to improve the performance of any machine learning model."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fbab-1.png"
@@ -13,8 +13,8 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "10-12 mins"
-h1: "Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Meth"
-id: "fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-meth"
+h1: "Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Method"
+id: "fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-method"
 tableData:
   [
     What is the ensemble method (learning)?, What is bagging in machine learning?, What is bootstrapping?, What is boosting in machine learning?, Variance and Bias, How does the bagging method work?, How does the boosting method work?, Difference between bagging and boosting, Similarities between bagging and boosting in machine learning, Which method is best out of boosting and bagging?, Bagging:- Advantages, Bagging:- Disadvantages, Boosting:- Advantages, Boosting:- Disadvantages
@@ -43,7 +43,7 @@ This post will discuss all of these topics and more. But first, you need to unde
 
 ## What is bagging in machine learning?   
 
-Bagging (or **Bootstrap Aggregation** ) is a simple ensemble approach, but it is extremely effective. This model learns from one another simultaneously and then combines the result to calculate the model average.
+Bagging (or **Bootstrap Aggregation**) is a simple ensemble approach, but it is extremely effective. This model learns from one another simultaneously and then combines the result to calculate the model average.
 
 Bagging is a weak learner model. In the bagging method, we apply the _bootstrap sample_ to a machine-learning algorithm that shows _high variance_. These are mainly decision trees in the case of the bagging algorithm.
 
@@ -57,7 +57,7 @@ A random sampling of subsets is done with the same probability as the original d
 
 ## What is boosting in machine learning?   
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fbab-3.png" style="width:100%" class="img" alt="=An illustration shows a group of four people communicating in a sequental manner, which represents boosting."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fbab-3.png" style="width:100%" class="img" alt="An illustration shows a group of four people communicating in a sequental manner, which represents boosting."/>
 
 Boosting is a procedure occurring in sequential form. In this, each succeeding model will solve the preceding model's mistakes. The succeeding models rely on the preceding model.
 
@@ -196,10 +196,13 @@ Which approach to take depends on the circumstances present, the dataset, and th
 - It can work well with higher-dimension data.
 
 - It helps maintain accuracy for missing values.
-
+  
 ### Bagging:- Disadvantages   
 
-- The classification and regression models will not have accurate values because we calculate the final prediction from the mean predictions of subgroup trees.
+- <p>The classification and regression models will not have accurate values because we calculate the final        
+  prediction from the mean predictions of subgroup trees.</p>
+
+
 
 ### Boosting:- Advantages   
 
@@ -219,6 +222,6 @@ Depending on your dataset, their simulation, and the circumstances provided, you
 
 There are many such fundamental techniques in data science and machine learning where you need to consider the appropriate method to use and get the desired outcome from a model. A thorough training in ML will help you understand the concepts with practical examples to make you industry ready.
 
-You can check out the  <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank ">advanced AI and ML course</a> for more details on how these concepts apply to industry use cases. Enroll yourself and get the advantage of learning and practicing through experts.
+You can check out the  <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank ">Advanced AI and ML course</a> for more details on how these concepts apply to industry use cases. Enroll yourself and get the advantage of learning and practicing through experts.
 
 Follow us on <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>, <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, and <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a> for the latest tech updates and a fruitful career transition.
