@@ -1,6 +1,6 @@
 ---
 title: Top Data Visualization Tools Every Data Scientist Must Know in 2023
-desc: "Data visualization tools are the most covenant way of creating data insights through charts, graphs, or heat maps. In this blog, you'll learn about the best data visualization tools that can help any data science professional advance in their career."
+desc: "Data visualization tools are the most convenient way of creating data insights through charts, graphs, or heat maps. In this blog, you'll learn about the best data visualization tools that can help any data science professional advance in their career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tdvt-1.png"
 headerAlt: "A banner image titled, 'Top Data Visualization Tools, Every Data Scientist Should Know in 2023', shows an automated and accelerated development process."
@@ -51,7 +51,7 @@ Here I'll cover the seven **most used data Visualization tools** which you need 
 
 Tableau can quickly process input data and deliver the output. Data scientists utilize **tableau data visualization** to analyze data. They are able to create straightforward conclusions using tableau.
 
-It quickly handles security risks as soon as they are discovered. As one of the best **data visualization platforms** , it can connect to numerous sources to input data and generate several visualization formats, including charts, maps, and more.
+It quickly handles security risks as soon as they are discovered. As one of the best **data visualization platforms**, it can connect to numerous sources to input data and generate several visualization formats, including charts, maps, and more.
 
 It's simple to use and quite strong. They also provide _Tableau Public_ to explore the various possibilities of free **data visualization tools**.
 
