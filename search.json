@@ -2131,14 +2131,29 @@
   {
     "slug": "top-5-fascinating-ai-blockchain-projects-to-master-in-the-year-2023",
     "frontmatter": {
-      "title": "Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Method",
-      "slug": "Top 5 Fascinating AI Blockchain Projects to Master in the Year 2023!",
+      "title": "Top 5 Fascinating AI Blockchain Projects to Master in the Year 2023!",
+      "slug": "top-5-fascinating-ai-blockchain-projects-to-master-in-the-year-2023",
       "description": "Learn and comprehend the fascinating field of AI blockchain technology and its promising implications for the future. This blog will teach you about the benefits of AI in blockchain projects and their benefits. Additionally, stay up to date with the most recent advancements in artificial intelligence blockchain technology.",
       "categories": "Artificial Intelligence",
       "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fabp-1.png",
       "readTime": "10-12 mins",
       "date": "Mar 17, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "top-data-visualization-tools-every-data-scientist-must-know-in-2023",
+    "frontmatter": {
+      "title": "Top Data Visualization Tools Every Data Scientist Must Know in 2023",
+      "slug": "top-data-visualization-tools-every-data-scientist-must-know-in-2023",
+      "description": "Data visualization tools are the most covenant way of creating data insights through charts, graphs, or heat maps. In this blog, you'll learn about the best data visualization tools that can help any data science professional advance in their career.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tdvt-1.png",
+      "readTime": "10-12 mins",
+      "date": "Mar 20, 2023",
       "draft": false
     }
   }
