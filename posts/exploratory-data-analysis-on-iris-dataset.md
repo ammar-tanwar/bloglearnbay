@@ -18,7 +18,7 @@ id: "exploratory-data-analysis-on-iris-dataset"
 tableData:
   [
  
-     What is EDA?, What is Iris Dataset?, EDA on Iris Dataset:-, Importing relevant libraries:-, Loading iris data:-, Output:-, Analyzing the data:-, Statistical analysis:-, Dropping column:-, Detecting duplicate data:-, Output:-, Output:-, Data visualization:-, Species count:-, Data insight:-, Univariate analysis:-, Bi-variate analysis:-, Data insight:-, Examining the correlation:-, Examining each species' mean and median values:-, Box plots to learn about distribution-, Violin plot for distribution analysis-, Plotting the histogram and probability density function (PDF), Plotting different classes of the target variable, Pair Plot:-, Cumulative distribution function:-, Conclusion:-
+     What is EDA?, What is Iris Dataset?, EDA on Iris Dataset:-, Importing relevant libraries:-, Loading iris data:-, Output:-, Analyzing the data:-, Statistical analysis:-, Data insight:-, Dropping column:-, Detecting duplicate data:-, Output:-, Output:-, Data visualization:-, Species count:-, Data insight:-, Univariate analysis:-, Data insight:-, Data insight:-, Bi-variate analysis:-, Data insight:-, Examining the correlation:-, Data insight:-, Examining each species' mean and median values:-, Box plots to learn about distribution-, Data insight:-, Violin plot for distribution analysis-, Data insight:-, Plotting the histogram and probability density function (PDF), Data insight:-, Plotting different classes of the target variable, Data insight:-, Pair Plot:-, Cumulative distribution function:-, Conclusion:-
   ]
 ---
 
@@ -89,6 +89,8 @@ First, load the **Iris dataset** CSV file obtained above using the Pandas librar
 We will get the shape of the **Iris dataset** using the shape parameter.
 
 - iris\_data.shape
+  
+  <p></p>
  
 #### Output:-     
 
@@ -111,6 +113,9 @@ We will get the shape of the **Iris dataset** using the shape parameter.
 ### Statistical analysis:-    
 
 - iris\_data.describe()
+  
+  <p></p>
+
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eda-4.png"   class="img" alt="A table displays the statistical analysis of the iris data set. Rows in the table include Id, SepalLengthCm, SepaWidthCm, PetalLengthCm, PetalWidthCm, and columns include count, mean, std, min, 25%, 50%, 75%, and max."/>
 
@@ -129,6 +134,8 @@ iris\_data = iris\_data.drop('Id',axis = 1)
 
 - iris\_data[iris\_data.duplicated()]
 
+  <p></p>
+
 #### Output:-     
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eda-5.png"   class="img" alt="The table shows three duplicate values from the Iris dataset."/>
@@ -136,6 +143,8 @@ iris\_data = iris\_data.drop('Id',axis = 1)
 The output displays 3 duplicate values. Because of these duplicates, we will determine if the **Iris Dataset** for each species is balanced in no or no's.
 
 - iris\_data['Species'].value\_counts() # to check the balance
+
+  <p></p>
 
 #### Output:-    
 
@@ -159,9 +168,9 @@ As a result, we should not delete the data. Because doing so may cause an unbala
    
 2. Each species (Iris virginica, setosa, and versicolor) has a count of 50.
 
-### Univariate analysis:-    
+## Univariate analysis:-    
 
-**Comparison of different species depending on sepal width and length.**
+#### Comparison of different species depending on sepal width and length.**
 
 - plt.figure(figsize=(8,6))
   
@@ -197,7 +206,7 @@ As a result, we should not delete the data. Because doing so may cause an unbala
    
 3. Virginica species have the maximum petal length and breadth.
 
-### Bi-variate analysis:-
+## Bi-variate analysis:-
 
 - plt.figure(figsize=(10,9))
   
@@ -234,10 +243,14 @@ As a result, we should not delete the data. Because doing so may cause an unbala
 #### Data insight:
 
 1. Sepal Length and Width traits are marginally correlated with each other.
+   
+   <p></p>
 
 ### Examining each species' mean and median values:-   
 
 - iris\_data.groupby('Species').agg(['mean', 'median'])
+
+  <p></p>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eda-12.png"   class="img" alt="A table with rows labeled SepalLengthC, SepalWidthCm, PetalLengthCm, PetalWidthCm, and columns labeled Iris setosa, Iris versicolor, and Iris virginica explain various mean and median values."/>
 
@@ -286,7 +299,7 @@ The violin plot depicts the species' density of width and length. The narrower p
   
 - plt.show()
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eda-14.png"   class="img" alt="AAn image shows four different violin plots graphs based on the metrics PetalWidthCm, PetalLengthCm, SepalLengthCm, and SepalWidthCm.  The graph is plotted on the basis of species such as Iris-setosa, Iris-verisicor, and Iris-Virginica."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eda-14.png"   class="img" alt="An image shows four different violin plots graphs based on the metrics PetalWidthCm, PetalLengthCm, SepalLengthCm, and SepalWidthCm.  The graph is plotted on the basis of species such as Iris-setosa, Iris-verisicor, and Iris-Virginica."/>
 
 #### Data insight:
 
@@ -298,7 +311,7 @@ The violin plot depicts the species' density of width and length. The narrower p
    
 4. High-density values represent mean/median values. According to the table, Iris Setosa has the maximum density at 5.0 cm (sepal length characteristic), which is also the average value (5.0).
 
-### Plotting the histogram and probability density function (PDF)    
+## Plotting the histogram and probability density function (PDF)    
 
 Plot the probability density function (PDF) using the variable as an individual feature on the X-axis. On the Y-axis, we plot its histogram and the associated kernel density.
 
@@ -389,7 +402,7 @@ A pair plot allows us to see both the distribution of single variables and the r
 
 So, here instead of trying to visualize four dimensions which is not possible. We will look into 6 2D plots and try to understand the 4-dimensional data in the form of a matrix.
 
-# 1st plot   
+### 1st plot   
 
 sns.set\_style("whitegrid");
 
@@ -397,7 +410,7 @@ sns.FacetGrid(iris\_data, hue="Species", size=4).map(plt.scatter, "SepalLengthCm
 
 plt.show()
 
-# 2nd plot   
+### 2nd plot   
 
 sns.set\_style("whitegrid");
 
@@ -405,7 +418,7 @@ sns.FacetGrid(iris\_data, hue="Species", size=4).map(plt.scatter, "PetalLengthCm
 
 plt.show()
 
-# 3rd plot
+### 3rd plot
 
 sns.set\_style("whitegrid");
 
@@ -413,7 +426,7 @@ sns.FacetGrid(iris\_data, hue="Species", size=4).map(plt.scatter, "SepalLengthCm
 
 plt.show()
 
-# 4th plot
+### 4th plot
 
 sns.set\_style("whitegrid");
 
@@ -421,7 +434,7 @@ sns.FacetGrid(iris\_data, hue="Species", size=4).map(plt.scatter, "PetalLengthCm
 
 plt.show()
 
-# 5th plot
+### 5th plot
 
 sns.set\_style("whitegrid");
 
@@ -429,13 +442,11 @@ sns.FacetGrid(iris\_data, hue="Species", size=4).map(plt.scatter, "PetalLengthCm
 
 plt.show()
 
-# 6th plot
+### 6th plot
 
 sns.set\_style("whitegrid"); <br>
 
-sns.FacetGrid(iris\_data, hue="Species", size=4).map(plt.scatter, "PetalWidthCm", <br>
-
-"SepalWidthCm").add\_legend(); <br>
+sns.FacetGrid(iris\_data, hue="Species", size=4).map(plt.scatter, "PetalWidthCm", "SepalWidthCm").add\_legend(); <br>
 
 plt.show();
 
