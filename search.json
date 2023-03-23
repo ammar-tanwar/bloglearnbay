@@ -573,11 +573,11 @@
     "frontmatter": {
       "title": "Exploratory Data Analysis on Iris dataset",
       "slug": "exploratory-data-analysis-on-iris-dataset",
-      "description": "Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, spot anomalies, to test hypotheses and to check assumptions with the help of summary statistics and graphical representations...",
+      "description": "Learn about the Iris dataset and how it measures the 150 dataframes of iris petal and sepal length for each species of setosa, versicolor, and virginica.",
       "categories": "Data Science",
-      "author": "Learnbay",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/exp.png",
-      "readTime": "5-6 mins",
+      "author": "Vineeth Kumar",
+      "image":"https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eda-1.jpg",
+      "readTime": "15-20 mins",
       "date": "Jan 3, 2021",
       "draft": false
     }
