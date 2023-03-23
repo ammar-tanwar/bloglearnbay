@@ -12,7 +12,7 @@ authordesc: "An experienced techie with in-depth knowledge of data science and P
 authorlinkedin: "https://www.linkedin.com/in/vineeth-kumar-104a6b98/"
 category: "Data Science"
 position: "Editor"
-readTime: "5-6 mins"
+readTime: "15-20 mins"
 h1: "Exploratory Data Analysis on Iris dataset"
 id: "exploratory-data-analysis-on-iris-dataset"
 tableData:
