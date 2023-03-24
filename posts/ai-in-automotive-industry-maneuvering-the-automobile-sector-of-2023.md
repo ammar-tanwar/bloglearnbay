@@ -17,16 +17,16 @@ h1: "AI in Automotive Industry - Maneuvering the Automobile Sector of 2023"
 id: "ai-in-automotive-industry-maneuvering-the-automobile-sector-of-2023"
 tableData:
   [
-    Know the Benefits of AI in Automotive Industry!, Role of Artificial Intelligence in Automotive Industry, • Manufacturing, • Performance, • Service, AI in the Data analytics of the automotive industry, How AI in automobile industry drives sustainability initiatives?, Uses of Artificial Intelligence in the Automotive Life Cycle:-, Digital Twins in Automotive Industry, What is Digital Twin?, What's next?
+    Role of Artificial Intelligence in Automotive Industry, • Manufacturing, • Performance, • Service, AI in the Data analytics of the automotive industry, How AI in automobile industry drives sustainability initiatives?, Uses of Artificial Intelligence in the Automotive Life Cycle:-, Digital Twins in Automotive Industry, What is Digital Twin?, What's next?
   ]
 ---
 
 
-## Know the Benefits of AI in Automotive Industry!
+<span style=" font-weight:bold; font-size:28px">Know the Benefits of AI in Automotive Industry! </span>
 
 We've all heard of the term "self-driving cars" and its prevalence among current technological trends. It is an innovation that has been in development for a long time. Now we have finally witnessed the sci-fi invention to the fullest. All this is made possible through the applications of **AI in the automotive industry**.
 
-As per <a href="https://www.statista.com/statistics/428692/projected-size-of-global-autonomous-vehicle-market-by-vehicle-type/" target="_blank" rel="nofollow">BusinessWire</a>, a growth of $60 billion is expected by the end of 2030 in the autonomous car market. Not only that but the manufacturing of robocars is also expected a hike by 8,00,000 units across the world by 2030 (<a href="https://www.statista.com/statistics/1068697/projected-robo-car-production/" target="_blank" rel="nofollow">Statista</a>). So, it's obvious that the demand for automobile professionals with Artificial intelligence skills will kiss the sky.
+As per <a href="https://www.businesswire.com/news/home/20220215005655/en/Self-Driving-Cars-Market-Global-Forecast-to-2030-Increasing-Demand-for-Level-1-and-Level-2-Cars-and-Rising-Investment-in-Development-of-Level-4-and-Level-5-Cars-Will-Propel-Market---ResearchAndMarkets.com" target="_blank" rel="nofollow">BusinessWire</a>, a growth of $60 billion is expected by the end of 2030 in the autonomous car market. Not only that but the manufacturing of robocars is also expected a hike by 8,00,000 units across the world by 2030 (<a href="https://www.statista.com/statistics/1068697/projected-robo-car-production/" target="_blank" rel="nofollow">Statista</a>). So, it's obvious that the demand for automobile professionals with Artificial intelligence skills will kiss the sky.
 
 The industry of automobiles has deeply soaked AI and data science into its overall ecosystem. Technology has seen impressive innovations. Electric vehicles, self-driving cars, and even health monitoring systems for vehicles and drivers have been developed.
 
@@ -72,7 +72,7 @@ Experts optimize fuel and carbon emission efficiency as per the government guide
 
 Predicting and managing traffic demand is possible through AI, where centralizing can be done to improve traffic management. This also results in lower energy consumption by enhancing the travel efficiency of a vehicle. The fuel optimization even helps automakers to claim government credits for sustainability efforts.
 
-Every automobile manufacturer has their targets set when it concerns performance. It is essential to create a reliable product that can enhance an organization's reputation in the industry. Through **AI in automotive industry** , manufacturers reduce the fuel-consuming capacity in each segment of a vehicle while adhering to the sales target.
+Every automobile manufacturer has their targets set when it concerns performance. It is essential to create a reliable product that can enhance an organization's reputation in the industry. Through **AI in automotive industry**, manufacturers reduce the fuel-consuming capacity in each segment of a vehicle while adhering to the sales target.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mat-4.jpg" style="width:100%" class="img" alt="An illustration shows an AI-bot suggesting the various steps in the automotive life cycle."/>
 
