@@ -144,7 +144,7 @@ It offers interactive programming with your teammates in the form of a web appli
   
 - It accepts over 40 programming languages.
   
-- You can easily connect Jupyter with other **data analytics tools**, such as Apache Spark.
+- You can easily connect Jupyter with other <b>data analytics tools</b>, such as Apache Spark.
 
 
 ## 8. D3.js  
@@ -163,9 +163,9 @@ An impressive feature in D3.js is its usage of dynamic updating, through which a
 
 1. <b>Data science tools</b> help in performing efficient data science practices. They help collect, manipulate, and evaluate business data, which will help derive essential insights.
    
-2. Data can be monitored in real-time through these **data science tools**. This is a time-saving effort that helps businesses run efficiently. It provides flexibility in monitoring the data and making quick decisions.
+2. Data can be monitored in real-time through these <b>data science tools</b>. This is a time-saving effort that helps businesses run efficiently. It provides flexibility in monitoring the data and making quick decisions.
    
-3. By combining data from different sources and applying different algorithms and approaches to the data, business operations can be optimized for faster results using **data science tools**.
+3. By combining data from different sources and applying different algorithms and approaches to the data, business operations can be optimized for faster results using <b>data science tools</b>.
 
 Data is an essential part of every business's success, and data science is the medium. Without proper knowledge of **data science tools**, however, one cannot utilize data science effectively. Therefore it is essential for any data scientist to hold adequate knowledge of the **trending data science tools** being used majorly in industries. This aids in your understanding of the field as well as helps you land a data science job.
 
