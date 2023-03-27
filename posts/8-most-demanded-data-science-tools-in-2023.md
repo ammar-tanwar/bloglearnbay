@@ -44,7 +44,7 @@ Spark processes data using the cluster management system. The system allows it t
 
 ### Features:-    
 
-- This is one of the most used **tools for data science** and a well-known library and framework in data science.
+- This is one of the most used **tools for data science** and a well-known library/framework in data science.
   
 - Different APIs can be programmed in Python, Scala, Java, and R. Scala is its most popular usage as it's cross-platform and based on JVM (Java Virtual Machine).
   
