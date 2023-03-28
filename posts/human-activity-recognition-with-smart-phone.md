@@ -28,7 +28,7 @@ tableData:
     Advantages of (HAR) Human Activity Recognition with smartphone,
     Workings process of human activity recognition using machine learning,
     Explanation of Human Activity Recognition,
-    Human Activity Recognition with Smartphones(Data Set),
+    Human Activity Recognition with Smartphones (Data Set),
     Downloading the Human Activity Recognition Dataset:-,
     train_data.describe(),
     Shuffling Data,
@@ -36,6 +36,7 @@ tableData:
     Encoding test labels,
     Encoding train labels,
     Applying supervised neural network using multi-layer perceptron,
+    Final Remarks
   ]
 ---
 
@@ -215,7 +216,7 @@ Hold the label for each class and encode explicit features using a one-hot or or
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/har-3.png" style="width:100%" class="img" alt="Two scattered plots show the use multi-layer perceptron with supervised neural network."/>
 
-**Final Remarks**
+## Final Remarks
 
 This examination concludes that smartphones are suitable for **human activity recognition using machine learning** activities. In the future, collecting and processing the data should be improved, providing a viable method for analyzing a human being's health.
 
