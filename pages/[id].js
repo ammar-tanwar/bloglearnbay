@@ -22,11 +22,12 @@ export default function Post({ postData, posts }) {
       <section className={styles.MainS}>
         <Head>
           <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
-          <title>{postData.title}</title>
+          <title>{postData.stitle}</title>
           <meta
             name="description"
             content={postData.desc}
           />
+       
           <meta
             name="keywords"
             content={postData.tag}
@@ -107,9 +108,11 @@ export default function Post({ postData, posts }) {
             <h1>{postData.mainH1}</h1>
             <span>
               By <strong className={styles.aname}><a href={aurl} target="_blank" rel="noreferrer">{postData.author}</a></strong> <BsDot className="bIcon" />
-              Published in <strong className={styles.aname}><a href={curl} target="_blank" rel="noreferrer">{postData.category}</a></strong>{" "}
-              <BsDot className="bIcon" />
-              <strong className={styles.time}>{postData.time}</strong>
+              Category <strong className={styles.aname}><a href={curl} target="_blank" rel="noreferrer">{postData.category}</a></strong>{" "}
+              <BsDot className="bIcon" /> Reading time
+              <strong className={styles.time}>{postData.time}</strong>{" "}
+              <BsDot className="bIcon" /> {postData.publish}
+              <strong className={styles.date}>{postData.date}</strong>
             </span>
           </div>
           <div className={styles.bodyInfo}>

@@ -1,5 +1,7 @@
 ---
 title: Top 3 Python Libraries for Machine Learning!
+stitle: "Top 3 Python Libraries for Machine Learning!"
+publish: "Published on" 
 desc: "Python has become an essential tool for machine learning algorithms. In this blog post, you will be briefed with the top 3 python libraries for machine learning, which can help you ease the workload in different types of machine learning-based projects."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tplfm-1.jpg"

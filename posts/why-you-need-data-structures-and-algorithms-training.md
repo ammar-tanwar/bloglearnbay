@@ -1,5 +1,7 @@
 ---
 title: Why You Need Data Structures And Algorithms training
+stitle: "Why You Need Data Structures And Algorithms training"
+publish: "Published on" 
 desc: "The best of actors practice their dialogues in front of the mirror; they do several rehearsals before they start shooting for a film. The best of cricketers spend hours in the net, practicing..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/datastructure.png"

@@ -1,5 +1,7 @@
 ---
 title: Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors
+stitle: "Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors"
+publish: "Published on" 
 desc: "Women have attained a peak in the field of technology. Here in this blog, we are going to discuss how women in data science have diminished the gender gap in tech sectors. Also, what are the difficulties and alternatives to pursuing the best data science course?"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wids-1.jpg"

@@ -1,5 +1,7 @@
 ---
 title: Time Series Forecasting Methods | Trends of 2023
+stitle: "Time Series Forecasting Methods | Trends of 2023"
+publish: "Published on" 
 desc: "Time series forecasting has proven to be an essential tool for predicting and forecasting climate change, business trends, and other aspects. This blog will cover various advantages and use cases of time series forecasting to build strategies and limit the consequences."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsm-1.png"

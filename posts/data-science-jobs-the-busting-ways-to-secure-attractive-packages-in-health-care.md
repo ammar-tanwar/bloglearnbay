@@ -1,5 +1,7 @@
 ---
 title: Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?
+stitle: "Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?"
+publish: "Published on"
 desc: "Data science jobs have been diversified in both technical and non-technical sectors. Here in this blog, you will get to know the data science jobs in the healthcare sector with the various opportunities and trends on how they will help you secure attractive packages in the coming era."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dhjt-1.png"

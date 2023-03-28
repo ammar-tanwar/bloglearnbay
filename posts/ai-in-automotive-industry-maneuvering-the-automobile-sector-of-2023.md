@@ -1,5 +1,7 @@
 ---
 title: AI in Automotive Industry - Maneuvering the Automobile Sector of 2023
+stitle: "AI in Automotive Industry - Maneuvering the Automobile Sector of 2023"
+publish: "Published on"
 desc: "Data science and Artificial Intelligence (AI) are rapidly expanding in the automotive industry. In this blog, we will learn about the numerous benefits and advantages of data science and AI in automotive industry, as well as their future implications."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mat-1.jpg"

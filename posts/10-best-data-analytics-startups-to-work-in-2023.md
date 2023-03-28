@@ -1,5 +1,7 @@
 ---
 title: 10 Best Data Analytics Startups to Work in 2023
+stitle: "10 Best Data Analytics Startups to Work in 2023"
+publish: "Published on"
 desc: "Data analytics startups have gained a huge surge in the field of the technology sector. In this blog, you will be acknowledged by the most prominent startups that will surely help you to boost your career and land your dream position in the data analytics sector."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdas-1.png"

@@ -1,5 +1,7 @@
 ---
 title: Marketing, Sales, and HR Is being a data scientist the only hope?
+stitle: "Marketing, Sales, and HR Is being a data scientist the only hope?"
+publish: "Published on"
 desc: "Data has become the cornerstone of all industries, and data management strategies have significantly benefited businesses in managing leads for marketing campaigns. After becoming an expert in this field, data scientists can have a fulfilling career. Here is this blog. Using data science, you can learn about many HR, sales, and marketing advanced applications, which accelerate the business revenue like a rocket. "
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market.png"

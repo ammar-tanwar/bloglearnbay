@@ -1,227 +1,226 @@
 ---
-title: Human Activity Recognition With Smart Phone
-desc: "In this case study, we design a model by which a smartphone can detect its owner’s activity precisely. Human activity recognition with a smartphone is a very famous ML project..."
+title: Human Activity Recognition With Smartphone
+stitle: "Human Activity Recognition Using Machine Learning"
+publish: "Last Updated on"
+desc: "Human activity recognition (HAR) using machine learning holds a massive hype ad so the projects of human activity recognition using smartphones. Learn how to handle HAR dataset for a project of human activity recognition using smartphones."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human.jpg"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/har-1.jpg"
 headerAlt: "A banner image is titled 'Human activity recognition with smart phone.' The background image shows a gathering of people using smartphone."
-date: "Dec 19, 2021"
-tag: [ Data Science, Machine Learning ]
-category: "Data Science"
-author: "Learnbay"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
-authordesc: ""
-authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
+date: "Mar 28, 2023"
+tag:
+  [
+    human activity recognition applications,
+    activity recognition using smartphone sensors,
+    human activity recognition with smartphone sensors using deep learning,
+  ]
+category: "Machine Learning"
+author: "Manas Kochar"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
+authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
-readTime: "8-10 mins"
-h1: "Human Activity Recognition With Smart Phone"
+readTime: "7 mins"
+h1: "Human Activity Recognition With Smartphone"
 id: "human-activity-recognition-with-smart-phone"
 tableData:
   [
-    Human Activity recognition,
-    Working of Human task project,
-    suffling data,
-    test = shuffle(test),
-    separating data inputs and output lables,
-    encoding labels,
-    encoding test labels,
-    encoding train labels,
-    applying supervised neural network using multi-layer preceptron,
+    What is Human Activity Recognition (HAR)?,
+    Advantages of (HAR) Human Activity Recognition with smartphone,
+    Workings process of human activity recognition using machine learning,
+    Explanation of Human Activity Recognition,
+    Human Activity Recognition with Smartphones(Data Set),
+    Downloading the Human Activity Recognition Dataset:-,
+    train_data.describe(),
+    Shuffling Data,
+    Encoding labels,
+    Encoding test labels,
+    Encoding train labels,
+    Applying supervised neural network using multi-layer perceptron,
   ]
 ---
 
+<span style=" font-weight:bold; font-size:28px">How Do Smartphones Conduct Human Activity Recognition Using Machine Learning? </span>
 
-## Human Activity recognition
+Smartphones are becoming smarter every day. Starting from being a reliable navigator to a document scanner, and even your entertainment system, everything is now possible with a smartphone. In fact, you can do everything without touching your phone, just by giving commands. But all of these advancements have been left behind with the introduction of **human activity recognition using machine learning** in smartphones.
 
-In this case study, we design a model by which a smartphone can detect its owner’s activity precisely. Human activity recognition with a smartphone is a very famous ML project. It is a wellness approach for a human.  Human activity is a very exciting project for AI.
+Although they can't provide you with accuracy like dedicated medical devices still for regular and precautionary health tracking, smartphones have become handy.
 
-Most of the smartphones have two smart sensors accelerometer and gyroscope, which is an IoT sensor. With the help of the <a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank" rel="nofollow">IoT</a> devices captures the activity of a human. The data of human activity collected through the IoT sensor. The two smartphone sensors are accelerometer and gyroscope. Accelerometer collects the data of mobile movement such as move landscape and portrait when playing mobile games and gyroscope measure the rotational movement.
+A model for **human activity recognition using machine learning** functions is an exciting development in the field. This model is useful in _health monitoring, biometrics, etc_. These <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">machine learning algorithms</a> can be helpful in running health research on humans in their daily lives.
 
-An example that a smartphone has an android app that reads the accelerometers and gyroscope which can predict the human activity that he/she walking normally, walking upstairs, walking downstairs, laying down, sitting all these are the human activities.  Some of the accelerometer and gyroscope measures heart rate, calories burned, etc. by reading all the human activities these tells how much work have done in a day by the human this is also the area of the internet of things(IoT).
+Built-in sensors in smart devices can help develop models that identify human activity. Inertial sensors like _accelerometers and gyroscopes_ enable regular reviews of our daily activities.
 
+Since the model can calculate speed and angular velocity, these sensors have various purposes in the daily well-being of an individual.
 
-## Working of Human task project
+## What is Human Activity Recognition (HAR)?
 
-1. Human activity recognition: With the help of sensors we collect the data of body movement which is captured by the smartphone. Movements are often indoor activities such as walking, walking upstairs, walking downstairs, lying down, sitting and standing. The data have recorded for the prediction of the data.
+**Human Action Recognition or Activity Recognition** is an area of study where daily human tasks are detected using sensors. The sensors accurately record the activities it detects and try to figure out the body movements based on the recording.
 
-2. Data set collection of activity: The data was collected from the 30 volunteers aged between 19 to 48 performing the activities mentioned above while wearing a smartphone on waist. The example video is given below to understand Subject performing the activities and the movement data was labeled manually.
+Sensors like _IoT, edge computing, and cloud_ have been modified to a much-advanced level over the years. These sensors are utilized in smartphones and smartwatches to capture human movements.
 
-3. Human Activity Recognition Using Smartphones Data Set: The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers were selected for generating the training data and 30% the test data. The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low-frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
+Nowadays, HAR is not only being utilized in sports activity calculations but also in daily routine tasks. Activities like _sleeping, eating, drinking, brushing teeth_, etc., have been included to provide a precise health check for individuals.
 
-4.Download the Dataset:
+## Advantages of (HAR) Human Activity Recognition with smartphone
 
+- ### Continuous Health Monitoring:
 
+Wearable with dedicated sensors can detect heart rate, BP, BMR, etc. Even ECG can also be monitored with top-end wearable devices, like Apple watches and Pixel watches.
 
-* There are “_train_” and “_test_” folders containing the split portions of the data for modeling (e.g. 70%/30%).
-* There is a “_txt_” file that contains a detailed technical description of the dataset and the contents of the unzipped files.
-* There is a “_txt_” file that contains a technical description of the engineered features.
+- ### Activity Pattern detection:
 
-The contents of the “_train_” and “_test_” folders are similar (e.g. folders and file names), although with differences in the specific data they contain.
+As continuous monitoring is now possible, so the dedicated apps for HAR collect and store data for time-bound analysis. For such analysis, both the regular and irregular patterns of health conditions get easily detected.
 
-Load  set data and process it:
+- ### Unusual Activity Detection:
 
-Important libraries to import for data processing
+Due to the live as well as historic pattern identification, any kind of unusual health condition or activity gets instantly detected. As a result, the concerned person can be taken care of with the required precautions with immediate effect.
 
-#start with some necessary imports
+## Workings process of human activity recognition using machine learning
 
-import numpy as np
+In this case study, we design a model by which a smartphone can precisely detect its owner's activity.
 
-import pandas as pd
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/har-2.jpg" style="width:100%" class="img" alt="A mobile screen displays a fingerprint scanner surrounded by the logos of messages, Wi-Fi, alerts, weather, browsers, etc."/>
 
-from google.colab import files
+Most smartphones have two sensors:
 
-uploaded = files.upload()
+1. _An accelerometer_
+2. _A gyroscope_.
 
-google.colab used to fetch the data from the collaborator files.
+These are IoT sensors for collecting data and detecting changes in the environment.
 
-train_data = pd.read_csv("train.csv")
+An IoT sensor easily performs **human activity recognition using machine learning** algorithms. The accelerometer collects data on mobile movements.
 
-train_data.head()
+For example, the moving landscapes and portraits when playing mobile games.
 
-we select the training data set for the modeling.
+The gyroscope measures the rotational movement.
 
-train_data.Activity.value_counts()
+For example, whether a user walks normally, goes upstairs, downstairs, lies down or sits- these can be tracked with an accelerometer and gyroscope.
 
-train_data.shape
+Some accelerometers and gyroscopes measure heart rate, calories burned, etc., by reading human activities. However, these are done on the basis of step walks and other measures. It displays how much work has been done in a day by humans. This is also the area of the Artificial Internet of Things (<a href="https://blog.learnbay.co/what-is-aiot-know-its-advantages-in-real-world-scenarios" target="_blank">AIoT</a>).
 
-The above function defines how many rows and columns the dataset have.
+## Explanation of Human Activity Recognition
 
-train_data.describe()  
+With the help of sensor data, we collect body movement data captured by the smartphone. Movements often include indoor activities such as walking upstairs, downstairs, lying down, sitting, and standing. The data is recorded for data prediction.
 
-It describes that there are (8 rows and 563 columns) with all the features of the data. For numeric data, the result’s index will include count, mean, std, min, max as well as lower, 50 and upper percentiles. By default the lower percentile is 25 and the upper percentile is 75. The 50 percentile is the same as the median.
+### Human Activity Recognition with Smartphones (Data Set)
 
-uploaded = files.upload()
+- The experiments are carried out with 30 volunteers within an age bracket of 19-48 years. Each person performs six activities wearing a smartphone (e.g., Samsung Galaxy S II) on the waist. It records activities such as Walking, _WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING_.
 
-test_data = pd.read_csv('test.csv')
+- We can capture 3-axial linear velocity and 3-axial angular velocity. We can calculate them at a constant rate of 50Hz using the embedded accelerometer and gyroscope.
 
-test_data.head()
+- Human activity recognition experiments are video-recorded to label the data manually. The obtained dataset is randomly partitioned into two sets. We select 70% of the volunteers for generating the training data and 30% for the test data.
 
-Here we read the csv file to analyze the data set and the operation which is supposed to be programmed. head()
+- <a href="https://blog.learnbay.co/everything-about-data-preprocessing" target="_blank">Data preprocessing</a> is done on the sensor signals (accelerometer and gyroscope) by applying noise filters. Signals are then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window).
 
-shows the first 5 rows with their respective columns so here we have (5 rows and 563 columns).
+- The sensor acceleration signal possesses gravitational and body motion components. Therefore, it is separated using a Butterworth low-pass filter into body motion and gravity.
 
-## suffling data
+- The gravitational force has low-frequency components. Therefore, we use a filter with a 0.3 Hz cutoff frequency. From each window, a vector of features is obtained by calculating variables from the time and frequency domain.
 
-from sklearn.utils import shuffle
+### Downloading the Human Activity Recognition Dataset:-
 
-## test = shuffle(test)
+1. There are "\_train\_" and "\_test\_" folders containing the split portions of the data for modeling (e.g., 70%/30%).
+2. There is a "\_txt\_" file containing a detailed technical description of the dataset and the contents of the unzipped files.
+3. There is a "\_txt\_" file containing a technical description of the engineered features.
 
-train_data = shuffle(train_data)
+The contents of the "\_train\_" and "\_test\_" folders are similar (e.g., file names), although they have differences in the specific data.
+
+<pre style="font-size:16px"> # Load set data and process it. </pre>
+
+<pre style="font-size:16px"> # Important libraries to import for data processing. </pre>
+
+**Start with some necessary imports.**
+
+1. import NumPy as np
+2. import pandas as pd
+3. from google.colab import files
+4. uploaded = files.upload()
+
+(google.colab is used to fetch the data from the collaborator files.)
+
+1. train_data = pd.read_csv("train.csv")
+2. train_data.head()
+
+We select the training data set for the modeling.
+
+1. train_data.Activity.value_counts()
+2. train_data.shape
+
+The above function defines how many rows and columns the dataset has.
+
+#### train_data.describe()
+
+It describes that there are 8 rows and 563 columns with all the data features. For numeric data, the result's index will include count, mean, std, min, and max. As well as lower, '50', and upper percentiles.
+
+By default, the lower percentile is 25, and the upper percentile is 75. The '50' percentile is the same as the median.
+
+1. uploaded = files.upload()
+2. test_data = pd.read_csv('test.csv')
+3. test_data.head()
+
+Here we read the CSV file to analyze the data set. The operation that is supposed to be programmed is also determined. test_data.head() shows the first 5 rows with their respective columns, so here we have 5 rows and 563 columns.
+
+### Shuffling Data
+
+1. from sklearn.utils import shuffle
+2. test = shuffle(test)
+3. train_data = shuffle(train_data)
 
 Shuffling data serves the purpose of reducing variance and making sure that models remain general and overfit less.
 
-The obvious case where you’d shuffle your data is if your data is sorted by their class/target. Here, you will want to shuffle to make sure that your training/test/validation sets are representative of the overall distribution of the data.
+When your data is sorted by class/target, it's evident that you'd shuffle it. Here, you will want to shuffle to ensure that your training/test/validation sets represent the data's overall distribution.
 
-## separating data inputs and output lables
+**Separating data inputs and output labels**
 
-trainData = train_data.drop('Activity' , axis=1).values
+1. trainData = train_data.drop('Activity' , axis=1).values
+2. trainLabel = train_data.Activity.values
+3. testData = test_data.drop('Activity' , axis=1).values
+4. testLabel = test_data.Activity.values
+5. print(testLabel)
 
-trainLabel = train_data.Activity.values
+By using the above code, we separate the input and output. It performs **human activity recognition using machine learning** captured by the IoT device. The human activities of _walking, standing, walking upstairs, walking downstairs, sitting, and lying_ are separated to optimize the result.
 
-testData = test_data.drop('Activity' , axis=1).values
+#### Encoding labels
 
-testLabel = test_data.Activity.values
+1. from sklearn import preprocessing
+2. encoder = preprocessing.LabelEncoder()
 
-print(testLabel)
+#### Encoding test labels
 
-By using the above code we separate the input and output, here it determines the human activities which are captured by the IoT device. The human activities walking, standing, walking upstairs, walking downstairs, sitting and lying down are got separated to optimize the result.
+1. encoder.fit(testLabel)
+2. testLabelE = encoder.transform(testLabel)
 
-## encoding labels
+#### Encoding train labels
 
-from sklearn import preprocessing
+1. encoder.fit(trainLabel)
+2. trainLabelE = encoder.transform(trainLabel)
 
-encoder = preprocessing.LabelEncoder()
+Hold the label for each class and encode explicit features using a one-hot or ordinal encoding scheme. We may use this to transform non-numerical labels (as long as they are hashable and comparable) to numerical labels.
 
-## encoding test labels
+### Applying supervised neural network using multi-layer perceptron
 
-encoder.fit(testLabel)
+1. import sklearn.neural_network as nn
+2. mlpSGD = nn.MLPClassifier(hidden_layer_sizes=(90,) \, max_iter=1000 , alpha=1e-4 \, solver='sgd' , verbose=10 \, tol=1e-19 , random_state=1 \, learning_rate_init=.001)
+3. mlpADAM = nn.MLPClassifier(hidden_layer_sizes=(90,) \, max_iter=1000 , alpha=1e-4 \, solver='adam' , verbose=10 \, tol=1e-19 , random_state=1 \, learning_rate_init=.001)
+4. nnModelSGD = mlpSGD.fit(trainData , trainLabelE)
+5. y_pred = mlpSGD.predict(testData).reshape(-1,1)
+6. #print(y_pred)
+7. from sklearn.metrics import classification_report
+8. print(classification_report(testLabelE, y_pred))
+9. import matplotlib.pyplot as plt
+10. import seaborn as sns
+11. fig = plt.figure(figsize=(32,24))
+12. ax1 = fig.add_subplot(221)
+13. ax1 = sns.stripplot(x='Activity', y=sub_01.iloc[:,0], data=sub_01, jitter=True)
+14. ax2 = fig.add_subplot(222)
+15. ax2 = sns.stripplot(x='Activity', y=sub_01.iloc[:,1], data=sub_01, jitter=True)
+16. plt.show()
 
-testLabelE = encoder.transform(testLabel)
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/har-3.png" style="width:100%" class="img" alt="Two scattered plots show the use multi-layer perceptron with supervised neural network."/>
 
-## encoding train labels
+**Final Remarks**
 
-encoder.fit(trainLabel)
+This examination concludes that smartphones are suitable for **human activity recognition using machine learning** activities. In the future, collecting and processing the data should be improved, providing a viable method for analyzing a human being's health.
 
-trainLabelE = encoder.transform(trainLabel)
+**Human activity recognition with smartphones** has become a great step towards the positive well-being of individuals. It's slowly blending itself into the healthcare systems for preventing obesity, providing elderly care, etc.
 
-Holds the label for each class. encode categorical features using a one-hot or ordinal encoding scheme. It can also be used to transform non-numerical labels (as long as they are hashable and comparable) to numerical labels.
+With the rise in new AI/ML technologies, we may be able to extend the advantages of HAR, Eg. **Human Activity Recognition using deep learning** is one major topic of interest among researchers.
 
-## applying supervised neural network using multi-layer preceptron
-
-import sklearn.neural_network as nn
-
-mlpSGD = nn.MLPClassifier(hidden_layer_sizes=(90,) \
-
-, max_iter=1000 , alpha=1e-4 \
-
-, solver='sgd' , verbose=10 \
-
-, tol=1e-19 , random_state=1 \
-
-, learning_rate_init=.001) 
-
-mlpADAM = nn.MLPClassifier(hidden_layer_sizes=(90,) \
-
-, max_iter=1000 , alpha=1e-4 \
-
-, solver='adam' , verbose=10 \
-
-, tol=1e-19 , random_state=1 \
-
-, learning_rate_init=.001)
-
-nnModelSGD = mlpSGD.fit(trainData , trainLabelE)
-
-y_pred = mlpSGD.predict(testData).reshape(-1,1)
-
-#print(y_pred)
-
-from sklearn.metrics import classification_report
-
-print(classification_report(testLabelE, y_pred))
-
- 
-
-import matplotlib.pyplot as plt
-
-import seaborn as sns
-
-fig = plt.figure(figsize=(32,24))
-
-ax1 = fig.add_subplot(221)
-
-ax1 = sns.stripplot(x='Activity', y=sub_01.iloc[:,0], data=sub_01, jitter=True)
-
-ax2 = fig.add_subplot(222)
-
-ax2 = sns.stripplot(x='Activity', y=sub_01.iloc[:,1], data=sub_01, jitter=True)
-
-plt.show() 
-
- 
-
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human1.png"   class="img" alt="Two scattered plots show the use multi-layer perceptron with supervised neural network."/>
-
-
-fig = plt.figure(figsize=(32,24))
-
-ax1 = fig.add_subplot(221)
-
-ax1 = sns.stripplot(x='Activity', y=sub_01.iloc[:,2], data=sub_01, jitter=True)
-
-ax2 = fig.add_subplot(222)
-
-ax2 = sns.stripplot(x='Activity', y=sub_01.iloc[:,3], data=sub_01, jitter=True)
-
-plt.show()
-
- 
-
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human2.png"   class="img" alt="Two scattered plots show the use multi-layer perceptron with supervised neural network."/>
-
-
-
-Click here to watch the video:
-
-<a href="https://www.learnbay.co/data-science-course-training-in-bangalore" target="_blank">Learnbay</a> provides industry accredited data science courses in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine Learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of present and future.
-
-Learnbay data science course covers Data Science with Python, Artificial Intelligence with Python, Deep Learning using Tensor-Flow. These topics are covered and co-developed with IBM.
+If you want to study more projects like human activity recognition, you can join <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">Artificial Intelligence and Machine Learning Program</a>. Also, keep following us on <a href="https://twitter.com/Learnbay" target="_blank">Twitter</a>, <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://in.linkedin.com/company/learnbay" target="_blank">LinkedIn</a>, and <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">Youtube</a> for the latest updates on data science, AI, and full-stack development.

@@ -1,5 +1,7 @@
 ---
 title: Introduction to Simple Linear Regression in Machine Learning
+stitle: "Introduction to Simple Linear Regression in Machine Learning"
+publish: "Published on"
 desc: "No matter what ML course you have chosen, the first learning goal of data science statistics modules will be the LR (linear regression), better to say, Simple Linear Regression in Machine Learning..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear.jpg"

@@ -1,5 +1,7 @@
 ---
 title: Exploratory Data Analysis on Iris dataset
+stitle: "Exploratory Data Analysis on Iris dataset"
+publish: "Published on"
 desc: "Learn about the Iris dataset and how it measures the 150 dataframes of iris petal and sepal length for each species of setosa, versicolor, and virginica."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eda-1.jpg"

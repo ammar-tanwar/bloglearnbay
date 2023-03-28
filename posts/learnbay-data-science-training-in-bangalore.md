@@ -1,5 +1,7 @@
 ---
 title: Learnbay | Data Science Training in Bangalore
+stitle: "Learnbay | Data Science Training in Bangalore"
+publish: "Published on"
 desc: "Data science is an umbrella term which covers many areas of technology from Programming tools, statistics,Mathematics, Machine Learning, and computer science..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-data-science-1.png"

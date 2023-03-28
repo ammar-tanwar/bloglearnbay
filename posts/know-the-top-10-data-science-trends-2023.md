@@ -1,5 +1,7 @@
 ---
 title: Know The Top 10 Data Science Trends (2023)
+stitle: "Know The Top 10 Data Science Trends (2023)"
+publish: "Published on"
 desc: "From Blockchain to Data Regulation, we have covered the top 10 data science trends for 2023 that will shape the future of data science. Read our blog post to stay ahead of the competition."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"

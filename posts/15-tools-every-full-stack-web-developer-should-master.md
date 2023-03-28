@@ -1,5 +1,7 @@
 ---
 title:  15 Tools Every Full-Stack Web Developer Should Master
+stitle: "15 Tools Every Full-Stack Web Developer Should Master"
+publish: "Published on"
 desc: "Check out this list of 15 essential tools that every full-stack web developer should master. Categorized for front-end and back-end developer tools, these tools will help you build better web applications faster."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-1.png"

@@ -1,5 +1,7 @@
 ---
 title: Top 5 Machine Learning Projects for Beginners in 2023
+stitle: "Top 5 Machine Learning Projects for Beginners in 2023"
+publish: "Published on" 
 desc: " In this blog post, check out the top 5 machine learning projects for beginners in 2023. Here, you can learn about various machine-learning algorithms; these projects will help you get started with machine learning and understand the real-world machine learning problems in a better way."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tmlp-1.jpg"

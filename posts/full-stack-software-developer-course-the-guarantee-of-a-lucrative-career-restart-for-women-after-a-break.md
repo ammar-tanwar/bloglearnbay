@@ -1,5 +1,7 @@
 ---
 title: Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break
+stitle: "Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break"
+publish: "Published on"
 desc: "Looking for a way to jumpstart your career after taking a break? Our full stack software developer course is designed specifically for women who want to make a successful career restart."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f1.jpg"

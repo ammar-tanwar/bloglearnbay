@@ -1,5 +1,7 @@
 ---
 title: Customer Experience Enhancement In Banks
+stitle: "Customer Experience Enhancement In Banks"
+publish: "Published on"
 desc: "Customer Experience Enhancement now have access to accounts and can transact across mobile, social, and other self-serve channels..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cus.jpg"

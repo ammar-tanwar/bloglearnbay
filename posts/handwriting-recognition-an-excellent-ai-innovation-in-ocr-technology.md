@@ -1,5 +1,7 @@
 ---
 title: Handwriting Recognition | An Excellent AI Innovation in OCR Technology
+stitle: "Handwriting Recognition | An Excellent AI Innovation in OCR Technology"
+publish: "Published on"
 desc: "Learn about the OCR technology's handwriting text recognition method and its in-depth working techniques. Additionally, become familiar with the many HTR use cases and implications in various organizational fields."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hrae-1.jpg"

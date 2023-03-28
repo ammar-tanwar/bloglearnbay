@@ -1,5 +1,7 @@
 ---
 title:  Top 25 interview question on Statistics
+stitle: "Top 25 interview question on Statistics"
+publish: "Published on" 
 desc: "Every member and set of members have an equal chance of being included in the sample. Technology, random number generators, or some other sort of change process is needed to get a simple random sample."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-1.jpg"

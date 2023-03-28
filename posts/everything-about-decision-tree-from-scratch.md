@@ -1,5 +1,7 @@
 ---
 title: Everything About Decision Tree From Scratch
+stitle: "Everything About Decision Tree From Scratch"
+publish: "Published on"
 desc: "The decision tree is the classification algorithm in ML(Machine Learning). A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tree.png"

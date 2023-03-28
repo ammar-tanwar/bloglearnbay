@@ -1,5 +1,7 @@
 ---
 title: 8 Most Demanded Data Science Tools in 2023
+stitle: "8 Most Demanded Data Science Tools in 2023"
+publish: "Published on"
 desc: "Data science tools are very reliable and practical in today's tech world. In this blog, we will learn about various data science tools and their features which will undoubtedly assist in career advancement in the data science sector."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mdds-1.jpg"

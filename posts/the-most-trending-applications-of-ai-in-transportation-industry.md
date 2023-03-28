@@ -1,5 +1,7 @@
 ---
 title: The Most Trending Applications of AI in Transportation Industry
+stitle: "The Most Trending Applications of AI in Transportation Industry"
+publish: "Published on" 
 desc: "Understand the significance of AI in the transportation sector to improve service quality with customer satisfaction. This blog highlights the benefits of AI in the transportation industry in easing our life."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg"

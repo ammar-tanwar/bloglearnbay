@@ -1,5 +1,7 @@
 ---
 title:  Best AI eBooks For You To Explore And Refine Domain Knowledge
+stitle: "Best AI eBooks For You To Explore And Refine Domain Knowledge"
+publish: "Published on"
 desc: "Looking for the best AI eBooks? Check out our collection of top AI eBooks for you to explore and refine your domain knowledge. From books on machine learning and artificial intelligence to data science and big data, we've got you covered. So what are you waiting for? Start reading today!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-1.jpg"

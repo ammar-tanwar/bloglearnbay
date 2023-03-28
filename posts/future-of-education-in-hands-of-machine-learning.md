@@ -1,5 +1,7 @@
 ---
 title: Future of Education in hands of Machine Learning
+stitle: "Future of Education in hands of Machine Learning"
+publish: "Published on"
 desc: "The field of machine learning technology is constantly developing and progressing. Additionally, this kind of learning allows computers to learn from data without using programs or human interference. This blog will brief you on comprehending how machine learning is revolutionizing the educational sector."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/machine.jpg"

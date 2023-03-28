@@ -1,5 +1,7 @@
 ---
 title: How Will AI in Digital Marketing Save Marketers in a Cookieless World?
+stitle: "How Will AI in Digital Marketing Save Marketers in a Cookieless World?"
+publish: "Published on"
 desc: "We have seen the evolution of digital marketing at a rapid pace, and with the involvement of AI in Digital Marketing, we can effortlessly enhance the use of digital marketing in various marketing and advertising fields. Here in this blog, you will get a brief on how AI in digital marketing can save marketers in a cookieless world."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hwad-1.png"

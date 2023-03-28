@@ -1,5 +1,7 @@
 ---
 title: Top 7 Women Full Stack-Software Developer | The Inspiration for All Women in Tech
+stitle: "Top 7 Women Full Stack-Software Developer | The Inspiration for All Women in Tech"
+publish: "Published on" 
 desc: "In this article, we will read about seven highly recognized female full-stack developers, their education and career paths, and their advice for aspiring software developers."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-1.jpg"

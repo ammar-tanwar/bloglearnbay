@@ -1,5 +1,7 @@
 ---
 title: Introduction to Python Programming
+stitle: "Introduction to Python Programming"
+publish: "Published on"
 desc: "Python is a general-purpose, interpreted, and dynamic programming language that belongs to high-level programming language divisions. Python is commonly used for application development because it supports object-oriented programming approach..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/soft.jpg"

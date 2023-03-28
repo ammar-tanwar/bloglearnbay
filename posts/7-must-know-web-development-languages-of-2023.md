@@ -1,5 +1,7 @@
 ---
 title: 7 Must-Know Web Development Languages of 2023
+stitle: "7 Must-Know Web Development Languages of 2023"
+publish: "Published on"
 desc: "As technology advances, we have seen tremendous growth in full-stack web development languages.So, here is the list of seven must-know web development languages that will be in demand in 2023. All of this full-stack language proficiency will undoubtedly help you become a master in full-stack development."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mkwd-1.jpg"

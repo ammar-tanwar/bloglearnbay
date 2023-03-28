@@ -1,5 +1,7 @@
 ---
 title: What is Data Science? | Uncovering The Explicit Truth
+stitle: "What is Data Science? | Uncovering The Explicit Truth"
+publish: "Published on" 
 desc: "Data science is the field of study combining programming, domain expertise, skills, and knowledge of mathematics and statistics to derive meaningful insights from data."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science1.png"

@@ -841,14 +841,14 @@
   {
     "slug": "human-activity-recognition-with-smart-phone",
     "frontmatter": {
-      "title": "Human Activity Recognition With Smart Phone",
+      "title": "Human Activity Recognition With Smartphone",
       "slug": "human-activity-recognition-with-smart-phone",
-      "description": "In this case study, we design a model by which a smartphone can detect its owner’s activity precisely. Human activity recognition with a smartphone is a very famous ML project...",
-      "categories": "Data Science",
-      "author": "Learnbay",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/human.jpg",
-      "readTime": "8-10 mins",
-      "date": "Dec 19, 2021",
+      "description": "Human activity recognition (HAR) using machine learning holds a massive hype ad so the projects of human activity recognition using smartphones. Learn how to handle HAR dataset for a project of human activity recognition using smartphones.",
+      "categories": "Machine Learning",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/har-1.jpg",
+      "readTime":  "7 mins",
+      "date": "Mar 28, 2023",
       "draft": false
     }
   },

@@ -1,5 +1,7 @@
 ---
 title: Why Data Science Actually Matters in 2023?
+stitle: "Why Data Science Actually Matters in 2023?"
+publish: "Published on"
 desc: "Data science is a diversified field, but many individuals still wonder why data science is important. This blog will provide an overview of numerous aspects and applications of data science, which shows its future implications."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdsa-1.jpg"

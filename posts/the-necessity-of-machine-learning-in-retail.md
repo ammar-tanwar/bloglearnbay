@@ -1,5 +1,7 @@
 ---
 title: The Necessity of Machine Learning in Retail
+stitle: "The Necessity of Machine Learning in Retail"
+publish: "Published on" 
 desc: "Machine learning in retail is mostly used in studying customer behaviors. It’s a critical factor in retail. In this blog, you will get a brief overview of numerous machine learning use cases that can readily assist in analyzing customer behavior and creating predictions without human intervention."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/retail.jpg"

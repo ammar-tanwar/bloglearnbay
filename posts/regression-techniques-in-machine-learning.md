@@ -1,5 +1,7 @@
 ---
 title: Regression techniques in Machine Learning
+stitle: "Regression techniques in Machine Learning"
+publish: "Published on"
 desc: "In machine learning, Regression is the most important topic that needed to be learned. There are different types of Regression techniques in Machine Learning which we will know in this article."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech.jpg"

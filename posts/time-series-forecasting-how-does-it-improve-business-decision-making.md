@@ -1,5 +1,7 @@
 ---
 title: Time Series Forecasting! How Does It Improve Business Decision-Making?
+stitle: "Time Series Forecasting! How Does It Improve Business Decision-Making?"
+publish: "Published on" 
 desc: "Times series forecasting helps in making better decisions and predicting upcoming trends. There is numerous use of time series forecasting resembling today's marketing and business demands. Here in this blog, you will be briefed on how time series forecasting can help in making and improving the decision-making abilities."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tsf-1.jpg"

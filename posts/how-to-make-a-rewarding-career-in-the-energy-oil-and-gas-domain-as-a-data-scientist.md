@@ -1,5 +1,7 @@
 ---
 title:  How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?
+stitle: "How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?"
+publish: "Published on"
 desc: "Data science jobs in energy, oil, and gas have predicted a huge job surge with continuous advancement. Here's how to make a rewarding career in this domain, with the best projects and training to help you stand out from the crowd."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward2.png"

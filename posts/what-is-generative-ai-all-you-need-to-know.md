@@ -1,5 +1,7 @@
 ---
 title: What Is Generative AI? All You Need To Know! 
+stitle: "What Is Generative AI? All You Need To Know!"
+publish: "Published on" 
 desc: "Generative AI is a type of Artificial Intelligence that is used to generate new data from scratch. This could be anything from new images to new text or even new 3D models."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-1.jpg"

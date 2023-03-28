@@ -1,5 +1,7 @@
 ---
 title: Application of AI in the Fashion Industry | The Next-Level of Technical Creativity
+stitle: "Application of AI in the Fashion Industry | The Next-Level of Technical Creativity"
+publish: "Published on"
 desc: "The application of AI in the fashion industry has enhanced the next level of technical creativity. In this blog, you will be briefed on the various applications of AI in the fashion industry that will technically advance and customize the innovative technique for fashion designers."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aoai-1.jpg"

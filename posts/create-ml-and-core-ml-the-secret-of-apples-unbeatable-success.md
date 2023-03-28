@@ -1,5 +1,7 @@
 ---
 title: Create ML and Core ML- The Secret of Apple's Unbeatable Success
+stitle: "Create ML and Core ML- The Secret of Apple's Unbeatable Success"
+publish: "Published on"
 desc: "Machine learning is a highly versatile platform. This blog will brief us about the two Machine learning algorithms, create ML and core ML, which are used by Apple to develop its own IOS tools and platforms."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cmcm-1.png"
