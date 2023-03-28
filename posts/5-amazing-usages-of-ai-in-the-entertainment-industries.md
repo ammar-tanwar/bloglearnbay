@@ -1,5 +1,7 @@
 ---
 title:  5 Amazing Usages of AI in the Entertainment Industries
+stitle: "5 Amazing Usages of AI in the Entertainment Industries"
+publish: "Published on"
 desc: "Artificial intelligence and the entertainment industry have moved beyond the realm of science fiction and are now a reality. Through analytics, content optimization, and forecasts, AI in entertainment has gradually started influencing the entertainment sector. Get a brief overview of the awe-inspiring advancements in AI in the field of artificial intelligence here."
 # alt:  "Hello"
 slug: home

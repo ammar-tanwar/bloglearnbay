@@ -1,5 +1,7 @@
 ---
 title:  A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond
+stitle: "A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond"
+publish: "Published on"
 desc: "Learn about the fascinating world of artificial intelligence with these AI facts. From chatbots to voice search, find out how AI is impacting our lives and what the future holds for this incredible technology."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-1.jpg"

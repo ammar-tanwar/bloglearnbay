@@ -1,5 +1,7 @@
 ---
 title: Text Stemming In NLP
+stitle: "Text Stemming In NLP"
+publish: "Published on"
 desc: "Tons of data are generated every day as we speak, we text, we tweet, from voice to text on every social application and to get the insights of these text data we need technology as Text Stemming In NLP."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/stem.jpg"

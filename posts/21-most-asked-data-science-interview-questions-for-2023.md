@@ -1,5 +1,7 @@
 ---
 title:  21 Most Asked Data Science Interview Questions for 2023
+stitle: "21 Most Asked Data Science Interview Questions for 2023"
+publish: "Published on"
 desc: "We've compiled a list of the 21 most asked questions for 2023. Whether you're a beginner or an experienced data scientist, this list will help you prepare for your next interview."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-1.jpg"

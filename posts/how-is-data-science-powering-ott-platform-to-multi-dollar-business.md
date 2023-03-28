@@ -1,5 +1,7 @@
 ---
 title: How Is Data Science Powering OTT Platform to Multi-Dollar Business
+stitle: "How Is Data Science Powering OTT Platform to Multi-Dollar Business"
+publish: "Published on"
 desc: "OTT platforms are generally a type of audio and video services that are delivered over the internet. In this article, we'll show you how to use data science to build an OTT platform that can be used to grow your business in a number of ways."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/popt-1.png"

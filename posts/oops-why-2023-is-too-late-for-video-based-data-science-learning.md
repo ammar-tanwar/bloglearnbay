@@ -1,5 +1,7 @@
 ---
 title: Oops! Why 2023 Is Too Late For Video-Based Data Science Learning
+stitle: "Oops! Why 2023 Is Too Late For Video-Based Data Science Learning"
+publish: "Published on"
 desc: "Data science is a rapidly growing field with many opportunities. However, many people are still unaware of the basics of data science learning."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-4.jpg"

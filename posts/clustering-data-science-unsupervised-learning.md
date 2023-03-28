@@ -1,5 +1,7 @@
 ---
 title: Clustering & Types Of Clustering
+stitle: "Clustering & Types Of Clustering"
+publish: "Published on"
 desc: "Clustering & Types Of Clustering is the process of finding similar groups in data, called a cluster. It groups data instances that are similar to each other in one cluster and data instances that are very different(far away) from each other into different clusters..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/medical.jpg"

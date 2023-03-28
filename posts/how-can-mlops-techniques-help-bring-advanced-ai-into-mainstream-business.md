@@ -1,5 +1,7 @@
 ---
 title: How Can MLOps Techniques Help Bring Advanced AI Into Mainstream Business?
+stitle: "How Can MLOps Techniques Help Bring Advanced AI Into Mainstream Business?"
+publish: "Published on"
 desc: "The combination of ML with Devops remains cutting edge while launching a machine learning operation. In this blog, we'll build an MLOps process that combines machine learning (ML) with DevOps to accelerate and automate Intelligent App deployment."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hcmt-1.png"

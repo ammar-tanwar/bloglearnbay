@@ -1,5 +1,7 @@
 ---
 title: Basics of Functions In Python - A Glance
+stitle: "Basics of Functions In Python - A Glance"
+publish: "Published on"
 desc: "Transforming the data in an effective way and then utilizing them in an optimized manner while programming is known as Functions in python. In this article let me take you through different functions used in python along with some of the examples."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic-python-1.jpeg"

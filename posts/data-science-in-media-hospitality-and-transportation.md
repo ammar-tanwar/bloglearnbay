@@ -1,5 +1,7 @@
 ---
 title: Data Science in Media, Hospitality, and Transportation
+stitle: "Data Science in Media, Hospitality, and Transportation"
+publish: "Published on"
 desc: "Data science in the transportation and hospitality industry has been helping a  lot of people to survive and thrive. In this blog, you will learn how data science can be implemented to showcase better customer services, optimize operations and make more efficient businesses in such sectors."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsmh-1.jpg"

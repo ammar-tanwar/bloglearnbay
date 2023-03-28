@@ -1,5 +1,7 @@
 ---
 title: AI Hardware | What Is It and How Does It Help?
+stitle: "AI Hardware | What Is It and How Does It Help?"
+publish: "Published on"
 desc: "The development of AI hardware has essentially enhanced the effectiveness and proficiency of various hardware components. This blog will explain in detail what AI hardware is and how it can be advantageous in today's IT industry."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ahw-1.png"

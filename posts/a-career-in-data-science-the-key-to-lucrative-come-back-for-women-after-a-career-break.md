@@ -1,5 +1,7 @@
 ---
 title: A Career in Data Science - The Key To Lucrative Come-back for Women After a Career Break
+stitle: "A Career in Data Science - The Key To Lucrative Come-back for Women After a Career Break"
+publish: "Published on"
 desc: "Women make up a significant portion of the workforce, but they often take a break from their careers to raise children or other reasons. Data science is a growing field that offers a lucrative career path for women who want to return to work after a career break."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-w1.jpg"

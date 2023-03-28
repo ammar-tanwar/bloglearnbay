@@ -1,5 +1,7 @@
 ---
 title: Support Vector Machine
+stitle: "Support Vector Machine"
+publish: "Published on"
 desc: "Support vector machines (SVMs) are a particularly powerful and flexible class of supervised algorithms for both classification and regression..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vector.png"

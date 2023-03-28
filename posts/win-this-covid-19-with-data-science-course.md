@@ -1,5 +1,7 @@
 ---
 title: Win the COVID-19
+stitle: "Win the COVID-19"
+publish: "Published on" 
 desc: "COVID-19 is an inevitable unfortunate situation, each one of us have got to fight it being at home, I just hope this all ends soon..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/covid.png"

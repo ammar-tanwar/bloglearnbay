@@ -1,5 +1,7 @@
 ---
 title: The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI
+stitle: "The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI"
+publish: "Published on" 
 desc: "Did you know you could create images by simply giving commands to a phone or laptop's microphone? If not, this is the blog post for you. DALL-E 2 are deep learning models developed by OpenAI that can generate digital images from text descriptions."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-1.jpg"

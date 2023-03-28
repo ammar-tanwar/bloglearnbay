@@ -1,5 +1,7 @@
 ---
 title: How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin
+stitle: "How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin"
+publish: "Published on"
 desc: "Here in this blog, learn about Darwin's various use cases and implications for any business perspective. This AI-based Darwin platform allows to ease of various type of AI-related difficulties and help to get more output from various AI device."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/438160-hdap-1.png"

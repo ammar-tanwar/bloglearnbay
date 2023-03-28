@@ -1,5 +1,7 @@
 ---
 title: What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?
+stitle: "What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?"
+publish: "Published on" 
 desc: "A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-1.jpg"

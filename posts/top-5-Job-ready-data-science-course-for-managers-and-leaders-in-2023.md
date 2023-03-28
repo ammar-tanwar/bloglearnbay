@@ -1,5 +1,7 @@
 ---
 title: Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023
+stitle: "Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023"
+publish: "Published on" 
 desc: "Whether you're a manager or leader looking to transition into a data science career, these are the top 5 job-ready data science courses for managers and leaders in 2023."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-1.png"

@@ -1,5 +1,7 @@
 ---
 title: Hybrid Learning- The Success Key To Job-Guaranteed Professional Training
+stitle: "Hybrid Learning- The Success Key To Job-Guaranteed Professional Training"
+publish: "Published on"
 desc: "Hybrid learning is the combination of learning online and on-site. A hybrid class design course is how subjects are taught online, and the other activities, like capstone projects and interview preparation, are taught in a classroom dedicated to such activities."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-1.jpeg"

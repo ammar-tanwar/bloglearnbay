@@ -1,5 +1,7 @@
 ---
 title:  Fact or Hype - An IBM Data Science Professional Certificate Can Boost Your Career At 10x Speed
+stitle: "Fact or Hype - An IBM Data Science Professional Certificate Can Boost Your Career At 10x Speed"
+publish: "Published on"
 desc: "A series of unique data science professional certifications are successfully boosting working professional's careers. This blog will shed light on such unique IBM data science certification."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-1.jpg"

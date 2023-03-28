@@ -1,5 +1,7 @@
 ---
 title: NLP and Deep Learning for Data Scientists
+stitle: "NLP and Deep Learning for Data Scientists"
+publish: "Published on"
 desc: "Deep learning and natural language processing (NLP and Deep Learning) are as busy as they’ve always been..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nlp.jpg"

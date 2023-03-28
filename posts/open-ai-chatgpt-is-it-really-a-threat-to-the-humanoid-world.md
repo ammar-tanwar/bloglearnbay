@@ -1,5 +1,7 @@
 ---
 title:  OpenAI ChatGPT | Is It Really a Threat to the Humanoid World?
+stitle: "OpenAI ChatGPT | Is It Really a Threat to the Humanoid World?"
+publish: "Published on"
 desc: "OpenAI ChatGPT is a powerful tool for chatbot development. However, there are some limitations to ChatGPT that you should be aware of before using it. In this blog, we'll explore the implications of these limitations and whether ChatGPT can compete with Google's chatbot development tools."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oaic-1.png"

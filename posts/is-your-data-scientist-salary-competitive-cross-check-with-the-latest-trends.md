@@ -1,5 +1,7 @@
 ---
 title:  Is Your Data Scientist Salary Competitive? Cross-Check With The Latest Trends
+stitle: "Is Your Data Scientist Salary Competitive? Cross-Check With The Latest Trends"
+publish: "Published on"
 desc: "Wondering if your data scientist salary in India is competitive? Check out the latest salary trends to see where you stand. With the average salary for data scientists in India on the rise, you can be sure that you're getting paid what you're worth."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isd-1.jpg"

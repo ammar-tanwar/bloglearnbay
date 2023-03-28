@@ -1,5 +1,7 @@
 ---
 title: Tuples - An Immutable Derived Datatype
+stitle: "Tuples - An Immutable Derived Datatype"
+publish: "Published on" 
 desc: "In this blog post, we'll learn more about the tuple primitives in Python.  we can describe a tuple in Python as a general grouping of objects encased in a round bracket and separated by commas. In the general coding of Python, we can use tuples in multiple operations."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-1.jpg"

@@ -1,5 +1,7 @@
 ---
 title:  Stock Prediction Gone Extraordinarily Precise - An Outstanding Application of ML
+stitle: "Stock Prediction Gone Extraordinarily Precise - An Outstanding Application of ML"
+publish: "Published on"
 desc: "Every individual always seems to find it tough to predict stocks. Machines, on the other hand, are assisting us in making it more accessible. The algorithms are improving their ability to forecast the market's future. The algorithms will be discussed in depth in this blog."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-1.jpg"
