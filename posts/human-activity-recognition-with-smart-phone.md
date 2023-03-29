@@ -83,7 +83,7 @@ In this case study, we design a model by which a smartphone can precisely detect
 Most smartphones have two sensors:
 
 1. _An accelerometer_
-2. _A gyroscope_.
+2. _A gyroscope_
 
 These are IoT sensors for collecting data and detecting changes in the environment.
 
@@ -103,7 +103,7 @@ With the help of sensor data, we collect body movement data captured by the smar
 
 ### Human Activity Recognition with Smartphones (Data Set)
 
-- The experiments are carried out with 30 volunteers within an age bracket of 19-48 years. Each person performs six activities wearing a smartphone (e.g., Samsung Galaxy S II) on the waist. It records activities such as Walking, _WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING_.
+- The experiments are carried out with 30 volunteers within an age bracket of 19-48 years. Each person performs six activities wearing a smartphone (e.g., Samsung Galaxy S II) on the waist. It records activities such as Walking, _WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LYING_.
 
 - We can capture 3-axial linear velocity and 3-axial angular velocity. We can calculate them at a constant rate of 50Hz using the embedded accelerometer and gyroscope.
 
