@@ -2186,5 +2186,20 @@
       "date": "Mar 27, 2023",
       "draft": false
     }
+  }, 
+
+  {
+    "slug": "how-do-google-algorithms-identify-ai-generated-content",
+    "frontmatter": {
+      "title": "How Do Google Algorithms Identify AI-Generated Content?",
+      "slug": "how-do-google-algorithms-identify-ai-generated-content",
+      "description": "The use of AI-Generated content has grown excessively. In this blog, you will understand how Google detects AI-generated content and what can be the risks of utilizing such content.",
+      "categories": "Artificial Intelligence",
+      "author":  "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdg-1.jpg",
+      "readTime": "4.5 mins",
+      "date": "Mar 29, 2023",
+      "draft": false
+    }
   }
 ]
