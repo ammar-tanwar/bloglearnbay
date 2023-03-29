@@ -19,7 +19,7 @@ h1: "How Do Google Algorithms Identify AI-Generated Content?"
 id: "how-do-google-algorithms-identify-ai-generated-content"
 tableData:
   [
-    What is AI-generated Content?, Stochastic Model:-, Markov's Chain:-, Why is it necessary to detect AI-generated Content?, Google's opinion on AI-generated Content:-, Risk of Using AI-generated content:-, Plagiarism Issue:-, Mis-guide and Irrelevant content:-, Robotic Tone:-, What are the scopes of AI experts in such a ChatGPT/AI-generated content scenario?, How to become a demanding AI expert in such a scenario?
+    What is AI-generated Content?, How does Google act in or detect AI-based Content?, Stochastic Model:-, Markov's Chain:-, Why is it necessary to detect AI-generated Content?, Google's opinion on AI-generated Content:-, Risk of Using AI-generated content:-, Plagiarism Issue:-, Mis-guide and Irrelevant content:-, Robotic Tone:-, What are the scopes of AI experts in such a ChatGPT/AI-generated content scenario?, How to become a demanding AI expert in such a scenario?
   ]
 ---
 
@@ -118,7 +118,7 @@ So these are a few risks that may are included while implementing and generating
 
 ## What are the scopes of AI experts in such a ChatGPT/AI-generated content scenario?
 
-With the debut of ChatGPt, AI-based content has become the most popular thing; however, with the huge surge in use cases, AI-based content has also witnessed a sudden and huge downfall.
+With the debut of ChatGPT, AI-based content has become the most popular thing; however, with the huge surge in use cases, AI-based content has also witnessed a sudden and huge downfall.
 
 This is because of the new guidelines by Google and its updated algorithm, which results in the unranking of the website which uses AI-based content.
 
