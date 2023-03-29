@@ -28,7 +28,7 @@ tableData:
 
 We are witnessing so many amazing advancements in the technological field these days. There are AI chatbots capable of producing meaningful conversations like humans, machines that can automate daily tasks to increase efficiency, and more technologies creating global waves. You must wonder what helps these effective technologies to exist.
 
-All of these innovations are possible because of some highly effective **data science tools****.**
+All of these innovations are possible because of some highly effective **data science tools**.
 
 Even though automating tasks and other artificial intelligence-related innovations need an extensive degree of complex coding, real-time data analysis, and data visualization. The proper execution of such tasks is not that easy. But a bunch of **tools used in data science** has made the process really smooth.
 
