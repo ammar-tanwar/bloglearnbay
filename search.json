@@ -2201,5 +2201,20 @@
       "date": "Mar 29, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "is-google-bard-a-possible-rival-to-chatgpt-4",
+    "frontmatter": {
+      "title": "Is Google Bard a Possible Rival to ChatGPT-4?",
+      "slug": "is-google-bard-a-possible-rival-to-chatgpt-4",
+      "description": "The implication of OpenAI ChatGPT-4 is trending in today's tech world. Learn about ChatGPT-4 and its rival, Google Bard, with its various distinctions and integration with corresponding applications.",
+      "categories": "Artificial Intelligence",
+      "author":  "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gbp-1.jpg",
+      "readTime": "7 mins",
+      "date": "Mar 31, 2023",
+      "draft": false
+    }
   }
 ]
