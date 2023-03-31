@@ -19,12 +19,12 @@ h1: "Is Google Bard a Possible Rival to ChatGPT-4?"
 id: "is-google-bard-a-possible-rival-to-chatgpt-4"
 tableData:
   [
-     What is an AI Chatbot?, What is Google Bard?, What is ChatGPT-4?, OpenAI GPT-4 for Microsoft:-, BARD For Google:-, GPT-4 (Pre-Trained Model) or Google Bard (LaMDA)?, ChatGPT-4 Vs. Google Bard, What are the scopes in ChatGPT-4?, FAQ on ChatGPT-4:-, 1. Who is the inventor (founder) of ChatGPT?, 2. What are the few ChatGPT-4 alternative?, 3. Is ChatGPT-4 free?, 4. What is the full form of ChatGPT?
+     What is an AI Chatbot?, What is Google Bard?, What is ChatGPT-4?, OpenAI GPT-4 for Microsoft:-, BARD For Google:-, GPT-4 (Pre-Trained Model) or Google Bard (LaMDA):-, ChatGPT-4 Vs. Google Bard, What are the scopes in ChatGPT-4?, FAQ on ChatGPT-4:-, 1. Who is the inventor (founder) of ChatGPT?, 2. What are the few ChatGPT-4 alternative?, 3. Is ChatGPT-4 free?, 4. What is the full form of ChatGPT?
   ]
 ---
 
 
-<span style=" font-weight:bold; font-size:28px"> Google Bard vs. ChatGPT-4 : A Comprehensive Evaluation!</span>
+<span style=" font-weight:bold; font-size:28px"> Google Bard vs. ChatGPT-4: A Comprehensive Evaluation!</span>
 
 We all are familiar with the term ChatGPT. It gained huge popularity within a quick span of time. In addition to that, OpenAI's chatGPT has already advanced its GPT-3 model with a successor, **ChatGPT-4**.
 
@@ -50,7 +50,7 @@ But before going further, we must deeply understand ChatGPT-4 and Google Bard.
 
 ## What is Google Bard?    
 
-**Google Bard**, a Generative AI-capable software incorporated by Google, uses a **Language Model for Dialogue Applications (LaMDA**). It is a new chatbot algorithm model which uses the application and features that have been used by chatGPT.
+**Google Bard**, a Generative AI-capable software incorporated by Google, uses a **Language Model for Dialogue Applications (LaMDA)**. It is a new chatbot algorithm model which uses the application and features that have been used by chatGPT.
 
 The Bard has a restricted amount of searches and functionalities because the application is currently in beta testing. Google Bard aims to integrate the depth of human knowledge with its enormous data and massive language models.
 
@@ -78,9 +78,9 @@ Similarly, Google plans to initiate its own AI-based Google Chatbot BARD in its 
 
 Furthermore, in order to take aggressive action against AI-generated content, Google is constantly updating its algorithm.
 
-**Which technology will propel the AI-Chatbot market**
+**Which technology will propel the AI-Chatbot market?**
 
-## GPT-4 (Pre-Trained Model) or Google Bard (LaMDA)?  
+## GPT-4 (Pre-Trained Model) or Google Bard (LaMDA):- 
 
 The future is all about AI; we have seen a futuristic update in AI from OpenAI ChatGPT-4 and Google Bard (LaMDA). But this could be surprisingly very challenging to decide which one will succeed in creating a much difference.
 
@@ -120,8 +120,8 @@ td, th {
     <th>Google Bard</th>
   </tr>
   <tr>
-    <td> It only works through the actual site of <b>ChatGPT-4</b> Here we can only get responses in the form of typical text replies.</td>
-    <td>Google chatbot Bard tends to integreate with Google searches,  maps, and other Google products, making it more accessible for users to perform and function.</td>
+    <td> It only works through the actual site of <b>ChatGPT-4</b>. Here we can only get responses in the form of typical text replies.</td>
+    <td>Google chatbot Bard tends to integrate with Google searches,  maps, and other Google products, making it more accessible for users to perform and function.</td>
   </tr>
   <tr>
     <td>OpenAI <b>ChatGPT-4</b>  tends to perform task-based pre-trained data sets.</td>
