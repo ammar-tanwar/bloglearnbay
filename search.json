@@ -2216,5 +2216,20 @@
       "date": "Mar 31, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "why-is-quantum-computing-useful-for-optimization-problems-in-blockchain",
+    "frontmatter": {
+      "title": "Why Is Quantum Computing Useful for Optimization Problems in Blockchain?",
+      "slug": "why-is-quantum-computing-useful-for-optimization-problems-in-blockchain",
+      "description": "Quantum computing is creating a buzz in today's tech world. Learn about quantum hacking and cryptographic encryption using various quantum computing applications.",
+      "categories": "Artificial Intelligence",
+      "author":  "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wqu-1.jpg",
+      "readTime": "6 mins",
+      "date": "Apr 03, 2023",
+      "draft": false
+    }
   }
 ]
