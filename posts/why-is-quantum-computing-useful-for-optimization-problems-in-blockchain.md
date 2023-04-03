@@ -19,7 +19,7 @@ h1: "Why Is Quantum Computing Useful for Optimization Problems in Blockchain?"
 id: "why-is-quantum-computing-useful-for-optimization-problems-in-blockchain"
 tableData:
   [
-     What does quantum computing mean?, What is a Quantum Computer?,  Cryptocurrency encryption Breaking:- One of the Most Useful  Quantum Computing Applications, What is Quantum Hacking?, Can quantum computing really break cryptocurrency encryption?, Storage Attack:-, Transit Attack:-, How to protect your cryptocurrency from quantum computing?, FAQ:-, How do quantum computers break blockchain authentication?, How can we save blockchain and cryptocurrency technology by quantum computing?, How to become a quantum computing expert?, 1. What is meant by applied quantum computing?, 2. Why might businesses be interested in using quantum computers?, 3. What are the disadvantages of quantum computing?
+     What does quantum computing mean?, What is a Quantum Computer?,  Cryptocurrency encryption Breaking:-, What is Quantum Hacking?, Can quantum computing really break cryptocurrency encryption?, Storage Attack:-, Transit Attack:-, How to protect your cryptocurrency from quantum computing?, How do quantum computers break blockchain authentication?, How can we save blockchain and cryptocurrency technology by quantum computing?, How to become a quantum computing expert?, FAQ:-, 1. What is meant by applied quantum computing?, 2. Why might businesses be interested in using quantum computers?, 3. What are the disadvantages of quantum computing?
   ]
 ---
 <span style=" font-weight:bold; font-size:28px">Is It Possible to Break Cryptographic Encryption Using Quantum Computing?</span>
@@ -42,7 +42,9 @@ A quantum computer tends to integrate quantum bits, to perform multidimensional 
 
 'Classical computers' power improves linearly as more bits are added, but they have much less computational capability than quantum computers.
 
-## Cryptocurrency encryption Breaking:- One of the Most Useful  Quantum Computing Applications
+## Cryptocurrency encryption Breaking:- 
+
+**One of the Most Useful  Quantum Computing Applications**
 
 In order to understand the advantages of quantum computing applications in blockchain (better to say in cryptocurrency), you need concise ideas about quantum hacking.
 
