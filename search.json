@@ -2231,5 +2231,20 @@
       "date": "Apr 03, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "is-data-structure-and-algorithm-important-to-crack-product-based-company-interviews",
+    "frontmatter": {
+      "title": "Is Data Structure and Algorithm Important to Crack Product-based Company Interviews?",
+      "slug": "is-data-structure-and-algorithm-important-to-crack-product-based-company-interviews",
+      "description": "Data structure and Algorithms can be an effective way of achieving SDE Jobs. In this blog, you will be briefed on how DSA can easily help crack, product-based company interviews and what can be its future implications.",
+      "categories": "Full Stack",
+      "author":  "Abhishek Gupta",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsd-1.jpg",
+      "readTime": "6 mins",
+      "date": "Apr 05, 2023",
+      "draft": false
+    }
   }
 ]
