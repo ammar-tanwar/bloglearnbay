@@ -59,7 +59,9 @@ SDEs are responsible for designing, creating, and testing code that meets projec
 **An SDE job requires the following skills:**
 
 - An SDE must possess expertise in programming languages, and methodologies,
+  
 - She/he should be able to collaborate with other members of their development team.
+  
 - Moreover, SDEs must stay abreast of new technologies and software development trends to continuously hone their skill sets and increase work quality.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsd-3.jpg" style="width:100%" class="img" alt="A SDE seated in front of a laptop uses system design in software development environment."/>
@@ -89,13 +91,13 @@ _In short,_ **software development engineers** _of product companies or MAANGs u
 
 Below are a few of the tips that will surely help you.
 
-- First of all, be patient. Cracking a MAANG (previously FAANG) or any top-notch product company's SDE interview is not a joke. You need to be fully dedicated throughout our learning and **SDE interview preparation**.
+- First of all, be patient. Cracking a MAANG (previously FAANG) or any top-notch product company's SDE interview is not a joke. You need to be fully dedicated throughout our learning and <b>SDE interview preparation</b>.
   
-- Don't fall into the trap of highly rated free tutorials for **data structure and algorithm or system design** learning. The industrial direction of DSA and system design are quite tricky. Hence, you always need an expert mentor who can guide you with contemporary trends.
+- Don't fall into the trap of highly rated free tutorials for <b>data structure and algorithm or system design</b> learning. The industrial direction of DSA and system design are quite tricky. Hence, you always need an expert mentor who can guide you with contemporary trends.
   
 - Make your DSA and system design foundation strong.
   
-- While choosing a **data structure algorithm course** or a **system design course** provides importance to practical learning.
+- While choosing a <b>data structure algorithm course</b> or a <b>system design course</b> provides importance to practical learning.
   
 - While doing <a href="https://blog.learnbay.co/top-5-dsa-projects-for-beginners-in-2023" target="_blank">DSA projects</a>, stick to the following goals
   
@@ -129,17 +131,19 @@ If you are still not sure about where you opt for a DSA and System design course
 
 ### 1. Why should you master DSA or system designing before applying for interviews in companies like Amazon, Google, Meta, Microsoft, etc?   
 
-**Ans** : In most cases, you have to face the final round of on-site DSA and system design section for the SDE roles. And the given problem complexity lies between medium to hard levels.
+**Ans**: In most cases, you have to face the final round of on-site DSA and system design section for the SDE roles. And the given problem complexity lies between medium to hard levels.
 
 ### 2. How much is the software development engineer's salary in Amazon, Microsoft, Meta, and Google?   
 
-Ans: **Amazon SDE salary range:** 28 to 118 LPA
+Ans: 
+  
+  **Amazon SDE salary range:** 28 to 118 LPA
 
-**Google SDE salary range:** 15 to 110 LPA
+  **Google SDE salary range:** 15 to 110 LPA
 
-**Microsoft SDE salary range:** 15LPA to 70LPA
+  **Microsoft SDE salary range:** 15 to 70LPA
 
-**Meta SDE salary range:** 28 to 180 LPA
+  **Meta SDE salary range:** 28 to 180 LPA
 
 
 ### 3. Who should opt for DSA and system design course?
