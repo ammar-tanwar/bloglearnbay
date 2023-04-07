@@ -2246,5 +2246,20 @@
       "date": "Apr 05, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "multimodal-Ddeep-learning-enabling-fusion-of-multiple-modalities-and-deep-learning",
+    "frontmatter": {
+      "title": "Multimodal Deep Learning | Enabling Fusion of Multiple Modalities And  Deep Learning",
+      "slug": "multimodal-Ddeep-learning-enabling-fusion-of-multiple-modalities-and-deep-learning",
+      "description": "The tech industry has different applications of machine learning and deep learning technologies. This blog will introduce you to multimodal deep learning and the process of training AI models to determinate connections between several modalities.",
+      "categories": "Machine Learning",
+      "author":  "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-1.jpg",
+      "readTime": "5.5 mins",
+      "date": "Apr 07, 2023",
+      "draft": false
+    }
   }
 ]
