@@ -61,7 +61,7 @@ Data from various channels are related based on their semantics. We can refer to
 
 **Multi-modal** systems obtain data from different sensors and combine this diverse, non-related information to make strong predictions. Various AI-based chatbots integrate this multimodal system to enhance their Chatbot responses.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-2.jpg" style="width:100%" class="img" alt="An illustration of a robot labeled, 'GPT-4' busy in writing with a pen. A series of mail symbols comes from the backside of the robot."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-2.jpg" style="width:100%" class="img" alt="An illustration of a robot labeled, 'GPT-4' busy in writing with a pen. A series of mail symbols comes from the backside of the robot." title="MultiModal System in OpenAI GPT-4"/>
 
 ## Use of MultiModal Sytem in OpenAI GPT-4
 
@@ -89,7 +89,7 @@ For example, feature extraction in image sources that will show higher quality, 
 
 In this step, we merge the information extracted from multiple modalities and form a prediction. All the features combine to configure a single shared illustration. You can perform deep learning among varying modalities. For example, if one modality has more resources, we may transfer knowledge between the two modalities.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-3.jpg" style="width:100%" class="img" alt="A machine learning professional is busy with multimodal deep learning-related tasks. The accompanying illustrations show the symbols of 'document,' 'world wide web,' ' analytics-related bar graph,' 'settings,' and 'chat bubble.'"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-3.jpg" style="width:100%" class="img" alt="A machine learning professional is busy with multimodal deep learning-related tasks. The accompanying illustrations show the symbols of 'document,' 'world wide web,' ' analytics-related bar graph,' 'settings,' and 'chat bubble.'" title="multimodal machine learning professional"/>
 
 ## What are the challenges in multimodal machine learning?
 
@@ -123,7 +123,7 @@ These models are expensive, even for big companies. Training and deploying them 
 
 The **multimodal deep learning** field is progressing rapidly. We can already witness some of its applications in various fields where multimodal systems provide enhanced applications.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-4.jpg" style="width:100%" class="img" alt="An illustration shows a deep learning professional seated in front of a desktop busy with computer vision tasks."/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-4.jpg" style="width:100%" class="img" alt="An illustration shows a deep learning professional seated in front of a desktop busy with computer vision tasks." title="Computer vision"/>
 
 ### 1. Computer vision
 
