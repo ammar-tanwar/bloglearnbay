@@ -30,12 +30,12 @@ tableData:
     2. Handling missing data and outliers,
     How to handle missing value?,
     How to handle Outliers?,
-    1. Try Multiple Algorithms,
-    2. Cross-validation,
+    3. Try Multiple Algorithms,
+    4. Cross-validation,
     Effective tool for training models with smaller datasets:-,
-    3. Hyper-parameter tuning,
-    4. Dimensionality Reduction,
-    5. Train with a different algorithm,
+    5. Hyper-parameter tuning,
+    6. Dimensionality Reduction,
+    7. Train with a different algorithm,
     Apply ensemble technique,
     Bagging (Bootstrap aggregating),
   ]
@@ -45,7 +45,7 @@ tableData:
 
 The efficacy of any data science project completely relies upon the accuracy of the machine learning model. Although it sounds simple, maintaining a higher **accuracy of the ML model** is not that straightforward.
 
-Most Data scientists and AI expertsstruggle a lot to attain the highest accuracy in a <a href="https://blog.learnbay.co/types-of-machine-learning-models-quickly-explained" target="_blank">machine learning model</a>. However, by properly arranging the ML model-building processes, the model can quite easily achieve the highest possible accuracy.
+Most Data scientists and AI experts struggle a lot to attain the highest accuracy in a <a href="https://blog.learnbay.co/types-of-machine-learning-models-quickly-explained" target="_blank">machine learning model</a>. However, by properly arranging the ML model-building processes, the model can quite easily achieve the highest possible accuracy.
 
 Here we will be discussing the steps through which you will certainly get the answer to your query, '**How to increase the accuracy of a machine learning model?**'
 
@@ -57,7 +57,7 @@ An accurate model can understand unseen data to generate better predictions and 
 
 **Web scraping** can be an alternative method to enhance and increase the efficiency of machine learning models.
 
-#### What is web scraping?
+### What is web scraping?
 
 Retrieving data from internet sources like websites is known as web scraping. Artificial intelligence automation can be used to gain thousands or millions of data sets in less duration and can then be restructured.
 
@@ -97,7 +97,7 @@ The method replaces the missing value with the predicted value based on the regr
 
 It is the value that deviates from the other values. These values appear as a result of measurement or execution errors. So, remove the "noise data."
 
-### 1. Try Multiple Algorithms
+### 3. Try Multiple Algorithms
 
 The best approach **how to increase the accuracy of the machine learning model** is opting for the correct machine learning algorithm. Choosing a suitable machine learning algorithm is not as easy as it seems. It needs experience working with algorithms.
 
@@ -107,7 +107,7 @@ _**(Hint:**_ _If your data is linear, linear regression may work. If tuning para
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tom-3.jpg" style="width:100%" class="img" alt="An illustration shows a woman pointing to an indexing chart displaying cross-validation of train and test data." title="Cross validation"/>
 
-### 2. Cross-validation
+### 4. Cross-validation
 
 The critical purpose of cross-validation is to check how the model will perform on unknown data. It is a model evaluation and training technique that splits the data into several parts. The idea is to change the training and test data on every iteration. Cross-validation is the most popular solution to the queries, '**How to increase the accuracy of machine learning models?**'
 
@@ -123,7 +123,7 @@ The critical purpose of cross-validation is to check how the model will perform 
 
 - _Hold-out method_
 
-### 3. Hyper-parameter tuning
+### 5. Hyper-parameter tuning
 
 The performance of an algorithm in machine learning is driven by its parameters. We can change the value of parameters accordingly when needed. To improve machine learning models, parameter tuning is used to find the value for every parameter. Tuning basically indicates changing the parameter value.
 
@@ -131,7 +131,7 @@ When tuning these parameters, a great understanding of the parameters and the pe
 
 **(Note:** We have parameters like min_sample_split, min_sample_leaf, max_depth of a tree, max_leaf nodes. The initial optimization of these values will result in more and better accurate models.)
 
-### 4. Dimensionality Reduction
+### 6. Dimensionality Reduction
 
 First, Let us know what the dimensions are.
 
@@ -155,7 +155,7 @@ The dimensionality reduction technique solves classification and regression issu
 
 - _Backward/forward feature selection and others_
 
-### 5. Train with a different algorithm
+### 7. Train with a different algorithm
 
 For example, let us assume you want to invest in a company or industry. Will you seek one person's advice or take advice from different industry experts? If you want to gain more accuracy, consider taking other people's directions before the next step.
 
@@ -204,6 +204,6 @@ So, it's now clear that you can improve the **accuracy of the machine learning m
 
 So far, we have seen various ways **how to increase the accuracy of machine learning models.** The best approach is to keep practicing to improve your understanding of the data and algorithms. Your model will perform better if you keep learning from your mistakes and improving.
 
-The process of creating an accurate model can be difficult and tedious. To be efficient in ML model creation, you to strengthen the base, which is possible through an excellent <a href="https://learnbay.co/artificial-intelligence-certification-course" target="_blank">Artificial Intelligence and Machine Learning Program</a> that teaches the fundamentals and helps in practical implementation.
+The process of creating an accurate model can be difficult and tedious. To be efficient in ML model creation, you to strengthen the base, which is possible through an excellent <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">Artificial Intelligence and Machine Learning Program</a> that teaches the fundamentals and helps in practical implementation.
 
 You will be ahead of the curve by learning under the guidance of expert mentors. Once you gain the basic knowledge, you can involve your expertise within real-world applications.
