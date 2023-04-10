@@ -2261,5 +2261,20 @@
       "date": "Apr 07, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "how-to-increase-the-accuracy-of-machine-learning-model-over-90",
+    "frontmatter": {
+      "title": "How To Increase The Accuracy Of Machine Learning Model Over 90%?",
+      "slug": "how-to-increase-the-accuracy-of-machine-learning-model-over-90",
+      "description": "The accuracy of machine learning models is the key to achieving the desired and profitable output. Learn how to increase the accuracy of machine-learning models using various methods and strategies.",
+      "categories": "Machine Learning",
+      "author":  "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tom-1.jpg",
+      "readTime": "7 mins",
+      "date": "Apr 10, 2023",
+      "draft": false
+    }
   }
 ]
