@@ -171,11 +171,11 @@ module.exports = {
     
 
 
-      // {
-      //   source: '/what-is-ml-fairness-indicator-all-you-need-to-Know',
-      //   destination: '/what-is-ml-fairness-indicator-all-you-need-to-know',
-      //   permanent: true,
-      // }
+      {
+        source: '/data-scientist-vs-data-analyst-know-the-ultimate-career-difference',
+        destination: '/data-analyst-vs-data-scientist ',
+        permanent: true,
+      }
 
       //  {
       //   source: '/what-is-ml-fairness-indicator-all-you-need-to-Know',
