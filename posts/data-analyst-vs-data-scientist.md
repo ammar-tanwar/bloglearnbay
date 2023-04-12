@@ -1,6 +1,6 @@
 ---
-title: "Data Scientist Vs. Data Analyst : Know The Ultimate Career Difference"
-stitle: "Data Analyst vs. Data Scientist : Which is Better Career Path in India?"
+title: "Data Scientist Vs. Data Analyst: Know The Ultimate Career Difference"
+stitle: "Data Analyst vs. Data Scientist: Which is Better Career Path in India?"
 publish: "Published on"
 desc: "This blog is about data scientist vs. data analytics job responsibilities, salaries, criteria, and which one can provide significant growth in the different industries."
 slug: home
@@ -13,7 +13,7 @@ tag:
     difference between data science and data analyst,
   ]
 category: "Data Science"
-author: "Snalisha Mohanty"
+author: "Sonalisha Mohanty"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
@@ -36,9 +36,9 @@ tableData: [
   ]
 ---
 
-<span style=" font-weight:bold; font-size:28px">Data Analyst vs. Data Scientist : An Extensive Guide for Aspirants With Career Transition Plan! </span>
+<span style=" font-weight:bold; font-size:28px">Data Analyst vs. Data Scientist: An Extensive Guide for Aspirants With Career Transition Plan! </span>
 
-India is struggling with economic uncertainties due to the post-pandemic and recession condition. The economic uncertainties have affected the job market with the threat of unemployment. The challenges like sudden layoffs and seasonal unemployment crises restrict future resilience. Despite economic imbalances in India, 2022 witnessed <a href="https://economictimes.indiatimes.com/jobs/mid-career/indias-workforce-to-see-consistent-hiring-in-2023-despite-economic-uncertainties-survey/articleshow/98453508.cm" target="_blank" rel="nofollow">16% hiring growth</a> in the tech industry.
+India is struggling with economic uncertainties due to the post-pandemic and recession condition. The economic uncertainties have affected the job market with the threat of unemployment. The challenges like sudden layoffs and seasonal unemployment crises restrict future resilience. Despite economic imbalances in India, 2022 witnessed <a href="https://economictimes.indiatimes.com/jobs/mid-career/indias-workforce-to-see-consistent-hiring-in-2023-despite-economic-uncertainties-survey/articleshow/98453508.cms" target="_blank" rel="nofollow">16% hiring growth</a> in the tech industry.
 
 The **data analyst vs. data Scientist** is gradually becoming the center of attraction as it welcomes people not only from tech but also from the non-tech sectors. With basic computing skills, anyone can join this industry and stated job roles with a higher probability of career rise. Thus, **data scientist and data analyst** jobs are in demand lately.
 
@@ -80,7 +80,7 @@ Smart business decisions require the professional use of analytical skills, prog
 
 Data analysis may take the form of descriptive, prescriptive, inferential, textual, or predictive analysis. However, the purpose is to help with optimized decisions for business benefits.
 
-It formally takes up skills like <a href="https://blog.learnbay.co/introduction-to-python-programming" target="_blank">Python</a> **, SQL, and SAS** and makes a professional utilize them progressively for data insights.
+It formally takes up skills like <a href="https://blog.learnbay.co/introduction-to-python-programming" target="_blank">Python</a>**, SQL, and SAS** and makes a professional utilize them progressively for data insights.
 
 The data analyst role and responsibilities are shaping the IT industry in India. So who are they?
 
@@ -90,9 +90,9 @@ The data analyst role and responsibilities are shaping the IT industry in India.
 
 They are professionals who believe in reading through data sources, enhancing operations, minimizing risks, and improving business performance.
 
-The <a href="https://blog.learnbay.co/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career" target="_blank">data analytics</a> market in India projects growth of the <a href="(https://economictimes.indiatimes.com/news/how-to/what-is-data-analytics-and-how-it-may-help-in-your-career/articleshow/94698633.cms?from=mdr" target="_blank" rel="nofollow">$118.7 billion mark by 2026</a>. Several industries like HR, healthcare, and finance look forward to data analysts for enhanced decisions.
+The <a href="https://blog.learnbay.co/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career" target="_blank">data analytics</a> market in India projects growth of the <a href="https://economictimes.indiatimes.com/news/how-to/what-is-data-analytics-and-how-it-may-help-in-your-career/articleshow/94698633.cms?from=mdr" target="_blank" rel="nofollow">$118.7 billion mark by 2026</a>. Several industries like HR, healthcare, and finance look forward to data analysts for enhanced decisions.
 
-**_Data analysts' and Data Scientists' job_** roles may seem identical to professionals', but it has different applications in the software industry
+**_Data analysts' and Data Scientists' job_** roles may seem identical to professionals', but it has different applications in the software industry.
 
 Below are a few points that will allow you to understand the distinctive features of Data analyst and Data scientist roles.
 
@@ -167,7 +167,9 @@ td, th {
 
 Considering career growth, **data analyst vs. data scientist salaries in India** carries upward-trending professional careers. However, the depth of responsibilities affects their salary range in India.
 
-<a href="https://www.glassdoor.co.in/Salaries/data-scientist-salary-SRCH_KO0,14.htm" target="_blank" rel="nofollow">Glassdoor</a> states the average salary range for a <a href="https://blog.learnbay.co/how-to-build-a-rewarding-career-as-a-healthcare-data-scientist" target="_blank">data scientist</a> at ₹12,00,000 per annum. The minimum basic pay ranges around ₹5,00,000-₹6,00,000 per annum, and the maximum goes towards ₹25,00,000 per annum.
+
+<a href="https://www.glassdoor.co.in/Salaries/data-scientist-salary-SRCH_KO0,14.htm" target="_blank" rel="nofollow">Glassdoor</a> states the average data <a href="https://blog.learnbay.co/is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends" target="_blank">scientist's salary</a> ranges around ₹12,00,000 per annum. The minimum basic pay ranges around ₹5,00,000-₹6,00,000 per annum, and the maximum goes towards ₹25,00,000 per annum.
+
 
 Similarly, a review by <a href="https://www.glassdoor.co.in/Salaries/data-science-analyst-salary-SRCH_KO0,20.htm" target="_blank" rel="nofollow">Glassdoor</a> also suggests that a **data analyst's** average salary range is ₹10,00,000 per annum. The minimum basic pay ranges around ₹5,00,000 per annum, and the maximum goes towards ₹14,00,000 per annum.
 
@@ -187,7 +189,7 @@ So, in brief, any graduate can opt for a data scientist or data analyst role fol
 
 **Data scientist vs. data analyst** is the hottest discussion now in the career discussion. In fact, both offer ample scopes to the techies and mainly non-techies toward successful career transformation. A professional who wants to pursue a career in analytics chooses a data analyst job role, and a professional who wants to go with machine learning, deep learning, and AI in the future can choose a <a href="https://blog.learnbay.co/different-job-roles-after-a-data-science-course" target="_blank">data scientist job role</a>.
 
-I must say, the **Data Science vs. Data Analytics course** /roles complement each other. So based on their interest and passion for statistics and coding, candidates can choose either one.
+I must say, the **Data Science vs. Data Analytics course**/roles complement each other. So based on their interest and passion for statistics and coding, candidates can choose either one.
 
 ### Where to get the right guidance?  
 
