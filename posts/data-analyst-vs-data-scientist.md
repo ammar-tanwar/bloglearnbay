@@ -20,7 +20,7 @@ authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "4.5 min"
 h1: "Data Scientist Vs. Data Analyst : Know The Ultimate Career Difference"
-id: data-scientist-vs-data-analyst-know-the-ultimate-career-difference
+id: data-analyst-vs-data-scientist 
 tableData: [
     What is Data Science? And How does it shape up Data Scientist's job role?,
     Who are Data Scientists?,
@@ -149,7 +149,7 @@ td, th {
     <td>Visualizing the data sets for optimal model creation</td>
     <td>Datasets are studied to point out complex patterns.</td>
   </tr>
-  
+
   <tr>
   <td></td>
   <td>Business communication with stakeholders designs models to deploy.</td>
