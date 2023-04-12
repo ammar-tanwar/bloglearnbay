@@ -2276,5 +2276,20 @@
       "date": "Apr 07, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "data-scientist-vs-data-analyst-know-the-ultimate-career-difference",
+    "frontmatter": {
+      "title": "Data Scientist Vs. Data Analyst : Know The Ultimate Career Difference",
+      "slug": "data-scientist-vs-data-analyst-know-the-ultimate-career-difference",
+      "description": "This blog is about data scientist vs. data analytics job responsibilities, salaries, criteria, and which one can provide significant growth in the different industries.",
+      "categories": "Data Science",
+      "author":  "Snalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-1.jpg",
+      "readTime": "4.5 min",
+      "date": "Apr 14, 2023",
+      "draft": false
+    }
   }
 ]
