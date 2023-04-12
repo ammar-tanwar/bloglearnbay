@@ -144,6 +144,8 @@ td, th {
   </tr>
 </table>
 
+
+
 So these were the few differences between the OpenAI <b>ChatGPT-4</b> and Google Bard. However, we can anticipate more implications, advantages, and differences in both technologies as a result of future enhancements.
 
 ## What are the scopes in ChatGPT-4?    
