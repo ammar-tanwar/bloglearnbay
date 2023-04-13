@@ -19,7 +19,7 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "4.5 min"
-h1: "Data Scientist Vs. Data Analyst : Know The Ultimate Career Difference"
+h1: "Data Scientist Vs. Data Analyst: Know The Ultimate Career Difference"
 id: data-analyst-vs-data-scientist 
 tableData: [
     What is Data Science? And How does it shape up Data Scientist's job role?,
@@ -122,12 +122,12 @@ td, th {
     <th>Data Analyst</th>
   </tr>
   <tr>
-    <td>Skills</td>
+    <td><b>Skills</b></td>
     <td> Python, Java, SAS, Data Visualization, Hadoop, Machine learning, Deep learning, AI models, Programming, Data Wrangling, Algorithms, Mathematics, Statistical analysis</td>
     <td>MS SQL Server, Python, Mongo DB, MySQL, Excel, BI tools, Econometrics, Probability & Statistics.</td>
   </tr>
   <tr>
-    <td rowspan="6">Responsibilities</td>
+    <td rowspan="6"><b>Responsibilities</b></td>
     <td>Collect and process the data considering business needs.</td>
     <td>Collects data from different sources and filters it.</td>
 
@@ -168,7 +168,7 @@ td, th {
 Considering career growth, **data analyst vs. data scientist salaries in India** carries upward-trending professional careers. However, the depth of responsibilities affects their salary range in India.
 
 
-<a href="https://www.glassdoor.co.in/Salaries/data-scientist-salary-SRCH_KO0,14.htm" target="_blank" rel="nofollow">Glassdoor</a> states the average data <a href="https://blog.learnbay.co/is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends" target="_blank">scientist's salary</a> ranges around ₹12,00,000 per annum. The minimum basic pay ranges around ₹5,00,000-₹6,00,000 per annum, and the maximum goes towards ₹25,00,000 per annum.
+<a href="https://www.glassdoor.co.in/Salaries/data-scientist-salary-SRCH_KO0,14.htm" target="_blank" rel="nofollow">Glassdoor</a> states the average  <a href="https://blog.learnbay.co/is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends" target="_blank">data scientist's salary</a> ranges around ₹12,00,000 per annum. The minimum basic pay ranges around ₹5,00,000-₹6,00,000 per annum, and the maximum goes towards ₹25,00,000 per annum.
 
 
 Similarly, a review by <a href="https://www.glassdoor.co.in/Salaries/data-science-analyst-salary-SRCH_KO0,20.htm" target="_blank" rel="nofollow">Glassdoor</a> also suggests that a **data analyst's** average salary range is ₹10,00,000 per annum. The minimum basic pay ranges around ₹5,00,000 per annum, and the maximum goes towards ₹14,00,000 per annum.
