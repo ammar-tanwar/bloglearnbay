@@ -27,9 +27,9 @@ tableData: [
     What is Data Analysis? And How does it shape up Data Analyst's job role?,
     Who are Data Analysts?,
     Three Distinguishing Features of  Data Analyst vs. Data Scientist,
-    1 - Skills and Responsibilities,
-    2 - Salary range in India,
-    3 - Basic eligibility criteria,
+    Feature#1 - Skills and Responsibilities,
+    Feature#2 - Salary range in India,
+    Feature#3 - Basic eligibility criteria,
     Concluding Remarks, 
     Where to get the right guidance?
 
@@ -98,7 +98,7 @@ Below are a few points that will allow you to understand the distinctive feature
 
 ## Three Distinguishing Features of Data Analyst vs. Data Scientist
 
-### 1 - Skills and Responsibilities
+###  Feature#1 - Skills and Responsibilities
 
 <style>
 table {
@@ -127,43 +127,43 @@ td, th {
     <td>MS SQL Server, Python, Mongo DB, MySQL, Excel, BI tools, Econometrics, Probability & Statistics.</td>
   </tr>
   <tr>
-    <td>Responsibilities</td>
+    <td rowspan="6">Responsibilities</td>
     <td>Collect and process the data considering business needs.</td>
     <td>Collects data from different sources and filters it.</td>
 
   </tr>
   <tr>
-    <td></td>
+    <!-- <td>&nbsp;</td> -->
     <td>Unstructured datasets initiate data mining. </td>
     <td>Uses SQL to write up findings and queries.</td>
   </tr>
   <tr>
-    <td></td>
+    <!-- <td>&nbsp;</td> -->
     <td>Use of AI models, statistics, and ML tools for data analysis.</td>
     <td>Design bar charts and graphs, helping the business visualize.</td>
 
 </td>
   </tr>
   <tr>
-    <td></td>
+    <!-- <td>&nbsp;</td> -->
     <td>Visualizing the data sets for optimal model creation</td>
     <td>Datasets are studied to point out complex patterns.</td>
   </tr>
 
   <tr>
-  <td></td>
+  <!-- <td>&nbsp;</td> -->
   <td>Business communication with stakeholders designs models to deploy.</td>
   <td>Fixes business meetings with teams and managers on visualization findings.</td>
   </tr>
 
   <tr>
-  <td></td>
+  <!-- <td>&nbsp;</td> -->
   <td>Automation of the datasets with the use of ML/AI algorithms.</td>
   <td>The exploration of datasets starts with basic statistical knowledge.</td>
   </tr>
 </table>
 
-### 2 - Salary range in India  
+### Feature#2 - Salary range in India  
 
 Considering career growth, **data analyst vs. data scientist salaries in India** carries upward-trending professional careers. However, the depth of responsibilities affects their salary range in India.
 
@@ -175,7 +175,7 @@ Similarly, a review by <a href="https://www.glassdoor.co.in/Salaries/data-scienc
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-3.jpg" style="width:100%" class="img" alt="An illustration shows a data analyst holding a laptop in his hands. The background shows several figures that indicate the salary and future growth of the mentioned job role." title="Salary range of data analyst and data scientist in India"/>
 
-### 3 - Basic eligibility criteria    
+### Feature#3 - Basic eligibility criteria    
 
 There are no advanced skills required to become a data scientist or data analyst. Only you need industry-grade upskilling with the required level of statistical, programming, and analytical skills.
 
