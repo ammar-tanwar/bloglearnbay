@@ -2288,6 +2288,21 @@
       "author":  "Snalisha Mohanty",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-1.jpg",
       "readTime": "4.5 min",
+      "date": "Apr 12, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "devops-automation-tools-in-retail",
+    "frontmatter": {
+      "title": "DevOps Automation Tools in Retail | 3 Prominent Reasons Why It Needs Attention!",
+      "slug": "devops-automation-tools-in-retail",
+      "description":  "DevOps Automation tools are replacing traditional physical stores with online retail. Its integrated version of retail operations attains a competitive edge. Read more to know the dynamic shifts in the retail industry with the inclusion of automation.",
+      "categories": "Technology",
+      "author":  "Snalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-1.jpg",
+      "readTime": "5.5 min",
       "date": "Apr 14, 2023",
       "draft": false
     }
