@@ -2285,7 +2285,7 @@
       "slug": "data-analyst-vs-data-scientist",
       "description": "This blog is about data scientist vs. data analytics job responsibilities, salaries, criteria, and which one can provide significant growth in the different industries.",
       "categories": "Data Science",
-      "author":  "Snalisha Mohanty",
+      "author":  "Sonalisha Mohanty",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-1.jpg",
       "readTime": "4.5 min",
       "date": "Apr 12, 2023",
@@ -2300,10 +2300,25 @@
       "slug": "devops-automation-tools-in-retail",
       "description":  "DevOps Automation tools are replacing traditional physical stores with online retail. Its integrated version of retail operations attains a competitive edge. Read more to know the dynamic shifts in the retail industry with the inclusion of automation.",
       "categories": "Technology",
-      "author":  "Snalisha Mohanty",
+      "author":  "Sonalisha Mohanty",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-1.jpg",
       "readTime": "5.5 min",
       "date": "Apr 14, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "top-data-science-projects-in-healthcare",
+    "frontmatter": {
+      "title": "Unleashing The Most Demanding Data Science Projects In Healthcare",
+      "slug": "top-data-science-projects-in-healthcare",
+      "description":  "In this blog, we will learn about healthcare data science projects that will provide practical insights that can guide you professionally in your data science career.",
+      "categories": "Data Science",
+      "author":  "Vineeth Kumar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/utm-1.jpg",
+      "readTime": "11 mins",
+      "date": "Apr 17, 2023",
       "draft": false
     }
   }
