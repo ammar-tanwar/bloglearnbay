@@ -234,7 +234,7 @@ This is one of the most trending **data science project topics**.
 
 ## 4. Heart attack prediction   
 
-**Tools Utilized** : Python, sklearn, Logistic regression
+**Tools Utilized**: Python, sklearn, Logistic regression
 
 Dataset: <a href="https://www.kaggle.com/code/gazalshrivastava/heart-attack-prediction/input" target="_blank" rel="nofollow">Kaggle</a>
 
