@@ -5,7 +5,7 @@ publish: "Published on"
 desc: "In this blog, we will learn about healthcare data science projects that will provide practical insights that can guide you professionally in your data science career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/utm-1.jpg"
-headerAlt: "A banner image titled, ' Top 7 Data Science Projects in Healthcare [2023 Update]' shows a nurse hodls an injection and another nurse seated on a chair points towards a board with several charts."
+headerAlt: "A banner image titled, ' Top 7 Data Science Projects in Healthcare [2023 Update]' shows a nurse holds an injection and another nurse seated on a chair points towards a board with several charts."
 date: "Apr 17, 2023"
 tag:
   [
@@ -22,14 +22,14 @@ h1: "Unleashing The Most Demanding Data Science Projects In Healthcare"
 id: top-data-science-projects-in-healthcare
 tableData: [
 
-   What Are Some Good Data Science Projects in Healthcare to Target in 2023?, What are some advanced data science projects in healthcare?, 1. Prediction on readmissions, 2. Pneumonia Detection using CNN (92.6% Accuracy), 3. Diabetes Prediction Using Voting Classifiers, 4. Heart attack prediction, 5. Visceral Adipose on Pregnancy, 6. Body Fat Prediction (99.5%), 7. Breast cancer CNN Densenet 
+    What are some advanced data science projects in healthcare?, 1. Prediction on readmissions, 2. Pneumonia Detection using CNN (92.6% Accuracy), 3. Diabetes Prediction Using Voting Classifiers, 4. Heart attack prediction, 5. Visceral Adipose on Pregnancy, 6. Body Fat Prediction (99.5%), 7. Breast cancer CNN Densenet, Conclusion
   ]
 ---
-## What Are Some Good Data Science Projects in Healthcare to Target in 2023?
+<span style=" font-weight:bold; font-size:28px"> What Are Some Good Data Science Projects in Healthcare to Target in 2023?</span>
 
 A collection of **healthcare data science projects** in the portfolio is vital if you want a lucrative career transition within the healthcare industry. The opportunities for a data scientist in healthcare are endless, but the job market competition is harder. If you are in the healthcare sector and want to stay in a win-win position, you need the fusion of two things in your portfolio.
 
-'**Strong data science concept + real-world and unique data science projects in healthcare**.'
+'**_Strong data science concept + real-world and unique data science projects in healthcare_**.'
 
 The healthcare industry is the biggest resource of unstructured data. But, just like other industries, the **role of data science in healthcare** is fastly earning its significance. In fact, without proper data analysis, healthcare industry operations are almost impossible. And without structuring the data, precise analysis is not at all possible. Consequently, the healthcare sectors of India now need plenty of **healthcare data scientists** for **disease prediction, medical imaging, and analysis of scanned images** and data-driven expertise.
 
@@ -39,7 +39,7 @@ The Curriculum vitae (CV) for a position as a **data scientist in the healthcare
 
 ## What are some advanced data science projects in healthcare?  
 
-In the healthcare industry, plenty of <a href="https://blog.learnbay.co/data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care" target="_blank">data scientist jobs</a> are available.From the utilization of digital scanning, and advanced analytics to electronic health records, data science has proved its importance everywhere. It's a perfect moment for an emerging data scientist to start looking into them.
+In the healthcare industry, plenty of <a href="https://blog.learnbay.co/data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care" target="_blank">data scientist jobs</a> are available. From the utilization of digital scanning, and advanced analytics to electronic health records, data science has proved its importance everywhere. It's a perfect moment for an emerging data scientist to start looking into them.
 
 Now let's dive into the seven best-advanced **data science-related projects in healthcare** in 2023.
 
@@ -59,7 +59,7 @@ Now let's dive into the seven best-advanced **data science-related projects in h
 
 ## 1. Prediction on readmissions   
 
-**Tools Utilized** : Python, sklearn, Binary classification
+**Tools Utilized**: Python, sklearn, Binary classification
 
 Dataset: <a href="https://www.kaggle.com/code/kaiwen6/prediction-on-readmissions-using-pipeline/input?select=diabetic_data.csv" target="_blank" rel="nofollow">Kaggle</a>
 
@@ -109,7 +109,7 @@ Moreover, forecasting readmission rates might assist in locating high-risk indiv
 
 This can be one of the impressive **healthcare data science projects** that can improve elderly and chronic disease care.
 
-**Tips to be on the top preference of the interview panel** : The best will be if you collect your local hospitals' or regional hospitals' data and do a completely fresh project on the same.
+**Tips to be on the top preference of the interview panel**: The best will be if you collect your local hospitals' or regional hospitals' data and do a completely fresh project on the same.
 
 **Code**:
 
@@ -205,7 +205,7 @@ To execute data augmentation the following steps should be followed:
 
 **Tools Utilized:** Python, KNN, Random Forest, Logistic Regression, sklearn
 
-Dataset: <a href="https://www.kaggle.com/code/pavanpyla/fraud-detection-in-health-care-pavan-pyla/input" target="_blank" rel="nofollow">Kaggle</a>
+Dataset: <a href="https://www.kaggle.com/code/daniilidisk/diabetes-prediction-voting-classifiers-85-3-acc" target="_blank" rel="nofollow">Kaggle</a>
 
 According to epidemiological data, there seem to be currently more than 463 million diabetics patients globally, and in 2019 poll forecasts that number will increase to 700 million by 2045. Almost 720,000 people have been diagnosed with diabetes in Greece; the majority of them have type II diabetes, according to estimates.
 
@@ -273,7 +273,7 @@ If you are learning data science and have industry experience in the healthcare 
 
 **Tools Utilized:** Python, pywaffle - quiet, sklearn
 
-Dataset:<a href="https://www.kaggle.com/code/mpwolke/visceral-adipose-on-pregnancy/input" target="_blank" rel="nofollow">Kaggle</a>
+Dataset: <a href="https://www.kaggle.com/code/mpwolke/visceral-adipose-on-pregnancy/input" target="_blank" rel="nofollow">Kaggle</a>
 
 When the body is not able to generate enough insulin while a person is pregnant, then it leads to gestational diabetes. The hormone insulin, which is produced by the pancreas, operates as a key to allow blood sugar to enter the body's cells to serve as energy.
 
@@ -306,9 +306,9 @@ It is possible to avoid Type 2 diabetes in two generations by screening for it a
 
 ## 6. Body Fat Prediction (99.5%)  
 
-**Tools Utilized** : Python, sklearn, Linear Regression, Random Forest
+**Tools Utilized**: Python, sklearn, Linear Regression, Random Forest
 
-Dataset:<a href="https://www.kaggle.com/code/ayushs9020/body-fat-prediction-99-5-preprocessing/input" target="_blank" rel="nofollow">Kaggle</a>
+Dataset: <a href="https://www.kaggle.com/code/ayushs9020/body-fat-prediction-99-5-preprocessing/input" target="_blank" rel="nofollow">Kaggle</a>
 
 To demonstrate multiple regression algorithms, this data set may be utilized. It is beneficial to have simple methods for estimating body fat when measuring body fat accurately is not challenging or costly.
 
@@ -377,7 +377,7 @@ Implementing several risk variables in breast cancer prediction modeling may ass
 
 This also helps in the development of essential treatment protocols. Disease management is successful with the collection, storage, and administration of various data as well as intelligent systems depending on several aspects for predicting breast cancer.
 
-## **Conclusion**
+## Conclusion
 
 So, these are a few **data science projects in healthcare**. Understanding these projects with in-depth knowledge can help boost your overall data science learning process.
 
