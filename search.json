@@ -2321,5 +2321,20 @@
       "date": "Apr 17, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "blockchain-in-supply-chain",
+    "frontmatter": {
+      "title": "Blockchain In Supply Chain | 6 Exclusive Ways of Transparency Enhancement",
+      "slug": "blockchain-in-supply-chain",
+      "description":   "Applications of blockchain in supply chain have been proven the savior against complex logistics operations. Know the implications of this cutting-edge technology on supply chain and logistics management.",
+      "categories": "Technology",
+      "author":  "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bis-1.jpg",
+      "readTime": "5.78 min",
+      "date": "Apr 19, 2023",
+      "draft": false
+    }
   }
 ]
