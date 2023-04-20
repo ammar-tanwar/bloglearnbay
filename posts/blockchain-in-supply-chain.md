@@ -23,7 +23,7 @@ id: blockchain-in-supply-chain
 
 tableData: [
 
-    What is Blockchain Technology?, Implications of Blockchain in Supply Chain, How is blockchain technology helping firms have sustainable business practices?, How is blockchain technology helping firms have sustainable business practices?, Three pillars of sustainable business practices:-, Pillar 1 -, Economic gains, Pillar 2 -, Social Empowerment, Pillar 3 -, Environmental safety, How does the blockchain-led procurement process work?, Benefits of Blockchain in supply chain, 1. Businesses see the transparency, 2. Smart Contracts, 3. Economic, 4. Secure and Reliable, 5. Assuring Quality of the Goods, 6. Every task works on automation, How does blockchain technology removes supply chain risks?, Solution#1, Team Communication, Solution#2, Data transferring errors, Resolves#3, Monitoring risks, What does the future hold?
+    What is Blockchain Technology?, Implications of Blockchain in Supply Chain, How is blockchain technology helping firms have sustainable business practices?, Three pillars of sustainable business practices:-, Pillar 1 -, Economic gains, Pillar 2 -, Social Empowerment, Pillar 3 -, Environmental safety, How does the blockchain-led procurement process work?, Benefits of Blockchain in supply chain, 1. Businesses see the transparency, 2. Smart Contracts, 3. Economic, 4. Secure and Reliable, 5. Assuring Quality of the Goods, 6. Every task works on automation, How does blockchain technology removes supply chain risks?, Solution#1, Team Communication, Solution#2, Data transferring errors, Solution#3, Monitoring risks, What does the future hold?
   ]
 ---
 <span style=" font-weight:bold; font-size:28px">How to Create a Transparent Supply Chain Management Using Blockchain?</span>
@@ -147,7 +147,7 @@ Smart contracts are digital agreements that are safe, secure, and accessible. It
 
 ### 3. Economic
 
-**Blockchain development** createstransparent supply chain activities. It reduces the risks of tampering, misleading conduct, and wrongful invoicing.
+**Blockchain development** creates transparent supply chain activities. It reduces the risks of tampering, misleading conduct, and wrongful invoicing.
 
 This technology speeds up the procurement process with reliability. This is why the business saves additional use of costs. With fewer costs, businesses make more profits.
 
@@ -183,7 +183,7 @@ Human interference in every activity decreases since this technology motivates a
 
 Supply chain operations face issues with data transfer. Hence, the receiver may have wrong or misleading information. But with **blockchain in the supply chain**, data gets transferred more accurately as everyone has a direct way into it.
 
-### Resolves#3    
+### Solution#3    
 
 ### Monitoring risks
 
