@@ -38,7 +38,7 @@ tableData: [
 
 <span style=" font-weight:bold; font-size:28px">Data Analyst vs. Data Scientist: An Extensive Guide for Aspirants With Career Transition Plan! </span>
 
-India is struggling with economic uncertainties due to the post-pandemic and recession condition. The economic uncertainties have affected the job market with the threat of unemployment. The challenges like sudden layoffs and seasonal unemployment crises restrict future resilience. Despite economic imbalances in India, 2022 witnessed <a href="https://economictimes.indiatimes.com/jobs/mid-career/indias-workforce-to-see-consistent-hiring-in-2023-despite-economic-uncertainties-survey/articleshow/98453508.cms" target="_blank" rel="nofollow">16% hiring growth</a> in the tech industry.
+India is struggling with economic uncertainties due to the post-pandemic and recession condition. The economic uncertainties have affected the job market with the threat of unemployment. The challenges like sudden layoffs and seasonal unemployment crises restrict future resilience. Despite economic imbalances in India, 2022 witnessed 16% hiring growth in the tech industry.
 
 The **data analyst vs. data Scientist** is gradually becoming the center of attraction as it welcomes people not only from tech but also from the non-tech sectors. With basic computing skills, anyone can join this industry and stated job roles with a higher probability of career rise. Thus, **data scientist and data analyst** jobs are in demand lately.
 
@@ -90,7 +90,7 @@ The data analyst role and responsibilities are shaping the IT industry in India.
 
 They are professionals who believe in reading through data sources, enhancing operations, minimizing risks, and improving business performance.
 
-The <a href="https://blog.learnbay.co/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career" target="_blank">data analytics</a> market in India projects growth of the <a href="https://economictimes.indiatimes.com/news/how-to/what-is-data-analytics-and-how-it-may-help-in-your-career/articleshow/94698633.cms?from=mdr" target="_blank" rel="nofollow">$118.7 billion mark by 2026</a>. Several industries like HR, healthcare, and finance look forward to data analysts for enhanced decisions.
+The <a href="https://blog.learnbay.co/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career" target="_blank">data analytics</a> market in India projects growth of the $118.7 billion mark by 2026. Several industries like HR, healthcare, and finance look forward to data analysts for enhanced decisions.
 
 **_Data analysts' and Data Scientists' job_** roles may seem identical to professionals', but it has different applications in the software industry.
 
@@ -168,10 +168,10 @@ td, th {
 Considering career growth, **data analyst vs. data scientist salaries in India** carries upward-trending professional careers. However, the depth of responsibilities affects their salary range in India.
 
 
-<a href="https://www.glassdoor.co.in/Salaries/data-scientist-salary-SRCH_KO0,14.htm" target="_blank" rel="nofollow">Glassdoor</a> states the average  <a href="https://blog.learnbay.co/is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends" target="_blank">data scientist's salary</a> ranges around ₹12,00,000 per annum. The minimum basic pay ranges around ₹5,00,000-₹6,00,000 per annum, and the maximum goes towards ₹25,00,000 per annum.
+Glassdoor states the average <a href="https://blog.learnbay.co/is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends" target="_blank">data scientist's salary</a> ranges around ₹12,00,000 per annum. The minimum basic pay ranges around ₹5,00,000-₹6,00,000 per annum, and the maximum goes towards ₹25,00,000 per annum.
 
 
-Similarly, a review by <a href="https://www.glassdoor.co.in/Salaries/data-science-analyst-salary-SRCH_KO0,20.htm" target="_blank" rel="nofollow">Glassdoor</a> also suggests that a **data analyst's** average salary range is ₹10,00,000 per annum. The minimum basic pay ranges around ₹5,00,000 per annum, and the maximum goes towards ₹14,00,000 per annum.
+Similarly, a review by Glassdoor also suggests that a **data analyst's** average salary range is ₹10,00,000 per annum. The minimum basic pay ranges around ₹5,00,000 per annum, and the maximum goes towards ₹14,00,000 per annum.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-3.jpg" style="width:100%" class="img" alt="An illustration shows a data analyst holding a laptop in his hands. The background shows several figures that indicate the salary and future growth of the mentioned job role." title="Salary range of data analyst and data scientist in India"/>
 
