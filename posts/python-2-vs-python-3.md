@@ -2,18 +2,22 @@
 title: "Python 2 Vs Python 3: Know How They Differ?"
 stitle: "Python 2 vs Python 3: Differences That Every Data Science Aspirant Should Know"
 publish: "Published on"
-desc: "difference between python 2 and 3 in tabular form, python 2 vs 3 syntax differences, python2 vs python3 strings, python2 vs python3 print, python2 vs python3 exception, python2 vs python3 division"
+desc: "Python 2 Vs. Python 3 has become a hot topic for python beginners in data science and AI. Here we have examined various differences between both and explained which could be a better alternative."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pyt-1.jpg"
 headerAlt: "An illustrative banner image titled, 'Python 2 Vs Python 3: Know how they differ?' shows a person seated on a chair using two laptops. Both laptops show the Python logo."
 date: "Apr 24, 2023"
 tag:
   [
-    difference between python 2 and 3 in tabular form, python 2 vs 3 syntax differences, python2 vs python3 strings, python2 vs python3 print, python2 vs python3 exception
+    difference between python 2 and 3 in tabular form,
+    python 2 vs 3 syntax differences,
+    python2 vs python3 strings,
+    python2 vs python3 print,
+    python2 vs python3 exception,
   ]
 category: "Python"
 author: "Vineeth Kumar"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
 authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "
 authorlinkedin: "https://www.linkedin.com/in/vineeth-kumar-104a6b98/"
 position: "Editor"
@@ -23,32 +27,20 @@ id: python-2-vs-python-3
 
 tableData:
   [
-    What is Blockchain Technology?,
-    Implications of Blockchain in Supply Chain,
-    How is blockchain technology helping firms have sustainable business practices?,
-    Three pillars of sustainable business practices:-,
-    Pillar 1 -,
-    Economic gains,
-    Pillar 2 -,
-    Social Empowerment,
-    Pillar 3 -,
-    Environmental safety,
-    How does the blockchain-led procurement process work?,
-    Benefits of Blockchain in supply chain,
-    1. Businesses see the transparency,
-    2. Smart Contracts,
-    3. Economic,
-    4. Secure and Reliable,
-    5. Assuring Quality of the Goods,
-    6. Every task works on automation,
-    How does blockchain technology removes supply chain risks?,
-    Solution#1,
-    Team Communication,
-    Solution#2,
-    Data transferring errors,
-    Solution#3,
-    Monitoring risks,
-    What does the future hold?,
+    Python 2:- What does it mean?,
+    Python 3:- What does it mean?,
+    Python 2 vs Python 3 differences,
+    Sample Code for Python 2 and Python 3,
+    Print function-,
+    Integer Division-,
+    Unicode Strings-,
+    Error Handling-,
+    Xrange-,
+    Raising Exception-,
+    Which one would be the better version? Python 2 or Python 3.,
+    Python 2 to Python 3 converter:-,
+    Which Python version is better for data science?,
+    How to become a Python pro for data science?,
   ]
 ---
 
@@ -70,7 +62,7 @@ The Python 3 programming language, which is presently in operation, was develope
 
 Let's now interpret and check the difference through the most demanding discussion of Python 2 vs Python 3 in detail. Also, I'll explain why Python 2 continues to be utilized even though Python 3 has already been developed and upgraded.
 
-## Python 2: What does it mean?
+## Python 2:- What does it mean?
 
 Python 2.0 came into the limelight in the year 2000. Programmers were capable of simplifying the code generation process compared to past editions due to the release of Python 2. Python 2.7, which was terminated in 2020, marked the termination of the Python 2. x series.
 
@@ -141,9 +133,6 @@ td, th {
   <td>3rd July 2010</td>
   </tr>
 </table>
-
-
-
 
 ## Python 3:- What does it mean?
 
@@ -224,7 +213,6 @@ td, th {
   <td>Python 3.8</td>
   <td>October 2019</td>
   </tr>
-
 
    <tr>
   <td>Python 3.9</td>
@@ -317,12 +305,11 @@ td, th {
 
    <tr>
 
-
    <tr>
   <!-- <td>&nbsp;</td> -->
   <td><b>Current usage</b></td>
   <td>Since 2020, it has been out of usage.</td>
-  <td>Python 3 is currently in use today and is utilized more frequently than Python  2..</td>
+  <td>Python 3 is currently in use today and is utilized more frequently than Python 2.</td>
   </tr>
 
    <tr>
