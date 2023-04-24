@@ -2336,5 +2336,20 @@
       "date": "Apr 19, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "python-2-vs-python-3",
+    "frontmatter": {
+      "title": "Python 2 Vs Python 3: Know How They Differ?",
+      "slug": "python-2-vs-python-3",
+      "description": "difference between python 2 and 3 in tabular form, python 2 vs 3 syntax differences, python2 vs python3 strings, python2 vs python3 print, python2 vs python3 exception, python2 vs python3 division",
+      "categories": "Python",
+      "author":  "Vineeth Kumar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pyt-1.jpg",
+      "readTime": "7.4 mins",
+      "date": "Apr 24, 2023",
+      "draft": false
+    }
   }
 ]
