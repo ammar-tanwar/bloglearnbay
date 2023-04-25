@@ -54,7 +54,7 @@ This technology helps users to have access to business information through a sec
 
 This ledger connects with other systems and nodes to update business data. This ledger reads the data and communicates with the team.
 
-### Implications of Blockchain in Supply Chain  
+### Implications of Blockchain in Supply Chain 
 
 -  <b>Enhances the productivity of business -</b>
 

@@ -26,7 +26,7 @@ tableData: [
   ]
 ---
 
-## DevOps Automation Tools for Retail Digital Transformation
+<span style=" font-weight:bold; font-size:28px">DevOps Automation Tools for Retail Digital Transformation</span>
 
 Long-established and traditional retail operations have been outdated lately. Due to **DevOps Automation tools**, the retail industry sees integration and inclusiveness. **Automation tools in DevOps** are emerging as a notable change-maker in reshaping the retail sector. Apart from driving teams to embrace technological progress and competitiveness, it is also setting a new edge in the retail experience for the clients.
 
