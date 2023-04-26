@@ -31,9 +31,10 @@ const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
     url: router.asPath,
   });
 
+
   useEffect(() => {
     setQuery({ ...query, phone: value, dateTime: startDate });
-  }, [value]);
+  }, [value,query,startDate]);
 
 
   // setQuery({ ...query, phone: value,dateTime: startDate  });
