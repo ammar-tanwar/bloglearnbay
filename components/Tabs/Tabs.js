@@ -19,7 +19,7 @@ const Tabs = ({ handleIcon }) => {
     if (width > 481) {
       setMobile(false);
     }
-  });
+  }, [setMobile]);
 
   return (
     <div className="wrapper">

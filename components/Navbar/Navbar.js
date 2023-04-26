@@ -27,6 +27,7 @@ const Navbar = () => {
   };
 
   const [mobile, setMobile] = useState(false);
+
   useEffect(() => {
     let width = window.innerWidth;
     if (width < 481) {
@@ -35,7 +36,7 @@ const Navbar = () => {
     if (width > 481) {
       setMobile(false);
     }
-  });
+  }, [setMobile]);
 
   return (
     <div>

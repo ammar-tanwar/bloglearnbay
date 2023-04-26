@@ -2351,5 +2351,20 @@
       "date": "Apr 24, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "top-ai-trends",
+    "frontmatter": {
+      "title": "What Are the Next Big Trends in AI? | Latest AI Trends to Look Out",
+      "slug": "top-ai-trends",
+      "description": "The tech world has seen sudden hype about trending AI technologies. This blog will teach you about the top 7 AI trends and their promising future implications.",
+      "categories": "Python",
+      "author":  "Vineeth Kumar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wnb-1.jpg",
+      "readTime": "6 mins",
+      "date": "Apr 26, 2023",
+      "draft": false
+    }
   }
 ]
