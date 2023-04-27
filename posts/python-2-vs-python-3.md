@@ -14,6 +14,7 @@ tag:
     python2 vs python3 strings,
     python2 vs python3 print,
     python2 vs python3 exception,
+    python2 vs python3 division,
   ]
 category: "Python"
 author: "Vineeth Kumar"
