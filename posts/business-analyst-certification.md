@@ -11,7 +11,7 @@ tag:
   [
     best certifications for business analyst in india, business analyst certification for beginners, business analyst certification online
   ]
-category: "Technology"
+category: "Hot Topics"
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
@@ -29,7 +29,7 @@ tableData:
 
 <span style=" font-weight:bold; font-size:28px">Business Analytics Certification Comes Out as a Roaring Success!!</span>
 
-**Business analytics certification** has made a significant position in the list of top-tech certifications. '**Business Analytics**' as an Industry is booming around with huge growth opportunities.
+**Business analytics certification** has made a significant position in the list of top-tech certifications.'**Business Analytics**' as an Industry is booming around with huge growth opportunities.
 
 The replacement of traditional data management and decision-making with an analytical approach is appreciable. From diminishing gaps in data patterns to simplifying business visualization, analytics has done a wonderful job so far.
 
@@ -45,7 +45,7 @@ In short, your choice of industry certifications will decide the future of your 
 
 _What makes_ **_business analyst certification_** _essential for your career?_
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bag-2.jpg"  class="img" alt="An photo shows a learner who completed the business analyst certification, holding the degree with a smiling face. The foreground shows different graphs like, 'bar charts', 'donut charts', 'column charts' and a 'stock chart'." title="Business Analyst Certification"  class="img" style="width:100%"/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bag-2.jpg"  class="img" alt="A photo shows a learner who completed the business analyst certification, holding the degree with a smiling face. The foreground shows different graphs like, 'bar charts', 'donut charts', 'column charts' and a 'stock chart'." title="Business Analyst Certification"  class="img" style="width:100%"/>
 
 ## Here are five proven facts about business analyst certification that you must consider-
 
@@ -61,7 +61,7 @@ The **business analytics** market is flourishing. Businesses depend on the cloud
 
 The one with specialized business analytics skills and expertise can conquer the industry and beat other competitors. Since the market is changing, updating yourself with trending certifications can better help.
 
-**Business analytics courses** can redefine your career if used well. Thisbuilds a specialized career path that takes you toward success.
+**Business analytics courses** can redefine your career if used well. This builds a specialized career path that takes you toward success.
 
 ### 2. Be a part of a global workforce    
 
@@ -163,7 +163,7 @@ _Step 2: Start your learning sessions after selecting your domain electives in a
 
 _Step 3: Learn the application of business analytics tools with eight real-time capstone industry project handling experiences._
 
-_Step 4: Give the exam and get_ _business analyst certification_ _from IBM._
+_Step 4: Give the exam and get_ _business analyst certification_ _from IBM and Microsoft._
 
 _Step 5: Once completed with the course, you will get job assistance calls and unlimited doubt-clearing sessions with your mentors._
 
