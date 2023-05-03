@@ -2381,5 +2381,20 @@
       "date": "Apr 28, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "facts-of-hr-analytics-certification",
+    "frontmatter": {
+      "title": "HR Analytics Certification: 7 Instances of a Successful Career You Want",
+      "slug": "facts-of-hr-analytics-certification",
+      "description": "HR analytics certification has initiated a radical change to the HR profession. It holds a bright and lucrative future for the said professionals. Read this article to know proven facts associated with this certification.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aci-1.png",
+      "readTime": "7.5 mins",
+      "date": "May 03, 2023",
+      "draft": false
+    }
   }
 ]
