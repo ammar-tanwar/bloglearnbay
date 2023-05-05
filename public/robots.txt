@@ -1,4 +1,3 @@
+Sitemap: https://blog.learnbay.co/sitemap.xml
 User-agent: *
-Allow: /
-
-Sitemap: https://blog.learnbay.co/api/my-sitemap
+Disallow: /_next
