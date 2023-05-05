@@ -4,20 +4,11 @@ import Footer from "../components/Footer/Footer";
 import "../styles/form.css";
 import React from "react";
 import Script from "next/script";
-import Head from "next/head";
 
 function MyApp({ Component, pageProps }) {
 
   return (
     <>
-    {/*  */}
-    <Head>
-     <html lang="en" />
-
-    </Head>
-
-    
-
 <Script
         strategy="lazyOnload"
         src={`https://www.googletagmanager.com/gtag/js?id=UA-215989751-1`}
