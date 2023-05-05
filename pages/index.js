@@ -21,8 +21,10 @@ export default function blog({ allPostsData }) {
   let categoryPostTag = Array.from(new Set(singleCategoryPost));
 
   return (
+
     <>
       <Head>
+        {/* <html lang="en" /> */}
         <title>Learnbay Blogs</title>
         <meta name="description" content="Learnbay Blogs" />
         <link href="/Learnbay-Favicon-L.png" />
