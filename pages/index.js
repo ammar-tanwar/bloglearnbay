@@ -24,15 +24,13 @@ export default function blog({ allPostsData }) {
 
     <>
       <Head>
-        {/* <html lang="en" /> */}
         <title>Learnbay Blogs</title>
-        {/* <html lang="en" /> */}
+    
         <meta name="description" content="Learnbay Blogs" />
         <link href="/Learnbay-Favicon-L.png" />
         <meta name="google-site-verification" content="q2xA2OZrvhAj8r1YGNF_3x5m5GuWCqo9rNb7atG4mXU" />
         <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
         <link rel="canonical" href="https://blog.learnbay.co/" />
-        {/* <meta name="author" content="Learnbay" /> */}
         <meta name="publisher" content="Learnbay" />
         <meta name="keywords" content="Learnbay Blogs" />
         <meta name="robots" content="index, follow"/>
@@ -50,7 +48,7 @@ export default function blog({ allPostsData }) {
 
         <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
           <p>Latest Blogs</p>
-          {/* <Search /> */}
+       
           <Sidebar />
           {/* <a href={`/blogs`} className={styles.blogButton}>
             <button>View All Blogs</button>
