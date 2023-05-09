@@ -58,9 +58,9 @@ export default function Sidebar() {
         <a className={styles.searchicon} id="myBtn"><Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/search.png" alt="" height={20} width={20} /></a>
       </Link>   
 
-        <a href={`/blogs`} className={styles.blogButton}>
+        {/* <a href={`/blogs`} className={styles.blogButton}>
             <button>View All Blogs</button>
-        </a> 
+        </a>  */}
     </div>
 
   )

@@ -2,6 +2,8 @@
 title: OpenAI GPT-3 Revolution- The Thrill of Next-Gen AI Innovation
 stitle: "OpenAI GPT-3 Revolution- The Thrill of Next-Gen AI Innovation"
 publish: "Published on"
+published_time: "2023-02-01T13:25:31+05:30"
+modified_time: "2023-02-01T13:25:31+05:30"
 desc: "The field of Artificial intelligence is continuously evolving, and the OpenAI GPT-3 is revolutionizing the way we think and use AI. In this blog post, we will explore all the potential implications of GPT-3 and how it helps increase results and productivity."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-1.jpg"

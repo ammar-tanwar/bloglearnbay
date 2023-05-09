@@ -2,6 +2,8 @@
 title:  Is Data Structure and Algorithm Important to Crack Product-based Company Interviews?
 stitle: "Is Data Structure and Algorithm Important to Crack Product-based Company Interviews?"
 publish: "Published on"
+published_time: "2023-04-05T13:25:31+05:30"
+modified_time: "2023-04-05T13:25:31+05:30"
 desc: "Data structure and Algorithms can be an effective way of achieving SDE Jobs. In this blog, you will be briefed on how DSA can easily help crack, product-based company interviews and what can be its future implications."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsd-1.jpg"

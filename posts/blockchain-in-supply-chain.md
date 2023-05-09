@@ -2,6 +2,8 @@
 title: "Blockchain In Supply Chain | 6 Exclusive Ways of Transparency Enhancement"
 stitle: "Future of Blockchain in Supply Chain: Know The 6 Proven Benefits"
 publish: "Published on"
+published_time: "2023-04-19T13:25:31+05:30"
+modified_time: "2023-04-19T13:25:31+05:30"
 desc: "Applications of blockchain in supply chain have been proven the savior against complex logistics operations. Know the implications of this cutting-edge technology on supply chain and logistics management."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bis-1.jpg"

@@ -2,6 +2,8 @@
 title:  Know-How Conversational AI is Making Amazon Alexa Smarter
 stitle: "Know-How Conversational AI is Making Amazon Alexa Smarter"
 publish: "Published on"
+published_time: "2022-11-18T13:25:31+05:30"
+modified_time: "2022-11-18T13:25:31+05:30"
 desc: "AI is making Amazon Alexa smarter every day. Check out how conversational AI is making Amazon Alexa more intelligent. From improving her voice recognition to understanding human emotions, conversational AI is giving Alexa a big boost."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-1.jpg"

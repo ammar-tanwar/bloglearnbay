@@ -2,6 +2,8 @@
 title: Random forest model(RFM)
 stitle: "Random forest model(RFM)"
 publish: "Published on"
+published_time: "2020-12-20T13:25:31+05:30"
+modified_time:  "2020-12-20T13:25:31+05:30"
 desc: "Random Forest Model is also a classification model with the combination of the decision tree. The random forest model algorithm is a supervised classification algorithm..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm.jpg"

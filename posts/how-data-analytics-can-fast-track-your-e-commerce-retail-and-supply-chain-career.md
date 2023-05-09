@@ -2,6 +2,8 @@
 title: How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?
 stitle: "How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?"
 publish: "Published on"
+published_time: "2022-05-07T13:25:31+05:30"
+modified_time: "2022-05-07T13:25:31+05:30"
 desc: "The field of data analytics has grown in popularity as it has proven to be extremely effective in the fields of retail and E-Commerce. Because of the growing volume of data in numerous areas, data analysts are always in great demand."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce1.png"

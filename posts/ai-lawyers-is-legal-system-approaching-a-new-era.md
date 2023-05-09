@@ -2,6 +2,8 @@
 title: AI Lawyers | Is Legal System Approaching a New Era?
 stitle: "AI Lawyers | Is Legal System Approaching a New Era?"
 publish: "Published on"
+published_time: "2023-03-06T13:25:31+05:30"
+modified_time: "2023-03-06T13:25:31+05:30"
 desc: "AI has a diversified field in many types of tech and no tech sectors; here, AI lawyers are the next big thing in the legal business and soon getting ready for courtroom assistance. Here in this blog, you will be briefed with different implications and uses cases of robot lawyers."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/alis-1.png"

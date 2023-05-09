@@ -2,6 +2,8 @@
 title:  Advanced Application of AI in Banking | A New Era of BFSI Sector
 stitle: "Advanced Application of AI in Banking | A New Era of BFSI Sector"
 publish: "Published on"
+published_time: "2022-11-23T13:25:31+05:30"
+modified_time: "2022-11-23T13:25:31+05:30"
 desc: "In this blog, we'll explore how AI is being used to revolutionize the banking industry, making it more efficient and effective. We'll also know how AI in Banking and Finance is Leading Us to Super Secure and Worry-free Banking Experiences!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-1.jpg"

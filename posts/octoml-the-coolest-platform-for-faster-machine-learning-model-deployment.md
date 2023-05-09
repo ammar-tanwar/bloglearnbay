@@ -2,6 +2,8 @@
 title: OctoML- The Coolest Platform for Faster Machine Learning Model Deployment
 stitle: "OctoML- The Coolest Platform for Faster Machine Learning Model Deployment"
 publish: "Published on"
+published_time: "2022-11-09T13:25:31+05:30"
+modified_time: "2022-11-09T13:25:31+05:30"
 desc: "Artificial intelligence is playing an increasingly important role in weather forecasting. Data mining techniques are helping us to predict the weather more accurately, and this can definitely save us from bad weather."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-1.jpg"

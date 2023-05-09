@@ -2,6 +2,8 @@
 title: Everything About the XGBoost Classifier
 stitle: "Everything About the XGBoost Classifier"
 publish: "Published on"
+published_time: "2022-02-04T13:25:31+05:30"
+modified_time: "2022-02-04T13:25:31+05:30"
 desc: "In this blog, learn about the XGBoost classifier and how it works with various applications to increase its efficiency. It will help you to get a brief on machine learning algorithms and improve the predictive modeling structure."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xgb-1.jpg"

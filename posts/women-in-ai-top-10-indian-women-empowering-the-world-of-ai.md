@@ -2,6 +2,8 @@
 title: Women in AI - Top 10 Indian Women Empowering the World of AI
 stitle: "Women in AI - Top 10 Indian Women Empowering the World of AI"
 publish: "Published on" 
+published_time: "2022-09-17T13:25:31+05:30"
+modified_time:  "2022-09-17T13:25:31+05:30"
 desc: "Indian women are making a mark in the field of artificial intelligence. Here is a list of the top 10 Indian women who are empowering the world of AI. We salute these women for their work and achievements."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-1.png"

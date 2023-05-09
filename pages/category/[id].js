@@ -18,13 +18,33 @@ export default function CategoryBlog({ categoryPosts }) {
   const showMoreItems = () => {
     setVisible((prevValue) => prevValue + 9);
   };
+
+
+  
   return (
     <>
       <Head>
+
+      {categoryPosts.slice(0,1).map(
+          ({ category, categoryPosts }) => {
+            let makeUrl = category.toLowerCase().replace(/\s+/g, "-");
+        
+            return (
+
+              <link rel="canonical" href={'https://blog.learnbay.co/category/' + makeUrl} />
+              
+            );
+          }
+        )}
+      {/* <html lang="en" /> */}
+      <meta name="robots" content="index, follow"/>
       <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
+      
 
         <title>{categoryPosts.tag}</title>
       </Head>
+
+      
       {/* <section className={styles.blogHead}>
         {categoryPosts.slice(0, 1).map((category) => {
           return <p key={category.tag}>{category.tag}</p>;

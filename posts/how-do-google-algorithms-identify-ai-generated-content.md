@@ -2,6 +2,8 @@
 title: How Do Google Algorithms Identify AI-Generated Content?
 stitle: "How Do Google Algorithms Identify AI-Generated Content?"
 publish: "Published on"
+published_time: "2023-03-29T13:25:31+05:30"
+modified_time: "2023-03-29T13:25:31+05:30"
 desc: "The use of AI-Generated content has grown excessively. In this blog, you will understand how Google detects AI-generated content and what can be the risks of utilizing such content."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdg-1.jpg"

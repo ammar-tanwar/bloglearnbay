@@ -2,6 +2,8 @@
 title: How to Use Python's Pywhatkit Module for Sending Message-Generating Codes?
 stitle: "How to Use Python's Pywhatkit Module for Sending Message-Generating Codes?"
 publish: "Published on"
+published_time: "2023-02-10T13:25:31+05:30"
+modified_time: "2023-02-10T13:25:31+05:30"
 desc: "We have seen various implications of the python programming language. And Python's Pywhatkit module seems to prove a powerful tool for sending message-generating codes. In this blog, you will learn how to configure and run the Pywhatkit module for sending an auto-generated message."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/htup-1.jpg"

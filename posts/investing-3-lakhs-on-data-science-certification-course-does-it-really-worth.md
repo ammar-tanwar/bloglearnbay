@@ -2,6 +2,8 @@
 title: Investing 3 lakhs on Data science Certification Course? Is it really worth it
 stitle: "Investing 3 lakhs on Data science Certification Course? Is it really worth it"
 publish: "Published on"
+published_time: "2022-04-13T13:25:31+05:30"
+modified_time: "2022-04-13T13:25:31+05:30"
 desc: "We all know that data science is a highly fulfilling career with enormous financial prospects. Therefore, enrolling in the best-fit data science course is essential for new graduates as well as working professionals planning for career transition."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/invest.jpeg"

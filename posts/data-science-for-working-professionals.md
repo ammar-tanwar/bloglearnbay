@@ -2,6 +2,8 @@
 title: Data Science for working professionals
 stitle: "Data Science for working professionals"
 publish: "Published on"
+published_time: "2022-07-08T13:25:31+05:30"
+modified_time: "2022-07-08T13:25:31+05:30"
 desc: "A working professional will always find it challenging to change career. However, data science can be a fantastic companion in our efforts. Check out our articles for the most updated tips on learning data science and how it may help you advance your career while maintaining your current professional career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/working1.jpg"

@@ -2,6 +2,8 @@
 title: "DevOps Automation Tools in Retail | 3 Prominent Reasons Why It Needs Attention!"
 stitle: "DevOps Automation Tools for Retail Digital Transformation"
 publish: "Published on"
+published_time: "2023-04-14T13:25:31+05:30"
+modified_time: "2023-04-14T13:25:31+05:30"
 desc: "DevOps Automation tools are replacing traditional physical stores with online retail. Its integrated version of retail operations attains a competitive edge. Read more to know the dynamic shifts in the retail industry with the inclusion of automation."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/devt-1.jpg"

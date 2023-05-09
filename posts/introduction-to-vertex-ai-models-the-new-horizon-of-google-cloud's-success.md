@@ -2,6 +2,8 @@
 title: Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success
 stitle: "Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success"
 publish: "Published on"
+published_time: "2022-09-16T13:25:31+05:30"
+modified_time: "2022-09-16T13:25:31+05:30"
 desc: "Vertex AI is a one-stop shop for data scientists, providing all of the tools they'll need to manage, construct, deploy, interpret, and monitor their models."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg"

@@ -2,6 +2,8 @@
 title: How Can AI Blockchain Help With Modern-day Climate Change?
 stitle: "How Can AI Blockchain Help With Modern-day Climate Change?"
 publish: "Published on"
+published_time: "2022-12-28T13:25:31+05:30"
+modified_time: "2022-12-28T13:25:31+05:30"
 desc: "In this blog, we will learn about blockchain's benefits in environmental and climate change to build unique approaches that will surely contribute to preserving the environment."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hcab-1.png"

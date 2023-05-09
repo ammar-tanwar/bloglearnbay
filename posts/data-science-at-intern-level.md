@@ -2,6 +2,8 @@
 title: How to Get the Best Data Science Internship in 2023?
 stitle: "How to Get the Best Data Science Internship in 2023?"
 publish: "Published on"
+published_time: "2022-01-07T13:25:31+05:30"
+modified_time: "2022-01-07T13:25:31+05:30"
 desc: "A data science internship is a fantastic opportunity to begin a career in the field of data science and AI. Mostly for nontechies, a certification course is not enough to get a job. Know the strategy to successfully get into the data science field."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tbds-1.jpg"

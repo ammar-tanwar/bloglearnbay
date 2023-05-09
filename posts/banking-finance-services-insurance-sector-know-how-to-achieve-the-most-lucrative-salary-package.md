@@ -2,6 +2,8 @@
 title: Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package
 stitle: "Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package"
 publish: "Published on"
+published_time: "2022-04-07T13:25:31+05:30"
+modified_time: "2022-04-07T13:25:31+05:30"
 desc: "The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/job.png"

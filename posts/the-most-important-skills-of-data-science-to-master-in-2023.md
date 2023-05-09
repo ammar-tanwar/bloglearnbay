@@ -1,7 +1,9 @@
 ---
 title: The  Most Important Skills of Data Science To Master in 2023?
 stitle: "The  Most Important Skills of Data Science To Master in 2023?"
-publish: "Published on" 
+publish: "Published on"
+published_time: "2022-08-30T13:25:31+05:30"
+modified_time:  "2022-08-30T13:25:31+05:30"
 desc: "As data becomes increasingly important in our world, it's more important than ever to master the skills of data science. But what skills are most important? In this article, we'll explore the most important skills of data science."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-1.jpg"

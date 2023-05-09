@@ -2,6 +2,8 @@
 title: Why Should You Learn Data Structures and Algorithms (DSA) in Java or Python?
 stitle: "Why Should You Learn Data Structures and Algorithms (DSA) in Java or Python?"
 publish: "Published on" 
+published_time: "2023-03-13T13:25:31+05:30"
+modified_time:  "2023-03-13T13:25:31+05:30"
 desc: "Data Structures and Algorithms (DSA) in Java or Python offer a variety of significant features. In this blog, you will be briefed on how Java and Python prove to be the most convenient programming languages for data structure and algorithms with the support of proper industry-level training."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wsyl-1.jpg"
