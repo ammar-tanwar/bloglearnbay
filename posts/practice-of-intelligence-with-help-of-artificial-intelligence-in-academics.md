@@ -2,6 +2,8 @@
 title: The Practice of Intelligence with help of Artificial Intelligence in Academics
 stitle: "The Practice of Intelligence with help of Artificial Intelligence in Academics"
 publish: "Published on"
+published_time: "2022-04-07T13:25:31+05:30"
+modified_time: "2022-04-07T13:25:31+05:30"
 desc: "AI can help global teaching become a successful venture for teachers to teach students anywhere in the world with the same level of proficiency as a classroom live session."
 
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/robot.jpg"

@@ -2,6 +2,8 @@
 title: Introduction To Data Types - What Does It Mean In Python Programming?
 stitle: "Introduction To Data Types - What Does It Mean In Python Programming?"
 publish: "Published on"
+published_time: "2022-08-22T13:25:31+05:30"
+modified_time: "2022-08-22T13:25:31+05:30"
 desc: "Programming is a combination of different data elements, such as integers, values, and strings called data types. Data types are classes, and variables are instances (objects) for these classes, as everything is an object in python programming."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-1.jpg"

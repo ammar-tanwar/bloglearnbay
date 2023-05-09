@@ -2,6 +2,8 @@
 title: Is AI a threat to humanity?
 stitle: "Is AI a threat to humanity?"
 publish: "Published on"
+published_time: "2019-08-18T13:25:31+05:30"
+modified_time: "2019-08-18T13:25:31+05:30"
 desc: "The alarms rang in Jul 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out I have exposure to the very cutting-edge AI, and I think people should be really concerned about it..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isai.png"

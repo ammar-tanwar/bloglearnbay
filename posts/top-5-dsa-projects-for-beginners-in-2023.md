@@ -1,7 +1,9 @@
 ---
 title: Top 5 DSA Projects for Beginners in 2023!
 stitle: "Top 5 DSA Projects for Beginners in 2023!"
-publish: "Published on" 
+publish: "Published on"
+published_time: "2022-12-12T13:25:31+05:30"
+modified_time:  "2022-12-12T13:25:31+05:30"
 desc: "This article will look at some of the top data structure and algorithm projects that may help you establish a remarkable portfolio and stand out from the crowd. All of these DSA projects are ideal for those new to the DSA field. All of the DSA projects will assist you in showcasing your skills and landing your desired career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-1.jpg"

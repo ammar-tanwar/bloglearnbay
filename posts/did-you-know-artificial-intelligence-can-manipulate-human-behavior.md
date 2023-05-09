@@ -2,6 +2,8 @@
 title: Did You Know Artificial Intelligence Can Manipulate Human Behavior?
 stitle: "Did You Know Artificial Intelligence Can Manipulate Human Behavior?"
 publish: "Published on"
+published_time: "2022-10-12T13:25:31+05:30"
+modified_time: "2022-10-12T13:25:31+05:30"
 desc: "In this blog, we'll look at how Artificial Intelligence (AI) may detect defects in human behavior and utilize them to make decisions. AI has a lot of potential, but it also has a nasty side."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-1.jpg"

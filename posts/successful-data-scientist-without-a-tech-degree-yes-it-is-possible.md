@@ -2,6 +2,8 @@
 title: Successful Data Scientist Without A Tech Degree! Yes, It Is Possible
 stitle: "Successful Data Scientist Without A Tech Degree! Yes, It Is Possible"
 publish: "Published on"
+published_time: "2022-09-22T13:25:31+05:30"
+modified_time:  "2022-09-22T13:25:31+05:30"
 desc: "Are you considering a career in data science, but don't have a tech degree? It is possible to have a successful career in data science without a tech degree. Here's how"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg"

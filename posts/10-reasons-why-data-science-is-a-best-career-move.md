@@ -2,6 +2,8 @@
 title: 10 Reasons Why Data Science is A Best Career Move
 stitle: "10 Reasons Why Data Science is A Best Career Move"
 publish: "Published on"
+published_time: "2018-11-05T13:25:31+05:30"
+modified_time: "2018-11-05T13:25:31+05:30"
 desc: "The field of Data Science is booming because it is validating to be viable not only over businesses but also over divisions inside the businesses as well..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10-reasons-why-data-science-is-a-best-career-move-1.png"

@@ -2,6 +2,8 @@
 title:  What is AIoT? Know Its Advantages in Real-world Scenarios
 stitle: "What is AIoT? Know Its Advantages in Real-world Scenarios"
 publish: "Published on" 
+published_time: "2022-11-28T13:25:31+05:30"
+modified_time:  "2022-11-28T13:25:31+05:30"
 desc: "AIoT, or artificial intelligence of things, is an approach to the development of intelligent systems that use data from sensors and other sources. AIoT is a combination of Artificial intelligence and IoT. In a word, it's the 'next-gen IoT.'"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-1.jpg"

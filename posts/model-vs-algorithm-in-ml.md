@@ -2,6 +2,8 @@
 title: Model vs Algorithm in ML
 stitle: "Model vs Algorithm in ML"
 publish: "Published on"
+published_time: "2021-04-29T13:25:31+05:30"
+modified_time: "2021-04-29T13:25:31+05:30"
 desc: "Machine Learning works with “models” and “algorithms”, and both play an important role in Machine Learning where the algorithm tells about the process and model is built by following those rules..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/model.png"

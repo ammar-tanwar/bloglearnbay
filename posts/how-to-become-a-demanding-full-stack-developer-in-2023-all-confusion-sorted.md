@@ -2,6 +2,8 @@
 title: How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted
 stitle: "How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted"
 publish: "Published on"
+published_time: "2022-09-12T13:25:31+05:30"
+modified_time: "2022-09-12T13:25:31+05:30"
 desc: "In this blog post we will tell you everything you need to know to get started on your career as a full-stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full-stack developer."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg"

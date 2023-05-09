@@ -2,6 +2,8 @@
 title: "Data Scientist Vs. Data Analyst: Know The Ultimate Career Difference"
 stitle: "Data Analyst vs. Data Scientist: Which is Better Career Path in India?"
 publish: "Published on"
+published_time: "2023-04-12T13:25:31+05:30"
+modified_time: "2023-04-12T13:25:31+05:30"
 desc: "This blog is about data scientist vs. data analytics job responsibilities, salaries, criteria, and which one can provide significant growth in the different industries."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-1.jpg"

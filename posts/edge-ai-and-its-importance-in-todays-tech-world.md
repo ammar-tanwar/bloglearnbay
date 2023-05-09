@@ -2,6 +2,8 @@
 title: Edge AI and Its Importance in Today's Tech World!
 stitle: "Edge AI and Its Importance in Today's Tech World!"
 publish: "Published on"
+published_time: "2022-11-30T13:25:31+05:30"
+modified_time: "2022-11-30T13:25:31+05:30"
 desc: "Edge AI is one of the most effective artificial intelligence (AI) programs currently available in the majority of physical devices worldwide. We can quickly access cloud computing while bringing it closer to the user's location with the help of Edge AI technology."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-1.jpg"

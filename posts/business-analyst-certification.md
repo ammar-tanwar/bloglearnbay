@@ -2,6 +2,8 @@
 title: "Business Analyst Certification: 5 Ways to Certify Your Business Acumen"
 stitle: "Business Analyst Certification: A Game Changer for a Successful Career"
 publish: "Published on"
+published_time: "2023-04-28T13:25:31+05:30"
+modified_time: "2023-04-28T13:25:31+05:30"
 desc: "An industry-proven Business analyst certification helps the professionals become pioneers of success in these cutting-edge transformations. Read more to know the additional benefits it may bring you."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bag-1.jpg"

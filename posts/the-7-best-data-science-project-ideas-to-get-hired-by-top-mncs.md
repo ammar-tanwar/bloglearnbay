@@ -2,6 +2,8 @@
 title: The 7 Best Data Science Project Ideas to Get Hired by Top MNCs
 stitle: "The 7 Best Data Science Project Ideas to Get Hired by Top MNCs"
 publish: "Published on"
+published_time: "2023-01-16T13:25:31+05:30"
+modified_time:  "2023-01-16T13:25:31+05:30"
 desc: "Are you a data science professional looking for the best projects to step up your job opportunities? Here is the list of top Data Science projects that can help you to showcase your skills and land you a dream job."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-1.jpg"

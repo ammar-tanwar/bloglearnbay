@@ -21,8 +21,11 @@ export default function Post({ postData, posts }) {
     <>
       <section className={styles.MainS}>
         <Head>
+
           <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
           <title>{postData.stitle}</title>
+          <html lang="en" />
+
           <meta
             name="description"
             content={postData.desc}
@@ -42,7 +45,12 @@ export default function Post({ postData, posts }) {
             name="publisher"
             content="Learnbay"
           />
-          <meta name="robots" content="follow, index" />
+          
+          <meta property="article:published_time" content={postData.published_time}/>
+
+          <meta property="article:modified_time" content={postData.modified_time}/>
+
+          <meta name="robots" content="index, follow"/>
 
 
           <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png"/>

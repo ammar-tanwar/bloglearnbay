@@ -2,6 +2,8 @@
 title:  Top 15 Natural Language Processing Tools for Startups
 stitle: "Top 15 Natural Language Processing Tools for Startups"
 publish: "Published on" 
+published_time: "2023-02-22T13:25:31+05:30"
+modified_time:   "2023-02-22T13:25:31+05:30"
 desc: "Natural Language Processing (NLP) is a branch of artificial intelligence that works on human-computer interactions. In this blog, you will find 15 Natural Language Processing tools and approaches for startups that will assist you in the easy implementation and deployment of various software applications."
 slug: home
 headerAlt: "A banner image titled, 'Top 15 Natural Language Processing Tools for Startups' shows a tab display projects several NLP steps."

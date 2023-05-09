@@ -2,6 +2,8 @@
 title: Top 5 Fascinating AI Blockchain Projects to Master in the Year 2023!
 stitle: "Top 5 Fascinating AI Blockchain Projects to Master in the Year 2023!"
 publish: "Published on" 
+published_time: "2023-03-17T13:25:31+05:30"
+modified_time:  "2023-03-17T13:25:31+05:30"
 desc: "Learn and comprehend the fascinating field of AI blockchain technology and its promising implications for the future. This blog will teach you about the benefits of AI in blockchain projects and their benefits. Additionally, stay up to date with the most recent advancements in artificial intelligence blockchain technology."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fabp-1.png"

@@ -2,6 +2,8 @@
 title: Normal and Gaussian Distribution
 stitle: "Normal and Gaussian Distribution"
 publish: "Published on"
+published_time: "2022-03-29T13:25:31+05:30"
+modified_time: "2022-03-29T13:25:31+05:30"
 desc: "This blog deals with the overall guide on Normal distribution in statistics. Here you will learn the basics of the normal distribution to its applications in statistical analysis by estimating probability distribution and probability."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nagd-1.jpg"

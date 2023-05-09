@@ -2,6 +2,8 @@
 title: You could be a pro in Data Science by Self Assisting
 stitle: "You could be a pro in Data Science by Self Assisting"
 publish: "Published on" 
+published_time: "2022-09-11T13:25:31+05:30"
+modified_time:  "2022-09-11T13:25:31+05:30"
 desc: "Get good at stats, math and machine learning. Take online data course.
 Learn to code. Computer science, development and a language..."
 slug: home

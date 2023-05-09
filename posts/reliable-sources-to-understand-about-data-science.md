@@ -2,6 +2,8 @@
 title: Reliable Resources for Data Science
 stitle: "Reliable Resources for Data Science"
 publish: "Published on"
+published_time: "2022-02-02T13:25:31+05:30"
+modified_time:  "2022-02-02T13:25:31+05:30"
 desc: "Data science is one of the most diversified fields with different in-depth concepts. Here in this blog, you will be briefed on the best sources to learn data science in a very simple and concise manner. It is the most reliable source for you to stay up to date with the latest development in data science."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfds-1.jpg"

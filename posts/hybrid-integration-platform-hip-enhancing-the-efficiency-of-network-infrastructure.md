@@ -2,6 +2,8 @@
 title: Hybrid Integration Platform (HIP) - Enhancing the Efficiency of Network Infrastructure!
 stitle: "Hybrid Integration Platform (HIP) - Enhancing the Efficiency of Network Infrastructure!"
 publish: "Published on"
+published_time: "2023-02-17T13:25:31+05:30"
+modified_time: "2023-02-17T13:25:31+05:30"
 desc: "Learn how hybrid integration platforms can help improve the efficacy of network infrastructure by leveraging various technologies and frameworks. In this section, we'll also go over the benefits it can offer any industry or large-scale organization."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eten-1.jpg"

@@ -2,6 +2,8 @@
 title: Understanding Different Job Opportunities of Data Science
 stitle: "Understanding Different Job Opportunities of Data Science"
 publish: "Published on"
+published_time: "2020-11-07T13:25:31+05:30"
+modified_time: "2020-11-07T13:25:31+05:30"
 desc: "To maintain and sustain any job opportunities in data science is a bliss in life, not only because it rains money but for the professional stability and experience one gets about technology..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/diff.jpg"
