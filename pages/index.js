@@ -48,7 +48,7 @@ export default function blog({ allPostsData }) {
 
         <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
           <p>Latest Blogs</p>
-          {/* <Search /> */}
+       
           <Sidebar />
           {/* <a href={`/blogs`} className={styles.blogButton}>
             <button>View All Blogs</button>
