@@ -24,7 +24,7 @@ export default function blog({ allPostsData }) {
 
     <>
       <Head>
-        <html lang="en" />
+        {/* <html lang="en" /> */}
         <title>Learnbay Blogs</title>
         {/* <html lang="en" /> */}
         <meta name="description" content="Learnbay Blogs" />
