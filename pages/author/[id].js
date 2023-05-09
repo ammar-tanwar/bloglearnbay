@@ -53,7 +53,7 @@ export default function CategoryBlog({ categoryPosts }) {
         <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
 
         <title>{categoryPosts.tag}</title>
-        <html lang="en" />
+        {/* <html lang="en" /> */}
         <meta name="robots" content="index, follow"/>
       </Head>
       {/* <section className={styles.blogHead}>

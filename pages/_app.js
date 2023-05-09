@@ -4,8 +4,6 @@ import Footer from "../components/Footer/Footer";
 import "../styles/form.css";
 import React from "react";
 import Script from "next/script";
-import Head from "next/head";
-
 
 function MyApp({ Component, pageProps }) {
 

@@ -24,7 +24,7 @@ export default function Post({ postData, posts }) {
 
           <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
           <title>{postData.stitle}</title>
-          <html lang="en" />
+          {/* <html lang="en" /> */}
 
           <meta
             name="description"

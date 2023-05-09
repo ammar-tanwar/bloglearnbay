@@ -36,7 +36,7 @@ export default function CategoryBlog({ categoryPosts }) {
             );
           }
         )}
-      <html lang="en" />
+      {/* <html lang="en" /> */}
       <meta name="robots" content="index, follow"/>
       <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
       

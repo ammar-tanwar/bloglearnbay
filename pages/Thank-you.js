@@ -12,7 +12,7 @@ const ThankYou = () => {
       <Head>
         <title>Thank you!</title>
         <link rel="canonical" href="https://blog.learnbay.co/Thank-you" />
-        <html lang="en" />
+        {/* <html lang="en" /> */}
         <meta name="robots" content="index, follow"/>
         <meta name="description" content="Thank you!" />
       </Head>
