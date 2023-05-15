@@ -1,10 +1,10 @@
 ---
 title: 7 Best Machine Learning companies to work for in Bangalore 2023
-stitle: "7 Best Machine Learning companies to work for in Bangalore 2023"
+stitle: "7 Best Machine Learning Companies in Bangalore - Learnbay Blog"
 publish: "Published on"
 published_time: "2022-09-7T13:25:31+05:30"
 modified_time: "2022-09-7T13:25:31+05:30"
-desc: "Looking for a job in machine learning? Bangalore is one of the best places to work in this field, and we've got a list of the top 7 companies to work for in 2023."
+desc: "Bangalore is one of the best places to work for AI & Machine Learning Professionals, and discover a list of the top 7 machine learning companies to work for in 2023."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7-machine-1.jpg"
 headerAlt: "A banner image shows stacks of high-raised office buildings of machine learning companies."

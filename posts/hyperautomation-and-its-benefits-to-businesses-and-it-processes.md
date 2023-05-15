@@ -1,10 +1,10 @@
 ---
 title:  Hyperautomation and Its Benefits to Businesses and IT Processes
-stitle: "Hyperautomation and Its Benefits to Businesses and IT Processes"
+stitle: "Hyperautomation and Its Benefits - Learnbay"
 publish: "Published on"
 published_time: "2022-11-16T13:25:31+05:30"
 modified_time: "2022-11-16T13:25:31+05:30"
-desc: "Hyperautomation is the hot new thing in business and IT processes. In this article, we'll explore what hyperautomation is, its benefits, and how businesses and IT departments can make use of it."
+desc: "Hyperautomation is the hot new thing in business and IT processes. Herewe'll explore what hyperautomation is, its benefits, and how businesses make use of it."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hyp-1.jpg"
 headerAlt: "A desktop monitor displays a pie chart and a bar graph, side-by-side. The accompanying text reads, 'Hyperautomation and Its Benefits to Businesses and IT Processes.'"

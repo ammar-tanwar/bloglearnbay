@@ -1,6 +1,6 @@
 ---
 title: Exploratory Data Analysis on Iris dataset
-stitle: "Exploratory Data Analysis on Iris dataset"
+stitle: "Exploratory Data Analysis On Iris Dataset - Learnbay Blog"
 publish: "Published on"
 published_time: "2021-01-03T13:25:31+05:30"
 modified_time: "2021-01-03T13:25:31+05:30"

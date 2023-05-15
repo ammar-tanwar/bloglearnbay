@@ -1,10 +1,10 @@
 ---
 title: Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Method
-stitle: "Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Method"
+stitle: "Fundamentals of Bagging and Boosting in Machine Learning"
 publish: "Published on"
 published_time: "2023-03-15T13:25:31+05:30"
 modified_time: "2023-03-15T13:25:31+05:30"
-desc: "Bagging and boosting in machine learning are the two most popular techniques. This blog will brief you on the various advantages and disadvantages of bagging and boosting. And how it can be used to improve the performance of any machine learning model."
+desc: "Bagging and boosting in machine learning are two most popular techniques. This blog will brief you on the various advantages and disadvantages of bagging and boosting."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fbab-1.png"
 headerAlt: "A banner image titled, 'Fundamentals of Bagging and Boosting in Machine Learning: Ensemble Method,' which shows a process workflow chart."

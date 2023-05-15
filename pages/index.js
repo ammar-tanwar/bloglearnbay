@@ -24,9 +24,9 @@ export default function blog({ allPostsData }) {
 
     <>
       <Head>
-        <title>Learnbay Blogs</title>
+        <title>LearnBay Blogs - Latest Career Upskilling Trends and Learning Resources</title>
     
-        <meta name="description" content="Learnbay Blogs" />
+        <meta name="description" content="Stay Ahead with LearnBay Blogs on Upskilling Resources & IT Careers in AI, Data Science, Machine Learning & Full Stack Development For Learners & Professionals " />
         <link href="/Learnbay-Favicon-L.png" />
         <meta name="google-site-verification" content="q2xA2OZrvhAj8r1YGNF_3x5m5GuWCqo9rNb7atG4mXU" />
         <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />

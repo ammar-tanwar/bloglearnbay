@@ -1,10 +1,10 @@
 ---
 title:  Fact or Hype - An IBM Data Science Professional Certificate Can Boost Your Career At 10x Speed
-stitle: "Fact or Hype - An IBM Data Science Professional Certificate Can Boost Your Career At 10x Speed"
+stitle: "Boost Your Career with IBM Certified Data Science Program"
 publish: "Published on"
 published_time: "2022-11-25T13:25:31+05:30"
 modified_time: "2022-11-25T13:25:31+05:30"
-desc: "A series of unique data science professional certifications are successfully boosting working professional's careers. This blog will shed light on such unique IBM data science certification."
+desc: "This blog will shed light on how a series of unique data science professional certifications are successfully boosting working professional's careers."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/foh-1.jpg"
 headerAlt: "A man with a rocket launcher at his back is flying high, indicating IBM data science professional certificate can boost a career at 10x speed. An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing. "

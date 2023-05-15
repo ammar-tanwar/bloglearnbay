@@ -1,10 +1,10 @@
 ---
 title: Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?
-stitle: "Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?"
+stitle: "Data Science Jobs in HealthCare -Learnbay"
 publish: "Published on"
 published_time: "2022-04-06T13:25:31+05:30"
 modified_time: "2022-04-06T13:25:31+05:30"
-desc: "Data science jobs have been diversified in both technical and non-technical sectors. Here in this blog, you will get to know the data science jobs in the healthcare sector with the various opportunities and trends on how they will help you secure attractive packages in the coming era."
+desc: "In this blog, you will get to know the data science jobs in the healthcare sector with the various opportunities and trends."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dhjt-1.png"
 headerAlt: "A banner image titled, 'Data Science In Healthcare, Pharma, and Clinical Research Domain,' shows a doctor's hand holding a heart-shape object. The object shows ECG graph."

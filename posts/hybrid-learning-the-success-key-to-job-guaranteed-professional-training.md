@@ -1,10 +1,10 @@
 ---
 title: Hybrid Learning- The Success Key To Job-Guaranteed Professional Training
-stitle: "Hybrid Learning- The Success Key To Job-Guaranteed Professional Training"
+stitle: "What is Hybrid Learning? Learn its benefits - LearnBay Blog"
 publish: "Published on"
 published_time: "2022-08-31T13:25:31+05:30"
 modified_time: "2022-08-31T13:25:31+05:30"
-desc: "Hybrid learning is the combination of learning online and on-site. A hybrid class design course is how subjects are taught online, and the other activities, like capstone projects and interview preparation, are taught in a classroom dedicated to such activities."
+desc: "Explore the benefits & opportunities of hybrid learning, ensuring job-guaranteed professional training. "
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hybrid-1.jpeg"
 headerAlt: "A professional studying online while enjoying the benefits of offline classes."

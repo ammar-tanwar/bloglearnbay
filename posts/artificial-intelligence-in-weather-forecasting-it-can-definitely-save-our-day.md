@@ -1,10 +1,10 @@
 ---
 title: Artificial Intelligence in Weather Forecasting - It Can Definitely Save Our Day
-stitle: "Artificial Intelligence in Weather Forecasting - It Can Definitely Save Our Day"
+stitle: "Artificial Intelligence in Weather Forecasting"
 publish: "Published on"
 published_time: "2022-11-07T13:25:31+05:30"
 modified_time: "2022-11-07T13:25:31+05:30"
-desc: "Artificial intelligence is playing an increasingly important role in weather forecasting. Data mining techniques are helping us to predict the weather more accurately, and this can definitely save us from bad weather."
+desc: "Discover how artificial intelligence is revolutionizing weather forecasting. Learn how AI algorithms analyze vast data sets to provide accurate forecasts."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aii-1.jpg"
 headerAlt: "A visual representation of the weather forecast using a robotic arm and a weather forcasting display."

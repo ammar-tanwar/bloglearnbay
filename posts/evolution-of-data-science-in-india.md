@@ -1,10 +1,10 @@
 ---
 title: Evolution of Data Science in India
-stitle: "Evolution of Data Science in India"
+stitle: "Evolution of Data Science in India - Learnbay Blog"
 publish: "Published on"
 published_time: "2020-02-07T13:25:31+05:30"
 modified_time: "2020-02-07T13:25:31+05:30"
-desc: "When we talk about evolution of Data Science, we mean about the origin of Statistics, because the term “Data Science” is a tailored term to the original term “Statistics“..."
+desc: "Explore the journey of data science in India, from its inception to the present day. Gain valuable insights from experts and stay ahead in the data science revolution."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/evolution.jpg"
 headerAlt: ""

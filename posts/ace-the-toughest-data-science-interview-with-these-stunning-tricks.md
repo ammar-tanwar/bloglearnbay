@@ -1,10 +1,10 @@
 ---
 title: Ace The Toughest Data Science Interview With These Stunning Tricks
-stitle: "Ace The Toughest Data Science Interview With These Stunning Tricks"
+stitle: "Top Data Science Interview Tips and Tricks - Learnbay"
 publish: "Published on"
 published_time: "2022-09-05T13:25:31+05:30"
 modified_time: "2022-09-05T13:25:31+05:30"
-desc: "Are you looking for data science interview tips? This article will give you some of the best tips for data science interview preparation. From preparing ahead of time to knowing what to expect, we've got you covered."
+desc: "From preparing ahead of time to knowing what to expect, this article will give you some of the best tips for data science interview preparation."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ace-1.jpg"
 headerAlt: "A data science aspirant seated in front of a laptop analyzes numerous data science interview preparations."
