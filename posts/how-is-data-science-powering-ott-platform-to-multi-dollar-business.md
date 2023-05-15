@@ -1,10 +1,10 @@
 ---
 title: How Is Data Science Powering OTT Platform to Multi-Dollar Business
-stitle: "How Is Data Science Powering OTT Platform to Multi-Dollar Business"
+stitle: "Data Science Empowering OTT Platform Business - LearnBay Blog"
 publish: "Published on"
 published_time: "2022-12-26T13:25:31+05:30"
 modified_time: "2022-12-26T13:25:31+05:30"
-desc: "OTT platforms are generally a type of audio and video services that are delivered over the internet. In this article, we'll show you how to use data science to build an OTT platform that can be used to grow your business in a number of ways."
+desc: "Know how fusion of Data Science and OTT platforms is revolutionizing the entertainment industry, driving unprecedented growth & transforming businesses."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/popt-1.png"
 headerAlt: "A banner image titled, ' Application of AI in Social Media Content Optimization' contains the logo of YouTube, Facebook, Twitter, and Instagram."

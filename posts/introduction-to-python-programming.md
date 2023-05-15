@@ -1,10 +1,10 @@
 ---
 title: Introduction to Python Programming
-stitle: "Introduction to Python Programming"
+stitle: "Introduction to Python Programming - Learnbay Blog"
 publish: "Published on"
 published_time: "2022-04-27T13:25:31+05:30"
 modified_time: "2022-04-27T13:25:31+05:30"
-desc: "Python is a general-purpose, interpreted, and dynamic programming language that belongs to high-level programming language divisions. Python is commonly used for application development because it supports object-oriented programming approach..."
+desc: "The Python programming language is a high-level, general-purpose language. The object-oriented programming approach made it ideal for application development."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/soft.jpg"
 headerAlt: "An image shows the use of various python software such as web development, 3D CAD Applications, Machine Learning, Scripting, Analysis Data, Data Mining, Processing of Images, Artificial intelligence, Speech recognition, development of Software, Developing Desktop & mobile application, and Development of games."

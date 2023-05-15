@@ -1,10 +1,10 @@
 ---
 title: Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break
-stitle: "Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break"
+stitle: "Exploratory Data Analysis on Iris Dataset - Learnbay Blog"
 publish: "Published on"
 published_time: "2022-09-30T13:25:31+05:30"
 modified_time: "2022-09-30T13:25:31+05:30"
-desc: "Looking for a way to jumpstart your career after taking a break? Our full stack software developer course is designed specifically for women who want to make a successful career restart."
+desc: "Full stack software developer course by Learnbay is designed specifically for women who want to make a successful career restart after a career break."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f1.jpg"
 headerAlt: "A banner image shows a woman seated with a job offer as a full-stack software developer. The text reads, 'let's get started.'"

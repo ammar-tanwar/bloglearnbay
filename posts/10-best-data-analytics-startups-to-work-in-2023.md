@@ -1,10 +1,10 @@
 ---
 title: 10 Best Data Analytics Startups to Work in 2023
-stitle: "10 Best Data Analytics Startups to Work in 2023"
+stitle: "10 Best Data Analytics Startups to Work in 2023 - Learnbay"
 publish: "Published on"
 published_time: "2023-01-04T13:25:31+05:30"
 modified_time: "2023-01-04T13:25:31+05:30"
-desc: "Data analytics startups have gained a huge surge in the field of the technology sector. In this blog, you will be acknowledged by the most prominent startups that will surely help you to boost your career and land your dream position in the data analytics sector."
+desc: "Data analytics startups have gained a huge surge in the field of the technology sector. Know about the most prominent startups that will help you to boost your career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdas-1.png"
 headerAlt: "A banner image titled 'Best data analytics startups' shows the use of data analysis in civil engineering, rocket science, and analytical graph."

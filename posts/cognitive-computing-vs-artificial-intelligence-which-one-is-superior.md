@@ -1,10 +1,10 @@
 ---
 title: Cognitive Computing vs. Artificial Intelligence | Which One Is Superior?
-stitle: "Cognitive Computing vs. Artificial Intelligence | Which One Is Superior?"
+stitle: "Cognitive Computing v/s Artificial Intelligence - Learnbay Blog"
 publish: "Published on"
 published_time: "2023-02-15T13:25:31+05:30"
 modified_time: "2023-02-15T13:25:31+05:30"
-desc: "People mostly get confused with Cognitive computing and artificial intelligence . In fact, there is another term, ‘cognitive AI.’ Know the difference between these and evaluate which is more in demand."
+desc: "In this blog we will get to know the key differences between Cognitive Computing and Artificial Intelligence and evaluate which is more in demand."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ccai-1.jpg"
 headerAlt: "A banner image titled, 'Cognitive Computing vs. Artificial Intelligence, which One Is Superior?'. It also shows two robots walking in opposite directions on the blue and red arrow signs."

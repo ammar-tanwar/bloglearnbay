@@ -1,10 +1,10 @@
 ---
 title:  Cloud Computing and Machine Learning - How These Two Become Relevant
-stitle: "Cloud Computing and Machine Learning - How These Two Become Relevant"
+stitle: "Relevancy Between Cloud Computing and Machine Learning"
 publish: "Published on"
 published_time: "2022-10-25T13:25:31+05:30"
 modified_time: "2022-10-25T13:25:31+05:30"
-desc: "Cloud computation and machine learning are ruling the industry for a long period of time. Both of these technologies are critical to the growth of both small and large businesses. It serves as an organization's technology hub. Organizations can use cloud computing to process large amounts of data and get relevant results in real-time."
+desc: "Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-1.jpg"
 headerAlt: "An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing."

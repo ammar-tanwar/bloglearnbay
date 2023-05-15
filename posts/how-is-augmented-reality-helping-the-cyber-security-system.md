@@ -4,7 +4,7 @@ stitle: "How is Augmented Reality Helping the Cyber Security System?"
 publish: "Published on"
 published_time: "2022-11-14T13:25:31+05:30"
 modified_time: "2022-11-14T13:25:31+05:30"
-desc: "Learn how Augmented Reality is helping the cyber security system by providing a new level of security for businesses and organizations.  AR can be used to detect and respond to potential threats in real time, making it a valuable tool for keeping businesses and individuals safe. Read more to find out how augmented reality is changing the landscape of cyber security."
+desc: "Artificial Intelligence in cyber security system is providing a new level of security for businesses and how AR is changing the landscape of cyber security."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-1.jpg"
 headerAlt: "The banner image displays a human hand pointing toward  numerous AR features in cybersecurity."

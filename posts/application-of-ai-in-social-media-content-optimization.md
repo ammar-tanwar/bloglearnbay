@@ -1,10 +1,10 @@
 ---
 title:  Application of AI in Social Media Content Optimization
-stitle: "Application of AI in Social Media Content Optimization"
+stitle: "Applications of AI in Social Media Content Optimization - LearBay Blog"
 publish: "Published on"
 published_time: "2023-12-19T13:25:31+05:30"
 modified_time: "2023-12-19T13:25:31+05:30"
-desc: "With continuous advancement, we have observed numerous applications of AI in social media. AI continuously alters social media platforms outcomes by enhancing client engagement and data security through in-depth predictive analysis. Here, you will learn more about how artificial intelligence enhances social media."
+desc: "Discover how AI enhances social media content optimization, increasing engagement and expanding reach. Learn about the latest applications and strategies."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-1.jpg"
 headerAlt: "A banner image titled, ' Application of AI in Social Media Content Optimization' contains the logo of YouTube, Facebook, Twitter, and Instagram."
