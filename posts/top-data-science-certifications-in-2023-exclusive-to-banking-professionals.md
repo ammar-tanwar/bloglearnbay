@@ -1,10 +1,10 @@
 ---
 title: Top Data Science Certifications In 2023 - Exclusive To Banking Professionals
-stitle: "Top Data Science Certifications In 2023 - Exclusive To Banking Professionals"
+stitle: "Top Data Science Certifications For Banking Professionals in 2023"
 publish: "Published on" 
 published_time: "2023-01-13T13:25:31+05:30"
 modified_time:  "2023-01-13T13:25:31+05:30"
-desc: "If you are a finance or banking professional looking for a data science course that can increase your salary by 400%, then check out our list of the best data science certification programs and financial analytics training courses that will undoubtedly help you land a job at a top fintech company and advance your career opportunities."
+desc: "Are you a banking professional ? Looking for a data science course then check out a list of the data science certification course that help you land a job at a top tech company."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-1.jpeg"
 headerAlt: "An illustration shows two data science professionals busy discussing data science certification."

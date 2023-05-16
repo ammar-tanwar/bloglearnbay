@@ -1,10 +1,10 @@
 ---
 title: What Are The Differences Between Deep Learning and Neural Networks?
-stitle: "What Are The Differences Between Deep Learning and Neural Networks?"
+stitle: "Differences Between Deep Learning and Neural Networks"
 publish: "Published on" 
 published_time: "2023-01-30T13:25:31+05:30"
 modified_time:  "2023-01-30T13:25:31+05:30" 
-desc: "Deep learning and neural networks in machine learning have always provided a better approach when implementing any ML-related tasks or projects. In this blog, you will be briefed on the key differences between deep learning and neural networks, which will assist you in determining which approach is best for your needs."
+desc: "In this blog, you will learn the key differences between deep learning and neural networks, which will assist you in determining which approach is best for your needs."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dlnn-1.jpg"
 headerAlt: "A banner image titled, 'Differences Between Deep Learning and Neural Networks', shows an AI-based robotic hand holding a human brain."

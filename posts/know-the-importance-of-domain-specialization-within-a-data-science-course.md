@@ -1,10 +1,10 @@
 ---
 title: Know The Importance of Domain Specialization Within a Data Science Course
-stitle: "Know The Importance of Domain Specialization Within a Data Science Course"
+stitle: "Importance of Domain Specialization in Data Science course"
 publish: "Published on"
 published_time: "2022-12-14T13:25:31+05:30"
 modified_time: "2022-12-14T13:25:31+05:30"
-desc: "Data Science is an increasingly popular field, and understanding the importance of Domain Specialization within a Data Science Course can help make your study more productive and successful. Learn why Domain Knowledge is essential, and how it can help you maximize your data science skills in this blog."
+desc: "In this blog, Learn why Domain Specialization in data science is essential and how it can help you to maximise your data science skill."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/kti-1.jpg"
 headerAlt: "An image titled, 'Know The Importance of Domain Specialization Within a Data Science Course.'"

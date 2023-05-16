@@ -1,10 +1,10 @@
 ---
 title: "Python 2 Vs Python 3: Know How They Differ?"
-stitle: "Python 2 vs Python 3: Differences That Every Data Science Aspirant Should Know"
+stitle: "Differences Between Python 2 vs Python 3 | Learnbay Blog"
 publish: "Published on"
 published_time: "2023-04-24T13:25:31+05:30"
 modified_time: "2023-04-24T13:25:31+05:30"
-desc: "Python 2 Vs. Python 3 has become a hot topic for python beginners in data science and AI. Here we have examined various differences between both and explained which could be a better alternative."
+desc: "Python 2 Vs Python 3 has become a hot topic for python in data science and AI. Here we examined differences between both and explained which could be better alternative."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pyt-1.jpg"
 headerAlt: "An illustrative banner image titled, 'Python 2 Vs Python 3: Know how they differ?' shows a person seated on a chair using two laptops. Both laptops show the Python logo."

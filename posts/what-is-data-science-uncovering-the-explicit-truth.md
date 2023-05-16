@@ -1,6 +1,6 @@
 ---
 title: What is Data Science? | Uncovering The Explicit Truth
-stitle: "What is Data Science? | Uncovering The Explicit Truth"
+stitle: "The explicit truth about data science | Learnbay"
 publish: "Published on"
 published_time: "2022-08-26T13:25:31+05:30"
 modified_time:  "2022-08-26T13:25:31+05:30" 

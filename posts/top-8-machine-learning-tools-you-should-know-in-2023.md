@@ -4,7 +4,7 @@ stitle: "Top 8 Machine Learning Tools You Should Know in 2023"
 publish: "Published on" 
 published_time: "2022-03-01T13:25:31+05:30"
 modified_time:   "2022-03-01T13:25:31+05:30"
-desc: "Every tech industry incorporates machine learning tools and algorithms into their regular operations. This blog will provide you with information about the top eight machine learning tools and their key features, which are crucial for any ML enthusiast."
+desc: "This blog you will learn top 8 machine learning tools and their key features. Every tech industry incorporates ML tools and algorithms into their regular operations."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mlt-1.png"
 headerAlt: 'A banner image titled, "Top 8 Machine Learning Tools to Know in 2023" shows a humanoid brain in a circular illuminating ring.'

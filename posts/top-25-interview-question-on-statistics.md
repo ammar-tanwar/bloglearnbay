@@ -1,10 +1,10 @@
 ---
 title:  Top 25 interview question on Statistics
-stitle: "Top 25 interview question on Statistics"
+stitle: "Top 25 interview question on Statistics - Learnbay Blog"
 publish: "Published on" 
 published_time: "2022-01-24T13:25:31+05:30"
 modified_time:   "2022-01-24T13:25:31+05:30"
-desc: "Every member and set of members have an equal chance of being included in the sample. Technology, random number generators, or some other sort of change process is needed to get a simple random sample."
+desc: "Are you preparing for a statistics interview? Stay ahead of the competition with this comprehensive guide to the 25 most important interview question on Statistics."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-1.jpg"
 headerAlt: ""

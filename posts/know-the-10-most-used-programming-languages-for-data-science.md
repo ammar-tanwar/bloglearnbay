@@ -1,6 +1,6 @@
 ---
 title: Know The 10 Most Used Programming Languages For Data Science
-stitle: "Know The 10 Most Used Programming Languages For Data Science"
+stitle: "Top 10 Most Used Programming Languages For Data Science"
 publish: "Published on"
 published_time: "2022-11-18T13:25:31+05:30"
 modified_time: "2022-11-18T13:25:31+05:30"

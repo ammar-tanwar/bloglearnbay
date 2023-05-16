@@ -1,10 +1,10 @@
 ---
 title: Operators in Python - Operation using Symbol
-stitle: "Operators in Python - Operation using Symbol"
+stitle: "Operators in Python | Operation using Symbol - Learnbay Blog"
 publish: "Published on"
 published_time: "2022-09-14T13:25:31+05:30"
 modified_time: "2022-09-14T13:25:31+05:30"
-desc: "Python has a set of built-in operators that can be used on different data types. These operators are represented by symbols that you can use in your Python code. In this article, we will learn about the different operators in Python and how to use them."
+desc: "Python has a set of built-in operators that can be used on different data types. In this blog, we will learn about the different operators in Python and how to use them."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg"
 headerAlt: "A banner image titled, 'operator in python.'"
