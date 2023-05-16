@@ -1,10 +1,10 @@
 ---
 title: Types of Machine Learning Models - Quickly Explained
-stitle: "Types of Machine Learning Models - Quickly Explained"
+stitle: "A quick guide to the types of Machine Learning Models"
 publish: "Published on" 
 published_time: "2023-01-09T13:25:31+05:30"
 modified_time:  "2023-01-09T13:25:31+05:30" 
-desc: "There are various types of machine learning models, and each model has its unique characteristics and features. Here in this blog, you will be briefed on various types of machine learning models that you need to know, which will help you to easily comprehend their work patterns and use cases."
+desc: "In this blog, you will learn about types of machine learning models that you need to know, which will help you to easily comprehend their work patterns and use cases."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/toml-1.jpg"
 headerAlt: "An image titled 'Machine Learning Models' depicts an AI-powered robot standing and working in front of a large screen."

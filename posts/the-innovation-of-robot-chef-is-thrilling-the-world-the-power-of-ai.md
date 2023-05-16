@@ -1,10 +1,10 @@
 ---
 title:  The Innovation of Robot Chef is Thrilling The World! | The Power of AI
-stitle: "The Innovation of Robot Chef is Thrilling The World! | The Power of AI"
+stitle: "Thrilling the World: The Innovation of Robot Chef and the Power of AI"
 publish: "Published on"
 published_time: "2022-11-04T13:25:31+05:30"
 modified_time:  "2022-11-04T13:25:31+05:30"
-desc: "Have you ever considered having your food prepared by a robot chef? Many contend that this concept is impractical and unrelated to reality. But the recent invention has thrilled the world by creating an AI-bot chef, which mimics and cooks food like a top-rated human chef. In fact, such innovative robot chefs are available in India too."
+desc: "Discover the incredible innovation of robot chefs powered by AI technology that is revolutionizing the culinary world. Explore the features, benefits & impact of cooking automation."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-1.jpg"
 headerAlt: "A robot wearing a chef outfit and holding a pan, resembling a real robot chef. The accompanying Text reads, 'The Innovation of Robot Chef is Thrilling The World! The Power of AI'"

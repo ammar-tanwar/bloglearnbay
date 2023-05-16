@@ -1,10 +1,10 @@
 ---
 title: Top Courses in 2023 for a Full-Stack Software Developer
-stitle: "Top Courses in 2023 for a Full-Stack Software Developer"
+stitle: "Top Courses for a Full-Stack Software Developer in 2023"
 publish: "Published on" 
 published_time: "2023-01-13T13:25:31+05:30"
 modified_time:  "2023-01-13T13:25:31+05:30"
-desc: "If you're looking for the best full-stack software development course, this blog post is for you. Here is a list of some of the best courses, ranging from beginner to advanced, that can help you easily choose a career as a full-stack software developer."
+desc: "are you looking for the full-stack software development course? Here is a list of best courses that can help you to choose a career as a full-stack software developer."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tcfs-1.jpg"
 headerAlt: "An illustration shows two full-stack software professionals are using multiple screens. There are several laptops and displays in the between showing HTML, CSS, jS, PHP, etc"

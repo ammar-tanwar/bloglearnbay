@@ -1,10 +1,10 @@
 ---
 title: The Top 10 Deep Learning Algorithms to Master in 2023
-stitle: "The Top 10 Deep Learning Algorithms to Master in 2023"
+stitle: "Top 10 Deep Learning Algorithms in 2023 | learnbay"
 publish: "Published on" 
 published_time: "2022-12-07T13:25:31+05:30"
 modified_time:  "2022-12-07T13:25:31+05:30"
-desc: "The article discusses deep learning algorithms and some of the most effective machine learning tools. These algorithms are highly capable of making predictions, finding data patterns, and decision-making techniques. Read on to gain knowledge of deep learning algorithms with optimal methods and advantages."
+desc: "Read on to learn more about deep learning algorithms with best practices and benefits that are able to make predictions, find data patterns, and make decisions."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-1.jpg"
 headerAlt: "A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."

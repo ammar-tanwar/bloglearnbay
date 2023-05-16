@@ -1,10 +1,10 @@
 ---
 title: NLP and Deep Learning for Data Scientists
-stitle: "NLP and Deep Learning for Data Scientists"
+stitle: "NLP and Deep Learning for Data Scientists - Learnbay Blog"
 publish: "Published on"
 published_time: "2020-12-17T13:25:31+05:30"
 modified_time: "2020-12-17T13:25:31+05:30"
-desc: "Deep learning and natural language processing (NLP and Deep Learning) are as busy as they’ve always been..."
+desc: "Deep learning and natural language processing are as busy as they’ve always been. The most in-demand technologies are deep learning and natural language processing."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nlp.jpg"
 headerAlt: ""

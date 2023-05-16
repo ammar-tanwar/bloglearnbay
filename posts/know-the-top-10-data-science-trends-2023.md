@@ -1,10 +1,10 @@
 ---
 title: Know The Top 10 Data Science Trends (2023)
-stitle: "Know The Top 10 Data Science Trends (2023)"
+stitle: "Top 10 Data Science Trends in 2023 | Learnbay"
 publish: "Published on"
 published_time: "2022-05-25T13:25:31+05:30"
 modified_time: "2022-05-25T13:25:31+05:30"
-desc: "From Blockchain to Data Regulation, we have covered the top 10 data science trends for 2023 that will shape the future of data science. Read our blog post to stay ahead of the competition."
+desc: "In this blog, We will tell you about the Latest Data Science trends in 2023. Data science, AI and Big Data are the leading technologies that have empowered businesses."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends.jpg"
 headerAlt: "An illustration shows a boy and an AI-based robot are playing video games while sitting together. The background shows a desk and laptop setup, a bookshelf, and an AI-based dog."

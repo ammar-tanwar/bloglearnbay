@@ -1,10 +1,10 @@
 ---
 title:  Top 8 Domains For Data Science Those Offering Tempting Job Opportunities
-stitle: "Top 8 Domains For Data Science Those Offering Tempting Job Opportunities"
+stitle: "Top 8 Domains For Tempting Data Science Job Opportunities"
 publish: "Published on" 
 published_time: "2022-10-19T13:25:31+05:30"
 modified_time:   "2022-10-19T13:25:31+05:30"
-desc: "Check out our list of the top 8 domains for data science that are offering tempting job opportunities. We will tell you about the skills you need to succeed in each domain and the types of jobs that are available."
+desc: "Discover the best domains for data science job opportunities. Explore how these domains can enhance your career and find out why they are in high demand."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d0.jpg"
 headerAlt: "A banner image represents the diversity of data science and the various data scientist job responsibilities."

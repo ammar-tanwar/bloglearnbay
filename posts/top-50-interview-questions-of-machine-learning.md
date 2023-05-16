@@ -1,10 +1,10 @@
 ---
 title: Top 50 Interview Questions of Machine Learning
-stitle: "Top 50 Interview Questions of Machine Learning"
+stitle: "Top 50 Interview Questions of Machine Learning - LearnBay"
 publish: "Published on" 
 published_time: "2023-01-18T13:25:31+05:30"
 modified_time:   "2023-01-18T13:25:31+05:30"
-desc: "Get prepared for your machine learning interview with our list of the top 50 most commonly asked interview questions. From linear regression to time series, these questions cover a wide range of topics and will help you showcase your knowledge and skills in the field of machine learning. Improve your chances of landing the job by reviewing these essential interview questions of machine learning."
+desc: "Prepare for your interview with our 50 most asked interview questions of ML. These questions cover a wide range of topics and will help you demonstrate your ML skills."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview.jpg"
 headerAlt: ""

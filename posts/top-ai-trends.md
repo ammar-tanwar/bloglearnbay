@@ -1,6 +1,6 @@
 ---
 title: "What Are the Next Big Trends in AI? | Latest AI Trends to Look Out"
-stitle: "Top 7 AI Trends You Need to Know | 2023 Update"
+stitle: "Top 7 AI Trends Everyone Need To Know - Learnbay Blog "
 publish: "Published on"
 published_time: "2023-04-26T13:25:31+05:30"
 modified_time:  "2023-04-26T13:25:31+05:30"

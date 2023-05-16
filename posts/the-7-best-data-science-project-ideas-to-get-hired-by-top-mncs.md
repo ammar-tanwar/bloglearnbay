@@ -1,10 +1,10 @@
 ---
 title: The 7 Best Data Science Project Ideas to Get Hired by Top MNCs
-stitle: "The 7 Best Data Science Project Ideas to Get Hired by Top MNCs"
+stitle: "7 Best Data science Project Ideas To Get Hired By MNCs"
 publish: "Published on"
 published_time: "2023-01-16T13:25:31+05:30"
 modified_time:  "2023-01-16T13:25:31+05:30"
-desc: "Are you a data science professional looking for the best projects to step up your job opportunities? Here is the list of top Data Science projects that can help you to showcase your skills and land you a dream job."
+desc: "Are you a data science expert looking for projects to improve your job opportunities? Here’s a list of data science projects that help you to find a job."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdsp-1.jpg"
 headerAlt: "A banner image titled, 'The 7 Best Data Science Project Ideas to Get Hired by Top MNCs' shows a laptop running various analytics and data science applications."

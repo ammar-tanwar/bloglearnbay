@@ -1,10 +1,10 @@
 ---
 title: What is Supervised, Unsupervised Learning, and Reinforcement Learning in Machine Learning
-stitle: "What is Supervised, Unsupervised Learning, and Reinforcement Learning in Machine Learning"
+stitle: "Supervised, Unsupervised and Reinforcement Learning - Learnbay Blog"
 publish: "Published on" 
 published_time: "2022-04-07T13:25:31+05:30"
 modified_time:  "2022-04-07T13:25:31+05:30"
-desc: "Machine learning algorithms have impacted different types of sectors based on their uses and implications; here in this blog, you will get an overview of all machine learning algorithms, such as Supervised, unsupervised, and reinforcement learning, and their importance in relevant fields."
+desc: "Learn more about Machine Learning Algorithms, such as Supervised, Unsupervised and Reinforcement Machine Learning. Also, learn their importance in relevant fields."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wisu-1.png"
 headerAlt: "A banner image of an AI-based robot skull generated using machine learning."

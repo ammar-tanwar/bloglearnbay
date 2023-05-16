@@ -1,10 +1,10 @@
 ---
 title: "Unleashing The Most Demanding Data Science Projects In Healthcare"
-stitle: "Top 7 Data Science Projects in Healthcare [2023 Update]"
+stitle: "7 The Most Demanding Data Science Projects In Healthcare"
 publish: "Published on"
 published_time: "2023-04-17T13:25:31+05:30"
 modified_time:  "2023-04-17T13:25:31+05:30"
-desc: "In this blog, we will learn about healthcare data science projects that will provide practical insights that can guide you professionally in your data science career."
+desc: "In this blog, we'll learn about data science projects in healthcare that will provide practical insights that can guide you professionally in data science career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/utm-1.jpg"
 headerAlt: "A banner image titled, ' Top 7 Data Science Projects in Healthcare [2023 Update]' shows a nurse holds an injection and another nurse seated on a chair points towards a board with several charts."

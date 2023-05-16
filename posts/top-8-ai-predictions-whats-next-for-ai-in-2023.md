@@ -1,10 +1,10 @@
 ---
 title: Top 8 AI Predictions | What's Next for AI in 2023?
-stitle: "Top 8 AI Predictions | What's Next for AI in 2023?"
+stitle: "Top 8 AI Predictions: What's Next for AI in 2023"
 publish: "Published on" 
 published_time: "2022-10-04T13:25:31+05:30"
 modified_time:   "2022-10-04T13:25:31+05:30"
-desc: "We have already seen several AI innovations that have fascinated the tech industry. In this blog, you will be briefed on several AI predictions and their future implications on upcoming technology trends."
+desc: "Discover the top 8 AI predictions shaping the future of artificial intelligence in 2023. Stay ahead with insights on AI advancements, applications, and trends."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tipw-1.jpg"
 headerAlt: "A banner image titled, 'Top 8 AI Predictions: What's Next for AI in 2023?' Shows a hologram representation of a robot."

@@ -1,10 +1,10 @@
 ---
 title: Top Data Visualization Tools Every Data Scientist Must Know in 2023
-stitle: "Top Data Visualization Tools Every Data Scientist Must Know in 2023"
+stitle: "Top 7 Data Visualization Tools Every Data Scientist Must Know in 2023"
 publish: "Published on" 
 published_time: "2023-03-20T13:25:31+05:30"
 modified_time:  "2023-03-20T13:25:31+05:30"
-desc: "Data visualization tools are the most convenient way of creating data insights through charts, graphs, or heat maps. In this blog, you'll learn about the best data visualization tools that can help any data science professional advance in their career."
+desc: "In this blog, you will learn about the best data visualization tools that can help any data science professional advance in their career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tdvt-1.png"
 headerAlt: "A banner image titled, 'Top Data Visualization Tools, Every Data Scientist Should Know in 2023', shows an automated and accelerated development process."

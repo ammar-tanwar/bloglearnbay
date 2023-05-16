@@ -1,10 +1,10 @@
 ---
 title: Multimodal Deep Learning | Enabling Fusion of Multiple Modalities And  Deep Learning
-stitle: "Multimodal Deep Learning | Enabling Fusion of Multiple Modalities And  Deep Learning"
+stitle: "Multimodal Deep Learning - Fusion of Multiple Modality & Deep Learning"
 publish: "Published on"
 published_time: "2023-04-07T13:25:31+05:30"
 modified_time: "2023-04-07T13:25:31+05:30"
-desc: "The tech industry has different applications of machine learning and deep learning technologies. This blog will introduce you to multimodal deep learning and the process of training AI models to determinate connections between several modalities."
+desc: "In this blog will introduce you to multimodal deep learning and the process of training AI models to determinate connections between several modalities."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-1.jpg"
 headerAlt: "A banner image titled, 'Multimodal Deep Learning: Enabling fusion of Multiple modalities and  Deep Learning' shows a series of cloudy face illustration."

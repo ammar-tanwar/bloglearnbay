@@ -1,6 +1,6 @@
 ---
 title: Oops! Why 2023 Is Too Late For Video-Based Data Science Learning
-stitle: "Oops! Why 2023 Is Too Late For Video-Based Data Science Learning"
+stitle: "Why 2023 Is Too Late For Video-Based Data Science Learning?"
 publish: "Published on"
 published_time: "2022-08-17T13:25:31+05:30"
 modified_time: "2022-08-17T13:25:31+05:30"

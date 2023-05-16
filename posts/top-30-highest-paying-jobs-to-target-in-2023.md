@@ -1,10 +1,10 @@
 ---
 title: Top 30 Highest Paying Jobs to Target in 2023
-stitle: "Top 30 Highest Paying Jobs to Target in 2023"
+stitle: "Top 30 Highest Paying Jobs to Target in 2023 - Learnbay Blog"
 publish: "Published on" 
 published_time: "2023-01-18T13:25:31+05:30"
 modified_time:   "2023-01-18T13:25:31+05:30"
-desc: "This blog post is for you if you are looking for a career change or a high-paying job. Here you will learn about the 30 Highest paying jobs in the technical field that will reach a peak in the upcoming few years."
+desc: "Are you looking for a career change? In this blog,you will learn about the 30 Highest paying jobs in technical field that will reach a peak in the upcoming years."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-1.jpg"
 headerAlt: "A banner image titled, 'Top 30 Highest Paying Jobs to Target in 2023' shows a woman in formal attire pointing toward the above title."

@@ -1,10 +1,10 @@
 ---
 title: Why Is Quantum Computing Useful for Optimization Problems in Blockchain?
-stitle: "Quantum Computing Applications | Problem Optimization in Blockchain"
+stitle: "Is Quantum Computing Useful for Optimization Problems in Blockchain?"
 publish: "Published on"
 published_time: "2023-04-03T13:25:31+05:30"
 modified_time:  "2023-04-03T13:25:31+05:30"
-desc: "Quantum computing is creating a buzz in today's tech world. Learn about quantum hacking and cryptographic encryption using various quantum computing applications."
+desc: "Discover how quantum computing revolutionizes optimization problems in blockchain. Also, learn how do quantum computers break blockchain authentication."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wqu-1.jpg"
 headerAlt: "A banner image titled, 'Is it Possible to break Cryptographic Encryption Using Quantum computing', shows a hologram of a humanoid hand."

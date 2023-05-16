@@ -1,10 +1,10 @@
 ---
 title: The Practice of Intelligence with help of Artificial Intelligence in Academics
-stitle: "The Practice of Intelligence with help of Artificial Intelligence in Academics"
+stitle: "Integrating AI in Academics For Advancing Intelligence Practice"
 publish: "Published on"
 published_time: "2022-04-07T13:25:31+05:30"
 modified_time: "2022-04-07T13:25:31+05:30"
-desc: "AI can help global teaching become a successful venture for teachers to teach students anywhere in the world with the same level of proficiency as a classroom live session."
+desc: "Integrating AI in academics has potential to revolutionise the way students learn and teachers teach. AI provide personalised feedback and recommendations to students."
 
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/robot.jpg"
 headerAlt: "An image titled, 'Artificial Intelligence teaches the Intelligence' shows an AI-based robot standing with a check in front of a green board."

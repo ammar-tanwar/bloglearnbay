@@ -1,10 +1,10 @@
 ---
 title: Is Google Bard a Possible Rival to ChatGPT-4?
-stitle: "Is Google Bard a Possible Rival to ChatGPT-4?"
+stitle: "Is ChatGPT-4  Possible to Rival Google Bard? - Learnbay Blog"
 publish: "Published on"
 published_time: "2023-03-31T13:25:31+05:30"
 modified_time: "2023-03-31T13:25:31+05:30"
-desc: "The implication of OpenAI ChatGPT-4 is trending in today's tech world. Learn about ChatGPT-4 and its rival, Google Bard, with its various distinctions and integration with corresponding applications."
+desc: "Google Bard and ChatGPT-4 are both very advanced language models, but their respective strengths and applications make it difficult to determine if they are rivals."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gbp-1.jpg"
 headerAlt: "A banner image titled, 'Is Google Bard a Possible Rival to ChatGPT-4?' shows a bot standing with a board in hand displaying the logo of OpenAI ChatGPT and Google."
