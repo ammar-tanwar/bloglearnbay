@@ -11,6 +11,12 @@ headerAlt: "A banner image titled 'Data scientist and Data analyst' on the foreg
 date: "August 14, 2022"
 tag: [ difference between data analyst and data scientist and data engineer, Data Scientist v/s Data Analyst, difference between data science and data analytics with example, data analyst vs data scientist, data scientist and data analyst difference, data analyst and data scientist course, difference between data scientist and data analyst ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

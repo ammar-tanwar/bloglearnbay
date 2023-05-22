@@ -12,9 +12,15 @@ date: "May 7, 2022"
 tag: [ Data Analytics in E-Commerce Retail, e commerce data analysis project, importance of data analytics in e commerce, data analysis and interpretation of e commerce ]
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
-authordesc: ""
+adesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 category: "Technology"
+
+cattitle: "Latest News, Updates, Blogs on Technology and Innovations - Learnbay Blogs"
+catdesc: "Check out the Learnbay technology resources section, featuring a comprehensive collection of blogs on topics such as web development, , AI, data science, and more."
+authortitle: ""
+authordesc: ""
+
 position: "Editor"
 readTime: "17-21 mins"
 h1: "How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?"

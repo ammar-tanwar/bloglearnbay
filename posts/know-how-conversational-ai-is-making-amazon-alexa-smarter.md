@@ -11,6 +11,12 @@ headerAlt: " A 3rd generation of Amazon Alexa eco dot device."
 date: "Nov 18, 2022"
 tag: [ Amazon Alexa, Alexa AI, Conversational AI, Alexa, API, Amazon, alexa ai knowledge, alexa ai technology, alexa ai voice, alexa is an example of ai, conversational ai examples, conversational ai definition, what is an example of conversational ai, Application Programming Interface, how does alexa use ai ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

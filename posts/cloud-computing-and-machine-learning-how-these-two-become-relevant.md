@@ -11,6 +11,12 @@ headerAlt: "An illustration of artificial intelligence (AI) bot seated in front 
 date: "Oct 25, 2022"
 tag: [ Cloud computing, machine learning Machine learning, Artificial intelligence, machine learning introduction, types of machine learning, machine learning examples, supervised vs unsupervised learning, machine learning definition, cloud computing meaning, cloud computing basics, what is cloud computing with example, types of cloud computing ]
 category: "Cloud Computing"
+
+cattitle: "Latest Cloud Computing Blogs and Updates - Learnbay Blogs"
+catdesc: "Explore latest Cloud Computing trends with this dedicated blog page, features highly informative articles on Cloud Architecture, Cyber Security, DevOps etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

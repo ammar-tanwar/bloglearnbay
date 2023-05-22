@@ -11,6 +11,12 @@ headerAlt: "A data science aspirant seated in front of a laptop analyzes numerou
 date: "Sep 5, 2022"
 tag: [ ace the data science interview, data science interview preparation, prepare for data science interview, data science interview preparation course, data science interview preparation platform, data science interview questions for freshers, data science interview preparation (30 days of interview preparation), how to prepare for a data scientist interview, how to prepare for data science interview ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

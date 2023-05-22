@@ -11,6 +11,12 @@ headerAlt: "An illustration shows a boy and an AI-based robot are playing video 
 date: "May 25, 2022"
 tag: [ future trends of data science, data science trends 2023, data science trends in india ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

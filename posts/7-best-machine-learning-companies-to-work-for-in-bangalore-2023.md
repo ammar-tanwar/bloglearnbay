@@ -11,6 +11,10 @@ headerAlt: "A banner image shows stacks of high-raised office buildings of machi
 date: "Sep 7, 2022"
 tag: [ best machine learning companies to work for, artificial intelligence and machine learning engineer, jobs for machine learning engineer, best companies for machine learning engineer, best companies to work for machine learning in india, machine learning companies in india, top machine learning companies in world, machine learning consulting companies, biggest machine learning companies, best companies for machine learning engineer, best machine learning workstation, highest paying machine learning companies, companies that hire machine learning engineers, best machine learning company, what are the best machine learning courses, best companies for ai engineers, artificial intelligence and machine learning engineer salary, artificial intelligence and machine learning engineering salary in india, machine learning engineer career path, artificial intelligence and machine learning engineering jobs, best companies for machine learning jobs in india ]
 category: "Machine Learning"
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

@@ -11,6 +11,12 @@ headerAlt: "An illustration titled 'Learning Data science As a working professio
 date: "Jul 08, 2022"
 tag: [ data science course for working professionals in india, best data science course for working professionals, ibm data science professional certificate, best data science institute in india ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

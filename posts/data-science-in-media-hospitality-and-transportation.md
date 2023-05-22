@@ -11,6 +11,12 @@ headerAlt: "A banner image titled, 'Data science in Media, Hospitality, and Tran
 date: "Apr 6, 2022"
 tag: [ data science in travel and transportation, data science in hospitality industry ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Nisha Kumari"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nisha-kumari.webp"
 authordesc: "Nisha Kumari, the co-founder, and MD has over 8+ years of experience in data management and is accountable for managing all business operations and providing effective direction to the board."

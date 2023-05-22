@@ -11,6 +11,13 @@ headerAlt: "An image titled 'Machine Learning in Education' shows three machine 
 date: "Jun 10, 2022"
 tag: [ future of machine learning in india, future of machine learning, machine learning in education sector, machine learning in education examples, machine learning in education industry, use of machine learning in education, artificial intelligence and machine learning in education, benefits of machine learning in education, machine learning in edtech ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: ""
+adesc: ""
+
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

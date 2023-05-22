@@ -11,6 +11,12 @@ headerAlt: "A man with a rocket launcher at his back is flying high, indicating 
 date: "Nov 25, 2022"
 tag: [ ibm data science professional certificate, IBM data science certification, IBM data science professional certificate review, data science certifications, ibm data science professional certificate cost, ibm data science professional certificate worth it, ibm data science professional certificate salary, ibm data science professional certificate jobs, ibm data science professional certificate cost in india, best data science certification online, is ibm data science professional certificate worth it, best data science certifications, best data science certifications 2022, best data science certifications 2023, top 15 data science certifications, top 10 data science certifications ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

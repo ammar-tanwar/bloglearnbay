@@ -11,6 +11,12 @@ headerAlt: "An Illustration titled, 'How Does Data Science Promote Project Manag
 date: "may 30, 2022"
 tag: [ what is data science in project management, why is data analysis a key part of any project?, project management analytics, data science project management methodologies, managing data projects, data science project management certification ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

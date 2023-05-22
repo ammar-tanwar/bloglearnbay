@@ -11,6 +11,12 @@ headerAlt: "A banner image titled as, 'DALL-E2- THE NEW HORIZON TEXT-TO-IMAGE TE
 date: "Dec 2, 2022"
 tag: [ DALL E 2, Open AI, GPT-3, how to use dall e 2, how to use dall-e 2, dall e 2, dall e 2 examples, openai dall e 2, dall-e, dall e 2 ai, dall e ai, dalle 2, openai dall e 2, dalle, dall e mini, dall-e 2, how to use dall e, ai image generator, dall e website, dalle mini, dall e image generator, dall e ai image generator, ai text generator gpt-3, what is gpt-3, openai gpt-3 ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

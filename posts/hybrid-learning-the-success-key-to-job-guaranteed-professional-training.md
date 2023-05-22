@@ -12,6 +12,12 @@ date: "August 31, 2022"
 tag: [ "Artificial Intelligence, Machine learning, Data Science, Hybrid Learning, capstone project, hybrid learning examples, blended learning, hybrid learning model, 
 hybrid learning activities, hybrid learning benefits, hybrid learning meaning, hybrid learning solutions, what does hybrid learning mean, benefits of hybrid learning, five elements of hybrid learning, online and hybrid learning, hybrid flexible learning, hybrid distance learning, hybrid online learning" ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

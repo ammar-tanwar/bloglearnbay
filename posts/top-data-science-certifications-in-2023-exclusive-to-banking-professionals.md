@@ -11,6 +11,12 @@ headerAlt: "An illustration shows two data science professionals busy discussing
 date: "Jun 09, 2022"
 tag: [ financial analysts certification course, senior financial analyst, entry-level financial analyst, financial analyst course with placement, best data science course for Finance, data science in the finance industry, data science finance course, financial analyst certification course in india, financial analyst course in bangalore, financial analyst course online, financial analyst course with placement, best financial analyst course online, financial analyst course fees, financial analyst online certification course, certified financial analyst course details, which course is best for financial analyst, financial analyst course fees, online finance courses with placement, finance courses with placement in bangalore, best finance courses with placement, finance courses with placement in pune, what should i study to become a financial analyst, how to start career in financial analyst, data science for finance course, data science for finance professionals, financial data analytics courses in india ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
