@@ -11,6 +11,12 @@ headerAlt: "A photo shows two young data science enthusiasts Tanmay Bakshi and S
 date: "Dec 17, 2021"
 tag: [ Data Science ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

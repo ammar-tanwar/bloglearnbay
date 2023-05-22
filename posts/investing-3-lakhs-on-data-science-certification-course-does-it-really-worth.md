@@ -11,6 +11,12 @@ headerAlt: "An image titled, 'investing 3 lakhs on Data Science Certification co
 date: "Apr 13, 2022"
 tag: [ ibm data science professional certificate, data science certification course fees, ibm data science professional certificate cost in india, best data science certification course online ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

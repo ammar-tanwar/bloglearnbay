@@ -11,6 +11,12 @@ headerAlt: "A banner image titled 'Sources for DATA SCIENCE' shows a computer sc
 date: "Feb, 2022"
 tag: [ best way to learn data science, free data science resources, best resources to learn data science, best online platform to learn data science in india ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Nisha Kumari"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nisha-kumari.webp"
 authordesc: "Nisha Kumari, the co-founder, and MD has over 8+ years of experience in data management and is accountable for managing all business operations and providing effective direction to the board."

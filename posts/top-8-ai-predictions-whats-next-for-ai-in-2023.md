@@ -11,6 +11,12 @@ headerAlt: "A banner image titled, 'Top 8 AI Predictions: What's Next for AI in 
 date: "Mar 10, 2023"
 tag: [ future predictions for artificial intelligence, next big thing in ai, future of ai in 2023 ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: ""
+adesc: ""
+
 author: "Abhishek Gupta"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/abhishek-gupta.webp"
 authordesc: "Abhishek Gupta is the co-founder and CBO of Learnbay. He holds 7+ years of experience in business development, with a strong background as an instructor in management training and technology. Additionally holding expertise in data science, machine learning, data structure, and system designing. "

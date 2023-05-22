@@ -11,6 +11,12 @@ headerAlt: "A banner image titled, ' Women Empowering the World of AI' shows a c
 date: "Sep 26, 2022"
 tag: [ Women Leader In AI, women leaders in data and AI, Women leading In AI, women leaders AI ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

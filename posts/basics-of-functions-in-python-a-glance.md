@@ -11,6 +11,12 @@ headerAlt: "An illustration shows a girl seated in a chair in front of a desktop
 date: "Sep 9, 2022"
 tag: [ Functions in python, types of function, lambda functions, functions in python example, types of functions in python, user defined functions in python, python functions list, main function in python, built in functions in python, define function in python, calling a function in python, user-defined functions in python, lambda functions python, python list of lambda functions, what is lambda function in python with example ]
 category: "Python"
+
+cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
+catdesc: "Python resources feature a wide range of Bogs, tutorials covering from basic syntax and programming concepts to advanced topics such as ML,  data science etc."
+authortitle: "Vineeth Kumar - A Data Science Enthusiast and Blogger at Learbay"
+adesc: "Vineeth Kumar, a blogger and experienced techie with in-depth knowledge of data science and python programming languages."
+
 author: "Vineeth Kumar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
 authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "

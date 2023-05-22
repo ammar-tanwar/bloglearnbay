@@ -11,6 +11,12 @@ headerAlt: "A banner image shows a woman seated with a job offer as a full-stack
 date: "Sep 30, 2022"
 tag: [ full stack software developer, women software developer, Women in tech, full stack software developer course, career break ]
 category: "Full Stack"
+
+cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
+catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

@@ -11,6 +11,12 @@ headerAlt: "An increasing forecast of stocks is represented by a bar graph."
 date: "Oct 27, 2022"
 tag: [ Machine learning, Application of ML, Stock market, Reinforcement learning, machine learning application examples, stock market prediction, stock market prediction using machine learning, ml for trading, application of stock market prediction ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

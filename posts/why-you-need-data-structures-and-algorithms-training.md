@@ -11,6 +11,12 @@ headerAlt: ""
 date: "May 8, 2017"
 tag: [ Data Science ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
@@ -22,8 +28,8 @@ id: "why-you-need-data-structures-and-algorithms-training"
 tableData:
   [
         1. Practical training, 2. Expert Instructor,
-        3. Placement Assistance, 4. Limited Batch Size,
-        5. Recorded Class, 6. Coding challenges 
+        2. Placement Assistance, 4. Limited Batch Size,
+        3. Recorded Class, 6. Coding challenges 
 
 
   ]

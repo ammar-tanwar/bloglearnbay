@@ -11,6 +11,12 @@ headerAlt: "An illustration titled 'Time Series Forecasting' shows a business an
 date: "Jan 23, 2023"
 tag: [ Time Series Forecasting, Time series analysis, data collection, time series modelling, business decision making, forecasting method, cross sectional data, data analysis techniques. ]
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

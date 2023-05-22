@@ -11,6 +11,12 @@ headerAlt: ""
 date: "Dec 17, 2020"
 tag: [ Data Science, Machine Learning ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

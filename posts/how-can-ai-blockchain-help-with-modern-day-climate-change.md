@@ -11,6 +11,12 @@ headerAlt: "An image of the globe with two penguins perched on top in the right 
 date: "Dec 28, 2022"
 tag: [ Blockchain, Environmental factors, Climate change, blockchain environmental sustainability, blockchain carbon footprint, environmental blockchain, blockchain and environmental impact, blockchain solutions for sustainable energy and climate, blockchain for carbon tracking, tackling climate change with blockchain, blockchain can help us beat climate change, how does blockchain affect the environment, blockchain technology climate change ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc. "
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

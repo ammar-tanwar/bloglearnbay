@@ -11,6 +11,12 @@ headerAlt: "A banner image AI-based robot claims to be skilled in several sector
 date: "Jan 6, 2023"
 tag: [ Darwin Platform, Linkedin DARWIN Platform, AI, data visualization, continued support, user interface, exploratory data analysis, Data science, darwin ai linkedin, darwin software ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

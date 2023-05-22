@@ -11,6 +11,12 @@ headerAlt: "A banner image titled 'Why Should You Study Data Structures and Algo
 date: "Mar 13, 2023"
 tag: [ is python good for data structures and algorithms, which is best for dsa java or python ]
 category: "Full Stack"
+
+cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
+catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
+authortitle: "Amit Tikkiwal - A Passionate Programming Language Expert at Learbay"
+adesc: "Amit Tikkiwal, a passionate technical blogger who has expertise in various software programming languages like Java, Big Data and Data Structures."
+
 author: "Amit Tikkiwal"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/amit.webp"
 authordesc: "Amit Tikkiwal is a tech geek working as a Member Of the Technical Staff at PayPal with deep expertise in various software programming languages like Java, Big Data and Data structures. He holds a strong passion for writing trending technical blogs and articles."

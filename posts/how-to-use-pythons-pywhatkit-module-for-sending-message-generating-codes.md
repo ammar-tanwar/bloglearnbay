@@ -11,6 +11,12 @@ headerAlt: "An image titled, 'How to Use Python's Pywhatkit Module for sending M
 date: "Feb 10, 2023"
 tag: [ pywhatkit whatsapp, pywhatkit module in python, automate whatsapp messages python, send whatsapp message using python pywhatkit, how to install pywhatkit in python ]
 category: "Python"
+
+cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
+catdesc: "Python resources feature a wide range of Bogs, tutorials covering from basic syntax and programming concepts to advanced topics such as ML,  data science etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

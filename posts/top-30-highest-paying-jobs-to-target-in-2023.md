@@ -11,6 +11,12 @@ headerAlt: "A banner image titled, 'Top 30 Highest Paying Jobs to Target in 2023
 date: "Jan 18, 2023"
 tag: [ Highest paying jobs, best paying jobs, highest paying career, machine learning, AI, Data science, full-stack developer, data structure and algorithm, system design ]
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: "Trisha Manna - Highly Passionate Content Manager at Learnbay Blog Team"
+adesc: "Discover Trisha's extensive experience in writing about cutting-edge emerging technologies, including AI, ML, Web, and Software Development."
+
 author: "Trisha Manna"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trisha-manna.webp"
 authordesc: "Trisha holds 7+ years of expertise in emerging technology-related writing. AI, ML, web, and software development have always been on her extreme interest list. A passion for lifelong "

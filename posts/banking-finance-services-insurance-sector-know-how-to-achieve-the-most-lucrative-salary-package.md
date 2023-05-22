@@ -11,6 +11,12 @@ headerAlt: "An image titled, '30,000 JOBS WERE LAID OFF IN INDIA DUE TO PANDEMIC
 date: "Apr 7, 2022"
 tag: [ Banking, Finance, Services & Insurance Sector, BFSI, BFSI Salary ]
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: " "

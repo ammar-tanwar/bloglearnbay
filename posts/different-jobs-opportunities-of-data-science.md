@@ -11,6 +11,12 @@ headerAlt: ""
 date: "Nov 7, 2020"
 tag: [ Data Science ]
 author: "Learnbay"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"

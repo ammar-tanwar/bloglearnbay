@@ -11,6 +11,12 @@ headerAlt: "An image shows the use of various python software such as web develo
 date: "Apr 27, 2022"
 tag: [ Features of Python, python programming language, what is python why should you learn python, what we need to learn python, advantages of python, python features and advantages, applications of python ]
 category: "Python"
+
+cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
+catdesc: "Python resources feature a wide range of Bogs, tutorials covering from basic syntax and programming concepts to advanced topics such as ML,  data science etc."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

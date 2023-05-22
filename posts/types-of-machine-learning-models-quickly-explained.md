@@ -11,9 +11,15 @@ headerAlt: "An image titled 'Machine Learning Models' depicts an AI-powered robo
 date: "Jan 9, 2023"
 tag: [ machine learning model, machine learning, deep learning, machine learning models for prediction, machine learning models explained, machine learning model use cases ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+authordesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
-authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+adesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "8-9 mins"

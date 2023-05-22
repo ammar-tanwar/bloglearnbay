@@ -15,6 +15,12 @@ authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vine
 authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "
 authorlinkedin: "https://www.linkedin.com/in/vineeth-kumar-104a6b98/"
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Vineeth Kumar - A Data Science Enthusiast and Blogger at Learbay"
+adesc: "Vineeth Kumar, a blogger and experienced techie with in-depth knowledge of data science and python programming languages."
+
 position: "Editor"
 readTime: "15-20 mins"
 h1: "Exploratory Data Analysis on Iris dataset"

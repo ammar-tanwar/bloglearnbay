@@ -10,6 +10,12 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wisu-
 headerAlt: "A banner image of an AI-based robot skull generated using machine learning."
 date: "Apr 7, 2022"
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: ""
+adesc: ""
+
 tag: [ supervised unsupervised and reinforcement learning examples, difference between supervised unsupervised and reinforcement learning]
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"

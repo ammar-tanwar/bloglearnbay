@@ -11,6 +11,12 @@ headerAlt: "A banner image titled, 'Technical and soft skills essential for a da
 date: "Dec 21, 2022"
 tag: [ Skills required for data scientist, The skills required to master data science is, fintech industries, data scientist skills, data scientist skillset, important skills for data scientists, data scientist skill set, top skills for data scientists, data scientist technical skills, data scientist skill list, what skills are needed to be a data scientist, essential skills for data scientist, data scientist skills checklist, data scientist hard skills  ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

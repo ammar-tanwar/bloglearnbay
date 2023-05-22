@@ -11,6 +11,12 @@ headerAlt: "An image titled, '960  ROLES IN SALES AND TALENT ACQUISITION WERE LA
 date: "Apr 07, 2022"
 tag: [ Hot Topics ]
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

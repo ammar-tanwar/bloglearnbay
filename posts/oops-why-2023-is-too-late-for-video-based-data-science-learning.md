@@ -11,6 +11,12 @@ headerAlt: "A banner image showing a data science professional using an online m
 date: "August 17, 2022"
 tag: [ how to learn data science from scratch, data science learning path, data science course for beginners, data science courses, video based learning benefits, video based learning, video-based learning examples, video-based learning, , video lectures on data science ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
