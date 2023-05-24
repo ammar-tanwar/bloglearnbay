@@ -21,7 +21,7 @@ authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
-readTime: "10-15 mins"
+readTime: "10.5 mins"
 h1: "Top Full Stack Interview Questions and Answers in 2023"
 id: "full-stack-developer-interview-questions"
 tableData:
