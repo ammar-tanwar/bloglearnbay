@@ -247,12 +247,28 @@ table {
   width: 90%;
 }
 
-td, th {
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 17px;
+  padding: 8px;
+  background-color: #3ba2e8;
+  color: white;
+  
+
+}
+
+td {
   border: 1px solid #dddddd;
   text-align: left;
   font-size: 17px;
   padding: 8px;
 }
+
+
 </style>
 <table>
   <tr>
@@ -354,12 +370,28 @@ table {
   width: 90%;
 }
 
-td, th {
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 17px;
+  padding: 8px;
+  background-color: #3ba2e8;
+  color: white;
+  
+
+}
+
+td {
   border: 1px solid #dddddd;
   text-align: left;
   font-size: 17px;
   padding: 8px;
 }
+
+
 </style>
 <table>
   <tr>
@@ -429,12 +461,28 @@ table {
   width: 90%;
 }
 
-td, th {
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 17px;
+  padding: 8px;
+  background-color: #3ba2e8;
+  color: white;
+  
+
+}
+
+td {
   border: 1px solid #dddddd;
   text-align: left;
   font-size: 17px;
   padding: 8px;
 }
+
+
 </style>
 <table>
   <tr>
@@ -590,12 +638,28 @@ table {
   width: 90%;
 }
 
-td, th {
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 17px;
+  padding: 8px;
+  background-color: #3ba2e8;
+  color: white;
+  
+
+}
+
+td {
   border: 1px solid #dddddd;
   text-align: left;
   font-size: 17px;
   padding: 8px;
 }
+
+
 </style>
 <table>
   <tr>
@@ -635,19 +699,35 @@ Rolling deployment strategy does not offer such staging environments. They just 
 
 ### 39. Differentiate Between Client-side & Server-side Scripting?
 
- <style>
+<style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 90%;
 }
 
-td, th {
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 17px;
+  padding: 8px;
+  background-color: #3ba2e8;
+  color: white;
+  
+
+}
+
+td {
   border: 1px solid #dddddd;
   text-align: left;
   font-size: 17px;
   padding: 8px;
 }
+
+
 </style>
 <table>
   <tr>
@@ -701,19 +781,35 @@ Hibernate has some advantages over JDBC, such as
 
 ### 42. Differentiate Between ServletContext & ServletConfig.
 
-  <style>
+ <style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 90%;
 }
 
-td, th {
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 17px;
+  padding: 8px;
+  background-color: #3ba2e8;
+  color: white;
+  
+
+}
+
+td {
   border: 1px solid #dddddd;
   text-align: left;
   font-size: 17px;
   padding: 8px;
 }
+
+
 </style>
 <table>
   <tr>
@@ -748,19 +844,35 @@ td, th {
 
 ### 43. Differentiate Between Fail-Fast and Fail-Safe Iterators.
 
-  <style>
+<style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 90%;
 }
 
-td, th {
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 17px;
+  padding: 8px;
+  background-color: #3ba2e8;
+  color: white;
+  
+
+}
+
+td {
   border: 1px solid #dddddd;
   text-align: left;
   font-size: 17px;
   padding: 8px;
 }
+
+
 </style>
 <table>
   <tr>
@@ -821,19 +933,35 @@ We may use them to design test blocks to facilitate continuous integration testi
 
 Git Fetch is a command that informs the local repository when updates are accessible from the remote repository but does not copy these modifications to the local repository. Git Pull, on the other hand, copies the changes to the remote directory into the local repository.
 
-   <style>
+<style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 90%;
 }
 
-td, th {
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 17px;
+  padding: 8px;
+  background-color: #3ba2e8;
+  color: white;
+  
+
+}
+
+td {
   border: 1px solid #dddddd;
   text-align: left;
   font-size: 17px;
   padding: 8px;
 }
+
+
 </style>
 <table>
   <tr>
