@@ -2396,5 +2396,20 @@
       "date": "May 03, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug":  "full-stack-developer-interview-questions",
+    "frontmatter": {
+      "title": "Top Full Stack Interview Questions and Answers in 2023",
+      "slug":  "full-stack-developer-interview-questions",
+      "description": "Explore the 45+ top interview questions for Full Stack developers with some tips. Master the art of acing Full Stack interviews with expert guidance.",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsi-1.png",
+      "readTime": "10.5 mins",
+      "date": "May 24, 2023",
+      "draft": false
+    }
   }
 ]
