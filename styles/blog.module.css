@@ -62,6 +62,8 @@
 .leftInfo article p {
   color: black;
   font-size: 18px;
+  line-height: 30px;
+
 }
 .leftInfo article p strong {
   color: black;
