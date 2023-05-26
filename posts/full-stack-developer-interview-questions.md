@@ -208,7 +208,7 @@ Your short-term plans could include developing new skills or creating a competit
 
 Full-stack developers should know the following tools and programming languages to build a project from scratch:
 
-- **Frontend Development:**
+<b> ➡️ &nbsp; Frontend Development:</b>
 
 - Javascript
   
@@ -216,7 +216,7 @@ Full-stack developers should know the following tools and programming languages 
   
 - CSS
 
-- **Backend Development:**
+<b>➡️ &nbsp;Backend Development:</b>
 
 - Java
   
@@ -226,7 +226,7 @@ Full-stack developers should know the following tools and programming languages 
   
 - PHP
 
-- **Database Management:**
+<b>➡️ &nbsp;Database Management:</b>
 
 - Microsoft Access
   
@@ -236,7 +236,7 @@ Full-stack developers should know the following tools and programming languages 
   
 - SQLite
 
-- **Technology Stacks:**
+<b>➡️ &nbsp;Technology Stacks:</b>
 
 - MEAN
   
