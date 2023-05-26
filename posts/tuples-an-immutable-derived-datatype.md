@@ -1,10 +1,10 @@
 ---
 title: Tuples - An Immutable Derived Datatype
-stitle: "Tuples - An Immutable Derived Datatype"
+stitle: "Tuples - An Immutable Derived Datatype | Learbay Blog"
 publish: "Published on"
 published_time: "2022-08-18T13:25:31+05:30"
 modified_time:  "2022-08-18T13:25:31+05:30" 
-desc: "In this blog post, we'll learn more about the tuple primitives in Python.  we can describe a tuple in Python as a general grouping of objects encased in a round bracket and separated by commas. In the general coding of Python, we can use tuples in multiple operations."
+desc: "In this blog you will learn about What is Tuples, Their Different Types, Sorting of Tuples and also, you will get to know about its basic operations."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-1.jpg"
 headerAlt: "A banner image titled, 'Tuples in python' on the right. The left side contains a logo of Python. "

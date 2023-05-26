@@ -1,10 +1,10 @@
 ---
 title: Young Data Scientists
-stitle: "Young Data Scientists"
+stitle: "Youngest Data Scientists of India - Learnbay Blog"
 publish: "Published on" 
 published_time: "2021-12-17T13:25:31+05:30"
 modified_time:  "2021-12-17T13:25:31+05:30"
-desc: "Data Science is like a wildlife jungle, looks amazing and interesting at first sight but just as one tries to enter into it the vastness of Data Science will be visible, which is so vast that it will scare the one to drop the passion of Data Science..."
+desc: "With this blog you will know more about the yougest data scientists of indian. Also, learn about their successful journey"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/young.jpg"
 headerAlt: "A photo shows two young data science enthusiasts Tanmay Bakshi and Sidharth Pillai, respectively"
