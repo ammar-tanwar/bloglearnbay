@@ -2411,5 +2411,35 @@
       "date": "May 24, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug":  "full-stack-developer-job-description",
+    "frontmatter": {
+      "title": "Breaking Down The Full Stack Developer Job Description",
+      "slug":  "full-stack-developer-job-description",
+      "description": "Explore in-depth breakdown of the full stack developer job description and gain a clear understanding of the roles, responsibilities, and skills required in this dynamic field.",
+      "categories": "Full Stack",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdtf-1.png",
+      "readTime": "10.5 mins",
+      "date": "May 27, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "become-full-stack-developer",
+    "frontmatter": {
+      "title": "Becoming a Full Stack Developer: The Ultimate Career Hack",
+      "slug":  "become-full-stack-developer",
+      "description": "Looking to fast-track your career as a full stack developer? Explore the ultimate career hack with our comprehensive guide on becoming a full stack developer",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bafsd-1.png",
+      "readTime": "10.5 mins",
+      "date": "May 28, 2023",
+      "draft": false
+    }
   }
 ]
