@@ -2,9 +2,9 @@
 title: Why Full Stack Development is the Future of Tech - Learnbay Blog
 stitle: "Why Full Stack Development is the Future of Tech - Learnbay Blog"
 publish: "Published on"
-published_time: "2023-05-29T13:25:31+05:30"
-modified_time: "2023-05-29T13:25:31+05:30"
-desc: "Know why full stack development is the technology of the future. Examine full stack developers' efficiency and adaptability in addressing the demands of the tech industry"
+published_time: "2023-05-30T13:25:31+05:30"
+modified_time: "2023-05-30T13:25:31+05:30"
+desc: "Know why full stack development is the technology of future and examine full stack developers efficiency and demands in the tech industry"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fot-1.png"
 headerAlt: ""
@@ -38,19 +38,19 @@ tableData:
     2. Back-end Skills,
     3. Database Management Skills,
     Why Full Stack Development is the future?,
-    1. Growing Demand,
-    2. Rise in Technologies,
-    3. Flexibility and Adaptability,
-    4. Management Skills,
-    5. Faster Resolution,
-    6. Scope,
-    7. Higher Pay,
+    4. Growing Demand,
+    5. Rise in Technologies,
+    6. Flexibility and Adaptability,
+    7. Management Skills,
+    8. Faster Resolution,
+    9. Scope,
+    10. Higher Pay,
     Benefits of Full Stack Development,
     Learn Full Stack Development,
     Frequently Asked Questions,
-    1. What are the opportunities for full stack developer?,
-    2. What is the Future of Full Stack Development?,
-    3. Which is in great demand,
+    11. What are the opportunities for full stack developer?,
+    12. What is the Future of Full Stack Development?,
+    13. Which is in great demand,
     Full Stack Developer or Software Engineer?,
   ]
 ---
