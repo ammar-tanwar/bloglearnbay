@@ -738,8 +738,30 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
-      <url>
+
+  <url>
     <loc>https://blog.learnbay.co/full-stack-developer-interview-questions</loc>
+    <lastmod>2023-05-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+   <url>
+    <loc>https://blog.learnbay.co/full-stack-web-developer-portfolio</loc>
+    <lastmod>2023-05-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.learnbay.co/future-of-full-stack-development</loc>
+    <lastmod>2023-05-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.learnbay.co/business-analyst-skills"</loc>
     <lastmod>2023-05-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
