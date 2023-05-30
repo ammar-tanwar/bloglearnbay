@@ -2441,5 +2441,50 @@
       "date": "May 28, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug":  "full-stack-web-developer-portfolio",
+    "frontmatter": {
+      "title": "How to Build a Portfolio as a Full Stack Web Developer",
+      "slug":  "full-stack-web-developer-portfolio",
+      "description": "Learn how to create a portfolio as a full stack web developer. Explore essential tips, practices and strategies for showcasing your skills and projects.",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdp-1.png",
+      "readTime": "10.5 mins",
+      "date": "May 29, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "future-of-full-stack-development",
+    "frontmatter": {
+      "title": "Why Full Stack Development is the Future of Tech - Learnbay Blog",
+      "slug":  "future-of-full-stack-development",
+      "description": "Know why full stack development is the technology of the future. Examine full stack developers' efficiency and adaptability in addressing the demands of the tech industry",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fot-1.png",
+      "readTime": "10.5 mins",
+      "date": "May 30, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "business-analyst-skills",
+    "frontmatter": {
+      "title": "10 Essential Skills To Become A Successful Business Analyst",
+      "slug":  "business-analyst-skills",
+      "description": "Check out the top most essential skills to become a successful business analyst and it help you to stand out as a highly effective business analyst",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sbab.png",
+      "readTime": "10.5 mins",
+      "date": "May 25, 2023",
+      "draft": false
+    }
   }
 ]
