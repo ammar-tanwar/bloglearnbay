@@ -2486,5 +2486,35 @@
       "date": "May 25, 2023",
       "draft": false
     }
+  }, 
+
+  {
+    "slug":  "full-stack-developer-languages",
+    "frontmatter": {
+      "title": "The Top Programming Languages for Full Stack Development",
+      "slug":  "full-stack-developer-languages",
+      "description": "Master the essential full stack developer languages and become a sought-after employee. Our comprehensive guide outlines the various programming languages.",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/plfs.jpg",
+      "readTime": "10.5 mins",
+      "date": "May 26, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "full-stack-certification-benefits",
+    "frontmatter": {
+      "title": "The Benefits of Pursuing a Full Stack developer Certification",
+      "slug":  "full-stack-certification-benefits",
+      "description": "Explore the top benefits of  full stack developer certification and how it equips you with a comprehensive skill set to excel in the demanding tech industry.",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bopa.png",
+      "readTime": "10.5 mins",
+      "date": "May 31, 2023",
+      "draft": false
+    }
   }
 ]
