@@ -38,20 +38,19 @@ tableData:
     2. Back-end Skills,
     3. Database Management Skills,
     Why Full Stack Development is the future?,
-    4. Growing Demand,
-    5. Rise in Technologies,
-    6. Flexibility and Adaptability,
-    7. Management Skills,
-    8. Faster Resolution,
-    9. Scope,
-    10. Higher Pay,
+    1. Growing Demand,
+    2. Rise in Technologies,
+    3. Flexibility and Adaptability,
+    4. Management Skills,
+    5. Faster Resolution,
+    6. Scope,
+    7. Higher Pay,
     Benefits of Full Stack Development,
     Learn Full Stack Development,
     Frequently Asked Questions,
-    11. What are the opportunities for full stack developer?,
-    12. What is the Future of Full Stack Development?,
-    13. Which is in great demand,
-    Full Stack Developer or Software Engineer?,
+    1. What are the opportunities for full stack developer?,
+    2. What is the Future of Full Stack Development?,
+    3. Which is in great demand - Full Stack Developer or Software Engineer?,
   ]
 ---
 
@@ -200,7 +199,7 @@ _**Check out this blog:**_ **_<a href="https://blog.learnbay.co/top-courses-in-2
 
 ## Learn Full Stack Development
 
-Educating yourself on full stack development ensures you understand every aspect of programming. As they're experienced with most development, enrolling in a web development course of your choice is a nice strategy. Most programmers start their journey with an <a href="https://www.learnbay.co/" target="_blank">online certification course</a> to get certified for their skills and experience.
+Educating yourself on full stack development ensures you understand every aspect of programming. As they're experienced with most development, enrolling in a web development course of your choice is a nice strategy. Most programmers start their journey with an **<a href="https://www.learnbay.co/" target="_blank">online certification course</a>** to get certified for their skills and experience.
 
 The **<a href="https://learnbay.co/full-stack-web-development-program" target="_blank">Full Stack Developer Course</a>** teaches the fundamentals of application development. The program also helps the students practice their approach to real-world projects. You can get help from experts in live classes or projects. Get professional counseling to begin the journey as a full stack developer. <br/><br/>
 
@@ -224,7 +223,7 @@ There are different careers you can choose based on your skills. Below are some 
 
 As it is a versatile job prospect, those who want to enter will find many career opportunities. With more advanced technologies, the scope will increase for a full stack developer. <br/><br/>
 
-### 3. Which is in great demand, Full Stack Developer or Software Engineer?
+### 3. Which is in great demand - Full Stack Developer or Software Engineer?
 
 Both are great options for a career in software development. Software engineers work on software applications. They develop and maintain software processes.
 

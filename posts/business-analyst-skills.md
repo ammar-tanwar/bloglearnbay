@@ -25,7 +25,7 @@ h1: "10 Essential Skills To Become A Successful Business Analyst"
 id: "business-analyst-skills"
 tableData:
   [
-    10 Essential Skills To Become A Successful Business Analyst,
+
     Here are some must-have business analyst skills,
     Best Technical Skills of A Business Analyst,
     1. Advanced Excel Functions,
@@ -34,16 +34,16 @@ tableData:
     4. Business Intelligence Tools (Tableau & Power BI),
     5. Model Deployment with Evaluation and Management,
     Best Soft Skills For A Business Analyst,
-    1. Collaborative Skills,
-    2. Critical Thinking Skills,
-    3. Problem-solving Skills,
-    4. Relationship Building Skills,
-    5. Documentation and Presentation of the Dashboard,
+    6. Collaborative Skills,
+    7. Critical Thinking Skills,
+    8. Problem-solving Skills,
+    9. Relationship Building Skills,
+    10. Documentation and Presentation of the Dashboard,
     End Notes..!!,
   ]
 ---
 
-# 10 Essential Skills To Become A Successful Business Analyst
+<span style=" font-weight:bold; font-size:28px">10 Essential Skills To Become A Successful Business Analyst</span>
 
 Businesses play a crucial role in our lives as they satisfy our essential and economic needs. And data rules world-wide businesses. Every single business's success now depends on the excellence of its analysis. This is why it becomes crucial to safeguard the business to survive critical times. Accordingly, the demand for excellent business analyst skills is kissing the sky.
 
@@ -150,6 +150,6 @@ Using collaborative skills and available insights, an analyst can better present
 
 The demand for qualified business analysts is growing. People with more skill sets can effectively break down the barrier. The business analytics courses are designed by industry experts to assist learners in developing business analyst skills.
 
-You must have a good collection of technical and soft skills that can shape a lucrative career as a business analyst. Yet, a good certification can provide extra help here. You can go for a <a href="https://www.learnbay.co/business-analytics-certification-course" target="_blank">Business Analytics Master's Program</a> to learn, reshape, and kick-start your career as a business analyst.
+You must have a good collection of technical and soft skills that can shape a lucrative career as a business analyst. Yet, a good certification can provide extra help here. You can go for a **<a href="https://www.learnbay.co/business-analytics-certification-course" target="_blank">Business Analytics Master's Program</a>** to learn, reshape, and kick-start your career as a business analyst.
 
 This course brings the ultimate advantage of capstone projects for hands-on experience. The real-time projects help you clear your confusion and understand how the tools are applied in a real industry-based application. A globally accepted certification from IBM or Microsoft opens more job opportunities for you, which you should not miss.
