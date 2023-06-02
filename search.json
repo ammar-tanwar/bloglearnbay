@@ -2516,5 +2516,20 @@
       "date": "May 31, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug":  "business-analytics-career",
+    "frontmatter": {
+      "title": "How To Build A Career in Business Analytics: A Step-by-Step Guide",
+      "slug":  "business-analytics-career",
+      "description": "Learn how to build a successful Business Analyst career with this step-by-step guide. Get practical advice on topics such as data analysis, data visualisation, etc.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/htoc.jpg",
+      "readTime": "10.5 mins",
+      "date":    "Jun 01, 2023",
+      "draft": false
+    }
   }
 ]
