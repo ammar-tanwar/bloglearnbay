@@ -201,6 +201,13 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/author',
+        destination: '/',
+        permanent: true,
+      },
+
+
       
 
 
