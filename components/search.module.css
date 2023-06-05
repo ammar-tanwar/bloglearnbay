@@ -46,3 +46,17 @@
 .blogButton{
   float: right;
 }
+
+
+@media (max-width: 600px){
+
+  .search {
+    border: 1px solid #666;
+    box-sizing: border-box;
+    font-size: 14px;
+    padding: 18px;
+    width: 56%;
+    height: 1px;
+  }
+
+}

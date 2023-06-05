@@ -437,6 +437,17 @@
 
 }
 
+@media (max-width: 400px){
+
+  .BackP {
+    margin-top: 70px;
+    height: 30vh;
+    text-align: left;
+    padding: 20px;
+  }
+
+}
+
 
 
 
