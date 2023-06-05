@@ -338,6 +338,14 @@
   color: #0072bc;
 }
 
+@media (max-width: 600px){
+  .Bloginfo{
+    display: flex;
+    font-size: 9px;
+    gap: 5px;
+  }
+}
+
 
 
 
