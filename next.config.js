@@ -207,15 +207,11 @@ module.exports = {
         permanent: true,
       },
 
-
-      
-
-
-      //  {
-      //   source: '/what-is-ml-fairness-indicator-all-you-need-to-Know',
-      //   destination: '/what-is-ml-fairness-indicator-all-you-need-to-know',
-      //   permanent: true,
-      // }
+      {
+        source: '/full-stack-development-for-techies',
+        destination: '/full-stack-development-for-non-techies',
+        permanent: true,
+      },
 
     ]
   },

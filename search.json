@@ -2534,16 +2534,91 @@
   },
 
   {
-    "slug":  "full-stack-development-for-techies",
+    "slug":  "full-stack-development-for-non-techies",
     "frontmatter": {
       "title": "Full Stack Development for Non-Techies: How to Get Started",
-      "slug":  "full-stack-development-for-techies",
+      "slug":  "full-stack-development-for-non-techies",
       "description": "In this blog we will guide you on essential skills, training, and tips on how to become a full stack software developer with a non-technical background.",
       "categories": "Full Stack",
       "author": "Manas Kochar",
       "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nthg-1.png",
       "readTime": "10.5 mins",
-      "date":    "Jun 01, 2023",
+      "date":    "Jun 02, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "business-analytics-in-decision-making",
+    "frontmatter": {
+      "title": "How to Use Business Analytics for Better Decision-Making",
+      "slug":  "business-analytics-in-decision-making",
+      "description": "In this blog, you will be briefed on the use of business analytics in the decision making process in a company.",
+      "categories": "Hot Topics",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdm-1.png",
+      "readTime": "10.5 mins",
+      "date":    "Jun 03, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "business-analyst-career-paths",
+    "frontmatter": {
+      "title": "Top 5 Business Analyst Career Paths For 2023",
+      "slug":  "business-analyst-career-paths",
+      "description": "Explore the 5 best career opportunities for business analyst professionals in 2023 with this blog. Also check out their salary packages respectively",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cpi1.png",
+      "readTime": "10.5 mins",
+      "date":    "Jun 04, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "career-in-hr-analytics",
+    "frontmatter": {
+      "title": "How to Build a Career in HR Analytics: Essential Skills & Qualifications",
+      "slug":  "career-in-hr-analytics",
+      "description": "Are you interested in a career in HR analytics? Learn about the necessary skills and requirements by reading How to Build a Career in HR Analytics.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hran-1.jpg",
+      "readTime": "10.5 mins",
+      "date":    "Jun 05, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "data-analytics-skills",
+    "frontmatter": {
+      "title": "Top 10 Trending Skills for a Successful Data Analytics Career",
+      "slug":  "data-analytics-skills",
+      "description": "Discover the top 10 trending skills For Data Analytics Career. Stay ahead of the curve with these essential abilities for data analysts and boost your career.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsa.jpg",
+      "readTime": "10.5 mins",
+      "date":    "May 01, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "it-certifications",
+    "frontmatter": {
+      "title": "Top IT Certifications in Demand For 2023 - Learnbay Blog",
+      "slug":  "it-certifications",
+      "description": "In this blog, we have listed the top IT certification courses and programs to expand your skills and boost your career and salary.",
+      "categories": "Hot Topics",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/idf.jpg",
+      "readTime": "10.5 mins",
+      "date":    "May 02, 2023",
       "draft": false
     }
   }
