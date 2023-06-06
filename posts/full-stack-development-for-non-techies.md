@@ -23,7 +23,7 @@ authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "10.5 mins"
 h1: "Full Stack Development for Non-Techies: How to Get Started"
-id: "full-stack-development-for-techies"
+id: "full-stack-development-for-non-techies"
 tableData:
   [
     1. Understand a full stack developer’s duties, 2. Learn front-end designing, 3. Learn back-end programming, 4. Gaining knowledge of databases, 5. Gain practical experience, 6. Create a portfolio, 7. Prepare for interviews, What is the essential responsibility of a Full Stack Developer?, Learning full stack development, In conclusion…, Frequently Asked Questions, 1. Can a non-techie become a full stack software developer?, 2. How do I gain full stack development experience?, 3. What is the ideal period to grow into a full stack developer? 

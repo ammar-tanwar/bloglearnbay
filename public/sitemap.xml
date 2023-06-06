@@ -732,13 +732,7 @@
 <changefreq>daily</changefreq>
 <priority>0.90</priority>
 </url>
-<url>
-<loc>https://blog.learnbay.co/full-stack-developer-interview-questions</loc>
-<lastmod>2023-05-05</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.90</priority>
-</url>
-<url>
+
 <loc>https://blog.learnbay.co/full-stack-web-developer-portfolio</loc>
 <lastmod>2023-05-05</lastmod>
 <changefreq>daily</changefreq>
@@ -776,7 +770,7 @@
 </url>
 
 <url>
-<loc>https://blog.learnbay.co/full-stack-development-for-techies</loc>
+<loc>https://blog.learnbay.co/full-stack-development-for-non-techies</loc>
 <lastmod>2023-06-01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.90</priority>
@@ -799,6 +793,20 @@
 <url>
 <loc>https://blog.learnbay.co/career-in-hr-analytics</loc>
 <lastmod>2023-06-01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://blog.learnbay.co/data-analytics-skills</loc>
+<lastmod>2023-06-06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://blog.learnbay.co/it-certifications</loc>
+<lastmod>2023-06-06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.90</priority>
 </url>
