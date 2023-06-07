@@ -1,17 +1,25 @@
 ---
 title: The Necessity of Machine Learning in Retail
-stitle: "The Necessity of Machine Learning in Retail"
+stitle: "Machine-learning in retail : 7 use Cases with Examples"
 publish: "Published on" 
-desc: "Machine learning in retail is mostly used in studying customer behaviors. It’s a critical factor in retail. In this blog, you will get a brief overview of numerous machine learning use cases that can readily assist in analyzing customer behavior and creating predictions without human intervention."
+published_time: "2022-04-18T13:25:31+05:30"
+modified_time:  "2022-04-18T13:25:31+05:30"
+desc: "In this blog, you will get an overview of use cases of machine learning in retail that help analyze user habits and make predictions without human intervention."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/retail.jpg"
 headerAlt: "A photo shows a tablet displaying different use of machine learning in retail."
 date: "Apr 18, 2022"
 tag: [ retail machine learning projects, how can machine learning technologies help investors, deep learning retail use cases, machine learning in retail industry, ecommerce machine learning use cases, use cases in machine learning ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: ""
+authordesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
-authordesc: ""
+adesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 position: "editor"
 readTime: "11-14 mins"  

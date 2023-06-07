@@ -1,14 +1,22 @@
 ---
 title: Top Data Science Certifications In 2023 - Exclusive To Banking Professionals
-stitle: "Top Data Science Certifications In 2023 - Exclusive To Banking Professionals"
+stitle: "Top Data Science Certifications For Banking Professionals in 2023"
 publish: "Published on" 
-desc: "If you are a finance or banking professional looking for a data science course that can increase your salary by 400%, then check out our list of the best data science certification programs and financial analytics training courses that will undoubtedly help you land a job at a top fintech company and advance your career opportunities."
+published_time: "2023-01-13T13:25:31+05:30"
+modified_time:  "2023-01-13T13:25:31+05:30"
+desc: "Are you a banking professional ? Looking for a data science course then check out a list of the data science certification course that help you land a job at a top tech company."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-data-science-1.jpeg"
 headerAlt: "An illustration shows two data science professionals busy discussing data science certification."
 date: "Jun 09, 2022"
 tag: [ financial analysts certification course, senior financial analyst, entry-level financial analyst, financial analyst course with placement, best data science course for Finance, data science in the finance industry, data science finance course, financial analyst certification course in india, financial analyst course in bangalore, financial analyst course online, financial analyst course with placement, best financial analyst course online, financial analyst course fees, financial analyst online certification course, certified financial analyst course details, which course is best for financial analyst, financial analyst course fees, online finance courses with placement, finance courses with placement in bangalore, best finance courses with placement, finance courses with placement in pune, what should i study to become a financial analyst, how to start career in financial analyst, data science for finance course, data science for finance professionals, financial data analytics courses in india ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

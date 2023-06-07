@@ -2,13 +2,19 @@
 title: 7 Must-Know Web Development Languages of 2023
 stitle: "7 Must-Know Web Development Languages of 2023"
 publish: "Published on"
-desc: "As technology advances, we have seen tremendous growth in full-stack web development languages.So, here is the list of seven must-know web development languages that will be in demand in 2023. All of this full-stack language proficiency will undoubtedly help you become a master in full-stack development."
+published_time: "2023-01-25T13:25:31+05:30"
+modified_time: "2023-01-7T13:25:31+05:30"
+desc: "In this blog, you will be briefed on seven must-know web development languages HTML, CSS, JavaScript, Python, Node.Js, Express and MongoDB."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mkwd-1.jpg"
 headerAlt: "An illustration of a laptop with HTML and CSS code running, along with seven different web development languages such as JAVASCRIPT, JAVA, HTML, SCALA, CSS, PYTHON, and PHP."
 date: "Jan 25, 2023"
 tag: [ web development languages, best language for web development, full stack programmer, best language for front end web development, best language for web development backend]
 category: "Full Stack"
+cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
+catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
+authortitle: ""
+adesc: ""
 author: "Abhishek Gupta"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/abhishek-gupta.webp"
 authordesc: "Abhishek Gupta is the co-founder and CBO of Learnbay. He holds 7+ years of experience in business development, with a strong background as an instructor in management training and technology. Additionally holding expertise in data science, machine learning, data structure, and system designing. "

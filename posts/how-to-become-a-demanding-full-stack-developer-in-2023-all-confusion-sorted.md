@@ -2,6 +2,8 @@
 title: How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted
 stitle: "How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted"
 publish: "Published on"
+published_time: "2022-09-12T13:25:31+05:30"
+modified_time: "2022-09-12T13:25:31+05:30"
 desc: "In this blog post we will tell you everything you need to know to get started on your career as a full-stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full-stack developer."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-stack-1.jpg"
@@ -13,6 +15,12 @@ authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivi
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 category: "Full Stack"
+
+cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
+catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 position: "Editor"
 readTime: "15-18 mins"
 h1: "How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted"

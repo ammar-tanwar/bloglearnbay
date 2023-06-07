@@ -1,14 +1,22 @@
 ---
 title: OctoML- The Coolest Platform for Faster Machine Learning Model Deployment
-stitle: "OctoML- The Coolest Platform for Faster Machine Learning Model Deployment"
+stitle: "What is OctoML? and How Does It Works? - Learnbay Blog"
 publish: "Published on"
-desc: "Artificial intelligence is playing an increasingly important role in weather forecasting. Data mining techniques are helping us to predict the weather more accurately, and this can definitely save us from bad weather."
+published_time: "2022-11-09T13:25:31+05:30"
+modified_time: "2022-11-09T13:25:31+05:30"
+desc: "Know what is OctoML, How to Machine Learning should be intergrated with Apache TVM. Also learn about the how doe OctoMl Works."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-1.jpg"
 headerAlt: "A banner image titled, 'OctoML- The Coolest Platform for Faster Machine Learning Model Deployment'"
 date: "Nov 09, 2022"
 tag: [ Machine Learning, OctoML, Apache TVM, TVM ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

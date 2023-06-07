@@ -1,14 +1,22 @@
 ---
 title:  15 Tools Every Full-Stack Web Developer Should Master
-stitle: "15 Tools Every Full-Stack Web Developer Should Master"
+stitle: "Top 15 Tools Every Full-Stack Web Developer Should Master"
 publish: "Published on"
-desc: "Check out this list of 15 essential tools that every full-stack web developer should master. Categorized for front-end and back-end developer tools, these tools will help you build better web applications faster."
+published_time: "2022-10-14T13:25:31+05:30"
+modified_time: "2022-10-14T13:25:31+05:30"
+desc: "Check out this list of 15 essential tools that every full-stack web developer should master, categorized for front-end and back-end developer tools."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/15-t-1.png"
 headerAlt: "An image titled, '15 Tools Every Full-Stack Web Developer Should Master'."
 date: "Oct 14, 2022"
 tag: [ java full stack developer tools, best web developer tools, Full stack web developer, full-stack web developer tool, Full stack web developer, full-stack web developer tool ]
 category: "Full Stack"
+
+cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
+catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

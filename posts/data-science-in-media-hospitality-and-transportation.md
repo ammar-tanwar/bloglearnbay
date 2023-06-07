@@ -2,13 +2,21 @@
 title: Data Science in Media, Hospitality, and Transportation
 stitle: "Data Science in Media, Hospitality, and Transportation"
 publish: "Published on"
-desc: "Data science in the transportation and hospitality industry has been helping a  lot of people to survive and thrive. In this blog, you will learn how data science can be implemented to showcase better customer services, optimize operations and make more efficient businesses in such sectors."
+published_time: "2022-04-06T13:25:31+05:30"
+modified_time: "2022-04-06T13:25:31+05:30"
+desc: "In this blog, you will learn how data science can be implemented to showcase better customer services, optimize operations and make more efficient businesses."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsmh-1.jpg"
 headerAlt: "A banner image titled, 'Data science in Media, Hospitality, and Transportation' shows an illustration of a smartphones, a display and a wifi routing point."
 date: "Apr 6, 2022"
 tag: [ data science in travel and transportation, data science in hospitality industry ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Nisha Kumari"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nisha-kumari.webp"
 authordesc: "Nisha Kumari, the co-founder, and MD has over 8+ years of experience in data management and is accountable for managing all business operations and providing effective direction to the board."

@@ -21,8 +21,11 @@ export default function Post({ postData, posts }) {
     <>
       <section className={styles.MainS}>
         <Head>
+
           <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
           <title>{postData.stitle}</title>
+          {/* <html lang="en" /> */}
+
           <meta
             name="description"
             content={postData.desc}
@@ -42,7 +45,12 @@ export default function Post({ postData, posts }) {
             name="publisher"
             content="Learnbay"
           />
-          <meta name="robots" content="follow, index" />
+          
+          <meta property="article:published_time" content={postData.published_time}/>
+
+          <meta property="article:modified_time" content={postData.modified_time}/>
+
+          <meta name="robots" content="index, follow"/>
 
 
           <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png"/>
@@ -106,14 +114,14 @@ export default function Post({ postData, posts }) {
           <Socialshare postData={postData} />
           <div className={styles.headerInfo}>
             <h1>{postData.mainH1}</h1>
-            <span>
-              By <strong className={styles.aname}><a href={aurl} target="_blank" rel="noreferrer">{postData.author}</a></strong> <BsDot className="bIcon" />
+            <div className={styles.Bloginfo}>
+              By{" "} <strong className={styles.aname}><a href={aurl} target="_blank" rel="noreferrer">{postData.author}</a></strong> <BsDot className="bIcon" />
               Category <strong className={styles.aname}><a href={curl} target="_blank" rel="noreferrer">{postData.category}</a></strong>{" "}
-              <BsDot className="bIcon" /> Reading time
+              <BsDot className="bIcon" /> Reading time {" "}
               <strong className={styles.time}>{postData.time}</strong>{" "}
-              <BsDot className="bIcon" /> {postData.publish}
+              <BsDot className="bIcon" /> {postData.publish}{" "}
               <strong className={styles.date}>{postData.date}</strong>
-            </span>
+            </div>
           </div>
           <div className={styles.bodyInfo}>
             <div className={styles.rightInfo}>

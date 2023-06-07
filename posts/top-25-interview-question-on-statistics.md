@@ -1,14 +1,22 @@
 ---
 title:  Top 25 interview question on Statistics
-stitle: "Top 25 interview question on Statistics"
+stitle: "Top 25 interview question on Statistics - Learnbay Blog"
 publish: "Published on" 
-desc: "Every member and set of members have an equal chance of being included in the sample. Technology, random number generators, or some other sort of change process is needed to get a simple random sample."
+published_time: "2022-01-24T13:25:31+05:30"
+modified_time:   "2022-01-24T13:25:31+05:30"
+desc: "Are you preparing for a statistics interview? Stay ahead of the competition with this comprehensive guide to the 25 most important interview question on Statistics."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-1.jpg"
 headerAlt: ""
 date: "Jan 24, 2022"
 tag: [ Hot Topics ]
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

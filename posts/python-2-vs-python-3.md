@@ -1,8 +1,10 @@
 ---
 title: "Python 2 Vs Python 3: Know How They Differ?"
-stitle: "Python 2 vs Python 3: Differences That Every Data Science Aspirant Should Know"
+stitle: "Differences Between Python 2 vs Python 3 | Learnbay Blog"
 publish: "Published on"
-desc: "Python 2 Vs. Python 3 has become a hot topic for python beginners in data science and AI. Here we have examined various differences between both and explained which could be a better alternative."
+published_time: "2023-04-24T13:25:31+05:30"
+modified_time: "2023-04-24T13:25:31+05:30"
+desc: "Python 2 Vs Python 3 has become a hot topic for python in data science and AI. Here we examined differences between both and explained which could be better alternative."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pyt-1.jpg"
 headerAlt: "An illustrative banner image titled, 'Python 2 Vs Python 3: Know how they differ?' shows a person seated on a chair using two laptops. Both laptops show the Python logo."
@@ -17,6 +19,12 @@ tag:
     python2 vs python3 division,
   ]
 category: "Python"
+
+cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
+catdesc: "Python resources feature a wide range of Bogs, tutorials covering from basic syntax and programming concepts to advanced topics such as ML,  data science etc."
+authortitle: "Vineeth Kumar - A Data Science Enthusiast and Blogger at Learbay"
+adesc: "Vineeth Kumar, a blogger and experienced techie with in-depth knowledge of data science and python programming languages."
+
 author: "Vineeth Kumar"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
 authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "

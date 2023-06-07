@@ -1,14 +1,22 @@
 ---
 title: Top 7 Women Full Stack-Software Developer | The Inspiration for All Women in Tech
-stitle: "Top 7 Women Full Stack-Software Developer | The Inspiration for All Women in Tech"
-publish: "Published on" 
-desc: "In this article, we will read about seven highly recognized female full-stack developers, their education and career paths, and their advice for aspiring software developers."
+stitle: "7 Most Inspirational Women Full Stack Software Developers "
+publish: "Published on"
+published_time: "2022-10-04T13:25:31+05:30"
+modified_time:   "2022-10-04T13:25:31+05:30"
+desc: "In this article, we will read about 7 highly recognized female full-stack software developers, their career paths, and their advice for aspiring software developers."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-1.jpg"
 headerAlt: "A banner image titled, 'Top 7 Women Full Stack-Software Developers' consists of a desktop monitor displaying a cardboard box and coding syntax. Three female figures are present around the monitor."
 date: "Oct 04, 2022"
 tag: [ Full-stack software developer, full stack software developer course, top female software engineers, female full stack developer, female software developers, being a female software engineer, female coders, female tech leaders, women in technology, famous women in technology, womens role in technology, female tech ceos, women's role in technology ]
 category: "Full Stack"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

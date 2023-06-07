@@ -1,14 +1,22 @@
 ---
 title: What Is Generative AI? All You Need To Know! 
-stitle: "What Is Generative AI? All You Need To Know!"
+stitle: "Introduction to Generative AI | Learnbay"
 publish: "Published on" 
-desc: "Generative AI is a type of Artificial Intelligence that is used to generate new data from scratch. This could be anything from new images to new text or even new 3D models."
+published_time: "2022-09-20T13:25:31+05:30"
+modified_time:  "2022-09-20T13:25:31+05:30"
+desc: "Generative AI is a type of Artificial Intelligence that used to generate new data from scratch. This could be anything from new images to new text or even 3D models."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20-ai-1.jpg"
 headerAlt: "An illustration shows a person's face getting scanned face with the help of deep fake AI for synthetic data."
 date: "Sep 20, 2022"
 tag: [ synthetic data ai, synthetic data generation tools, synthetic data meaning, synthetic data for deep learning, deepfake meaning, deepfake examples, deepfake technology, deepfake definition, generative ai examples, generative ai course, generative ai applications, generative ai applications, how does generative ai work, generative artificial intelligence (ai) ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

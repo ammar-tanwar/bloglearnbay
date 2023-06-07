@@ -1,8 +1,10 @@
 ---
 title:  5 Amazing Usages of AI in the Entertainment Industries
-stitle: "5 Amazing Usages of AI in the Entertainment Industries"
+stitle: "Top 5 Usages of Artificial Intelligence in Entertainment Industries"
 publish: "Published on"
-desc: "Artificial intelligence and the entertainment industry have moved beyond the realm of science fiction and are now a reality. Through analytics, content optimization, and forecasts, AI in entertainment has gradually started influencing the entertainment sector. Get a brief overview of the awe-inspiring advancements in AI in the field of artificial intelligence here."
+published_time: "2022-12-16T13:25:31+05:30"
+modified_time: "2022-12-16T13:25:31+05:30"
+desc: "AI in entertainment has gradually started influencing the entertainment sector. Get a brief overview of the awe-inspiring facts of AI in entertainment industry."
 # alt:  "Hello"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5as-1.jpg"
@@ -10,6 +12,10 @@ headerAlt: "An image titled 'Amazing Usages of the AI in Entertainment Industry'
 date: "Dec 16, 2022"
 tag: [ AI in entertainment, AI in entertainment industry, artificial intelligence and entertainment industry, AI and entertainment industry, AR, VR, future of ai in entertainment, explain the role of ai in entertainment, advantages of ai in entertainment, application of ai in entertainment, uses of ai in entertainment, benefits of ai in entertainment, artificial intelligence in the broadcasting industry, ai in media and entertainment industry, examples of artificial intelligence in entertainment ]
 category: "Artificial Intelligence"
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 author: "Nivin Biswas"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
@@ -23,8 +29,6 @@ tableData:
          1. Content personalization, 2. AR/VR, 3. SEO advertising, 4. Streaming quality, 5. Cybersecurity, How is AI Improving the Efficacy of the Media and Entertainment Industry?, 1. AI-enhanced customer journey and content, 2. Enhanced advertisement landscape, 3. Content security and management, 4. Process Improvement, 5. Service enhancement, Conclusion
    ]
 ---
-
-
 
 
 <span style=" font-weight:bold; font-size:28px"> Know How AI in the Entertainment Industry is Becoming an Inseparable Existence </span>

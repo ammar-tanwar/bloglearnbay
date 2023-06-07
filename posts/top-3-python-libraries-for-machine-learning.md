@@ -1,17 +1,25 @@
 ---
 title: Top 3 Python Libraries for Machine Learning!
-stitle: "Top 3 Python Libraries for Machine Learning!"
+stitle: "Top 3 Python Libraries for Machine Learning | Learnbay"
 publish: "Published on" 
-desc: "Python has become an essential tool for machine learning algorithms. In this blog post, you will be briefed with the top 3 python libraries for machine learning, which can help you ease the workload in different types of machine learning-based projects."
+published_time: "2023-02-27T13:25:31+05:30"
+modified_time:  "2023-02-27T13:25:31+05:30" 
+desc: "Python has become a key tool for ML algorithms. In this blog, we'll explore python libraries for ML, that help you to work in different types of ML based projects."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tplfm-1.jpg"
 headerAlt: "A banner image titled 'Python Libraries for Machine Learning' shows a robot powered by artificial intelligence is standing by a laptop and pointing to the  laptop display. The display shows a Python logo."
 date: "Jan 11, 2023"
 tag: [ TensorFlow, Scikit-learn, Pytorch, best python libraries for machine learning, most used python libraries for machine learning, what is tensorflow used for, scikit learn is used for ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+authordesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
-authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+adesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "8-9 mins"

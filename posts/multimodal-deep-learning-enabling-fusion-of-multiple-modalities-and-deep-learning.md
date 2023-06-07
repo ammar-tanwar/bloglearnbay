@@ -1,14 +1,22 @@
 ---
 title: Multimodal Deep Learning | Enabling Fusion of Multiple Modalities And  Deep Learning
-stitle: "Multimodal Deep Learning | Enabling Fusion of Multiple Modalities And  Deep Learning"
+stitle: "Multimodal Deep Learning - Fusion of Multiple Modality & Deep Learning"
 publish: "Published on"
-desc: "The tech industry has different applications of machine learning and deep learning technologies. This blog will introduce you to multimodal deep learning and the process of training AI models to determinate connections between several modalities."
+published_time: "2023-04-07T13:25:31+05:30"
+modified_time: "2023-04-07T13:25:31+05:30"
+desc: "In this blog will introduce you to multimodal deep learning and the process of training AI models to determinate connections between several modalities."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-1.jpg"
 headerAlt: "A banner image titled, 'Multimodal Deep Learning: Enabling fusion of Multiple modalities and  Deep Learning' shows a series of cloudy face illustration."
 date: "Apr 07, 2023"
 tag: [multimodal meaning, openai gpt 4, multimodal fusion deep learning]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

@@ -2,13 +2,21 @@
 title: Basics of Functions In Python - A Glance
 stitle: "Basics of Functions In Python - A Glance"
 publish: "Published on"
-desc: "Transforming the data in an effective way and then utilizing them in an optimized manner while programming is known as Functions in python. In this article let me take you through different functions used in python along with some of the examples."
+published_time: "2022-09-09T13:25:31+05:30"
+modified_time: "2022-09-09T13:25:31+05:30"
+desc: "In this blog you will learn about Python functions, including how to call and write a function. To understand more about Python functions, click here."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/basic-python-1.jpeg"
 headerAlt: "An illustration shows a girl seated in a chair in front of a desktop screen effectively transforming data using Python functions."
 date: "Sep 9, 2022"
 tag: [ Functions in python, types of function, lambda functions, functions in python example, types of functions in python, user defined functions in python, python functions list, main function in python, built in functions in python, define function in python, calling a function in python, user-defined functions in python, lambda functions python, python list of lambda functions, what is lambda function in python with example ]
 category: "Python"
+
+cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
+catdesc: "Python resources feature a wide range of Bogs, tutorials covering from basic syntax and programming concepts to advanced topics such as ML,  data science etc."
+authortitle: "Vineeth Kumar - A Data Science Enthusiast and Blogger at Learbay"
+adesc: "Vineeth Kumar, a blogger and experienced techie with in-depth knowledge of data science and python programming languages."
+
 author: "Vineeth Kumar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
 authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "

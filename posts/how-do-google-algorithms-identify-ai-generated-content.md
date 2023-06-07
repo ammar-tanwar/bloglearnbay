@@ -2,13 +2,21 @@
 title: How Do Google Algorithms Identify AI-Generated Content?
 stitle: "How Do Google Algorithms Identify AI-Generated Content?"
 publish: "Published on"
-desc: "The use of AI-Generated content has grown excessively. In this blog, you will understand how Google detects AI-generated content and what can be the risks of utilizing such content."
+published_time: "2023-03-29T13:25:31+05:30"
+modified_time: "2023-03-29T13:25:31+05:30"
+desc: "In this blog, you will understand how Google detects AI-generated content and what can be the risks of utilizing such content."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdg-1.jpg"
 headerAlt: "A banner image titled, 'How Do Google Algorithms Identify AI-Generated Content?' shows an AI bot analyzing data in the Google search bar."
 date: "Mar 29, 2023"
 tag: [ how does google ai work, google ai algorithm, google search ai ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

@@ -2,6 +2,8 @@
 title: Is AI a threat to humanity?
 stitle: "Is AI a threat to humanity?"
 publish: "Published on"
+published_time: "2019-08-18T13:25:31+05:30"
+modified_time: "2019-08-18T13:25:31+05:30"
 desc: "The alarms rang in Jul 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out I have exposure to the very cutting-edge AI, and I think people should be really concerned about it..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isai.png"
@@ -9,6 +11,12 @@ headerAlt: ""
 date: "August 18, 2019" 
 tag: [ Data Science ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

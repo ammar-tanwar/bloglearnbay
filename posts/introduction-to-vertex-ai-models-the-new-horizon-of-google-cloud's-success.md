@@ -1,14 +1,22 @@
 ---
 title: Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success
-stitle: "Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success"
+stitle: "Introduction to Vertex AI Models: Unleashing Google Cloud's Success"
 publish: "Published on"
-desc: "Vertex AI is a one-stop shop for data scientists, providing all of the tools they'll need to manage, construct, deploy, interpret, and monitor their models."
+published_time: "2022-09-16T13:25:31+05:30"
+modified_time: "2022-09-16T13:25:31+05:30"
+desc: "Learn more about the power of Vertex AI models and explore the new horizon of success with Google Cloud in this blog"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/google-ai-1.jpg"
 headerAlt: "An illustration shows a human figure wearing VR glasses and leveraging vertex AI-powered cloud ML."
 date: "Sep 16, 2022"
 tag: [ vertex ai, vertex AI models, machine learning, cloud ml ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

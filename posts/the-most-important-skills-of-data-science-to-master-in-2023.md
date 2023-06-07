@@ -1,7 +1,9 @@
 ---
 title: The  Most Important Skills of Data Science To Master in 2023?
-stitle: "The  Most Important Skills of Data Science To Master in 2023?"
-publish: "Published on" 
+stitle: "Top Most Important Skills for Data Science in 2023"
+publish: "Published on"
+published_time: "2022-08-30T13:25:31+05:30"
+modified_time:  "2022-08-30T13:25:31+05:30"
 desc: "As data becomes increasingly important in our world, it's more important than ever to master the skills of data science. But what skills are most important? In this article, we'll explore the most important skills of data science."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/post-30-08-22-1.jpg"
@@ -9,9 +11,15 @@ headerAlt: "A human hand is busy on a laptop keyboard earning data science skill
 date: "August 30, 2022"
 tag: [ data science skill required, data scientist skill requirement, skills required for data scientist, Skills required to master data science, Data science key skills, data science soft skills, skills needed for data scientist and data analyst, data scientist skills and responsibilities, which of the following is required skills for a data scientist, data scientist skills and tools, the skill required to master data science is, data scientist skill set, top skills for data scientists, data scientist technical skills, data scientist skill list, what skills are needed to be a data scientist, essential skills for data scientist, data scientist skills checklist, data scientist hard skills ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+authordesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
-authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+adesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "9-10 mins"

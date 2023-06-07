@@ -2,6 +2,8 @@
 title: How to Use Python's Pywhatkit Module for Sending Message-Generating Codes?
 stitle: "How to Use Python's Pywhatkit Module for Sending Message-Generating Codes?"
 publish: "Published on"
+published_time: "2023-02-10T13:25:31+05:30"
+modified_time: "2023-02-10T13:25:31+05:30"
 desc: "We have seen various implications of the python programming language. And Python's Pywhatkit module seems to prove a powerful tool for sending message-generating codes. In this blog, you will learn how to configure and run the Pywhatkit module for sending an auto-generated message."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/htup-1.jpg"
@@ -9,6 +11,12 @@ headerAlt: "An image titled, 'How to Use Python's Pywhatkit Module for sending M
 date: "Feb 10, 2023"
 tag: [ pywhatkit whatsapp, pywhatkit module in python, automate whatsapp messages python, send whatsapp message using python pywhatkit, how to install pywhatkit in python ]
 category: "Python"
+
+cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
+catdesc: "Python resources feature a wide range of Bogs, tutorials covering from basic syntax and programming concepts to advanced topics such as ML,  data science etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

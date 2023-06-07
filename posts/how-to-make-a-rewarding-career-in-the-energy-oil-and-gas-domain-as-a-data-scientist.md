@@ -2,6 +2,8 @@
 title:  How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?
 stitle: "How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?"
 publish: "Published on"
+published_time: "2022-04-06T13:25:31+05:30"
+modified_time: "2022-04-06T13:25:31+05:30"
 desc: "Data science jobs in energy, oil, and gas have predicted a huge job surge with continuous advancement. Here's how to make a rewarding career in this domain, with the best projects and training to help you stand out from the crowd."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reward2.png"
@@ -9,6 +11,12 @@ headerAlt: "A graphical representation of the unemployment rate between 2014 to 
 date: "Apr 6, 2022"
 tag: [ data science use cases in oil and gas, data science jobs in oil and gas, data management in oil and gas industry ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Krishna Kumar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/krishna-kumar.webp"
 authordesc: "Krishna Kumar is the founder and CEO of Learnbay.  With 10+ years of experience in software engineering development followed by data science and AI expertise, he has managed to transform the careers of many tech professionals in data science and the full-stack field through his ed-tech platform."

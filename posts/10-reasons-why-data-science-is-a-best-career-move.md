@@ -1,14 +1,20 @@
 ---
 title: 10 Reasons Why Data Science is A Best Career Move
-stitle: "10 Reasons Why Data Science is A Best Career Move"
+stitle: "Top 10 Reasons To Choose Data Science Career - Learnbay"
 publish: "Published on"
-desc: "The field of Data Science is booming because it is validating to be viable not only over businesses but also over divisions inside the businesses as well..."
+published_time: "2018-11-05T13:25:31+05:30"
+modified_time: "2018-11-05T13:25:31+05:30"
+desc: "Discover the top 10 reasons why pursuing a career in data science is a smart move. Learn how data science can unlock endless opportunities for growth and success."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10-reasons-why-data-science-is-a-best-career-move-1.png"
 headerAlt: ""
 date: "Nov 28, 2018" 
 tag: [ Data Science ]
 category: "Data Science"
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
 author: "Manas Kochar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

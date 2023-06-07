@@ -1,14 +1,20 @@
 ---
 title: 7 Ways Artificial Intelligence Can Boost Delivery Management Worldwide!
-stitle: "7 Ways Artificial Intelligence Can Boost Delivery Management Worldwide!"
+stitle: "7 Ways Artificial Intelligence Can Boost Delivery Management"
 publish: "Published on"
-desc: "AI can help with route planning, order management, and more. With the help of Artificial Intelligence, you can optimize your delivery management system to get products to your customers as quickly and efficiently as possible."
+published_time: "2022-10-10T13:25:31+05:30"
+modified_time: "2022-10-10T13:25:31+05:30"
+desc: "AI can help with route planning, order management, and more. In this blog, you will be briefed on how Artificial Intelligence Can boost delivery management."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7wa1.jpg"
 headerAlt: "An AI-based robot holding a delivery package approaches a logistic van."
 date: "Oct 10, 2022"
 tag: [ Artificial intelligence, AI, Delivery, logistics, ai in delivery, artificial intelligence delivery, Artificial Intelligence in Delivery Management ]
 category: "Artificial Intelligence"
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

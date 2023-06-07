@@ -1,14 +1,22 @@
 ---
 title: Hybrid Integration Platform (HIP) - Enhancing the Efficiency of Network Infrastructure!
-stitle: "Hybrid Integration Platform (HIP) - Enhancing the Efficiency of Network Infrastructure!"
+stitle: "Hybrid Integration Platform (HIP) | Learnbay"
 publish: "Published on"
-desc: "Learn how hybrid integration platforms can help improve the efficacy of network infrastructure by leveraging various technologies and frameworks. In this section, we'll also go over the benefits it can offer any industry or large-scale organization."
+published_time: "2023-02-17T13:25:31+05:30"
+modified_time: "2023-02-17T13:25:31+05:30"
+desc: "Learn how hybrid integration platforms can help improve the efficacy of network infrastructure by leveraging various technologies and frameworks."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eten-1.jpg"
 headerAlt: "A banner image titled 'Hybrid Integration Platform'. Enhancing Network Infrastructure Efficiency' shows a cloud structureconnected to Wi-Fi, networks, and the internet logos."
 date: "Feb 17, 2023"
 tag: [ hybrid integration platform benefits ]
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

@@ -1,15 +1,23 @@
 ---
 title: Successful Data Scientist Without A Tech Degree! Yes, It Is Possible
-stitle: "Successful Data Scientist Without A Tech Degree! Yes, It Is Possible"
+stitle: "Become A Successful Data Scientist Without Any Tech Degree"
 publish: "Published on"
-desc: "Are you considering a career in data science, but don't have a tech degree? It is possible to have a successful career in data science without a tech degree. Here's how"
+published_time: "2022-09-22T13:25:31+05:30"
+modified_time:  "2022-09-22T13:25:31+05:30"
+desc: "Are you considering a career in data science, but don't have a tech degree? It is possible to have a successful career in data scienctist without a tech degree."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg"
 headerAlt: "A banner image of a person standing in front of a screen, analyzing various domains from the data science job."
 date: "Sep 22, 2022"
 tag: [ data scientist without a degree, data science courses, can you become a data scientist without a quantitative degree, can you become a data scientist without a degree, can i become a data scientist without a degree, do data scientist need a degree, how to become a data scientist without a degree, is it possible to become a data scientist without a degree, data science courses in bangalore, data science courses online, data science courses in india, data science courses fees, data scientist course syllabus, data science course eligibility, best data science courses, data science courses near me, data science courses in canada, data science course in pune, best data science courses in india, top data science courses in india, best data science courses in bangalore, best data science courses in the world ]
 category: "Data Science"
-author: "Milan"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
+author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"

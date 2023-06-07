@@ -1,14 +1,22 @@
 ---
 title: Know The Best Strategy To Find The Right Data Science Job in Delhi?
-stitle: "Know The Best Strategy To Find The Right Data Science Job in Delhi?"
+stitle: "Learn best strategies to Find the right Data Science job in Delhi"
 publish: "Published on"
-desc: "Data science careers are buzzing everywhere, and so the data science courses. It’s true that data science salaries are too lucrative and offer sample scopes of career growth..."
+published_time: "2020-08-30T13:25:31+05:30"
+modified_time: "2020-08-30T13:25:31+05:30"
+desc: "Looking for a data science job in Delhi? Discover the best strategies to find the right job for you and advance your career in this growing field."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/delhi.jpg"
 headerAlt: ""
 date: "August 30, 2020"
 tag: [ Data Science ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

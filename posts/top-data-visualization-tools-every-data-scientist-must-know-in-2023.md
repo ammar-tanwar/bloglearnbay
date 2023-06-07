@@ -1,14 +1,22 @@
 ---
 title: Top Data Visualization Tools Every Data Scientist Must Know in 2023
-stitle: "Top Data Visualization Tools Every Data Scientist Must Know in 2023"
+stitle: "Top 7 Data Visualization Tools Every Data Scientist Must Know in 2023"
 publish: "Published on" 
-desc: "Data visualization tools are the most convenient way of creating data insights through charts, graphs, or heat maps. In this blog, you'll learn about the best data visualization tools that can help any data science professional advance in their career."
+published_time: "2023-03-20T13:25:31+05:30"
+modified_time:  "2023-03-20T13:25:31+05:30"
+desc: "In this blog, you will learn about the best data visualization tools that can help any data science professional advance in their career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tdvt-1.png"
 headerAlt: "A banner image titled, 'Top Data Visualization Tools, Every Data Scientist Should Know in 2023', shows an automated and accelerated development process."
 date: "Mar 20, 2023"
 tag: [ data science tools list, top 5 data visualization tools, data science tools and frameworks ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

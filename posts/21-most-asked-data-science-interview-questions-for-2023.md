@@ -1,14 +1,22 @@
 ---
 title:  21 Most Asked Data Science Interview Questions for 2023
-stitle: "21 Most Asked Data Science Interview Questions for 2023"
+stitle: "21 Most Asked Data Science Interview Questions For 2023"
 publish: "Published on"
-desc: "We've compiled a list of the 21 most asked questions for 2023. Whether you're a beginner or an experienced data scientist, this list will help you prepare for your next interview."
+published_time: "2022-10-17T13:25:31+05:30"
+modified_time: "2022-10-17T13:25:31+05:30"
+desc: "We've compiled a list of the 21 most important data science interview questions with answers,  which will help the data scientists to prepare for their next interview."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21-most-1.jpg"
 headerAlt: "A Banner image of a professional teaching and student understanding 21 most common data science interview questions for 2023"
 date: "Oct 17, 2022"
 tag: [ data science interview questions and answers, data science interview, data science basic interview questions, data science interview questions for freshers, most important data science interview questions and answers, basic data science interview questions, top 20 data science interview questions and answers, 21 must-know data science interview questions and answers, how to prepare for a data scientist interview, most asked data science interview questions, what to expect in a data science interview, data science beginner interview questions, what questions to ask a data scientist ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

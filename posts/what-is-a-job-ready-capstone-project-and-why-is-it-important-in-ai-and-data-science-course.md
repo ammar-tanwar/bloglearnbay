@@ -2,6 +2,8 @@
 title: What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?
 stitle: "What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?"
 publish: "Published on" 
+published_time: "2022-08-29T13:25:31+05:30"
+modified_time:  "2022-08-29T13:25:31+05:30"
 desc: "A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-29-1.jpg"
@@ -9,6 +11,12 @@ headerAlt: "An illustration shows, two data scientists are discussing and analyz
 date: "August 29, 2022" 
 tag: [ capstone project, capstone, capstone certification, data science, Artificial Intelligence, AI, data analytics capstone project examples, data science capstone project ideas, capstone project ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

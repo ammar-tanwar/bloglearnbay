@@ -1,14 +1,22 @@
 ---
 title: Top 50 Interview Questions of Machine Learning
-stitle: "Top 50 Interview Questions of Machine Learning"
+stitle: "Top 50 Interview Questions of Machine Learning - LearnBay"
 publish: "Published on" 
-desc: "Get prepared for your machine learning interview with our list of the top 50 most commonly asked interview questions. From linear regression to time series, these questions cover a wide range of topics and will help you showcase your knowledge and skills in the field of machine learning. Improve your chances of landing the job by reviewing these essential interview questions of machine learning."
+published_time: "2023-01-18T13:25:31+05:30"
+modified_time:   "2023-01-18T13:25:31+05:30"
+desc: "Prepare for your interview with our 50 most asked interview questions of ML. These questions cover a wide range of topics and will help you demonstrate your ML skills."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/interview.jpg"
 headerAlt: ""
 date: "May 27, 2021"
 tag: [ Interview questions of machine learning, Machine learning interview questions ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

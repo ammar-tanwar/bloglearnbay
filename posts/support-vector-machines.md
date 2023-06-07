@@ -1,14 +1,22 @@
 ---
 title: Support Vector Machine
-stitle: "Support Vector Machine"
+stitle: "Introduction of Support Vector Machine - LearnBay Blog"
 publish: "Published on"
-desc: "Support vector machines (SVMs) are a particularly powerful and flexible class of supervised algorithms for both classification and regression..."
+published_time: "2020-11-25T13:25:31+05:30"
+modified_time:  "2020-11-25T13:25:31+05:30"
+desc: "Support vector machines are a particularly powerful and flexible class of supervised algorithms. In this blog, we will explore the support vendor machines."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vector.png"
 headerAlt: ""
 date: "Nov 25, 2020"
 tag: [ Machine Learning ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

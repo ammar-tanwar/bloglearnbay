@@ -2,6 +2,8 @@
 title: You could be a pro in Data Science by Self Assisting
 stitle: "You could be a pro in Data Science by Self Assisting"
 publish: "Published on" 
+published_time: "2022-09-11T13:25:31+05:30"
+modified_time:  "2022-09-11T13:25:31+05:30"
 desc: "Get good at stats, math and machine learning. Take online data course.
 Learn to code. Computer science, development and a language..."
 slug: home
@@ -10,6 +12,12 @@ headerAlt: ""
 date: "Sep 11, 2022"
 tag: [ Data Science ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

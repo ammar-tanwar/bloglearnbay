@@ -2,13 +2,21 @@
 title: Create ML and Core ML- The Secret of Apple's Unbeatable Success
 stitle: "Create ML and Core ML- The Secret of Apple's Unbeatable Success"
 publish: "Published on"
-desc: "Machine learning is a highly versatile platform. This blog will brief us about the two Machine learning algorithms, create ML and core ML, which are used by Apple to develop its own IOS tools and platforms."
+published_time: "2023-02-15T13:25:31+05:30"
+modified_time: "2023-02-15T13:25:31+05:30"
+desc: "This blog will brief us about the two Machine learning algorithms, create ML and core ML, which are used by Apple to develop its own IOS tools and platforms."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cmcm-1.png"
 headerAlt: "A banner image titled 'Create ML & Core ML'. It also displays the logos of both machine learning model frameworks."
 date: "Feb 13, 2023"
 tag: [ create ml apple, ios machine learning, apple coreml, apple machine learning models ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

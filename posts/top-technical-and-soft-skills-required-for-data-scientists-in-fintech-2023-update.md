@@ -1,14 +1,22 @@
 ---
 title: Top Technical and Soft Skills Required for Data Scientists in Fintech(2023 Update)
-stitle: "Top Technical and Soft Skills Required for Data Scientists in Fintech(2023 Update)"
+stitle: "Top Technical Skills Of Data Scientist in FinTech - Learnbay Blog"
 publish: "Published on" 
-desc: "Data scientists are in high demand in the financial industry. According to a prominent recruiter, the need for data scientists with fintech experience is at an all-time high. With a growing interest in big data and machine learning, Fintech is one of the most profitable data science sectors. This blog will examine the industry's top technical and soft skills required for data scientists."
+published_time: "2022-12-21T13:25:31+05:30"
+modified_time:  "2022-12-21T13:25:31+05:30"
+desc: "Learn more about the technical and softskills required for a data scientist in fintech companies. Read more in this blog."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tts-1.png"
 headerAlt: "A banner image titled, 'Technical and soft skills essential for a data scientist in fintech'  shows an illustration of a data scientist using a laptop on the left."
 date: "Dec 21, 2022"
 tag: [ Skills required for data scientist, The skills required to master data science is, fintech industries, data scientist skills, data scientist skillset, important skills for data scientists, data scientist skill set, top skills for data scientists, data scientist technical skills, data scientist skill list, what skills are needed to be a data scientist, essential skills for data scientist, data scientist skills checklist, data scientist hard skills  ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

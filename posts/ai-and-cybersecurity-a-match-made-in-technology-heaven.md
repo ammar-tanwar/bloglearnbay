@@ -1,14 +1,22 @@
 ---
 title: AI and Cybersecurity - A Match Made in Technology Heaven
-stitle: "AI and Cybersecurity - A Match Made in Technology Heaven"
+stitle: "Artificial Intelligence and Cybersecurity: Perfect Power Pairing of Technologies"
 publish: "Published on"
-desc: "In this blog post, you will learn about the potential of AI and cybersecurity in today's growing technological world, here you will see various types of benefits while implementing both AI and cybersecurity to fight against cyber attacks and threats."
+published_time: "2023-01-02T13:25:31+05:30"
+modified_time: "2023-01-02T13:25:31+05:30"
+desc: "In this blog post, you will be briefed on different types of benefits while implementing both AI and cybersecurity to fight against cyber attacks and threats."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/amm-1.png"
 headerAlt: "A banner image is divided into two halves. The first half shows the application of AI and cybersecurity on a laptop, and the second half shows an AI professional standing in the front leading a team."
 date: "Jan 2, 2023"
 tag: [ AI and cybersecurity, Artificial intelligence in cybersecurity, AI and ML, artificial intelligence and machine learning, future of ai in cyber security]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

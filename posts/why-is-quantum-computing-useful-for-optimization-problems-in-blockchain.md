@@ -1,14 +1,22 @@
 ---
 title: Why Is Quantum Computing Useful for Optimization Problems in Blockchain?
-stitle: "Quantum Computing Applications | Problem Optimization in Blockchain"
+stitle: "Is Quantum Computing Useful for Optimization Problems in Blockchain?"
 publish: "Published on"
-desc: "Quantum computing is creating a buzz in today's tech world. Learn about quantum hacking and cryptographic encryption using various quantum computing applications."
+published_time: "2023-04-03T13:25:31+05:30"
+modified_time:  "2023-04-03T13:25:31+05:30"
+desc: "Discover how quantum computing revolutionizes optimization problems in blockchain. Also, learn how do quantum computers break blockchain authentication."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wqu-1.jpg"
 headerAlt: "A banner image titled, 'Is it Possible to break Cryptographic Encryption Using Quantum computing', shows a hologram of a humanoid hand."
 date: "Apr 03, 2023"
 tag: [ quantum computing ai and blockchain, need of quantum computing in blockchain ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

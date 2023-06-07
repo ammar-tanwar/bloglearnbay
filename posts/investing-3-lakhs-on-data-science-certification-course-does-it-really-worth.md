@@ -1,14 +1,22 @@
 ---
 title: Investing 3 lakhs on Data science Certification Course? Is it really worth it
-stitle: "Investing 3 lakhs on Data science Certification Course? Is it really worth it"
+stitle: "Is Investing 3 Lakhs on Data Science Certification Course Really Worth It?"
 publish: "Published on"
-desc: "We all know that data science is a highly fulfilling career with enormous financial prospects. Therefore, enrolling in the best-fit data science course is essential for new graduates as well as working professionals planning for career transition."
+published_time: "2022-04-13T13:25:31+05:30"
+modified_time: "2022-04-13T13:25:31+05:30"
+desc: "Discover the value of investing 3 lakhs in a data science certification course. Learn about the benefits, job prospects, and ROI to make an informed decision."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/invest.jpeg"
 headerAlt: "An image titled, 'investing 3 lakhs on Data Science Certification course? is it really worth it?' shows a bag with a dollar sign and a convocation hat."
 date: "Apr 13, 2022"
 tag: [ ibm data science professional certificate, data science certification course fees, ibm data science professional certificate cost in india, best data science certification course online ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

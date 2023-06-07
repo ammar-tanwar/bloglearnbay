@@ -2,13 +2,21 @@
 title:  OpenAI ChatGPT | Is It Really a Threat to the Humanoid World?
 stitle: "OpenAI ChatGPT | Is It Really a Threat to the Humanoid World?"
 publish: "Published on"
-desc: "OpenAI ChatGPT is a powerful tool for chatbot development. However, there are some limitations to ChatGPT that you should be aware of before using it. In this blog, we'll explore the implications of these limitations and whether ChatGPT can compete with Google's chatbot development tools."
+published_time: "2023-02-24T13:25:31+05:30"
+modified_time: "2023-02-24T13:25:31+05:30"
+desc: "In this blog, we'll explore the impact of the limitations and whether the Open ChatGPT can compete with Google's chatbot development tools."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oaic-1.png"
 headerAlt: ""
 date: "Feb 24, 2023"
 tag: [ open source chatbot, best ai chatbot, nlp chatbot, large language models use cases, conversational ai examples ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

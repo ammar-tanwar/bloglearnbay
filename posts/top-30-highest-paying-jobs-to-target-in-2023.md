@@ -1,14 +1,22 @@
 ---
 title: Top 30 Highest Paying Jobs to Target in 2023
-stitle: "Top 30 Highest Paying Jobs to Target in 2023"
+stitle: "Top 30 Highest Paying Jobs to Target in 2023 - Learnbay Blog"
 publish: "Published on" 
-desc: "This blog post is for you if you are looking for a career change or a high-paying job. Here you will learn about the 30 Highest paying jobs in the technical field that will reach a peak in the upcoming few years."
+published_time: "2023-01-18T13:25:31+05:30"
+modified_time:   "2023-01-18T13:25:31+05:30"
+desc: "Are you looking for a career change? In this blog,you will learn about the 30 Highest paying jobs in technical field that will reach a peak in the upcoming years."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/thpj-1.jpg"
 headerAlt: "A banner image titled, 'Top 30 Highest Paying Jobs to Target in 2023' shows a woman in formal attire pointing toward the above title."
 date: "Jan 18, 2023"
 tag: [ Highest paying jobs, best paying jobs, highest paying career, machine learning, AI, Data science, full-stack developer, data structure and algorithm, system design ]
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: "Trisha Manna - Highly Passionate Content Manager at Learnbay Blog Team"
+adesc: "Discover Trisha's extensive experience in writing about cutting-edge emerging technologies, including AI, ML, Web, and Software Development."
+
 author: "Trisha Manna"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trisha-manna.webp"
 authordesc: "Trisha holds 7+ years of expertise in emerging technology-related writing. AI, ML, web, and software development have always been on her extreme interest list. A passion for lifelong "

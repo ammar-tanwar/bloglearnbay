@@ -2234,6 +2234,21 @@
   },
 
   {
+    "slug": "top-8-ai-predictions-whats-next-for-ai-in-2023",
+    "frontmatter": {
+      "title": "Top 8 AI Predictions | What's Next for AI in 2023?",
+      "slug": "is-data-structure-and-algorithm-important-to-crack-product-based-company-interviews",
+      "description": "Data structure and Algorithms can be an effective way of achieving SDE Jobs. In this blog, you will be briefed on how DSA can easily help crack, product-based company interviews and what can be its future implications.",
+      "categories": "Full Stack",
+      "author":  "Abhishek Gupta",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsd-1.jpg",
+      "readTime": "6 mins",
+      "date": "Apr 05, 2023",
+      "draft": false
+    }
+  },
+
+  {
     "slug": "multimodal-Ddeep-learning-enabling-fusion-of-multiple-modalities-and-deep-learning",
     "frontmatter": {
       "title": "Multimodal Deep Learning | Enabling Fusion of Multiple Modalities And  Deep Learning",
@@ -2379,6 +2394,231 @@
       "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aci-1.png",
       "readTime": "7.5 mins",
       "date": "May 03, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "full-stack-developer-interview-questions",
+    "frontmatter": {
+      "title": "Top Full Stack Interview Questions and Answers in 2023",
+      "slug":  "full-stack-developer-interview-questions",
+      "description": "Explore the 45+ top interview questions for Full Stack developers with some tips. Master the art of acing Full Stack interviews with expert guidance.",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsi-1.png",
+      "readTime": "10.5 mins",
+      "date": "May 24, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "full-stack-developer-job-description",
+    "frontmatter": {
+      "title": "Breaking Down The Full Stack Developer Job Description",
+      "slug":  "full-stack-developer-job-description",
+      "description": "Explore in-depth breakdown of the full stack developer job description and gain a clear understanding of the roles, responsibilities, and skills required in this dynamic field.",
+      "categories": "Full Stack",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdtf-1.png",
+      "readTime": "10.5 mins",
+      "date": "May 27, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "become-full-stack-developer",
+    "frontmatter": {
+      "title": "Becoming a Full Stack Developer: The Ultimate Career Hack",
+      "slug":  "become-full-stack-developer",
+      "description": "Looking to fast-track your career as a full stack developer? Explore the ultimate career hack with our comprehensive guide on becoming a full stack developer",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bafsd-1.png",
+      "readTime": "10.5 mins",
+      "date": "May 28, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "full-stack-web-developer-portfolio",
+    "frontmatter": {
+      "title": "How to Build a Portfolio as a Full Stack Web Developer",
+      "slug":  "full-stack-web-developer-portfolio",
+      "description": "Learn how to create a portfolio as a full stack web developer. Explore essential tips, practices and strategies for showcasing your skills and projects.",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdp-1.png",
+      "readTime": "10.5 mins",
+      "date": "May 29, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "future-of-full-stack-development",
+    "frontmatter": {
+      "title": "Why Full Stack Development is the Future of Tech - Learnbay Blog",
+      "slug":  "future-of-full-stack-development",
+      "description": "Know why full stack development is the technology of the future. Examine full stack developers' efficiency and adaptability in addressing the demands of the tech industry",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fot-1.png",
+      "readTime": "10.5 mins",
+      "date": "May 30, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "business-analyst-skills",
+    "frontmatter": {
+      "title": "10 Essential Skills To Become A Successful Business Analyst",
+      "slug":  "business-analyst-skills",
+      "description": "Check out the top most essential skills to become a successful business analyst and it help you to stand out as a highly effective business analyst",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sbab.png",
+      "readTime": "10.5 mins",
+      "date": "May 25, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug":  "full-stack-developer-languages",
+    "frontmatter": {
+      "title": "The Top Programming Languages for Full Stack Development",
+      "slug":  "full-stack-developer-languages",
+      "description": "Master the essential full stack developer languages and become a sought-after employee. Our comprehensive guide outlines the various programming languages.",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/plfs.jpg",
+      "readTime": "10.5 mins",
+      "date": "May 26, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "full-stack-certification-benefits",
+    "frontmatter": {
+      "title": "The Benefits of Pursuing a Full Stack developer Certification",
+      "slug":  "full-stack-certification-benefits",
+      "description": "Explore the top benefits of  full stack developer certification and how it equips you with a comprehensive skill set to excel in the demanding tech industry.",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bopa.png",
+      "readTime": "10.5 mins",
+      "date": "May 31, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "business-analytics-career",
+    "frontmatter": {
+      "title": "How To Build A Career in Business Analytics: A Step-by-Step Guide",
+      "slug":  "business-analytics-career",
+      "description": "Learn how to build a successful Business Analyst career with this step-by-step guide. Get practical advice on topics such as data analysis, data visualisation, etc.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/htoc.jpg",
+      "readTime": "10.5 mins",
+      "date":    "Jun 01, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "full-stack-development-for-non-techies",
+    "frontmatter": {
+      "title": "Full Stack Development for Non-Techies: How to Get Started",
+      "slug":  "full-stack-development-for-non-techies",
+      "description": "In this blog we will guide you on essential skills, training, and tips on how to become a full stack software developer with a non-technical background.",
+      "categories": "Full Stack",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nthg-1.png",
+      "readTime": "10.5 mins",
+      "date":    "Jun 02, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "business-analytics-in-decision-making",
+    "frontmatter": {
+      "title": "How to Use Business Analytics for Better Decision-Making",
+      "slug":  "business-analytics-in-decision-making",
+      "description": "In this blog, you will be briefed on the use of business analytics in the decision making process in a company.",
+      "categories": "Hot Topics",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdm-1.png",
+      "readTime": "10.5 mins",
+      "date":    "Jun 03, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "business-analyst-career-paths",
+    "frontmatter": {
+      "title": "Top 5 Business Analyst Career Paths For 2023",
+      "slug":  "business-analyst-career-paths",
+      "description": "Explore the 5 best career opportunities for business analyst professionals in 2023 with this blog. Also check out their salary packages respectively",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cpi1.png",
+      "readTime": "10.5 mins",
+      "date":    "Jun 04, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "career-in-hr-analytics",
+    "frontmatter": {
+      "title": "How to Build a Career in HR Analytics: Essential Skills & Qualifications",
+      "slug":  "career-in-hr-analytics",
+      "description": "Are you interested in a career in HR analytics? Learn about the necessary skills and requirements by reading How to Build a Career in HR Analytics.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hran-1.jpg",
+      "readTime": "10.5 mins",
+      "date":    "Jun 05, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "data-analytics-skills",
+    "frontmatter": {
+      "title": "Top 10 Trending Skills for a Successful Data Analytics Career",
+      "slug":  "data-analytics-skills",
+      "description": "Discover the top 10 trending skills For Data Analytics Career. Stay ahead of the curve with these essential abilities for data analysts and boost your career.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsa.jpg",
+      "readTime": "10.5 mins",
+      "date":    "May 01, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "it-certifications",
+    "frontmatter": {
+      "title": "Top IT Certifications in Demand For 2023 - Learnbay Blog",
+      "slug":  "it-certifications",
+      "description": "In this blog, we have listed the top IT certification courses and programs to expand your skills and boost your career and salary.",
+      "categories": "Hot Topics",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/idf.jpg",
+      "readTime": "10.5 mins",
+      "date":    "May 02, 2023",
       "draft": false
     }
   }

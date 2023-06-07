@@ -1,14 +1,23 @@
 ---
 title: Cognitive Computing vs. Artificial Intelligence | Which One Is Superior?
-stitle: "Cognitive Computing vs. Artificial Intelligence | Which One Is Superior?"
+stitle: "Cognitive Computing v/s Artificial Intelligence - Learnbay Blog"
 publish: "Published on"
-desc: "People mostly get confused with Cognitive computing and artificial intelligence . In fact, there is another term, ‘cognitive AI.’ Know the difference between these and evaluate which is more in demand."
+published_time: "2023-02-15T13:25:31+05:30"
+modified_time: "2023-02-15T13:25:31+05:30"
+desc: "In this blog we will get to know the key differences between Cognitive Computing and Artificial Intelligence and evaluate which is more in demand."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ccai-1.jpg"
 headerAlt: "A banner image titled, 'Cognitive Computing vs. Artificial Intelligence, which One Is Superior?'. It also shows two robots walking in opposite directions on the blue and red arrow signs."
 date: "Feb 15, 2023"
 tag: [ cognitive computing in healthcare, cognitive computing in retail, difference between ai and cognitive computing ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

@@ -1,14 +1,22 @@
 ---
 title: Introduction To Data Types - What Does It Mean In Python Programming?
-stitle: "Introduction To Data Types - What Does It Mean In Python Programming?"
+stitle: "Introduction To Data Types In Python Programming"
 publish: "Published on"
-desc: "Programming is a combination of different data elements, such as integers, values, and strings called data types. Data types are classes, and variables are instances (objects) for these classes, as everything is an object in python programming."
+published_time: "2022-08-22T13:25:31+05:30"
+modified_time: "2022-08-22T13:25:31+05:30"
+desc: "In Python programming, Data types are classes, and variables are instances (objects) for these classes, as everything is an object in python programming."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-type-1.jpg"
 headerAlt: "A banner image titled, 'An introduction to Data types in statistics'."
 date: "August 22, 2022" 
 tag: [ Data types, Tuple in python, String datatype in python, datatypes in python, data types in python, data types in programming, what is a tuple in python, what is a tuple, tuple methods in python,  how to create a tuple in python, properties of tuple in python, tuple in python example, tuple in python operations, string in python, string data type in python, size of string data type in python, Numeric data type, List data Types, Set data types, Dictionary data type, how many data types in python, data types in python with examples ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Vineeth Kumar - A Data Science Enthusiast and Blogger at Learbay"
+adesc: "Vineeth Kumar, a blogger and experienced techie with in-depth knowledge of data science and python programming languages."
+
 author: "Vineeth Kumar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
 authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "

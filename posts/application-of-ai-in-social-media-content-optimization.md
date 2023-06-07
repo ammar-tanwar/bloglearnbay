@@ -1,14 +1,22 @@
 ---
 title:  Application of AI in Social Media Content Optimization
-stitle: "Application of AI in Social Media Content Optimization"
+stitle: "Applications of AI in Social Media Content Optimization - LearBay Blog"
 publish: "Published on"
-desc: "With continuous advancement, we have observed numerous applications of AI in social media. AI continuously alters social media platforms outcomes by enhancing client engagement and data security through in-depth predictive analysis. Here, you will learn more about how artificial intelligence enhances social media."
+published_time: "2023-12-19T13:25:31+05:30"
+modified_time: "2023-12-19T13:25:31+05:30"
+desc: "Discover how AI enhances social media content optimization, increasing engagement and expanding reach. Learn about the latest applications and strategies."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/asm-1.jpg"
 headerAlt: "A banner image titled, ' Application of AI in Social Media Content Optimization' contains the logo of YouTube, Facebook, Twitter, and Instagram."
 date: "Dec 19, 2022"
 tag: [ AI and Social media, benefits of ai in social media, future of ai in social media, advantages of ai in social media, impact of artificial intelligence on social media, how ai works in social media, how ai is used in social media ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

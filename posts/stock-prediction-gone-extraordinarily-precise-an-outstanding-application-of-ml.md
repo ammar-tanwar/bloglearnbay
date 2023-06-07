@@ -1,14 +1,22 @@
 ---
 title:  Stock Prediction Gone Extraordinarily Precise - An Outstanding Application of ML
-stitle: "Stock Prediction Gone Extraordinarily Precise - An Outstanding Application of ML"
+stitle: "Extraordinarily Accurate Stock Market Prediction - Application of ML"
 publish: "Published on"
-desc: "Every individual always seems to find it tough to predict stocks. Machines, on the other hand, are assisting us in making it more accessible. The algorithms are improving their ability to forecast the market's future. The algorithms will be discussed in depth in this blog."
+published_time: "2022-10-27T13:25:31+05:30"
+modified_time:  "2022-10-27T13:25:31+05:30"
+desc: "Many people have tried to predict stock market performance. In this blog we have discussed algorithms for predicting stock markets"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/st-1.jpg"
 headerAlt: "An increasing forecast of stocks is represented by a bar graph."
 date: "Oct 27, 2022"
 tag: [ Machine learning, Application of ML, Stock market, Reinforcement learning, machine learning application examples, stock market prediction, stock market prediction using machine learning, ml for trading, application of stock market prediction ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

@@ -2,13 +2,21 @@
 title: Edge AI and Its Importance in Today's Tech World!
 stitle: "Edge AI and Its Importance in Today's Tech World!"
 publish: "Published on"
-desc: "Edge AI is one of the most effective artificial intelligence (AI) programs currently available in the majority of physical devices worldwide. We can quickly access cloud computing while bringing it closer to the user's location with the help of Edge AI technology."
+published_time: "2022-11-30T13:25:31+05:30"
+modified_time: "2022-11-30T13:25:31+05:30"
+desc: "Edge AI is one of the most effective artificial intelligence (AI) programs currently available in the majority of physical devices worldwide."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eai-1.jpg"
 headerAlt: "A banner image titled , 'Edge AI and Its Importance in Today's Tech World!'"
 date: "Nov 30, 2022"
 tag: [ Edge AI, AI, artificial intelligence, Edge Artificial Intelligence, edge ai examples ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

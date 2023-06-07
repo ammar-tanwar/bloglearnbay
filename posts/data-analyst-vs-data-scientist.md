@@ -1,7 +1,9 @@
 ---
 title: "Data Scientist Vs. Data Analyst: Know The Ultimate Career Difference"
-stitle: "Data Analyst vs. Data Scientist: Which is Better Career Path in India?"
+stitle: "Data Analyst vs. Data Scientist: Which is Better?"
 publish: "Published on"
+published_time: "2023-04-12T13:25:31+05:30"
+modified_time: "2023-04-12T13:25:31+05:30"
 desc: "This blog is about data scientist vs. data analytics job responsibilities, salaries, criteria, and which one can provide significant growth in the different industries."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-1.jpg"
@@ -13,6 +15,12 @@ tag:
     difference between data science and data analyst,
   ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writter at Learbay "
+adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
+
 author: "Sonalisha Mohanty"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."

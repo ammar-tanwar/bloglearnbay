@@ -1,8 +1,10 @@
 ---
 title: Everything About Decision Tree From Scratch
-stitle: "Everything About Decision Tree From Scratch"
+stitle: "Everything About Decision Tree From Scratch - Learnbay Blog"
 publish: "Published on"
-desc: "The decision tree is the classification algorithm in ML(Machine Learning). A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences..."
+published_time: "2021-11-01T13:25:31+05:30"
+modified_time: "2021-11-01T13:25:31+05:30"
+desc: "Decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, and utility."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tree.png"
 headerAlt: ""
@@ -13,6 +15,12 @@ authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/lear
 authordesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: ""
+adesc: ""
+
 position: "Editor"
 readTime: "8-10 mins"
 h1: "Everything About Decision Tree From Scratch"

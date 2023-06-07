@@ -1,14 +1,20 @@
 ---
 title: 7 Best Machine Learning companies to work for in Bangalore 2023
-stitle: "7 Best Machine Learning companies to work for in Bangalore 2023"
+stitle: "7 Best Machine Learning Companies in Bangalore - Learnbay Blog"
 publish: "Published on"
-desc: "Looking for a job in machine learning? Bangalore is one of the best places to work in this field, and we've got a list of the top 7 companies to work for in 2023."
+published_time: "2022-09-7T13:25:31+05:30"
+modified_time: "2022-09-7T13:25:31+05:30"
+desc: "Bangalore is one of the best places to work for AI & Machine Learning Professionals, and discover a list of the top 7 machine learning companies to work for in 2023."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/7-machine-1.jpg"
 headerAlt: "A banner image shows stacks of high-raised office buildings of machine learning companies."
 date: "Sep 7, 2022"
 tag: [ best machine learning companies to work for, artificial intelligence and machine learning engineer, jobs for machine learning engineer, best companies for machine learning engineer, best companies to work for machine learning in india, machine learning companies in india, top machine learning companies in world, machine learning consulting companies, biggest machine learning companies, best companies for machine learning engineer, best machine learning workstation, highest paying machine learning companies, companies that hire machine learning engineers, best machine learning company, what are the best machine learning courses, best companies for ai engineers, artificial intelligence and machine learning engineer salary, artificial intelligence and machine learning engineering salary in india, machine learning engineer career path, artificial intelligence and machine learning engineering jobs, best companies for machine learning jobs in india ]
 category: "Machine Learning"
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

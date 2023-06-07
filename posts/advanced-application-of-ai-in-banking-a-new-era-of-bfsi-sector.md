@@ -2,6 +2,8 @@
 title:  Advanced Application of AI in Banking | A New Era of BFSI Sector
 stitle: "Advanced Application of AI in Banking | A New Era of BFSI Sector"
 publish: "Published on"
+published_time: "2022-11-23T13:25:31+05:30"
+modified_time: "2022-11-23T13:25:31+05:30"
 desc: "In this blog, we'll explore how AI is being used to revolutionize the banking industry, making it more efficient and effective. We'll also know how AI in Banking and Finance is Leading Us to Super Secure and Worry-free Banking Experiences!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ban-1.jpg"
@@ -9,6 +11,12 @@ headerAlt: "An illustration of a bank that contains a chat bubble represents the
 date: "Nov 23, 2022"
 tag: [ Artificial intelligence in Banking, AI in banking, artificial intelligence in banking India, future of artificial intelligence in banking, benefits of ai in banking, artificial intelligence in banking sector, artificial intelligence in banking sector in india, examples of artificial intelligence in banking, impact of artificial intelligence in banking sector, use of artificial intelligence in banking, role of artificial intelligence in banking sector ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

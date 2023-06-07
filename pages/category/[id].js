@@ -1,5 +1,6 @@
 import React from "react";
 import fs from "fs";
+import { NextSeo } from "next-seo"; // Add this import statement
 import path from "path";
 import matter from "gray-matter";
 import { getSortedPostsData } from "../../lib/posts";
@@ -14,17 +15,54 @@ import { useState } from "react";
 export default function CategoryBlog({ categoryPosts }) {
 
   const [visible, setVisible] = useState(9);
-  
+
   const showMoreItems = () => {
     setVisible((prevValue) => prevValue + 9);
   };
+
+  const cattitle = categoryPosts[0]?.cattitle || "";
+  const catdesc = categoryPosts[0]?.catdesc || "";
+
   return (
     <>
-      <Head>
-      <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
 
-        <title>{categoryPosts.tag}</title>
+      <NextSeo
+        title={`${cattitle}`}
+        description={`${catdesc}`}
+      // Add other SEO properties as needed
+      />
+
+
+      <Head>
+
+        {categoryPosts.slice(0, 1).map(
+          ({ category, categoryPosts }) => {
+            let makeUrl = category.toLowerCase().replace(/\s+/g, "-");
+
+            return (
+
+              <>
+
+                <link rel="canonical" href={'https://blog.learnbay.co/category/' + makeUrl} />
+
+              </>
+
+
+            );
+          }
+        )}
+        {/* <html lang="en" /> */}
+        <meta name="robots" content="index, follow" />
+        <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
+
+
+
+
       </Head>
+
+
+
+
       {/* <section className={styles.blogHead}>
         {categoryPosts.slice(0, 1).map((category) => {
           return <p key={category.tag}>{category.tag}</p>;
@@ -72,9 +110,9 @@ export default function CategoryBlog({ categoryPosts }) {
       </section>
 
       <div className={styles.loadMore}>
-                
-                <button onClick={showMoreItems}>Load More...</button>
-     </div>
+
+        <button onClick={showMoreItems}>Load More...</button>
+      </div>
 
 
     </>

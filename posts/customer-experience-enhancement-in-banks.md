@@ -2,6 +2,8 @@
 title: Customer Experience Enhancement In Banks
 stitle: "Customer Experience Enhancement In Banks"
 publish: "Published on"
+published_time: "2021-07-11T13:25:31+05:30"
+modified_time: "2021-07-11T13:25:31+05:30"
 desc: "Customer Experience Enhancement now have access to accounts and can transact across mobile, social, and other self-serve channels..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cus.jpg"
@@ -13,6 +15,12 @@ authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/lear
 authordesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 position: "Editor"
 readTime: "5-7 mins"
 h1: "Customer Experience Enhancement In Banks"

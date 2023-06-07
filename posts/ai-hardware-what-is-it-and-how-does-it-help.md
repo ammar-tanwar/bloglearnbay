@@ -1,8 +1,10 @@
 ---
 title: AI Hardware | What Is It and How Does It Help?
-stitle: "AI Hardware | What Is It and How Does It Help?"
+stitle: "What is AI Hardware? and How Does It Help? - Learnbay Blog"
 publish: "Published on"
-desc: "The development of AI hardware has essentially enhanced the effectiveness and proficiency of various hardware components. This blog will explain in detail what AI hardware is and how it can be advantageous in today's IT industry."
+published_time: "2023-01-02T13:25:31+05:30"
+modified_time: "2023-01-02T13:25:31+05:30"
+desc: "This blog will explain in detail how the development of AI hardware has enhanced the effectiveness and proficiency of various hardware components in today's IT industry."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ahw-1.png"
 # headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/B.jpg"
@@ -10,6 +12,12 @@ headerAlt: "A banner image titled, 'AI Hardware | What is it and How does it Hel
 date: "Mar 03, 2023"
 tag: [ what is ai optimized hardware, what is ai hardware ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

@@ -1,14 +1,22 @@
 ---
 title: Application of AI in the Fashion Industry | The Next-Level of Technical Creativity
-stitle: "Application of AI in the Fashion Industry | The Next-Level of Technical Creativity"
+stitle: "Application of AI in the Fashion Industry - Learnbay Blog"
 publish: "Published on"
-desc: "The application of AI in the fashion industry has enhanced the next level of technical creativity. In this blog, you will be briefed on the various applications of AI in the fashion industry that will technically advance and customize the innovative technique for fashion designers."
+published_time: "2023-02-08T13:25:31+05:30"
+modified_time: "2023-02-08T13:25:31+05:30"
+desc: "In this blog, you will be briefed on the various applications of AI in the fashion industry which has enhanced the next level of technical creativity."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aoai-1.jpg"
 headerAlt: "An illustration titled 'AI in the Fashion Industry', shows a woman using a tablet while a robot is holding a woman's apparel on a laptop screen."
 date: "Feb 08, 2023"
 tag: [ future of ai in fashion industry, fashion brands using artificial intelligence, impact of artificial intelligence in fashion industry ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

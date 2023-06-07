@@ -1,14 +1,22 @@
 ---
 title:  A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond
-stitle: "A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond"
+stitle: "A Few Fascinating Facts About Artificial Intelligence - Learnbay"
 publish: "Published on"
-desc: "Learn about the fascinating world of artificial intelligence with these AI facts. From chatbots to voice search, find out how AI is impacting our lives and what the future holds for this incredible technology."
+published_time: "2022-10-21T13:25:31+05:30"
+modified_time: "2022-10-21T13:25:31+05:30"
+desc: "From chatbots to voice search, learn about the fascinating facts about artificial intelligence and how it is impacting our lives."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-1.jpg"
 headerAlt: "A banner images titled, 'Fascinating Facts of AI.'"
 date: "Oct 21, 2022"
 tag: [ 10 cool facts on artificial intelligence, 10 points on artificial intelligence, artificial intelligence facts and statistics, artificial intelligence facts 2022, positive facts about ai, artificial intelligence facts 2023, Artificial intelligence, artificial intelligence facts, AI, NLP, Chatbot, Voice search ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc. "
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

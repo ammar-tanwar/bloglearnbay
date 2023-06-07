@@ -1,14 +1,22 @@
 ---
 title: How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin
-stitle: "How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin"
+stitle: "How DARWIN Platform Can Ease AI-related Difficulties"
 publish: "Published on"
-desc: "Here in this blog, learn about Darwin's various use cases and implications for any business perspective. This AI-based Darwin platform allows to ease of various type of AI-related difficulties and help to get more output from various AI device."
+published_time: "2023-01-06T13:25:31+05:30"
+modified_time: "2023-01-06T13:25:31+05:30"
+desc: "Here in this blog, learn how AI-based Darwin platform allows to ease of various type of AI-related difficulties and help to get more output from various AI device."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/438160-hdap-1.png"
 headerAlt: "A banner image AI-based robot claims to be skilled in several sectors."
 date: "Jan 6, 2023"
 tag: [ Darwin Platform, Linkedin DARWIN Platform, AI, data visualization, continued support, user interface, exploratory data analysis, Data science, darwin ai linkedin, darwin software ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import fs from "fs";
 import path from "path";
+import { NextSeo } from "next-seo"; // Add this import statement
 import matter from "gray-matter";
 import { getSortedPostsData } from "../../lib/posts";
 import styles from "../../styles/blogM.module.css";
@@ -21,11 +22,16 @@ import {
 export default function CategoryBlog({ categoryPosts }) {
 
   const [visible, setVisible] = useState(9);
-  
+
   const showMoreItems = () => {
     setVisible((prevValue) => prevValue + 9);
   };
   const [state, setstate] = useState();
+
+
+  const authortitle = categoryPosts[0]?.authortitle || "";
+
+  const adesc = categoryPosts[0]?.adesc || "";
 
   // useEffect(() => {
   //   categoryPosts.map((value,i) =>{
@@ -34,9 +40,10 @@ export default function CategoryBlog({ categoryPosts }) {
   //   })
 
   // }, );
-  // console.log("@@@@@@",state)
+  // console.log("@@@@@@",cattitle)
   return (
     <>
+<<<<<<< HEAD
       <Head>
 
       {/* {categoryPosts.slice(0,1).map(
@@ -55,51 +62,64 @@ export default function CategoryBlog({ categoryPosts }) {
         <title>{categoryPosts.tag}</title>
         {/* <html lang="en" /> */}
         <meta name="robots" content="index, follow"/>
+=======
+
+      <NextSeo
+        title={`${authortitle}`}
+        description={`${adesc}`}
+      // Add other SEO properties as needed
+      />
+
+
+      <Head>
+
+        {categoryPosts.slice(0, 1).map(
+          ({ author, categoryPosts }) => {
+            let makeUrl = author.toLowerCase().replace(/\s+/g, "-");
+
+            return (
+
+              <link rel="canonical" href={'https://blog.learnbay.co/author/' + makeUrl} />
+
+            );
+          }
+        )}
+        <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
+        <meta name="robots" content="index, follow" />
+>>>>>>> 4f8ca63e9fb40c8a3adb0593648d1a480e3499ab
       </Head>
-      {/* <section className={styles.blogHead}>
-        {categoryPosts.slice(0, 1).map((category) => {
-          return <p key={category.tag}>{category.tag}</p>;
-        })}
-      </section> */}
+   
 
       <br></br><br></br><br></br><br></br><br></br>
 
-      {/* <section>
-        <h1>{categoryPosts[0].author}</h1>
-        <h1>{categoryPosts[0].position}</h1>
-        <p>{categoryPosts[0].desc}</p>
-
-
-      </section> */}
-
       <div className={authorstyle.mdiv}>
         <div className={authorstyle.mcircle}>
-              <Image
-                src={categoryPosts[0].authorimg}
-                alt=""
-                priority={true}
-                width={170}
-                height={170}
-                className={authorstyle.circle}
-                
-              />
+          <Image
+            src={categoryPosts[0].authorimg}
+            alt=""
+            priority={true}
+            width={170}
+            height={170}
+            className={authorstyle.circle}
+
+          />
 
         </div>
-       
+
 
         <div className={authorstyle.m1div}>
 
-        <div className={authorstyle.m2div}>
+          <div className={authorstyle.m2div}>
             <h1>{categoryPosts[0].author}</h1>
-        </div>
-        <div className={authorstyle.social}>
-             <Link href={categoryPosts[0].authorlinkedin}>
-                    <FaLinkedinIn className={authorstyle.bIcons} />
-              </Link>
-        </div>
-            
+          </div>
+          <div className={authorstyle.social}>
+            <Link href={categoryPosts[0].authorlinkedin}>
+              <FaLinkedinIn className={authorstyle.bIcons} />
+            </Link>
+          </div>
 
-        {/* <div>
+
+          {/* <div>
             <h3>Designation : {categoryPosts[0].position}</h3>
           </div> */}
 
@@ -107,9 +127,9 @@ export default function CategoryBlog({ categoryPosts }) {
             <p> &quot;{categoryPosts[0].authordesc}&quot;</p>
 
           </div>
-         
-          
-        
+
+
+
         </div>
       </div>
 
@@ -154,9 +174,9 @@ export default function CategoryBlog({ categoryPosts }) {
       </section>
 
       <div className={styles.loadMore}>
-                
-                <button onClick={showMoreItems}>Load More...</button>
-     </div>
+
+        <button onClick={showMoreItems}>Load More...</button>
+      </div>
     </>
   );
 }

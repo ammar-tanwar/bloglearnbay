@@ -1,14 +1,22 @@
 ---
 title: Time Series Forecasting Methods | Trends of 2023
-stitle: "Time Series Forecasting Methods | Trends of 2023"
-publish: "Published on" 
-desc: "Time series forecasting has proven to be an essential tool for predicting and forecasting climate change, business trends, and other aspects. This blog will cover various advantages and use cases of time series forecasting to build strategies and limit the consequences."
+stitle: "Time Series Forecasting Trends in 2023 | Learnbay"
+publish: "Published on"
+published_time: "2023-02-27T13:25:31+05:30"
+modified_time:  "2023-02-27T13:25:31+05:30"  
+desc: "In this blog, you will learn about various advantages and use cases of time series forecasting to build strategies and limit the consequences."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsm-1.png"
 headerAlt: 'A banner image titled "Time Series Forecasting Methods | Trends for 2023" shows a green and a yellow line graph for time series forecasting.'
 date: "Feb 27, 2023"
 tag: [ different types of forecasting, time series forecasting methods machine learning ]
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

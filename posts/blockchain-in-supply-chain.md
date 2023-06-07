@@ -1,8 +1,10 @@
 ---
 title: "Blockchain In Supply Chain | 6 Exclusive Ways of Transparency Enhancement"
-stitle: "Future of Blockchain in Supply Chain: Know The 6 Proven Benefits"
+stitle: "The 6 Proven Benefits of Blockchain in Supply Chain"
 publish: "Published on"
-desc: "Applications of blockchain in supply chain have been proven the savior against complex logistics operations. Know the implications of this cutting-edge technology on supply chain and logistics management."
+published_time: "2023-04-19T13:25:31+05:30"
+modified_time: "2023-04-19T13:25:31+05:30"
+desc: "Learn the advantage of blockchain technology in the supply chain industry. Know the implications of this cutting-edge technology on supply chain and logistics management."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bis-1.jpg"
 headerAlt: "An illustration, 'Future of Blockchain in supply chain: Know the 6 proven benefits' shows a professional using the technology with building blocks to manage operations."
@@ -12,6 +14,12 @@ tag:
     blockchain development for supply chain, supply chain management in blockchain, blockchain in supply chain course,
   ]
 category: "Technology"
+
+cattitle: "Latest News, Updates, Blogs on Technology and Innovations - Learnbay Blogs"
+catdesc: "Check out the Learnbay technology resources section, featuring a comprehensive collection of blogs on topics such as web development, , AI, data science, and more."
+authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writter at Learbay "
+adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
+
 author: "Sonalisha Mohanty"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."

@@ -1,14 +1,22 @@
 ---
 title: Regression techniques in Machine Learning
-stitle: "Regression techniques in Machine Learning"
+stitle: "Regression techniques in Machine Learning | Learnbay Blog"
 publish: "Published on"
-desc: "In machine learning, Regression is the most important topic that needed to be learned. There are different types of Regression techniques in Machine Learning which we will know in this article."
+published_time: "2022-05-29T13:25:31+05:30"
+modified_time:  "2022-05-29T13:25:31+05:30"
+desc: "ML has become a trend in today's world of technology. There are different types of regression techniques in machine learning, which we will learn about in this article."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tech.jpg"
 headerAlt: "A banner image shows six different scattered plot graphs with different standard values in the regression technique."
 date: "May 29, 2022"
 tag: [ types of regression models in machine learning, regression in machine learning example, regression algorithms, types of regression models and when to use them, logistic regression machine learning, linear regression machine learning, machine learning regression models python, methods of regression analysis, linear regression techniques in machine learning, explain about the types of regression techniques in machine learning, what are the methods of machine learning, what is regression in machine learning with example, regression method in machine learning, how many types of regression in machine learning, what are machine learning techniques, what is regression techniques, explain regression in machine learning ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

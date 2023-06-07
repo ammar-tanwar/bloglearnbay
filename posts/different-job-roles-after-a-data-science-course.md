@@ -2,6 +2,8 @@
 title: Different Job Roles After A Data Science Course
 stitle: "Different Job Roles After A Data Science Course"
 publish: "Published on"
+published_time: "2022-04-07T13:25:31+05:30"
+modified_time: "2022-04-07T13:25:31+05:30"
 desc: "The amount of data that needs to be processed by humans has essentially been decreased and reduced by the use of data science. In today's technological environment, data scientists play a variety of functions that are fundamentally distinct from one another. If you're interested in a career in data science, check out our course to get started with different job roles in the data science industry."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/roles1.jpg"
@@ -13,6 +15,12 @@ authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/lear
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: ""
+adesc: ""
+
 position: "Editor"
 readTime: "20-25 mins"
 h1: "Different Job Roles After A Data Science Course"

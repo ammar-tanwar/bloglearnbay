@@ -2,6 +2,8 @@
 title: Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors
 stitle: "Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors"
 publish: "Published on" 
+published_time: "2023-03-07T13:25:31+05:30"
+modified_time:  "2023-03-07T13:25:31+05:30"
 desc: "Women have attained a peak in the field of technology. Here in this blog, we are going to discuss how women in data science have diminished the gender gap in tech sectors. Also, what are the difficulties and alternatives to pursuing the best data science course?"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wids-1.jpg"
@@ -9,6 +11,12 @@ headerAlt: "A banner image titled, 'Women in Data Science' shows a woman standin
 date: "Mar 07, 2023"
 tag: [ WiDS2023, women's day 2023 in india, women in data science conference ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Krishna Kumar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/krishna-kumar.webp"
 authordesc: "Krishna Kumar is the founder and CEO of Learnbay.  With 10+ years of experience in software engineering development followed by data science and AI expertise, he has managed to transform the careers of many tech professionals in data science and the full-stack field through his ed-tech platform."

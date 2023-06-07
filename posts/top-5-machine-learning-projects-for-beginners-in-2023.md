@@ -1,14 +1,22 @@
 ---
 title: Top 5 Machine Learning Projects for Beginners in 2023
-stitle: "Top 5 Machine Learning Projects for Beginners in 2023"
+stitle: "Top 5 Machine Learning Projects For Beginners - 2023"
 publish: "Published on" 
-desc: " In this blog post, check out the top 5 machine learning projects for beginners in 2023. Here, you can learn about various machine-learning algorithms; these projects will help you get started with machine learning and understand the real-world machine learning problems in a better way."
+published_time: "2023-01-27T13:25:31+05:30"
+modified_time:  "2023-01-27T13:25:31+05:30"
+desc: "Check out the top 5 ML projects for beginners in 2023.These projects will help to get started with ML and understand the real-world ML problems in a better way."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tmlp-1.jpg"
 headerAlt: "A banner image titled, 'Top 5 Machine Learning Projects for Beginners in 2023' shows an AI-based robot getting power through a chip."
 date: "Jan 27, 2023"
 tag: [ unique machine learning projects, machine learning projects in python, machine learning and deep learning. ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

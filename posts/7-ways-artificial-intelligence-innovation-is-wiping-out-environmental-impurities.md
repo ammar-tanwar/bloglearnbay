@@ -2,6 +2,8 @@
 title:  7 Ways Artificial Intelligence Innovation Is Wiping Out Environmental Impurities!
 stitle: "7 Ways Artificial Intelligence Innovation Is Wiping Out Environmental Impurities!"
 publish: "Published on"
+published_time: "2022-10-31T13:25:31+05:30"
+modified_time: "2022-10-31T13:25:31+05:30"
 desc: "Seven ways that artificial intelligence is being used to wipe out environmental impurities! From cleaning up oil spills to reducing air pollution, AI is making a big difference. Learn more about how AI is helping to save the planet."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/in-1.jpg"
@@ -9,6 +11,10 @@ headerAlt: "A banner image titled, '7 Ways Artificial Intelligence Innovation Is
 date: "Oct 31, 2022"
 tag: [ Artificial intelligence, AI, Delivery, logistics, positive impact of artificial intelligence on environment, ai and the environment, artificial intelligence and environmental sustainability, artificial intelligence in environmental engineering ]
 category: "Artificial Intelligence"
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

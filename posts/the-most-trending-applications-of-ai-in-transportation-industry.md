@@ -1,17 +1,25 @@
 ---
 title: The Most Trending Applications of AI in Transportation Industry
-stitle: "The Most Trending Applications of AI in Transportation Industry"
+stitle: "Trending Applications of AI in Transportation Industry"
 publish: "Published on" 
-desc: "Understand the significance of AI in the transportation sector to improve service quality with customer satisfaction. This blog highlights the benefits of AI in the transportation industry in easing our life."
+published_time: "2022-12-09T13:25:31+05:30"
+modified_time:  "2022-12-09T13:25:31+05:30"
+desc: "Increasing demand for safety in transportation and efficient traffic management are key factors influencing artificial intelligence in transportation."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg"
 headerAlt: "A banner illustration titled, 'Most Trending AI Applications in the Transportation Industry.' The illustration of transport vehicles and an AI-based automated robot."
 date: "Dec 9, 2022"
 tag: [ AI in transportation, AI in automotive industry, Artificial intelligence in transportation, AI in Aviation, AI in automobile, examples of ai in transportation, ai in transportation in india, benefits of ai in transportation, future of ai in transportation, ai in public transportation, ai in transportation and logistics, benefits of ai in transportation, application of ai in automotive industry, applications of artificial intelligence in transport an overview, future of ai in aviation, advantages of ai in aviation, application of ai in aviation, use of ai in automobile industry, benefits of ai in automotive industry, future of ai in automotive industry ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc. "
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+authordesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
-authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+adesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
 position: "Editor"
 readTime: "15-18 mins"

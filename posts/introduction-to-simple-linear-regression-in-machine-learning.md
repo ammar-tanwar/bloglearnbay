@@ -2,13 +2,21 @@
 title: Introduction to Simple Linear Regression in Machine Learning
 stitle: "Introduction to Simple Linear Regression in Machine Learning"
 publish: "Published on"
-desc: "No matter what ML course you have chosen, the first learning goal of data science statistics modules will be the LR (linear regression), better to say, Simple Linear Regression in Machine Learning..."
+published_time: "2021-09-07T13:25:31+05:30"
+modified_time: "2021-09-07T13:25:31+05:30"
+desc: "Learn the fundamentals of simple linear regression in machine learning. Understand how it works, its applications, and implementation"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear.jpg"
 headerAlt: ""
 date: "Sep 07, 2021"
 tag: [ Machine Learning ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

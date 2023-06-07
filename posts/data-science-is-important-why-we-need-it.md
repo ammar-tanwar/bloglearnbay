@@ -2,11 +2,13 @@
 title: Why Data Science Actually Matters in 2023?
 stitle: "Why Data Science Actually Matters in 2023?"
 publish: "Published on"
+published_time: "2021-12-01T13:25:31+05:30"
+modified_time: "2021-12-01T13:25:31+05:30"
 desc: "Data science is a diversified field, but many individuals still wonder why data science is important. This blog will provide an overview of numerous aspects and applications of data science, which shows its future implications."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdsa-1.jpg"
 headerAlt: "A banner image titled 'Why Data Science actually matters in 2023' shows two robots standing in front of a laptop and pointing at the screen."
-date: "Dec, 2021"
+date: "Dec 01, 2021"
 tag:
   [
     why data is important,
@@ -15,6 +17,12 @@ tag:
     advantages of data science,
   ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Krishna Kumar"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/krishna-kumar.webp"
 authordesc: "Krishna Kumar is the founder and CEO of Learnbay.  With 10+ years of experience in software engineering development followed by data science and AI expertise, he has managed to transform the careers of many tech professionals in data science and the full-stack field through his ed-tech platform."

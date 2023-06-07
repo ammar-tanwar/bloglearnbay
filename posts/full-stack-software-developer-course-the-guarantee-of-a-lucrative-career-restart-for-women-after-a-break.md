@@ -1,14 +1,22 @@
 ---
 title: Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break
-stitle: "Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break"
+stitle: "Restart You Full Stack Career After Break : Career Path For Women"
 publish: "Published on"
-desc: "Looking for a way to jumpstart your career after taking a break? Our full stack software developer course is designed specifically for women who want to make a successful career restart."
+published_time: "2022-09-30T13:25:31+05:30"
+modified_time: "2022-09-30T13:25:31+05:30"
+desc: "Discover the best career path with Learnbay's Full Stack Developer Career Course, which is designed specifically for women who want to make a successful career restart after a career break."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/f1.jpg"
 headerAlt: "A banner image shows a woman seated with a job offer as a full-stack software developer. The text reads, 'let's get started.'"
 date: "Sep 30, 2022"
 tag: [ full stack software developer, women software developer, Women in tech, full stack software developer course, career break ]
 category: "Full Stack"
+
+cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
+catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

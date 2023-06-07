@@ -1,14 +1,22 @@
 ---
 title: AI in Automotive Industry - Maneuvering the Automobile Sector of 2023
-stitle: "AI in Automotive Industry - Maneuvering the Automobile Sector of 2023"
+stitle: "AI in the Automotive Industry: Revolutionizing the Automobile Sector of 2023"
 publish: "Published on"
-desc: "Data science and Artificial Intelligence (AI) are rapidly expanding in the automotive industry. In this blog, we will learn about the numerous benefits and advantages of data science and AI in automotive industry, as well as their future implications."
+published_time: "2023-03-24T13:25:31+05:30"
+modified_time: "2023-03-24T13:25:31+05:30"
+desc: "Discover how AI is transforming the automotive industry in 2023. From autonomous vehicles to predictive maintenance, explore the latest advancements and opportunities."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mat-1.jpg"
 headerAlt: "A banner image titled, 'Data Science and AI in Automotive industry,' shows the blueprint of automated cars."
 date: "Mar 24, 2023"
 tag: [ data science in automobile industry, artificial intelligence in automobile industry, Performance automative, ai industry, ai in 2023, future of ai in automotive industry, ai in autonomous vehicles ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

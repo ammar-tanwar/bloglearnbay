@@ -2,13 +2,21 @@
 title: Top 8 Machine Learning Tools You Should Know in 2023
 stitle: "Top 8 Machine Learning Tools You Should Know in 2023"
 publish: "Published on" 
-desc: "Every tech industry incorporates machine learning tools and algorithms into their regular operations. This blog will provide you with information about the top eight machine learning tools and their key features, which are crucial for any ML enthusiast."
+published_time: "2022-03-01T13:25:31+05:30"
+modified_time:   "2022-03-01T13:25:31+05:30"
+desc: "This blog you will learn top 8 machine learning tools and their key features. Every tech industry incorporates ML tools and algorithms into their regular operations."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mlt-1.png"
 headerAlt: 'A banner image titled, "Top 8 Machine Learning Tools to Know in 2023" shows a humanoid brain in a circular illuminating ring.'
 date: "Mar 01, 2023"
 tag: [ machine learning tools and techniques, machine learning tools list, best machine learning tools ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

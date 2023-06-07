@@ -1,14 +1,22 @@
 ---
 title: Top Courses in 2023 for a Full-Stack Software Developer
-stitle: "Top Courses in 2023 for a Full-Stack Software Developer"
+stitle: "Top Courses for a Full-Stack Software Developer in 2023"
 publish: "Published on" 
-desc: "If you're looking for the best full-stack software development course, this blog post is for you. Here is a list of some of the best courses, ranging from beginner to advanced, that can help you easily choose a career as a full-stack software developer."
+published_time: "2023-01-13T13:25:31+05:30"
+modified_time:  "2023-01-13T13:25:31+05:30"
+desc: "are you looking for the full-stack software development course? Here is a list of best courses that can help you to choose a career as a full-stack software developer."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tcfs-1.jpg"
 headerAlt: "An illustration shows two full-stack software professionals are using multiple screens. There are several laptops and displays in the between showing HTML, CSS, jS, PHP, etc"
 date: "Jan 13, 2023"
 tag: [ full stack developer program, full stack software development course, full stack engineers, full stack developer skills ]
 category: "Full Stack"
+
+cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
+catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

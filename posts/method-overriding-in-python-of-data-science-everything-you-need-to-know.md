@@ -1,14 +1,22 @@
 ---
 title: Method Overriding in Python of Data Science Everything You Need to Know
-stitle: "Method Overriding in Python of Data Science Everything You Need to Know"
+stitle: "Method Overriding in Python For Data Science - Learnbay"
 publish: "Published on"
-desc: "Method Overriding in Python, Python is nothing but a high-level language in the programming era. It is a general-purpose language that is a must-learn for computer programming enthusiasts..."
+published_time: "2021-12-17T13:25:31+05:30"
+modified_time: "2021-12-17T13:25:31+05:30"
+desc: "The method overriding in Python means creating around two methods with the same particular name but differ in the programming logic as well."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/over.jpg"
 headerAlt: "An photo shows a professional using two desktops and keyboard for programming in Python utilizing method overriding."
 date: "Dec 17, 2021"
 tag: [ Python ]
 category: "Python"
+
+cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
+catdesc: "Python resources feature a wide range of Bogs, tutorials covering from basic syntax and programming concepts to advanced topics such as ML,  data science etc."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

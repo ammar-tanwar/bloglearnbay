@@ -1,14 +1,22 @@
 ---
 title: Random forest model(RFM)
-stitle: "Random forest model(RFM)"
+stitle: "A Introduction to Random forest model | Learnbay Blog"
 publish: "Published on"
-desc: "Random Forest Model is also a classification model with the combination of the decision tree. The random forest model algorithm is a supervised classification algorithm..."
+published_time: "2020-12-20T13:25:31+05:30"
+modified_time:  "2020-12-20T13:25:31+05:30"
+desc: "Random Forest Model is also a classification model with the combination of the decision tree. The RFM algorithm is a supervised classification algorithm."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfm.jpg"
 headerAlt: ""
 date: "Dec 20, 2020"
 tag: [ Machine Learning ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

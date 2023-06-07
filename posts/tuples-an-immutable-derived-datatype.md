@@ -1,14 +1,22 @@
 ---
 title: Tuples - An Immutable Derived Datatype
-stitle: "Tuples - An Immutable Derived Datatype"
-publish: "Published on" 
-desc: "In this blog post, we'll learn more about the tuple primitives in Python.  we can describe a tuple in Python as a general grouping of objects encased in a round bracket and separated by commas. In the general coding of Python, we can use tuples in multiple operations."
+stitle: "Tuples - An Immutable Derived Datatype | Learbay Blog"
+publish: "Published on"
+published_time: "2022-08-18T13:25:31+05:30"
+modified_time:  "2022-08-18T13:25:31+05:30" 
+desc: "In this blog you will learn about What is Tuples, Their Different Types, Sorting of Tuples and also, you will get to know about its basic operations."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tuples-1.jpg"
 headerAlt: "A banner image titled, 'Tuples in python' on the right. The left side contains a logo of Python. "
 date: "August 18, 2022" 
 tag: [ what are mutable and immutable data types in python, are tuples mutable in python, tuples are mutable or immutable, what are mutable data types in python, what is immutable in python, tuple immutable meaning, tuple are immutable, tuple immutable example, tuple immutable in python, tuple is a mutable data type ]
 category: "Python"
+
+cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
+catdesc: "Python resources feature a wide range of Bogs, tutorials covering from basic syntax and programming concepts to advanced topics such as ML,  data science etc."
+authortitle: "Vineeth Kumar - A Data Science Enthusiast and Blogger at Learbay"
+adesc: "Vineeth Kumar, a blogger and experienced techie with in-depth knowledge of data science and python programming languages."
+
 author: "Vineeth Kumar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
 authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "

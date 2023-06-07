@@ -2,7 +2,9 @@
 title: "DevOps Automation Tools in Retail | 3 Prominent Reasons Why It Needs Attention!"
 stitle: "DevOps Automation Tools for Retail Digital Transformation"
 publish: "Published on"
-desc: "DevOps Automation tools are replacing traditional physical stores with online retail. Its integrated version of retail operations attains a competitive edge. Read more to know the dynamic shifts in the retail industry with the inclusion of automation."
+published_time: "2023-04-14T13:25:31+05:30"
+modified_time: "2023-04-14T13:25:31+05:30"
+desc: "DevOps Automation tools are replacing traditional physical stores with online retail. Its integrated version of retail operations attains a competitive edge."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/devt-1.jpg"
 headerAlt: "A banner image titled, 'DevOps Automation Tools in Retail | 3 Prominent Reasons Why It Needs Attention!', shows three programmers with their systems positioned around a 3D DevOps logo."
@@ -12,6 +14,12 @@ tag:
     devops automation tools list, devops in retail industry, digital transformation tools
   ]
 category: "Technology"
+
+cattitle: "Latest News, Updates, Blogs on Technology and Innovations - Learnbay Blogs"
+catdesc: "Check out the Learnbay technology resources section, featuring a comprehensive collection of blogs on topics such as web development, , AI, data science, and more."
+authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writter at Learbay"
+adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
+
 author: "Sonalisha Mohanty"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."

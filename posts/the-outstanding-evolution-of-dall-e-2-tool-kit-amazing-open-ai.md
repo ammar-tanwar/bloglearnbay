@@ -1,14 +1,22 @@
 ---
 title: The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI
-stitle: "The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI"
+stitle: "The Outstanding Evolution of DALL-E 2 Tool Kit - Learnbay Blog"
 publish: "Published on" 
-desc: "Did you know you could create images by simply giving commands to a phone or laptop's microphone? If not, this is the blog post for you. DALL-E 2 are deep learning models developed by OpenAI that can generate digital images from text descriptions."
+published_time: "2022-12-02T13:25:31+05:30"
+modified_time:  "2022-12-02T13:25:31+05:30"
+desc: "Discover the remarkable advancements and incredible possibilities of DALL·E 2 tool kit by OpenAI. Explore the amazing potential of this groundbreaking technology."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oe-1.jpg"
 headerAlt: "A banner image titled as, 'DALL-E2- THE NEW HORIZON TEXT-TO-IMAGE TECHNOLGY'"
 date: "Dec 2, 2022"
 tag: [ DALL E 2, Open AI, GPT-3, how to use dall e 2, how to use dall-e 2, dall e 2, dall e 2 examples, openai dall e 2, dall-e, dall e 2 ai, dall e ai, dalle 2, openai dall e 2, dalle, dall e mini, dall-e 2, how to use dall e, ai image generator, dall e website, dalle mini, dall e image generator, dall e ai image generator, ai text generator gpt-3, what is gpt-3, openai gpt-3 ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

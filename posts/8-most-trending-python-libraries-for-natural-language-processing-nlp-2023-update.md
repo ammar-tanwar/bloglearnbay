@@ -1,14 +1,20 @@
 ---
 title: 8 Most Trending Python Libraries for Natural Language Processing (NLP) [2023 Update]
-stitle: "8 Most Trending Python Libraries for Natural Language Processing (NLP) [2023 Update]"
+stitle: "8 Most Trending Python Libraries For Natural Language Processing"
 publish: "Published on"
-desc: "Python is one of the most trending and versatile programming languages. Here in this blog post, we will see some of the trending Python libraries for natural language processing that would help you with classification, summarization, named entity recognition(NER), and machine translation."
+published_time: "2023-02-06T13:25:31+05:30"
+modified_time: "2023-02-06T13:25:31+05:30"
+desc: "Discover the trending Python libraries for natural language processing (NLP) that would help you with classification, summarization, NER, and machine translation."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mtpl-1.png"
 headerAlt: "A banner image titled '8 Python Libraries for Natural Language Processing'. It also displays the logo of the python programming language."
 date: "Feb 06, 2023"
 tag: [ Python libraries for natural language proceesing, List of python libraries, best nlp libraries for python, python libraries list and uses ]
 category: "Python"
+cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
+catdesc: "Python resources feature a wide range of Bogs, tutorials covering from basic syntax and programming concepts to advanced topics such as ML,  data science etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

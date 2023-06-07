@@ -1,14 +1,20 @@
 ---
 title: 8 Most Demanded Data Science Tools in 2023
-stitle: "8 Most Demanded Data Science Tools in 2023"
+stitle: "Top 8 Most Demanding Data Science Tools in 2023 - Learnbay"
 publish: "Published on"
-desc: "Data science tools are very reliable and practical in today's tech world. In this blog, we will learn about various data science tools and their features which will undoubtedly assist in career advancement in the data science sector."
+published_time: "2023-03-27T13:25:31+05:30"
+modified_time: "2023-03-27T13:25:31+05:30"
+desc: "Data science tools are very reliable and practical in today's tech world. In this blog, we will learn about 8 most demanded data science tools and their features."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mdds-1.jpg"
 headerAlt: "A banner image titled, '8 Most Demanded Data Science Tools in 2023' shows a box connected to a laptop that displays an analytical chart."
 date: "Mar 27, 2023"
 tag: [ data science software tools, data science most popular tools, data science tools and frameworks ]
 category: "Data Science"
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
 author: "Manas Kochar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

@@ -1,14 +1,22 @@
 ---
 title: Data Science for working professionals
-stitle: "Data Science for working professionals"
+stitle: "Data Science For Working Professionals - Learnbay Blog"
 publish: "Published on"
-desc: "A working professional will always find it challenging to change career. However, data science can be a fantastic companion in our efforts. Check out our articles for the most updated tips on learning data science and how it may help you advance your career while maintaining your current professional career."
+published_time: "2022-07-08T13:25:31+05:30"
+modified_time: "2022-07-08T13:25:31+05:30"
+desc: "Check out this blog for the most updated tips on learning data science and how it may help you advance your career while maintaining your current professional career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/working1.jpg"
 headerAlt: "An illustration titled 'Learning Data science As a working professional' shows a data science professional sitting and working on a laptop."
 date: "Jul 08, 2022"
 tag: [ data science course for working professionals in india, best data science course for working professionals, ibm data science professional certificate, best data science institute in india ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

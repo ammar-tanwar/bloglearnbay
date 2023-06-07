@@ -2,6 +2,8 @@
 title: Did You Know Artificial Intelligence Can Manipulate Human Behavior?
 stitle: "Did You Know Artificial Intelligence Can Manipulate Human Behavior?"
 publish: "Published on"
+published_time: "2022-10-12T13:25:31+05:30"
+modified_time: "2022-10-12T13:25:31+05:30"
 desc: "In this blog, we'll look at how Artificial Intelligence (AI) may detect defects in human behavior and utilize them to make decisions. AI has a lot of potential, but it also has a nasty side."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-1.jpg"
@@ -9,6 +11,12 @@ headerAlt: "A banner graphic showing an AI-powered robot and a human sitting tog
 date: "Oct 12, 2022"
 tag: [ human behavior manipulation definition, ai predicting human behavior, artificial intelligence and human behaviour, dark side of ai, ai manipulate human behavior, role of artificial intelligence in human life, is artificial intelligence a threat to humans ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

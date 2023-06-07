@@ -1,14 +1,22 @@
 ---
 title:  Is Data Structure and Algorithm Important to Crack Product-based Company Interviews?
-stitle: "Is Data Structure and Algorithm Important to Crack Product-based Company Interviews?"
+stitle: "Is Data SScience & Algorithms Important To Crack Product-based Company Interviews?"
 publish: "Published on"
-desc: "Data structure and Algorithms can be an effective way of achieving SDE Jobs. In this blog, you will be briefed on how DSA can easily help crack, product-based company interviews and what can be its future implications."
+published_time: "2023-04-05T13:25:31+05:30"
+modified_time: "2023-04-05T13:25:31+05:30"
+desc: "In this blog, you will learn about how DSA can easily help to crack product-based company interviews and the impact it can have in the future."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsd-1.jpg"
 headerAlt: "A banner image titled, 'Is DS and Algorithm Important to crack Product-Based Business Interviews?' shows an illustration of a person sitting on top of a desktop using a laptop."
 date: "Apr 05, 2023"
 tag: [ Full stack software developer, full stack developer, data structure and algorithms, software developer vs software engineer ]
 category: "Full Stack"
+
+cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
+catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
+authortitle: ""
+adesc: ""
+
 author: "Abhishek Gupta"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/abhishek-gupta.webp"
 authordesc: "Abhishek Gupta is the co-founder and CBO of Learnbay. He holds 7+ years of experience in business development, with a strong background as an instructor in management training and technology. Additionally holding expertise in data science, machine learning, data structure, and system designing. "

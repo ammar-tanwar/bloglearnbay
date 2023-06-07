@@ -1,14 +1,22 @@
 ---
 title:  What is AIoT? Know Its Advantages in Real-world Scenarios
-stitle: "What is AIoT? Know Its Advantages in Real-world Scenarios"
+stitle: "AIOT : Know the advantages in real work scenario"
 publish: "Published on" 
-desc: "AIoT, or artificial intelligence of things, is an approach to the development of intelligent systems that use data from sensors and other sources. AIoT is a combination of Artificial intelligence and IoT. In a word, it's the 'next-gen IoT.'"
+published_time: "2022-11-28T13:25:31+05:30"
+modified_time:  "2022-11-28T13:25:31+05:30"
+desc: "AIoT is a combination of AI and IoT.It is an approach to the development of intelligent systems that use data from sensors and other sources."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-1.jpg"
 headerAlt: "A banner image representing the use of IoT in various domains like automotive, electrical, etc.  This indicates the development of AIoT."
 date: "Nov 28, 2022"
 tag: [ Artificial intelligence of things, AIoT, Artificial intelligence and IoT, internet of things, artificial intelligence of things aiot, discuss some future products and application of aiot, aiot devices, artificial intelligence of things (aiot) technologies and applications, artificial intelligence of things for weather forecasting and climatic behavioral analysis, artificial intelligence of things examples, aiot full form, relationship between artificial intelligence and iot ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

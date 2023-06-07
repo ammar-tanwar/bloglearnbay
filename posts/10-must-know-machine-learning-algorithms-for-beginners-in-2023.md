@@ -1,14 +1,22 @@
 ---
 title: 10 Must-Know Machine Learning Algorithms for Beginners in 2023
-stitle: "10 Must-Know Machine Learning Algorithms for Beginners in 2023"
+stitle: "Top 10 Machine Learning Algorithms For Beginners in 2023 - Learnbay"
 publish: "Published on"
-desc: "This post will examine the ten machine-learning techniques that have proven to be most helpful in resolving more complex real-world problems. All these machine learning algorithms are essential aspects of designing real-world applications. Reading this blog will quickly assist you in adapting all ML algorithms."
+published_time: "2022-12-05T13:25:31+05:30"
+modified_time: "2022-12-05T13:25:31+05:30"
+desc: "Machine learning algorithms are essential aspects of designing real-world applications. Reading this blog will quickly assist you in adapting all ML algorithms."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-1.jpg"
 headerAlt: "A banner image titled, ' 10 Must-Know Machine Learning Algorithms for Beginners in 2023' consists of an ML-powered humanoid robot. "
 date: "Dec 5, 2022"
 tag: [ types of machine learning algorithms, machine learning algorithms for prediction, machine learning algorithms for beginners, machine learning algorithms examples ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

@@ -1,14 +1,22 @@
 ---
 title: Top 5 DSA Projects for Beginners in 2023!
-stitle: "Top 5 DSA Projects for Beginners in 2023!"
-publish: "Published on" 
-desc: "This article will look at some of the top data structure and algorithm projects that may help you establish a remarkable portfolio and stand out from the crowd. All of these DSA projects are ideal for those new to the DSA field. All of the DSA projects will assist you in showcasing your skills and landing your desired career."
+stitle: "Top 5 DSA Projects for Beginners in 2023 - Learnbay Blog"
+publish: "Published on"
+published_time: "2022-12-12T13:25:31+05:30"
+modified_time:  "2022-12-12T13:25:31+05:30"
+desc: "In this blog, will look at some top DSA projects for beginners that may help you establish a remarkable portfolio and stand out from the crowd."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/t5d-1.jpg"
 headerAlt: "An image titled, ' Top 5 DSA Projects for Beginners in 2023.'"
 date: "Dec 12, 2022"
 tag: [ DSA projects, data structure and algorithm projects, Data structure projects, data structures in real life projects, best dsa projects, dsa based projects, dsa certified projects, mini projects on data structures and algorithms, mini project data structure using linked list, data structures projects for beginners, dsa projects for beginners, data structure project with source code, data structure mini project ideas, data structures and algorithms projects ideas, projects to learn data structures and algorithms, best projects for data structures and algorithms, example of data structures and algorithms ]
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

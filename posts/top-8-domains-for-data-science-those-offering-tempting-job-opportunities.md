@@ -1,14 +1,22 @@
 ---
 title:  Top 8 Domains For Data Science Those Offering Tempting Job Opportunities
-stitle: "Top 8 Domains For Data Science Those Offering Tempting Job Opportunities"
+stitle: "Top 8 Domains For Tempting Data Science Job Opportunities"
 publish: "Published on" 
-desc: "Check out our list of the top 8 domains for data science that are offering tempting job opportunities. We will tell you about the skills you need to succeed in each domain and the types of jobs that are available."
+published_time: "2022-10-19T13:25:31+05:30"
+modified_time:   "2022-10-19T13:25:31+05:30"
+desc: "Discover the best domains for data science job opportunities. Explore how these domains can enhance your career and find out why they are in high demand."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/8d0.jpg"
 headerAlt: "A banner image represents the diversity of data science and the various data scientist job responsibilities."
 date: "Oct 19, 2022"
 tag: [ data science domain, best domain for data science, different domain in data science, data science applications, data science domain knowledge, why is domain expertise important for data science, data science domain expertise ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

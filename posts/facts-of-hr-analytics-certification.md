@@ -2,6 +2,8 @@
 title: "HR Analytics Certification: 7 Instances of a Successful Career You Want"
 stitle: "Read 7 Proven Facts Leading HR Analytics Certification"
 publish: "Published on"
+published_time: "2023-05-03T13:25:31+05:30"
+modified_time: "2023-05-03T13:25:31+05:30"
 desc: "HR analytics certification has initiated a radical change to the HR profession. It holds a bright and lucrative future for the said professionals. Read this article to know proven facts associated with this certification."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aci-1.png"
@@ -14,6 +16,12 @@ tag:
     data analytics for hr professionals,
   ]
 category: "Hot Topics"
+
+cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
+catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
+authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writter at Learbay"
+adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
+
 author: "Sonalisha Mohanty"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."

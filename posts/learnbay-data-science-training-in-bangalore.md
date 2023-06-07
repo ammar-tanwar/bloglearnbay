@@ -1,14 +1,22 @@
 ---
 title: Learnbay | Data Science Training in Bangalore
-stitle: "Learnbay | Data Science Training in Bangalore"
+stitle: "Data Science Training in Bangalore | Learnbay"
 publish: "Published on"
-desc: "Data science is an umbrella term which covers many areas of technology from Programming tools, statistics,Mathematics, Machine Learning, and computer science..."
+published_time: "2019-05-28T13:25:31+05:30"
+modified_time: "2019-05-28T13:25:31+05:30"
+desc: "Learnbay provides data science training in Bangalore with real time projects and Industry certificates. Our Classroom is especially designed for working professionals."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-data-science-1.png"
 headerAlt: ""
 date: "may 28, 2019" 
 tag: [ Data Science ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

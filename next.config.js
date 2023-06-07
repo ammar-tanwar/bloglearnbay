@@ -175,14 +175,47 @@ module.exports = {
         source: '/data-scientist-vs-data-analyst-know-the-ultimate-career-difference',
         destination: '/data-analyst-vs-data-scientist ',
         permanent: true,
-      }
+      },
 
-      //  {
-      //   source: '/what-is-ml-fairness-indicator-all-you-need-to-Know',
-      //   destination: '/what-is-ml-fairness-indicator-all-you-need-to-know',
+      {
+        source: '/blogs',
+        destination: '/',
+        permanent: true,
+      },
+
+      {
+        source: '/category/artificial-intelligence-',
+        destination: '/category/artificial-intelligence',
+        permanent: true,
+      },
+
+      // {
+      //   source: '/Search?q=',
+      //   destination: '/',
       //   permanent: true,
-      // }
+      // },
+
+      {
+        source: '/author/learnbay',
+        destination: '/',
+        permanent: true,
+      },
+
+      {
+        source: '/author',
+        destination: '/',
+        permanent: true,
+      },
+
+      {
+        source: '/full-stack-development-for-techies',
+        destination: '/full-stack-development-for-non-techies',
+        permanent: true,
+      },
 
     ]
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
   },
 }

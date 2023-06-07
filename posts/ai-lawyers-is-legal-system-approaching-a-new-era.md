@@ -1,14 +1,22 @@
 ---
 title: AI Lawyers | Is Legal System Approaching a New Era?
-stitle: "AI Lawyers | Is Legal System Approaching a New Era?"
+stitle: "AI Lawyers: Is the Legal System Approaching a New Era?"
 publish: "Published on"
-desc: "AI has a diversified field in many types of tech and no tech sectors; here, AI lawyers are the next big thing in the legal business and soon getting ready for courtroom assistance. Here in this blog, you will be briefed with different implications and uses cases of robot lawyers."
+published_time: "2023-03-06T13:25:31+05:30"
+modified_time: "2023-03-06T13:25:31+05:30"
+desc: "AI lawyers are the next big thing in the legal business. Here in this blog, you will be briefed with different implications and uses cases of robot lawyers."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/alis-1.png"
 headerAlt: "A banner image titled, 'AI Lawyers: Is Legal system approaching a New Era' shows a robotic hand holding a  balance (or scale) of justice."
 date: "Mar 06, 2023"
 tag: [ legal artificial intelligence, artificial intelligence in legal profession in india, ai in legal industry, ai in law and legal practice ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

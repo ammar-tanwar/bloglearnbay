@@ -1,14 +1,22 @@
 ---
 title:  The Innovation of Robot Chef is Thrilling The World! | The Power of AI
-stitle: "The Innovation of Robot Chef is Thrilling The World! | The Power of AI"
+stitle: "Thrilling the World: The Innovation of Robot Chef and the Power of AI"
 publish: "Published on"
-desc: "Have you ever considered having your food prepared by a robot chef? Many contend that this concept is impractical and unrelated to reality. But the recent invention has thrilled the world by creating an AI-bot chef, which mimics and cooks food like a top-rated human chef. In fact, such innovative robot chefs are available in India too."
+published_time: "2022-11-04T13:25:31+05:30"
+modified_time:  "2022-11-04T13:25:31+05:30"
+desc: "Discover the incredible innovation of robot chefs powered by AI technology that is revolutionizing the culinary world. Explore the features, benefits & impact of cooking automation."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/inn-1.jpg"
 headerAlt: "A robot wearing a chef outfit and holding a pan, resembling a real robot chef. The accompanying Text reads, 'The Innovation of Robot Chef is Thrilling The World! The Power of AI'"
 date: "Nov 04, 2022"
 tag: [ robotic chefs, food robot chefs, robot chef price  ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

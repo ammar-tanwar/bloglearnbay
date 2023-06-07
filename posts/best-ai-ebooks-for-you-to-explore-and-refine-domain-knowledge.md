@@ -2,6 +2,8 @@
 title:  Best AI eBooks For You To Explore And Refine Domain Knowledge
 stitle: "Best AI eBooks For You To Explore And Refine Domain Knowledge"
 publish: "Published on"
+published_time: "2022-11-11T13:25:31+05:30"
+modified_time: "2022-11-11T13:25:31+05:30"
 desc: "Looking for the best AI eBooks? Check out our collection of top AI eBooks for you to explore and refine your domain knowledge. From books on machine learning and artificial intelligence to data science and big data, we've got you covered. So what are you waiting for? Start reading today!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aie-1.jpg"
@@ -9,6 +11,12 @@ headerAlt: "A smartphone surrounded by books indicates the concept of ebooks. Th
 date: "Nov 11, 2022"
 tag: [ AI books, book on AI, Domain knowledge, ai books amazon, ai books for beginners, ai books 2022 ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc. "
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

@@ -1,14 +1,22 @@
 ---
 title: What Are The Differences Between Deep Learning and Neural Networks?
-stitle: "What Are The Differences Between Deep Learning and Neural Networks?"
+stitle: "Differences Between Deep Learning and Neural Networks"
 publish: "Published on" 
-desc: "Deep learning and neural networks in machine learning have always provided a better approach when implementing any ML-related tasks or projects. In this blog, you will be briefed on the key differences between deep learning and neural networks, which will assist you in determining which approach is best for your needs."
+published_time: "2023-01-30T13:25:31+05:30"
+modified_time:  "2023-01-30T13:25:31+05:30" 
+desc: "In this blog, you will learn the key differences between deep learning and neural networks, which will assist you in determining which approach is best for your needs."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dlnn-1.jpg"
 headerAlt: "A banner image titled, 'Differences Between Deep Learning and Neural Networks', shows an AI-based robotic hand holding a human brain."
 date: "Jan 30, 2023"
 tag: [ Neural Networks in machine learning, machine learning architecture, deep learning vs neural network, ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

@@ -1,14 +1,22 @@
 ---
 title: Linear Regression in Machine Learning
-stitle: "Linear Regression in Machine Learning"
+stitle: "Linear Regression in Machine Learning | Learnbay"
 publish: "Published on"
-desc: "In statistical modeling, regression analysis is a statistical process for estimating the relationships among variables. It includes many techniques for modeling and analyzing several variables when the focus is on the..."
+published_time: "2020-12-30T13:25:31+05:30"
+modified_time: "2020-12-30T13:25:31+05:30"
+desc: "Linear regression is one of the simplest and most popular machine learning algorithms. It is a statistical method used for predictive analysis."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/reg.jpg"
 headerAlt: ""
 date: "Dec 30, 2020"
 tag: [ Machine Learning ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

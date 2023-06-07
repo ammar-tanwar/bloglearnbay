@@ -1,12 +1,20 @@
 ---
 title: Win the COVID-19
-stitle: "Win the COVID-19"
+stitle: "Win the Battle Against COVID-19 with Data Science Course"
 publish: "Published on" 
-desc: "COVID-19 is an inevitable unfortunate situation, each one of us have got to fight it being at home, I just hope this all ends soon..."
+published_time: "2021-04-24T13:25:31+05:30"
+modified_time:  "2021-04-24T13:25:31+05:30"
+desc: "Equip yourself with data science skills to combat COVID-19. Learn how to analyze and predict pandemic trends."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/covid.png"
 headerAlt: ""
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 date: "Apr 24, 2021"
 tag: [ Data Science ]
 author: "Learnbay"

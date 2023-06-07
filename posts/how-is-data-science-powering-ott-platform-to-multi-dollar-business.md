@@ -1,14 +1,22 @@
 ---
 title: How Is Data Science Powering OTT Platform to Multi-Dollar Business
-stitle: "How Is Data Science Powering OTT Platform to Multi-Dollar Business"
+stitle: "Data Science Empowering OTT Platform Business - LearnBay Blog"
 publish: "Published on"
-desc: "OTT platforms are generally a type of audio and video services that are delivered over the internet. In this article, we'll show you how to use data science to build an OTT platform that can be used to grow your business in a number of ways."
+published_time: "2022-12-26T13:25:31+05:30"
+modified_time: "2022-12-26T13:25:31+05:30"
+desc: "Know how fusion of Data Science and OTT platforms is revolutionizing the entertainment industry, driving unprecedented growth & transforming businesses."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/popt-1.png"
 headerAlt: "A banner image titled, ' Application of AI in Social Media Content Optimization' contains the logo of YouTube, Facebook, Twitter, and Instagram."
 date: "Dec 26, 2022"
 tag: [ AI in Social media, AI and Social media ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
+adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+
 author: "Manas Kochar" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."

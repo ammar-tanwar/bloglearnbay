@@ -2,6 +2,8 @@
 title:  Know-How Conversational AI is Making Amazon Alexa Smarter
 stitle: "Know-How Conversational AI is Making Amazon Alexa Smarter"
 publish: "Published on"
+published_time: "2022-11-18T13:25:31+05:30"
+modified_time: "2022-11-18T13:25:31+05:30"
 desc: "AI is making Amazon Alexa smarter every day. Check out how conversational AI is making Amazon Alexa more intelligent. From improving her voice recognition to understanding human emotions, conversational AI is giving Alexa a big boost."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-1.jpg"
@@ -9,6 +11,12 @@ headerAlt: " A 3rd generation of Amazon Alexa eco dot device."
 date: "Nov 18, 2022"
 tag: [ Amazon Alexa, Alexa AI, Conversational AI, Alexa, API, Amazon, alexa ai knowledge, alexa ai technology, alexa ai voice, alexa is an example of ai, conversational ai examples, conversational ai definition, what is an example of conversational ai, Application Programming Interface, how does alexa use ai ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

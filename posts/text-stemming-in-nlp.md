@@ -1,8 +1,10 @@
 ---
 title: Text Stemming In NLP
-stitle: "Text Stemming In NLP"
+stitle: "A Quick Guide to Text Stemming in NLP - LearnBay Blog"
 publish: "Published on"
-desc: "Tons of data are generated every day as we speak, we text, we tweet, from voice to text on every social application and to get the insights of these text data we need technology as Text Stemming In NLP."
+published_time: "2022-07-05T13:25:31+05:30"
+modified_time:  "2022-07-05T13:25:31+05:30"
+desc: "Discover the fundamentals of Text Stemming in NLP & Its practical applications. Learn how to implement text stemming techniques in NLP for enhanced information retrieval & analysis."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/stem.jpg"
 headerAlt: "A banner image titled 'NLP' and various types of features in NLP, such as statistical keywords, evaluation interaction, summarization, typography, etc."
@@ -13,6 +15,12 @@ authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/lear
 authordesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 position: "editor"
 readTime: "4-5 mins"
 h1: "Text Stemming In NLP"

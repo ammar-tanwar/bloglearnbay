@@ -1,14 +1,22 @@
 ---
 title: How Does Intelligence Augmentation Differ from Artificial Intelligence?
-stitle: "How Does Intelligence Augmentation Differ from Artificial Intelligence?"
+stitle: "Intelligence Augmentation vs Artificial Intelligence"
 publish: "Published on"
-desc: "In the blog, we will learn the major difference between intelligence augmentation and artificial intelligence. Here we will also look at various approaches to the deployment, functioning, and use cases of intelligence augmentation in a real-world scenario."
+published_time: "2023-02-03T13:25:31+05:30"
+modified_time: "2023-02-03T13:25:31+05:30"
+desc: "In the blog, we will learn the major difference between intelligence augmentation and artificial intelligence as well as deployment, functioning, and use cases of IA."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdia-1.png"
 headerAlt: "A banner image titled 'Intelligence Augmentation & Artificial Intelligence' shows two robots named IA and AI standing in front of each other."
 date: "Feb 03, 2023"
 tag: [ artificial intelligence vs augmented intelligence, what is augmented intelligence, augmented AI ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

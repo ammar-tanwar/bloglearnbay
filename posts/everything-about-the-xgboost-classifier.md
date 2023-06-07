@@ -1,8 +1,10 @@
 ---
 title: Everything About the XGBoost Classifier
-stitle: "Everything About the XGBoost Classifier"
+stitle: "Everything About the XGBoost Classifier - Learnbay Blog"
 publish: "Published on"
-desc: "In this blog, learn about the XGBoost classifier and how it works with various applications to increase its efficiency. It will help you to get a brief on machine learning algorithms and improve the predictive modeling structure."
+published_time: "2022-02-04T13:25:31+05:30"
+modified_time: "2022-02-04T13:25:31+05:30"
+desc: "In this blog, learn about the XGBoost classifier and how it works with various applications to increase its efficiency."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/xgb-1.jpg"
 headerAlt: "An XGBoost classifier shows its functionalities such as: - 
@@ -15,6 +17,12 @@ In-built cross-validation capability"
 date: "Feb 04, 2022"
 tag: [ xgboost similarity score, xgboost quantile ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Vineeth Kumar - A Data Science Enthusiast and Blogger at Learbay"
+adesc: "Vineeth Kumar, a blogger and experienced techie with in-depth knowledge of data science and python programming languages."
+
 author: "Vineeth Kumar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
 authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "
@@ -22,7 +30,7 @@ authorlinkedin: "https://www.linkedin.com/in/vineeth-kumar-104a6b98/"
 position: "Editor"
 readTime: "5-6 mins"
 h1: "Everything About the XGBoost Classifier"
-id: "everything-about-the-xgboost-classifier"
+id: "In this blog, learn about the XGBoost classifier and how it works with various applications to increase its efficiency."
 tableData:
   [
    What is the XGBoost Classifier?, How does XGBoost work?, Unique features of the XGBoost Classifier, Solving the XGBoost mathematically:-, Finally 

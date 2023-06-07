@@ -2,6 +2,8 @@
 title: How to Build a Rewarding Career As a Healthcare Data Scientist?
 stitle: "How to Build a Rewarding Career As a Healthcare Data Scientist?"
 publish: "Published on"
+published_time: "2022-05-16T13:25:31+05:30"
+modified_time: "2022-05-16T13:25:31+05:30"
 desc: "Data science in Healthcare isn’t something new. It is the most common industry where data science and analytics are applied..."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health.png"
@@ -13,6 +15,12 @@ authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/lear
 authordesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 category: "Data Science" 
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: ""
+adesc: ""
+
 position: "Editor"
 readTime: "10-22 mins"
 h1: "How to Build a Rewarding Career As a Healthcare Data Scientist?"

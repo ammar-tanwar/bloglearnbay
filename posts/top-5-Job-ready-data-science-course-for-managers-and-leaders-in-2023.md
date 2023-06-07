@@ -1,15 +1,23 @@
 ---
 title: Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023
-stitle: "Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023"
+stitle: "Top 5 Job-Ready Data Science Courses For Managers and Leaders - 2023"
 publish: "Published on" 
-desc: "Whether you're a manager or leader looking to transition into a data science career, these are the top 5 job-ready data science courses for managers and leaders in 2023."
+published_time: "2022-08-24T13:25:31+05:30"
+modified_time:  "2022-08-24T13:25:31+05:30"
+desc: "Are you a manager? If you are looking for a career in data science, here top 5 best Job-ready data science course for managers in 2023."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-job-role-1.png"
 headerAlt: "A Banner image consists of the text, 'Top 5' in the background."
 date: "August 24, 2022"
 tag: [ Data science, Data Science managers, Data Science manager salary, data science managers course, Data science managers roles and responsibilities, data science certification for managers, data science course for managers and leaders, data science management jobs, data science for business managers, data science for leaders, data science manager salary near bengaluru karnataka, data science manager salary india, data science manager salary bangalore, data science manager job description, data science manager jobs,  data science manager skills ]
 category: "Data Science"
-author: "Milan"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
+author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 

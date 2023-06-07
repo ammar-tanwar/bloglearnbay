@@ -2,13 +2,21 @@
 title:  How is Augmented Reality Helping the Cyber Security System?
 stitle: "How is Augmented Reality Helping the Cyber Security System?"
 publish: "Published on"
-desc: "Learn how Augmented Reality is helping the cyber security system by providing a new level of security for businesses and organizations.  AR can be used to detect and respond to potential threats in real time, making it a valuable tool for keeping businesses and individuals safe. Read more to find out how augmented reality is changing the landscape of cyber security."
+published_time: "2022-11-14T13:25:31+05:30"
+modified_time: "2022-11-14T13:25:31+05:30"
+desc: "Artificial Intelligence in cyber security system is providing a new level of security for businesses and how AR is changing the landscape of cyber security."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar-1.jpg"
 headerAlt: "The banner image displays a human hand pointing toward  numerous AR features in cybersecurity."
 date: "Nov 14, 2022"
 tag: [ AR, Augmented reality, Cybersecurity, augmented reality examples, augmented reality technology, augmented reality definition ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

@@ -1,14 +1,22 @@
 ---
 title: Women in AI - Top 10 Indian Women Empowering the World of AI
-stitle: "Women in AI - Top 10 Indian Women Empowering the World of AI"
+stitle: "Top 10 Indian Women Empowering the World of AI"
 publish: "Published on" 
-desc: "Indian women are making a mark in the field of artificial intelligence. Here is a list of the top 10 Indian women who are empowering the world of AI. We salute these women for their work and achievements."
+published_time: "2022-09-17T13:25:31+05:30"
+modified_time:  "2022-09-17T13:25:31+05:30"
+desc: "Know the achievements of Indian women who are making a significant impact in the world of AI. Learn how these inspiring women are revolutionizing the field and empowering others."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-ai-1.png"
 headerAlt: "A banner image titled, ' Women Empowering the World of AI' shows a collage of five women AI leaders' portraits."
 date: "Sep 26, 2022"
 tag: [ Women Leader In AI, women leaders in data and AI, Women leading In AI, women leaders AI ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."

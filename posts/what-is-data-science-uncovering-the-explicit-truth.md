@@ -1,7 +1,9 @@
 ---
 title: What is Data Science? | Uncovering The Explicit Truth
-stitle: "What is Data Science? | Uncovering The Explicit Truth"
-publish: "Published on" 
+stitle: "The explicit truth about data science | Learnbay"
+publish: "Published on"
+published_time: "2022-08-26T13:25:31+05:30"
+modified_time:  "2022-08-26T13:25:31+05:30" 
 desc: "Data science is the field of study combining programming, domain expertise, skills, and knowledge of mathematics and statistics to derive meaningful insights from data."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/what-is-data-science1.png"
@@ -9,6 +11,12 @@ headerAlt: "An image titled, 'What is data science?'"
 date: "August 26, 2022" 
 tag: [ Data Science Course, Data Scientist Job, Data Science, data science course in bangalore, data science course fees, data science course online, data science course in india, data science course duration, best data science course, best data science course in india, data scientist jobs bangalore ]
 category: "Data Science"
+
+cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
+catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
+authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
+
 author: "Milan Jain"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

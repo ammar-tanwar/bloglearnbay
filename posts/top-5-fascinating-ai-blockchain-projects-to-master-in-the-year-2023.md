@@ -1,14 +1,22 @@
 ---
 title: Top 5 Fascinating AI Blockchain Projects to Master in the Year 2023!
-stitle: "Top 5 Fascinating AI Blockchain Projects to Master in the Year 2023!"
+stitle: "5 fascinating AI blockchain Projects in 2023 - Learnbay Blog"
 publish: "Published on" 
-desc: "Learn and comprehend the fascinating field of AI blockchain technology and its promising implications for the future. This blog will teach you about the benefits of AI in blockchain projects and their benefits. Additionally, stay up to date with the most recent advancements in artificial intelligence blockchain technology."
+published_time: "2023-03-17T13:25:31+05:30"
+modified_time:  "2023-03-17T13:25:31+05:30"
+desc: "This blog will teach you about the benefits of AI in blockchain Projects and Learn about the compelling AI blockchain technology and its impact on future."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fabp-1.png"
 headerAlt: "An image titled, 'Top 5 Fascinating AI Blockchain Projects to Master in the Year 2023.'"
 date: "Mar 17, 2023"
 tag: [ top ai blockchain projects, ai and blockchain integration, blockchain and ai courses, blockchain project ideas ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

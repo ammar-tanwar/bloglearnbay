@@ -1,14 +1,22 @@
 ---
 title:  Cloud Computing and Machine Learning - How These Two Become Relevant
-stitle: "Cloud Computing and Machine Learning - How These Two Become Relevant"
+stitle: "Relevancy Between Cloud Computing and Machine Learning"
 publish: "Published on"
-desc: "Cloud computation and machine learning are ruling the industry for a long period of time. Both of these technologies are critical to the growth of both small and large businesses. It serves as an organization's technology hub. Organizations can use cloud computing to process large amounts of data and get relevant results in real-time."
+published_time: "2022-10-25T13:25:31+05:30"
+modified_time: "2022-10-25T13:25:31+05:30"
+desc: "Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-1.jpg"
 headerAlt: "An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing."
 date: "Oct 25, 2022"
 tag: [ Cloud computing, machine learning Machine learning, Artificial intelligence, machine learning introduction, types of machine learning, machine learning examples, supervised vs unsupervised learning, machine learning definition, cloud computing meaning, cloud computing basics, what is cloud computing with example, types of cloud computing ]
 category: "Cloud Computing"
+
+cattitle: "Latest Cloud Computing Blogs and Updates - Learnbay Blogs"
+catdesc: "Explore latest Cloud Computing trends with this dedicated blog page, features highly informative articles on Cloud Architecture, Cyber Security, DevOps etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"

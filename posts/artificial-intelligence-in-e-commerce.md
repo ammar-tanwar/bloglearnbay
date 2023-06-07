@@ -1,14 +1,22 @@
 ---
 title: Artificial Intelligence in E-commerce
-stitle: "Artificial Intelligence in E-commerce"
+stitle: "Top 10 Applications of Artificial Intelligence in E-Commerce"
 publish: "Published on"
-desc: "The internet has opened the door for revolutionizing various sectors. E-commerce sector is one of them. E-commerce sectors have unlocked new opportunities and scope for retailers. Retailers also have never seen such a growth in their sales..."
+published_time: "2021-04-15T13:25:31+05:30"
+modified_time: "2021-04-15T13:25:31+05:30"
+desc: "In this blog, we will discuss about the top 10 practical applications of artificial intelligence in E-commerce and how it is useful for online retailers."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ar.jpg"
 headerAlt: ""
 date: "Apr 15, 2021"
 tag: [ Artificial Intelligence ]
 category: "Artificial Intelligence"
+
+cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
+catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
+authortitle: ""
+adesc: ""
+
 author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""

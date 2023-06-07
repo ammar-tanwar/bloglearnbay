@@ -1,14 +1,22 @@
 ---
 title: The Top 10 Deep Learning Algorithms to Master in 2023
-stitle: "The Top 10 Deep Learning Algorithms to Master in 2023"
+stitle: "Top 10 Deep Learning Algorithms in 2023 | learnbay"
 publish: "Published on" 
-desc: "The article discusses deep learning algorithms and some of the most effective machine learning tools. These algorithms are highly capable of making predictions, finding data patterns, and decision-making techniques. Read on to gain knowledge of deep learning algorithms with optimal methods and advantages."
+published_time: "2022-12-07T13:25:31+05:30"
+modified_time:  "2022-12-07T13:25:31+05:30"
+desc: "Read on to learn more about deep learning algorithms with best practices and benefits that are able to make predictions, find data patterns, and make decisions."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dla-1.jpg"
 headerAlt: "A banner image titled 'The Top 10 Deep Learning Algorithms to master in 2023' shows a female humanoid robotic face."
 date: "Dec 7, 2022"
 tag: [ deep learning algorithms in machine learning, deep learning algorithms list, deep learning algorithms examples, artificial neural network, neural network machine learning, neural network deep learning, neural network example, neural network algorithm, types of neural network, deep learning models, deep learning example, types of deep learning, neural network algorithm, deep learning techniques, deep learning algorithm, example of deep learning ]
 category: "Machine Learning"
+
+cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+
 author: "Nivin Biswas"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
