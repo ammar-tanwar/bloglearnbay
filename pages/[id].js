@@ -136,7 +136,7 @@ export default function Post({ postData, posts }) {
                             <span className={styles.number}>{i}</span>
                           </div> */}
                           <span>
-                            <p style={{fontSize: 15 + 'px'}}>
+                            <p className={styles.tocContent}>
                               <Link href={url}>{table}</Link>
                             </p>
                             <hr className={styles.tableline} />
