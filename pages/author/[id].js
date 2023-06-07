@@ -43,26 +43,6 @@ export default function CategoryBlog({ categoryPosts }) {
   // console.log("@@@@@@",cattitle)
   return (
     <>
-<<<<<<< HEAD
-      <Head>
-
-      {/* {categoryPosts.slice(0,1).map(
-          ({ author, categoryPosts }) => {
-            let makeUrl = category.toLowerCase().replace(/\s+/g, "-");
-        
-            return (
-
-              <link rel="canonical" href={'https://blog.learnbay.co/category/' + makeUrl} />
-              
-            );
-          }
-        )} */}
-        <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
-
-        <title>{categoryPosts.tag}</title>
-        {/* <html lang="en" /> */}
-        <meta name="robots" content="index, follow"/>
-=======
 
       <NextSeo
         title={`${authortitle}`}
@@ -86,7 +66,6 @@ export default function CategoryBlog({ categoryPosts }) {
         )}
         <link rel="icon" href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png" />
         <meta name="robots" content="index, follow" />
->>>>>>> 4f8ca63e9fb40c8a3adb0593648d1a480e3499ab
       </Head>
    
 
