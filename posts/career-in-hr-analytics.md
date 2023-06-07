@@ -33,8 +33,6 @@ tableData:
 ---
 
 
-<span style=" font-weight:bold; font-size:28px">How To Build A Career in HR Analytics: Essential Skills & Qualifications</span>
-
 Are you someone who joined the HR domain to understand and manage individuals within an organization? At the same time, do you love playing with data to get better and bigger insights? 
 
 If yes, then the HR analytics field is your prime setup. Analytics drive significant changes in these areas. The HR department is the one that sees an insightful presentation of labour market trends and related facts. HR analysts, as well as people analytics, are proving compatible with the changing business landscape hence, having related insights is easier.

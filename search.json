@@ -2621,5 +2621,20 @@
       "date":    "May 02, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug":  "data-analyst-career-paths",
+    "frontmatter": {
+      "title": "Data Analytics Career Path: How to Start, Grow, and Succeed",
+      "slug":  "data-analyst-career-paths",
+      "description": "In this blog, we will shed light on data analytics career paths including the skills you need and how to learn them.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sg-1.jpg",
+      "readTime": "10.5 mins",
+      "date":   "Jun 07, 2023",
+      "draft": false
+    }
   }
 ]

@@ -144,7 +144,7 @@ export default function Post({ postData, posts }) {
                             <span className={styles.number}>{i}</span>
                           </div> */}
                           <span>
-                            <p style={{fontSize: 15 + 'px'}}>
+                            <p className={styles.tocContent}>
                               <Link href={url}>{table}</Link>
                             </p>
                             <hr className={styles.tableline} />
@@ -180,7 +180,7 @@ export default function Post({ postData, posts }) {
               <div className={styles.leftInfo}>
                 <article dangerouslySetInnerHTML={{ __html: postData.body }} />
                 <hr />
-                <div className={styles.tag}>
+                {/* <div className={styles.tag}>
                   <div className={styles.lSide}>
                     <p>Tags</p>{" "}
                     {postData.tag.map((tag, i) => {
@@ -191,7 +191,7 @@ export default function Post({ postData, posts }) {
 
 
                   </div>
-                </div>
+                </div> */}
                 <div>
                   <Socialshare postData={postData} />
                 </div>
