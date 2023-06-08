@@ -4,7 +4,7 @@ stitle: "The Future of Data Analytics Career - Learnbay Blog"
 publish: "Published on"
 published_time: "2023-06-08T13:25:31+05:30"
 modified_time: "2023-06-08T13:25:31+05:30"
-desc: "In this blog we will discover the path to a rewarding data analytics career. Also, learn the fundamentals and key applications of data analytics."
+desc: "Data analysts are experts who translate & capture valuable insights from unstructured data. Here, in this blog we will take a dive into data analytics career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ac.jpg"
 headerAlt: ""

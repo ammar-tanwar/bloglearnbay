@@ -4,7 +4,7 @@ stitle: "Top IT Certifications in Demand For 2023 - Learnbay Blog"
 publish: "Published on"
 published_time: "2023-05-02T13:25:31+05:30"
 modified_time: "2023-05-02113:25:31+05:30"
-desc: "In this blog, we have listed the top IT certification courses and programs to expand your skills and boost your career and salary."
+desc: "From Amazon Web Services to IBM, here you will find the top IT certification courses and programs to expand your skills and boost your career and salary."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/idf.jpg"
 headerAlt: "Top IT Certifications in Demand For 2023 - Learnbay Blog"

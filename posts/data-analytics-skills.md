@@ -4,7 +4,7 @@ stitle: "Top 10 Trending Skills for a Successful Data Analytics Career"
 publish: "Published on"
 published_time: "2023-05-01T13:25:31+05:30"
 modified_time: "2023-05-05113:25:31+05:30"
-desc: "Discover the top 10 trending skills For Data Analytics Career. Stay ahead of the curve with these essential abilities for data analysts and boost your career."
+desc: "check out the skills to become a data analyst and stay ahead of the curve with these essential abilities for data analysts and boost your career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsa.jpg"
 headerAlt: ""

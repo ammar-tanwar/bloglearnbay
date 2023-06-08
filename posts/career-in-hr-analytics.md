@@ -4,7 +4,7 @@ stitle: "How to Build a Career in HR Analytics: Essential Skills & Qualification
 publish: "Published on"
 published_time: "2023-06-05T13:25:31+05:30"
 modified_time: "2023-06-05T13:25:31+05:30"
-desc: "Are you interested in a career in HR analytics? Learn about the necessary skills and requirements by reading How to Build a Career in HR Analytics."
+desc: "Are you interested in a career in HR analytics? Learn about the necessary skills and requirements by reading How to Build a Career in HR Analytics"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hran-1.jpg"
 headerAlt: ""

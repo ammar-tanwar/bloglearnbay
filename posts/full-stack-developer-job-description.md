@@ -4,7 +4,7 @@ stitle: "Breaking Down The Full Stack Developer Job Description"
 publish: "Published on"
 published_time: "2023-05-27T13:25:31+05:30"
 modified_time: "2023-05-27T13:25:31+05:30"
-desc: "Explore in-depth breakdown of the full stack developer job description and gain a clear understanding of the roles, responsibilities, and skills required in this dynamic field."
+desc: "Explore in-depth full stack developer job description and gain a clear understanding of the roles, responsibilities, and skills required in this dynamic field."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdtf-1.png"
 headerAlt: ""
