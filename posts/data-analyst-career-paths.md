@@ -4,7 +4,7 @@ stitle: "Data Analytics Career Path: How to Start, Grow, and Succeed"
 publish: "Published on"
 published_time: "2023-06-07T13:25:31+05:30"
 modified_time: "2023-06-07T13:25:31+05:30"
-desc: "In this blog, we will shed light on data analytics career paths including the skills you need and how to learn them."
+desc: "Let us guide you through the data analyst career path. Here you can find the skills you need to learn which will help you grow in your career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sg-1.jpg"
 headerAlt: ""

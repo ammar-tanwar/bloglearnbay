@@ -4,7 +4,7 @@ stitle: "The Benefits of Pursuing a Full Stack developer Certification"
 publish: "Published on"
 published_time: "2023-05-31T13:25:31+05:30"
 modified_time: "2023-05-31T13:25:31+05:30"
-desc: "Explore the top benefits of  full stack developer certification and how it equips you with a comprehensive skill set to excel in the demanding tech industry."
+desc: "Explore the full stack developer certification and how it equips you with a comprehensive skill set to excel in the demanding tech industry."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bopa.png"
 headerAlt: ""

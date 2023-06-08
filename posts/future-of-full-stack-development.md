@@ -4,7 +4,7 @@ stitle: "Why Full Stack Development is the Future of Tech - Learnbay Blog"
 publish: "Published on"
 published_time: "2023-05-30T13:25:31+05:30"
 modified_time: "2023-05-30T13:25:31+05:30"
-desc: "Know why full stack development is the technology of future and examine full stack developers efficiency and demands in the tech industry"
+desc: "Learn about the future technologies of full stack development. Gain insights into the efficiency and demand of full stack developers in the dynamic tech industry."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fot-1.png"
 headerAlt: ""

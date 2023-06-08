@@ -4,7 +4,7 @@ stitle: "Trending IT Career in India For 2023 - Learnbay Blog"
 publish: "Published on"
 published_time: "2023-05-08T13:25:31+05:30"
 modified_time: "2023-05-08T13:25:31+05:30"
-desc: "In this blog we will shed light on trending IT careers in India in 2023. We have listed the highest paying tech jobs that will boost up your career."
+desc: "Let us have a look at the most trending IT careers. We have listed the highest paying tech jobs that will help you to choose the right career path."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tit.png"
 headerAlt: ""
