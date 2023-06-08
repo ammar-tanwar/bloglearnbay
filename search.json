@@ -2636,5 +2636,35 @@
       "date":   "Jun 07, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug":  "future-of-data-analytics-career",
+    "frontmatter": {
+      "title": "The Future of Data Analytics Career - Learnbay Blog",
+      "slug":  "future-of-data-analytics-career",
+      "description": "In this blog we will discover the path to a rewarding data analytics career. Also, learn the fundamentals and key applications of data analytics.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ac.jpg",
+      "readTime": "10.5 mins",
+      "date":   "Jun 08, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "it-careers-in-india",
+    "frontmatter": {
+      "title": "Trending IT Career in India For 2023 - Learnbay Blog",
+      "slug":  "it-careers-in-india",
+      "description": "In this blog we will shed light on trending IT careers in India in 2023. We have listed the highest paying tech jobs that will boost up your career.",
+      "categories": "Hot Topics",
+      "author": "Manas Kochar" ,
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tit.png",
+      "readTime": "10.5 mins",
+      "date":   "May 08, 2023",
+      "draft": false
+    }
   }
 ]
