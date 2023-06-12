@@ -115,6 +115,10 @@ button {
   font-size: 16px;
 }
 
+.parentDdiv{
+  display: none;
+}
+
 @media (max-width: 481px) {
   h4 {
     font-size: 26px;
@@ -155,6 +159,9 @@ button {
     color: rgb(143, 143, 143);
   }
 
+  .parentDdiv{
+    display: block;
+  }
   
 
 }
