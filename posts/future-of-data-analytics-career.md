@@ -1,5 +1,5 @@
 ---
-title: "The Future of Data Analytics Career - Learnbay Blog"
+title: "The Future of Data Analytics Career"
 stitle: "The Future of Data Analytics Career - Learnbay Blog"
 publish: "Published on"
 published_time: "2023-06-08T13:25:31+05:30"
@@ -22,7 +22,7 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "10.5 mins"
-h1: "The Future of Data Analytics Career - Learnbay Blog"
+h1: "The Future of Data Analytics Career"
 id: "future-of-data-analytics-career"
 tableData:
   [
