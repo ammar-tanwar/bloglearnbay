@@ -180,7 +180,7 @@
 .table {
   position: -webkit-sticky;
   position: sticky;
-  top: 80px;
+  
 }
 .table h5 {
   font-size: 24px;
@@ -190,7 +190,7 @@
 }
 .rPost {
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
-  margin-bottom: 30px;
+  margin: 10px;
   padding: 10px 20px;
   border-radius: 8px;
   border-left: 4px solid #2D9CD7;
@@ -244,7 +244,93 @@
   color: #444;
 }
 
+.MobileContent{
+  display: none;
+}
+
+.TdownIcon{
+  float: left;
+}
+
+.parentDdiv{
+  display: none;
+} 
+
+.tabButton{
+  display: none;
+}
+
+
+.relatePost {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  gap: 10px;
+  
+}
+
+
 @media (max-width: 481px) {
+
+   
+  /* .tabButton{
+    z-index: 1;
+    color: #313131;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    background: #ffffff;
+    font-weight: bold;
+    border: 1px solid #d8d8d8;
+
+  } */
+
+
+
+  .contentH{
+    display: none;
+  }
+
+  .contentT{
+    display: none;
+  }
+
+  .contentTM {
+
+    /* border-radius: 5px;
+    box-shadow: 0px 0px 5px 0px rgb(45 156 215 / 31%); */
+    /* display: flex;
+    margin-bottom: 40px;
+    flex-flow: column;
+    justify-content: center;
+    
+    
+    position: sticky;
+    top: 72px; */
+
+    padding: 20px;
+    background-color:#ffffff;
+    overflow-y: auto;
+    height: 1000px;
+    border: 1px solid #d8d8d8;
+  
+  }
+  .contentTM p {
+    cursor: pointer;
+  }
+  .contentTM p:hover {
+    color: #2D9CD7;
+  }
+  
+  .contentTM div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }  
+
+
   .DivImg {
     margin-top: 70px;
   }
@@ -304,6 +390,7 @@
     .relatePost {
       display: -webkit-box;
       overflow: auto;
+      
   
     }
 
@@ -346,11 +433,64 @@
 }
 
 @media (max-width: 600px){
+
+  .MobileContent{
+    display: contents;
+ 
+
+  }
   .Bloginfo{
     display: flex;
     font-size: 9px;
     gap: 5px;
   }
+  .rightInfo {
+    position: sticky;
+    top: 70px;
+    z-index: 999;
+  }
+
+  .table {
+    position: -webkit-sticky;
+    position: sticky;
+    overflow-y: auto;
+    height: 300px;
+    z-index: 10;
+  }
+
+  .blogdiv1{
+    position: sticky;
+    bottom: 224px;
+
+  }
+
+  .parentDdiv{
+    position: relative;
+    display: block;
+  }
+
+  .tabButton {
+    display: block;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    color: #313131;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    background: #ffffff;
+    font-weight: bold;
+    border: 1px solid #d8d8d8;
+  }
+
+
+
+  
+
+
 }
 
 
