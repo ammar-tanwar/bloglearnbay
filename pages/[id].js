@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { getAllPostIds, getPostData, getSortedPostsData } from "../lib/posts";
@@ -9,14 +9,24 @@ import { BsDot } from "react-icons/bs";
 import { IoTimeOutline } from "react-icons/io5";
 import Socialshare from "../components/Socialshare/Socialshare";
 import LikeButtonComponent from '../components/LikeButtonComponent/LikeButtonComponent';
+import React, { useState } from 'react';
+import { FaArrowRight, FaChevronDown, FaChevronUp } from "react-icons/fa";
+
 
 export default function Post({ postData, posts }) {
   // console.log(postData);
-  let makeUrl =  postData.author.toLowerCase().replace(/\s+/g, "-");
+  let makeUrl = postData.author.toLowerCase().replace(/\s+/g, "-");
   let aurl = `/author/${makeUrl}`
 
   let catUrl = postData.category.toLowerCase().replace(/\s+/g, "-");
   let curl = `/category/${catUrl}`
+
+  const [isContentVisible, setIsContentVisible] = useState(false);
+
+  const toggleContent = () => {
+    setIsContentVisible(!isContentVisible);
+  };
+
   return (
     <>
       <section className={styles.MainS}>
@@ -30,7 +40,7 @@ export default function Post({ postData, posts }) {
             name="description"
             content={postData.desc}
           />
-       
+
           <meta
             name="keywords"
             content={postData.tag}
@@ -45,15 +55,15 @@ export default function Post({ postData, posts }) {
             name="publisher"
             content="Learnbay"
           />
-          
-          <meta property="article:published_time" content={postData.published_time}/>
 
-          <meta property="article:modified_time" content={postData.modified_time}/>
+          <meta property="article:published_time" content={postData.published_time} />
 
-          <meta name="robots" content="index, follow"/>
+          <meta property="article:modified_time" content={postData.modified_time} />
+
+          <meta name="robots" content="index, follow" />
 
 
-          <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png"/>
+          <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
           {/* Schema genertor start */}
           <script
             type="application/ld+json"
@@ -99,12 +109,12 @@ export default function Post({ postData, posts }) {
           ></img> */}
 
           <Image
-           src={postData.img}
-           alt={postData.alt}
-           className={styles.bImg}
-           layout="responsive"
-           width="100%"
-           height="35px"          
+            src={postData.img}
+            alt={postData.alt}
+            className={styles.bImg}
+            layout="responsive"
+            width="100%"
+            height="35px"
           />
         </div>
       </section>
@@ -127,7 +137,8 @@ export default function Post({ postData, posts }) {
             <div className={styles.rightInfo}>
               <div className={styles.blogdiv1}>
                 <div className={styles.table}>
-                  <h5>Table of content</h5>
+                  <h5 className={styles.contentH}> Table of content</h5>
+
                   <div className={styles.contentT}>
                     {postData.table.map((table, i) => {
                       const removeSpecial = table.replace(
@@ -147,15 +158,118 @@ export default function Post({ postData, posts }) {
                             <p className={styles.tocContent}>
                               <Link href={url}>{table}</Link>
                             </p>
+
                             <hr className={styles.tableline} />
                           </span>
+
+                          <div>
+
+                          </div>
                         </div>
                       );
                     })}
                   </div>
-                  <h5>Related Posts</h5>
+
+
+                  <div className={styles.parentDdiv}>
+                  <button onClick={toggleContent} className={styles.tabButton}>
+                        {isContentVisible ? 'Hide Content' : 'Table of content'} <span className={styles.TdownIcon}><FaChevronDown /></span>
+                      </button>
+                    <div className={styles.MobileContent}>
+                     
+                      {isContentVisible && <div className={styles.contentTM}>
+                        {postData.table.map((table, i) => {
+                          const removeSpecial = table.replace(
+                            /[&\/\\#+()$~%.'":*?<>{}]/g,
+                            ""
+                          );
+                          const uMake = removeSpecial
+                            .toLowerCase()
+                            .replace(/\s+/g, "-");
+                          const url = `#${uMake}`;
+                          return (
+                            <div key={i}>
+
+                              <span>
+                                <p className={styles.tocContent}>
+                                  <Link href={url}>{table}</Link>
+                                </p>
+
+                                <hr className={styles.tableline} />
+                              </span>
+
+                              <div>
+
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>}
+                    </div>
+                  </div>
+
+
+
+                  {/* <button onClick={toggleContent}>
+        {isContentVisible ? 'Hide Content' : 'Table of content'}
+      </button>
+      {isContentVisible &&  <div className={styles.contentT}>
+                    {postData.table.map((table, i) => {
+                      const removeSpecial = table.replace(
+                        /[&\/\\#+()$~%.'":*?<>{}]/g,
+                        ""
+                      );
+                      const uMake = removeSpecial
+                        .toLowerCase()
+                        .replace(/\s+/g, "-");
+                      const url = `#${uMake}`;
+                      return (
+                        <div key={i}>
+                          
+                          <span>
+                            <p className={styles.tocContent}>
+                              <Link href={url}>{table}</Link>
+                            </p>
+
+                            <hr className={styles.tableline} />
+                          </span>
+
+                          <div>
+
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>} */}
+
+
+                  
+                </div>
+              </div>
+            </div>
+
+            <div className={styles.blogdiv1} >
+              <div className={styles.leftInfo}>
+                <article dangerouslySetInnerHTML={{ __html: postData.body }} />
+                <hr />
+
+                {/* tags & keywords section */}
+                {/* <div className={styles.tag}>
+                  <div className={styles.lSide}>
+                    <p>Tags</p>{" "}
+                    {postData.tag.map((tag, i) => {
+                      return <span key={i}>#{tag}</span>
+                        ;
+                    })}
+
+
+
+                  </div>
+                </div> */}
+                <div>
+                <h1 style={{ marginLeft: '10px' }}>Related Posts</h1>
                   <div className={styles.relatePost}>
-                    {posts.slice(1,6).map((post, i) => {
+                    {posts.slice(1, 6).map((post, i) => {
                       return (
                         <div className={styles.rPost} key={i}>
                           <a href={post.id}>
@@ -174,24 +288,7 @@ export default function Post({ postData, posts }) {
                     })}
                   </div>
                 </div>
-              </div>
-            </div>
-            <div className={styles.blogdiv1}>
-              <div className={styles.leftInfo}>
-                <article dangerouslySetInnerHTML={{ __html: postData.body }} />
-                <hr />
-                {/* <div className={styles.tag}>
-                  <div className={styles.lSide}>
-                    <p>Tags</p>{" "}
-                    {postData.tag.map((tag, i) => {
-                      return <span key={i}>#{tag}</span>
-                        ;
-                    })}
 
-
-
-                  </div>
-                </div> */}
                 <div>
                   <Socialshare postData={postData} />
                 </div>
