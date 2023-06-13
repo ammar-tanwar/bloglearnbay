@@ -65,7 +65,7 @@ export default function Post({ postData, posts }) {
 
           <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
           {/* Schema genertor start */}
-          <script
+          {/* <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{
               __html: `{
@@ -94,7 +94,7 @@ export default function Post({ postData, posts }) {
                "datePublished": "${postData.date}"
                 }
               } `,
-            }} />
+            }} /> */}
           {/* Schema Generator End */}
         </Head>
 
@@ -267,7 +267,7 @@ export default function Post({ postData, posts }) {
                   </div>
                 </div> */}
                 <div>
-                <h1 style={{ marginLeft: '10px' }}>Related Posts</h1>
+                <h1 className={styles.rpH1}>Related Posts</h1>
                   <div className={styles.relatePost}>
                     {posts.slice(1, 6).map((post, i) => {
                       return (

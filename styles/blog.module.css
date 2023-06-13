@@ -16,7 +16,7 @@
 
 .blogdiv1{
   overflow-y: auto;
-  height: 1000px;
+  height: 500px;
   text-align: justify;
 }
 
@@ -152,6 +152,7 @@
   margin-bottom: 40px;
   flex-flow: column;
   justify-content: center;
+  background: #333333;
   
   /* position: sticky;
   top: 72px;
@@ -189,11 +190,13 @@
   margin: 10px 0px 30px 0px;
 }
 .rPost {
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 6px 4px;
   margin: 10px;
   padding: 10px 20px;
   border-radius: 8px;
   border-left: 4px solid #2D9CD7;
+  background: #000000;
+  border-bottom: 4px solid #2D9CD7;
 }
 .rPost:hover {
   -webkit-box-shadow: 0px 0px 5px 0px rgb(45 156 215 / 31%);
@@ -205,7 +208,7 @@
   font-size: 15px;
   margin: 0;
   font-weight: 500;
-  color: #000;
+  color: #fff;
   margin-bottom: 10px;
 }
 .rPost h5:hover {
@@ -215,7 +218,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: black;
+  color: #fff;
   font-size: 14px;
   font-weight: 500;
 }
@@ -226,7 +229,7 @@
   align-items: center;
   gap: 5px;
   font-size: 12px;
-  color: #000;
+  color: #fff;
 }
 .timeIcon {
   font-size: 16px;
@@ -241,7 +244,7 @@
   display: block;
   font-size: 14px;
   padding: -1px 20px;
-  color: #444;
+  color: #fff;
 }
 
 .MobileContent{
@@ -313,7 +316,7 @@
     padding: 20px;
     background-color:#ffffff;
     overflow-y: auto;
-    height: 1000px;
+    height: 400px;
     border: 1px solid #d8d8d8;
   
   }
@@ -469,26 +472,70 @@
     display: block;
   }
 
-  .tabButton {
+  .tabButton { 
     display: block;
     position: sticky;
     top: 0;
     z-index: 1;
-    color: #313131;
+    color: rgba(255, 255, 255);
     font-size: 18px;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     width: 100%;
-    background: #ffffff;
+    background: #3a9cd7;
     font-weight: bold;
     border: 1px solid #d8d8d8;
+}
+
+  .contentTM {
+
+    /* border-radius: 5px;
+    box-shadow: 0px 0px 5px 0px rgb(45 156 215 / 31%); */
+    /* display: flex;
+    margin-bottom: 40px;
+    flex-flow: column;
+    justify-content: center;
+    
+    
+    position: sticky;
+    top: 72px; */
+
+    padding: 20px;
+    background-color:#2d2d2d;
+    overflow-y: auto;
+    height: 400px;
+    border: 1px solid #d8d8d8;
+  
+  }
+  .contentTM p {
+    cursor: pointer;
+  }
+  .contentTM p:hover {
+    color: #2D9CD7;
+  }
+  
+  .contentTM div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  } 
+
+  .tocContent{
+    display: block;
+    font-size: 14px;
+    padding: -1px 20px;
+    color: #fff;
   }
 
+  .rpH1{
 
+  margin: 10px;
+  font-size: 18px;
 
-  
+  }
+ 
 
 
 }
