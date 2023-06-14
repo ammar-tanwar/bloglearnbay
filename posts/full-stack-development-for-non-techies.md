@@ -30,10 +30,6 @@ tableData:
   ]
 ---
 
-
-
-<span style=" font-weight:bold; font-size:28px">Full Stack Development For Non-Techies: How to Get Started</span>
-
 Whenever we hear the term 'developer,' it automatically reflects the identity of a professional with a technical background. But nowadays, the scenario has changed; even a person with a non-tech background can become a professional tech developer. Full stack is a favorably promising profession. As a result, there is a significant increase in competition in the relevant field.
 
 There is a considerable requirement for competent professionals to handle various tasks in the development of an application. 
