@@ -2666,5 +2666,35 @@
       "date":   "May 08, 2023",
       "draft": false
     }
-  }
+  },
+
+  {
+    "slug":  "soft-skills-for-it-professionals",
+    "frontmatter": {
+      "title": "The Most Valuable Soft Skills for IT Professionals in 2023",
+      "slug":  "soft-skills-for-it-professionals",
+      "description": "From Accounting & Integrity to Time Management, we have listed the ten most valuable IT skills for professionals in 2023.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty" ,
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/itp.png",
+      "readTime": "10.5 mins",
+      "date":   "May 09, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "it-technologies-and-services",
+    "frontmatter": {
+      "title": "Emerging IT Technologies and Services in 2023",
+      "slug":  "it-technologies-and-services",
+      "description": "Stay ahead of the crowd with our list of top 15 emerging IT technologies. Know these technologies' potential applications and how they help shape your future.",
+      "categories": "Hot Topics",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tas.png",
+      "readTime": "10.5 mins",
+      "date":   "May 10, 2023",
+      "draft": false
+    }
+  } 
 ]

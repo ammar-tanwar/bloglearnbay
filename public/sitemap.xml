@@ -832,5 +832,19 @@
 <priority>0.90</priority>
 </url>
 
+<url>
+<loc>https://blog.learnbay.co/soft-skills-for-it-professionals</loc>
+<lastmod>2023-06-09</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://blog.learnbay.co/it-technologies-and-services</loc>
+<lastmod>2023-06-10</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
+
 
 </urlset>
