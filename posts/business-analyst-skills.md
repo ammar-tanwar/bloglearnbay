@@ -13,7 +13,7 @@ tag: []
 category: "Hot Topics"
 cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
 catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
-authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writter at Learbay"
+authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writer at Learnbay"
 adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
 author: "Sonalisha Mohanty"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"

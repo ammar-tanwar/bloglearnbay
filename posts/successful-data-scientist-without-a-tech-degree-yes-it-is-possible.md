@@ -4,7 +4,7 @@ stitle: "Become A Successful Data Scientist Without Any Tech Degree"
 publish: "Published on"
 published_time: "2022-09-22T13:25:31+05:30"
 modified_time:  "2022-09-22T13:25:31+05:30"
-desc: "Are you considering a career in data science, but don't have a tech degree? It is possible to have a successful career in data scienctist without a tech degree."
+desc: "Are you considering a career in data science, but don't have a tech degree? It is possible to have a successful career in data scientist without a tech degree."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsc-1.jpg"
 headerAlt: "A banner image of a person standing in front of a screen, analyzing various domains from the data science job."
@@ -14,7 +14,7 @@ category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
 catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
-authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+authortitle: "Milan Jain - An Enthusiastic Technical Content Creator at Learnbay"
 adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 
 author: "Milan Jain"

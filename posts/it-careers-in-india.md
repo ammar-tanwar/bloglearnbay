@@ -1,5 +1,5 @@
 ---
-title: "Trending IT Career in India For 2023 - Learnbay Blog"
+title: "Trending IT Career in India For 2023"
 stitle: "Trending IT Career in India For 2023 - Learnbay Blog"
 publish: "Published on"
 published_time: "2023-05-08T13:25:31+05:30"
@@ -21,7 +21,7 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "10.5 mins"
-h1: "Trending IT Career in India For 2023 - Learnbay Blog"
+h1: "Trending IT Career in India For 2023"
 id: "it-careers-in-india"
 tableData:
   [

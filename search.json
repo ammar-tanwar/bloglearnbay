@@ -2696,5 +2696,35 @@
       "date":   "May 10, 2023",
       "draft": false
     }
+  },
+  
+  {
+    "slug":  "business-analytics-certifications",
+    "frontmatter": {
+      "title": "Top 5 Business Analytics Certifications to Boost Your Career",
+      "slug":  "business-analytics-certifications",
+      "description": "Explore the top 5 business analytics certification and Learn the latest tools and techniques to make smarter decisions, drive growth, and achieve better results.",
+      "categories": "Hot Topics",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5bac.png",
+      "readTime": "10.5 mins",
+      "date":   "May 11, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug":  "data-science-companies",
+    "frontmatter": {
+      "title": "Top 25 Data Science Companies To Work",
+      "slug":  "data-science-companies",
+      "description": "We have put together a list of 25 data science companies that are making names for themselves while providing spaces for data scientists to contribute and grow.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/25dsc.jpg",
+      "readTime": "10.5 mins",
+      "date":   "May 12, 2023",
+      "draft": false
+    }
   } 
 ]

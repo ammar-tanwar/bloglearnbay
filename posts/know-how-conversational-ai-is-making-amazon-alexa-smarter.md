@@ -14,7 +14,7 @@ category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
 catdesc: "Explore Artificial Intelligence Blogs, features highly informative and career upskilling blogs with related topics on Machine Learning, NLP, Etc."
-authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+authortitle: "Milan Jain - An Enthusiastic Technical Content Creator at Learnbay"
 adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 
 author: "Milan Jain" 

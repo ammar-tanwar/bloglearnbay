@@ -4,7 +4,7 @@ stitle: "What is OctoML? and How Does It Works? - Learnbay Blog"
 publish: "Published on"
 published_time: "2022-11-09T13:25:31+05:30"
 modified_time: "2022-11-09T13:25:31+05:30"
-desc: "Know what is OctoML, How to Machine Learning should be intergrated with Apache TVM. Also learn about the how doe OctoMl Works."
+desc: "Know what is OctoML, How to Machine Learning should be integrated with Apache TVM. Also learn about the how doe OctoMl Works."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oc-1.jpg"
 headerAlt: "A banner image titled, 'OctoML- The Coolest Platform for Faster Machine Learning Model Deployment'"

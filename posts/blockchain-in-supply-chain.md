@@ -17,7 +17,7 @@ category: "Technology"
 
 cattitle: "Latest News, Updates, Blogs on Technology and Innovations - Learnbay Blogs"
 catdesc: "Check out the Learnbay technology resources section, featuring a comprehensive collection of blogs on topics such as web development, , AI, data science, and more."
-authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writter at Learbay "
+authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writer at Learnbay "
 adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
 
 author: "Sonalisha Mohanty"

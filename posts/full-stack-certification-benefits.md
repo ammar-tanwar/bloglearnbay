@@ -13,7 +13,7 @@ tag: []
 category: "Full Stack"
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
 catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
-authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writter at Learbay"
+authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writer at Learnbay"
 adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
 author: "Sonalisha Mohanty"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
