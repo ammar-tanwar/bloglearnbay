@@ -14,7 +14,7 @@ category: "Hot Topics"
 
 cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
 catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
-authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+authortitle: "Milan Jain - An Enthusiastic Technical Content Creator at Learnbay"
 adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 
 author: "Milan Jain"

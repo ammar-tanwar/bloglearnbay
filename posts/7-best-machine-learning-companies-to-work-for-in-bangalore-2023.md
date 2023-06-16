@@ -13,7 +13,7 @@ tag: [ best machine learning companies to work for, artificial intelligence and 
 category: "Machine Learning"
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
 catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
-authortitle: "Milan Jain - An Ethusiastic Technical Content Creator | Learnbay"
+authortitle: "Milan Jain - An Enthusiastic Technical Content Creator at Learnbay"
 adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 author: "Milan Jain" 
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"

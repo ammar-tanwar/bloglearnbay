@@ -846,5 +846,19 @@
 <priority>0.90</priority>
 </url>
 
+<url>
+<loc>https://blog.learnbay.co/business-analytics-certifications</loc>
+<lastmod>2023-06-16</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://blog.learnbay.co/data-science-companies</loc>
+<lastmod>2023-06-16</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
+
 
 </urlset>
