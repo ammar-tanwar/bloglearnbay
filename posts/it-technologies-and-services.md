@@ -6,7 +6,7 @@ published_time: "2023-06-10T13:25:31+05:30"
 modified_time: "2023-06-10T13:25:31+05:30"
 desc: "Stay ahead of the crowd with our list of top 15 emerging IT technologies. Know these technologies' potential applications and how they help shape your future."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tas.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tas.jpg"
 headerAlt: ""
 date: "Jun 10, 2023"
 tag: []
