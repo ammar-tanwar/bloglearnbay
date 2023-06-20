@@ -6,7 +6,7 @@ published_time: "2023-06-09T13:25:31+05:30"
 modified_time: "2023-06-09T13:25:31+05:30"
 desc: "From Accounting & Integrity to Time Management, we have listed the ten most valuable IT skills for professionals in 2023."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/itp.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/itp.jpg"
 headerAlt: ""
 date: "Jun 09, 2023"
 tag: []
