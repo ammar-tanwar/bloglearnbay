@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+
 import { IoIosArrowForward, IoIosArrowDown } from "react-icons/io";
 import TabData from "./TabData";
 import styles from "./Tabs.module.css";
@@ -19,7 +20,7 @@ const Tabs = ({ handleIcon }) => {
     if (width > 481) {
       setMobile(false);
     }
-  }, [setMobile]);
+  });
 
   return (
     <div className="wrapper">
@@ -98,9 +99,9 @@ const Tabs = ({ handleIcon }) => {
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Software Development</h5>
+                        <h5>Software Development Master Program</h5>
                         <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                          400+ Hours <BsDot /> 9 & 11 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -118,79 +119,49 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-
                 </div>
-
-
-                  {/* <a href="https://www.learnbay.co/full-stack-web-development-program">
-                    <div
-                      className={styles.Program}
-                      onClick={() => handleIcon(false)}
-                    >
-                      <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
-                        <span>
-                          200+ Hours <BsDot /> 8 & 9 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-
-                  <a href="https://www.learnbay.co/hr-analytics">
-                    <div
-                      className={styles.Program}
-                      onClick={() => handleIcon(false)}
-                    >
-                      <div className={styles.ProLeft}>
-                        <h5>HR Analytics Program</h5>
-                        <span>
-                          200+ Hours <BsDot /> 5 & 7 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-
-                  <a href="https://www.learnbay.co/data-science-for-bfsi-professional">
-                    <div
-                      className={styles.Program}
-                      onClick={() => handleIcon(false)}
-                    >
-                      <div className={styles.ProLeft}>
-                        <h5>Data Science and AI for BFSI Professionals</h5>
-                        <span>
-                          250+ Hours <BsDot /> 7 & 9 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a> */}
-                
-
-                
-                {/* <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
-                    <div
-                      className={styles.Program}
-                      onClick={() => handleIcon(false)}
-                    >
-                      <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
-                        <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                </div> */}
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-blockchain">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master Program</h5>
+                        <h5>Software Development in Blockchain</h5>
+                        <span>
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/data-science-ai-masters-program">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5> Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-cloud-computing-&-devops">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Software Development in Cloud Computing & DevOps
+                        </h5>
+                        <span>
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -286,10 +257,10 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/data-science-ai-masters-program">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master Program</h5>
+                        <h5> Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -299,10 +270,7 @@ const Tabs = ({ handleIcon }) => {
                   <a href="https://www.learnbay.co/business-analytics-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>
-                          Business Analytics Master
-                          <br /> Program
-                        </h5>
+                        <h5>Business Analytics Master Program</h5>
                         <span>
                           250+ Hours <BsDot /> 7 & 9 Months{" "}
                         </span>
@@ -312,16 +280,58 @@ const Tabs = ({ handleIcon }) => {
                 </div>
 
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/advance-data-science-certification-courses">
+                  <a href="https://www.learnbay.co/data-analytics-certification-course">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Data Analytics
-                          <br /> Program</h5>
+                        <h5>Data Analytics Program</h5>
                         <span>
                           180+ Hours <BsDot /> 5 & 6.5 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.learnbay.co/data-science-for-bfsi-professional">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Data Science and AI Program for BFSI Professionals
+                        </h5>
+                        <span>
+                          250+ Hours <BsDot /> 7 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/hr-analytics">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>HR Analytics Program</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.learnbay.co/marketing-analytics">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Marketing Analytics Program</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -368,21 +378,21 @@ const Tabs = ({ handleIcon }) => {
 
             {nonTech ? (
               <div className={styles.RowWrap}>
-                {/* <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-blockchain">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
+                        <h5>Software Development in Blockchain</h5>
                         <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
                         </span>
                       </div>
                     </div>
                   </a>
-                </div> */}
+                </div>
                 <div className={styles.Row}>
                   <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div
@@ -390,9 +400,44 @@ const Tabs = ({ handleIcon }) => {
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Software Development Program</h5>
+                        <h5>Software Development Master Program</h5>
                         <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                          400+ Hours <BsDot /> 9 & 11 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-cloud-computing-&-devops">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Software Development in Cloud Computing & DevOps
+                        </h5>
+                        <span>
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/software-development-program-for-freshers">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                        Software Development 
+                          <br />Program For Freshers
+                        </h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 10 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -439,13 +484,13 @@ const Tabs = ({ handleIcon }) => {
             {Guarantee ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/data-science-ai-masters-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master Program</h5>
+                        <h5> Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -453,21 +498,21 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
                 </div>
-                {/* <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
+                        <h5>Software Development Master Program</h5>
                         <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                          400+ Hours <BsDot /> 9 & 11 Months{" "}
                         </span>
                       </div>
                     </div>
                   </a>
-                </div> */}
+                </div>
               </div>
             ) : (
               ""
@@ -523,21 +568,21 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
                 </div>
-                {/* <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-blockchain">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
+                        <h5>Software Development in Blockchain</h5>
                         <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
                         </span>
                       </div>
                     </div>
                   </a>
-                </div> */}
+                </div>
                 <div className={styles.Row}>
                   <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div className={styles.Program}>
@@ -553,9 +598,9 @@ const Tabs = ({ handleIcon }) => {
                   <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Software Development</h5>
+                        <h5>Software Development Master Program</h5>
                         <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                          400+ Hours <BsDot /> 9 & 11 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -584,10 +629,10 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/data-science-ai-masters-program">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master Program</h5>
+                        <h5> Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -597,12 +642,9 @@ const Tabs = ({ handleIcon }) => {
                   <a href="https://www.learnbay.co/business-analytics-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>
-                          Business Analytics Master 
-                          <br /> Program
-                        </h5>
+                        <h5>Business Analytics Master Program</h5>
                         <span>
-                          250++ Hours <BsDot /> 7 & 9 Months{" "}
+                          250+ Hours <BsDot /> 7 & 9 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -610,26 +652,92 @@ const Tabs = ({ handleIcon }) => {
                 </div>
                 <div className={styles.Row}>
                   <a href="https://www.learnbay.co/data-analytics-certification-course">
-                    <div className={styles.Program}>
-                      <div className={styles.ProLeft}>
-                        <h5>
-                          Data Analytics <br /> Program
-                        </h5>
-                        <span>
-                        180+ Hours <BsDot /> 5 & 6.5 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                  <a href="https://www.learnbay.co/dsa-system-design">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>DSA & <br/>System Design</h5>
+                        <h5>Data Analytics Program</h5>
                         <span>
-                          200+ Hours <BsDot /> 5 & 6 Months{" "}
+                          180+ Hours <BsDot /> 5 & 6.5 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.learnbay.co/data-science-for-bfsi-professional">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Data Science and AI Program for BFSI Professionals
+                        </h5>
+                        <span>
+                          250+ Hours <BsDot /> 7 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/hr-analytics">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>HR Analytics Program</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.learnbay.co/marketing-analytics">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>Marketing Analytics Program</h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-cloud-computing-&-devops">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Software Development in Cloud Computing & DevOps
+                        </h5>
+                        <span>
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/software-development-program-for-freshers">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                        Software Development 
+                          <br />Program For Freshers
+                        </h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 10 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -682,9 +790,9 @@ const Tabs = ({ handleIcon }) => {
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Software Development</h5>
+                        <h5>Software Development Master Program</h5>
                         <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                          400+ Hours <BsDot /> 9 & 11 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -704,45 +812,45 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/dsa-system-design">
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-blockchain">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>DSA & <br/>System Design</h5>
+                        <h5>Software Development in Blockchain</h5>
                         <span>
-                          200+ Hours <BsDot /> 5 & 6 Months{" "}
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-cloud-computing-&-devops">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Software Development in Cloud Computing & DevOps
+                        </h5>
+                        <span>
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
                         </span>
                       </div>
                     </div>
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/data-science-ai-masters-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master Program</h5>
+                        <h5> Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
-                    <div
-                      className={styles.Program}
-                      onClick={() => handleIcon(false)}
-                    >
-                      <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
-                        <span>
-                          200+ Hours <BsDot /> 8 & 9 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -805,10 +913,10 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/data-science-ai-masters-program">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master Program</h5>
+                        <h5> Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -819,8 +927,8 @@ const Tabs = ({ handleIcon }) => {
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>
-                          Business Analytics Master
-                          <br /> Program
+                          Business Analytics
+                          <br /> Master Program
                         </h5>
                         <span>
                           250+ Hours <BsDot /> 7 & 9 Months{" "}
@@ -829,11 +937,15 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
                 </div>
+
                 <div className={styles.Row}>
                   <a href="https://www.learnbay.co/data-analytics-certification-course">
-                    <div className={styles.Program}>
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
                       <div className={styles.ProLeft}>
-                      <h5>
+                        <h5>
                           Data Analytics
                           <br /> Program
                         </h5>
@@ -843,28 +955,16 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                </div>
-                <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/hr-analytics">
-                    <div className={styles.Program}>
-                      <div className={styles.ProLeft}>
-                        <h5>HR Analytics 
-                        <br /> Program
-                        </h5>
-                        
-                        <span>
-                          200+ Hours <BsDot /> 5 & 7 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-
-                <div className={styles.Row}>
                   <a href="https://www.learnbay.co/data-science-for-bfsi-professional">
-                    <div className={styles.Program}>
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI for BFSI Professionals</h5>
+                        <h5>
+                          Data Science and AI Program
+                          <br /> for BFSI Professionals
+                        </h5>
                         <span>
                           250+ Hours <BsDot /> 7 & 9 Months{" "}
                         </span>
@@ -872,15 +972,33 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
                 </div>
-
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/marketing-analytics">
-                    <div className={styles.Program}>
+                  <a href="https://www.learnbay.co/hr-analytics">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
                       <div className={styles.ProLeft}>
-                        <h5> Marketing Analytics
-                         <br/>Program
+                        <h5>
+                          HR Analytics
+                          <br /> Program
                         </h5>
-                        
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.learnbay.co/marketing-analytics">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Marketing Analytics
+                          <br /> Program
+                        </h5>
                         <span>
                           200+ Hours <BsDot /> 5 & 7 Months{" "}
                         </span>
@@ -888,33 +1006,6 @@ const Tabs = ({ handleIcon }) => {
                     </div>
                   </a>
                 </div>
-
-      
-                
-
-                {/* <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/data-analytics-certification-course">
-                    <div
-                      className={styles.Program}
-                      onClick={() => handleIcon(false)}
-                    >
-                      <div className={styles.ProLeft}>
-                      <h5>
-                          Data Analytics
-                          <br /> Program
-                        </h5>
-                        <span>
-                        180+ Hours <BsDot /> 5 & 6.5 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-
-
-                  
-                </div> */}
-
-                
               </div>
             ) : (
               ""
@@ -922,15 +1013,15 @@ const Tabs = ({ handleIcon }) => {
             {nonTech ? (
               <div className={styles.RowWrap}>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-blockchain">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
+                        <h5>Software Development in Blockchain</h5>
                         <span>
-                          200+ Hours <BsDot /> 8 & 9 Months{" "}
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -943,45 +1034,63 @@ const Tabs = ({ handleIcon }) => {
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Software Development Program</h5>
+                        <h5>Software Development Master Program</h5>
                         <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                          400+ Hours <BsDot /> 9 & 11 Months{" "}
                         </span>
                       </div>
                     </div>
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/dsa-system-design">
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-cloud-computing-&-devops">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>DSA & <br/>System Design</h5>
+                        <h5>
+                          Software Development in Cloud Computing & DevOps
+                        </h5>
                         <span>
-                          200+ Hours <BsDot /> 5 & 6 Months{" "}
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/software-development-program-for-freshers">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                        Software Development 
+                          <br />Program For Freshers
+                        </h5>
+                        <span>
+                          300+ Hours <BsDot /> 8 & 10 Months{" "}
                         </span>
                       </div>
                     </div>
                   </a>
                 </div>
               </div>
-              
             ) : (
               ""
             )}
             {Guarantee ? (
               <div className={styles.RowWrap}>
-                
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/data-science-ai-masters-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master Program</h5>
+                        <h5> Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
                         </span>
@@ -990,35 +1099,20 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/full-stack-software-development-program">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
+                        <h5>Software Development Master Program</h5>
                         <span>
-                          200+ Hours <BsDot /> 8 & 9 Months{" "}
+                          400+ Hours <BsDot /> 9 & 11 Months{" "}
                         </span>
                       </div>
                     </div>
                   </a>
                 </div>
-                {/* <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
-                    <div
-                      className={styles.Program}
-                      onClick={() => handleIcon(false)}
-                    >
-                      <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
-                        <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                </div> */}
               </div>
             ) : (
               ""
@@ -1039,34 +1133,44 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://www.learnbay.co/dsa-system-design">
+                  <a href="https://www.learnbay.co/artificial-intelligence-certification-course">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>
-                          DSA & <br />System Design
-                        </h5>
+                        <h5>Advance AI & ML Program For Tech Professionals</h5>
                         <span>
-                          200+ Hours <BsDot /> 5 & 6 Months{" "}
+                          350+ Hours <BsDot /> 9 & 11 Months{" "}
                         </span>
                       </div>
                     </div>
                   </a>
                 </div>
-                {/* <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-blockchain">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
+                        <h5>Software Development in Blockchain</h5>
                         <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
                         </span>
                       </div>
                     </div>
                   </a>
-                </div> */}
+                  <a href="https://www.learnbay.co/software-development-program-with-specialization-in-cloud-computing-&-devops">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Software Development in Cloud Computing & DevOps
+                        </h5>
+                        <span>
+                          250+ Hours <BsDot /> 8 & 10 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
                 <div className={styles.Row}>
                   <a href="https://www.learnbay.co/advance-data-science-certification-courses">
                     <div className={styles.Program}>
@@ -1074,29 +1178,6 @@ const Tabs = ({ handleIcon }) => {
                         <h5>Advance Data Science & AI Program</h5>
                         <span>
                           250+ Hours <BsDot /> 7 & 9 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-
-                  <a href="https://www.learnbay.co/full-stack-software-development-program">
-                    <div className={styles.Program}>
-                      <div className={styles.ProLeft}>
-                        <h5>Full Stack Software Development</h5>
-                        <span>
-                          300+ Hours <BsDot /> 8 & 9 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/artificial-intelligence-certification-course">
-                    <div className={styles.Program}>
-                      <div className={styles.ProLeft}>
-                        <h5>Advance AI & ML Program For Tech Professionals</h5>
-                        <span>
-                          350+ Hours <BsDot /> 9 & 11 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -1113,12 +1194,75 @@ const Tabs = ({ handleIcon }) => {
                   </a>
                 </div>
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/job-guarantee-or-money-back-data-science-ai-certification-course">
+                  <a href="https://www.learnbay.co/data-science-ai-masters-program">
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
-                        <h5>Data Science and AI Master Program</h5>
+                        <h5> Data Science and AI Master Program</h5>
                         <span>
                           500+ Hours <BsDot /> 13 & 15 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.learnbay.co/full-stack-software-development-program">
+                    <div className={styles.Program}>
+                      <div className={styles.ProLeft}>
+                        <h5>Software Development Master Program</h5>
+                        <span>
+                          400+ Hours <BsDot /> 9 & 11 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/data-analytics-certification-course">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Data Analytics
+                          <br /> Program
+                        </h5>
+                        <span>
+                          180+ Hours <BsDot /> 5 & 6.5 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.learnbay.co/data-science-for-bfsi-professional">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Data Science and AI Program
+                          <br /> for BFSI Professionals
+                        </h5>
+                        <span>
+                          250+ Hours <BsDot /> 7 & 9 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/hr-analytics">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          HR Analytics
+                          <br /> Program
+                        </h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
                         </span>
                       </div>
                     </div>
@@ -1127,66 +1271,8 @@ const Tabs = ({ handleIcon }) => {
                     <div className={styles.Program}>
                       <div className={styles.ProLeft}>
                         <h5>
-                          Business Analytics Master <br /> Program
-                        </h5>
-                        <span>
-                          200+ Hours <BsDot /> 7 & 9 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/data-analytics-certification-course">
-                    <div className={styles.Program}>
-                      <div className={styles.ProLeft}>
-                        <h5>
-                          Data Analytics <br /> Program
-                        </h5>
-                        <span>
-                        180+ Hours <BsDot /> 5 & 6.5 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                  
-                </div>
-                <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/hr-analytics">
-                    <div className={styles.Program}>
-                      <div className={styles.ProLeft}>
-                        <h5>HR Analytics 
-                        <br /> Program
-                        </h5>
-                        
-                        <span>
-                          200+ Hours <BsDot /> 5 & 7 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-
-                <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/data-science-for-bfsi-professional">
-                    <div className={styles.Program}>
-                      <div className={styles.ProLeft}>
-                        <h5>Data Science and AI for BFSI Professionals</h5>
-                        <span>
-                          250+ Hours <BsDot /> 7 & 9 Months{" "}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-
-                <div className={styles.Row}>
-                <a href="https://www.learnbay.co/business-analytics-certification-course">
-                    <div className={styles.Program}>
-                      <div className={styles.ProLeft}>
-                        <h5>
-                          Business Analytics Master
-                          <br /> Program
+                          Business Analytics
+                          <br /> Master Program
                         </h5>
                         <span>
                           250+ Hours <BsDot /> 7 & 9 Months{" "}
@@ -1194,20 +1280,38 @@ const Tabs = ({ handleIcon }) => {
                       </div>
                     </div>
                   </a>
-                  
                 </div>
-
-               
                 <div className={styles.Row}>
-                  <a href="https://www.learnbay.co/full-stack-web-development-program">
+                  <a href="https://www.learnbay.co/software-development-program-for-freshers">
                     <div
                       className={styles.Program}
                       onClick={() => handleIcon(false)}
                     >
                       <div className={styles.ProLeft}>
-                        <h5>Full Stack Web Development Program</h5>
+                        <h5>
+                        Software Development 
+                          <br />Program For Freshers
+                        </h5>
                         <span>
-                          200+ Hours <BsDot /> 8 & 9 Months{" "}
+                          300+ Hours <BsDot /> 8 & 10 Months{" "}
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <div className={styles.Row}>
+                  <a href="https://www.learnbay.co/marketing-analytics">
+                    <div
+                      className={styles.Program}
+                      onClick={() => handleIcon(false)}
+                    >
+                      <div className={styles.ProLeft}>
+                        <h5>
+                          Marketing Analytics
+                          <br /> Program
+                        </h5>
+                        <span>
+                          200+ Hours <BsDot /> 5 & 7 Months{" "}
                         </span>
                       </div>
                     </div>

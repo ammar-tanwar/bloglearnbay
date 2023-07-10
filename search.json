@@ -2726,5 +2726,50 @@
       "date":   "May 12, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug":  "data-science-insights-job-and-market-growth-statistics",
+    "frontmatter": {
+      "title": "Data Science Insights: Job and Market Growth Stats",
+      "slug":  "data-science-insights-job-and-market-growth-statistics",
+      "description":  "The journey of tech evolution is unbeatable. You can also be part of the data field if redundant skill sets are shed. A data science course online can provide the upskilling scope for a successful career.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsij-1.png",
+      "readTime": "10.5 mins",
+      "date":   "Jul 14, 2023",
+      "draft": false
+    }
+  },
+  
+  {
+    "slug":  "ethics-in-data-science-ensuring-privacy-and-proper-usage-of-data",
+    "frontmatter": {
+      "title": "Ethics in Data Science and Proper Privacy and Usage of Data",
+      "slug":  "ethics-in-data-science-ensuring-privacy-and-proper-usage-of-data",
+      "description":  "Learn about the importance of ethics in data science and how to ensure proper privacy and responsible usage of data in this insightful guide.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eidsp-1.png",
+      "readTime": "7-5 mins",
+      "date":   "Jul 14, 2023",
+      "draft": false
+    }
+  }, 
+
+  {
+    "slug":  "top-5-essential-python-skills-for-data-scientists-a-comprehensive-guide",
+    "frontmatter": {
+      "title": "5 Most Important Python Skills to Master as a Data Scientist",
+      "slug":  "top-5-essential-python-skills-for-data-scientists-a-comprehensive-guide",
+      "description":  "The most critical skill many data scientists opt for is Python. The data science online course with certificate helps in learning these programming skills and getting certified.",
+      "categories": "Data Science",
+      "author": "Vineeth Kumar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mips.png",
+      "readTime": "7-5 mins",
+      "date":   "Jul 08, 2023",
+      "draft": false
+    }
   } 
 ]

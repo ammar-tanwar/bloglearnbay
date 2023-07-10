@@ -18,7 +18,7 @@ adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore h
 author: "Manas Kochar"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
-authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
+authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "8-9 mins"
 h1: "8 Most Demanded Data Science Tools in 2023"

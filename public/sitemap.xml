@@ -860,5 +860,26 @@
 <priority>0.90</priority>
 </url>
 
+<url>
+<loc>https://blog.learnbay.co/data-science-insights-job-and-market-growth-statistics</loc>
+<lastmod>2023-07-10</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://blog.learnbay.co/ethics-in-data-science-ensuring-privacy-and-proper-usage-of-data</loc>
+<lastmod>2023-07-10</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
+
+<url>
+<loc>https://blog.learnbay.co/top-5-essential-python-skills-for-data-scientists-a-comprehensive-guide</loc>
+<lastmod>2023-07-10</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
+
 
 </urlset>
