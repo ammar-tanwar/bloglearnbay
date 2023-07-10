@@ -261,15 +261,14 @@ const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
               Data Science Courses&nbsp;
               <br />
               <input
-                id="Full Stack Program"
-                value="Full Stack Software Dev Courses"
+                id="Software (DSA & System Design)"
+                value="Software (DSA & System Design)"
                 name="platform"
                 required
                 type="radio"
                 onChange={handleParam()}
               />
-              Full Stack Software Dev <br />
-              &nbsp;&nbsp;&nbsp;&nbsp;(DSA & System Design) Courses
+            Software (DSA & System Design)
             </div>
           ) : (
             ""

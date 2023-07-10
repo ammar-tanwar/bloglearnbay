@@ -9,11 +9,11 @@ const TabData = [
   },
   {
     id: "Full Stack Program",
-    title: "Full Stack Development",
+    title: "Software Development",
   },
   {
     id: "Digital Marketing",
-    title: "Master's Program",
+    title: "Master Program",
   },
   {
     id: "Popular Courses",

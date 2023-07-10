@@ -65,9 +65,9 @@ const Navbar = () => {
               <span onClick={showMenu}>
                 <Link href="https://www.learnbay.co/">Home</Link>
               </span>
-              <span onClick={showMenu}>
+              {/* <span onClick={showMenu}>
                 <Link href="https://www.learnbay.co/about-us">About Us</Link>
-              </span>
+              </span> */}
               <span onClick={showMenu}>
                 <Link href="https://www.learnbay.co/demo">Demo</Link>
               </span>
@@ -133,9 +133,9 @@ const Navbar = () => {
           <span>
             <Link href="https://www.learnbay.co/">Home</Link>
           </span>
-          <span>
+          {/* <span>
             <Link href="https://www.learnbay.co/about-us">About Us</Link>
-          </span>
+          </span> */}
           <span>
             <Link href="https://www.learnbay.co/demo">Demo</Link>
           </span>
