@@ -95,7 +95,7 @@ It offers a variety of metrics for comparing model performances across subgroups
 
 ### Here are a few of the major and most prominent tools for the ML Fairness Indicator:-
 
-The <a href="https://aif360.mybluemix.net/" target="_blank" rel="nowfollow">IBM AI</a> <a href="https://aif360.mybluemix.net/" target="_blank" rel="nowfollow">Fairness</a> <a href="https://aif360.mybluemix.net/" target="_blank" rel="nowfollow">360</a> Toolkit is a Python-based toolkit that focuses on technical improvements using fairness measures and algorithms to assist users in examining, identifying, and mitigating bias and discrimination in machine learning (ML) models.
+The <a href="https://www.ibm.com/opensource/open/projects/ai-fairness-360/" target="_blank" rel="nowfollow">IBM AI Fairness 360</a> Toolkit is a Python-based toolkit that focuses on technical improvements using fairness measures and algorithms to assist users in examining, identifying, and mitigating bias and discrimination in machine learning (ML) models.
 
 <a href="https://cloud.google.com/ai-platform/prediction/pricing" target="_blank" rel="nowfollow">Google's </a>    <a href="https://cloud.google.com/ai-platform/prediction/pricing" target="_blank" rel="nowfollow">What-if</a> tool can be used to research and comprehend the models on which a given data set operates while also assisting in the fulfillment of certain business requirements. This application is intriguing since it enables users to investigate various notions of justice.
 
