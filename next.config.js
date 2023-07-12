@@ -213,6 +213,12 @@ module.exports = {
         permanent: true,
       },
 
+      {
+        source: '/multimodal-Ddeep-learning-enabling-fusion-of-multiple-modalities-and-deep-learning',
+        destination: '/multimodal-deep-learning-enabling-fusion-of-multiple-modalities-and-deep-learning',
+        permanent: true,
+      },
+
     ]
   },
   eslint: {
