@@ -25,21 +25,21 @@ h1: "Ethics in Data Sciene and Proper Privacy and Usage of Data"
 id: "ethics-in-data-science-ensuring-privacy-and-proper-usage-of-data"
 tableData:
   [
-     Ethics in data science, Ethical Practices in data science, The ethical use of Algorithms for Fairness,  Conclusion, Frequently asked questions. 
+     Ethics in data science, Ethical Practices in data science, Why are ethics important while learning data science?, The ethical use of Algorithms for Fairness,  Conclusion, Frequently asked questions. 
    ]
 ---
 
 
 Nowadays, data is used to make most of the business decisions in a company. This data primarily holds personal information that needs to be safeguarded. Hence, businesses utilizing user data must be careful and follow some ethical standards to maintain privacy concerns. Still, ethics in data science is a concern for many.
 
-Everyone working with data has to stick to ethical standards. You can enroll in a <b>data science online course</b> to learn more about these standards and the proper way to use data. </br></br>
+Everyone working with data has to stick to ethical standards. You can enroll in a <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank"><b>data science online course</b> </a>to learn more about these standards and the proper way to use data. </br></br>
 
 
 ## Ethics in data science
 
 Data-driven enterprises confront numerous ethical dilemmas. The gathered, evaluated, and used data may be prone to hacking. Unknown parties can utilize the data to target individuals, which is a breach of privacy. To counteract these issues in data, scientists found a new field involving the study of ethics in data science. 
 
-Data ethics relates to the moral duties of collecting, protecting, and adopting private data. It also cares about how the data impacts society. Data ethics demands, 'What is the correct approach?' and 'How to improve?'
+<a href="https://www.cognizant.com/us/en/glossary/data-ethics#:~:text=Data%20ethics%20is%20a%20branch,adversely%20impact%20people%20and%20society." rel="nofllow" target="_blank">Data ethics<a> relates to the moral duties of collecting, protecting, and adopting private data. It also cares about how the data impacts society. Data ethics demands, 'What is the correct approach?' and 'How to improve?'
 
 The primary impact of ethics is on the fields of data analytics, IT, and data science. Everyone involved in <b>data science online training</b> Should know and understand the basics first. 
 
@@ -166,7 +166,7 @@ Following ethics is the main issue in data science these days. Companies using d
 
 Even for aspirants in <b>data science online training</b>, it is significant to understand the ethical usage of data. Proper ethics will guide the future of data science and its applications in many industries. Therefore, learners should start practicing ethics in data science. 
 
-Students can enroll in any <b>data science online course</b> for educational activity and ethical methodologies. <b>Online courses for data science</b> provide live training, career counseling, and interview aid. 
+Students can enroll in any <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank"><b>data science online course</b></a> for educational activity and ethical methodologies. <b>Online courses for data science</b> provide live training, career counseling, and interview aid. 
 
 The Advanced Data Science and AI Program provides expert mentors in their fields for students to <b>learn data science online</b>. Students also get to practice under their guidance, so mentors can help them properly implement learned concepts. They earn <b>_IBM and Microsoft data science certifications_</b> after the course completion, allowing them to be placed globally around top MNCs. </br></br>
 
