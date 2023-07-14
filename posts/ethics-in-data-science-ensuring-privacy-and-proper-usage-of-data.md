@@ -39,7 +39,7 @@ Everyone working with data has to stick to ethical standards. You can enroll in 
 
 Data-driven enterprises confront numerous ethical dilemmas. The gathered, evaluated, and used data may be prone to hacking. Unknown parties can utilize the data to target individuals, which is a breach of privacy. To counteract these issues in data, scientists found a new field involving the study of ethics in data science. 
 
-<a href="https://www.cognizant.com/us/en/glossary/data-ethics#:~:text=Data%20ethics%20is%20a%20branch,adversely%20impact%20people%20and%20society." rel="nofllow" target="_blank">Data ethics<a> relates to the moral duties of collecting, protecting, and adopting private data. It also cares about how the data impacts society. Data ethics demands, 'What is the correct approach?' and 'How to improve?'
+<a href="https://www.cognizant.com/us/en/glossary/data-ethics#:~:text=Data%20ethics%20is%20a%20branch,adversely%20impact%20people%20and%20society." rel="nofllow" target="_blank">Data ethics</a> relates to the moral duties of collecting, protecting, and adopting private data. It also cares about how the data impacts society. Data ethics demands, 'What is the correct approach?' and 'How to improve?'
 
 The primary impact of ethics is on the fields of data analytics, IT, and data science. Everyone involved in <b>data science online training</b> Should know and understand the basics first. 
 
