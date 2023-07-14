@@ -2771,5 +2771,34 @@
       "date":   "Jul 08, 2023",
       "draft": false
     }
-  } 
+  } ,
+
+  {
+    "slug":  "the-value-of-mastering-data-visualization-and-storytelling-for-data-scientists",
+    "frontmatter": {
+      "title": "The Value of Mastering Data Visualization & Storytelling for Data Scientists",
+      "slug":  "the-value-of-mastering-data-visualization-and-storytelling-for-data-scientists",
+      "description":  "The field of data science demand storytellers who know data and analytics and form better stories to keep the crowd engaged. If you lack such skills, then online data science training may help you better.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mdvs-1.webp",
+      "readTime": "7-5 mins",
+      "date":   "Jul 13, 2023",
+      "draft": false
+    }
+  },
+  
+  {
+    "slug":  "data-science-insights-job-and-market-growth-statistics",
+    "frontmatter": {
+      "title": "Data Science Insights: Job and Market Growth Stat",
+      "slug":  "data-science-insights-job-and-market-growth-statistics",
+      "description":  "The journey of tech evolution is unbeatable. You can also be part of the data field if redundant skill sets are shed. A data science course online can provide the upskilling scope for a successful career.",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsij-1.png",
+      "readTime": "7-5 mins",
+      "date":   "Jul 14, 2023",
+      "draft": false
+    }
+  }
 ]
