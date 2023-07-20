@@ -2801,4 +2801,18 @@
       "draft": false
     }
   }
+
+
+  {
+    "slug":  "how-to-choose-the-right-data-science-program-for-your-career-goals",
+    "frontmatter": {
+      "title": "How to Choose the Right Data Science Program for Your Career Goals",
+      "slug":  "how-to-choose-the-right-data-science-program-for-your-career-goals",
+      "description":  "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning.",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dscg-1.png",
+      "readTime": "6-5 mins",
+      "date":   "Jul 20, 2023",
+      "draft": false
+    }
+  }
 ]
