@@ -147,7 +147,7 @@ The best <b>online data science course in India</b> comes with better placement 
 
 Students from any background can become data scientists. With a basic knowledge of applied mathematics/statistics, one can start a data science career. The <b>best available data science courses in India</b> provide help in learning data science tools to shape a career in data science.  <br>
 
-### 2.Which certification is best for data science?
+### 2. Which certification is best for data science?
 
 Any <b>online data science course with a placement</b> scope helps in the career shift journey in the field of data science. The 1:1 mock interviews by industry experts refine your learning according to the industry trends. Plus, 100% job assistance increases the chances of becoming a data scientist.  <br>
 
