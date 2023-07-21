@@ -20,7 +20,7 @@ authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mana
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
-readTime: "7-5 mins"
+readTime: "7.5 mins"
 h1: "Ethics in Data Sciene and Proper Privacy and Usage of Data"
 id: "ethics-in-data-science-ensuring-privacy-and-proper-usage-of-data"
 tableData:
