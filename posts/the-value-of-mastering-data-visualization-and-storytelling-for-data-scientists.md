@@ -23,7 +23,7 @@ authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonal
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
-readTime: "7-5 mins"
+readTime: "7.5 mins"
 h1: "The Value of Mastering Data Visualization & Storytelling for Data Scientists"
 id: "the-value-of-mastering-data-visualization-and-storytelling-for-data-scientists"
 tableData:
