@@ -893,7 +893,14 @@
 <loc>https://blog.learnbay.co/data-science-insights-job-and-market-growth-statistics</loc>
 <lastmod>2023-07-14</lastmod>
 <changefreq>daily</changefreq>
-<priority>0.90</priority>
+<priority>0.90</priority> 
 </url>
 
-</urlset>
+<url>
+<loc>how-to-choose-the-right-data-science-program-for-your-career-goals</loc>
+<lastmod>2023-07-20</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority> 
+</url>
+
+</urlset>  
