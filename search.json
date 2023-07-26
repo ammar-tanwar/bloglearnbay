@@ -2801,7 +2801,7 @@
       "draft": false
     }
   },
-  
+
   {
     "slug":  "how-to-choose-the-right-data-science-program-for-your-career-goals",
     "frontmatter": {
@@ -2812,6 +2812,21 @@
       "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dscg-1.png",
       "readTime": "6-5 mins",
       "date":   "Jul 20, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "the-essential-skills-every-data-analyst-needs",
+    "frontmatter": {
+      "title": "What Are The Key Skills Every Data Analyst Needs?",
+      "slug": "the-essential-skills-every-data-analyst-needs",
+      "description": "Discover the must-have skills for data analysts! Learn about statistics, programming, data visualisation, and problem-solving. Boost your career now",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohantyr",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/esda-1.webp",
+      "readTime": "7-5 mins",
+      "date":   "Jul 24, 2023",
       "draft": false
     }
   }
