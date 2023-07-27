@@ -15,7 +15,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid #2d9cd710;
+  border-bottom: 1px solid #0072bc10;
 }
 .left {
   display: flex;
@@ -103,8 +103,8 @@
 
 .hoverBtn {
   background-color: #f7f9fc;
-  color: #2d9cd7;
-  box-shadow: #2d9cd7 0px 0px 4px 0px;
+  color: #0072bc;
+  box-shadow: #0072bc 0px 0px 4px 0px;
 }
 .white {
   background-color: transparent;
@@ -224,7 +224,7 @@
   .ham {
     display: inline;
     justify-self: flex-start;
-    color: #2d9cd7;
+    color: #0072bc;
     cursor: pointer;
     font-size: 28px;
     margin-right: 10px;
@@ -234,7 +234,7 @@
   .left button {
     padding: 8px 10px;
     outline: none;
-    background-color: #2d9cd7;
+    background-color: #0072bc;
     color: white;
     border: 0;
     cursor: pointer;
@@ -245,8 +245,8 @@
   }
   .left button:hover {
     background-color: #f7f9fc;
-    color: #2d9cd7;
-    box-shadow: #2d9cd7 0px 0px 4px 0px;
+    color: #0072bc;
+    box-shadow: #0072bc 0px 0px 4px 0px;
   }
   .right {
     display: none;
@@ -262,7 +262,7 @@
   .right button {
     padding: 8px 10px;
 
-    box-shadow: #2d9cd7 0px 0px 4px 0px;
+    box-shadow: #0072bc 0px 0px 4px 0px;
 
     font-size: 14px;
   }
@@ -271,8 +271,8 @@
   }
   .hoverBtn {
     background-color: #f7f9fc;
-    color: #2d9cd7;
-    box-shadow: #2d9cd7 0px 0px 4px 0px;
+    color: #0072bc;
+    box-shadow: #0072bc 0px 0px 4px 0px;
   }
   .white {
     background-color: transparent;
@@ -308,6 +308,6 @@
   }
   .mobileWrapper .mobileMenu span:hover {
     color: #fff;
-    background-color: #2d9cd7;
+    background-color: #0072bc;
   }
 }
