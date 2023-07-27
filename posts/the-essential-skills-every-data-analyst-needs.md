@@ -2,13 +2,13 @@
 title: "What Are The Key Skills Every Data Analyst Needs?"
 stitle: "The Essential Skills Every Data Analyst Needs"
 publish: "Published on"
-published_time: "2023-07-24T13:25:31+05:30"
-modified_time: "2023-07-24T13:25:31+05:30"
+published_time: "2023-07-21T13:25:31+05:30"
+modified_time: "2023-07-21T13:25:31+05:30"
 desc: "Discover the must-have skills for data analysts! Learn about statistics, programming, data visualisation, and problem-solving. Boost your career now."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ksed.webp"
 headerAlt:  Data Science Course, Data Science Online Course, data science online training 
-date: "Jul 24, 2023"
+date: "Jul 21, 2023"
 tag: [ Data Science Course, Data Science Online Course, data science online training]
 category: "Data Science"
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"

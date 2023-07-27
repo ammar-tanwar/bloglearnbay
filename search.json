@@ -2826,6 +2826,21 @@
       "author": "Sonalisha Mohantyr",
       "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/esda-1.webp",
       "readTime": "7-5 mins",
+      "date":   "Jul 21, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "data-science-course-gain-valuable-skills-&-boost-career-prospects",
+    "frontmatter": {
+      "title": "What Are the Benefits of Enrolling in a Data Science Course?",
+      "slug": "data-science-course-gain-valuable-skills-&-boost-career-prospects",
+      "description": "Learn data science essentials & advanced techniques. Boost your career, analyse big data & make informed decisions. Enroll now for expert guidance.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohantyr",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gvs.webp",
+      "readTime": "9 mins",
       "date":   "Jul 24, 2023",
       "draft": false
     }
