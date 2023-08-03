@@ -4,7 +4,7 @@ stitle: "Prepare for the Success of Your Data Analytics Agile Transformation."
 publish: "Published on"
 published_time: "2023-08-02T13:25:31+05:30"
 modified_time: "2023-08-02T13:25:31+05:30"
-desc: "It is better to start early through a **data analytics online course**. If you understand the value of using agile methods for planning data analytics in business, consider studying from a reliable source."
+desc: "It is better to start early through a data analytics online course. If you understand the value of using agile methods for planning data analytics in business, consider studying from a reliable source."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/prepare-ff.png"
 headerAlt: online data analytics courses, data analytics online course, data analytics course benefits
