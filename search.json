@@ -2844,20 +2844,5 @@
       "date":   "Jul 24, 2023",
       "draft": false
     }
-  },
-
-  {
-    "slug": "educational-transformation-data-science-across-workforce",
-    "frontmatter": {
-      "title": "Effects of Data Science in Education Across Workforce",
-      "slug": "educational-transformation-data-science-across-workforce",
-      "description": " Explore the transformative impact of Data Science in education on the workforce, enhancing skills, personalizing learning, and aligning curriculum with industry demands.",
-      "categories": "Data Science",
-      "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/educational-transformation.png",
-      "readTime": "5 mins",
-      "date":   "Aug 08, 2023",
-      "draft": false
-    }
   }
 ]
