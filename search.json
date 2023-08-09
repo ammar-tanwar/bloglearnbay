@@ -2844,5 +2844,49 @@
       "date":   "Jul 24, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "prepare-for-the-success-of-your-data-analytics-agile-transformation",
+    "frontmatter": {
+      "title": "Prepare for the Success of Your Data Analytics Agile Transformation",
+      "slug": "prepare-for-the-success-of-your-data-analytics-agile-transformation",
+      "description": "It is better to start early through a **data analytics online course**. If you understand the value of using agile methods for planning data analytics in business, consider studying from a reliable source.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/prepare-ff.png",
+      "readTime": "5-5 mins",
+      "date":   "Aug 02, 2023",
+      "draft": false
+    }
+  },
+  {
+    "slug": "the-significance-of-data-analytics-and-ai-for-society-and-business",
+    "frontmatter": {
+      "title": "The Significance of Data Analytics and Artificial Intelligence for Society and Business",
+      "slug": "the-significance-of-data-analytics-and-ai-for-society-and-business",
+      "description": "To shape a career in the data field, upskilling through data analyst online courses with placement refines your ability to bring socially viable yet valuable results.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/the-significance-da.png",
+      "readTime": "5-5 mins",
+      "date":   "Aug 03, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "educational-transformation-data-science-across-workforce",
+    "frontmatter": {
+      "title": "Effects of Data Science in Education Across Workforce",
+      "slug": "educational-transformation-data-science-across-workforce",
+      "description": " Explore the transformative impact of Data Science in education on the workforce, enhancing skills, personalizing learning, and aligning curriculum with industry demands.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/educational-transformation.png",
+      "readTime": "5 mins",
+      "date":   "Aug 08, 2023",
+      "draft": false
+    }
   }
 ]
