@@ -576,7 +576,7 @@
       "description": "Learn about the Iris dataset and how it measures the 150 dataframes of iris petal and sepal length for each species of setosa, versicolor, and virginica.",
       "categories": "Data Science",
       "author": "Vineeth Kumar",
-      "image":"https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eda-1.jpg",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eda-1.jpg",
       "readTime": "15-20 mins",
       "date": "Jan 3, 2021",
       "draft": false
@@ -847,7 +847,7 @@
       "categories": "Machine Learning",
       "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/har-1.jpg",
-      "readTime":  "7 mins",
+      "readTime": "7 mins",
       "date": "Mar 28, 2023",
       "draft": false
     }
@@ -1281,7 +1281,7 @@
       "description": "Data science is one of the most diversified fields with different in-depth concepts. Here in this blog, you will be briefed on the best sources to learn data science in a very simple and concise manner. It is the most reliable source for you to stay up to date with the latest development in data science.",
       "categories": "Data Science",
       "author": "Nisha Kumari",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfds-1.jpg",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/rfds-1.jpg",
       "readTime": "10-12 mins",
       "date": "Feb, 2022",
       "draft": false
@@ -1901,7 +1901,7 @@
       "date": "Apr 6, 2022",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "create-ml-and-core-ml-the-secret-of-apples-unbeatable-success",
@@ -1925,13 +1925,13 @@
       "slug": "top-courses-in-2023-for-a-full-stack-software-developer",
       "description": "If you're looking for the best full stack software development course, this blog post is for you. Here is a list of some of the best courses, ranging from beginner to advanced, that can help you easily choose a career as a full stack software developer.",
       "categories": "Full Stack",
-      "author": "Manas Kochar" ,
+      "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tcfs-1.jpg",
       "readTime": "8-9 mins",
       "date": "Jan 13, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "cognitive-computing-vs-artificial-intelligence-which-one-is-superior",
@@ -1940,7 +1940,7 @@
       "slug": "cognitive-computing-vs-artificial-intelligence-which-one-is-superior",
       "description": "People mostly get confused with Cognitive computing and artificial intelligence . In fact, there is another term, ‘cognitive AI.’ Know the difference between these and evaluate which is more in demand.",
       "categories": "Artificial Intelligence",
-      "author":  "Nivin Biswas",
+      "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ccai-1.jpg",
       "readTime": "9-10 mins",
       "date": "Feb 15, 2023",
@@ -1955,13 +1955,13 @@
       "slug": "hybrid-integration-platform-hip-enhancing-the-efficiency-of-network-infrastructure",
       "description": "Learn how hybrid integration platforms can help improve the efficacy of network infrastructure by leveraging various technologies and frameworks. In this section, we'll also go over the benefits it can offer any industry or large-scale organization.",
       "categories": "Hot Topics",
-      "author":  "Nivin Biswas",
+      "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eten-1.jpg",
       "readTime": "10-12 mins",
       "date": "Feb 17, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "handwriting-recognition-an-excellent-ai-innovation-in-ocr-technology",
@@ -1970,7 +1970,7 @@
       "slug": "handwriting-recognition-an-excellent-ai-innovation-in-ocr-technology",
       "description": "Learn about the OCR technology's handwriting text recognition method and its in-depth working techniques. Additionally, become familiar with the many HTR use cases and implications in various organizational fields.",
       "categories": "Artificial Intelligence",
-      "author":  "Manas Kochar",
+      "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hrae-1.jpg",
       "readTime": "10-12 mins",
       "date": "Feb 20, 2023",
@@ -1985,13 +1985,13 @@
       "slug": "time-series-forecasting-methods-trends-of-2023",
       "description": "Time series forecasting has proven to be an essential tool for predicting and forecasting climate change, business trends, and other aspects. This blog will cover various advantages and use cases of time series forecasting to build strategies and limit the consequences.",
       "categories": "Hot Topics",
-      "author":  "Nivin Biswas",
+      "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsm-1.png",
       "readTime": "10-12 mins",
       "date": "Feb 27, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "top-8-machine-learning-tools-you-should-know-in-2023",
@@ -2006,7 +2006,7 @@
       "date": "Mar 01, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "ai-hardware-what-is-it-and-how-does-it-help",
@@ -2021,7 +2021,7 @@
       "date": "Mar 03, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "ai-lawyers-is-legal-system-approaching-a-new-era",
@@ -2036,7 +2036,7 @@
       "date": "Mar 06, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "women-in-data-science-are-diminishing-the-gender-gap-in-indian-tech-sectors",
@@ -2051,7 +2051,7 @@
       "date": "Mar 07, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "why-data-science-actually-matters-in-2023",
@@ -2066,7 +2066,7 @@
       "date": "Dec, 2021",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "top-8-ai-predictions-whats-next-for-ai-in-2023",
@@ -2171,7 +2171,7 @@
       "date": "Mar 27, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
     "slug": "how-do-google-algorithms-identify-ai-generated-content",
@@ -2180,7 +2180,7 @@
       "slug": "how-do-google-algorithms-identify-ai-generated-content",
       "description": "The use of AI-Generated content has grown excessively. In this blog, you will understand how Google detects AI-generated content and what can be the risks of utilizing such content.",
       "categories": "Artificial Intelligence",
-      "author":  "Nivin Biswas",
+      "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdg-1.jpg",
       "readTime": "4.5 mins",
       "date": "Mar 29, 2023",
@@ -2195,7 +2195,7 @@
       "slug": "is-google-bard-a-possible-rival-to-chatgpt-4",
       "description": "The implication of OpenAI ChatGPT-4 is trending in today's tech world. Learn about ChatGPT-4 and its rival, Google Bard, with its various distinctions and integration with corresponding applications.",
       "categories": "Artificial Intelligence",
-      "author":  "Nivin Biswas",
+      "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gbp-1.jpg",
       "readTime": "7 mins",
       "date": "Mar 31, 2023",
@@ -2210,7 +2210,7 @@
       "slug": "why-is-quantum-computing-useful-for-optimization-problems-in-blockchain",
       "description": "Quantum computing is creating a buzz in today's tech world. Learn about quantum hacking and cryptographic encryption using various quantum computing applications.",
       "categories": "Artificial Intelligence",
-      "author":  "Nivin Biswas",
+      "author": "Nivin Biswas",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wqu-1.jpg",
       "readTime": "6 mins",
       "date": "Apr 03, 2023",
@@ -2225,7 +2225,7 @@
       "slug": "is-data-structure-and-algorithm-important-to-crack-product-based-company-interviews",
       "description": "Data structure and Algorithms can be an effective way of achieving SDE Jobs. In this blog, you will be briefed on how DSA can easily help crack, product-based company interviews and what can be its future implications.",
       "categories": "Full Stack",
-      "author":  "Abhishek Gupta",
+      "author": "Abhishek Gupta",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsd-1.jpg",
       "readTime": "6 mins",
       "date": "Apr 05, 2023",
@@ -2240,7 +2240,7 @@
       "slug": "is-data-structure-and-algorithm-important-to-crack-product-based-company-interviews",
       "description": "Data structure and Algorithms can be an effective way of achieving SDE Jobs. In this blog, you will be briefed on how DSA can easily help crack, product-based company interviews and what can be its future implications.",
       "categories": "Full Stack",
-      "author":  "Abhishek Gupta",
+      "author": "Abhishek Gupta",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsd-1.jpg",
       "readTime": "6 mins",
       "date": "Apr 05, 2023",
@@ -2255,7 +2255,7 @@
       "slug": "multimodal-Ddeep-learning-enabling-fusion-of-multiple-modalities-and-deep-learning",
       "description": "The tech industry has different applications of machine learning and deep learning technologies. This blog will introduce you to multimodal deep learning and the process of training AI models to determinate connections between several modalities.",
       "categories": "Machine Learning",
-      "author":  "Manas Kochar",
+      "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-1.jpg",
       "readTime": "5.5 mins",
       "date": "Apr 07, 2023",
@@ -2270,7 +2270,7 @@
       "slug": "how-to-increase-the-accuracy-of-machine-learning-model-over-90",
       "description": "The accuracy of machine learning models is the key to achieving the desired and profitable output. Learn how to increase the accuracy of machine-learning models using various methods and strategies.",
       "categories": "Machine Learning",
-      "author":  "Manas Kochar",
+      "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tom-1.jpg",
       "readTime": "7 mins",
       "date": "Apr 07, 2023",
@@ -2285,7 +2285,7 @@
       "slug": "data-analyst-vs-data-scientist",
       "description": "This blog is about data scientist vs. data analytics job responsibilities, salaries, criteria, and which one can provide significant growth in the different industries.",
       "categories": "Data Science",
-      "author":  "Sonalisha Mohanty",
+      "author": "Sonalisha Mohanty",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-1.jpg",
       "readTime": "4.5 min",
       "date": "Apr 12, 2023",
@@ -2298,9 +2298,9 @@
     "frontmatter": {
       "title": "DevOps Automation Tools in Retail | 3 Prominent Reasons Why It Needs Attention!",
       "slug": "devops-automation-tools-in-retail",
-      "description":  "DevOps Automation tools are replacing traditional physical stores with online retail. Its integrated version of retail operations attains a competitive edge. Read more to know the dynamic shifts in the retail industry with the inclusion of automation.",
+      "description": "DevOps Automation tools are replacing traditional physical stores with online retail. Its integrated version of retail operations attains a competitive edge. Read more to know the dynamic shifts in the retail industry with the inclusion of automation.",
       "categories": "Technology",
-      "author":  "Sonalisha Mohanty",
+      "author": "Sonalisha Mohanty",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-1.jpg",
       "readTime": "5.5 min",
       "date": "Apr 14, 2023",
@@ -2313,9 +2313,9 @@
     "frontmatter": {
       "title": "Unleashing The Most Demanding Data Science Projects In Healthcare",
       "slug": "top-data-science-projects-in-healthcare",
-      "description":  "In this blog, we will learn about healthcare data science projects that will provide practical insights that can guide you professionally in your data science career.",
+      "description": "In this blog, we will learn about healthcare data science projects that will provide practical insights that can guide you professionally in your data science career.",
       "categories": "Data Science",
-      "author":  "Vineeth Kumar",
+      "author": "Vineeth Kumar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/utm-1.jpg",
       "readTime": "11 mins",
       "date": "Apr 17, 2023",
@@ -2328,9 +2328,9 @@
     "frontmatter": {
       "title": "Blockchain In Supply Chain | 6 Exclusive Ways of Transparency Enhancement",
       "slug": "blockchain-in-supply-chain",
-      "description":   "Applications of blockchain in supply chain have been proven the savior against complex logistics operations. Know the implications of this cutting-edge technology on supply chain and logistics management.",
+      "description": "Applications of blockchain in supply chain have been proven the savior against complex logistics operations. Know the implications of this cutting-edge technology on supply chain and logistics management.",
       "categories": "Technology",
-      "author":  "Sonalisha Mohanty",
+      "author": "Sonalisha Mohanty",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bis-1.jpg",
       "readTime": "5.78 min",
       "date": "Apr 19, 2023",
@@ -2345,7 +2345,7 @@
       "slug": "python-2-vs-python-3",
       "description": "difference between python 2 and 3 in tabular form, python 2 vs 3 syntax differences, python2 vs python3 strings, python2 vs python3 print, python2 vs python3 exception, python2 vs python3 division",
       "categories": "Python",
-      "author":  "Vineeth Kumar",
+      "author": "Vineeth Kumar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/pyt-1.jpg",
       "readTime": "7.4 mins",
       "date": "Apr 24, 2023",
@@ -2360,7 +2360,7 @@
       "slug": "top-ai-trends",
       "description": "The tech world has seen sudden hype about trending AI technologies. This blog will teach you about the top 7 AI trends and their promising future implications.",
       "categories": "Python",
-      "author":  "Vineeth Kumar",
+      "author": "Vineeth Kumar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wnb-1.jpg",
       "readTime": "6 mins",
       "date": "Apr 26, 2023",
@@ -2375,8 +2375,8 @@
       "slug": "business-analyst-certification",
       "description": "An industry-proven Business analyst certification helps the professionals become pioneers of success in these cutting-edge transformations. Read more to know the additional benefits it may bring you.",
       "categories": "Technology",
-      "author":  "Nivin Biswas",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bag-1.jpg",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bag-1.jpg",
       "readTime": "5.5 mins",
       "date": "Apr 28, 2023",
       "draft": false
@@ -2391,7 +2391,7 @@
       "description": "HR analytics certification has initiated a radical change to the HR profession. It holds a bright and lucrative future for the said professionals. Read this article to know proven facts associated with this certification.",
       "categories": "Hot Topics",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aci-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aci-1.png",
       "readTime": "7.5 mins",
       "date": "May 03, 2023",
       "draft": false
@@ -2399,14 +2399,14 @@
   },
 
   {
-    "slug":  "full-stack-developer-interview-questions",
+    "slug": "full-stack-developer-interview-questions",
     "frontmatter": {
       "title": "Top Full Stack Interview Questions and Answers in 2023",
-      "slug":  "full-stack-developer-interview-questions",
+      "slug": "full-stack-developer-interview-questions",
       "description": "Explore the 45+ top interview questions for Full Stack developers with some tips. Master the art of acing Full Stack interviews with expert guidance.",
       "categories": "Full Stack",
       "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsi-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsi-1.png",
       "readTime": "10.5 mins",
       "date": "May 24, 2023",
       "draft": false
@@ -2414,14 +2414,14 @@
   },
 
   {
-    "slug":  "full-stack-developer-job-description",
+    "slug": "full-stack-developer-job-description",
     "frontmatter": {
       "title": "Breaking Down The Full Stack Developer Job Description",
-      "slug":  "full-stack-developer-job-description",
+      "slug": "full-stack-developer-job-description",
       "description": "Explore in-depth breakdown of the full stack developer job description and gain a clear understanding of the roles, responsibilities, and skills required in this dynamic field.",
       "categories": "Full Stack",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdtf-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdtf-1.png",
       "readTime": "10.5 mins",
       "date": "May 27, 2023",
       "draft": false
@@ -2429,14 +2429,14 @@
   },
 
   {
-    "slug":  "become-full-stack-developer",
+    "slug": "become-full-stack-developer",
     "frontmatter": {
       "title": "Becoming a Full Stack Developer: The Ultimate Career Hack",
-      "slug":  "become-full-stack-developer",
+      "slug": "become-full-stack-developer",
       "description": "Looking to fast-track your career as a full stack developer? Explore the ultimate career hack with our comprehensive guide on becoming a full stack developer",
       "categories": "Full Stack",
       "author": "Manas Kochar",
-      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bafsd-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bafsd-1.png",
       "readTime": "10.5 mins",
       "date": "May 28, 2023",
       "draft": false
@@ -2444,14 +2444,14 @@
   },
 
   {
-    "slug":  "full-stack-web-developer-portfolio",
+    "slug": "full-stack-web-developer-portfolio",
     "frontmatter": {
       "title": "How to Build a Portfolio as a Full Stack Web Developer",
-      "slug":  "full-stack-web-developer-portfolio",
+      "slug": "full-stack-web-developer-portfolio",
       "description": "Learn how to create a portfolio as a full stack web developer. Explore essential tips, practices and strategies for showcasing your skills and projects.",
       "categories": "Full Stack",
       "author": "Manas Kochar",
-      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdp-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdp-1.png",
       "readTime": "10.5 mins",
       "date": "May 29, 2023",
       "draft": false
@@ -2459,14 +2459,14 @@
   },
 
   {
-    "slug":  "future-of-full-stack-development",
+    "slug": "future-of-full-stack-development",
     "frontmatter": {
       "title": "Why Full Stack Development is the Future of Tech - Learnbay Blog",
-      "slug":  "future-of-full-stack-development",
+      "slug": "future-of-full-stack-development",
       "description": "Know why full stack development is the technology of the future. Examine full stack developers' efficiency and adaptability in addressing the demands of the tech industry",
       "categories": "Full Stack",
       "author": "Manas Kochar",
-      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fot-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fot-1.png",
       "readTime": "10.5 mins",
       "date": "May 30, 2023",
       "draft": false
@@ -2474,29 +2474,29 @@
   },
 
   {
-    "slug":  "business-analyst-skills",
+    "slug": "business-analyst-skills",
     "frontmatter": {
       "title": "10 Essential Skills To Become A Successful Business Analyst",
-      "slug":  "business-analyst-skills",
+      "slug": "business-analyst-skills",
       "description": "Check out the top most essential skills to become a successful business analyst and it help you to stand out as a highly effective business analyst",
       "categories": "Hot Topics",
       "author": "Sonalisha Mohanty",
-      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sbab.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sbab.png",
       "readTime": "10.5 mins",
       "date": "May 25, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
-    "slug":  "full-stack-developer-languages",
+    "slug": "full-stack-developer-languages",
     "frontmatter": {
       "title": "The Top Programming Languages for Full Stack Development",
-      "slug":  "full-stack-developer-languages",
+      "slug": "full-stack-developer-languages",
       "description": "Master the essential full stack developer languages and become a sought-after employee. Our comprehensive guide outlines the various programming languages.",
       "categories": "Full Stack",
       "author": "Manas Kochar",
-      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/plfs.jpg",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/plfs.jpg",
       "readTime": "10.5 mins",
       "date": "May 26, 2023",
       "draft": false
@@ -2504,14 +2504,14 @@
   },
 
   {
-    "slug":  "full-stack-certification-benefits",
+    "slug": "full-stack-certification-benefits",
     "frontmatter": {
       "title": "The Benefits of Pursuing a Full Stack developer Certification",
-      "slug":  "full-stack-certification-benefits",
+      "slug": "full-stack-certification-benefits",
       "description": "Explore the top benefits of  full stack developer certification and how it equips you with a comprehensive skill set to excel in the demanding tech industry.",
       "categories": "Full Stack",
       "author": "Manas Kochar",
-      "image":   "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bopa.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bopa.png",
       "readTime": "10.5 mins",
       "date": "May 31, 2023",
       "draft": false
@@ -2519,299 +2519,299 @@
   },
 
   {
-    "slug":  "business-analytics-career",
+    "slug": "business-analytics-career",
     "frontmatter": {
       "title": "How To Build A Career in Business Analytics: A Step-by-Step Guide",
-      "slug":  "business-analytics-career",
+      "slug": "business-analytics-career",
       "description": "Learn how to build a successful Business Analyst career with this step-by-step guide. Get practical advice on topics such as data analysis, data visualisation, etc.",
       "categories": "Hot Topics",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/htoc.jpg",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/htoc.jpg",
       "readTime": "10.5 mins",
-      "date":    "Jun 01, 2023",
+      "date": "Jun 01, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "full-stack-development-for-non-techies",
+    "slug": "full-stack-development-for-non-techies",
     "frontmatter": {
       "title": "Full Stack Development for Non-Techies: How to Get Started",
-      "slug":  "full-stack-development-for-non-techies",
+      "slug": "full-stack-development-for-non-techies",
       "description": "In this blog we will guide you on essential skills, training, and tips on how to become a full stack software developer with a non-technical background.",
       "categories": "Full Stack",
       "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nthg-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nthg-1.png",
       "readTime": "10.5 mins",
-      "date":    "Jun 02, 2023",
+      "date": "Jun 02, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "business-analytics-in-decision-making",
+    "slug": "business-analytics-in-decision-making",
     "frontmatter": {
       "title": "How to Use Business Analytics for Better Decision-Making",
-      "slug":  "business-analytics-in-decision-making",
+      "slug": "business-analytics-in-decision-making",
       "description": "In this blog, you will be briefed on the use of business analytics in the decision making process in a company.",
       "categories": "Hot Topics",
       "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdm-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdm-1.png",
       "readTime": "10.5 mins",
-      "date":    "Jun 03, 2023",
+      "date": "Jun 03, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "business-analyst-career-paths",
+    "slug": "business-analyst-career-paths",
     "frontmatter": {
       "title": "Top 5 Business Analyst Career Paths For 2023",
-      "slug":  "business-analyst-career-paths",
+      "slug": "business-analyst-career-paths",
       "description": "Explore the 5 best career opportunities for business analyst professionals in 2023 with this blog. Also check out their salary packages respectively",
       "categories": "Hot Topics",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cpi1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cpi1.png",
       "readTime": "10.5 mins",
-      "date":    "Jun 04, 2023",
+      "date": "Jun 04, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "career-in-hr-analytics",
+    "slug": "career-in-hr-analytics",
     "frontmatter": {
       "title": "How to Build a Career in HR Analytics: Essential Skills & Qualifications",
-      "slug":  "career-in-hr-analytics",
+      "slug": "career-in-hr-analytics",
       "description": "Are you interested in a career in HR analytics? Learn about the necessary skills and requirements by reading How to Build a Career in HR Analytics.",
       "categories": "Hot Topics",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hran-1.jpg",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hran-1.jpg",
       "readTime": "10.5 mins",
-      "date":    "Jun 05, 2023",
+      "date": "Jun 05, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "data-analytics-skills",
+    "slug": "data-analytics-skills",
     "frontmatter": {
       "title": "Top 10 Trending Skills for a Successful Data Analytics Career",
-      "slug":  "data-analytics-skills",
+      "slug": "data-analytics-skills",
       "description": "Discover the top 10 trending skills For Data Analytics Career. Stay ahead of the curve with these essential abilities for data analysts and boost your career.",
       "categories": "Hot Topics",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsa.jpg",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsa.jpg",
       "readTime": "10.5 mins",
-      "date":    "May 01, 2023",
+      "date": "May 01, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "it-certifications",
+    "slug": "it-certifications",
     "frontmatter": {
       "title": "Top IT Certifications in Demand For 2023 - Learnbay Blog",
-      "slug":  "it-certifications",
+      "slug": "it-certifications",
       "description": "In this blog, we have listed the top IT certification courses and programs to expand your skills and boost your career and salary.",
       "categories": "Hot Topics",
       "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/idf.jpg",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/idf.jpg",
       "readTime": "10.5 mins",
-      "date":    "May 02, 2023",
+      "date": "May 02, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "data-analyst-career-paths",
+    "slug": "data-analyst-career-paths",
     "frontmatter": {
       "title": "Data Analytics Career Path: How to Start, Grow, and Succeed",
-      "slug":  "data-analyst-career-paths",
+      "slug": "data-analyst-career-paths",
       "description": "In this blog, we will shed light on data analytics career paths including the skills you need and how to learn them.",
       "categories": "Data Science",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sg-1.jpg",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sg-1.jpg",
       "readTime": "10.5 mins",
-      "date":   "Jun 07, 2023",
+      "date": "Jun 07, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "future-of-data-analytics-career",
+    "slug": "future-of-data-analytics-career",
     "frontmatter": {
       "title": "The Future of Data Analytics Career - Learnbay Blog",
-      "slug":  "future-of-data-analytics-career",
+      "slug": "future-of-data-analytics-career",
       "description": "In this blog we will discover the path to a rewarding data analytics career. Also, learn the fundamentals and key applications of data analytics.",
       "categories": "Data Science",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ac.jpg",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ac.jpg",
       "readTime": "10.5 mins",
-      "date":   "Jun 08, 2023",
+      "date": "Jun 08, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "it-careers-in-india",
+    "slug": "it-careers-in-india",
     "frontmatter": {
       "title": "Trending IT Career in India For 2023 - Learnbay Blog",
-      "slug":  "it-careers-in-india",
+      "slug": "it-careers-in-india",
       "description": "In this blog we will shed light on trending IT careers in India in 2023. We have listed the highest paying tech jobs that will boost up your career.",
       "categories": "Hot Topics",
-      "author": "Manas Kochar" ,
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tit.png",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tit.png",
       "readTime": "10.5 mins",
-      "date":   "May 08, 2023",
+      "date": "May 08, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "soft-skills-for-it-professionals",
+    "slug": "soft-skills-for-it-professionals",
     "frontmatter": {
       "title": "The Most Valuable Soft Skills for IT Professionals in 2023",
-      "slug":  "soft-skills-for-it-professionals",
+      "slug": "soft-skills-for-it-professionals",
       "description": "From Accounting & Integrity to Time Management, we have listed the ten most valuable IT skills for professionals in 2023.",
       "categories": "Hot Topics",
-      "author": "Sonalisha Mohanty" ,
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/itp.png",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/itp.png",
       "readTime": "10.5 mins",
-      "date":   "May 09, 2023",
+      "date": "May 09, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "it-technologies-and-services",
+    "slug": "it-technologies-and-services",
     "frontmatter": {
       "title": "Emerging IT Technologies and Services in 2023",
-      "slug":  "it-technologies-and-services",
+      "slug": "it-technologies-and-services",
       "description": "Stay ahead of the crowd with our list of top 15 emerging IT technologies. Know these technologies' potential applications and how they help shape your future.",
       "categories": "Hot Topics",
       "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tas.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tas.png",
       "readTime": "10.5 mins",
-      "date":   "May 10, 2023",
+      "date": "May 10, 2023",
       "draft": false
     }
   },
-  
+
   {
-    "slug":  "business-analytics-certifications",
+    "slug": "business-analytics-certifications",
     "frontmatter": {
       "title": "Top 5 Business Analytics Certifications to Boost Your Career",
-      "slug":  "business-analytics-certifications",
+      "slug": "business-analytics-certifications",
       "description": "Explore the top 5 business analytics certification and Learn the latest tools and techniques to make smarter decisions, drive growth, and achieve better results.",
       "categories": "Hot Topics",
       "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5bac.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5bac.png",
       "readTime": "10.5 mins",
-      "date":   "May 11, 2023",
+      "date": "May 11, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "data-science-companies",
+    "slug": "data-science-companies",
     "frontmatter": {
       "title": "Top 25 Data Science Companies To Work",
-      "slug":  "data-science-companies",
+      "slug": "data-science-companies",
       "description": "We have put together a list of 25 data science companies that are making names for themselves while providing spaces for data scientists to contribute and grow.",
       "categories": "Data Science",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/25dsc.jpg",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/25dsc.jpg",
       "readTime": "10.5 mins",
-      "date":   "May 12, 2023",
+      "date": "May 12, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "data-science-insights-job-and-market-growth-statistics",
+    "slug": "data-science-insights-job-and-market-growth-statistics",
     "frontmatter": {
       "title": "Data Science Insights: Job and Market Growth Stats",
-      "slug":  "data-science-insights-job-and-market-growth-statistics",
-      "description":  "The journey of tech evolution is unbeatable. You can also be part of the data field if redundant skill sets are shed. A data science course online can provide the upskilling scope for a successful career.",
+      "slug": "data-science-insights-job-and-market-growth-statistics",
+      "description": "The journey of tech evolution is unbeatable. You can also be part of the data field if redundant skill sets are shed. A data science course online can provide the upskilling scope for a successful career.",
       "categories": "Data Science",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsij-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsij-1.png",
       "readTime": "10.5 mins",
-      "date":   "Jul 14, 2023",
+      "date": "Jul 14, 2023",
       "draft": false
     }
   },
-  
+
   {
-    "slug":  "ethics-in-data-science-ensuring-privacy-and-proper-usage-of-data",
+    "slug": "ethics-in-data-science-ensuring-privacy-and-proper-usage-of-data",
     "frontmatter": {
       "title": "Ethics in Data Science and Proper Privacy and Usage of Data",
-      "slug":  "ethics-in-data-science-ensuring-privacy-and-proper-usage-of-data",
-      "description":  "Learn about the importance of ethics in data science and how to ensure proper privacy and responsible usage of data in this insightful guide.",
+      "slug": "ethics-in-data-science-ensuring-privacy-and-proper-usage-of-data",
+      "description": "Learn about the importance of ethics in data science and how to ensure proper privacy and responsible usage of data in this insightful guide.",
       "categories": "Data Science",
       "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eidsp-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/eidsp-1.png",
       "readTime": "7.5 mins",
-      "date":   "Jul 14, 2023",
+      "date": "Jul 14, 2023",
       "draft": false
     }
-  }, 
+  },
 
   {
-    "slug":  "top-5-essential-python-skills-for-data-scientists-a-comprehensive-guide",
+    "slug": "top-5-essential-python-skills-for-data-scientists-a-comprehensive-guide",
     "frontmatter": {
       "title": "5 Most Important Python Skills to Master as a Data Scientist",
-      "slug":  "top-5-essential-python-skills-for-data-scientists-a-comprehensive-guide",
-      "description":  "The most critical skill many data scientists opt for is Python. The data science online course with certificate helps in learning these programming skills and getting certified.",
+      "slug": "top-5-essential-python-skills-for-data-scientists-a-comprehensive-guide",
+      "description": "The most critical skill many data scientists opt for is Python. The data science online course with certificate helps in learning these programming skills and getting certified.",
       "categories": "Data Science",
       "author": "Vineeth Kumar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mips.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mips.png",
       "readTime": "7-5 mins",
-      "date":   "Jul 08, 2023",
+      "date": "Jul 08, 2023",
       "draft": false
     }
-  } ,
+  },
 
   {
-    "slug":  "the-value-of-mastering-data-visualization-and-storytelling-for-data-scientists",
+    "slug": "the-value-of-mastering-data-visualization-and-storytelling-for-data-scientists",
     "frontmatter": {
       "title": "The Value of Mastering Data Visualization & Storytelling for Data Scientists",
-      "slug":  "the-value-of-mastering-data-visualization-and-storytelling-for-data-scientists",
-      "description":  "The field of data science demand storytellers who know data and analytics and form better stories to keep the crowd engaged. If you lack such skills, then online data science training may help you better.",
+      "slug": "the-value-of-mastering-data-visualization-and-storytelling-for-data-scientists",
+      "description": "The field of data science demand storytellers who know data and analytics and form better stories to keep the crowd engaged. If you lack such skills, then online data science training may help you better.",
       "categories": "Data Science",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mdvs-1.webp",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mdvs-1.webp",
       "readTime": "7.5 mins",
-      "date":   "Jul 13, 2023",
-      "draft": false
-    }
-  },
-  
-  {
-    "slug":  "data-science-insights-job-and-market-growth-statistics",
-    "frontmatter": {
-      "title": "Data Science Insights: Job and Market Growth Stat",
-      "slug":  "data-science-insights-job-and-market-growth-statistics",
-      "description":  "The journey of tech evolution is unbeatable. You can also be part of the data field if redundant skill sets are shed. A data science course online can provide the upskilling scope for a successful career.",
-      "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsij-1.png",
-      "readTime": "7-5 mins",
-      "date":   "Jul 14, 2023",
+      "date": "Jul 13, 2023",
       "draft": false
     }
   },
 
   {
-    "slug":  "how-to-choose-the-right-data-science-program-for-your-career-goals",
+    "slug": "data-science-insights-job-and-market-growth-statistics",
+    "frontmatter": {
+      "title": "Data Science Insights: Job and Market Growth Stat",
+      "slug": "data-science-insights-job-and-market-growth-statistics",
+      "description": "The journey of tech evolution is unbeatable. You can also be part of the data field if redundant skill sets are shed. A data science course online can provide the upskilling scope for a successful career.",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsij-1.png",
+      "readTime": "7-5 mins",
+      "date": "Jul 14, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "how-to-choose-the-right-data-science-program-for-your-career-goals",
     "frontmatter": {
       "title": "How to Choose the Right Data Science Program for Your Career Goals",
-      "slug":  "how-to-choose-the-right-data-science-program-for-your-career-goals",
-      "description":  "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning.",
+      "slug": "how-to-choose-the-right-data-science-program-for-your-career-goals",
+      "description": "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning.",
       "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dscg-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dscg-1.png",
       "readTime": "6-5 mins",
-      "date":   "Jul 20, 2023",
+      "date": "Jul 20, 2023",
       "draft": false
     }
   },
@@ -2824,9 +2824,9 @@
       "description": "Discover the must-have skills for data analysts! Learn about statistics, programming, data visualisation, and problem-solving. Boost your career now",
       "categories": "Data Science",
       "author": "Sonalisha Mohantyr",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/esda-1.webp",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/esda-1.webp",
       "readTime": "7-5 mins",
-      "date":   "Jul 21, 2023",
+      "date": "Jul 21, 2023",
       "draft": false
     }
   },
@@ -2839,9 +2839,9 @@
       "description": "Learn data science essentials & advanced techniques. Boost your career, analyse big data & make informed decisions. Enroll now for expert guidance.",
       "categories": "Data Science",
       "author": "Sonalisha Mohantyr",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gvs.webp",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gvs.webp",
       "readTime": "9 mins",
-      "date":   "Jul 24, 2023",
+      "date": "Jul 24, 2023",
       "draft": false
     }
   },
@@ -2854,9 +2854,9 @@
       "description": "It is better to start early through a **data analytics online course**. If you understand the value of using agile methods for planning data analytics in business, consider studying from a reliable source.",
       "categories": "Data Science",
       "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/prepare-ff.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/prepare-ff.png",
       "readTime": "5-5 mins",
-      "date":   "Aug 02, 2023",
+      "date": "Aug 02, 2023",
       "draft": false
     }
   },
@@ -2868,9 +2868,9 @@
       "description": "To shape a career in the data field, upskilling through data analyst online courses with placement refines your ability to bring socially viable yet valuable results.",
       "categories": "Hot Topics",
       "author": "Sonalisha Mohanty",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/the-significance-da.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/the-significance-da.png",
       "readTime": "5-5 mins",
-      "date":   "Aug 03, 2023",
+      "date": "Aug 03, 2023",
       "draft": false
     }
   },
@@ -2883,9 +2883,24 @@
       "description": " Explore the transformative impact of Data Science in education on the workforce, enhancing skills, personalizing learning, and aligning curriculum with industry demands.",
       "categories": "Data Science",
       "author": "Manas Kochar",
-      "image":  "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/educational-transformation.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/educational-transformation.png",
       "readTime": "5 mins",
-      "date":   "Aug 08, 2023",
+      "date": "Aug 08, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "future-of-data-science-and-essential-skills-for-data-scientists",
+    "frontmatter": {
+      "title": "The Future of Data Science and Important Skills for Data Scientists",
+      "slug": "future-of-data-science-and-essential-skills-for-data-scientists",
+      "description": " Explore the evolving landscape of Data Science. Discover vital skills every Data Scientist needs for success in an increasingly data-driven world. Stay ahead in this dynamic field.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sssd-1.png",
+      "readTime": "5 mins",
+      "date": "Aug 09, 2023",
       "draft": false
     }
   }
