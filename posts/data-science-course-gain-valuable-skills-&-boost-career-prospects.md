@@ -135,7 +135,7 @@ Data needs to be extracted, stored, and analyzed to deliver better results. With
 
 Time series forecasting helps data scientists in predicting future trends and make optimal decisions. The **online courses for data science** offer the privilege of reading through existing data patterns and forecasting future trends.
 
-The real-time use of ARIMA models for behavior prediction and analysis under a course program guides the experts to have better data analysis. Data analysis is incomplete without data prediction. Ssound knowledge of time series analysis and related use in data science speaks to the success of insightful decisions in businesses. </br></br>
+The real-time use of ARIMA models for behavior prediction and analysis under a course program guides the experts to have better data analysis. Data analysis is incomplete without data prediction. Sound knowledge of time series analysis and related use in data science speaks to the success of insightful decisions in businesses. </br></br>
 
 ## Benefits of Enrolling in a Data Science Course
 

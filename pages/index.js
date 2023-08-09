@@ -50,9 +50,7 @@ export default function blog({ allPostsData }) {
           <p>Latest Blogs</p>
        
           <Sidebar />
-          {/* <a href={`/blogs`} className={styles.blogButton}>
-            <button>View All Blogs</button>
-          </a> */}
+          
         </section>
       </section>
       <section className={styles.blogWrap}>
