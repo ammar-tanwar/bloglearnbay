@@ -2903,5 +2903,19 @@
       "date": "Aug 09, 2023",
       "draft": false
     }
+  },
+  {
+    "slug": "data-structures-or-algorithms-what-to-learn-first",
+    "frontmatter": {
+      "title": "What Should You Learn First :- Data Structures or Algorithms?",
+      "slug": "data-structures-or-algorithms-what-to-learn-first",
+      "description": " Start with data structures before tackling algorithms. A solid understanding of data structures lays the foundation for efficient algorithm design and problem-solving in computer science.",
+      "categories": "Data Structure",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-structures-1.png",
+      "readTime": "10-35 mins",
+      "date": "Aug 10, 2023",
+      "draft": false
+    }
   }
 ]
