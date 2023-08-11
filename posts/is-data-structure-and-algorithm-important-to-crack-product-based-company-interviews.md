@@ -10,10 +10,9 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsd-1
 headerAlt: "A banner image titled, 'Is DS and Algorithm Important to crack Product-Based Business Interviews?' shows an illustration of a person sitting on top of a desktop using a laptop."
 date: "Apr 05, 2023"
 tag: [ Full stack software developer, full stack developer, data structure and algorithms, software developer vs software engineer ]
-category: "Full Stack"
-
-cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
-catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
+category: "Data Structure"
+cattitle: "Stay Updated with Data Structure Resources - LearnBay Blogs"
+catdesc: "Check out the Learnbay Data Structure blog section, featuring a comprehensive collection of blogs on Data Structure & Algorithms"
 authortitle: ""
 adesc: ""
 
