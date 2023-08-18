@@ -12,6 +12,8 @@ export default function Search() {
     const { query } = useRouter()
     const TempPosts = []
 
+    console.log(search);
+
     search.map(
         (post) => {
             if (post.frontmatter.draft === false) {

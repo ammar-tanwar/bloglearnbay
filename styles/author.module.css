@@ -137,4 +137,17 @@
     bottom: 3rem;
     left: -2.5rem;
   }
+
+  .bIcons {
+    left: 234px;
+  }
+
+  .m1div {
+    left: 3rem;
+  }
+
+  .adesc p {
+    height: 3rem;
+
+  }
 }

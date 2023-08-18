@@ -3,21 +3,11 @@ import styles from "./Form.module.css";
 import "react-phone-number-input/style.css";
 import PhoneInput from "react-phone-number-input";
 import { useRouter } from "next/router";
-import DatePicker from "react-datepicker";
-import setHours from "date-fns/setHours";
-import setMinutes from "date-fns/setMinutes";
-import addDays from "date-fns/addDays";
-import subDays from "date-fns/subDays";
-import getDay from "date-fns/getDay";
 
 const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
   const router = useRouter();
-  let today = new Date();
-  let time =
-    today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
-
-  //offset to maintain time zone difference
-  const [startDate, setStartDate] = useState();
+ 
+ //offset to maintain time zone difference
   const [value, setValue] = useState();
   const [query, setQuery] = useState({
     name: "",
@@ -27,20 +17,13 @@ const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
     jobDescription: "",
     platform: "",
     Brief: "",
-    dateTime: "",
     url: router.asPath,
   });
 
 
   useEffect(() => {
-    setQuery({ ...query, phone: value, dateTime: startDate });
-  }, [value,query,startDate]);
-
-
-  // setQuery({ ...query, phone: value,dateTime: startDate  });
-
-
-
+    setQuery({ ...query, phone: value});
+  }, [value,query]);
 
   // Update inputs value
   const handleParam = () => (e) => {
@@ -52,10 +35,7 @@ const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
     }));
   };
 
-  let endPoint = "https://getform.io/f/0b5b1a8f-bce0-445a-967f-f56103e73f3d";
-  // if (router.pathname === "/data-science-certification-courses") {
-  //   endPoint = "https://getform.io/f/0b5b1a8f-bce0-445a-967f-f56103e73f3d";
-  // }
+  let endPoint = "https://getform.io/f/85e92281-63f9-4d2f-b946-31d1098532f4";
 
   // Form Submit function
   const formSubmit = (e) => {
@@ -73,8 +53,10 @@ const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
         email: "",
         phone: "",
         workExperience: "",
-        dateTime: "",
-        url: "",
+        jobDescription: "",
+        platform: "",
+        Brief: "",
+        url: router.asPath,
       })
     );
     if (popup) {
@@ -89,16 +71,16 @@ const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
       return;
     }
   };
-  const isWeekday = (date) => {
-    const day = getDay(date);
-    return day !== 0;
-  };
-  const filterPassedTime = (time) => {
-    const currentDate = new Date();
-    const selectedDate = new Date(time);
+  // const isWeekday = (date) => {
+  //   const day = getDay(date);
+  //   return day !== 0;
+  // };
+  // const filterPassedTime = (time) => {
+  //   const currentDate = new Date();
+  //   const selectedDate = new Date(time);
 
-    return currentDate.getTime() < selectedDate.getTime();
-  };
+  //   return currentDate.getTime() < selectedDate.getTime();
+  // };
 
   return (
     <div className={styles.App}>
@@ -162,7 +144,7 @@ const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
                       <input
                         type="text"
                         name="jobDescription"
-                        placeholder="Job Title or Domain"
+                        placeholder="Job Description"
                         className={
                           popup ? styles.EmailInputs : styles.EmailInput
                         }
@@ -178,7 +160,7 @@ const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
                       <input
                         type="text"
                         name="jobDescription"
-                        placeholder="Job Title or Domain"
+                        placeholder="Job Description"
                         className={
                           popup ? styles.EmailInputs : styles.EmailInput
                         }
@@ -204,48 +186,6 @@ const Form = ({ popup, setTrigger, downloadBrochure, radio, jobDesc }) => {
             <option value="12+ year">12+ years</option>
           </select>
         </div>
-
-        {/* date time field */}
-        {/* {popup ? (
-          <div className={popup ? styles.formWrappers : styles.formWrapper}>
-            <input
-              type="hidden"
-              id="url"
-              name="url"
-              value={router.asPath}
-            ></input>
-          </div>
-        ) : (
-          ""
-        )} */}
-
-        {/* <div className={popup ? styles.formWrappers : styles.formWrapper}>
-            <div className={styles.inner}>
-              <DatePicker
-                selected={startDate}
-                name="dateTime"
-                id="dateTime"
-                onChange={(date) => setStartDate(date)}
-                showTimeSelect
-                timeIntervals={15}
-                includeDateIntervals={[
-                  {
-                    start: subDays(new Date(), 1),
-                    end: addDays(new Date(), 5),
-                  },
-                ]}
-                filterDate={isWeekday}
-                filterTime={filterPassedTime}
-                wrapperClassName={styles.date}
-                className={styles.datePicker}
-                placeholderText="Select Date and Time"
-                dateFormat="MMMM d, yyyy h:mm aa"
-                required
-                minTime={setHours(setMinutes(new Date(), 0), 10)}
-                maxTime={setHours(setMinutes(new Date(), 0), 22)}
-              />
-            </div>
-          </div> */}
 
          
           {radio ? (
