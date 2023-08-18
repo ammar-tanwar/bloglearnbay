@@ -2089,7 +2089,7 @@
       "title": "Why Should You Learn Data Structures and Algorithms (DSA) in Java or Python?",
       "slug": "why-should-you-learn-data-structures-and-algorithms-dsa-in-java-or-python",
       "description": "Data Structure and Algorithm (DSA) in Java or Python offer a variety of significant features. In this blog, you will be briefed on how Java and Python prove to be the most convenient programming languages for data structure and algorithms with the support of proper industry-level training.",
-      "categories": "Data Structure",
+      "categories": "Full Stack",
       "author": "Amit Tikkiwal",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wsyl-1.jpg",
       "readTime": "10-12 mins",
@@ -2224,7 +2224,7 @@
       "title": "Is Data Structure and Algorithm Important to Crack Product-based Company Interviews?",
       "slug": "is-data-structure-and-algorithm-important-to-crack-product-based-company-interviews",
       "description": "Data structure and Algorithms can be an effective way of achieving SDE Jobs. In this blog, you will be briefed on how DSA can easily help crack, product-based company interviews and what can be its future implications.",
-      "categories": "Data Structure",
+      "categories": "Full Stack",
       "author": "Abhishek Gupta",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsd-1.jpg",
       "readTime": "6 mins",
@@ -2901,20 +2901,6 @@
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sssd-1.png",
       "readTime": "5 mins",
       "date": "Aug 09, 2023",
-      "draft": false
-    }
-  },
-  {
-    "slug": "data-structures-or-algorithms-what-to-learn-first",
-    "frontmatter": {
-      "title": "What Should You Learn First :- Data Structures or Algorithms?",
-      "slug": "data-structures-or-algorithms-what-to-learn-first",
-      "description": " Start with data structures before tackling algorithms. A solid understanding of data structures lays the foundation for efficient algorithm design and problem-solving in computer science.",
-      "categories": "Data Structure",
-      "author": "Sonalisha Mohanty",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-structures-1.png",
-      "readTime": "10-35 mins",
-      "date": "Aug 10, 2023",
       "draft": false
     }
   }

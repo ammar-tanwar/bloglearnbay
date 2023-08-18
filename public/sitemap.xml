@@ -905,14 +905,14 @@
 
 <url>
 <loc>https://blog.learnbay.co/the-essential-skills-every-data-analyst-needs</loc>
-<lastmod>2023-07-24</lastmod>
+<lastmod>2023-07-21</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.90</priority> 
 </url>
 
 <url>
-<loc>https://blog.learnbay.co/prepare-for-the-success-of-your-data-analytics-agile-transformation</loc>
-<lastmod>2023-08-02</lastmod>
+<loc>https://blog.learnbay.co/data-science-course-gain-valuable-skills-&-boost-career-prospects</loc>
+<lastmod>2023-07-21</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.90</priority> 
 </url>
@@ -922,25 +922,21 @@
 <lastmod>2023-08-03</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.90</priority> 
-</url>
 
 <url>
 <loc>https://blog.learnbay.co/educational-transformation-data-science-across-workforce</loc>
 <lastmod>2023-08-08</lastmod>
 <changefreq>daily</changefreq>
-<priority>0.90</priority> 
+<priority>0.90</priority>
 </url>
+
 <url>
-<loc>https://blog.learnbay.co/future-of-data-science-and-essential-skills-for-data-scientists</loc>
+<loc>future-of-data-science-and-essential-skills-for-data-scientists</loc>
 <lastmod>2023-08-09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.90</priority> 
 </url>
 
-<url>
-<loc>https://blog.learnbay.co/data-structures-or-algorithms-what-to-learn-first</loc>
-<lastmod>2023-08-10</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.90</priority> 
-</url>
+
+
 </urlset>  
