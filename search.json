@@ -2889,7 +2889,6 @@
       "draft": false
     }
   },
-
   {
     "slug": "future-of-data-science-and-essential-skills-for-data-scientists",
     "frontmatter": {
@@ -2898,9 +2897,39 @@
       "description": " Explore the evolving landscape of Data Science. Discover vital skills every Data Scientist needs for success in an increasingly data-driven world. Stay ahead in this dynamic field.",
       "categories": "Data Science",
       "author": "Sonalisha Mohanty",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sssd-1.png",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/educational-transformation.png",
       "readTime": "5 mins",
       "date": "Aug 09, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "data-structures-or-algorithms-what-to-learn-first",
+    "frontmatter": {
+      "title": "What Should You Learn First :- Data Structures or Algorithms?",
+      "slug": "data-structures-or-algorithms-what-to-learn-first",
+      "description": " Start with data structures before tackling algorithms. A solid understanding of data structures lays the foundation for efficient algorithm design and problem-solving in computer science.",
+      "categories": "Data Structure",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-structures-1.png",
+      "readTime": "10-35 mins",
+      "date": "Aug 10, 2023",
+      "draft": false
+    }
+  },
+
+  {
+    "slug": "essential-data-structures-must-know-basics-for-every-programmer",
+    "frontmatter": {
+      "title": "Top Data Structures That Every Programmer Must Know",
+      "slug": "essential-data-structures-must-know-basics-for-every-programmer",
+      "description": "Enhance your programming skills with our comprehensive data structures course. Learn essential DSA concepts to excel in coding and problem-solving. Enroll now!",
+      "categories": "Data Structure",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/datastructure.webp",
+      "readTime": "4.33 mins",
+      "date": "Aug 23, 2023",
       "draft": false
     }
   }
