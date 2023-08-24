@@ -1,5 +1,5 @@
 ---
-title: The Future of Data Science and Important Skills for Data Scientists
+title: Future of Data Science & Essential Skills for Data Scientists
 stitle: "Future of Data Science & Essential Skills for Data Scientists"
 publish: "Published on"
 published_time: "2023-08-09T13:25:31+05:30"
@@ -21,15 +21,15 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "5 mins"
-h1: "The Future of Data Science and Important Skills for Data Scientists"
+h1: "Future of Data Science & Essential Skills for Data Scientists"
 id: "future-of-data-science-and-essential-skills-for-data-scientists"
-tableData: [
- Why is Data Science Trending?, 
- Promising Data Science Skills That Will Never Let You Down!!, 
- What Future Holds?,   
- FAQs:-,
-
-]
+tableData:
+  [
+    Why is Data Science Trending?,
+    Promising Data Science Skills That Will Never Let You Down!!,
+    What Future Holds?,
+    FAQs:-,
+  ]
 ---
 
 <span style=" font-weight:bold; font-size:28px">Become A Skilled Data Scientist With Data Science Course In Bangalore</span><br/>
@@ -50,7 +50,7 @@ Another reason behind trending data fields is their flexibility to get associate
 
 Irrespective of your domain expertise, you can opt for <b>online data science programs</b> with better job offers.<br/><br/>
 
-## Promising Data Science Skills That Will Never Let You Down!!<br/> 
+## Promising Data Science Skills That Will Never Let You Down!!<br/>
 
 ### 1. Basic Numerical Skills for Data Sourcing
 
@@ -82,7 +82,7 @@ In the 21st era, data science has become the beholder of our future. It sows see
 
 Through <b>online data science programs,</b> learning the forecasting models followed by live projects becomes effective.<br/><br/>
 
-## What Future Holds?  
+## What Future Holds?
 
 A career path in data science consists of many obstacles and opportunities. From private MNCs to government agencies, the job outlook for data scientists is expanding here and there. For career growth in the data field, many data science courses are popping up. But, to know <b>_which institute is best to learn data science_</b>, you must do research.<br/>
 
@@ -92,13 +92,13 @@ An industry-paced program like Data Science and AI Foundation Program offers you
 
 Plus, offline experience lab sharpens your knowledge, paving your way toward gaining a certificate from <b>_IBM & Microsoft_</b>.<br/><br/>
 
-## FAQs:- 
+## FAQs:-
 
 ### 1. What is the eligibility for a data science course?
 
 With basic knowledge of applied mathematics and a bachelor’s degree with sound domain knowledge, anyone can start a data science course. Coding skills or a computer science degree are not mandatory to upskill with data. Yet, during the course, you will learn basic programming languages and data tools.<br/>
 
-### 2.  Is data science a 6-month course?
+### 2. Is data science a 6-month course?
 
 There is no fixed duration for the data science course. It can take six months to one year. Based on the course level you opt for, the duration is decided. The main thing is learning the latest trends and gaining practical experience with in-demand tools.<br/>
 

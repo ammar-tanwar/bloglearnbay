@@ -2878,7 +2878,7 @@
   {
     "slug": "educational-transformation-data-science-across-workforce",
     "frontmatter": {
-      "title": "Effects of Data Science in Education Across Workforce",
+      "title": "Educational Transformation: Data Science Across Workforce",
       "slug": "educational-transformation-data-science-across-workforce",
       "description": " Explore the transformative impact of Data Science in education on the workforce, enhancing skills, personalizing learning, and aligning curriculum with industry demands.",
       "categories": "Data Science",
@@ -2892,7 +2892,7 @@
   {
     "slug": "future-of-data-science-and-essential-skills-for-data-scientists",
     "frontmatter": {
-      "title": "The Future of Data Science and Important Skills for Data Scientists",
+      "title": "Future of Data Science & Essential Skills for Data Scientists",
       "slug": "future-of-data-science-and-essential-skills-for-data-scientists",
       "description": " Explore the evolving landscape of Data Science. Discover vital skills every Data Scientist needs for success in an increasingly data-driven world. Stay ahead in this dynamic field.",
       "categories": "Data Science",
@@ -2907,7 +2907,7 @@
   {
     "slug": "data-structures-or-algorithms-what-to-learn-first",
     "frontmatter": {
-      "title": "What Should You Learn First :- Data Structures or Algorithms?",
+      "title": "Data Structures or Algorithms: What to Learn First?",
       "slug": "data-structures-or-algorithms-what-to-learn-first",
       "description": " Start with data structures before tackling algorithms. A solid understanding of data structures lays the foundation for efficient algorithm design and problem-solving in computer science.",
       "categories": "Data Structure",
@@ -2922,7 +2922,7 @@
   {
     "slug": "essential-data-structures-must-know-basics-for-every-programmer",
     "frontmatter": {
-      "title": "Top Data Structures That Every Programmer Must Know",
+      "title": "Essential Data Structures: Must-Know Basics for Every Programmer",
       "slug": "essential-data-structures-must-know-basics-for-every-programmer",
       "description": "Enhance your programming skills with our comprehensive data structures course. Learn essential DSA concepts to excel in coding and problem-solving. Enroll now!",
       "categories": "Data Structure",
@@ -2930,6 +2930,20 @@
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/datastructure.webp",
       "readTime": "4.33 mins",
       "date": "Aug 23, 2023",
+      "draft": false
+    }
+  },
+  {
+    "slug": "earn-data-science-certification-steps-to-become-a-certified-professional",
+    "frontmatter": {
+      "title": "Earn Data Science Certification:- Steps to Become a Certified Professional",
+      "slug": "earn-data-science-certification-steps-to-become-a-certified-professional",
+      "description": "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/earn-data-science.png",
+      "readTime": "5.33 mins",
+      "date": "Aug 24, 2023",
       "draft": false
     }
   }

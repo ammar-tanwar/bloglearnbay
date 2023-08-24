@@ -1,5 +1,5 @@
 ---
-title: What Should You Learn First :- Data Structures or Algorithms?
+title: "Data Structures or Algorithms: What to Learn First?"
 stitle: "Data Structures or Algorithms: What to Learn First?"
 publish: "Published on"
 published_time: "2023-08-10T13:25:31+05:30"
@@ -24,7 +24,7 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "10.35 mins"
-h1: "What Should You Learn First :- Data Structures or Algorithms?"
+h1: "Data Structures or Algorithms: What to Learn First?"
 id: "data-structures-or-algorithms-what-to-learn-first"
 tableData:
   [

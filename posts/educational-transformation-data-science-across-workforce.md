@@ -1,5 +1,5 @@
 ---
-title: "Effects of Data Science in Education Across Workforce"
+title: "Educational Transformation: Data Science Across Workforce"
 stitle: "Educational Transformation: Data Science Across Workforce"
 publish: "Published on"
 published_time: "2023-08-08T13:25:31+05:30"
@@ -21,7 +21,7 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "5 mins"
-h1: " Effects of Data Science in Education Across Workforce"
+h1: " Educational Transformation: Data Science Across Workforce"
 id: "educational-transformation-data-science-across-workforce"
 tableData:
   [
@@ -99,7 +99,7 @@ Using NLP, they can analyze many log files to determine appropriate judgment. It
 ​
 
 - ### Developing social skills
-  
+
 A student's social life is essential to their overall development. Students having trouble connecting with others socially and emotionally need special attention. Educational institutions help develop social and emotional skills in students. These skills mainly affect a student's development.<br/>
 
 ​
