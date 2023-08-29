@@ -10,19 +10,9 @@ const Form = ({
   setTrigger,
   downloadBrochure,
   radio,
-  event,
-  dataScience,
-  fullStack,
-  google,
-  formThank,
-  referrals,
   syllabus,
-  learning,
-  titleCourse,
-  brochureLink,
-  dataScienceCounselling,
-  dataScienceGeneric,
   upSkillingHide,
+  thankyou,
 }) => {
   const router = useRouter();
   let today = new Date();
@@ -69,40 +59,12 @@ const Form = ({
     }, 500);
   };
   let endPoint = "https://getform.io/f/85e92281-63f9-4d2f-b946-31d1098532f4";
-  if (router.pathname === "/") {
+  if (thankyou) {
     endPoint = "https://getform.io/f/85e92281-63f9-4d2f-b946-31d1098532f4";
-  }
-  if (event) {
-    endPoint = "https://getform.io/f/fd9da107-864c-4617-a52a-7e112297efa6";
-  }
-
-  if (router.pathname === "/organic") {
-    endPoint = "https://getform.io/f/a876146f-2c5d-4a1f-b177-f993db3d7aaf";
-  }
-
-  if (router.pathname === "/referrals") {
-    endPoint = "https://getform.io/f/a876146f-2c5d-4a1f-b177-f993db3d7aaf";
-  }
-
-  if (
-    router.pathname === "/learning-learnbay" ||
-    router.pathname === "/learning-learnbay-select"
-  ) {
-    endPoint = "https://getform.io/f/fd68bf82-a911-435e-9719-7c134a89a731";
-  }
-
-  if (router.pathname === "/resume-builder") {
-    endPoint = "https://getform.io/f/fd9da107-864c-4617-a52a-7e112297efa6";
   }
 
   let btnText = "Apply For Counselling";
-  if (event) {
-    btnText = "Register Now";
-  }
 
-  if (learning) {
-    btnText = "Download Resources";
-  }
 
   // Form Submit function
   const formSubmit = (e) => {
@@ -155,42 +117,12 @@ const Form = ({
         };
         off();
       }
-      if (router.pathname === "/") {
+      if (thankyou) {
         router.push("Thank-you");
       }
-      if (router.pathname === "/learning-learnbay") {
-        router.push("/learning-learnbay-select");
-      }
-      if (router.pathname === "/learning-learnbay-select") {
-        router.push("/Thank-you");
-      }
-      if (router.pathname === "resume-builder") {
-        router.push("Thank-you");
-      }
-      if (fullStack) {
-        router.push("/Thank-you-fsd");
-      }
-      if (event) {
-        router.push("/event/Thank-You-event");
-      }
-      if (dataScience) {
-        router.push("/Thank-you", {
-          pathname: "/Thank-you",
-          query: { titleCourse: titleCourse, brochureLink: brochureLink },
-        });
-      }
-      if (dataScienceGeneric) {
-        redirection();
-      }
-      if (dataScienceCounselling) {
-        router.push("/Thank-you");
-      }
-      if (router.pathname === "/organic" || router.pathname === "/referrals") {
-        setToggle(false);
-        setAlertMSG("Form Submitted successfully");
-        setDisable(false);
-        setValue("");
-      }
+    
+    
+    
       if (router.pathname === "/Thank-you") {
         setToggle(false);
         setAlertMSG("Form Submitted successfully");
@@ -230,39 +162,10 @@ const Form = ({
       };
       off();
     }
-    if (router.pathname === "/learning-learnbay") {
-      router.push("/learning-learnbay-select");
-    }
-    if (router.pathname === "/learning-learnbay-select") {
-      router.push("/Thank-you");
-    }
-    if (router.pathname === "resume-builder") {
-      router.push("Thank-you");
-    }
-    if (fullStack) {
-      router.push("/Thank-you-fsd");
-    }
-    if (event) {
-      router.push("/event/Thank-You-event");
-    }
-    if (dataScience) {
-      router.push("/Thank-you", {
-        pathname: "/Thank-you",
-        query: { titleCourse: titleCourse, brochureLink: brochureLink },
-      });
-    }
-    if (dataScienceGeneric) {
-      redirection();
-    }
-    if (dataScienceCounselling) {
-      router.push("/Thank-you");
-    }
-    if (router.pathname === "/organic" || router.pathname === "/referrals") {
-      setToggle(false);
-      setAlertMSG("Form Submitted successfully");
-      setDisable(false);
-      setValue("");
-    }
+  
+  
+
+  
     if (router.pathname === "/Thank-you") {
       setToggle(false);
       setAlertMSG("Form Submitted successfully");
@@ -385,42 +288,7 @@ const Form = ({
             </select>
           </div>
         )}
-
-        {google ? (
-          <div className={popup ? styles.formWrappers : styles.formWrapper}>
-            <select
-              name="WAdropdown"
-              required
-              value={query.WAdropdown}
-              onChange={handleParam()}
-            >
-              <option value="Select One">Select One</option>
-              <option value="Calls">Calls</option>
-              <option value="WhatsApp">WhatsApp</option>
-              <option value="Referral">Referral</option>
-              <option value="Krishna Sir">Krishna Sir</option>
-            </select>
-          </div>
-        ) : (
-          ""
-        )}
-
-        {referrals ? (
-          <div className={popup ? styles.formWrappers : styles.formWrapper}>
-            <select
-              name="WAdropdown"
-              required
-              value={query.WAdropdown}
-              onChange={handleParam()}
-            >
-              <option value="Select One">Select One</option>
-              <option value="Referral">Referral</option>
-              <option value="Krishna Sir">Krishna Sir</option>
-            </select>
-          </div>
-        ) : (
-          ""
-        )}
+  
 
         {popup ? (
           <div className={popup ? styles.formWrappers : styles.formWrapper}>
@@ -479,9 +347,7 @@ const Form = ({
               By submitting the form, you agree to our Terms and Conditions and
               our Privacy Policy.
             </p>
-            <button type="submit" className={styles.button}>
-              {downloadBrochure ? "Download Now" : btnText}{" "}
-            </button>
+            
           </div>
         ) : (
           <>
