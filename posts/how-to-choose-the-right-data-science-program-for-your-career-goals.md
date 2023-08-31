@@ -1,6 +1,6 @@
 ---
-title: "How to Choose the Right Data Science Program for Your Career Goals"
-stitle: "How to Choose the Right Data Science Program for Your Career Goals"
+title: "A Guide to Select the Right Data Science Program for Your Career  "
+stitle: "A Guide to Select the Right Data Science Program for Your Career  "
 publish: "Published on"
 published_time: "2023-07-14T13:25:31+05:30"
 modified_time: "2023-07-14T13:25:31+05:30"
@@ -21,7 +21,7 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "6.5 mins"
-h1: "How to Choose the Right Data Science Program for Your Career Goals"
+h1: "A Guide to Select the Right Data Science Program for Your Career  "
 id: "how-to-choose-the-right-data-science-program-for-your-career-goals"
 tableData:
   [ What is a good career goal in data science?,

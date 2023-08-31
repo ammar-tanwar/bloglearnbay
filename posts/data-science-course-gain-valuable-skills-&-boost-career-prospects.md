@@ -1,5 +1,5 @@
 ---
-title: "What Are the Benefits of Enrolling in a Data Science Course?"
+title: "Why One Must Opt for a Data Science Course "
 stitle: "Data Science Course: Gain Valuable Skills & Boost Career Prospects"
 publish: "Published on"
 published_time: "2023-07-24T13:25:31+05:30"
@@ -26,7 +26,7 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "9 mins"
-h1: "What Are the Benefits of Enrolling in a Data Science Course?"
+h1: "Why One Must Opt for a Data Science Course "
 id: "data-science-course-gain-valuable-skills-&-boost-career-prospects"
 tableData:
   [

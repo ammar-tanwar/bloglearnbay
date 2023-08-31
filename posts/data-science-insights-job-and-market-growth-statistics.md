@@ -1,5 +1,5 @@
 ---
-title: "Data Science Insights: Job and Market Growth Stats"
+title: "A Peek Into Data Science Job & Market Growth Stats "
 stitle: "Data Science Insights: Job and Market Growth Statistics"
 publish: "Published on"
 published_time: "2023-07-14T13:25:31+05:30"
@@ -21,7 +21,7 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "7.5 mins"
-h1: "Data Science Insights: Job and Market Growth Stats"
+h1: "A Peek Into Data Science Job & Market Growth Stats "
 id: "data-science-insights-job-and-market-growth-statistics"
 tableData:
   [

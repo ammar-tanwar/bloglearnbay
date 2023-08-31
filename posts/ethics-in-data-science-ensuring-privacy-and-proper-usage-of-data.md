@@ -1,5 +1,5 @@
 ---
-title: "Ethics in Data Science and Proper Privacy and Usage of Data"
+title: "Data Science Crucials: Ethics, Privacy, and Data Usage"
 stitle: "Ethics in Data Science: Ensuring Privacy and Proper Usage of Data,  Ethics data science online course"
 publish: "Published on"
 published_time: "2023-07-10T13:25:31+05:30"

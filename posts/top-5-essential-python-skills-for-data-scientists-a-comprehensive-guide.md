@@ -1,5 +1,5 @@
 ---
-title: "5 Most Important Python Skills to Master as a Data Scientist"
+title: "5 Python Skills to Become a Data Science Expert! "
 stitle: "Top 5 Essential Python Skills for Data Scientists: A Comprehensive Guide"
 publish: "Published on"
 published_time: "2023-07-08T13:25:31+05:30"
@@ -21,7 +21,7 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "7-5 mins"
-h1: "5 Most Important Python Skills to Master as a Data Scientist"
+h1: "5 Python Skills to Become a Data Science Expert! "
 id: "top-5-essential-python-skills-for-data-scientists-a-comprehensive-guide"
 tableData:
   [ 
