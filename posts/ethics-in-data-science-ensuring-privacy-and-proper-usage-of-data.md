@@ -21,7 +21,7 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "7.5 mins"
-h1: "Ethics in Data Sciene and Proper Privacy and Usage of Data"
+h1: "Data Science Crucials: Ethics, Privacy, and Data Usage"
 id: "ethics-in-data-science-ensuring-privacy-and-proper-usage-of-data"
 tableData:
   [
