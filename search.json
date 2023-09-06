@@ -2754,5 +2754,20 @@
       "date": "Aug 24, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "comprehensive-data-science-course-syllabus-for-aspiring-data-scientists",
+    "frontmatter": {
+      "title": "Data Science Course Syllabus – For Every Aspiring Data Scientist!",
+      "slug": "comprehensive-data-science-course-syllabus-for-aspiring-data-scientists",
+      "description": "Explore our comprehensive Data Science Course Syllabus, tailored for aspiring data scientists. Unlock your potential with our expertly crafted curriculum. Start your data science journey today!",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsw-1.jpg",
+      "readTime": "5.33 mins",
+      "date": "Sep 06, 2023",
+      "draft": false
+    }
   }
 ]
