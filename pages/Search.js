@@ -12,7 +12,6 @@ export default function Search() {
     const { query } = useRouter()
     const TempPosts = []
 
-    console.log(search);
 
     search.map(
         (post) => {
@@ -33,7 +32,6 @@ export default function Search() {
         }
     )
 
-    // console.log("AAAA", posts)
 
     return (
         <>

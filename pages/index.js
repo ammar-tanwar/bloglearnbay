@@ -148,7 +148,6 @@ export default function blog({ allPostsData }) {
                         .toLowerCase()
                         .replace(/\s+/g, "-")}`;
 
-                        // console.log("@@@@", categoryPosts)
                        let amakeUrl = author.toLowerCase().replace(/\s+/g, "-");
                       let aurl = `/author/${amakeUrl}`;
                       return (

@@ -36,11 +36,9 @@ export default function CategoryBlog({ categoryPosts }) {
   // useEffect(() => {
   //   categoryPosts.map((value,i) =>{
   //     setstate(value.author)
-  //     // console.log(value.author)
   //   })
 
   // }, );
-  // console.log("@@@@@@",cattitle)
   return (
     <>
 

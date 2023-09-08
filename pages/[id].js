@@ -14,7 +14,6 @@ import { FaArrowRight, FaChevronDown, FaChevronUp } from "react-icons/fa";
 
 
 export default function Post({ postData, posts }) {
-  // console.log(postData);
   let makeUrl = postData.author.toLowerCase().replace(/\s+/g, "-");
   let aurl = `/author/${makeUrl}`
 
