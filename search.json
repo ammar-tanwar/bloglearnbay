@@ -2769,5 +2769,37 @@
       "date": "Sep 06, 2023",
       "draft": false
     }
+  },
+
+
+  {
+    "slug": "learnbay-top-2023-data-science-courses-for-career-advancement-and-success",
+    "frontmatter": {
+      "title": "Data Science Courses to Supercharge Your Career in 2023",
+      "slug": "learnbay-top-2023-data-science-courses-for-career-advancement-and-success",
+      "description": "Unlock your potential with top data science courses for career growth in 2023. Gain in-demand skills and propel your professional journey with these courses. Explore now!",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data-science-supercharge.png",
+      "readTime": "15.21 mins",
+      "date": "Sep 07, 2023",
+      "draft": false
+    }
+  },
+
+
+  {
+    "slug": "learnbay-top-12-data-science-courses-for-professionals-in-2023",
+    "frontmatter": {
+      "title": "12 Best Data Science Courses for Working Professionals in 2023",
+      "slug": "learnbay-top-12-data-science-courses-for-professionals-in-2023",
+      "description": "Discover the top 12 data science courses tailored for working professionals in 2023. Elevate your career with these expert-recommended programs for data-driven success.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-12-data-science.png",
+      "readTime": " 6.7 mins",
+      "date": "Sep 08, 2023",
+      "draft": false
+    }
   }
 ]
