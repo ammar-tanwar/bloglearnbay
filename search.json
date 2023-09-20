@@ -2801,5 +2801,22 @@
       "date": "Sep 08, 2023",
       "draft": false
     }
+  },
+
+  {
+    "slug": "empower-global-progress-your-impact-with-data-structures-and-algorithms",
+    "frontmatter": {
+      "title": "How Can You Contribute to the World With Data Structures and Algorithms?",
+      "slug": "empower-global-progress-your-impact-with-data-structures-and-algorithms",
+      "description": "Discover how leveraging data structures and algorithms empowers you to solve complex problems, innovate, and make a meaningful impact on the world. Unlock your potential today.",
+      "categories": "Full Stack",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/19dsa.webp",
+      "readTime": " 12.6 mins",
+      "date": "Sep 19, 2023",
+      "draft": false
+    }
   }
+
+
 ]

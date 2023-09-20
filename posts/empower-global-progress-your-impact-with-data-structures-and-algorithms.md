@@ -2,8 +2,8 @@
 title: "How Can You Contribute to the World With Data Structures and Algorithms?"
 stitle: "Empower Global Progress: Your Impact with Data Structures and Algorithms"
 publish: "Published on"
-published_time: "2023-09-08T13:25:31+05:30"
-modified_time: "2023-09-08T13:25:31+05:30"
+published_time: "2023-09-19T13:25:31+05:30"
+modified_time: "2023-09-19T13:25:31+05:30"
 desc: "Discover how leveraging data structures and algorithms empowers you to solve complex problems, innovate, and make a meaningful impact on the world. Unlock your potential today."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/19dsa.webp"
@@ -13,8 +13,8 @@ tag: [data structures and algorithms course, DSA course]
 category: "Full Stack"
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
 catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
-authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
-adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
+authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writer at Learnbay"
+adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
 author: "Sonalisha Mohanty"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
@@ -28,7 +28,7 @@ tableData: [
 ]
 ---
 
-<span style=" font-weight:bold; font-size:28px">Learn with Data Structures and Algorithms Course to Have a Social Impact!!</span> <br/>
+<span style=" font-weight:bold; font-size:28px">Learn Data Structures and Algorithms Course to Have a Social Impact!!</span> <br/>
 
 The digital revolution has redefined many business entities and associated operations with its tremendous innovations. Such tech creations have transformed many sectors with their profound presence, paving the way for a promising future. Amidst such changes, data-driven culture has resurfaced in the business world with advancing technologies that one should not miss. To lead and manage the data-driven culture of the firms, experts like coders, programmers, & developers are making their way. And do you know what’s the magic skill leading all kinds of success in this regard? It’s data structure and algorithms.   <br/>
 
@@ -63,6 +63,8 @@ The past war instance here proves the efficient use of algorithms in cracking do
 
 Proficiency in writing codes helps the developers decode the real info and solve the problems encountered.  This is why upskilling with a <b>data structures and algorithms course online</b> is essential for tech enthusiasts. But how to write efficient code in real time?   <br/> <br/>
 
+
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/19dsa-1.webp" style="width:100%" class="img" alt="A DSA enthusiast is sitting in front of the laptop and mastering DSA coding skills."/> <br/>
 
 ## Learn & Master Efficient Coding Skills with DSA  
 
