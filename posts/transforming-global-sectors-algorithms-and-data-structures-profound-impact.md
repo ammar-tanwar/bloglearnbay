@@ -20,7 +20,7 @@ authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trish
 authordesc: "Trisha, Content Manager at Learnbay, holds 7+ years of expertise in emerging technology-related writing. AI, ML, web, and software development have always been on her extreme interest list. A passion for lifelong."
 authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
-readTime: "20 mins"
+readTime: "13.20 mins"
 h1: "How Algorithms and Data Structures Can Change Different Sectors Worldwide?"
 id: "transforming-global-sectors-algorithms-and-data-structures-profound-impact"
 tableData:
@@ -52,6 +52,8 @@ Every computer program stores, fetches and utilizes the data according to its ne
 DSA enables programmers to develop and optimize efficient computer programs. Data structures help store and maintain data, while algorithms develop problem-solving methods. We can effectively optimize and maintain the code using data structures with algorithms in software development.
 
 DSA is an integral part of the development process. DSA can work well with any programming language. Even though a language gets modified, the basics of DSA remain the same for all. DSA is compatible with all programming languages, which is a boon for software development processes. <br/>
+
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsa_201.webp" style="width:100%" class="img" alt="An image shows a desktop with visualizations for C++, HTML, and other programming languages optimizing data structures course."/>   <br/>
 
 ## Benefits of DSA in software development
 
@@ -119,6 +121,8 @@ The graph data structure stores a series of edges and vertices connected to each
 
 Sorting algorithms such as Quick Sort, Binary Sort, Selection Sort, Insertion Sort, etc. help understand how to arrange books on a shelf. Searching algorithms help locate books on a shelf. Google Maps uses the shortest path first algorithm to find the shortest path.<br/>
 
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsa_202.webp" style="width:100%" class="img" alt="An illustration shows an interviewer interacting with a candidate over a data structures course."/>   <br/>
+
 ## Why is DSA important for interviews?
 
 ### Technical skills
@@ -155,7 +159,7 @@ We can modify the memory length in a dynamic data structure, as it does not poss
 
 Non-linear data structures never arrange the data elements in a sequence or an orderly manner. These elements are connected over several layers, so it is difficult to process them at one time. Trees and graphs are some examples. <br/>
 
-**_Also, read <a href="(https://blog.learnbay.co/essential-data-structures-must-know-basics-for-every-programmer" target="_blank">Essential Data Structures: Must-Know Basics for Every Programmer</a>_**. <br/>
+**_Also, read <a href="https://blog.learnbay.co/essential-data-structures-must-know-basics-for-every-programmer" target="_blank">Essential Data Structures: Must-Know Basics for Every Programmer</a>_**. <br/>
 
 ## Types of Algorithms
 
@@ -214,6 +218,8 @@ This algorithm searches a certain element from any sorted or unsorted data struc
 Hashing algorithms are similar to searching algorithms; however, they have an index containing a key ID. It is called a key-value pair. The algorithms provide specific data with a key. Password verification uses a hashing algorithm.
 
 To learn more, you must enroll in a <b>data structures and algorithms full course</b>. <br/>
+
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dsa_203.webp" style="width:100%" class="img" alt="An illustration shows a technician utilizing a laptop and implementing a data structures course and learning in various industrial applications."/> <br/>
 
 ## Use of DSA in Industries
 
