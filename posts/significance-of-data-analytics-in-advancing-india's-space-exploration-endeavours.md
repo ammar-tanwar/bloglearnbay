@@ -13,12 +13,12 @@ tag: [ndian Space mission, Indian Space Research Organisation, Data Analytics]
 category: "Data Science"
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
 catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
-authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writer at Learnbay"
-adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
-author: "Sonalisha Mohanty"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
-authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
-authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
+authortitle: "Trisha Manna - Highly Passionate Content Manager at Learnbay Blog Team"
+adesc: "Discover Trisha's extensive experience in writing about cutting-edge emerging technologies, including AI, ML, Web, and Software Development."
+author: "Trisha Manna"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trisha-manna.webp"
+authordesc: "Trisha, Content Manager at Learnbay, holds 7+ years of expertise in emerging technology-related writing. AI, ML, web, and software development have always been on her extreme interest list. A passion for lifelong."
+authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: " 4.34 mins"
 h1: "How Data Analytics Is Crucial for India's Space Missions"
@@ -48,6 +48,8 @@ The </b>Indian Space Research Organisation</b> has made a notable effort in spac
 
 Besides the tech shifts in the Indian space industry, doubt about the link of **data analytics** with space missions persists. _How do data-driven steps change the norms of India’s space missions? Is data analytics the new weapon to control and foster the competitiveness of an <b>Indian space mission</b> in the future?_<br/><br/>
 
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21sep-2.webp" style="width:100%" class="img" alt="An image showing the use of data analytics in India space missions."/> <br/>
+
 ## Data Analytics Redefining India’s Space Missions
 
 The rise of a data-driven culture across Indian space builds a norm of insightful progress with assured success. <b>Data analytics</b> plays an important role in space missions, making it successful and operating with 100% accuracy. The history of India’s space missions displays the events of success and failure that will help you know the role of analytics.<br/>
@@ -61,6 +63,8 @@ Using analytics in space missions helps experts design spacecraft and its trajec
 Data analysts take charge of processing the space data extracted at different periods. <b>Data analytics</b> use data-driven ways to explore and extract vital space facts relating to spacecraft movements, satellite sources, drones, and many more.<br/>
 
 The use of analytics tools traces the data sets useful for space missions. Data analysts use data tools for image processing, data mining, recognizing patterns of data sets, detecting threats, and exploring further effects on the <b>Indian Space mission</b>. Having an <b>online certificate in data analytics</b> drives career success in the space industry, arming experts with the desired tools. Analysts use their data skills to get facts from the data sets and help teams in handling space missions.<br/>
+
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21sep-3.webp" style="width:100%" class="img" alt="An image showing the image's constant space communication using data analytics."/> <br/>
 
 ### Data Analytics in Constant Space Communication
 
