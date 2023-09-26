@@ -1,5 +1,6 @@
 ---
-title: "How Algorithms and Data Structures Can Change Different Sectors Worldwide?"
+title: "Impact of Algorithms and Data Structures in Revolutionizing Global Industries
+"
 stitle: "Transforming Global Sectors: Algorithms and Data Structures' Profound Impact"
 publish: "Published on"
 published_time: "2023-09-20T13:25:31+05:30"
@@ -21,8 +22,10 @@ authordesc: "Trisha, Content Manager at Learnbay, holds 7+ years of expertise in
 authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: "13.20 mins"
-h1: "How Algorithms and Data Structures Can Change Different Sectors Worldwide?"
-id: "transforming-global-sectors-algorithms-and-data-structures-profound-impact"
+h1: "Impact of Algorithms and Data Structures in Revolutionizing Global Industries
+"
+id: "transforming-global-sectors-algorithms-and-data-structures-profound-impact
+"
 tableData:
   [
     Understanding data structures and algorithms,

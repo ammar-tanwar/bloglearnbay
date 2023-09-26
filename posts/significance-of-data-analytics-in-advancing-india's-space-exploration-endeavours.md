@@ -22,7 +22,7 @@ authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: " 4.34 mins"
 h1: "How Data Analytics Is Crucial for India's Space Missions ?"
-id: "significance-of-data-analytics-in-advancing-india's-space-exploration-endeavours"
+id: "significance-of-data-analytics-in-advancing-indian-space-exploration-endeavours"
 tableData: [
 The Intersection of Data Analytics and the Indian Space Mission,
 Data Analytics Redefining India’s Space Missions,

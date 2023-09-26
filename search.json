@@ -2818,11 +2818,26 @@
     }
   },
 
+  {
+    "slug": "transforming-global-sectors-algorithms-and-data-structures-profound-impact",
+    "frontmatter": {
+      "title": "Impact of Algorithms and Data Structures in Revolutionizing Global Industries",
+      "slug": "transforming-global-sectors-algorithms-and-data-structures-profound-impact",
+      "description": "Explore how algorithms and data structures revolutionize global sectors. Discover their impact on industries, from healthcare to finance, shaping the future of technology and innovation.",
+      "categories": "Full Stack",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/20dsa.webp",
+      "readTime": " 12.6 mins",
+      "date": "Sep 20, 2023",
+      "draft": false
+    }
+  },
+
  {
-    "slug": "significance-of-data-analytics-in-advancing-india's-space-exploration-endeavours",
+    "slug": "significance-of-data-analytics-in-advancing-indian-space-exploration-endeavours",
     "frontmatter": {
       "title": "How Data Analytics Is Crucial for India's Space Missions",
-      "slug": "significance-of-data-analytics-in-advancing-india's-space-exploration-endeavours",
+      "slug": "significance-of-data-analytics-in-advancing-indian-space-exploration-endeavours",
       "description": "Explore how algorithms and data structures revolutionize global sectors. Discover their impact on industries, from healthcare to finance, shaping the future of technology and innovation.",
       "categories": "Data Science",
       "author": "Trisha Manna",
