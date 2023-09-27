@@ -7,9 +7,9 @@ modified_time: "2023-09-21T13:25:31+05:30"
 desc: "Explore how data analytics plays a pivotal role in India's space missions, enhancing precision, efficiency, and mission success. Dive into the analytics cosmos today!"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21sep-1.webp"
-headerAlt: "Data Analytics,data analysis online course,online certificate in data analytics"
+headerAlt: "Data Analytics, data analysis online course, online certificate in data analytics"
 date: "Sep 21, 2023"
-tag: [ndian Space mission, Indian Space Research Organisation, Data Analytics]
+tag: [Indian Space mission, Indian Space Research Organisation, Data Analytics]
 category: "Data Science"
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
 catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
@@ -22,7 +22,7 @@ authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: " 4.34 mins"
 h1: "How Data Analytics Is Crucial for India's Space Missions ?"
-id: "significance-of-data-analytics-in-advancing-india's-space-exploration-endeavours"
+id: "significance-of-data-analytics-in-advancing-indian-space-exploration-endeavours"
 tableData: [
 The Intersection of Data Analytics and the Indian Space Mission,
 Data Analytics Redefining India’s Space Missions,
@@ -64,7 +64,7 @@ Data analysts take charge of processing the space data extracted at different pe
 
 The use of analytics tools traces the data sets useful for space missions. Data analysts use data tools for image processing, data mining, recognizing patterns of data sets, detecting threats, and exploring further effects on the <b>Indian Space mission</b>. Having an <b>online certificate in data analytics</b> drives career success in the space industry, arming experts with the desired tools. Analysts use their data skills to get facts from the data sets and help teams in handling space missions.<br/>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21sep-3.webp" style="width:100%" class="img" alt="An image showing the image's constant space communication using data analytics."/> <br/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/21sep-3.webp" style="width:100%" class="img" alt="An image showing the constant space communication using data analytics."/> <br/>
 
 ### Data Analytics in Constant Space Communication
 
