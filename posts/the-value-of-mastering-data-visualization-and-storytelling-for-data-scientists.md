@@ -1,6 +1,6 @@
 ---
-title: "Why You Must Excel Data Visualization & Storytelling to Be a Data Scientist     "
-stitle: "Why You Must Excel Data Visualization & Storytelling to Be a Data Scientist     "
+title: "A Guide to Select the Right Data Science Program for Your Career     "
+stitle: "A Guide to Select the Right Data Science Program for Your Career     "
 publish: "Published on"
 published_time: "2023-07-13T13:25:31+05:30"
 modified_time: "2023-07-13T13:25:31+05:30"
@@ -24,7 +24,7 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "7.5 mins"
-h1: "Why You Must Excel Data Visualization & Storytelling to Be a Data Scientist     "
+h1: "A Guide to Select the Right Data Science Program for Your Career     "
 id: "the-value-of-mastering-data-visualization-and-storytelling-for-data-scientists"
 tableData:
   [
