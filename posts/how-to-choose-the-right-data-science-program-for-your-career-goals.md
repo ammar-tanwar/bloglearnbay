@@ -1,5 +1,5 @@
 ---
-title: "Why You Must Excel Data Visualization & Storytelling to Be a Data Scientist     "
+title: "How to Choose the Right Data Science Program for Your Career goals     "
 stitle: "Why You Must Excel Data Visualization & Storytelling to Be a Data Scientist     "
 publish: "Published on"
 published_time: "2023-07-14T13:25:31+05:30"
@@ -21,7 +21,7 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "6.5 mins"
-h1: "Why You Must Excel Data Visualization & Storytelling to Be a Data Scientist     "
+h1: "How to Choose the Right Data Science Program for Your Career goals    "
 id: "how-to-choose-the-right-data-science-program-for-your-career-goals"
 tableData:
   [ What is a good career goal in data science?,
