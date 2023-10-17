@@ -21,6 +21,15 @@ authordesc: "A passionate blogger with a strong background in content creation a
 authorlinkedin: "https://www.linkedin.com/in/milan-jain-552230160/"
 position: "Editor"
 readTime: "9-10 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
+
+
 h1: "7 Best Machine Learning companies to work for in Bangalore 2023"
 id: "7-best-machine-learning-companies-to-work-for-in-bangalore-2023"
 tableData:

@@ -21,6 +21,13 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "5.33 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Earn Data Science Certification:- Steps to Become a Certified Professional"
 id: "earn-data-science-certification-steps-to-become-a-certified-professional"
 tableData: [

@@ -23,6 +23,13 @@ adesc: ""
 
 position: "Editor"
 readTime: "10-12 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "The Practice of Intelligence with help of Artificial Intelligence in Academics"
 id: "practice-of-intelligence-with-help-of-artificial-intelligence-in-academics"
 tableData:

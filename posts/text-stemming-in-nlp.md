@@ -23,6 +23,13 @@ adesc: ""
 
 position: "editor"
 readTime: "4-5 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Text Stemming In NLP"
 id: "text-stemming-in-nlp"
 tableData:

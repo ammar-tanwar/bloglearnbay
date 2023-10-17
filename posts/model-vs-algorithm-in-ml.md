@@ -23,6 +23,13 @@ adesc: ""
 
 position: "Editor"
 readTime: "5-6 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Model vs Algorithm in ML"
 id: "model-vs-algorithm-in-ml"
 tableData:

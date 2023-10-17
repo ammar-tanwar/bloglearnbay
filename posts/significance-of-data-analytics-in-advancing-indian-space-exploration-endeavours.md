@@ -21,6 +21,13 @@ authordesc: "Trisha, Content Manager at Learnbay, holds 7+ years of expertise in
 authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: " 4.34 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "How Data Analytics Is Crucial for India's Space Missions ?"
 id: "significance-of-data-analytics-in-advancing-indian-space-exploration-endeavours"
 tableData: [

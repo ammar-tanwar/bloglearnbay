@@ -30,6 +30,13 @@ authordesc: "A passionate blogger with a strong background in content creation a
 authorlinkedin: "https://www.linkedin.com/in/milan-jain-552230160/"
 position: "Editor"
 readTime: "10-15 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Is Your Data Scientist Salary Competitive? Cross-Check With The Latest Trends"
 id: "is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends"
 tableData:

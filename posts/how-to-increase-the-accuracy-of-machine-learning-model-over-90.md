@@ -27,6 +27,13 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "7 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "How To Increase The Accuracy Of Machine Learning Model Over 90%?"
 id: how-to-increase-the-accuracy-of-machine-learning-model-over-90
 tableData:

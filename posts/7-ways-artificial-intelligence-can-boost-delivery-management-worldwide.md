@@ -22,6 +22,15 @@ authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 
 position: "Editor"
 readTime: "9-10 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
+
+
 h1: "7 Ways Artificial Intelligence Can Boost Delivery Management Worldwide!"
 id: "7-ways-artificial-intelligence-can-boost-delivery-management-worldwide"
 tableData:

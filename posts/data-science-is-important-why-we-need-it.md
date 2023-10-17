@@ -29,6 +29,13 @@ authordesc: "Krishna Kumar is the founder and CEO of Learnbay.  With 10+ years o
 authorlinkedin: "https://www.linkedin.com/in/krishna-kumar-learnbay/"
 position: "Editor"
 readTime: "10-12 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Why Data Science Actually Matters in 2023?"
 id: "why-data-science-actually-matters-in-2023"
 tableData:

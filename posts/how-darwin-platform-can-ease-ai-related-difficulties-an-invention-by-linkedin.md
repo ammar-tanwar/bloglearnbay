@@ -23,6 +23,13 @@ authordesc: "A tech blogger and researcher in artificial intelligence, data scie
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "8-9 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin"
 id: "how-darwin-platform-can-ease-ai-related-difficulties-an-invention-by-linkedin"
 tableData:

@@ -23,6 +23,13 @@ authordesc: "Amit Tikkiwal is a tech geek working as a Member Of the Technical S
 authorlinkedin: " https://www.linkedin.com/in/amit-tikkiwal-6b589a14/"
 position: "Editor"
 readTime: "10-12 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Why Should You Learn Data Structures and Algorithms (DSA) in Java or Python?"
 id: "why-should-you-learn-data-structures-and-algorithms-dsa-in-java-or-python"
 tableData:

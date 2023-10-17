@@ -22,6 +22,13 @@ authordesc: "Trisha, Content Manager at Learnbay, holds 7+ years of expertise in
 authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: "13.20 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Impact of Algorithms and Data Structures in Revolutionizing Global Industries
 "
 id: "transforming-global-sectors-algorithms-and-data-structures-profound-impact

@@ -23,6 +23,13 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "10-12 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Handwriting Recognition | An Excellent AI Innovation in OCR Technology"
 id: "handwriting-recognition-an-excellent-ai-innovation-in-ocr-technology"
 tableData:

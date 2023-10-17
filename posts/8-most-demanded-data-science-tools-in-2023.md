@@ -21,6 +21,14 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "8-9 mins"
+
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "8 Most Demanded Data Science Tools in 2023"
 id: "8-most-demanded-data-science-tools-in-2023"
 tableData:

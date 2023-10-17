@@ -23,6 +23,13 @@ authordesc: "A passionate blogger with a strong background in content creation a
 authorlinkedin: "https://www.linkedin.com/in/milan-jain-552230160/"
 position: "Editor"
 readTime: "15-18 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "21 Most Asked Data Science Interview Questions for 2023"
 id: "21-most-asked-data-science-interview-questions-for-2023"
 tableData:

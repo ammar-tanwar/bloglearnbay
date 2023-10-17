@@ -23,6 +23,13 @@ authordesc: "A passionate blogger with a strong background in content creation a
 authorlinkedin: "https://www.linkedin.com/in/milan-jain-552230160/"
 position: "Editor"
 readTime: "15-18 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Know The Importance of Domain Specialization Within a Data Science Course"
 id: "know-the-importance-of-domain-specialization-within-a-data-science-course"
 tableData:

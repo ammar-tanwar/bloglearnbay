@@ -21,6 +21,14 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "7-8 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
+
 h1: "10 Reasons Why Data Science is A Best Career Move"
 id: "10-reasons-why-data-science-is-a-best-career-move"
 tableData:

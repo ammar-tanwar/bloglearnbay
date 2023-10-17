@@ -23,6 +23,13 @@ adesc: ""
 
 position: "Editor"
 readTime: "10-12 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?"
 id: "data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care"
 tableData:

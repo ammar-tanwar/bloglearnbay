@@ -23,6 +23,13 @@ authordesc: "A passionate blogger with a strong background in content creation a
 authorlinkedin: "https://www.linkedin.com/in/milan-jain-552230160/"
 position: "Editor"
 readTime: "15-18 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Fact or Hype - An IBM Data Science Professional Certificate Can Boost Your Career At 10x Speed"
 id: "fact-or-hype-an-ibm-data-science-professional-certificate-can-boost-your-career-at-10x-speed"
 tableData:

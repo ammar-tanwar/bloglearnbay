@@ -23,6 +23,13 @@ adesc: ""
 
 position: "Editor"
 readTime: "5-7 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Customer Experience Enhancement In Banks"
 id: "customer-experience-enhancement-in-banks"
 tableData:

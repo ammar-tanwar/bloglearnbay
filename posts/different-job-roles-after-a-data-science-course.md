@@ -23,6 +23,13 @@ adesc: ""
 
 position: "Editor"
 readTime: "20-25 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Different Job Roles After A Data Science Course"
 id: "different-job-roles-after-a-data-science-course"
 tableData:

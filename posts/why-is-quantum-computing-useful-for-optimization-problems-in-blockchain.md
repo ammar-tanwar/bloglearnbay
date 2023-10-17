@@ -23,6 +23,13 @@ authordesc: "A tech blogger and researcher in artificial intelligence, data scie
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
 position: "Editor"
 readTime: "6 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Why Is Quantum Computing Useful for Optimization Problems in Blockchain?"
 id: "why-is-quantum-computing-useful-for-optimization-problems-in-blockchain"
 tableData:

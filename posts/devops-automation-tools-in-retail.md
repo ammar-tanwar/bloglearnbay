@@ -26,6 +26,13 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "5.5 min"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "DevOps Automation Tools in Retail | 3 Prominent Reasons Why It Needs Attention!"
 id: devops-automation-tools-in-retail
 tableData: [

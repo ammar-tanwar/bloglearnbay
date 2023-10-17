@@ -23,6 +23,13 @@ adesc: ""
 
 position: "Editor"
 readTime: "15-17 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "How to Get the Best Data Science Internship in 2023?"
 id: "how-to-get-the-best-data-science-internship-in-2023"
 tableData:

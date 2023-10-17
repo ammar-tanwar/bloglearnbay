@@ -23,6 +23,13 @@ authordesc: "A tech blogger and researcher in artificial intelligence, data scie
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "editor"
 readTime: "7-8 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Top Data Science Certifications In 2023 - Exclusive To Banking Professionals"
 id: "top-data-science-certifications-in-2023-exclusive-to-banking-professionals"
 tableData:

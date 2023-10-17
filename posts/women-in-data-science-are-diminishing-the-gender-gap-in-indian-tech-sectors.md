@@ -23,6 +23,13 @@ authordesc: "Krishna Kumar is the founder and CEO of Learnbay.  With 10+ years o
 authorlinkedin: "https://www.linkedin.com/in/krishna-kumar-learnbay/"
 position: "Editor"
 readTime: "10-12 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors"
 id: "women-in-data-science-are-diminishing-the-gender-gap-in-indian-tech-sectors"
 tableData:

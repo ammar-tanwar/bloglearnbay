@@ -23,6 +23,13 @@ authordesc: "A tech blogger and researcher in artificial intelligence, data scie
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
 position: "Editor"
 readTime: "7 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Is Google Bard a Possible Rival to ChatGPT-4?"
 id: "is-google-bard-a-possible-rival-to-chatgpt-4"
 tableData:

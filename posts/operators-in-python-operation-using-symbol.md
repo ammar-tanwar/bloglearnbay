@@ -23,6 +23,13 @@ adesc: "Vineeth Kumar, a blogger and experienced techie with in-depth knowledge 
 
 position: "Editor"
 readTime: "10-12 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Operators in Python - Operation using Symbol"
 id: "operators-in-python-operation-using-symbol"
 tableData:

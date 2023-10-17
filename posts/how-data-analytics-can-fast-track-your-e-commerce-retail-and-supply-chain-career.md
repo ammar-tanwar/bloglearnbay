@@ -23,6 +23,14 @@ authordesc: ""
 
 position: "Editor"
 readTime: "17-21 mins"
+
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?"
 id: "how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career"
 tableData:
