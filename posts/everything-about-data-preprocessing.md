@@ -23,6 +23,13 @@ adesc: ""
 
 position: "Editor"
 readTime: "4-5 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Everything About Data Preprocessing"
 id: "everything-about-data-preprocessing"
 tableData:

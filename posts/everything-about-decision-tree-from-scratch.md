@@ -23,6 +23,13 @@ adesc: ""
 
 position: "Editor"
 readTime: "8-10 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Everything About Decision Tree From Scratch"
 id: "everything-about-decision-tree-from-scratch"
 tableData:

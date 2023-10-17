@@ -24,6 +24,13 @@ authordesc: "A tech blogger and researcher in artificial intelligence, data scie
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "9-10 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "No Code Machine Learning Just Gone Viral!- But What's That?"
 id: "no-code-machine-learning-just-gone-viral-but-what's-that"
 tableData:

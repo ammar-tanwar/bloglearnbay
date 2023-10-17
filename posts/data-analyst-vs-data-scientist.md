@@ -29,6 +29,14 @@ position: "Editor"
 readTime: "4.5 min"
 h1: "Data Scientist Vs. Data Analyst: Know The Ultimate Career Difference"
 id: data-analyst-vs-data-scientist 
+
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 tableData: [
     What is Data Science? And How does it shape up Data Scientist's job role?,
     Who are Data Scientists?,

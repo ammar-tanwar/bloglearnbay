@@ -23,6 +23,13 @@ authordesc: "Trisha holds 7+ years of expertise in emerging technology-related w
 authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: "8-9 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Top 30 Highest Paying Jobs to Target in 2023"
 id: "top-30-highest-paying-jobs-to-target-in-2023"
 tableData:

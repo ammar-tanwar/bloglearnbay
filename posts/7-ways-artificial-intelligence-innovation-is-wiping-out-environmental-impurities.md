@@ -21,6 +21,16 @@ authordesc: "A tech blogger and researcher in artificial intelligence, data scie
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "10-13 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
+
+
+
 h1: "7 Ways Artificial Intelligence Innovation Is Wiping Out Environmental Impurities!"
 id: "7-ways-artificial-intelligence-innovation-is-wiping-out-environmental-impurities"
 tableData:

@@ -23,6 +23,13 @@ adesc: ""
 
 position: "Editor"
 readTime: "6-7 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Evolution of Data Science in India"
 id: "evolution-of-data-science-in-india"
 tableData:

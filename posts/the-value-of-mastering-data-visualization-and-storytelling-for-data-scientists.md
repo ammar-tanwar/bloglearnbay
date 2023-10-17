@@ -24,6 +24,13 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "7.5 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "A Guide to Select the Right Data Science Program for Your Career     "
 id: "the-value-of-mastering-data-visualization-and-storytelling-for-data-scientists"
 tableData:

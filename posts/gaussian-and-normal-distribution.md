@@ -23,6 +23,13 @@ adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore h
 
 position: "Editor"
 readTime: "3-4 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Normal and Gaussian Distribution"
 id: "gaussian-and-normal-distribution"
 tableData:

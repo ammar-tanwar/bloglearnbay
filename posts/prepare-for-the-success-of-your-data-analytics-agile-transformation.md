@@ -21,6 +21,13 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "5.5 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Prepare for the Success of Your Data Analytics Agile Transformation"
 id: "prepare-for-the-success-of-your-data-analytics-agile-transformation"
 tableData:

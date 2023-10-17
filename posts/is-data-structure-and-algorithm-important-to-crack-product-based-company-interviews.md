@@ -23,6 +23,13 @@ authordesc: "Abhishek Gupta is the co-founder and CBO of Learnbay. He holds 7+ y
 authorlinkedin: "https://www.linkedin.com/in/abhishek-gupta-716552115/"
 position: "Editor"
 readTime: "6 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: " Is Data Structure and Algorithm Important to Crack Product-based Company Interviews?"
 id: "is-data-structure-and-algorithm-important-to-crack-product-based-company-interviews"
 tableData:

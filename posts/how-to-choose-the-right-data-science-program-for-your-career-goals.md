@@ -21,6 +21,13 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "6.5 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "How to Choose the Right Data Science Program for Your Career goals    "
 id: "how-to-choose-the-right-data-science-program-for-your-career-goals"
 tableData:

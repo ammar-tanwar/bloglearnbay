@@ -23,6 +23,13 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "5.5 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Multimodal Deep Learning | Enabling Fusion of Multiple Modalities And  Deep Learning"
 id: "multimodal-deep-learning-enabling-fusion-of-multiple-modalities-and-deep-learning"
 tableData:

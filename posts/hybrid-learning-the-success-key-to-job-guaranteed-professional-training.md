@@ -24,6 +24,13 @@ authordesc: "A passionate blogger with a strong background in content creation a
 authorlinkedin: "https://www.linkedin.com/in/milan-jain-552230160/"
 position: "Editor"
 readTime: "9-10 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Hybrid Learning- The Success Key To Job-Guaranteed Professional Training"
 id: "hybrid-learning-the-success-key-to-job-guaranteed-professional-training"
 tableData:

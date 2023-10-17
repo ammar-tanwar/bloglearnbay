@@ -21,6 +21,14 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "4.33 mins"
+
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Essential Data Structures: Must-Know Basics for Every Programmer"
 id: "essential-data-structures-must-know-basics-for-every-programmer"
 tableData: [List of the best data structures to master, 

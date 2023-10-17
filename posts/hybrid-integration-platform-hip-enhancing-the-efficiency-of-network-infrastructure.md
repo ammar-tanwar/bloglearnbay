@@ -23,6 +23,13 @@ authordesc: "A tech blogger and researcher in artificial intelligence, data scie
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "10-12 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Hybrid Integration Platform (HIP) - Enhancing the Efficiency of Network Infrastructure!"
 id: "hybrid-integration-platform-hip-enhancing-the-efficiency-of-network-infrastructure"
 tableData:

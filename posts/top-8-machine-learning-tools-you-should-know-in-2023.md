@@ -23,6 +23,13 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "10-12 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Top 8 Machine Learning Tools You Should Know in 2023"
 id: "top-8-machine-learning-tools-you-should-know-in-2023"
 tableData:

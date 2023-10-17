@@ -23,6 +23,13 @@ authordesc: "Nisha Kumari, the co-founder, and MD has over 8+ years of experienc
 authorlinkedin: "https://www.linkedin.com/in/nisha-kumari-94a733243/"
 position: "Editor"
 readTime: "15-19 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Reliable Resources for Data Science"
 id: "reliable-resources-for-data-science"
 tableData:

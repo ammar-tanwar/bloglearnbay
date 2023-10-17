@@ -23,6 +23,13 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "8-9 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "How Will AI in Digital Marketing Save Marketers in a Cookieless World?"
 id: "how-will-ai-in-digital-marketing-save-marketers-in-a-cookieless-world"
 tableData:

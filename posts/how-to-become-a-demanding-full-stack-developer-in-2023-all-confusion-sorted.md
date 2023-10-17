@@ -23,6 +23,13 @@ adesc: "Milan Jian, a passionate blogger with a strong background in content cre
 
 position: "Editor"
 readTime: "15-18 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted"
 id: "how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted"
 tableData:

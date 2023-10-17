@@ -23,6 +23,13 @@ adesc: ""
 
 position: "Editor"
 readTime: "10-22 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "How to Build a Rewarding Career As a Healthcare Data Scientist?"
 id: "how-to-build-a-rewarding-career-as-a-healthcare-data-scientist"
 tableData:

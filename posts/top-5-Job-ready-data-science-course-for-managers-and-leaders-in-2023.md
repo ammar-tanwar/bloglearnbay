@@ -23,6 +23,13 @@ authordesc: "A tech blogger and researcher in artificial intelligence, data scie
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
 position: "Editor"
 readTime: "9-10 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023"
 id: "top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2023"
 tableData:

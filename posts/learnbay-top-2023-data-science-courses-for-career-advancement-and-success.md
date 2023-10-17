@@ -22,6 +22,13 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: " 15.21 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Data Science Courses to Supercharge Your Career in 2023"
 id: "learnbay-top-2023-data-science-courses-for-career-advancement-and-success"
 tableData: [

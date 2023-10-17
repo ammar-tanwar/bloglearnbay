@@ -23,6 +23,13 @@ adesc: "A tech blogger and researcher in artificial intelligence, data science, 
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "9-10 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "The Most Important Skills of Data Science To Master in 2023?"
 id: "the-most-important-skills-of-data-science-to-master-in-2023"
 tableData:

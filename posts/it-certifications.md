@@ -21,6 +21,13 @@ authordesc: "In this blog, you will be briefed on the use of business analytics 
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "10.5 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Top IT Certifications in Demand For 2023 - Learnbay Blog"
 id: "it-certifications"
 tableData:

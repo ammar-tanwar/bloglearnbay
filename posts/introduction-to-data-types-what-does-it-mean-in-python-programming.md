@@ -23,6 +23,13 @@ authordesc: "An experienced techie with in-depth knowledge of data science and P
 authorlinkedin: "https://www.linkedin.com/in/vineeth-kumar-104a6b98/"
 position: "Editor"
 readTime: "9-10 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Introduction To Data Types - What Does It Mean In Python Programming?"
 id: "introduction-to-data-types-what-does-it-mean-in-python-programming"
 tableData:

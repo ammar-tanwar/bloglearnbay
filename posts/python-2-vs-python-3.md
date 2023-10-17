@@ -31,6 +31,13 @@ authordesc: "An experienced techie with in-depth knowledge of data science and P
 authorlinkedin: "https://www.linkedin.com/in/vineeth-kumar-104a6b98/"
 position: "Editor"
 readTime: "7.4 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Python 2 Vs Python 3: Know How They Differ?"
 id: python-2-vs-python-3
 

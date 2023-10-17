@@ -23,6 +23,13 @@ authordesc: "Krishna Kumar is the founder and CEO of Learnbay.  With 10+ years o
 authorlinkedin: "https://www.linkedin.com/in/krishna-kumar-learnbay/"
 position: "editor"
 readTime: "14-17 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?"
 id: "how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist"
 tableData:

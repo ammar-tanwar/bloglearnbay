@@ -23,6 +23,13 @@ authordesc: "A tech blogger and researcher in artificial intelligence, data scie
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "15-18 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Top Technical and Soft Skills Required for Data Scientists in Fintech(2023 Update)"
 id: "top-technical-and-soft-skills-required-for-data-scientists-in-fintech-2023-update"
 tableData:

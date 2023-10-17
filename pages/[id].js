@@ -95,6 +95,51 @@ export default function Post({ postData, posts }) {
               } `,
             }} /> */}
           {/* Schema Generator End */}
+          <script 
+          type="application/ld+json">
+          {`
+            {
+              "@context": "https://schema.org",
+              "@type": "BlogPosting",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://blog.learnbay.co/${postData.id}"
+              },
+              "headline": "${postData.title}",
+              "description": "${postData.desc}",
+              "image": "${postData.img}",
+              "author": {
+                "@type": "Person",
+                "name": "${postData.author}",
+                "url": "https://blog.learnbay.co/"
+                }, 
+              "publisher": {
+                "@type": "Organization",
+                "name": "Learnbay",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://www.learnbay.co/_next/image?url=https%3A%2F%2Flearnbay-wb.s3.ap-south-1.amazonaws.com%2Fmain%2FALight%2Flearnbay-logo.png&w=256&q=100"
+                }
+              },
+              "datePublished": "${postData.date}"
+            }
+          `}
+        </script>
+        <script type="application/ld+json">
+          {`
+            {
+              "@context": "https://schema.org",
+              "@type": "VideoObject",
+              "name": "${postData.vname}",
+              "description": "${postData.vdesc}",
+              "thumbnailUrl": "${postData.vthumbnailUrl}",
+              "uploadDate": "${postData.vuploadDate}",
+              "duration": "${postData.vduration}",
+              "contentUrl": "${postData}"
+            }
+          `}
+        </script>
+          
         </Head>
 
 

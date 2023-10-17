@@ -21,6 +21,13 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "7-5 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "5 Python Skills to Become a Data Science Expert! "
 id: "top-5-essential-python-skills-for-data-scientists-a-comprehensive-guide"
 tableData:

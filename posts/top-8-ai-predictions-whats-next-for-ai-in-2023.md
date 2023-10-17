@@ -23,6 +23,13 @@ authordesc: "Abhishek Gupta is the co-founder and CBO of Learnbay. He holds 7+ y
 authorlinkedin: "https://www.linkedin.com/in/abhishek-gupta-716552115/"
 position: "Editor"
 readTime: "10-12 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Top 8 AI Predictions | What's Next for AI in 2023?"
 id: "top-8-ai-predictions-whats-next-for-ai-in-2023"
 tableData:

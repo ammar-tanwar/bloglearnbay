@@ -26,6 +26,13 @@ authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passion
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: " 13.2 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Data Science Course Syllabus – For Every Aspiring Data Scientist!"
 id: "comprehensive-data-science-course-syllabus-for-aspiring-data-scientists"
 tableData:

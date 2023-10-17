@@ -23,6 +23,13 @@ adesc: "A tech blogger and researcher in artificial intelligence, data science, 
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
 position: "Editor"
 readTime: "15-18 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "The Most Trending Applications of AI in Transportation Industry"
 id: "the-most-trending-applications-of-ai-in-transportation-industry"
 tableData:

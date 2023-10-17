@@ -23,6 +23,14 @@ authordesc: "An enthusiastic blogger with a strong background in content creatio
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
 readTime: "12-13 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
+
 h1: "10 Best Data Analytics Startups to Work in 2023"
 id: "10-best-data-analytics-startups-to-work-in-2023"
 tableData:

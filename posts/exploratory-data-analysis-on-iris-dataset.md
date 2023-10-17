@@ -23,6 +23,13 @@ adesc: "Vineeth Kumar, a blogger and experienced techie with in-depth knowledge 
 
 position: "Editor"
 readTime: "15-20 mins"
+video: ""
+vname: " "
+vdesc: ""
+"vuploadDate": ""
+"vduration": "PT4M57S"
+"vcontentUrl": ""
+"vthumbnailUrl": ""
 h1: "Exploratory Data Analysis on Iris dataset"
 id: "exploratory-data-analysis-on-iris-dataset"
 tableData:
