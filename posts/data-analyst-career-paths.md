@@ -32,8 +32,8 @@ authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: "10.5 mins"
 video: "https://www.youtube.com/embed/OkwFjqlRWsM?si=077yMH37mR4q8809"
-vname: "Data Analyst Roadmap 2023 "
-vdesc: "In this video, we will Dive into"
+vname: "Data Analyst Roadmap 2023 | Steps to Become Data Analyst | Data Analyst Skills | Learnbay "
+vdesc: "In this video, we will Dive into the dynamic world of Data Analyst Roadmap 2023 with a guide on planning your career as a data analyst. Watch the video to explore the Data Analyst Skills you must have as a data analyst and the top jobs that can set you on the path to success."
 "vuploadDate": "2023-08-30"
 "vduration": "PT4M57S"
 "vcontentUrl": "https://youtu.be/OkwFjqlRWsM?feature=shared"
@@ -105,7 +105,7 @@ Employers need to go through the work portfolios of the candidates to hire them 
 
 ### Step 5: With job-ready assistance, start applying for jobs
 
-The last step to <b>the data analysis roadmap is</b> to direct you toward applying for industry-specific jobs. Professional grooming and mock interviews prepare the experts for actual job interviews. The data analyst career path reaches its destination when you have the right skills, experience, and confidence.</br>
+The last step to the <b> data analysis roadmap </b> is to direct you toward applying for industry-specific jobs. Professional grooming and mock interviews prepare the experts for actual job interviews. The data analyst career path reaches its destination when you have the right skills, experience, and confidence.</br>
 
 Mock interview sessions and preparation assist resume building that opens the door toward career success. Does a compelling resume help you get selected for MNC jobs? Yes, it does help. Having applied for the right job role at the right time can land you in the analytics industry.</br>
 
@@ -143,7 +143,7 @@ Therefore, having strong preparation and a progressive learning methodology with
 
 _**To ease the understanding I have added a few aspirant personas below. These are created from real-life example analysis.**_</br></br>
 
-**1.Pooja's Journey as a Data-Driven Marketer:**
+**1. Pooja's Journey as a Data-Driven Marketer:**
 
 Pooja recognized the potential of data analytics within marketing. To take full advantage of it, she took an in-depth approach, emphasizing communication and problem-solving soft skills as well as enrolling in a data analytics course that taught her to utilize tools like Power BI for data-driven marketing strategies - leading her to create campaigns with increased ROI due to her data analytics expertise.</br>
 
@@ -165,9 +165,9 @@ As mentioned above, Professional Courses like _Data Analytics Programs_ can be y
 
 ## Frequently Asked Questions
 
-### 1. What is the amount of time needed to become a dat analyst?
+### 1. What is the amount of time needed to become a data analyst?
 
-This depends on your learning process, the skills you have, and also **data analysis roadmap** you choose. Even if existing knowledge of fundamentals will help, gaining practical experience may take time. Yet, a minimum of 6 months is required to prepare yourself for a job in data analytics.</br>
+This depends on your learning process, the skills you have, and also <b>data analysis roadmap</b> you choose. Even if existing knowledge of fundamentals will help, gaining practical experience may take time. Yet, a minimum of 6 months is required to prepare yourself for a job in data analytics.</br>
 
 ### 2. List down the essential skills that a data analyst must have.
 

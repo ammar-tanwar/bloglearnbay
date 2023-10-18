@@ -64,7 +64,7 @@ export default function Post({ postData, posts }) {
 
           <link href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/Learnbay-Favicon-L.png" />
           {/* Schema genertor start */}
-          {/* <script
+          <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{
               __html: `{
@@ -93,9 +93,9 @@ export default function Post({ postData, posts }) {
                "datePublished": "${postData.date}"
                 }
               } `,
-            }} /> */}
+            }} /> 
           {/* Schema Generator End */}
-          <script 
+          {/* <script 
           type="application/ld+json">
           {`
             {
@@ -124,8 +124,8 @@ export default function Post({ postData, posts }) {
               "datePublished": "${postData.date}"
             }
           `}
-        </script>
-        <script type="application/ld+json">
+        </script> */}
+       {/* <script type="application/ld+json">
           {`
             {
               "@context": "https://schema.org",
@@ -138,7 +138,41 @@ export default function Post({ postData, posts }) {
               "contentUrl": "${postData}"
             }
           `}
-        </script>
+        </script>  */}
+
+
+        <script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: `{
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "${postData.vname}",
+        "description": "${postData.vdesc}",
+        "thumbnailUrl": "${postData.vthumbnailUrl}",
+        "uploadDate": "${postData.vuploadDate}",
+        "duration": "${postData.vduration}",
+        "contentUrl": "${postData.vcontentUrl}",
+        "author": {
+          "@type": "Person",
+          "name": "${postData.author}",
+          "url": "${postData.authorUrl}"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Learnbay",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://blog.learnbay.co/_next/image?url=https%3A%2F%2Flearnbay-wb.s3.ap-south-1.amazonaws.com%2Fmain-blog%2FLearnbay-Logo.webp&w=256&q=100"
+          }
+        }
+      }`,
+  }}
+/>
+
+
+       
+
           
         </Head>
 
