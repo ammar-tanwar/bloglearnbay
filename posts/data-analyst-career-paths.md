@@ -37,7 +37,7 @@ vdesc: "In this video, we will Dive into the dynamic world of Data Analyst Roadm
 "vuploadDate": "2023-08-30"
 "vduration": "PT4M57S"
 "vcontentUrl": "https://youtu.be/OkwFjqlRWsM?feature=shared"
-"vthumbnailUrl": "https://i9.ytimg.com/vi_webp/OkwFjqlRWsM/maxresdefault.webp?v=64ef37b7&sqp=CNCpuKkG&rs=AOn4CLChSLeXvMOxuFrZMP5I9ZrOASAO-A"
+"vthumbnailUrl": "https://i9.ytimg.com/vi_webp/OkwFjqlRWsM/maxresdefault.webp?v=64ef37b7&sqp=CMSCvqkG&rs=AOn4CLDfH8n94pXUvWd-iN6nC6xSKCD6Eg"
 
 h1: "Data Analytics Career Path: How to Start, Grow, and Succeed"
 id: "data-analyst-career-paths"

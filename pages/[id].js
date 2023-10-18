@@ -153,11 +153,7 @@ export default function Post({ postData, posts }) {
         "uploadDate": "${postData.vuploadDate}",
         "duration": "${postData.vduration}",
         "contentUrl": "${postData.vcontentUrl}",
-        "author": {
-          "@type": "Person",
-          "name": "${postData.author}",
-          "url": "${postData.authorUrl}"
-        },
+        
         "publisher": {
           "@type": "Organization",
           "name": "Learnbay",
