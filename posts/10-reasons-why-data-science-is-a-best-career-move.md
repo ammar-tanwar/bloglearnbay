@@ -25,7 +25,7 @@ video: ""
 vname: " "
 vdesc: ""
 "vuploadDate": ""
-"vduration": "PT4M57S"
+"vduration": ""
 "vcontentUrl": ""
 "vthumbnailUrl": ""
 
