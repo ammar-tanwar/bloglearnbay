@@ -33,10 +33,10 @@ id: data-analyst-vs-data-scientist
 video: ""
 vname: " "
 vdesc: ""
-"vuploadDate": ""
-"vduration": ""
-"vcontentUrl": ""
-"vthumbnailUrl": ""
+vuploadDate: ""
+vduration: ""
+vcontentUrl: ""
+vthumbnailUrl: ""
 tableData: [
     What is Data Science? And How does it shape up Data Scientist's job role?,
     Who are Data Scientists?,

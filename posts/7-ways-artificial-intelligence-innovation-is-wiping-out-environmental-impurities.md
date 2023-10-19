@@ -24,10 +24,10 @@ readTime: "10-13 mins"
 video: ""
 vname: " "
 vdesc: ""
-"vuploadDate": ""
-"vduration": ""
-"vcontentUrl": ""
-"vthumbnailUrl": ""
+vuploadDate: ""
+vduration: ""
+vcontentUrl: ""
+vthumbnailUrl: ""
 
 
 
