@@ -26,7 +26,7 @@ video: ""
 vname: " "
 vdesc: ""
 "vuploadDate": ""
-"vduration": "PT4M57S"
+"vduration": ""
 "vcontentUrl": ""
 "vthumbnailUrl": ""
 h1: "Impact of Algorithms and Data Structures in Revolutionizing Global Industries

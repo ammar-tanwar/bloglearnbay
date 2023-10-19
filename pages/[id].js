@@ -153,7 +153,8 @@ export default function Post({ postData, posts }) {
         "uploadDate": "${postData.vuploadDate}",
         "duration": "${postData.vduration}",
         "contentUrl": "${postData.vcontentUrl}",
-        
+        "embedUrl": "${postData.video}",
+
         "publisher": {
           "@type": "Organization",
           "name": "Learnbay",
