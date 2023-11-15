@@ -2845,6 +2845,20 @@
       "date": "Sep 21, 2023",
       "draft": false
     }
+},
+{
+  "slug": "ai-revolutionizing-cybersecurity-a-paradigm-shift-in-protection",
+  "frontmatter": {
+    "title": "How AI is Changing the Paradigm in Cybersecurity",
+    "slug": "ai-revolutionizing-cybersecurity-a-paradigm-shift-in-protection",
+    "description": "Discover how artificial intelligence is transforming the cybersecurity landscape, offering advanced threat detection and prevention. Stay ahead of evolving cyber threats with AI-powered security solutions.",
+    "categories": "Data Science",
+    "author": "Sonalisha Mohanty",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/AI+in+Cybersecurity+Blog+Banner1-min.png",
+    "readTime": " 6.5 mins",
+    "date": "Nov 15, 2023",
+    "draft": false
+  }
 }
 
 ]

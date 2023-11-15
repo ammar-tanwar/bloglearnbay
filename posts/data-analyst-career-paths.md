@@ -60,7 +60,7 @@ Yet, many experts still feel the gap when switching their careers to the analyti
 This blog provides proven facts that you must know to start, grow, and succeed in a data analyst career.<br></br>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/OkwFjqlRWsM?si=077yMH37mR4q8809" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+  <iframe src="https://www.youtube.com/embed/OkwFjqlRWsM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div> <br></br>
 
 ## A step-by-step guide to data analyst career path
