@@ -2859,6 +2859,20 @@
     "date": "Nov 15, 2023",
     "draft": false
   }
+},
+{
+  "slug": "real-world-data-science-applications-of-transforming-data-into-actionable-insights",
+  "frontmatter": {
+    "title": "From Data to Insights: Real-World Applications of Data Science",
+    "slug": "real-world-data-science-applications-of-transforming-data-into-actionable-insights",
+    "description": "Discover practical real-world applications of data science, transforming raw data into valuable insights. Explore case studies and examples that showcase the power of data-driven decision-making across various industries.",
+    "categories": "Data Science",
+    "author": "Manas Kochar",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Data+Science+real+world+Applications+Banner1-min.webp",
+    "readTime": " 6.5 mins",
+    "date": "Nov 17, 2023",
+    "draft": false
+  }
 }
 
 ]
