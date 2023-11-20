@@ -37,7 +37,7 @@ vcontentUrl: ""
 vthumbnailUrl: ""
 
 h1: "From Data to Insights: Real-World Applications of Data Science"
-id: "real-world-data-science-applications-of-transforming-data-into-actionable-insights"
+id: "transforming-data-into-actionable-insights-real-world-data-science-applications"
 tableData: [
 1. Healthcare,
 2. Transportation, 

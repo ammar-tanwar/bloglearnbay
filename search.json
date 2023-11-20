@@ -2861,10 +2861,10 @@
   }
 },
 {
-  "slug": "real-world-data-science-applications-of-transforming-data-into-actionable-insights",
+  "slug": "transforming-data-into-actionable-insights-real-world-data-science-applications",
   "frontmatter": {
     "title": "From Data to Insights: Real-World Applications of Data Science",
-    "slug": "real-world-data-science-applications-of-transforming-data-into-actionable-insights",
+    "slug": "transforming-data-into-actionable-insights-real-world-data-science-applications",
     "description": "Discover practical real-world applications of data science, transforming raw data into valuable insights. Explore case studies and examples that showcase the power of data-driven decision-making across various industries.",
     "categories": "Data Science",
     "author": "Manas Kochar",

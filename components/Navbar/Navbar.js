@@ -47,7 +47,12 @@ const Navbar = () => {
         <div className="RightPopup">
           <h5>Apply For Counselling</h5>
           <p>Fill the below details to get started</p>
-          <Form popup={true} setTrigger={setPopups} radio={true} thankyou={true}/>
+          <Form
+            popup={true}
+            setTrigger={setPopups}
+            radio={true}
+            thankyou={true}
+          />
         </div>
       </Popup>
       <nav className={styles.nav}>
@@ -63,21 +68,25 @@ const Navbar = () => {
           <div className={show ? styles.mobileWrapper : styles.hide}>
             <div className={styles.mobileMenu}>
               <span onClick={showMenu}>
-                <Link href="https://www.learnbay.co/">Home</Link>
+                <Link href="https://www.learnbay.co/#servicePro">
+                  Career Services
+                </Link>
               </span>
               {/* <span onClick={showMenu}>
                 <Link href="https://www.learnbay.co/about-us">About Us</Link>
               </span> */}
               <span onClick={showMenu}>
-                <Link href="https://www.learnbay.co/demo">Demo</Link>
+                <Link href="https://www.learnbay.co/success-story">
+                  Success Story
+                </Link>
               </span>
-
               <span onClick={showMenu}>
-                <Link href="https://blog.learnbay.co/">Blog</Link> 
+                <Link href="https://www.learnbay.co/#ProjectLab">
+                  ProjectLab
+                </Link>
               </span>
-
               <span onClick={showMenu}>
-                <Link href="https://www.learnbay.co/contact-us">Contact Us</Link>
+                <Link href="https://blog.learnbay.co/">Blog</Link>
               </span>
             </div>
           </div>
@@ -131,25 +140,24 @@ const Navbar = () => {
         </div>
         <div className={styles.right}>
           <span>
-            <Link href="https://www.learnbay.co/">Home</Link>
+            <Link href="https://www.learnbay.co/#servicePro">Career Services</Link>
           </span>
           {/* <span>
             <Link href="https://www.learnbay.co/about-us">About Us</Link>
           </span> */}
           <span>
-            <Link href="https://www.learnbay.co/demo">Demo</Link>
+            <Link href="https://www.learnbay.co/success-story">Success Story</Link>
+          </span>
+          <span>
+            <Link href="https://www.learnbay.co/#ProjectLab"> ProjectLab</Link>
           </span>
 
           <span>
             <Link href="https://blog.learnbay.co/">Blog</Link>
           </span>
 
-          <span>
-            <Link href="https://www.learnbay.co/contact-us">Contact Us</Link>
-          </span>
-
-          <button onClick={popupShow} className="outLineBtn">
-            Apply For Counselling
+          <button onClick={popupShow} className="hoverBtn">
+            Apply Now
             <FaArrowRight className={styles.icon} />
           </button>
 
