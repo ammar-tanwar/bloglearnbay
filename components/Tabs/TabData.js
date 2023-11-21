@@ -31,7 +31,7 @@ export const TabData = [
       {
         CName: "Data Analytics Program",
         hours: "5 Months",
-        url: "https://www.learnbay.codatascience/data-analytics-certification-course",
+        url: "https://www.learnbay.co/datascience/data-analytics-certification-course",
       },
      
     ],
@@ -64,7 +64,7 @@ export const TabData = [
       {
         CName: "Data Analytics Program",
         hours: "5 Months",
-        url: "https://www.learnbay.codatascience/data-analytics-certification-course",
+        url: "https://www.learnbay.co/datascience/data-analytics-certification-course",
       },
     ],
   },
