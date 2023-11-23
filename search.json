@@ -2873,6 +2873,21 @@
     "date": "Nov 17, 2023",
     "draft": false
   }
+},
+
+{
+  "slug": "unlock-data-science-mastery-from-novice-to-pro-in-a-step-by-step-journey",
+  "frontmatter": {
+    "title": "Unlock Your Data Science Mastery:- A Step-by-Step Journey from Novice to Pro!",
+    "slug": "unlock-data-science-mastery-from-novice-to-pro-in-a-step-by-step-journey",
+    "description": "Embark on a transformative data science journey with our comprehensive guide. From beginner to expert, discover the path to mastering data science. Start your journey today",
+    "categories": "Data Science",
+    "author": "Manas Kochar",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Science-Mastery-banner.png",
+    "readTime": " 4.41 mins",
+    "date": "Nov 22, 2023",
+    "draft": false
+  }
 }
 
 ]
