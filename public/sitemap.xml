@@ -1014,5 +1014,13 @@
 <changefreq>daily</changefreq>
 <priority>0.90</priority>
  </url>
+
+
+   <url>
+<loc>https://blog.learnbay.co/unlock-data-science-mastery-from-novice-to-pro-in-a-step-by-step-journey</loc>
+<lastmod>2023-11-22</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+ </url>
  
 </urlset>
