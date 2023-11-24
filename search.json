@@ -2888,6 +2888,22 @@
     "date": "Nov 22, 2023",
     "draft": false
   }
+},
+
+{
+  "slug": "disruptive-data-science-trends-emerging-technologies-shaping-the-future",
+  "frontmatter": {
+    "title": "Emerging Trends and Technologies That Would Disrupt the Data Science Field",
+    "slug": "disruptive-data-science-trends-emerging-technologies-shaping-the-future",
+    "description": "Explore disruptive trends and technologies shaping the future of data science. Stay ahead with insights into AI, blockchain, edge computing, and more. Discover the data revolution.",
+    "categories": "Data Science",
+    "author": "Manas Kochar",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dste-banner.png",
+    "readTime": " 5.8 mins",
+    "date": "Nov 24, 2023",
+    "draft": false
+  }
 }
+
 
 ]
