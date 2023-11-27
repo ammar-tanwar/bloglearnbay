@@ -218,6 +218,13 @@ module.exports = {
         destination: '/multimodal-deep-learning-enabling-fusion-of-multiple-modalities-and-deep-learning',
         permanent: true,
       },
+      {
+        source: '/real-world-data-science-applications-of-transforming-data-into-actionable-insights',
+        destination: '/transforming-data-into-actionable-insights-real-world-data-science-applications',
+        permanent: true,
+      },
+    
+
 
     ]
   },
