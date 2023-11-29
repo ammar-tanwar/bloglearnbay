@@ -47,7 +47,7 @@ Companies must be aware of these trends if they wish to strengthen their grip in
 
 Below, we have discussed a few emerging technologies that will help you get a better understanding: -
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends_in_ds.png" style="width:100%" class="img" alt="An image suggesting the future of data science technologies and advancement."/></br></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trends_in_ds.png" style="width:100%" class="img" alt="An image suggesting emerging trends of data science technologies."/></br></br>
 
 ## Emerging Trends and Technologies in Data Science
 
