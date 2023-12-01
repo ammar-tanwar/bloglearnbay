@@ -6,7 +6,7 @@ published_time: "2023-11-29T13:25:31+05:30"
 modified_time: "2023-11-29T13:25:31+05:30"
 desc: "Elevate your career with our Data Science and AI Master's Degree program. Gain expertise in cutting-edge technologies and open doors to lucrative data-driven job opportunities. Start your journey now!"
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/master_datadriven_banner.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/work-life-bal.png"
 headerAlt: "online certification in data science, data science online course, AI Master Degree,"
 date: "Nov 29, 2023"
 tag:
@@ -25,7 +25,7 @@ authortitle: "Sonalisha Mohanty - An Enthusiastic Technical Content Creator at L
 adesc: "Sonalisha Mohanty, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 
 author: "Sonalisha Mohanty"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/master_datadriven_banner.png"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
@@ -70,7 +70,7 @@ A master’s degree in any field expands the learning sphere exponentially and e
 
 ## Check Your Eligibility 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/check_your_eligibility.png" style="width:100%" class="img" alt="An image shows a person using a screen and pen to check eligibility for a data science and AI master's degree."/></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/work-life-third.png" style="width:100%" class="img" alt="An image shows a person standing in the middle of a lever weighing scale, balancing work and study."/></br>
 
 After knowing the significance of a master’s degree, let us check the basic requirements to make one eligible for the program.</br>
 
@@ -107,7 +107,7 @@ Upskilling from **Learnbay’s** <b>master’s degree in data science and AI</b>
 
 Pursuing a master’s program is vital for career growth, with a 100% success rate. <b>_Industrial accreditation_</b> for practical learning from prime giants like <b>_IBM, Microsoft, Woolf University, and many more_</b> enhances its worth. A promising master’s in data science program leverages knowledge-gaining abilities and expands growth scope.</br>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/immigration_opportunities.png" style="width:100%" class="img" alt="An image shows the advantage of immigration opportunities using data science and AI master's degrees."/></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/expanding-prof-net.png" style="width:100%" class="img" alt="An image shows a networking of professional connections."/></br>
 
 ### Immigration Opportunities
 
@@ -119,7 +119,7 @@ Many learners resist upskilling decisions due to expensive course programs. A <b
 
 ## In Conclusion,
 
-Indeed, the rise of Data Science and AI has changed the business and job landscape with more growth scopes. <b><a href="https://www.learnbay.co/datascience/data-science-and-ai-masters-in-cs" target="_blank">Learnbay’s Master’s Degree in Data Science and AI</a></b> supports upskilling with <b>_100% dedicated job offers in India and overseas_</b> (<b>_US, Canada, and Europe_</b>). This <b>master’s in data science and AI</b> program includes an open learning platform, welcoming tech and non-tech pros from diverse disciplines. An industry-paced course syllabus includes <b>_generative AI (ChatGPT)_</b> led subjects followed by the latest tools and trends. Getting mentored by <b>_eminent mentors from_</b> <b>_MNCs/MAANG_</b> refines your skill sets to stand out in the career growth race.</br>
+Indeed, the rise of Data Science and AI has changed the business and job landscape with more growth scopes. Learnbay’s <b><a href="https://www.learnbay.co/datascience/data-science-and-ai-masters-in-cs" target="_blank"> Master’s Degree in Data Science and AI</a></b> supports upskilling with <b>_100% dedicated job offers in India and overseas_</b> (<b>_US, Canada, and Europe_</b>). This <b>master’s in data science and AI</b> program includes an open learning platform, welcoming tech and non-tech pros from diverse disciplines. An industry-paced course syllabus includes <b>_generative AI (ChatGPT)_</b> led subjects followed by the latest tools and trends. Getting mentored by <b>_eminent mentors from_</b> <b>_MNCs/MAANG_</b> refines your skill sets to stand out in the career growth race.</br>
 
 This master’s in data science program offers a <b>_career service pro_</b> benefit where learners will get instructor-led training with <b>_7+ domains_</b>. It also includes mock interviews, 1:1 doubt clearance, resume building, and offline experience centers for fresh capstone projects.</br>
 
