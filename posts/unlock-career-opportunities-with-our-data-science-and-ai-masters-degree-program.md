@@ -6,7 +6,7 @@ published_time: "2023-11-29T13:25:31+05:30"
 modified_time: "2023-11-29T13:25:31+05:30"
 desc: "Elevate your career with our Data Science and AI Master's Degree program. Gain expertise in cutting-edge technologies and open doors to lucrative data-driven job opportunities. Start your journey now!"
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/work-life-bal.png"
+headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/master_datadriven_banner.png"
 headerAlt: "online certification in data science, data science online course, AI Master Degree,"
 date: "Nov 29, 2023"
 tag:
@@ -70,7 +70,7 @@ A master’s degree in any field expands the learning sphere exponentially and e
 
 ## Check Your Eligibility 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/work-life-third.png" style="width:100%" class="img" alt="An image shows a person standing in the middle of a lever weighing scale, balancing work and study."/></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/check_your_eligibility.png" style="width:100%" class="img" alt="An image shows a person using a screen and pen to check eligibility for a data science and AI master's degree."/></br>
 
 After knowing the significance of a master’s degree, let us check the basic requirements to make one eligible for the program.</br>
 
@@ -107,7 +107,7 @@ Upskilling from **Learnbay’s** <b>master’s degree in data science and AI</b>
 
 Pursuing a master’s program is vital for career growth, with a 100% success rate. <b>_Industrial accreditation_</b> for practical learning from prime giants like <b>_IBM, Microsoft, Woolf University, and many more_</b> enhances its worth. A promising master’s in data science program leverages knowledge-gaining abilities and expands growth scope.</br>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/expanding-prof-net.png" style="width:100%" class="img" alt="An image shows a networking of professional connections."/></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/immigration_opportunities.png" style="width:100%" class="img" alt="An image shows a person using a screen and pen to check eligibility for a data science and AI master's degree."/></br>
 
 ### Immigration Opportunities
 
