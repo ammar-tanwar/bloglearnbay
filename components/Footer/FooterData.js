@@ -384,6 +384,11 @@ export const CourseData = [
         url: "https://www.learnbay.co/datascience/data-analytics-certification-course",
         name: "Data Analytics Program",
       },
+      {
+        id: 7,
+        url: "https://www.learnbay.co/cloud&devops/cloud-computing-and-devOps-certification-program",
+        name: "Advance Cloud Computing & DevOps Certification Program",
+      },
     
   
     ],

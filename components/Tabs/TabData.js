@@ -19,6 +19,11 @@ export const TabData = [
         url: "https://www.learnbay.co/datascience/data-science-and-ai-masters-in-cs",
       },
       {
+        CName: "Advance Cloud Computing & DevOps Certification Program",
+        hours: "10 Months",
+        url: "https://www.learnbay.co/cloud&devops/cloud-computing-and-devOps-certification-program",
+      },
+      {
         CName: "Software Development Certification Program",
         hours: "11 Months",
         url: "https://www.learnbay.co/fullstack/full-stack-software-development-program",
@@ -49,6 +54,11 @@ export const TabData = [
         CName: "Advance AI and ML Certification Program",
         hours: "11 Months",
         url: "https://www.learnbay.co/datascience/artificial-intelligence-certification-course",
+      },
+      {
+        CName: "Advance Cloud Computing & DevOps Certification Program",
+        hours: "10 Months",
+        url: "https://www.learnbay.co/cloud&devops/cloud-computing-and-devOps-certification-program",
       },
       {
         CName: "Software Development Certification Program",
