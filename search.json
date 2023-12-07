@@ -2949,6 +2949,20 @@
     "date": "Dec 01, 2023",
     "draft": false
   }
+},
+{
+  "slug": "data-science-vs-data-engineering-navigating-your-career-path-choice",
+  "frontmatter": {
+    "title": "Data Science vs. Data Engineering: Which Career Path to Choose?",
+    "slug": "data-science-vs-data-engineering-navigating-your-career-path-choice",
+    "description": "Explore the distinctions between data science and data engineering to make an informed career choice. Discover the skills and roles that suit your goals and aspirations in the data industry",
+    "categories": "Data Science",
+    "author": "Sonalisha Mohanty",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/ds-cd-banner.png",
+    "readTime": " 6.35 mins",
+    "date": "Dec 06, 2023",
+    "draft": false
+  }
 }
 
 

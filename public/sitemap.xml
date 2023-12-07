@@ -1050,5 +1050,11 @@
   <changefreq>daily</changefreq>
 <priority>0.90</priority>
 </url>
+<url>
+  <loc>https://blog.learnbay.co/data-science-vs-data-engineering-navigating-your-career-path-choice</loc>
+  <lastmod>2023-12-06</lastmod>
+  <changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
  
 </urlset>
