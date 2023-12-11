@@ -2,13 +2,13 @@
 title: The Interplay Between Data Science and AI in Master’s Programs
 stitle: " Master's Programs: Navigating the Synergy of Data Science and AI"
 publish: "Published on"
-published_time: "2023-12-12T13:25:31+05:30"
-modified_time: "2023-12-12T13:25:31+05:30"
+published_time: "2023-12-11T13:25:31+05:30"
+modified_time: "2023-12-11T13:25:31+05:30"
 desc: "Discover the dynamic relationship between data science and AI in master's programs, exploring their integration, applications, and the future of these interrelated fields in education and industry."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/synergy-banner.png"
 headerAlt: "online masters degree data science, Data Science and AI in Master's Programs"
-date: "Dec 12, 2023"
+date: "Dec 11, 2023"
 tag: [Master's Programs , Education Integration, Data Science and AI in Master’s Programs]
 category: "Data Science"
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
