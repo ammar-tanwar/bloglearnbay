@@ -2963,6 +2963,20 @@
     "date": "Dec 06, 2023",
     "draft": false
   }
+},
+{
+  "slug": "master's-programs-navigating-the-synergy-of-data-science-and-ai",
+  "frontmatter": {
+    "title": "The Interplay Between Data Science and AI in Master’s Programs",
+    "slug": "master's-programs-navigating-the-synergy-of-data-science-and-ai",
+    "description": "Discover the dynamic relationship between data science and AI in master's programs, exploring their integration, applications, and the future of these interrelated fields in education and industry.",
+    "categories": "Data Science",
+    "author": "Manas Kochar",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/synergy-banner.png",
+    "readTime": " 5.16 mins",
+    "date": "Dec 12, 2023",
+    "draft": false
+  }
 }
 
 
