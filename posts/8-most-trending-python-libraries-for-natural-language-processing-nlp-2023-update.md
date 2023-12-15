@@ -9,6 +9,7 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mtpl-1.png"
 headerAlt: "A banner image titled '8 Python Libraries for Natural Language Processing'. It also displays the logo of the python programming language."
 date: "Dec 02, 2023"
+updatedate: "Dec 14, 2024"
 tag:
   [
     Python libraries for natural language proceesing,

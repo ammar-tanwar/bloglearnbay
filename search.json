@@ -2977,6 +2977,20 @@
     "date": "Dec 11, 2023",
     "draft": false
   }
+},
+{
+  "slug": "data-driven-social-justice-transforming-society-through-data-science-advocacy",
+  "frontmatter": {
+    "title": "The Intersection of Data Science and Social Justice:- Using Data to Drive Change",
+    "slug": "data-driven-social-justice-transforming-society-through-data-science-advocacy",
+    "description": "Explore how data science empowers social justice advocates to create meaningful change, revealing insights and addressing disparities through data-driven approaches in this thought-provoking discussion.",
+    "categories": "Data Science",
+    "author": "Manas Kochar",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/data-driven-banner.png",
+    "readTime": " 5.32 mins",
+    "date": "Dec 15, 2023",
+    "draft": false
+  }
 }
 
 
