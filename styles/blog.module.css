@@ -422,8 +422,7 @@
   }
   .Bloginfo {
     display: flex;
-    font-size: 9px;
-    gap: 5px;
+    font-size: 7px;
   }
   .rightInfo {
     position: sticky;

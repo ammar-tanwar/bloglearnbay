@@ -12,7 +12,7 @@ import LikeButtonComponent from "../components/LikeButtonComponent/LikeButtonCom
 import React, { useState } from "react";
 import { FaArrowRight, FaChevronDown, FaChevronUp } from "react-icons/fa";
 
-export default function Post({ postData, posts }) {
+export default function Post({ postData, posts, updatesd }) {
   let makeUrl = postData.author.toLowerCase().replace(/\s+/g, "-");
   let aurl = `/author/${makeUrl}`;
 
@@ -169,6 +169,12 @@ export default function Post({ postData, posts }) {
               <strong className={styles.time}>{postData.time}</strong>{" "}
               <BsDot className="bIcon" /> {postData.publish}{" "}
               <strong className={styles.date}>{postData.date}</strong>
+              {postData.updatedate && (
+                <>
+                  <BsDot className="bIcon" /> Updated On{" "}
+                  <strong className={styles.date}>{postData.updatedate}</strong>
+                </>
+              )}
             </div>
           </div>
           <div className={styles.bodyInfo}>
