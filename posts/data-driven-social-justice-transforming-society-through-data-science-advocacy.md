@@ -82,7 +82,7 @@ Modern data analysis can provide accuracy in economic and social cases. Private 
 
 Data on the census, finances, location, labor, and more help improve public welfare. In addition, public data such as healthcare, security, education, and housing are also helpful. Enroll in the <b>best online classes for data science</b> to understand these in detail.</br>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/data-driven-one.png" style="width:100%" class="img" alt="An image shows a person using a bar graph to experience the growth."/></br></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/data-driven-one.png" style="width:100%" class="img" alt="An image shows three data enthusiasts sitting and discussing the benefits of data science."/></br></br>
 
 ## Challenges in the data world
 

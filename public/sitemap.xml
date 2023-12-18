@@ -1071,5 +1071,12 @@
   <changefreq>daily</changefreq>
 <priority>0.90</priority>
 </url>
+
+<url>
+  <loc>https://blog.learnbay.co/transform-your-career-with-a-master’s-in-data-science-and-ai</loc>
+  <lastmod>2023-12-18</lastmod>
+  <changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
  
 </urlset>
