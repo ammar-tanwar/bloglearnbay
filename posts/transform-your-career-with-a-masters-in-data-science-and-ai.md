@@ -29,7 +29,7 @@ vduration: ""
 vcontentUrl: ""
 vthumbnailUrl: ""
 h1: "How Can a Master’s in Data Science and AI Accelerate Your Career?"
-id: "transform-your-career-with-a-master’s-in-data-science-and-ai"
+id: "transform-your-career-with-a-masters-in-data-science-and-ai"
 tableData: [
 
     How is a Master’s degree in data science and AI beneficial?,  
