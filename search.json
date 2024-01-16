@@ -2528,7 +2528,7 @@
       "author": "Manas Kochar",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/5bac.png",
       "readTime": "10.5 mins",
-      "date": "May 11, 2023",
+      "date": "Jun 11, 2023",
       "draft": false
     }
   },
@@ -3047,6 +3047,21 @@
     "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Real-Life-banner.png",
     "readTime": " 6.16 mins",
     "date": "Jan 09, 2024",
+    "draft": false
+  }
+},
+
+{
+  "slug": "transforming-indias-defense-the-data-science-revolution-unveiled",
+  "frontmatter": {
+    "title": " How Data Science is Revolutionizing India's Defense Capabilities?",
+    "slug": "transforming-indias-defense-the-data-science-revolution-unveiled",
+    "description": "Data science is transforming India's defense capabilities by leveraging advanced analytics, artificial intelligence, and machine learning. Enhanced decision-making, predictive analysis, and improved strategic planning contribute to a robust national security framework.",
+    "categories": "Data Science",
+    "author": "Manas Kochar",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/deffence_baneer.png",
+    "readTime": " 4.23 mins",
+    "date": "Jan 16, 2024",
     "draft": false
   }
 }
