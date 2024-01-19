@@ -31,10 +31,10 @@ vthumbnailUrl: ""
 h1: "How Data Science is Revolutionizing India's Defense Capabilities?"
 id: "transforming-indias-defense-the-data-science-revolution-unveiled"
 tableData: [
-   Role of data science in modern warfare, 
-   Future of Data Science and AI in India, 
-    Conclusion,  
-    Frequently Asked Questions,
+Role of data science in modern warfare, 
+Future of Data Science and AI in India, 
+Conclusion,  
+Frequently Asked Questions,
 
 
 
