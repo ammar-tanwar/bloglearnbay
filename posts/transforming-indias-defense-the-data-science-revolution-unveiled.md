@@ -13,12 +13,12 @@ tag: [ai in space exploration, Space Exploration,Artificial Intelligence]
 category: "Data Science"
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
 catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
-authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
-adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
-author: "Manas Kochar"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
-authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
-authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
+authortitle: "Trisha Manna - Highly Passionate Content Manager at Learnbay Blog Team"
+adesc: "Discover Trisha's extensive experience in writing about cutting-edge emerging technologies, including AI, ML, Web, and Software Development."
+author: "Trisha Manna"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trisha-manna.webp"
+authordesc: "Trisha, Content Manager at Learnbay, holds 7+ years of expertise in emerging technology-related writing. AI, ML, web, and software development have always been on her extreme interest list. A passion for lifelong"
+authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: " 4.23 mins"
 video: ""
@@ -53,7 +53,7 @@ _<b>Let's learn in detail about the benefits of data science in defense.</b>_
 
 ## Role of data science in modern warfare
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/d_1.png" style="width:100%" class="img" alt="An image suggesting degrees and books showing the importance of a master's degree in data science and AI."/></br></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/d_1.png" style="width:100%" class="img" alt="An image shows the role of data scientists in modern warfare, such as data detection, Forming Proactive Defence, Assessing Threats, Analyzing social networks, Image and signal processing, Mitigating Cybersecurity Risk, and Resource management."/></br></br>
 
 Automating the defense systems is a big help for military data scientists. They utilize machine learning to handle data sources and discover areas humans can examine. We can also locate certain obstacles in military data science. Data scientists often experience deceit, jamming, or spoofing.
 
@@ -97,7 +97,7 @@ Human resource (HR) management can also utilize <b>data science in military inte
 
 ## Future of Data Science and AI in India   
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/d_2.png" style="width:100%" class="img" alt="An image suggesting degrees and books showing the importance of a master's degree in data science and AI."/></br></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/d_2.png" style="width:100%" class="img" alt="An image shows a woman wearing a VR headset and visualizing the graphical stats."/></br></br>
 
 Due to the boost in the application of <b>data science in defence India,</b> we can observe many possibilities. As a result, the <b>future of data science and AI in India</b> is safe.
 

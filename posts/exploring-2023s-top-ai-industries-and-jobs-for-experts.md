@@ -51,7 +51,7 @@ In recent years, the job outlook has been changing, and many experts are worried
 
 _<b>This blog sheds light on the trending industries, with jobs for AI experts in 2024 promising an automated future.</b>_
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ai_navigation.png" style="width:100%" class="img" alt="An image shows the role of data scientists in modern warfare, such as data detection, Forming Proactive Defence, Assessing Threats, Analyzing social networks, Image and signal processing, Mitigating Cybersecurity Risk, and Resource management.  "/> <br/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ai_navigation.png" style="width:100%" class="img" alt="An image shows a human and a robotic hand holding a humanoid brain."/> <br/>
 
 ## How AI is Navigating Today’s Digital Landscape?
 
@@ -63,7 +63,7 @@ The current job landscape is seen replacing the generic IT/non-IT roles with AI-
 
 _<b>Let’s review top industries building an automated future with skilled AI experts.</b>_
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ai-first.png" style="width:100%" class="img" alt="An image shows a woman wearing a VR headset and visualizing the graphical stats. "/> <br/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ai-first.png" style="width:100%" class="img" alt="An image shows the demand for AI expertise in various sectors in 2024. "/> <br/>
 
 ## Top Industries Creating Demands for AI Experts in 2024 
 

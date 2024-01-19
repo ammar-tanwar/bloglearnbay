@@ -3064,6 +3064,22 @@
     "date": "Jan 16, 2024",
     "draft": false
   }
+},
+
+
+{
+  "slug": "unlocking-trends-a-guide-to-visualizing-stories-beyond-numbers",
+  "frontmatter": {
+    "title": "See the Story, Not Just the Numbers: A Guide to Trendy Data Visualization Tactics",
+    "slug": "unlocking-trends-a-guide-to-visualizing-stories-beyond-numbers",
+    "description": "Unlock the power of data storytelling with our guide to trendy data visualization tactics. Learn to see the story behind the numbers, creating compelling narratives that resonate. Dive into effective visualization strategies!",
+    "categories": "Data Science",
+    "author": "Trisha Manna",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data_v_banner.png",
+    "readTime": " 6.2 mins",
+    "date": "Jan 19, 2024",
+    "draft": false
+  }
 }
 
 
