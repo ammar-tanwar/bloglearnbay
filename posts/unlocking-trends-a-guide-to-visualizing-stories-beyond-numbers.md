@@ -45,7 +45,11 @@ h1: "See the Story, Not Just the Numbers: A Guide to Trendy Data Visualization T
 id: "unlocking-trends-a-guide-to-visualizing-stories-beyond-numbers"
 tableData: [
 
-Data Visualization Tactics to Consider in 2024, End Notes.., FAQs:–
+Data Visualization Tactics to Consider in 2024,
+1. Crafting Audience-Specific Data Visuals,
+2. Pick the Right Visual Effects/types Concerning the Story, 
+3. Opt for a Simple Storytelling Visualization over Numbers,
+End Notes.., FAQs:–
 
 
 
@@ -84,7 +88,7 @@ Experts must learn <b>creative data presentation techniques</b> to deliver a pic
 
 **For example –** If you convey the facts related to rising unemployment in India, you must use bar graphs with proper percentages of employed and unemployed people. Short stories about the reasons behind unemployment can help viewers understand the trend well.
 
-### 3. Opt for a Simple Storytelling Visualization over Numbers
+### 3. Opt for a Simple Storytelling Visualization over Numbers  
 
 Audiences engage with the facts that use short stories rather than statistics. Many decision-makers belong to non-tech fields with little or no statistics knowledge. Thus, presenting a simple story concerning the extracted insights can do wonders.
 
