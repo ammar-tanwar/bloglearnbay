@@ -33,7 +33,7 @@ id: "exploring-2023s-top-ai-industries-and-jobs-for-experts"
 tableData: [
   How AI is Navigating Today’s Digital Landscape?,
   Top Industries Creating Demands for AI Experts in 2024,
-  Promising Job Roles for AI Experts in 2022024,
+  Promising Job Roles for AI Experts in 2024,
    In a Nutshell,
     FAQs:– ,
 
