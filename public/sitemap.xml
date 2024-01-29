@@ -1121,4 +1121,12 @@
   <changefreq>daily</changefreq>
 <priority>0.90</priority>
 </url>
+
+
+<url>
+  <loc>https://blog.learnbay.co/decoding-ai-impact-on-cybersecurity-navigating-realities-and-myths-2024</loc>
+  <lastmod>2024-01-29</lastmod>
+  <changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
 </urlset>
