@@ -60,7 +60,7 @@ But what skill do you require to master these trending technologies in data scie
 
 ## Technical skills
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/master-ml-one.png" style="width:100%" class="img" alt="An image shows data visualization trends using various bar graphs, charts, and pie charts."/></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/master-ml-one.png" style="width:100%" class="img" alt="An image suggested the use of technical skills in Data modelling, NLP etc."/></br>
 
 Being a data scientist demands a list of technical proficiencies you must showcase. Let’s have a look at the most essential tech skills.</br>
 
@@ -104,7 +104,7 @@ It is a bonus skill that you may have to make it easier to develop complex syste
 
 ## Programming skills  
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/master-ml-two.png" style="width:100%" class="img" alt="An image shows data visualization trends using various bar graphs, charts, and pie charts."/></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/master-ml-two.png" style="width:100%" class="img" alt="An image shows a laptop running a code with PHP and CSS."/></br>
 
 Machine learning includes writing codes for systems that enable them to complete normal tasks similar to humans. Hence, it involves coding and a knowledge of programming languages. C, C++, Python, MATLAB, and Apache are in-demand programming languages.</br></br>
 
