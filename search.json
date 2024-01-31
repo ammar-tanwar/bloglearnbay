@@ -3109,7 +3109,22 @@
     "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/beyond-banner.png",
     "readTime": " 5.54 mins",
     "date": "Jan 29, 2024",
-    "draft": false
+    "draft": false 
+  }
+},
+
+{
+  "slug": "the-role-of-data-and-ai-in-indias-ambitious-gaganyaan-mission",
+  "frontmatter": {
+    "title": "The Role of Data & AI in India's Ambitious GAGANYAAN Mission",
+    "slug": "the-role-of-data-and-ai-in-indias-ambitious-gaganyaan-mission",
+    "description": "Discover how Data & AI drive success in India's GAGANYAAN mission. Explore the vital role of technology in space exploration. Read more on our blog.",
+    "categories": "Data Science",
+    "author": "Sonalisha Mohanty",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/chandryan-banner.png",
+    "readTime": " 5.37 mins",
+    "date": "Jan 31, 2024",
+    "draft": false 
   }
 }
 
