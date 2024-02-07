@@ -3126,7 +3126,23 @@
     "date": "Jan 31, 2024",
     "draft": false 
   }
+},
+
+{
+  "slug": "mastering-data-science-behavioral-interviews-a-beginners-comprehensive-guide",
+  "frontmatter": {
+    "title": "A Beginner's Guide to Answering Behavioral Interview Questions for Data Science Roles",
+    "slug": "mastering-data-science-behavioral-interviews-a-beginners-comprehensive-guide",
+    "description": "Unlock success in data science interviews with this beginner's guide. Learn how to navigate behavioral interview questions effectively, showcasing your skills and experience with confidence and precision.",
+    "categories": "Data Science",
+    "author": "Sonalisha Mohanty",
+    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ss_banner.png",
+    "readTime": " 7.12 mins",
+    "date": "Feb 07, 2024",
+    "draft": false 
+  }
 }
+
 
 
 ]
