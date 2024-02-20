@@ -2770,7 +2770,6 @@
     }
   },
 
-
   {
     "slug": "learnbay-top-2023-data-science-courses-for-career-advancement-and-success",
     "frontmatter": {
@@ -2785,7 +2784,6 @@
       "draft": false
     }
   },
-
 
   {
     "slug": "learnbay-top-12-data-science-courses-for-professionals-in-2023",
@@ -2832,7 +2830,7 @@
     }
   },
 
- {
+  {
     "slug": "significance-of-data-analytics-in-advancing-indian-space-exploration-endeavours",
     "frontmatter": {
       "title": "How Data Analytics Is Crucial for India's Space Missions",
@@ -2845,304 +2843,310 @@
       "date": "Sep 21, 2023",
       "draft": false
     }
-},
-{
-  "slug": "ai-revolutionizing-cybersecurity-a-paradigm-shift-in-protection",
-  "frontmatter": {
-    "title": "How AI is Changing the Paradigm in Cybersecurity ?",
+  },
+  {
     "slug": "ai-revolutionizing-cybersecurity-a-paradigm-shift-in-protection",
-    "description": "Discover how artificial intelligence is transforming the cybersecurity landscape, offering advanced threat detection and prevention. Stay ahead of evolving cyber threats with AI-powered security solutions.",
-    "categories": "Data Science",
-    "author": "Sonalisha Mohanty",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/AI+in+Cybersecurity+Blog+Banner1-min.png",
-    "readTime": " 6.5 mins",
-    "date": "Nov 15, 2023",
-    "draft": false
-  }
-},
-{
-  "slug": "transforming-data-into-actionable-insights-real-world-data-science-applications",
-  "frontmatter": {
-    "title": "From Data to Insights: Real-World Applications of Data Science",
+    "frontmatter": {
+      "title": "How AI is Changing the Paradigm in Cybersecurity ?",
+      "slug": "ai-revolutionizing-cybersecurity-a-paradigm-shift-in-protection",
+      "description": "Discover how artificial intelligence is transforming the cybersecurity landscape, offering advanced threat detection and prevention. Stay ahead of evolving cyber threats with AI-powered security solutions.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/AI+in+Cybersecurity+Blog+Banner1-min.png",
+      "readTime": " 6.5 mins",
+      "date": "Nov 15, 2023",
+      "draft": false
+    }
+  },
+  {
     "slug": "transforming-data-into-actionable-insights-real-world-data-science-applications",
-    "description": "Discover practical real-world applications of data science, transforming raw data into valuable insights. Explore case studies and examples that showcase the power of data-driven decision-making across various industries.",
-    "categories": "Data Science",
-    "author": "Manas Kochar",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Data+Science+real+world+Applications+Banner1-min.webp",
-    "readTime": " 6.5 mins",
-    "date": "Nov 17, 2023",
-    "draft": false
-  }
-},
+    "frontmatter": {
+      "title": "From Data to Insights: Real-World Applications of Data Science",
+      "slug": "transforming-data-into-actionable-insights-real-world-data-science-applications",
+      "description": "Discover practical real-world applications of data science, transforming raw data into valuable insights. Explore case studies and examples that showcase the power of data-driven decision-making across various industries.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Data+Science+real+world+Applications+Banner1-min.webp",
+      "readTime": " 6.5 mins",
+      "date": "Nov 17, 2023",
+      "draft": false
+    }
+  },
 
-{
-  "slug": "unlock-data-science-mastery-from-novice-to-pro-in-a-step-by-step-journey",
-  "frontmatter": {
-    "title": "Unlock Your Data Science Mastery:- A Step-by-Step Journey from Novice to Pro!",
+  {
     "slug": "unlock-data-science-mastery-from-novice-to-pro-in-a-step-by-step-journey",
-    "description": "Embark on a transformative data science journey with our comprehensive guide. From beginner to expert, discover the path to mastering data science. Start your journey today",
-    "categories": "Data Science",
-    "author": "Manas Kochar",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Science-Mastery-banner.png",
-    "readTime": " 4.41 mins",
-    "date": "Nov 22, 2023",
-    "draft": false
-  }
-},
+    "frontmatter": {
+      "title": "Unlock Your Data Science Mastery:- A Step-by-Step Journey from Novice to Pro!",
+      "slug": "unlock-data-science-mastery-from-novice-to-pro-in-a-step-by-step-journey",
+      "description": "Embark on a transformative data science journey with our comprehensive guide. From beginner to expert, discover the path to mastering data science. Start your journey today",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Science-Mastery-banner.png",
+      "readTime": " 4.41 mins",
+      "date": "Nov 22, 2023",
+      "draft": false
+    }
+  },
 
-{
-  "slug": "disruptive-data-science-trends-emerging-technologies-shaping-the-future",
-  "frontmatter": {
-    "title": "Emerging Trends and Technologies That Would Disrupt the Data Science Field",
+  {
     "slug": "disruptive-data-science-trends-emerging-technologies-shaping-the-future",
-    "description": "Explore disruptive trends and technologies shaping the future of data science. Stay ahead with insights into AI, blockchain, edge computing, and more. Discover the data revolution.",
-    "categories": "Data Science",
-    "author": "Manas Kochar",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dste-banner.png",
-    "readTime": " 5.8 mins",
-    "date": "Nov 24, 2023",
-    "draft": false
-  }
-},
-{
-  "slug": "mastering-data-visualization-principles-and-best-practices-for-effective-insights",
-  "frontmatter": {
-    "title": "Data Visualization:- Principles and Best Practices for Communicating Data Insights",
+    "frontmatter": {
+      "title": "Emerging Trends and Technologies That Would Disrupt the Data Science Field",
+      "slug": "disruptive-data-science-trends-emerging-technologies-shaping-the-future",
+      "description": "Explore disruptive trends and technologies shaping the future of data science. Stay ahead with insights into AI, blockchain, edge computing, and more. Discover the data revolution.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dste-banner.png",
+      "readTime": " 5.8 mins",
+      "date": "Nov 24, 2023",
+      "draft": false
+    }
+  },
+  {
     "slug": "mastering-data-visualization-principles-and-best-practices-for-effective-insights",
-    "description": "Learn the principles and best practices for effective data visualization, enhancing your ability to communicate valuable data insights clearly and engagingly. Master the art of visual storytelling.",
-    "categories": "Data Science",
-    "author": "Manas Kochar",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/data_visualization_banner.png",
-    "readTime": " 4.55 mins",
-    "date": "Nov 27, 2023",
-    "draft": false
-  }
-},
+    "frontmatter": {
+      "title": "Data Visualization:- Principles and Best Practices for Communicating Data Insights",
+      "slug": "mastering-data-visualization-principles-and-best-practices-for-effective-insights",
+      "description": "Learn the principles and best practices for effective data visualization, enhancing your ability to communicate valuable data insights clearly and engagingly. Master the art of visual storytelling.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/data_visualization_banner.png",
+      "readTime": " 4.55 mins",
+      "date": "Nov 27, 2023",
+      "draft": false
+    }
+  },
 
-
-{
-  "slug": "unlock-career-opportunities-with-our-data-science-and-ai-masters-degree-program",
-  "frontmatter": {
-    "title": "Data Science and AI Master's Degree! A Gateway to Data-driven Career Opportunities",
+  {
     "slug": "unlock-career-opportunities-with-our-data-science-and-ai-masters-degree-program",
-    "description": "Elevate your career with our Data Science and AI Master's Degree program. Gain expertise in cutting-edge technologies and open doors to lucrative data-driven job opportunities. Start your journey now!",
-    "categories": "Data Science",
-    "author": "Sonalisha Mohanty",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/master_datadriven_banner.png",
-    "readTime": " 6.10 mins",
-    "date": "Nov 29, 2023",
-    "draft": false
-  }
-},
+    "frontmatter": {
+      "title": "Data Science and AI Master's Degree! A Gateway to Data-driven Career Opportunities",
+      "slug": "unlock-career-opportunities-with-our-data-science-and-ai-masters-degree-program",
+      "description": "Elevate your career with our Data Science and AI Master's Degree program. Gain expertise in cutting-edge technologies and open doors to lucrative data-driven job opportunities. Start your journey now!",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/master_datadriven_banner.png",
+      "readTime": " 6.10 mins",
+      "date": "Nov 29, 2023",
+      "draft": false
+    }
+  },
 
-
-{
-  "slug": "work-life-balance-navigating-success-with-the-data-science-master-degree-program",
-  "frontmatter": {
-    "title": "Tips for Balancing Work and a Data Science Master's Program",
+  {
     "slug": "work-life-balance-navigating-success-with-the-data-science-master-degree-program",
-    "description": "Discover essential strategies to harmonize your career and a data science master's program. Unlock time management, study, and stress reduction tips for a balanced academic and professional life.",
-    "categories": "Data Science",
-    "author": "Sonalisha Mohanty",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/master_datadriven_banner.png",
-    "readTime": " 6.44 mins",
-    "date": "Dec 01, 2023",
-    "draft": false
-  }
-},
-{
-  "slug": "data-science-vs-data-engineering-navigating-your-career-path-choice",
-  "frontmatter": {
-    "title": "Data Science vs. Data Engineering: Which Career Path to Choose?",
+    "frontmatter": {
+      "title": "Tips for Balancing Work and a Data Science Master's Program",
+      "slug": "work-life-balance-navigating-success-with-the-data-science-master-degree-program",
+      "description": "Discover essential strategies to harmonize your career and a data science master's program. Unlock time management, study, and stress reduction tips for a balanced academic and professional life.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/master_datadriven_banner.png",
+      "readTime": " 6.44 mins",
+      "date": "Dec 01, 2023",
+      "draft": false
+    }
+  },
+  {
     "slug": "data-science-vs-data-engineering-navigating-your-career-path-choice",
-    "description": "Explore the distinctions between data science and data engineering to make an informed career choice. Discover the skills and roles that suit your goals and aspirations in the data industry",
-    "categories": "Data Science",
-    "author": "Sonalisha Mohanty",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/ds-cd-banner.png",
-    "readTime": " 6.35 mins",
-    "date": "Dec 06, 2023",
-    "draft": false
-  }
-},
-{
-  "slug": "master's-programs-navigating-the-synergy-of-data-science-and-ai",
-  "frontmatter": {
-    "title": "The Interplay Between Data Science and AI in Master’s Programs",
+    "frontmatter": {
+      "title": "Data Science vs. Data Engineering: Which Career Path to Choose?",
+      "slug": "data-science-vs-data-engineering-navigating-your-career-path-choice",
+      "description": "Explore the distinctions between data science and data engineering to make an informed career choice. Discover the skills and roles that suit your goals and aspirations in the data industry",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/ds-cd-banner.png",
+      "readTime": " 6.35 mins",
+      "date": "Dec 06, 2023",
+      "draft": false
+    }
+  },
+  {
     "slug": "master's-programs-navigating-the-synergy-of-data-science-and-ai",
-    "description": "Discover the dynamic relationship between data science and AI in master's programs, exploring their integration, applications, and the future of these interrelated fields in education and industry.",
-    "categories": "Data Science",
-    "author": "Manas Kochar",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/synergy-banner.png",
-    "readTime": " 5.16 mins",
-    "date": "Dec 11, 2023",
-    "draft": false
-  }
-},
-{
-  "slug": "data-driven-social-justice-transforming-society-through-data-science-advocacy",
-  "frontmatter": {
-    "title": "The Intersection of Data Science and Social Justice:- Using Data to Drive Change",
+    "frontmatter": {
+      "title": "The Interplay Between Data Science and AI in Master’s Programs",
+      "slug": "master's-programs-navigating-the-synergy-of-data-science-and-ai",
+      "description": "Discover the dynamic relationship between data science and AI in master's programs, exploring their integration, applications, and the future of these interrelated fields in education and industry.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/synergy-banner.png",
+      "readTime": " 5.16 mins",
+      "date": "Dec 11, 2023",
+      "draft": false
+    }
+  },
+  {
     "slug": "data-driven-social-justice-transforming-society-through-data-science-advocacy",
-    "description": "Explore how data science empowers social justice advocates to create meaningful change, revealing insights and addressing disparities through data-driven approaches in this thought-provoking discussion.",
-    "categories": "Data Science",
-    "author": "Manas Kochar",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/data-driven-banner.png",
-    "readTime": " 5.32 mins",
-    "date": "Dec 15, 2023",
-    "draft": false
-  }
-},
+    "frontmatter": {
+      "title": "The Intersection of Data Science and Social Justice:- Using Data to Drive Change",
+      "slug": "data-driven-social-justice-transforming-society-through-data-science-advocacy",
+      "description": "Explore how data science empowers social justice advocates to create meaningful change, revealing insights and addressing disparities through data-driven approaches in this thought-provoking discussion.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/data-driven-banner.png",
+      "readTime": " 5.32 mins",
+      "date": "Dec 15, 2023",
+      "draft": false
+    }
+  },
 
-
-{
-  "slug": "transform-your-career-with-a-masters-in-data-science-and-ai",
-  "frontmatter": {
-    "title": "How Can a Master’s in Data Science and AI Accelerate Your Career?",
+  {
     "slug": "transform-your-career-with-a-masters-in-data-science-and-ai",
-    "description": "Elevate your professional trajectory with a Master’s in Data Science and AI. Gain expertise, stay ahead in tech advancements, and unlock diverse career opportunities in this dynamic and rapidly evolving field.",
-    "categories": "Data Science",
-    "author": "Manas Kochar",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/data-driven-banner.png",
-    "readTime": " 4.17 mins",
-    "date": "Dec 18, 2023",
-    "draft": false
-  }
-},
-{
-  "slug": "exploring-ai-and-data-science-masters-programs-a-global-overview",
-  "frontmatter": {
-    "title": "A Global Perspective Towards AI and Data Science Master’s Programs",
+    "frontmatter": {
+      "title": "How Can a Master’s in Data Science and AI Accelerate Your Career?",
+      "slug": "transform-your-career-with-a-masters-in-data-science-and-ai",
+      "description": "Elevate your professional trajectory with a Master’s in Data Science and AI. Gain expertise, stay ahead in tech advancements, and unlock diverse career opportunities in this dynamic and rapidly evolving field.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/data-driven-banner.png",
+      "readTime": " 4.17 mins",
+      "date": "Dec 18, 2023",
+      "draft": false
+    }
+  },
+  {
     "slug": "exploring-ai-and-data-science-masters-programs-a-global-overview",
-    "description": "Explore cutting-edge AI and Data Science Master's programs with a global perspective. Gain expertise and insights from diverse perspectives to thrive in the dynamic field of artificial intelligence.",
-    "categories": "Data Science",
-    "author": "Manas Kochar",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/explore-banner.png",
-    "readTime": " 5.32 mins",
-    "date": "Dec 26, 2023",
-    "draft": false
-  }
-},
-{
-  "slug": "transformative-tales-elevating-careers-with-data-structures-and-algorithm-mastery",
-  "frontmatter": {
-    "title": "Real-Life Success Stories: How Data Structures and Algorithms Skills Opened Career Doors?",
+    "frontmatter": {
+      "title": "A Global Perspective Towards AI and Data Science Master’s Programs",
+      "slug": "exploring-ai-and-data-science-masters-programs-a-global-overview",
+      "description": "Explore cutting-edge AI and Data Science Master's programs with a global perspective. Gain expertise and insights from diverse perspectives to thrive in the dynamic field of artificial intelligence.",
+      "categories": "Data Science",
+      "author": "Manas Kochar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/explore-banner.png",
+      "readTime": " 5.32 mins",
+      "date": "Dec 26, 2023",
+      "draft": false
+    }
+  },
+  {
     "slug": "transformative-tales-elevating-careers-with-data-structures-and-algorithm-mastery",
-    "description": "Explore inspiring real-life success stories where proficiency in data structures and algorithms played a pivotal role, unlocking career opportunities and propelling individuals to achieve remarkable professional milestones.",
-    "categories": "Data Science",
-    "author": "Sonalisha Mohanty",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Real-Life-banner.png",
-    "readTime": " 5.38 mins",
-    "date": "Jan 03, 2024",
-    "draft": false
-  }
-},
-{
-  "slug": "exploring-2023s-top-ai-industries-and-jobs-for-experts",
-  "frontmatter": {
-    "title": "A Look at the Top Industries and Jobs for AI Experts in 2024",
+    "frontmatter": {
+      "title": "Real-Life Success Stories: How Data Structures and Algorithms Skills Opened Career Doors?",
+      "slug": "transformative-tales-elevating-careers-with-data-structures-and-algorithm-mastery",
+      "description": "Explore inspiring real-life success stories where proficiency in data structures and algorithms played a pivotal role, unlocking career opportunities and propelling individuals to achieve remarkable professional milestones.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Real-Life-banner.png",
+      "readTime": " 5.38 mins",
+      "date": "Jan 03, 2024",
+      "draft": false
+    }
+  },
+  {
     "slug": "exploring-2023s-top-ai-industries-and-jobs-for-experts",
-    "description": "Explore the leading industries and high-demand jobs for AI experts in 2024. Uncover opportunities in technology, healthcare, finance, and more as AI continues to revolutionize diverse sectors worldwide.",
-    "categories": "Hot Topics",
-    "author": "Sonalisha Mohanty",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Real-Life-banner.png",
-    "readTime": " 6.16 mins",
-    "date": "Jan 09, 2024",
-    "draft": false
-  }
-},
+    "frontmatter": {
+      "title": "A Look at the Top Industries and Jobs for AI Experts in 2024",
+      "slug": "exploring-2023s-top-ai-industries-and-jobs-for-experts",
+      "description": "Explore the leading industries and high-demand jobs for AI experts in 2024. Uncover opportunities in technology, healthcare, finance, and more as AI continues to revolutionize diverse sectors worldwide.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/Real-Life-banner.png",
+      "readTime": " 6.16 mins",
+      "date": "Jan 09, 2024",
+      "draft": false
+    }
+  },
 
-{
-  "slug": "transforming-indias-defense-the-data-science-revolution-unveiled",
-  "frontmatter": {
-    "title": " How Data Science is Revolutionizing India's Defense Capabilities?",
+  {
     "slug": "transforming-indias-defense-the-data-science-revolution-unveiled",
-    "description": "Data science is transforming India's defense capabilities by leveraging advanced analytics, artificial intelligence, and machine learning. Enhanced decision-making, predictive analysis, and improved strategic planning contribute to a robust national security framework.",
-    "categories": "Data Science",
-    "author": "Trisha Manna",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/deffence_baneer.png",
-    "readTime": " 4.23 mins",
-    "date": "Jan 16, 2024",
-    "draft": false
-  }
-},
+    "frontmatter": {
+      "title": " How Data Science is Revolutionizing India's Defense Capabilities?",
+      "slug": "transforming-indias-defense-the-data-science-revolution-unveiled",
+      "description": "Data science is transforming India's defense capabilities by leveraging advanced analytics, artificial intelligence, and machine learning. Enhanced decision-making, predictive analysis, and improved strategic planning contribute to a robust national security framework.",
+      "categories": "Data Science",
+      "author": "Trisha Manna",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/deffence_baneer.png",
+      "readTime": " 4.23 mins",
+      "date": "Jan 16, 2024",
+      "draft": false
+    }
+  },
 
-
-{
-  "slug": "unlocking-trends-a-guide-to-visualizing-stories-beyond-numbers",
-  "frontmatter": {
-    "title": "See the Story, Not Just the Numbers: A Guide to Trendy Data Visualization Tactics",
+  {
     "slug": "unlocking-trends-a-guide-to-visualizing-stories-beyond-numbers",
-    "description": "Unlock the power of data storytelling with our guide to trendy data visualization tactics. Learn to see the story behind the numbers, creating compelling narratives that resonate. Dive into effective visualization strategies!",
-    "categories": "Data Science",
-    "author": "Sonalisha Mohanty",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data_v_banner.png",
-    "readTime": " 6.2 mins",
-    "date": "Jan 19, 2024",
-    "draft": false
-  }
-},
+    "frontmatter": {
+      "title": "See the Story, Not Just the Numbers: A Guide to Trendy Data Visualization Tactics",
+      "slug": "unlocking-trends-a-guide-to-visualizing-stories-beyond-numbers",
+      "description": "Unlock the power of data storytelling with our guide to trendy data visualization tactics. Learn to see the story behind the numbers, creating compelling narratives that resonate. Dive into effective visualization strategies!",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data_v_banner.png",
+      "readTime": " 6.2 mins",
+      "date": "Jan 19, 2024",
+      "draft": false
+    }
+  },
 
-
-{
-  "slug": "mastering-machine-learning-key-skills-for-every-successful-data-scientist",
-  "frontmatter": {
-    "title": "Mastering Machine Learning:- Key Skills for Every Successful Data Scientist",
+  {
     "slug": "mastering-machine-learning-key-skills-for-every-successful-data-scientist",
-    "description": "Unlock the potential of machine learning with our expert-led courses. Gain essential skills for data scientists and elevate your career. Enroll now for comprehensive learning and mastery.",
-    "categories": "Data Science",
-    "author": "Krishna Kumar",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/master-ml-banner.png",
-    "readTime": " 4.91 mins",
-    "date": "Jan 23, 2024",
-    "draft": false
-  }
-},
+    "frontmatter": {
+      "title": "Mastering Machine Learning:- Key Skills for Every Successful Data Scientist",
+      "slug": "mastering-machine-learning-key-skills-for-every-successful-data-scientist",
+      "description": "Unlock the potential of machine learning with our expert-led courses. Gain essential skills for data scientists and elevate your career. Enroll now for comprehensive learning and mastery.",
+      "categories": "Data Science",
+      "author": "Krishna Kumar",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/master-ml-banner.png",
+      "readTime": " 4.91 mins",
+      "date": "Jan 23, 2024",
+      "draft": false
+    }
+  },
 
-{
-  "slug": "decoding-ai-impact-on-cybersecurity-navigating-realities-and-myths-2024",
-  "frontmatter": {
-    "title": "Beyond Buzzwords:- Realities and Myths of AI in Cybersecurity for 2024",
+  {
     "slug": "decoding-ai-impact-on-cybersecurity-navigating-realities-and-myths-2024",
-    "description": "Separating hype from truth, explore the evolving landscape of AI in cybersecurity for 2024. Delve into the realities and dispel myths surrounding its impact on safeguarding digital environments.",
-    "categories": "Data Science",
-    "author": "Trisha Manna",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/beyond-banner.png",
-    "readTime": " 5.54 mins",
-    "date": "Jan 29, 2024",
-    "draft": false 
-  }
-},
+    "frontmatter": {
+      "title": "Beyond Buzzwords:- Realities and Myths of AI in Cybersecurity for 2024",
+      "slug": "decoding-ai-impact-on-cybersecurity-navigating-realities-and-myths-2024",
+      "description": "Separating hype from truth, explore the evolving landscape of AI in cybersecurity for 2024. Delve into the realities and dispel myths surrounding its impact on safeguarding digital environments.",
+      "categories": "Data Science",
+      "author": "Trisha Manna",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/beyond-banner.png",
+      "readTime": " 5.54 mins",
+      "date": "Jan 29, 2024",
+      "draft": false
+    }
+  },
 
-{
-  "slug": "the-role-of-data-and-ai-in-indias-ambitious-gaganyaan-mission",
-  "frontmatter": {
-    "title": "The Role of Data & AI in India's Ambitious GAGANYAAN Mission",
+  {
     "slug": "the-role-of-data-and-ai-in-indias-ambitious-gaganyaan-mission",
-    "description": "Discover how Data & AI drive success in India's GAGANYAAN mission. Explore the vital role of technology in space exploration. Read more on our blog.",
-    "categories": "Data Science",
-    "author": "Sonalisha Mohanty",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/chandryan-banner.png",
-    "readTime": " 5.37 mins",
-    "date": "Jan 31, 2024",
-    "draft": false 
-  }
-},
+    "frontmatter": {
+      "title": "The Role of Data & AI in India's Ambitious GAGANYAAN Mission",
+      "slug": "the-role-of-data-and-ai-in-indias-ambitious-gaganyaan-mission",
+      "description": "Discover how Data & AI drive success in India's GAGANYAAN mission. Explore the vital role of technology in space exploration. Read more on our blog.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/chandryan-banner.png",
+      "readTime": " 5.37 mins",
+      "date": "Jan 31, 2024",
+      "draft": false
+    }
+  },
 
-{
-  "slug": "mastering-data-science-behavioral-interviews-a-beginners-comprehensive-guide",
-  "frontmatter": {
-    "title": "A Beginner's Guide to Answering Behavioral Interview Questions for Data Science Roles",
+  {
     "slug": "mastering-data-science-behavioral-interviews-a-beginners-comprehensive-guide",
-    "description": "Unlock success in data science interviews with this beginner's guide. Learn how to navigate behavioral interview questions effectively, showcasing your skills and experience with confidence and precision.",
-    "categories": "Data Science",
-    "author": "Sonalisha Mohanty",
-    "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ss_banner.png",
-    "readTime": " 7.12 mins",
-    "date": "Feb 07, 2024",
-    "draft": false 
+    "frontmatter": {
+      "title": "A Beginner's Guide to Answering Behavioral Interview Questions for Data Science Roles",
+      "slug": "mastering-data-science-behavioral-interviews-a-beginners-comprehensive-guide",
+      "description": "Unlock success in data science interviews with this beginner's guide. Learn how to navigate behavioral interview questions effectively, showcasing your skills and experience with confidence and precision.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ss_banner.png",
+      "readTime": " 7.12 mins",
+      "date": "Feb 07, 2024",
+      "draft": false
+    }
+  },
+  {
+    "slug": "balancing-a-full-time-job-and-pursuing-a-career-in-machine-learning",
+    "frontmatter": {
+      "title": "Efficient Strategies for Balancing a Full-Time Job and Pursuing a Career in Machine Learning",
+      "slug": "balancing-a-full-time-job-and-pursuing-a-career-in-machine-learning",
+      "description": "Balance work and machine learning seamlessly. Strategies for success in a full-time job in 2024. Elevate your career. Read our latest blog now!",
+      "categories": "Machine Learning",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/full-time-banner.png",
+      "readTime": " 6.5 mins",
+      "date": "Feb 20, 2024",
+      "draft": false
+    }
   }
-}
-
-
-
 ]

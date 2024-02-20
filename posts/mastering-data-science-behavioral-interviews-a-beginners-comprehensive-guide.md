@@ -127,7 +127,7 @@ The rise of data science in firms and jobs has changed its landscape with thrivi
 - _Technical round_</br>
 - _Behavioral round_</br>
 
-Hence, experts eager to cherish their data scientist careers must try to upgrade their skills to attend behavioral interviews. Regular practice with various interview questions and attending online mock interviews can help. Also, experts can enroll in a _<b><span style="text-decoration:underline;">Master’s in CS: Data Science and AI</span></b>_ program to enrich their knowledge. Its _Job Assist Program_ guides learners with mock interviews that will help them clear behavioral interview rounds.</br>
+Hence, experts eager to cherish their data scientist careers must try to upgrade their skills to attend behavioral interviews. Regular practice with various interview questions and attending online mock interviews can help. Also, experts can enroll in a _<b><a href="https://www.learnbay.co/datascience/data-science-and-ai-masters-in-cs" target="_blank">Master’s in CS: Data Science and AI</a></b>_ program to enrich their knowledge. Its _Job Assist Program_ guides learners with mock interviews that will help them clear behavioral interview rounds.</br>
 
 Plus, upskilling with this master’s degree attests to your career with a globally recognized degree from _<b>Woolf University</b>_ followed by dual certification (_<b>IBM & Microsoft</b>_).</br></br>
 
