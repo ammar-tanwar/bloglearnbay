@@ -3147,6 +3147,20 @@
       "readTime": " 6.5 mins",
       "date": "Feb 20, 2024",
       "draft": false
-    }
+    }  
+  },
+  {
+    "slug": "quick-tips-for-balancing-a-hectic-work-schedule-with-data-science-studies",
+    "frontmatter": {
+      "title": "Quick Tips for Balancing a Hectic Work Schedule with Data Science Studies",
+      "slug": "quick-tips-for-balancing-a-hectic-work-schedule-with-data-science-studies",
+      "description": "Discover essential tips to balance work and data science studies. Optimise your schedule for success with practical insights & efficient strategies.",
+      "categories": "Machine Learning",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/quccik-banner.png",
+      "readTime": " 5.5 mins",
+      "date": "Feb 27, 2024",
+      "draft": false
+    }  
   }
 ]
