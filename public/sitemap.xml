@@ -1156,4 +1156,12 @@
   <changefreq>daily</changefreq>
 <priority>0.90</priority> 
 </url>
+
+
+<url>
+  <loc>https://blog.learnbay.co/data-alchemy-turning-raw-information-into-actionable-insights</loc>
+  <lastmod>2024-03-01</lastmod>
+  <changefreq>daily</changefreq>
+<priority>0.90</priority> 
+</url>
 </urlset>

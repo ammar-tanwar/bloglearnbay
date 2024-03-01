@@ -3155,11 +3155,26 @@
       "title": "Quick Tips for Balancing a Hectic Work Schedule with Data Science Studies",
       "slug": "quick-tips-for-balancing-a-hectic-work-schedule-with-data-science-studies",
       "description": "Discover essential tips to balance work and data science studies. Optimise your schedule for success with practical insights & efficient strategies.",
-      "categories": "Machine Learning",
+      "categories": "Data Science",
       "author": "Sonalisha Mohanty",
       "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/quccik-banner.png",
       "readTime": " 5.5 mins",
       "date": "Feb 27, 2024",
+      "draft": false
+    }  
+  },
+
+  {
+    "slug": "data-alchemy-turning-raw-information-into-actionable-insights",
+    "frontmatter": {
+      "title": "Data Alchemy: Turning Raw Information into Actionable Business Insights",
+      "slug": "data-alchemy-turning-raw-information-into-actionable-insights",
+      "description": "Turn data into business gold with Data Alchemy. Unlock actionable insights effortlessly. Elevate your business game! Read our latest blog now.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/quccik-banner.png",
+      "readTime": " 4.5 mins",
+      "date": "Mar 01, 2024",
       "draft": false
     }  
   }
