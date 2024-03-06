@@ -1164,4 +1164,10 @@
   <changefreq>daily</changefreq>
 <priority>0.90</priority> 
 </url>
+<url>
+  <loc>https://blog.learnbay.co/devops-trends-and-innovations-to-watch-in-2024</loc>
+  <lastmod>2024-03-06</lastmod>
+  <changefreq>daily</changefreq>
+<priority>0.90</priority> 
+</url>
 </urlset>
