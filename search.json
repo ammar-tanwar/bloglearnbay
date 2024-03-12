@@ -3192,5 +3192,19 @@
       "date": "Mar 06, 2024",
       "draft": false
     }  
+  },
+  {
+    "slug": "trending-machine-learning-projects-to-boost-your-skills-in-2024",
+    "frontmatter": {
+      "title": "Trending Machine Learning Projects to Elevate Your Skills in 2024",
+      "slug": "trending-machine-learning-projects-to-boost-your-skills-in-2024",
+      "description": "Explore cutting-edge machine learning projects to enhance your skills in 2024. Stay ahead of the curve with these trending projects designed to elevate your skills",
+      "categories": "Machine Learning",
+      "author": "Nivin Biswas",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bitcoin-banner.png",
+      "readTime": " 9 mins",
+      "date": "Mar 12, 2024",
+      "draft": false
+    }  
   }
 ]
