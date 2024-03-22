@@ -54,10 +54,12 @@ export default function Sidebar() {
         type="text"
         placeholder="Enter search term..."
       />
-      <Link href={{ pathname: '/Search', query: { q: search?.toLowerCase() } }} >
-        <a className={styles.searchicon} id="myBtn"><Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/search.png" alt="" height={20} width={20} /></a>
+      <Link
+        href={{ pathname: '/Search', query: { q: search?.toLowerCase() } }}
+        className={styles.searchicon}
+        id="myBtn">
+        <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/search.png" alt="" height={20} width={20} />
       </Link>   
     </div>
-
-  )
+  );
 }

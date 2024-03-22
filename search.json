@@ -3202,5 +3202,20 @@
       "date": "Mar 14, 2024",
       "draft": false
     }
+  },
+
+  {
+    "slug": "ai-cybersecurity-future-proofing-business-risks",
+    "frontmatter": {
+      "title": "Future-Proofing Enterprise Cybersecurity with AI: Vulnerabilities and Business Risks",
+      "slug": "ai-cybersecurity-future-proofing-business-risks",
+      "description": "Learn how AI is revolutionising cybersecurity to safeguard businesses against future risks. Learn about the latest strategies for future-proofing your enterprise.",
+      "categories": "Artificial Intelligence ",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cyber-ai-banner.png",
+      "readTime": " 5.5 mins",
+      "date": "Mar 22, 2024",
+      "draft": false
+    }
   }
 ]

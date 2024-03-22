@@ -97,7 +97,7 @@ const Navbar = () => {
               quality={100}
               objectFit="contain"
               width={mobile ? "180" : "230"}
-              height="60px"
+              height="60"
             />
           </a>
           {mobile ? (
