@@ -55,12 +55,12 @@ export default function Search() {
           {results.map(({ id, title }) => (
             <li className={styles.result} key={id}>
               <Link href="/[id]" as={`/${id}`}>
-                <a>{title}</a>
+                {title}
               </Link>
             </li>
           ))}
         </ul>
       ) }
     </div>
-  )
+  );
 }
