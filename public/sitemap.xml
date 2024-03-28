@@ -1192,4 +1192,11 @@
   <changefreq>daily</changefreq>
 <priority>0.90</priority> 
 </url>
+
+<url>
+  <loc>https://blog.learnbay.co/augmented-data-scientist-trends-in-2024-redefining-roles</loc>
+  <lastmod>2024-03-28</lastmod>
+  <changefreq>daily</changefreq>
+<priority>0.90</priority> 
+</url>
 </urlset>
