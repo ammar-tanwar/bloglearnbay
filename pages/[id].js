@@ -306,7 +306,7 @@ export default function Post({ postData, posts, updatesd }) {
                 </div>
               </div> */}
               <div>
-                <h1 className={styles.rpH1}>Related Posts</h1>
+                <h2 className={styles.rpH1}>Related Posts</h2>
                 <div className={styles.relatePost}>
                   {posts.slice(1, 6).map((post, i) => {
                     return (
