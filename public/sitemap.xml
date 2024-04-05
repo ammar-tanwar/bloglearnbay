@@ -1205,4 +1205,11 @@
   <changefreq>daily</changefreq>
 <priority>0.90</priority> 
 </url>
+
+<url>
+  <loc>https://blog.learnbay.co/malware-that-steals-cryptocurrency-through-your-photos</loc>
+  <lastmod>2024-04-05</lastmod>
+  <changefreq>daily</changefreq>
+<priority>0.90</priority> 
+</url>
 </urlset>
