@@ -3260,5 +3260,19 @@
       "date": "Apr 05, 2024",
       "draft": false
     }
+  },
+  {
+    "slug": "physical-destruction-of-data-storage",
+    "frontmatter": {
+      "title": "Physical Destruction of Data Storage – Important Things to Consider",
+      "slug": "physical-destruction-of-data-storage",
+      "description": "Explore essential factors for securely destroying data storage. Ensure your sensitive information remains safe and secure. Read our latest blog now.",
+      "categories": "Hot Topics",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data_store_banner.png",
+      "readTime": " 5 mins",
+      "date": "Apr 15, 2024",
+      "draft": false
+    }
   }
 ]
