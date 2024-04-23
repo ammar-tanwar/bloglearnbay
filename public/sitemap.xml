@@ -1219,4 +1219,11 @@
   <changefreq>daily</changefreq>
 <priority>0.90</priority> 
 </url>
+
+<url>
+  <loc>https://blog.learnbay.co/chatgpt-vs-google-gemini</loc>
+  <lastmod>2024-04-23</lastmod>
+  <changefreq>daily</changefreq>
+<priority>0.90</priority> 
+</url>
 </urlset>
