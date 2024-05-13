@@ -1226,4 +1226,11 @@
   <changefreq>daily</changefreq>
 <priority>0.90</priority> 
 </url>
+
+<url>
+  <loc>https://blog.learnbay.co/top-courses-in-ai-cybersecurity-data-science-ml</loc>
+  <lastmod>2024-05-13</lastmod>
+  <changefreq>daily</changefreq>
+<priority>0.90</priority> 
+</url>
 </urlset>

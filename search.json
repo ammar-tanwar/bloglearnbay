@@ -3289,5 +3289,19 @@
       "date": "Apr 23, 2024",
       "draft": false
     }
+  },
+  {
+    "slug": "top-courses-in-ai-cybersecurity-data-science-ml",
+    "frontmatter": {
+      "title": "Top Courses to Master: AI, Cybersecurity, Data Science, Machine Learning      ",
+      "slug": "top-courses-in-ai-cybersecurity-data-science-ml",
+      "description": "Discover essential courses in AI, cybersecurity, data science, and machine learning to advance your skills and career.",
+      "categories": "Data Science",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/top-course-banner.png",
+      "readTime": " 5.5 mins",
+      "date": "May 13, 2024",
+      "draft": false
+    }
   }
 ]
