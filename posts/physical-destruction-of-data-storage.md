@@ -7,7 +7,7 @@ modified_time: "2024-04-15T13:25:31+05:30"
 desc: "Explore essential factors for securely destroying data storage. Ensure your sensitive information remains safe and secure. Read our latest blog now."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data_store_banner.png"
-headerAlt: "Physical destruction of data storage: key considerations"
+headerAlt: "A banner image titled, 'Physical Destruction of Data Storage – Important Things to Consider' shows a security lock with various features."
 date: "Apr 15, 2024"
 tag:
   [
@@ -72,7 +72,7 @@ _Physical disposal of data storage devices takes place in three forms –_
 - _<b>Drillers:</b>_ It is an effective way of destroying data by drilling holes in the drives. It disposes of the data and limits unfair access to it.<br/>
 - _<b>Crushing:</b>_ It physically destroys data with a metal press that breaks the device into smaller pieces. It traces the elements with vital data stored and crushes it.<br/>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data_store.png" style="width:100%" class="img" alt="An image shows a logo of bitcoin with secure framework. "/></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data_store.png" style="width:100%" class="img" alt="An image shows various graphs and analytical data sets that show why we need to destroy the data physically."/></br>
 
 ## When You Should Physically Destroy the Data?
 
@@ -96,7 +96,7 @@ Firms deal with vast amounts of employee data. Some firms store employee’s dat
 
 Regulatory authorities like PCI DSS, GDPR, and many more impose strict data security policies. Physical disposal of data storage follows <b>legal compliance</b> to secure data from hacking or unauthorized use.<br/>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data_store1.png" style="width:100%" class="img" alt="An image shows a cracking of the laptop and destruction of data storage.  "/></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/data_store1.png" style="width:100%" class="img" alt="An image shows a cracking of the laptop and destruction of data storage.   "/></br>
 
 ## Benefits of Physical Destruction of Data Storage
 

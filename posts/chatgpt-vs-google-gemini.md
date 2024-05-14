@@ -20,13 +20,12 @@ category: "Hot Topics"
 
 cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
 catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
-authortitle: "Sonalisha Mohanty - An Enthusiastic Technical Content Creator at Learnbay"
-adesc: "Sonalisha Mohanty, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
-
-author: "Sonalisha Mohanty"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
-authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
-authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
+authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Learnbay"
+adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
+author: "Nivin Biswas"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "5 mins"
 video: ""
@@ -61,7 +60,7 @@ When it comes to booming digital creations, nothing can beat the power of AI at 
 
 ChatGPT and Gemini are the latest LLM creations in the present era. These two models intend to reshape the digital frontier with their proven expertise. Yet, their unique features affect their uses and scopes to rule over the AI-driven future.<br/>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gemini_one.png" style="width:100%" class="img" alt="An image shows a logo of bitcoin with secure framework. "/></br>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gemini_one.png" style="width:100%" class="img" alt="An image shows the comparison between ChatGPT and Google Gemini."/></br>
 
 ## Overview of OpenAI’s ChatGPT & Google Gemini
 
@@ -198,7 +197,7 @@ Gemini ad network – real-time example of the usefulness of this tool.
   </tr>
 </table>
 <br/><br/>
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gemini.png" style="width:100%" class="img" alt="An image shows a logo of bitcoin with secure framework. "/></br><br/>
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/gemini.png" style="width:100%" class="img" alt="An image shows an Overview of OpenAI’s ChatGPT & Google Gemini. "/></br><br/>
 
 ## Future Implications
 
@@ -206,7 +205,7 @@ Owing to the digital shifts and rising LLMs, Google launched the Gemini model. T
 
 If you are a working pro in any domain, you may come across the hands-on use of LLMs. Since Gemini is trending, developing a basic knowledge of AI tools is a need of the hour. Upskilling with an <a href="https://www.learnbay.co/datascience/advance-data-science-certification-courses" target="_blank"> Advance Data Science and AI Program</a> makes way for a thriving career in the tech era. Its generative AI-driven course syllabus keeps you updated with the latest AI tools and future trends. Hands-on learning of tools via live projects helps you to attain proven success. Plus, globally-valued industry certificates (_<b>IBM & Microsoft</b>_) enrich career values.<br/><br/>
 
-## FAQs:–  
+## FAQs:–
 
 ### 1. What are the capabilities of Gemini AI?
 
