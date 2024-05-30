@@ -155,7 +155,7 @@ Here are some project ideas you can work on to level-up your portfolio:
 
 1. Medical image segmentation: Medical image segmentation is the process of extracting areas of interest from 3D image data, such as Magnetic Resonance Imaging (MRI)  or Computerized Tomography (CT) scans. The main purpose of this project is to identify the areas of anatomy required for a particular investigation. 
  
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health3.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health3.png"   class="img"  />
 
 
  
@@ -163,27 +163,27 @@ Here are some project ideas you can work on to level-up your portfolio:
 
 1. Ultrasound nerve segmentation: It is very crucial to accurately identify the neural structure in ultrasound images before inserting the patient’s pain catheter. In this project, you’ll learn how cutting-edge deep learning techniques are utilized to develop an end-to-end system where a person just feeds on an ultrasound image of the region to a deep learning model where it segments the nerve seen in the image.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health4.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health4.png"   class="img"  />
 
  
 <a href="https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=train_masks.csv" target="_blank" rel="nofollow">Ultrasound Nerve Segmentation dataset from Kaggle</a>
 
 1. Heart failure prediction: Heart failure is a common consequence of cardiovascular diseases (CVDs) resulting in an increase in mortality rate. In this project, you’ll build a Machine Learning model that predicts mortality by heart failure. Throughout this project, you’ll learn multiple ML algorithms including Random Forest and K-NN, data wrangling, and filtering techniques.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health5.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health5.png"   class="img"  />
 
  
 <a href="https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data" target="_blank" rel="nofollow">Heart failure prediction dataset from Kaggle</a>
 1. Depression, anxiety, and stress prediction: Depression and stress Detection is the challenge of identifying signs of depression in individuals. This sign may be identified in several behavioral changes in a person. These symptoms can be predicted by developing a model with AI and ML algorithms such as CNN, <a href="https://www.learnbay.co/data-science-course/support-vector-machines/" target="_blank">support vector machine</a>, KNN classifier, and linear regression.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health6.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health6.png"   class="img"  />
 
  
 <a href="https://www.kaggle.com/datasets/arashnic/the-depression-dataset" target="_blank" rel="nofollow">Depression analysis dataset by Kaggle</a>
 
 1. Breast cancer prediction: Breast cancer affects approximately 12% of women worldwide and is on the verge to rise even more. This project helps doctors to predict whether a patient has breast cancer or not. You’ll be required to create an ML model to classify malignant and benign tumors by utilizing the supervised Machine Learning classifier technique.
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health7.jpg"   class="img"  />
+<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/health7.png"   class="img"  />
 
  
 <a href="https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction" target="_blank" rel="nofollow">Breast cancer prediction dataset by Kaggle</a>
