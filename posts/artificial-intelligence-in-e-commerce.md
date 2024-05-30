@@ -86,7 +86,7 @@ Have you ever experienced how E-commerce websites like Amazon are constantly sho
 ## 10. Sales Improvement 
  Artificial intelligence applications can generate and predict the accurate forecast of the E-commerce business. The study of historical data, data analytics, and latest trends can help in optimizing the resource allocation, build a healthy pipeline and analyze the team performance. The managers can get a better insight into the latest trends in sales. They can analyze the trends and can improve the sales by making strategies well before time.
 
-If you want to learn Artificial Intelligence, know the Artificial Intelligence course of <a href="http://learnbay.co/" target="_blank">Learnbay</a> in <a href="https://blog.learnbay.co/artificial-intelligence-certification/" target="_blank">here</a>.
+If you want to learn Artificial Intelligence, know the Artificial Intelligence course of <a href="http://learnbay.co/" target="_blank">Learnbay</a> in <a href="https://www.learnbay.co/datascience/artificial-intelligence-certification-course" target="_blank">here</a>.
 
 
 
